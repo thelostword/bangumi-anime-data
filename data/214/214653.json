@@ -1,0 +1,81 @@
+{
+  "id": 214653,
+  "name": "現世守護神 ぴーひょろ一家",
+  "name_cn": "",
+  "summary": "",
+  "date": "1988-09-01",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/21/4c/214653_ix3Px.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/21/4c/214653_ix3Px.jpg"
+  },
+  "eps": 3,
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 1,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 4
+    },
+    {
+      "name": "1988",
+      "count": 3
+    },
+    {
+      "name": "小出一巳",
+      "count": 2
+    },
+    {
+      "name": "近藤真智子",
+      "count": 2
+    },
+    {
+      "name": "出﨑哲",
+      "count": 2
+    },
+    {
+      "name": "OVA-01",
+      "count": 1
+    },
+    {
+      "name": "MagicBus",
+      "count": 1
+    },
+    {
+      "name": "矢尾一樹",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "中原茂",
+      "count": 1
+    },
+    {
+      "name": "東京ムービー新社",
+      "count": 1
+    },
+    {
+      "name": "戸田恵子",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

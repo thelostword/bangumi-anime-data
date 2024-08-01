@@ -1,0 +1,153 @@
+{
+  "id": 139022,
+  "name": "コンクリート・レボルティオ～超人幻想～",
+  "name_cn": "Concrete Revolutio 超人幻想",
+  "summary": "时值“神化”时代的东京，充斥着无数的英雄——“超人”。他们的诞生理由各有不同。然而对于这些超人的跋扈，日本政府绝不打算坐视不管.....",
+  "date": "2015-10-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e7/8c/139022_DygC6.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e7/8c/139022_DygC6.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 932,
+    "total": 2899,
+    "count": {
+      "1": 5,
+      "2": 5,
+      "3": 6,
+      "4": 23,
+      "5": 71,
+      "6": 347,
+      "7": 929,
+      "8": 1075,
+      "9": 335,
+      "10": 103
+    },
+    "score": 7.5
+  },
+  "tags": [
+    {
+      "name": "BONES",
+      "count": 1085
+    },
+    {
+      "name": "原创",
+      "count": 704
+    },
+    {
+      "name": "2015年10月",
+      "count": 545
+    },
+    {
+      "name": "TV",
+      "count": 501
+    },
+    {
+      "name": "水岛精二",
+      "count": 480
+    },
+    {
+      "name": "2015",
+      "count": 279
+    },
+    {
+      "name": "超能力",
+      "count": 270
+    },
+    {
+      "name": "战斗",
+      "count": 262
+    },
+    {
+      "name": "超人幻想",
+      "count": 250
+    },
+    {
+      "name": "会川升",
+      "count": 181
+    },
+    {
+      "name": "會川昇",
+      "count": 112
+    },
+    {
+      "name": "石川界人",
+      "count": 83
+    },
+    {
+      "name": "水島精二",
+      "count": 80
+    },
+    {
+      "name": "豊崎愛生",
+      "count": 40
+    },
+    {
+      "name": "奇幻",
+      "count": 38
+    },
+    {
+      "name": "科幻",
+      "count": 32
+    },
+    {
+      "name": "2015年",
+      "count": 16
+    },
+    {
+      "name": "季番",
+      "count": 16
+    },
+    {
+      "name": "特摄",
+      "count": 13
+    },
+    {
+      "name": "剧情",
+      "count": 13
+    },
+    {
+      "name": "丰崎爱生",
+      "count": 11
+    },
+    {
+      "name": "历史",
+      "count": 11
+    },
+    {
+      "name": "热血",
+      "count": 10
+    },
+    {
+      "name": "作画",
+      "count": 10
+    },
+    {
+      "name": "TVA",
+      "count": 9
+    },
+    {
+      "name": "伊藤嘉之",
+      "count": 9
+    },
+    {
+      "name": "萝卜",
+      "count": 9
+    },
+    {
+      "name": "辻真先",
+      "count": 9
+    },
+    {
+      "name": "2015秋",
+      "count": 8
+    },
+    {
+      "name": "骨头社",
+      "count": 7
+    }
+  ],
+  "locked": false
+}

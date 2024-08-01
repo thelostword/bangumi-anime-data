@@ -1,0 +1,153 @@
+{
+  "id": 42786,
+  "name": "マギ The labyrinth of magic",
+  "name_cn": "天方魔谭MAGI",
+  "summary": "突然间于世界此起彼伏出现的古代王朝遗迹群“迷宫（DUNGEON）”里、听说正长眠著保有不可思议力量被称作“DJINN金器”之魔法道具以及满山金银财宝。 沙漠中的绿洲都市里、于QISHAN劳动干活之少年・阿里巴巴也是因“攻略迷宫”梦想一获千金的其中1人。某日、与持有不可思议力量的少年阿拉丁邂逅、一起指向难攻不落的迷宫。阿拉丁与阿里巴巴的大冒险如今开始。\r\n",
+  "date": "2012-10-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/9d/12/42786_kXkkg.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/9d/12/42786_kXkkg.jpg"
+  },
+  "eps": 25,
+  "rating": {
+    "rank": 2846,
+    "total": 2942,
+    "count": {
+      "1": 14,
+      "2": 5,
+      "3": 24,
+      "4": 72,
+      "5": 169,
+      "6": 623,
+      "7": 1132,
+      "8": 735,
+      "9": 90,
+      "10": 78
+    },
+    "score": 6.9
+  },
+  "tags": [
+    {
+      "name": "魔笛MAGI",
+      "count": 652
+    },
+    {
+      "name": "2012年10月",
+      "count": 555
+    },
+    {
+      "name": "A-1Pictures",
+      "count": 477
+    },
+    {
+      "name": "TV",
+      "count": 314
+    },
+    {
+      "name": "大高忍",
+      "count": 211
+    },
+    {
+      "name": "2012",
+      "count": 182
+    },
+    {
+      "name": "漫画改",
+      "count": 181
+    },
+    {
+      "name": "マギ",
+      "count": 168
+    },
+    {
+      "name": "地上最强阿拉丁",
+      "count": 168
+    },
+    {
+      "name": "MAGI",
+      "count": 147
+    },
+    {
+      "name": "正太",
+      "count": 138
+    },
+    {
+      "name": "JUMP",
+      "count": 138
+    },
+    {
+      "name": "奇幻",
+      "count": 117
+    },
+    {
+      "name": "花泽香菜",
+      "count": 102
+    },
+    {
+      "name": "漫改",
+      "count": 62
+    },
+    {
+      "name": "战斗",
+      "count": 60
+    },
+    {
+      "name": "魔奇少年",
+      "count": 54
+    },
+    {
+      "name": "热血",
+      "count": 48
+    },
+    {
+      "name": "木村良平",
+      "count": 45
+    },
+    {
+      "name": "A-1",
+      "count": 38
+    },
+    {
+      "name": "冒险",
+      "count": 25
+    },
+    {
+      "name": "梶裕贵",
+      "count": 25
+    },
+    {
+      "name": "舛成孝二",
+      "count": 21
+    },
+    {
+      "name": "十月番",
+      "count": 21
+    },
+    {
+      "name": "吉野弘幸",
+      "count": 19
+    },
+    {
+      "name": "小野大辅",
+      "count": 14
+    },
+    {
+      "name": "福山润",
+      "count": 13
+    },
+    {
+      "name": "2012年",
+      "count": 13
+    },
+    {
+      "name": "户松遥",
+      "count": 13
+    },
+    {
+      "name": "石原夏织",
+      "count": 11
+    }
+  ],
+  "locked": false
+}

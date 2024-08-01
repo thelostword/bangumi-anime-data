@@ -1,0 +1,153 @@
+{
+  "id": 106314,
+  "name": "selector spread WIXOSS",
+  "name_cn": "选择扩散者WIXOSS",
+  "summary": "改编自TAKARA TOMY公司的卡牌桌游《WIXOSS》。讲述了一群少女因为各自的欲望而卷入了危险的卡牌游戏的故事。失去小玉的小凑露子陷入深深的绝望，却又在意外的场合以最不幸的方式重逢........真相渐渐浮出水面……",
+  "date": "2014-10-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/17/ac/106314_177Q4.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/17/ac/106314_177Q4.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 3742,
+    "total": 1216,
+    "count": {
+      "1": 3,
+      "2": 2,
+      "3": 9,
+      "4": 28,
+      "5": 94,
+      "6": 347,
+      "7": 474,
+      "8": 211,
+      "9": 26,
+      "10": 22
+    },
+    "score": 6.7
+  },
+  "tags": [
+    {
+      "name": "J.C.STAFF",
+      "count": 303
+    },
+    {
+      "name": "2014年10月",
+      "count": 266
+    },
+    {
+      "name": "原创",
+      "count": 253
+    },
+    {
+      "name": "百合",
+      "count": 229
+    },
+    {
+      "name": "卡牌",
+      "count": 223
+    },
+    {
+      "name": "TV",
+      "count": 148
+    },
+    {
+      "name": "岡田麿里",
+      "count": 126
+    },
+    {
+      "name": "选择感染者",
+      "count": 113
+    },
+    {
+      "name": "冈田磨里",
+      "count": 92
+    },
+    {
+      "name": "2014",
+      "count": 88
+    },
+    {
+      "name": "佐藤卓哉",
+      "count": 45
+    },
+    {
+      "name": "WIXOSS",
+      "count": 43
+    },
+    {
+      "name": "SelectorInfectedWIXOSS",
+      "count": 27
+    },
+    {
+      "name": "战斗",
+      "count": 22
+    },
+    {
+      "name": "致郁",
+      "count": 11
+    },
+    {
+      "name": "续作",
+      "count": 9
+    },
+    {
+      "name": "2014年",
+      "count": 9
+    },
+    {
+      "name": "冈田麿里",
+      "count": 8
+    },
+    {
+      "name": "加隈亚衣",
+      "count": 7
+    },
+    {
+      "name": "轻百合",
+      "count": 6
+    },
+    {
+      "name": "佐仓绫音",
+      "count": 6
+    },
+    {
+      "name": "奇幻",
+      "count": 5
+    },
+    {
+      "name": "游戏改",
+      "count": 5
+    },
+    {
+      "name": "原创动画",
+      "count": 4
+    },
+    {
+      "name": "久野美咲",
+      "count": 4
+    },
+    {
+      "name": "佐倉綾音",
+      "count": 4
+    },
+    {
+      "name": "坂井久太",
+      "count": 4
+    },
+    {
+      "name": "濑户麻沙美",
+      "count": 4
+    },
+    {
+      "name": "茅野爱衣",
+      "count": 4
+    },
+    {
+      "name": "TVA",
+      "count": 3
+    }
+  ],
+  "locked": false
+}

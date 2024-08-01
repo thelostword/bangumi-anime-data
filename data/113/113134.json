@@ -1,0 +1,153 @@
+{
+  "id": 113134,
+  "name": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイヘルツ!",
+  "name_cn": "Fate/kaleid liner 魔法少女☆伊莉雅 2wei Herz!",
+  "summary": "在与巴泽特经历一场恶战之后，伊莉雅她们好不容易才回到平稳的日常当中，但就在此时，凛和露维雅却发现了潜藏在地底的第8张职阶卡片！为了回收这第8张卡片，伊莉雅她们不得不与巴泽特合作，但回收卡片的困难程度却超出了她们的想象……",
+  "date": "2015-07-24",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/0f/31/113134_NkaCg.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/0f/31/113134_NkaCg.jpg"
+  },
+  "eps": 10,
+  "rating": {
+    "rank": 1936,
+    "total": 3317,
+    "count": {
+      "1": 5,
+      "2": 4,
+      "3": 7,
+      "4": 19,
+      "5": 102,
+      "6": 548,
+      "7": 1509,
+      "8": 934,
+      "9": 105,
+      "10": 84
+    },
+    "score": 7.2
+  },
+  "tags": [
+    {
+      "name": "百合",
+      "count": 739
+    },
+    {
+      "name": "Type-Moon",
+      "count": 613
+    },
+    {
+      "name": "魔法少女☆伊莉雅",
+      "count": 554
+    },
+    {
+      "name": "2015年7月",
+      "count": 514
+    },
+    {
+      "name": "漫画改",
+      "count": 394
+    },
+    {
+      "name": "TV",
+      "count": 376
+    },
+    {
+      "name": "SILVERLINK.",
+      "count": 360
+    },
+    {
+      "name": "魔法少女",
+      "count": 322
+    },
+    {
+      "name": "大沼心",
+      "count": 298
+    },
+    {
+      "name": "Fate",
+      "count": 255
+    },
+    {
+      "name": "2015",
+      "count": 225
+    },
+    {
+      "name": "伊莉雅",
+      "count": 130
+    },
+    {
+      "name": "漫改",
+      "count": 113
+    },
+    {
+      "name": "战斗",
+      "count": 56
+    },
+    {
+      "name": "SILVERLINK",
+      "count": 43
+    },
+    {
+      "name": "萝莉",
+      "count": 41
+    },
+    {
+      "name": "奇幻",
+      "count": 40
+    },
+    {
+      "name": "神保昌登",
+      "count": 32
+    },
+    {
+      "name": "搞笑",
+      "count": 22
+    },
+    {
+      "name": "萌",
+      "count": 21
+    },
+    {
+      "name": "日常",
+      "count": 20
+    },
+    {
+      "name": "2015年",
+      "count": 18
+    },
+    {
+      "name": "续作",
+      "count": 16
+    },
+    {
+      "name": "SILVER_LINK.",
+      "count": 11
+    },
+    {
+      "name": "轻百合",
+      "count": 10
+    },
+    {
+      "name": "季番",
+      "count": 8
+    },
+    {
+      "name": "名冢佳织",
+      "count": 7
+    },
+    {
+      "name": "型月",
+      "count": 7
+    },
+    {
+      "name": "萌系",
+      "count": 6
+    },
+    {
+      "name": "校园",
+      "count": 6
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,153 @@
+{
+  "id": 109386,
+  "name": "Fate/stay night [Unlimited Blade Works] 2ndシーズン",
+  "name_cn": "Fate/stay night [Unlimited Blade Works] 第二季",
+  "summary": "Fate/stay night [Unlimited Blade Works] 分割放送的第二期",
+  "date": "2015-04-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/b2/e7/109386_q20wy.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/b2/e7/109386_q20wy.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 1041,
+    "total": 12760,
+    "count": {
+      "1": 27,
+      "2": 12,
+      "3": 39,
+      "4": 98,
+      "5": 301,
+      "6": 1320,
+      "7": 4638,
+      "8": 4938,
+      "9": 995,
+      "10": 392
+    },
+    "score": 7.4
+  },
+  "tags": [
+    {
+      "name": "Type-Moon",
+      "count": 2726
+    },
+    {
+      "name": "ufotable",
+      "count": 2629
+    },
+    {
+      "name": "Fate",
+      "count": 2474
+    },
+    {
+      "name": "2015年4月",
+      "count": 1504
+    },
+    {
+      "name": "游戏改",
+      "count": 1308
+    },
+    {
+      "name": "战斗",
+      "count": 1217
+    },
+    {
+      "name": "TV",
+      "count": 1139
+    },
+    {
+      "name": "UBW",
+      "count": 1039
+    },
+    {
+      "name": "GAL改",
+      "count": 943
+    },
+    {
+      "name": "奇幻",
+      "count": 778
+    },
+    {
+      "name": "2015",
+      "count": 695
+    },
+    {
+      "name": "蘑菇",
+      "count": 521
+    },
+    {
+      "name": "热血",
+      "count": 345
+    },
+    {
+      "name": "游戏改编",
+      "count": 130
+    },
+    {
+      "name": "2015年",
+      "count": 86
+    },
+    {
+      "name": "三浦貴博",
+      "count": 62
+    },
+    {
+      "name": "恋爱",
+      "count": 52
+    },
+    {
+      "name": "动画",
+      "count": 50
+    },
+    {
+      "name": "三浦贵博",
+      "count": 42
+    },
+    {
+      "name": "奈須きのこ",
+      "count": 40
+    },
+    {
+      "name": "奈须蘑菇",
+      "count": 40
+    },
+    {
+      "name": "续作",
+      "count": 27
+    },
+    {
+      "name": "FateStayNight",
+      "count": 24
+    },
+    {
+      "name": "植田佳奈",
+      "count": 21
+    },
+    {
+      "name": "诹访部顺一",
+      "count": 20
+    },
+    {
+      "name": "远坂凛",
+      "count": 17
+    },
+    {
+      "name": "游改",
+      "count": 16
+    },
+    {
+      "name": "深澤秀行",
+      "count": 16
+    },
+    {
+      "name": "型月",
+      "count": 15
+    },
+    {
+      "name": "奈须きのこ",
+      "count": 15
+    }
+  ],
+  "locked": false
+}

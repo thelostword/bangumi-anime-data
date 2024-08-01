@@ -1,0 +1,153 @@
+{
+  "id": 125807,
+  "name": "攻殻機動隊ARISE ALTERNATIVE ARCHITECTURE",
+  "name_cn": "攻壳机动队ARISE ALTERNATIVE ARCHITECTURE",
+  "summary": "ARISE 4部剧场版的再剪辑（调整顺序）+2集完全新作，追加的2集（#9、#10）是2015年上映的电影「攻壳机动队 新剧场版」的铺垫剧情。",
+  "date": "2015-04-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/3a/d6/125807_G4nVU.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/3a/d6/125807_G4nVU.jpg"
+  },
+  "eps": 10,
+  "rating": {
+    "rank": 3234,
+    "total": 680,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 7,
+      "4": 15,
+      "5": 55,
+      "6": 171,
+      "7": 260,
+      "8": 136,
+      "9": 22,
+      "10": 14
+    },
+    "score": 6.8
+  },
+  "tags": [
+    {
+      "name": "攻壳机动队",
+      "count": 199
+    },
+    {
+      "name": "2015年4月",
+      "count": 173
+    },
+    {
+      "name": "Production.I.G",
+      "count": 158
+    },
+    {
+      "name": "TV",
+      "count": 117
+    },
+    {
+      "name": "科幻",
+      "count": 107
+    },
+    {
+      "name": "冲方丁",
+      "count": 102
+    },
+    {
+      "name": "2015",
+      "count": 71
+    },
+    {
+      "name": "漫画改",
+      "count": 58
+    },
+    {
+      "name": "ProductionI.G",
+      "count": 46
+    },
+    {
+      "name": "士郎正宗",
+      "count": 32
+    },
+    {
+      "name": "战斗",
+      "count": 16
+    },
+    {
+      "name": "2015年四月番",
+      "count": 16
+    },
+    {
+      "name": "小山田圭吾",
+      "count": 16
+    },
+    {
+      "name": "黄濑和哉",
+      "count": 9
+    },
+    {
+      "name": "2015年",
+      "count": 8
+    },
+    {
+      "name": "漫改",
+      "count": 8
+    },
+    {
+      "name": "赛博朋克",
+      "count": 8
+    },
+    {
+      "name": "黄瀬和哉",
+      "count": 8
+    },
+    {
+      "name": "Production_I.G",
+      "count": 6
+    },
+    {
+      "name": "攻殻機動隊",
+      "count": 4
+    },
+    {
+      "name": "动画",
+      "count": 4
+    },
+    {
+      "name": "坂本真绫",
+      "count": 4
+    },
+    {
+      "name": "日本",
+      "count": 4
+    },
+    {
+      "name": "SF",
+      "count": 3
+    },
+    {
+      "name": "TVA",
+      "count": 3
+    },
+    {
+      "name": "攻壳机动队ARISE",
+      "count": 3
+    },
+    {
+      "name": "アニメ",
+      "count": 2
+    },
+    {
+      "name": "テレビアニメ",
+      "count": 2
+    },
+    {
+      "name": "攻壳系列",
+      "count": 2
+    },
+    {
+      "name": "I.G",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

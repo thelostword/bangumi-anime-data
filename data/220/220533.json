@@ -1,0 +1,53 @@
+{
+  "id": 220533,
+  "name": "アニメ 80日間世界一周",
+  "name_cn": "维利福格80天环游世界",
+  "summary": "",
+  "date": "1984-01-08",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/f6/e8/220533_bpKWr.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/f6/e8/220533_bpKWr.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "1984",
+      "count": 2
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "跳集",
+      "count": 1
+    },
+    {
+      "name": "TV",
+      "count": 1
+    },
+    {
+      "name": "日本动画公司",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

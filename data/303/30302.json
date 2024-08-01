@@ -1,0 +1,153 @@
+{
+  "id": 30302,
+  "name": "ドットハック セカイの向こうに",
+  "name_cn": ".hack//世界的彼方",
+  "summary": "CC2制作的《.hack》3DCG电影近日公开了新的宣传视频，这段视频可以说是本次电影版的首段正式预告视频，电影的全称确认为《.hack 世界的彼方》，在2012年1月21日于日本首映。\r\n\r\n本作的故事背景设定在西元2024年，在这个世界中已经将网络全面普及化，人类已经可以完全透过网络来进行社交，相当于另外一个世界。故事中一名14岁的初中少女“有城空”在朋友的邀请下开始尝试网络游戏《THE WORLD》，然后因为游戏中的某个事件，影响到了现实与虚拟世界的链接，使两者之间产生了一些异变。",
+  "date": "2012-01-21",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ab/5a/30302_7G77g.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ab/5a/30302_7G77g.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 2033,
+    "total": 282,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 2,
+      "4": 4,
+      "5": 7,
+      "6": 54,
+      "7": 115,
+      "8": 75,
+      "9": 18,
+      "10": 6
+    },
+    "score": 7.1
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 102
+    },
+    {
+      "name": ".hack系列",
+      "count": 53
+    },
+    {
+      "name": "2012",
+      "count": 33
+    },
+    {
+      "name": ".hack",
+      "count": 30
+    },
+    {
+      "name": "3D",
+      "count": 28
+    },
+    {
+      "name": "网游",
+      "count": 23
+    },
+    {
+      "name": "科幻",
+      "count": 18
+    },
+    {
+      "name": "2012年1月",
+      "count": 18
+    },
+    {
+      "name": "治愈",
+      "count": 14
+    },
+    {
+      "name": "贞本义行",
+      "count": 14
+    },
+    {
+      "name": "世界的彼方",
+      "count": 11
+    },
+    {
+      "name": "奇幻",
+      "count": 6
+    },
+    {
+      "name": "福田考代",
+      "count": 6
+    },
+    {
+      "name": "松山洋",
+      "count": 5
+    },
+    {
+      "name": "HACK",
+      "count": 4
+    },
+    {
+      "name": "伊藤和典",
+      "count": 3
+    },
+    {
+      "name": "游戏改",
+      "count": 3
+    },
+    {
+      "name": "日本",
+      "count": 3
+    },
+    {
+      "name": "2012年",
+      "count": 3
+    },
+    {
+      "name": "CyberConnect2",
+      "count": 2
+    },
+    {
+      "name": "原创",
+      "count": 2
+    },
+    {
+      "name": "剧场",
+      "count": 2
+    },
+    {
+      "name": "サイバーコネクトツー",
+      "count": 2
+    },
+    {
+      "name": "SF",
+      "count": 2
+    },
+    {
+      "name": "日番",
+      "count": 1
+    },
+    {
+      "name": "山口一夫",
+      "count": 1
+    },
+    {
+      "name": "M2",
+      "count": 1
+    },
+    {
+      "name": "2023",
+      "count": 1
+    },
+    {
+      "name": "喵帕斯记录~",
+      "count": 1
+    },
+    {
+      "name": ".hackConglomerate",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

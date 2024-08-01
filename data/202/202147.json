@@ -1,0 +1,125 @@
+{
+  "id": 202147,
+  "name": "仮面の忍者 赤影",
+  "name_cn": "假面忍者 赤影",
+  "summary": "",
+  "date": "1987-10-13",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c8/74/202147_2mpSf.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c8/74/202147_2mpSf.jpg"
+  },
+  "eps": 23,
+  "rating": {
+    "rank": 0,
+    "total": 5,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 0,
+      "7": 1,
+      "8": 3,
+      "9": 0,
+      "10": 0
+    },
+    "score": 7.2
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 3
+    },
+    {
+      "name": "1987",
+      "count": 3
+    },
+    {
+      "name": "菅良幸",
+      "count": 2
+    },
+    {
+      "name": "横山光辉",
+      "count": 2
+    },
+    {
+      "name": "横山光輝",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "1987年10月",
+      "count": 1
+    },
+    {
+      "name": "1987年十月番",
+      "count": 1
+    },
+    {
+      "name": "赛璐珞",
+      "count": 1
+    },
+    {
+      "name": "石崎すすむ",
+      "count": 1
+    },
+    {
+      "name": "玄田哲章",
+      "count": 1
+    },
+    {
+      "name": "原神",
+      "count": 1
+    },
+    {
+      "name": "井上敏樹",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "漫画改编",
+      "count": 1
+    },
+    {
+      "name": "改编",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "1987年",
+      "count": 1
+    },
+    {
+      "name": "东映动画",
+      "count": 1
+    },
+    {
+      "name": "野沢雅子",
+      "count": 1
+    },
+    {
+      "name": "古川登志夫",
+      "count": 1
+    },
+    {
+      "name": "東映アニメーション",
+      "count": 1
+    },
+    {
+      "name": "80s",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

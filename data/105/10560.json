@@ -1,0 +1,153 @@
+{
+  "id": 10560,
+  "name": "魔法の天使クリィミーマミ",
+  "name_cn": "我是小甜甜",
+  "summary": "故事讲述10岁的小学女生森泽优在偶然机遇下得到魔法后，可以变身成16岁的美少女小甜甜，后来还误打误撞走入演艺界，并成为红透半边天的女歌星。 ",
+  "date": "1983-07-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/18/06/10560_Rivhz.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/18/06/10560_Rivhz.jpg"
+  },
+  "eps": 52,
+  "rating": {
+    "rank": 2118,
+    "total": 267,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 1,
+      "4": 3,
+      "5": 12,
+      "6": 42,
+      "7": 125,
+      "8": 60,
+      "9": 17,
+      "10": 6
+    },
+    "score": 7.1
+  },
+  "tags": [
+    {
+      "name": "童年",
+      "count": 93
+    },
+    {
+      "name": "小甜甜",
+      "count": 64
+    },
+    {
+      "name": "魔法少女",
+      "count": 59
+    },
+    {
+      "name": "TV",
+      "count": 48
+    },
+    {
+      "name": "1983",
+      "count": 27
+    },
+    {
+      "name": "魔法の天使クリィミーマミ",
+      "count": 22
+    },
+    {
+      "name": "原创",
+      "count": 21
+    },
+    {
+      "name": "童年回忆",
+      "count": 16
+    },
+    {
+      "name": "小林治",
+      "count": 16
+    },
+    {
+      "name": "童年回憶",
+      "count": 11
+    },
+    {
+      "name": "补旧番",
+      "count": 7
+    },
+    {
+      "name": "StudioPierrot",
+      "count": 7
+    },
+    {
+      "name": "电视",
+      "count": 6
+    },
+    {
+      "name": "魔法小天使",
+      "count": 4
+    },
+    {
+      "name": "1983年7月",
+      "count": 4
+    },
+    {
+      "name": "80年代",
+      "count": 4
+    },
+    {
+      "name": "小蝶",
+      "count": 4
+    },
+    {
+      "name": "魔法",
+      "count": 3
+    },
+    {
+      "name": "PIERROT",
+      "count": 3
+    },
+    {
+      "name": "伊藤和典",
+      "count": 3
+    },
+    {
+      "name": "ぴえろ",
+      "count": 3
+    },
+    {
+      "name": "1983年",
+      "count": 2
+    },
+    {
+      "name": "高田明美",
+      "count": 2
+    },
+    {
+      "name": "没看全",
+      "count": 2
+    },
+    {
+      "name": "奇幻",
+      "count": 2
+    },
+    {
+      "name": "甜甜",
+      "count": 2
+    },
+    {
+      "name": "80s",
+      "count": 2
+    },
+    {
+      "name": "Studio_Pierrot",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "小林七郎",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

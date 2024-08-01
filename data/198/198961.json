@@ -1,0 +1,153 @@
+{
+  "id": 198961,
+  "name": "フレームアームズ・ガール",
+  "name_cn": "机甲少女 FRAME ARMS GIRL",
+  "summary": "某日早晨，普通的女子高校生・源内青收到一个神秘包裹。 打开后发现里面放了名为FRAME ARMS GIRL的完全自律型小型机器人『轰雷』。 是玩具!还是塑胶拼装模型! 但是轰雷不仅仅是FRAME ARMS GIRL。 而是搭载了在通常的人工智能以上，拥有高度人格的人工自我——AS（Artificial Self）的最新型试作机。",
+  "date": "2017-04-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/f9/70/198961_YsY4g.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/f9/70/198961_YsY4g.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 5099,
+    "total": 862,
+    "count": {
+      "1": 2,
+      "2": 2,
+      "3": 8,
+      "4": 23,
+      "5": 115,
+      "6": 305,
+      "7": 273,
+      "8": 107,
+      "9": 17,
+      "10": 10
+    },
+    "score": 6.4
+  },
+  "tags": [
+    {
+      "name": "2017年4月",
+      "count": 209
+    },
+    {
+      "name": "原创",
+      "count": 191
+    },
+    {
+      "name": "机娘",
+      "count": 185
+    },
+    {
+      "name": "TV",
+      "count": 158
+    },
+    {
+      "name": "百合",
+      "count": 137
+    },
+    {
+      "name": "ZEXCS",
+      "count": 111
+    },
+    {
+      "name": "广告",
+      "count": 109
+    },
+    {
+      "name": "2017",
+      "count": 81
+    },
+    {
+      "name": "StudioA-CAT",
+      "count": 72
+    },
+    {
+      "name": "科幻",
+      "count": 64
+    },
+    {
+      "name": "寿屋",
+      "count": 50
+    },
+    {
+      "name": "日常",
+      "count": 38
+    },
+    {
+      "name": "日笠阳子",
+      "count": 29
+    },
+    {
+      "name": "岛田文金",
+      "count": 25
+    },
+    {
+      "name": "川口敬一郎",
+      "count": 24
+    },
+    {
+      "name": "萌",
+      "count": 7
+    },
+    {
+      "name": "轻百合",
+      "count": 6
+    },
+    {
+      "name": "TVA",
+      "count": 4
+    },
+    {
+      "name": "机战",
+      "count": 4
+    },
+    {
+      "name": "SF",
+      "count": 4
+    },
+    {
+      "name": "萝卜",
+      "count": 3
+    },
+    {
+      "name": "三重野瞳",
+      "count": 3
+    },
+    {
+      "name": "搞笑",
+      "count": 3
+    },
+    {
+      "name": "3D",
+      "count": 3
+    },
+    {
+      "name": "战斗",
+      "count": 2
+    },
+    {
+      "name": "机器人",
+      "count": 2
+    },
+    {
+      "name": "FAG",
+      "count": 2
+    },
+    {
+      "name": "FRAME_ARMS_GIRL",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

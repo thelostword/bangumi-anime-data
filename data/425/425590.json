@@ -1,0 +1,77 @@
+{
+  "id": 425590,
+  "name": "ハートカクテル カラフル",
+  "name_cn": "心情鸡尾酒 Colorful",
+  "summary": "都会的で色鮮やかな描写で、80年代に大ブームを巻き起こした「ハートカクテル」。\r\n作者わたせせいぞうさんが20年ぶりに書き下ろした新作をアニメ化！",
+  "date": "2023-03-28",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/30/06/425590_y5GcR.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/30/06/425590_y5GcR.jpg"
+  },
+  "eps": 15,
+  "rating": {
+    "rank": 0,
+    "total": 3,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 1,
+      "7": 0,
+      "8": 0,
+      "9": 1,
+      "10": 0
+    },
+    "score": 6.7
+  },
+  "tags": [
+    {
+      "name": "治愈",
+      "count": 3
+    },
+    {
+      "name": "TV",
+      "count": 3
+    },
+    {
+      "name": "2023年3月",
+      "count": 1
+    },
+    {
+      "name": "剧集",
+      "count": 1
+    },
+    {
+      "name": "2023年4月",
+      "count": 1
+    },
+    {
+      "name": "待上映",
+      "count": 1
+    },
+    {
+      "name": "漫改",
+      "count": 1
+    },
+    {
+      "name": "NHK",
+      "count": 1
+    },
+    {
+      "name": "漫画改",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "2023",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

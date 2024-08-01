@@ -1,0 +1,121 @@
+{
+  "id": 49189,
+  "name": "バトルアスリーテス 大運動会 OVA",
+  "name_cn": "BATTLE ATHLETESS 大运动会 OVA",
+  "summary": "　　OVA和TV版是平行世界的故事，没有多少关联性。讲述了主角神崎明在进入大学卫星后的成长故事。",
+  "date": "1997-05-25",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/1a/76/49189_S7yrj.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/1a/76/49189_S7yrj.jpg"
+  },
+  "eps": 6,
+  "rating": {
+    "rank": 0,
+    "total": 37,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 2,
+      "4": 5,
+      "5": 3,
+      "6": 12,
+      "7": 14,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.7
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 23
+    },
+    {
+      "name": "百合",
+      "count": 16
+    },
+    {
+      "name": "AIC",
+      "count": 12
+    },
+    {
+      "name": "1997",
+      "count": 12
+    },
+    {
+      "name": "仓田英之",
+      "count": 5
+    },
+    {
+      "name": "运动",
+      "count": 4
+    },
+    {
+      "name": "原创",
+      "count": 3
+    },
+    {
+      "name": "1990年代",
+      "count": 2
+    },
+    {
+      "name": "屹青",
+      "count": 1
+    },
+    {
+      "name": "老番",
+      "count": 1
+    },
+    {
+      "name": "おざわかずひろ",
+      "count": 1
+    },
+    {
+      "name": "[Y:YY]",
+      "count": 1
+    },
+    {
+      "name": "夏樹リオ",
+      "count": 1
+    },
+    {
+      "name": "OVA-01",
+      "count": 1
+    },
+    {
+      "name": "伊藤美紀",
+      "count": 1
+    },
+    {
+      "name": "久川綾",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "热血",
+      "count": 1
+    },
+    {
+      "name": "补番",
+      "count": 1
+    },
+    {
+      "name": "黒田洋介",
+      "count": 1
+    },
+    {
+      "name": "轻百合",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

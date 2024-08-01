@@ -1,0 +1,153 @@
+{
+  "id": 9397,
+  "name": "MÄR-メルヘヴン-",
+  "name_cn": "MÄR 魔法世界",
+  "summary": "一直對異世界充滿幻想的中學2年生虎水銀太在Dimension（次元）ARM「小丑守門人」（門番ピエロ）的魔力之下被召喚至異世界「MÄR Heaven」（メルへヴン）。在那個世界中存在一種稱為「ARM」的能夠賦予使用者力量的魔法附件。來到異世界的銀太和神奇的ARM巴波相會並先後結交到新的夥伴。肩負拯救MÄR Heaven世界的使命，銀太必須和夥伴們一起打敗邪惡的CHESS兵隊（チェスの兵隊（コマ））。",
+  "date": "2005-04-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c4/ed/9397_HylOO.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c4/ed/9397_HylOO.jpg"
+  },
+  "eps": 102,
+  "rating": {
+    "rank": 1871,
+    "total": 392,
+    "count": {
+      "1": 0,
+      "2": 1,
+      "3": 0,
+      "4": 7,
+      "5": 16,
+      "6": 76,
+      "7": 158,
+      "8": 89,
+      "9": 24,
+      "10": 21
+    },
+    "score": 7.2
+  },
+  "tags": [
+    {
+      "name": "魔法世界",
+      "count": 80
+    },
+    {
+      "name": "TV",
+      "count": 71
+    },
+    {
+      "name": "童年",
+      "count": 67
+    },
+    {
+      "name": "MÄR",
+      "count": 57
+    },
+    {
+      "name": "热血",
+      "count": 48
+    },
+    {
+      "name": "星空卫视",
+      "count": 43
+    },
+    {
+      "name": "漫画改",
+      "count": 41
+    },
+    {
+      "name": "2005",
+      "count": 39
+    },
+    {
+      "name": "SynergySP",
+      "count": 31
+    },
+    {
+      "name": "战斗",
+      "count": 28
+    },
+    {
+      "name": "2005年4月",
+      "count": 17
+    },
+    {
+      "name": "少年系",
+      "count": 16
+    },
+    {
+      "name": "支持姐弟恋",
+      "count": 13
+    },
+    {
+      "name": "星空台",
+      "count": 10
+    },
+    {
+      "name": "奇幻",
+      "count": 8
+    },
+    {
+      "name": "异世界",
+      "count": 7
+    },
+    {
+      "name": "2009",
+      "count": 6
+    },
+    {
+      "name": "2005年",
+      "count": 6
+    },
+    {
+      "name": "漫改",
+      "count": 5
+    },
+    {
+      "name": "魔兵",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "冒险",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "华视",
+      "count": 2
+    },
+    {
+      "name": "保志総一朗",
+      "count": 2
+    },
+    {
+      "name": "川口敬一郎",
+      "count": 2
+    },
+    {
+      "name": "设定不错电视上看的没看完",
+      "count": 1
+    },
+    {
+      "name": "奥胁雅晴",
+      "count": 1
+    },
+    {
+      "name": "待下载",
+      "count": 1
+    },
+    {
+      "name": "2005年四月番",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

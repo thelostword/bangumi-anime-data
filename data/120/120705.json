@@ -1,0 +1,153 @@
+{
+  "id": 120705,
+  "name": "終わりのセラフ 名古屋決戦編",
+  "name_cn": "终结的炽天使 名古屋决战篇",
+  "summary": "",
+  "date": "2015-10-10",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/bf/69/120705_vJwsZ.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/bf/69/120705_vJwsZ.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 7692,
+    "total": 2676,
+    "count": {
+      "1": 26,
+      "2": 39,
+      "3": 99,
+      "4": 275,
+      "5": 599,
+      "6": 985,
+      "7": 451,
+      "8": 143,
+      "9": 21,
+      "10": 38
+    },
+    "score": 5.7
+  },
+  "tags": [
+    {
+      "name": "2015年10月",
+      "count": 472
+    },
+    {
+      "name": "漫画改",
+      "count": 416
+    },
+    {
+      "name": "WITSTUDIO",
+      "count": 404
+    },
+    {
+      "name": "终结的炽天使",
+      "count": 340
+    },
+    {
+      "name": "TV",
+      "count": 317
+    },
+    {
+      "name": "战斗",
+      "count": 234
+    },
+    {
+      "name": "吸血鬼",
+      "count": 227
+    },
+    {
+      "name": "澤野弘之",
+      "count": 214
+    },
+    {
+      "name": "2015",
+      "count": 184
+    },
+    {
+      "name": "漫改",
+      "count": 175
+    },
+    {
+      "name": "奇幻",
+      "count": 119
+    },
+    {
+      "name": "泽野弘之",
+      "count": 75
+    },
+    {
+      "name": "镜贵也",
+      "count": 63
+    },
+    {
+      "name": "热血",
+      "count": 35
+    },
+    {
+      "name": "中村悠一",
+      "count": 35
+    },
+    {
+      "name": "山本ヤマト",
+      "count": 18
+    },
+    {
+      "name": "徳土大介",
+      "count": 16
+    },
+    {
+      "name": "续作",
+      "count": 14
+    },
+    {
+      "name": "早见沙织",
+      "count": 10
+    },
+    {
+      "name": "2015年",
+      "count": 10
+    },
+    {
+      "name": "动画",
+      "count": 9
+    },
+    {
+      "name": "基",
+      "count": 8
+    },
+    {
+      "name": "入野自由",
+      "count": 8
+    },
+    {
+      "name": "悠木碧",
+      "count": 8
+    },
+    {
+      "name": "樱井孝宏",
+      "count": 7
+    },
+    {
+      "name": "鏡貴也",
+      "count": 7
+    },
+    {
+      "name": "WIT_STUDIO",
+      "count": 7
+    },
+    {
+      "name": "小野贤章",
+      "count": 7
+    },
+    {
+      "name": "瀬古浩司",
+      "count": 6
+    },
+    {
+      "name": "漫畫改",
+      "count": 5
+    }
+  ],
+  "locked": false
+}

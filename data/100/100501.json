@@ -1,0 +1,153 @@
+{
+  "id": 100501,
+  "name": "スペース☆ダンディ シーズン2",
+  "name_cn": "太空丹迪 第二季",
+  "summary": "",
+  "date": "2014-07-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/8e/30/100501_M7o32.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/8e/30/100501_M7o32.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 120,
+    "total": 2895,
+    "count": {
+      "1": 7,
+      "2": 3,
+      "3": 3,
+      "4": 5,
+      "5": 27,
+      "6": 103,
+      "7": 380,
+      "8": 1219,
+      "9": 871,
+      "10": 277
+    },
+    "score": 8.2
+  },
+  "tags": [
+    {
+      "name": "BONES",
+      "count": 972
+    },
+    {
+      "name": "渡边信一郎",
+      "count": 819
+    },
+    {
+      "name": "原创",
+      "count": 541
+    },
+    {
+      "name": "TV",
+      "count": 449
+    },
+    {
+      "name": "2014年7月",
+      "count": 411
+    },
+    {
+      "name": "科幻",
+      "count": 347
+    },
+    {
+      "name": "SPACE☆DANDY",
+      "count": 288
+    },
+    {
+      "name": "菅野洋子",
+      "count": 277
+    },
+    {
+      "name": "2014",
+      "count": 273
+    },
+    {
+      "name": "搞笑",
+      "count": 226
+    },
+    {
+      "name": "夏目真悟",
+      "count": 165
+    },
+    {
+      "name": "渡辺信一郎",
+      "count": 121
+    },
+    {
+      "name": "诹访部顺一",
+      "count": 58
+    },
+    {
+      "name": "汤浅政明",
+      "count": 34
+    },
+    {
+      "name": "单元剧",
+      "count": 18
+    },
+    {
+      "name": "2014年",
+      "count": 17
+    },
+    {
+      "name": "作画",
+      "count": 15
+    },
+    {
+      "name": "骨头社",
+      "count": 15
+    },
+    {
+      "name": "宇宙",
+      "count": 14
+    },
+    {
+      "name": "木村良平",
+      "count": 11
+    },
+    {
+      "name": "TVA",
+      "count": 10
+    },
+    {
+      "name": "湯浅政明",
+      "count": 10
+    },
+    {
+      "name": "吉野裕行",
+      "count": 10
+    },
+    {
+      "name": "续作",
+      "count": 10
+    },
+    {
+      "name": "信本敬子",
+      "count": 9
+    },
+    {
+      "name": "季番",
+      "count": 9
+    },
+    {
+      "name": "公路片",
+      "count": 8
+    },
+    {
+      "name": "日本动画",
+      "count": 8
+    },
+    {
+      "name": "伊藤嘉之",
+      "count": 8
+    },
+    {
+      "name": "神作",
+      "count": 6
+    }
+  ],
+  "locked": false
+}

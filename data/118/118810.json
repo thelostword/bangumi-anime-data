@@ -1,0 +1,45 @@
+{
+  "id": 118810,
+  "name": "DD北斗之拳",
+  "name_cn": "",
+  "summary": "『DD北斗之拳』のタイトルで、2011年1月より関西テレビで放送された短編Flashアニメ作品。全12話。2013年にはDVDがリリースされた。",
+  "date": "2011-01-11",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e4/3a/118810_eA8h5.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e4/3a/118810_eA8h5.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 0,
+    "total": 17,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 0,
+      "5": 5,
+      "6": 8,
+      "7": 1,
+      "8": 1,
+      "9": 1,
+      "10": 0
+    },
+    "score": 5.9
+  },
+  "tags": [
+    {
+      "name": "dd北斗神拳",
+      "count": 4
+    },
+    {
+      "name": "泡面番",
+      "count": 3
+    },
+    {
+      "name": "2011年1月",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

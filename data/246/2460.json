@@ -1,0 +1,153 @@
+{
+  "id": 2460,
+  "name": "ギャグマンガ日和2",
+  "name_cn": "搞笑漫画日和2",
+  "summary": "少年JUMP连载同名漫画改编动画第二季，首话，名侦探兔美的故事。\r\n大地监督作品，同作品首季被选为05年度日本文化厅媒体艺术节评审委员会推荐作品，大地监督曰，此片舍我其谁。\r\n",
+  "date": "2006-08-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e9/41/2460_78W8w.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e9/41/2460_78W8w.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 425,
+    "total": 2787,
+    "count": {
+      "1": 12,
+      "2": 5,
+      "3": 4,
+      "4": 9,
+      "5": 58,
+      "6": 216,
+      "7": 753,
+      "8": 1056,
+      "9": 429,
+      "10": 245
+    },
+    "score": 7.8
+  },
+  "tags": [
+    {
+      "name": "日和",
+      "count": 526
+    },
+    {
+      "name": "吐槽",
+      "count": 522
+    },
+    {
+      "name": "搞笑",
+      "count": 314
+    },
+    {
+      "name": "熊吉怎么又是你",
+      "count": 255
+    },
+    {
+      "name": "2006",
+      "count": 221
+    },
+    {
+      "name": "泡面番",
+      "count": 219
+    },
+    {
+      "name": "光速吐槽",
+      "count": 199
+    },
+    {
+      "name": "TV",
+      "count": 191
+    },
+    {
+      "name": "大地丙太郎",
+      "count": 155
+    },
+    {
+      "name": "神作",
+      "count": 142
+    },
+    {
+      "name": "ArtLand",
+      "count": 111
+    },
+    {
+      "name": "恶搞",
+      "count": 106
+    },
+    {
+      "name": "漫画改",
+      "count": 72
+    },
+    {
+      "name": "語速",
+      "count": 42
+    },
+    {
+      "name": "名冢佳织",
+      "count": 39
+    },
+    {
+      "name": "漫改",
+      "count": 37
+    },
+    {
+      "name": "囧ED",
+      "count": 34
+    },
+    {
+      "name": "kuso",
+      "count": 33
+    },
+    {
+      "name": "不正经",
+      "count": 21
+    },
+    {
+      "name": "2006年7月",
+      "count": 19
+    },
+    {
+      "name": "2006年8月",
+      "count": 17
+    },
+    {
+      "name": "泡面",
+      "count": 16
+    },
+    {
+      "name": "2006年",
+      "count": 16
+    },
+    {
+      "name": "动画",
+      "count": 14
+    },
+    {
+      "name": "日本",
+      "count": 9
+    },
+    {
+      "name": "anime",
+      "count": 7
+    },
+    {
+      "name": "搞笑漫画日和",
+      "count": 7
+    },
+    {
+      "name": "ギャグ",
+      "count": 7
+    },
+    {
+      "name": "日本动画",
+      "count": 7
+    },
+    {
+      "name": "续作",
+      "count": 6
+    }
+  ],
+  "locked": false
+}

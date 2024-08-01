@@ -1,0 +1,153 @@
+{
+  "id": 2472,
+  "name": "まかでみ・WAっしょい!",
+  "name_cn": "魔法学园MA",
+  "summary": "羽濑川拓人，表面上是普通的高中生，实际上却是地图上未记载的魔法使养成机构“学园”的学生、半调子的魔法师。在召唤考试的时候，发生错误，控制失败，召唤出来的是能够在一个晚上毁灭整个国家的兽耳少女。从此，他便被卷入各种骚乱之中……",
+  "date": "2008-10-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/73/f4/2472_6Z4F1.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/73/f4/2472_6Z4F1.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 5225,
+    "total": 305,
+    "count": {
+      "1": 2,
+      "2": 0,
+      "3": 6,
+      "4": 14,
+      "5": 45,
+      "6": 98,
+      "7": 88,
+      "8": 39,
+      "9": 9,
+      "10": 4
+    },
+    "score": 6.4
+  },
+  "tags": [
+    {
+      "name": "后宫",
+      "count": 78
+    },
+    {
+      "name": "兽耳",
+      "count": 59
+    },
+    {
+      "name": "轻小说改",
+      "count": 38
+    },
+    {
+      "name": "恶搞",
+      "count": 36
+    },
+    {
+      "name": "变态",
+      "count": 34
+    },
+    {
+      "name": "love&peace",
+      "count": 32
+    },
+    {
+      "name": "TV",
+      "count": 30
+    },
+    {
+      "name": "2008",
+      "count": 30
+    },
+    {
+      "name": "欢乐",
+      "count": 27
+    },
+    {
+      "name": "ZEXCS",
+      "count": 19
+    },
+    {
+      "name": "搞笑",
+      "count": 15
+    },
+    {
+      "name": "魔法",
+      "count": 14
+    },
+    {
+      "name": "2008年10月",
+      "count": 14
+    },
+    {
+      "name": "我要dvd",
+      "count": 9
+    },
+    {
+      "name": "小清水亜美",
+      "count": 8
+    },
+    {
+      "name": "轻小说",
+      "count": 6
+    },
+    {
+      "name": "雷",
+      "count": 5
+    },
+    {
+      "name": "轻改",
+      "count": 4
+    },
+    {
+      "name": "川澄",
+      "count": 4
+    },
+    {
+      "name": "金崎贵臣",
+      "count": 3
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "福井裕佳梨",
+      "count": 2
+    },
+    {
+      "name": "伊瀬茉莉也",
+      "count": 2
+    },
+    {
+      "name": "金﨑貴臣",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 2
+    },
+    {
+      "name": "魔法学园MA",
+      "count": 2
+    },
+    {
+      "name": "补番",
+      "count": 2
+    },
+    {
+      "name": "老番",
+      "count": 1
+    },
+    {
+      "name": "双重人格",
+      "count": 1
+    },
+    {
+      "name": "魔法學院",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

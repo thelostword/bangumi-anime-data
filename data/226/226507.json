@@ -1,0 +1,153 @@
+{
+  "id": 226507,
+  "name": "One Room セカンドシーズン",
+  "name_cn": "One Room 第二季",
+  "summary": "主人公はあなた———『てーきゅう』シリーズ、『ヤマノススメ』シリーズを手がけるスマイラル・アニメーションの“バーチャルアニメ”最新作。あなた（One）の部屋（Room）ではぐくむ女の子たちとの物語。",
+  "date": "2018-07-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/87/1e/226507_dBZCh.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/87/1e/226507_dBZCh.jpg"
+  },
+  "eps": 14,
+  "rating": {
+    "rank": 3152,
+    "total": 3416,
+    "count": {
+      "1": 4,
+      "2": 3,
+      "3": 7,
+      "4": 26,
+      "5": 191,
+      "6": 890,
+      "7": 1607,
+      "8": 555,
+      "9": 63,
+      "10": 70
+    },
+    "score": 6.8
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 1091
+    },
+    {
+      "name": "恋爱",
+      "count": 861
+    },
+    {
+      "name": "第一视角",
+      "count": 729
+    },
+    {
+      "name": "原创",
+      "count": 596
+    },
+    {
+      "name": "2018年7月",
+      "count": 561
+    },
+    {
+      "name": "TV",
+      "count": 378
+    },
+    {
+      "name": "ZERO-G",
+      "count": 305
+    },
+    {
+      "name": "2018",
+      "count": 283
+    },
+    {
+      "name": "日常",
+      "count": 271
+    },
+    {
+      "name": "泡面",
+      "count": 174
+    },
+    {
+      "name": "One_Room",
+      "count": 85
+    },
+    {
+      "name": "カントク",
+      "count": 75
+    },
+    {
+      "name": "2018年",
+      "count": 39
+    },
+    {
+      "name": "第2期",
+      "count": 39
+    },
+    {
+      "name": "原创动画",
+      "count": 34
+    },
+    {
+      "name": "治愈",
+      "count": 26
+    },
+    {
+      "name": "OneRoom",
+      "count": 25
+    },
+    {
+      "name": "续作",
+      "count": 23
+    },
+    {
+      "name": "萌",
+      "count": 15
+    },
+    {
+      "name": "ゼロジー",
+      "count": 10
+    },
+    {
+      "name": "高桥李依",
+      "count": 9
+    },
+    {
+      "name": "水瀬いのり",
+      "count": 9
+    },
+    {
+      "name": "上田慎一郎",
+      "count": 7
+    },
+    {
+      "name": "监督",
+      "count": 7
+    },
+    {
+      "name": "Room",
+      "count": 6
+    },
+    {
+      "name": "水濑祈",
+      "count": 5
+    },
+    {
+      "name": "M・A・O",
+      "count": 5
+    },
+    {
+      "name": "日本",
+      "count": 5
+    },
+    {
+      "name": "ONE",
+      "count": 5
+    },
+    {
+      "name": "霜井蒼星",
+      "count": 4
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,153 @@
+{
+  "id": 196188,
+  "name": "あいまいみー～Surgical Friends～",
+  "name_cn": "漫研部～Surgical Friends～",
+  "summary": "2016年11月に行われた『アニ×ワラ』vol.6の中で第3期が発表され、2017年1月より放送中。タイトルは『ちょぼらうにょぽみ劇場 あいまいみー 〜Surgical Friends〜』。2016年12月にはAT-X他で第3期決定記念の『番宣スペシャル』を放送。",
+  "date": "2017-01-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/a9/16/196188_ZB582.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/a9/16/196188_ZB582.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 4743,
+    "total": 281,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 4,
+      "4": 5,
+      "5": 31,
+      "6": 101,
+      "7": 103,
+      "8": 29,
+      "9": 4,
+      "10": 3
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 128
+    },
+    {
+      "name": "2017年1月",
+      "count": 78
+    },
+    {
+      "name": "TV",
+      "count": 57
+    },
+    {
+      "name": "搞笑",
+      "count": 56
+    },
+    {
+      "name": "2017",
+      "count": 46
+    },
+    {
+      "name": "脑洞",
+      "count": 34
+    },
+    {
+      "name": "Seven",
+      "count": 27
+    },
+    {
+      "name": "漫画改",
+      "count": 25
+    },
+    {
+      "name": "漫研部",
+      "count": 18
+    },
+    {
+      "name": "电波",
+      "count": 18
+    },
+    {
+      "name": "漫改",
+      "count": 17
+    },
+    {
+      "name": "泡面",
+      "count": 16
+    },
+    {
+      "name": "漫研部～Surgical",
+      "count": 14
+    },
+    {
+      "name": "内田彩",
+      "count": 13
+    },
+    {
+      "name": "百合",
+      "count": 7
+    },
+    {
+      "name": "大坪由佳",
+      "count": 6
+    },
+    {
+      "name": "伊魔崎斋",
+      "count": 6
+    },
+    {
+      "name": "日常",
+      "count": 5
+    },
+    {
+      "name": "いまざきいつき",
+      "count": 4
+    },
+    {
+      "name": "内田真礼",
+      "count": 4
+    },
+    {
+      "name": "ちょぼらうにょぽみ",
+      "count": 4
+    },
+    {
+      "name": "短片",
+      "count": 3
+    },
+    {
+      "name": "续作",
+      "count": 3
+    },
+    {
+      "name": "セブン",
+      "count": 3
+    },
+    {
+      "name": "萌",
+      "count": 2
+    },
+    {
+      "name": "[NBG]",
+      "count": 2
+    },
+    {
+      "name": "深井冰",
+      "count": 2
+    },
+    {
+      "name": "校园",
+      "count": 2
+    },
+    {
+      "name": "茅野爱衣",
+      "count": 2
+    },
+    {
+      "name": "续集",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,153 @@
+{
+  "id": 444557,
+  "name": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール",
+  "name_cn": "无职转生Ⅱ ～到了异世界就拿出真本事～ 第2部分",
+  "summary": "",
+  "date": "2024-04-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ad/25/444557_e4hPO.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ad/25/444557_e4hPO.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 1005,
+    "total": 6249,
+    "count": {
+      "1": 35,
+      "2": 10,
+      "3": 15,
+      "4": 44,
+      "5": 163,
+      "6": 653,
+      "7": 2241,
+      "8": 2307,
+      "9": 494,
+      "10": 287
+    },
+    "score": 7.4
+  },
+  "tags": [
+    {
+      "name": "异世界",
+      "count": 1729
+    },
+    {
+      "name": "2024年4月",
+      "count": 1226
+    },
+    {
+      "name": "轻小说改",
+      "count": 1219
+    },
+    {
+      "name": "StudioBind",
+      "count": 961
+    },
+    {
+      "name": "无职转生",
+      "count": 783
+    },
+    {
+      "name": "TV",
+      "count": 738
+    },
+    {
+      "name": "后宫",
+      "count": 677
+    },
+    {
+      "name": "奇幻",
+      "count": 675
+    },
+    {
+      "name": "2024",
+      "count": 460
+    },
+    {
+      "name": "战斗",
+      "count": 438
+    },
+    {
+      "name": "轻改",
+      "count": 374
+    },
+    {
+      "name": "续作",
+      "count": 226
+    },
+    {
+      "name": "無職轉生",
+      "count": 173
+    },
+    {
+      "name": "穿越",
+      "count": 166
+    },
+    {
+      "name": "冒险",
+      "count": 91
+    },
+    {
+      "name": "平野宏树",
+      "count": 41
+    },
+    {
+      "name": "渋谷亮介",
+      "count": 40
+    },
+    {
+      "name": "小说改",
+      "count": 35
+    },
+    {
+      "name": "涩谷亮介",
+      "count": 24
+    },
+    {
+      "name": "恋爱",
+      "count": 21
+    },
+    {
+      "name": "亲情",
+      "count": 15
+    },
+    {
+      "name": "转生",
+      "count": 13
+    },
+    {
+      "name": "大野敏哉",
+      "count": 11
+    },
+    {
+      "name": "魔法",
+      "count": 11
+    },
+    {
+      "name": "日本",
+      "count": 10
+    },
+    {
+      "name": "スタジオバインド",
+      "count": 10
+    },
+    {
+      "name": "成长",
+      "count": 7
+    },
+    {
+      "name": "TVA",
+      "count": 7
+    },
+    {
+      "name": "神作",
+      "count": 7
+    },
+    {
+      "name": "2024年",
+      "count": 6
+    }
+  ],
+  "locked": false
+}

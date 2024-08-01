@@ -1,0 +1,153 @@
+{
+  "id": 54551,
+  "name": "ガンダム Gのレコンギスタ",
+  "name_cn": "高达G之复国运动",
+  "summary": "宇宙移民与宇宙战争的历史—宇宙世纪（UC）终结后，时光飞逝，人们迎来新的历史Regild Century（RC），并开始了繁荣与和平的生活。\r\n\r\nRC1014年，耸立大地、连接地球和宇宙的轨道天梯“首都塔”，从宇宙中为人类带来作为地球能量之源的光子电池（Photon Battery），故被视为圣地。其守护组织“首都卫队”候补生贝尔利・杰纳姆在初次飞行的时候遭到所属不明的MS“G-Self”攻击。贝尔利使用作业用MS“雷克汀”与其交战并成功捕获。然而“G-Self”的驾驶者，名为艾妲·雷哈顿的宇宙海贼少女却对贝尔利产生了某种感觉，不满足特定条件便不会启动的“G-Self”亦对贝尔利产生了某种反应。宇宙海贼和艾妲的目的、被“G-Self”选中的贝尔利的命运、令RC全体动摇的真相――这一切只不过是Reconguista的开始。",
+  "date": "2014-10-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/72/5f/54551_3H2ss.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/72/5f/54551_3H2ss.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 3103,
+    "total": 1091,
+    "count": {
+      "1": 12,
+      "2": 5,
+      "3": 11,
+      "4": 44,
+      "5": 67,
+      "6": 239,
+      "7": 351,
+      "8": 262,
+      "9": 81,
+      "10": 19
+    },
+    "score": 6.8
+  },
+  "tags": [
+    {
+      "name": "富野由悠季",
+      "count": 390
+    },
+    {
+      "name": "SUNRISE",
+      "count": 355
+    },
+    {
+      "name": "高达",
+      "count": 308
+    },
+    {
+      "name": "TV",
+      "count": 215
+    },
+    {
+      "name": "2014年10月",
+      "count": 164
+    },
+    {
+      "name": "原创",
+      "count": 162
+    },
+    {
+      "name": "萝卜",
+      "count": 155
+    },
+    {
+      "name": "2014",
+      "count": 125
+    },
+    {
+      "name": "高达G:Reconquista",
+      "count": 73
+    },
+    {
+      "name": "GUNDAM",
+      "count": 72
+    },
+    {
+      "name": "Gのレコンギスタ",
+      "count": 39
+    },
+    {
+      "name": "机战",
+      "count": 35
+    },
+    {
+      "name": "科幻",
+      "count": 19
+    },
+    {
+      "name": "菅野祐悟",
+      "count": 15
+    },
+    {
+      "name": "吉田健一",
+      "count": 12
+    },
+    {
+      "name": "2014年",
+      "count": 7
+    },
+    {
+      "name": "逢坂良太",
+      "count": 6
+    },
+    {
+      "name": "G:Reconquista",
+      "count": 6
+    },
+    {
+      "name": "TVA",
+      "count": 6
+    },
+    {
+      "name": "战斗",
+      "count": 5
+    },
+    {
+      "name": "サンライズ",
+      "count": 4
+    },
+    {
+      "name": "機動戦士ガンダム",
+      "count": 4
+    },
+    {
+      "name": "日本动画",
+      "count": 3
+    },
+    {
+      "name": "原创动画",
+      "count": 3
+    },
+    {
+      "name": "菅野佑悟",
+      "count": 3
+    },
+    {
+      "name": "半年番",
+      "count": 3
+    },
+    {
+      "name": "寿美菜子",
+      "count": 3
+    },
+    {
+      "name": "嶋村侑",
+      "count": 3
+    },
+    {
+      "name": "动画",
+      "count": 3
+    },
+    {
+      "name": "2010s",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

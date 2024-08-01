@@ -1,0 +1,153 @@
+{
+  "id": 200913,
+  "name": "アイカツ!～ねらわれた魔法のアイカツ!カ―ド～",
+  "name_cn": "偶像活动 ~被盯上的魔法偶活卡~",
+  "summary": "スターライトクイーンになったあかりをメインに、いちごが映画を撮る事に！\r\n1枚のアイカツ！カードを巡ってドタバタストーリー。 最後は25人のアイドルステージも❤",
+  "date": "2016-08-13",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ac/ce/200913_CcgMc.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ac/ce/200913_CcgMc.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 2784,
+    "total": 65,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 7,
+      "6": 14,
+      "7": 28,
+      "8": 12,
+      "9": 3,
+      "10": 0
+    },
+    "score": 6.8
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 37
+    },
+    {
+      "name": "2016",
+      "count": 25
+    },
+    {
+      "name": "BNPictures",
+      "count": 24
+    },
+    {
+      "name": "偶像",
+      "count": 17
+    },
+    {
+      "name": "偶像活动",
+      "count": 8
+    },
+    {
+      "name": "原创",
+      "count": 7
+    },
+    {
+      "name": "木村隆一",
+      "count": 5
+    },
+    {
+      "name": "SUNRISE",
+      "count": 4
+    },
+    {
+      "name": "百合",
+      "count": 4
+    },
+    {
+      "name": "幼女向",
+      "count": 3
+    },
+    {
+      "name": "加藤陽一",
+      "count": 3
+    },
+    {
+      "name": "2016年8月",
+      "count": 2
+    },
+    {
+      "name": "2016年",
+      "count": 2
+    },
+    {
+      "name": "Theater",
+      "count": 1
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1
+    },
+    {
+      "name": "下地紫野",
+      "count": 1
+    },
+    {
+      "name": "アイカツ",
+      "count": 1
+    },
+    {
+      "name": "剧场同映",
+      "count": 1
+    },
+    {
+      "name": "我难道说，是史上最弱的大友吗？",
+      "count": 1
+    },
+    {
+      "name": "唱跳rap",
+      "count": 1
+    },
+    {
+      "name": "太空明",
+      "count": 1
+    },
+    {
+      "name": "矢口弘子",
+      "count": 1
+    },
+    {
+      "name": "魔法卡",
+      "count": 1
+    },
+    {
+      "name": "BN_Pictures",
+      "count": 1
+    },
+    {
+      "name": "10代",
+      "count": 1
+    },
+    {
+      "name": "星宫草莓",
+      "count": 1
+    },
+    {
+      "name": "巴山萌菜",
+      "count": 1
+    },
+    {
+      "name": "偶活",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "游戏改",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,101 @@
+{
+  "id": 92950,
+  "name": "絶対無敵ライジンオー OVA",
+  "name_cn": "绝对无敌雷神王OVA",
+  "summary": "",
+  "date": "1992-09-30",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/71/b4/92950_Tl5yR.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/71/b4/92950_Tl5yR.jpg"
+  },
+  "eps": 3,
+  "rating": {
+    "rank": 0,
+    "total": 18,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 3,
+      "6": 6,
+      "7": 6,
+      "8": 2,
+      "9": 0,
+      "10": 1
+    },
+    "score": 6.6
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 9
+    },
+    {
+      "name": "SUNRISE",
+      "count": 8
+    },
+    {
+      "name": "1992",
+      "count": 7
+    },
+    {
+      "name": "萝卜",
+      "count": 3
+    },
+    {
+      "name": "園田英樹",
+      "count": 3
+    },
+    {
+      "name": "川瀬敏文",
+      "count": 3
+    },
+    {
+      "name": "林原めぐみ",
+      "count": 3
+    },
+    {
+      "name": "原创",
+      "count": 3
+    },
+    {
+      "name": "机战",
+      "count": 3
+    },
+    {
+      "name": "robo",
+      "count": 2
+    },
+    {
+      "name": "1990-1999",
+      "count": 1
+    },
+    {
+      "name": "OVA-01",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "科幻",
+      "count": 1
+    },
+    {
+      "name": "サンライズ",
+      "count": 1
+    },
+    {
+      "name": "松本梨香",
+      "count": 1
+    },
+    {
+      "name": "补番",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,65 @@
+{
+  "id": 141187,
+  "name": "こうしす!",
+  "name_cn": "京姬信息部！",
+  "summary": "自主製作有關資訊安全的動畫。\r\n",
+  "date": "2014-04-09",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/3f/36/141187_o0OC0.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/3f/36/141187_o0OC0.jpg"
+  },
+  "eps": 6,
+  "rating": {
+    "rank": 0,
+    "total": 2,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 1,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.5
+  },
+  "tags": [
+    {
+      "name": "同人",
+      "count": 3
+    },
+    {
+      "name": "2014",
+      "count": 2
+    },
+    {
+      "name": "2014年四月番",
+      "count": 2
+    },
+    {
+      "name": "2014年4月",
+      "count": 2
+    },
+    {
+      "name": "WEB",
+      "count": 2
+    },
+    {
+      "name": "搞笑",
+      "count": 2
+    },
+    {
+      "name": "百合",
+      "count": 2
+    },
+    {
+      "name": "2014年",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

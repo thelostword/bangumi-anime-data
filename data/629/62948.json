@@ -1,0 +1,153 @@
+{
+  "id": 62948,
+  "name": "ふたりはミルキィホームズ",
+  "name_cn": "两个人是少女福尔摩斯",
+  "summary": "",
+  "date": "2013-07-13",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ce/14/62948_h5bSP.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ce/14/62948_h5bSP.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 8224,
+    "total": 411,
+    "count": {
+      "1": 16,
+      "2": 16,
+      "3": 25,
+      "4": 56,
+      "5": 121,
+      "6": 113,
+      "7": 49,
+      "8": 13,
+      "9": 0,
+      "10": 2
+    },
+    "score": 5.1
+  },
+  "tags": [
+    {
+      "name": "J.C.STAFF",
+      "count": 108
+    },
+    {
+      "name": "2013年7月",
+      "count": 92
+    },
+    {
+      "name": "百合",
+      "count": 84
+    },
+    {
+      "name": "TV",
+      "count": 70
+    },
+    {
+      "name": "2013",
+      "count": 52
+    },
+    {
+      "name": "侦探",
+      "count": 50
+    },
+    {
+      "name": "侦探歌剧",
+      "count": 46
+    },
+    {
+      "name": "萌",
+      "count": 38
+    },
+    {
+      "name": "游戏改",
+      "count": 37
+    },
+    {
+      "name": "笨蛋",
+      "count": 31
+    },
+    {
+      "name": "NOMAD",
+      "count": 22
+    },
+    {
+      "name": "搞笑",
+      "count": 21
+    },
+    {
+      "name": "锦织博",
+      "count": 12
+    },
+    {
+      "name": "錦織博",
+      "count": 11
+    },
+    {
+      "name": "萝莉",
+      "count": 11
+    },
+    {
+      "name": "原创",
+      "count": 6
+    },
+    {
+      "name": "ノーマッド",
+      "count": 4
+    },
+    {
+      "name": "，可爱",
+      "count": 3
+    },
+    {
+      "name": "selebrity",
+      "count": 3
+    },
+    {
+      "name": "泡面番",
+      "count": 3
+    },
+    {
+      "name": "日本",
+      "count": 3
+    },
+    {
+      "name": "推理",
+      "count": 3
+    },
+    {
+      "name": "2013年",
+      "count": 2
+    },
+    {
+      "name": "holmes",
+      "count": 2
+    },
+    {
+      "name": "轻百合",
+      "count": 2
+    },
+    {
+      "name": "废萌",
+      "count": 2
+    },
+    {
+      "name": "三森すずこ",
+      "count": 2
+    },
+    {
+      "name": "2013夏",
+      "count": 2
+    },
+    {
+      "name": "愛美",
+      "count": 2
+    },
+    {
+      "name": "少女福尔摩斯",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

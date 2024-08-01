@@ -1,0 +1,153 @@
+{
+  "id": 110648,
+  "name": "WORKING!!!",
+  "name_cn": "迷糊餐厅 第三季",
+  "summary": "",
+  "date": "2015-07-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/59/dc/110648_52R1q.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/59/dc/110648_52R1q.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 866,
+    "total": 3467,
+    "count": {
+      "1": 3,
+      "2": 4,
+      "3": 3,
+      "4": 16,
+      "5": 63,
+      "6": 308,
+      "7": 1171,
+      "8": 1561,
+      "9": 254,
+      "10": 84
+    },
+    "score": 7.5
+  },
+  "tags": [
+    {
+      "name": "搞笑",
+      "count": 775
+    },
+    {
+      "name": "日常",
+      "count": 622
+    },
+    {
+      "name": "A-1Pictures",
+      "count": 573
+    },
+    {
+      "name": "2015年7月",
+      "count": 556
+    },
+    {
+      "name": "漫画改",
+      "count": 387
+    },
+    {
+      "name": "TV",
+      "count": 370
+    },
+    {
+      "name": "2015",
+      "count": 231
+    },
+    {
+      "name": "恋爱",
+      "count": 214
+    },
+    {
+      "name": "working!!",
+      "count": 195
+    },
+    {
+      "name": "神谷浩史",
+      "count": 169
+    },
+    {
+      "name": "漫改",
+      "count": 152
+    },
+    {
+      "name": "阿澄佳奈",
+      "count": 146
+    },
+    {
+      "name": "福山润",
+      "count": 119
+    },
+    {
+      "name": "萨满汪汪",
+      "count": 69
+    },
+    {
+      "name": "藤田咲",
+      "count": 48
+    },
+    {
+      "name": "职场",
+      "count": 28
+    },
+    {
+      "name": "WORKING",
+      "count": 23
+    },
+    {
+      "name": "迷糊餐厅",
+      "count": 22
+    },
+    {
+      "name": "鎌倉由実",
+      "count": 22
+    },
+    {
+      "name": "小野大辅",
+      "count": 21
+    },
+    {
+      "name": "治愈",
+      "count": 18
+    },
+    {
+      "name": "喜多村英梨",
+      "count": 15
+    },
+    {
+      "name": "欢乐",
+      "count": 14
+    },
+    {
+      "name": "镰仓由实",
+      "count": 13
+    },
+    {
+      "name": "高津カリノ",
+      "count": 12
+    },
+    {
+      "name": "2015年",
+      "count": 12
+    },
+    {
+      "name": "续作",
+      "count": 11
+    },
+    {
+      "name": "A-1",
+      "count": 11
+    },
+    {
+      "name": "第3期",
+      "count": 10
+    },
+    {
+      "name": "足立慎吾",
+      "count": 10
+    }
+  ],
+  "locked": false
+}

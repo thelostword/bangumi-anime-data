@@ -1,0 +1,41 @@
+{
+  "id": 238436,
+  "name": "金夜、安部礼司～平均的なサラリーマンの異常な日常～",
+  "name_cn": "",
+  "summary": "",
+  "date": "2015-07-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/a0/48/238436_5njr2.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/a0/48/238436_5njr2.jpg"
+  },
+  "eps": 5,
+  "rating": {
+    "rank": 0,
+    "total": 3,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 3,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5
+  },
+  "tags": [
+    {
+      "name": "时事热点",
+      "count": 1
+    },
+    {
+      "name": "DLE",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

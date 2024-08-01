@@ -1,0 +1,153 @@
+{
+  "id": 995,
+  "name": "N・H・Kにようこそ！",
+  "name_cn": "欢迎加入NHK！",
+  "summary": "大学退学第二年的春天，主角家里蹲废材佐藤达广在一事无成下，妄想认为自己的退学跟无职是NHK的全国性阴谋，就在这个时候在他面前出现了之前遇到过叫做中原岬的神秘美少女，并坚持达广一定要加入计划治好只会窝在家里的毛病……",
+  "date": "2006-07-09",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/2b/ca/995_1FUkm.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/2b/ca/995_1FUkm.jpg"
+  },
+  "eps": 24,
+  "rating": {
+    "rank": 145,
+    "total": 6264,
+    "count": {
+      "1": 11,
+      "2": 5,
+      "3": 13,
+      "4": 19,
+      "5": 68,
+      "6": 313,
+      "7": 1028,
+      "8": 2314,
+      "9": 1792,
+      "10": 701
+    },
+    "score": 8.2
+  },
+  "tags": [
+    {
+      "name": "GONZO",
+      "count": 1275
+    },
+    {
+      "name": "NHK",
+      "count": 1119
+    },
+    {
+      "name": "NEET",
+      "count": 923
+    },
+    {
+      "name": "家里蹲",
+      "count": 894
+    },
+    {
+      "name": "社会问题",
+      "count": 830
+    },
+    {
+      "name": "TV",
+      "count": 793
+    },
+    {
+      "name": "2006",
+      "count": 738
+    },
+    {
+      "name": "宅",
+      "count": 658
+    },
+    {
+      "name": "脱宅",
+      "count": 601
+    },
+    {
+      "name": "牧野由依",
+      "count": 599
+    },
+    {
+      "name": "治愈",
+      "count": 477
+    },
+    {
+      "name": "中原岬",
+      "count": 446
+    },
+    {
+      "name": "阴谋",
+      "count": 331
+    },
+    {
+      "name": "御宅描写",
+      "count": 245
+    },
+    {
+      "name": "NHKにようこそ!",
+      "count": 214
+    },
+    {
+      "name": "2006年7月",
+      "count": 163
+    },
+    {
+      "name": "山本裕介",
+      "count": 115
+    },
+    {
+      "name": "轻小说改",
+      "count": 113
+    },
+    {
+      "name": "小说改",
+      "count": 81
+    },
+    {
+      "name": "神作",
+      "count": 74
+    },
+    {
+      "name": "轻改",
+      "count": 65
+    },
+    {
+      "name": "漫画改",
+      "count": 46
+    },
+    {
+      "name": "日常",
+      "count": 41
+    },
+    {
+      "name": "搞笑",
+      "count": 40
+    },
+    {
+      "name": "2006年",
+      "count": 30
+    },
+    {
+      "name": "恋爱",
+      "count": 23
+    },
+    {
+      "name": "恶搞",
+      "count": 23
+    },
+    {
+      "name": "漫改",
+      "count": 21
+    },
+    {
+      "name": "社会",
+      "count": 19
+    },
+    {
+      "name": "西園悟",
+      "count": 15
+    }
+  ],
+  "locked": false
+}

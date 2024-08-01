@@ -1,0 +1,49 @@
+{
+  "id": 209767,
+  "name": "ぼくの防空壕",
+  "name_cn": "",
+  "summary": "",
+  "date": "2005-08-13",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/cd/f5/209767_5C7UZ.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/cd/f5/209767_5C7UZ.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 2
+    },
+    {
+      "name": "OVA-01",
+      "count": 1
+    },
+    {
+      "name": "2005",
+      "count": 1
+    },
+    {
+      "name": "空",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

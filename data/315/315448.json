@@ -1,0 +1,45 @@
+{
+  "id": 315448,
+  "name": "ハローキティのまほうのリンゴ",
+  "name_cn": "凯蒂猫 魔法苹果",
+  "summary": "",
+  "date": "1992-09-21",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/f2/bf/315448_FsBRs.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/f2/bf/315448_FsBRs.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 3,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 1,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "时事热点",
+      "count": 1
+    },
+    {
+      "name": "OVA-01",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

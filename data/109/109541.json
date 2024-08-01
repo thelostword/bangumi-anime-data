@@ -1,0 +1,153 @@
+{
+  "id": 109541,
+  "name": "純情ロマンチカ3",
+  "name_cn": "纯情罗曼史3",
+  "summary": "",
+  "date": "2015-07-08",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/d4/9d/109541_0g022.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/d4/9d/109541_0g022.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 2804,
+    "total": 398,
+    "count": {
+      "1": 2,
+      "2": 2,
+      "3": 3,
+      "4": 7,
+      "5": 24,
+      "6": 88,
+      "7": 154,
+      "8": 89,
+      "9": 20,
+      "10": 9
+    },
+    "score": 6.9
+  },
+  "tags": [
+    {
+      "name": "BL",
+      "count": 132
+    },
+    {
+      "name": "耽美",
+      "count": 115
+    },
+    {
+      "name": "2015年7月",
+      "count": 99
+    },
+    {
+      "name": "中村春菊",
+      "count": 88
+    },
+    {
+      "name": "纯情罗曼史",
+      "count": 56
+    },
+    {
+      "name": "TV",
+      "count": 52
+    },
+    {
+      "name": "studiodeen",
+      "count": 46
+    },
+    {
+      "name": "2015",
+      "count": 42
+    },
+    {
+      "name": "櫻井孝宏",
+      "count": 33
+    },
+    {
+      "name": "漫画改",
+      "count": 30
+    },
+    {
+      "name": "今千秋",
+      "count": 27
+    },
+    {
+      "name": "漫改",
+      "count": 14
+    },
+    {
+      "name": "花田光",
+      "count": 14
+    },
+    {
+      "name": "樱井孝宏",
+      "count": 12
+    },
+    {
+      "name": "腐",
+      "count": 11
+    },
+    {
+      "name": "恋爱",
+      "count": 5
+    },
+    {
+      "name": "2015年",
+      "count": 5
+    },
+    {
+      "name": "漫畫改",
+      "count": 3
+    },
+    {
+      "name": "续作",
+      "count": 3
+    },
+    {
+      "name": "下野紘",
+      "count": 3
+    },
+    {
+      "name": "TVA",
+      "count": 2
+    },
+    {
+      "name": "スタジオディーン",
+      "count": 2
+    },
+    {
+      "name": "菊地洋子",
+      "count": 2
+    },
+    {
+      "name": "腐向",
+      "count": 2
+    },
+    {
+      "name": "アニメ",
+      "count": 2
+    },
+    {
+      "name": "水樹奈々",
+      "count": 2
+    },
+    {
+      "name": "横手美智子",
+      "count": 2
+    },
+    {
+      "name": "15夏",
+      "count": 2
+    },
+    {
+      "name": "STUDIO_DEEN",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

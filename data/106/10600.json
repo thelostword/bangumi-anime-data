@@ -1,0 +1,153 @@
+{
+  "id": 10600,
+  "name": "X-MEN",
+  "name_cn": "X战警",
+  "summary": "Marvel作品动画化第三弹。",
+  "date": "2011-04-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/3b/b5/10600_RZVhH.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/3b/b5/10600_RZVhH.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 5572,
+    "total": 78,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 1,
+      "4": 5,
+      "5": 22,
+      "6": 26,
+      "7": 13,
+      "8": 9,
+      "9": 0,
+      "10": 1
+    },
+    "score": 5.9
+  },
+  "tags": [
+    {
+      "name": "MADHouse",
+      "count": 18
+    },
+    {
+      "name": "美漫",
+      "count": 14
+    },
+    {
+      "name": "TV",
+      "count": 11
+    },
+    {
+      "name": "2011",
+      "count": 10
+    },
+    {
+      "name": "xman",
+      "count": 8
+    },
+    {
+      "name": "x-men",
+      "count": 7
+    },
+    {
+      "name": "2011年4月",
+      "count": 5
+    },
+    {
+      "name": "HERO",
+      "count": 4
+    },
+    {
+      "name": "内涵作",
+      "count": 3
+    },
+    {
+      "name": "日本",
+      "count": 3
+    },
+    {
+      "name": "日番",
+      "count": 2
+    },
+    {
+      "name": "森川智之",
+      "count": 2
+    },
+    {
+      "name": "木﨑文智",
+      "count": 2
+    },
+    {
+      "name": "2011年春番",
+      "count": 1
+    },
+    {
+      "name": "2010-2019",
+      "count": 1
+    },
+    {
+      "name": "Marvel改",
+      "count": 1
+    },
+    {
+      "name": "日本漫威",
+      "count": 1
+    },
+    {
+      "name": "漫改",
+      "count": 1
+    },
+    {
+      "name": "2011.01",
+      "count": 1
+    },
+    {
+      "name": "漫威",
+      "count": 1
+    },
+    {
+      "name": "欧美向",
+      "count": 1
+    },
+    {
+      "name": "疯房子",
+      "count": 1
+    },
+    {
+      "name": "扫番",
+      "count": 1
+    },
+    {
+      "name": "2011春",
+      "count": 1
+    },
+    {
+      "name": "二〇一一年",
+      "count": 1
+    },
+    {
+      "name": "b级",
+      "count": 1
+    },
+    {
+      "name": "民工漫",
+      "count": 1
+    },
+    {
+      "name": "漫画改编",
+      "count": 1
+    },
+    {
+      "name": "田村ゆかり",
+      "count": 1
+    },
+    {
+      "name": "4月",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

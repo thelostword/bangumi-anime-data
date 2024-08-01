@@ -1,0 +1,109 @@
+{
+  "id": 11121,
+  "name": "人造昆虫カブトボーグ V×V",
+  "name_cn": "人造昆虫KABUTOBORG V×V",
+  "summary": "世界大会まで開催されるほどの人気となった、カブトボーグを使った戦い「ボーグバトル」。主人公リュウセイは、親友である勝治やケンと共にバトルに熱中。次々と現れる強敵を相手に、日々戦い続ける。",
+  "date": "2006-10-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/0f/b9/11121_BlpZP.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/0f/b9/11121_BlpZP.jpg"
+  },
+  "eps": 52,
+  "rating": {
+    "rank": 0,
+    "total": 32,
+    "count": {
+      "1": 5,
+      "2": 0,
+      "3": 2,
+      "4": 3,
+      "5": 0,
+      "6": 4,
+      "7": 4,
+      "8": 2,
+      "9": 2,
+      "10": 10
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 13
+    },
+    {
+      "name": "2006",
+      "count": 12
+    },
+    {
+      "name": "原创",
+      "count": 9
+    },
+    {
+      "name": "搞笑",
+      "count": 8
+    },
+    {
+      "name": "子供向",
+      "count": 8
+    },
+    {
+      "name": "补番",
+      "count": 3
+    },
+    {
+      "name": "2006年",
+      "count": 3
+    },
+    {
+      "name": "kuso",
+      "count": 3
+    },
+    {
+      "name": "超越人类的高级生物特供作品",
+      "count": 2
+    },
+    {
+      "name": "大脑升级",
+      "count": 2
+    },
+    {
+      "name": "G&G",
+      "count": 2
+    },
+    {
+      "name": "单元剧",
+      "count": 2
+    },
+    {
+      "name": "neta",
+      "count": 2
+    },
+    {
+      "name": "长剧集",
+      "count": 1
+    },
+    {
+      "name": "奇葩向",
+      "count": 1
+    },
+    {
+      "name": "养老",
+      "count": 1
+    },
+    {
+      "name": "2006年10月",
+      "count": 1
+    },
+    {
+      "name": "不评分",
+      "count": 1
+    },
+    {
+      "name": "NAS",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

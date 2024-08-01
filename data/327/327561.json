@@ -1,0 +1,153 @@
+{
+  "id": 327561,
+  "name": "ぷっちみく♪ D4DJ Petit Mix",
+  "name_cn": "",
+  "summary": "期待、革命、未知、挑戦、覚悟、冒険\r\nそれぞれの思いを胸に6つのDJユニットが新たに目指す伝説のフェスとは・・・!?",
+  "date": "2021-02-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e0/5d/327561_0514N.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e0/5d/327561_0514N.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 0,
+    "total": 42,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 10,
+      "6": 23,
+      "7": 6,
+      "8": 3,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "2021",
+      "count": 16
+    },
+    {
+      "name": "D4DJ",
+      "count": 12
+    },
+    {
+      "name": "WEB",
+      "count": 11
+    },
+    {
+      "name": "偶像",
+      "count": 10
+    },
+    {
+      "name": "小剧场",
+      "count": 10
+    },
+    {
+      "name": "原创",
+      "count": 9
+    },
+    {
+      "name": "SP",
+      "count": 8
+    },
+    {
+      "name": "音乐",
+      "count": 8
+    },
+    {
+      "name": "DMM.futureworks",
+      "count": 7
+    },
+    {
+      "name": "泡面番",
+      "count": 6
+    },
+    {
+      "name": "宫岛星矢",
+      "count": 5
+    },
+    {
+      "name": "2021年2月",
+      "count": 4
+    },
+    {
+      "name": "W-toonStudio",
+      "count": 4
+    },
+    {
+      "name": "TV",
+      "count": 4
+    },
+    {
+      "name": "2021年1月",
+      "count": 3
+    },
+    {
+      "name": "DJ",
+      "count": 3
+    },
+    {
+      "name": "西尾夕香",
+      "count": 2
+    },
+    {
+      "name": "搞笑",
+      "count": 2
+    },
+    {
+      "name": "ブシロード",
+      "count": 2
+    },
+    {
+      "name": "志崎桦音",
+      "count": 1
+    },
+    {
+      "name": "三村遙佳",
+      "count": 1
+    },
+    {
+      "name": "各務華梨",
+      "count": 1
+    },
+    {
+      "name": "已收录(WebRip)",
+      "count": 1
+    },
+    {
+      "name": "DMM.futureworks、W-ToonStudio",
+      "count": 1
+    },
+    {
+      "name": "令和",
+      "count": 1
+    },
+    {
+      "name": "三村遥佳",
+      "count": 1
+    },
+    {
+      "name": "各务华梨",
+      "count": 1
+    },
+    {
+      "name": "短片",
+      "count": 1
+    },
+    {
+      "name": "ダブトゥーンスタジオ",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

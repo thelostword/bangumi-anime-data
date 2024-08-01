@@ -1,0 +1,153 @@
+{
+  "id": 286123,
+  "name": "ガンダムビルドダイバーズRe:RISE",
+  "name_cn": "高达创形者 再起",
+  "summary": "本作是“机动战士高达40周年企划”的作品之一。描述创形者大放异彩之后已经过去了2年。经过版本升级后的GBN也越发火爆。独自徘徊于次元世界空间的潜行者悠人、孤傲轻佻的潜行者风见、独行侠潜行者芽依、以及孤单一人的新手潜行者帕维兹。这些原本孤独的玩家，却因为某个契机，组成另一支「创形者」了。等待着悠人他们的，是超越GBN的无极限超体验。",
+  "date": "2019-10-10",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/22/8c/286123_tUpT7.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/22/8c/286123_tUpT7.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 2476,
+    "total": 929,
+    "count": {
+      "1": 0,
+      "2": 2,
+      "3": 4,
+      "4": 11,
+      "5": 42,
+      "6": 190,
+      "7": 412,
+      "8": 217,
+      "9": 36,
+      "10": 15
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "高达",
+      "count": 241
+    },
+    {
+      "name": "SUNRISE",
+      "count": 236
+    },
+    {
+      "name": "原创",
+      "count": 167
+    },
+    {
+      "name": "TV",
+      "count": 139
+    },
+    {
+      "name": "2019年10月",
+      "count": 128
+    },
+    {
+      "name": "萝卜",
+      "count": 109
+    },
+    {
+      "name": "机战",
+      "count": 85
+    },
+    {
+      "name": "2019",
+      "count": 74
+    },
+    {
+      "name": "高达创形者",
+      "count": 67
+    },
+    {
+      "name": "綿田慎也",
+      "count": 25
+    },
+    {
+      "name": "GUNDAM",
+      "count": 23
+    },
+    {
+      "name": "WEB",
+      "count": 19
+    },
+    {
+      "name": "动画",
+      "count": 11
+    },
+    {
+      "name": "robo",
+      "count": 11
+    },
+    {
+      "name": "绵田慎也",
+      "count": 10
+    },
+    {
+      "name": "科幻",
+      "count": 9
+    },
+    {
+      "name": "小林千晃",
+      "count": 6
+    },
+    {
+      "name": "异世界",
+      "count": 4
+    },
+    {
+      "name": "むとうやすゆき",
+      "count": 4
+    },
+    {
+      "name": "小男孩",
+      "count": 4
+    },
+    {
+      "name": "续篇",
+      "count": 4
+    },
+    {
+      "name": "日本动画",
+      "count": 4
+    },
+    {
+      "name": "日本",
+      "count": 3
+    },
+    {
+      "name": "SUNRISEbeyond",
+      "count": 3
+    },
+    {
+      "name": "武藤康之",
+      "count": 2
+    },
+    {
+      "name": "机动战士高达",
+      "count": 2
+    },
+    {
+      "name": "季番",
+      "count": 2
+    },
+    {
+      "name": "胶达",
+      "count": 2
+    },
+    {
+      "name": "原创动画",
+      "count": 2
+    },
+    {
+      "name": "战斗",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

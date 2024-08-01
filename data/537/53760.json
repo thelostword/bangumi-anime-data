@@ -1,0 +1,53 @@
+{
+  "id": 53760,
+  "name": "元祖天才バカボン",
+  "name_cn": "元祖天才傻鹏",
+  "summary": "",
+  "date": "1975-10-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/38/13/53760_YZK20.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/38/13/53760_YZK20.jpg"
+  },
+  "eps": 103,
+  "rating": {
+    "rank": 0,
+    "total": 4,
+    "count": {
+      "1": 2,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 1,
+      "8": 0,
+      "9": 1,
+      "10": 0
+    },
+    "score": 4.5
+  },
+  "tags": [
+    {
+      "name": "经典",
+      "count": 2
+    },
+    {
+      "name": "东京电影",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "1975",
+      "count": 1
+    },
+    {
+      "name": "童年",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

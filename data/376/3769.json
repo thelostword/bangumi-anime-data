@@ -1,0 +1,153 @@
+{
+  "id": 3769,
+  "name": "ブギーポップは笑わない Boogiepop Phantom",
+  "name_cn": "幻影死神",
+  "summary": "　　故事以一连串女高中生离奇死亡的事件开始，深阳学园2年C组的女学生宫下藤花原来隐藏著Boogiepop的第二重人格，行为奇异，究竟宫下是否这些死亡事件的主谋呢？\r\n　　Boogiepop Phantom到底是都市中传说的死神，还是正义的使者？",
+  "date": "2000-01-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/46/25/3769_jc66R.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/46/25/3769_jc66R.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 1576,
+    "total": 384,
+    "count": {
+      "1": 0,
+      "2": 2,
+      "3": 2,
+      "4": 7,
+      "5": 14,
+      "6": 64,
+      "7": 133,
+      "8": 110,
+      "9": 32,
+      "10": 20
+    },
+    "score": 7.3
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 159
+    },
+    {
+      "name": "MADHouse",
+      "count": 159
+    },
+    {
+      "name": "2000",
+      "count": 141
+    },
+    {
+      "name": "意识流",
+      "count": 104
+    },
+    {
+      "name": "轻小说改",
+      "count": 68
+    },
+    {
+      "name": "猎奇",
+      "count": 62
+    },
+    {
+      "name": "实验动画",
+      "count": 59
+    },
+    {
+      "name": "抑郁",
+      "count": 51
+    },
+    {
+      "name": "渡部高志",
+      "count": 44
+    },
+    {
+      "name": "上远野浩平",
+      "count": 41
+    },
+    {
+      "name": "世界系",
+      "count": 28
+    },
+    {
+      "name": "BoogiepopPhantom",
+      "count": 19
+    },
+    {
+      "name": "轻改",
+      "count": 19
+    },
+    {
+      "name": "校园",
+      "count": 16
+    },
+    {
+      "name": "小说改",
+      "count": 14
+    },
+    {
+      "name": "补番",
+      "count": 13
+    },
+    {
+      "name": "2000年1月",
+      "count": 11
+    },
+    {
+      "name": "悬疑",
+      "count": 8
+    },
+    {
+      "name": "奇幻",
+      "count": 7
+    },
+    {
+      "name": "战斗",
+      "count": 5
+    },
+    {
+      "name": "神作",
+      "count": 5
+    },
+    {
+      "name": "Lain",
+      "count": 5
+    },
+    {
+      "name": "村井さだゆき",
+      "count": 5
+    },
+    {
+      "name": "清水香里",
+      "count": 4
+    },
+    {
+      "name": "不吉波普不笑",
+      "count": 4
+    },
+    {
+      "name": "TVA",
+      "count": 3
+    },
+    {
+      "name": "2000年",
+      "count": 3
+    },
+    {
+      "name": "6分",
+      "count": 3
+    },
+    {
+      "name": "科幻",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 3
+    }
+  ],
+  "locked": false
+}

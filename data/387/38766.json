@@ -1,0 +1,153 @@
+{
+  "id": 38766,
+  "name": "天上天下 ULTIMATE FIGHT",
+  "name_cn": "天上天下 终极格斗",
+  "summary": "",
+  "date": "2005-03-16",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/36/d6/38766_Y2yV9.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/36/d6/38766_Y2yV9.jpg"
+  },
+  "eps": 2,
+  "rating": {
+    "rank": 5100,
+    "total": 90,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 2,
+      "5": 16,
+      "6": 40,
+      "7": 25,
+      "8": 5,
+      "9": 1,
+      "10": 0
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 43
+    },
+    {
+      "name": "2005",
+      "count": 18
+    },
+    {
+      "name": "大暮维人",
+      "count": 15
+    },
+    {
+      "name": "热血",
+      "count": 15
+    },
+    {
+      "name": "MADHouse",
+      "count": 14
+    },
+    {
+      "name": "肉",
+      "count": 13
+    },
+    {
+      "name": "校园",
+      "count": 12
+    },
+    {
+      "name": "漫画改",
+      "count": 8
+    },
+    {
+      "name": "战斗",
+      "count": 8
+    },
+    {
+      "name": "茅原実里",
+      "count": 7
+    },
+    {
+      "name": "森川智之",
+      "count": 3
+    },
+    {
+      "name": "2005年",
+      "count": 3
+    },
+    {
+      "name": "川瀬敏文",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 3
+    },
+    {
+      "name": "保志总一朗",
+      "count": 2
+    },
+    {
+      "name": "三木眞一郎",
+      "count": 2
+    },
+    {
+      "name": "漫改",
+      "count": 2
+    },
+    {
+      "name": "格斗",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 2
+    },
+    {
+      "name": "関智一",
+      "count": 2
+    },
+    {
+      "name": "补旧番",
+      "count": 2
+    },
+    {
+      "name": "茅原实里",
+      "count": 2
+    },
+    {
+      "name": "2005年3月",
+      "count": 2
+    },
+    {
+      "name": "矢尾一樹",
+      "count": 1
+    },
+    {
+      "name": "爷青回",
+      "count": 1
+    },
+    {
+      "name": "喜欢",
+      "count": 1
+    },
+    {
+      "name": "三宅健太",
+      "count": 1
+    },
+    {
+      "name": "OVA-01",
+      "count": 1
+    },
+    {
+      "name": "异能打斗类",
+      "count": 1
+    },
+    {
+      "name": "浜田賢二",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

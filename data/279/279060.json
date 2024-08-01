@@ -1,0 +1,69 @@
+{
+  "id": 279060,
+  "name": "機動戦士SDガンダムまつり",
+  "name_cn": "机动战士SD高达祭",
+  "summary": "共分为4部放映。\r\nSDコマンド戦記 ガンダムフォース スーパーGアームズ ファイナルフォーミュラーVSノウムギャザー（15分）\r\nSDガンダム外伝 聖機兵物語 第1章・第2章（53分）\r\nSD戦国伝 天下泰平編（13分）",
+  "date": "1993-03-13",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/55/85/279060_neFg6.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/55/85/279060_neFg6.jpg"
+  },
+  "eps": 4,
+  "rating": {
+    "rank": 0,
+    "total": 5,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 0,
+      "5": 1,
+      "6": 2,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "SUNRISE",
+      "count": 7
+    },
+    {
+      "name": "1993",
+      "count": 5
+    },
+    {
+      "name": "网野哲郎",
+      "count": 2
+    },
+    {
+      "name": "今西隆志",
+      "count": 2
+    },
+    {
+      "name": "OVA",
+      "count": 2
+    },
+    {
+      "name": "村瀬修功",
+      "count": 1
+    },
+    {
+      "name": "GUNDAM",
+      "count": 1
+    },
+    {
+      "name": "剧场版",
+      "count": 1
+    },
+    {
+      "name": "SD",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

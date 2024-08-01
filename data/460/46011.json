@@ -1,0 +1,153 @@
+{
+  "id": 46011,
+  "name": "僕は友達が少ないNEXT",
+  "name_cn": "我的朋友很少NEXT",
+  "summary": "",
+  "date": "2013-01-10",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/1e/5f/46011_iAqQF.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/1e/5f/46011_iAqQF.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 3612,
+    "total": 5680,
+    "count": {
+      "1": 14,
+      "2": 13,
+      "3": 28,
+      "4": 103,
+      "5": 391,
+      "6": 1604,
+      "7": 2289,
+      "8": 1023,
+      "9": 130,
+      "10": 85
+    },
+    "score": 6.8
+  },
+  "tags": [
+    {
+      "name": "我的朋友很少",
+      "count": 894
+    },
+    {
+      "name": "后宫",
+      "count": 849
+    },
+    {
+      "name": "2013年1月",
+      "count": 816
+    },
+    {
+      "name": "轻小说改",
+      "count": 659
+    },
+    {
+      "name": "肉",
+      "count": 645
+    },
+    {
+      "name": "我的后宫很多",
+      "count": 589
+    },
+    {
+      "name": "校园",
+      "count": 510
+    },
+    {
+      "name": "TV",
+      "count": 501
+    },
+    {
+      "name": "AIC",
+      "count": 474
+    },
+    {
+      "name": "搞笑",
+      "count": 396
+    },
+    {
+      "name": "2013",
+      "count": 281
+    },
+    {
+      "name": "僕は友達が少ないNEXT",
+      "count": 242
+    },
+    {
+      "name": "花泽香菜",
+      "count": 187
+    },
+    {
+      "name": "轻改",
+      "count": 114
+    },
+    {
+      "name": "恋爱",
+      "count": 98
+    },
+    {
+      "name": "日常",
+      "count": 68
+    },
+    {
+      "name": "续作",
+      "count": 42
+    },
+    {
+      "name": "小说改",
+      "count": 37
+    },
+    {
+      "name": "百合",
+      "count": 36
+    },
+    {
+      "name": "卖肉",
+      "count": 35
+    },
+    {
+      "name": "井上麻里奈",
+      "count": 31
+    },
+    {
+      "name": "花澤香菜",
+      "count": 23
+    },
+    {
+      "name": "木村良平",
+      "count": 23
+    },
+    {
+      "name": "喜多幡徹",
+      "count": 21
+    },
+    {
+      "name": "2013年",
+      "count": 19
+    },
+    {
+      "name": "喜剧",
+      "count": 16
+    },
+    {
+      "name": "平坂读",
+      "count": 15
+    },
+    {
+      "name": "轻小说",
+      "count": 15
+    },
+    {
+      "name": "我爱空哥",
+      "count": 13
+    },
+    {
+      "name": "NEXT",
+      "count": 12
+    }
+  ],
+  "locked": false
+}

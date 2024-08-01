@@ -1,0 +1,153 @@
+{
+  "id": 413635,
+  "name": "うる星やつら 第2期",
+  "name_cn": "福星小子 第二季",
+  "summary": "",
+  "date": "2024-01-11",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/74/b8/413635_T5j1Z.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/74/b8/413635_T5j1Z.jpg"
+  },
+  "eps": 23,
+  "rating": {
+    "rank": 826,
+    "total": 856,
+    "count": {
+      "1": 1,
+      "2": 2,
+      "3": 2,
+      "4": 4,
+      "5": 22,
+      "6": 76,
+      "7": 253,
+      "8": 388,
+      "9": 77,
+      "10": 31
+    },
+    "score": 7.6
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 231
+    },
+    {
+      "name": "2024年1月",
+      "count": 230
+    },
+    {
+      "name": "恋爱",
+      "count": 214
+    },
+    {
+      "name": "搞笑",
+      "count": 207
+    },
+    {
+      "name": "davidproduction",
+      "count": 202
+    },
+    {
+      "name": "漫画改",
+      "count": 196
+    },
+    {
+      "name": "日常",
+      "count": 153
+    },
+    {
+      "name": "2024",
+      "count": 129
+    },
+    {
+      "name": "福星小子",
+      "count": 107
+    },
+    {
+      "name": "漫改",
+      "count": 94
+    },
+    {
+      "name": "校园",
+      "count": 75
+    },
+    {
+      "name": "续作",
+      "count": 44
+    },
+    {
+      "name": "奇幻",
+      "count": 38
+    },
+    {
+      "name": "木村泰大",
+      "count": 36
+    },
+    {
+      "name": "高桥秀弥",
+      "count": 26
+    },
+    {
+      "name": "高桥留美子",
+      "count": 14
+    },
+    {
+      "name": "髙橋秀弥",
+      "count": 10
+    },
+    {
+      "name": "神谷浩史",
+      "count": 7
+    },
+    {
+      "name": "高橋留美子",
+      "count": 6
+    },
+    {
+      "name": "半年番",
+      "count": 6
+    },
+    {
+      "name": "柿原優子",
+      "count": 5
+    },
+    {
+      "name": "横山克",
+      "count": 5
+    },
+    {
+      "name": "2024年",
+      "count": 4
+    },
+    {
+      "name": "喜剧",
+      "count": 4
+    },
+    {
+      "name": "david_production",
+      "count": 4
+    },
+    {
+      "name": "柿原优子",
+      "count": 3
+    },
+    {
+      "name": "大卫社",
+      "count": 3
+    },
+    {
+      "name": "2024年4月",
+      "count": 2
+    },
+    {
+      "name": "上坂堇",
+      "count": 2
+    },
+    {
+      "name": "2023",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

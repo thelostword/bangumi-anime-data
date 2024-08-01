@@ -1,0 +1,45 @@
+{
+  "id": 216376,
+  "name": "ななみちゃん",
+  "name_cn": "魔法娜娜咪",
+  "summary": "",
+  "date": "2004-10-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/7e/33/216376_wK6U6.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/7e/33/216376_wK6U6.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 10
+  },
+  "tags": [
+    {
+      "name": "时事热点",
+      "count": 1
+    },
+    {
+      "name": "补",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

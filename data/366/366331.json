@@ -1,0 +1,153 @@
+{
+  "id": 366331,
+  "name": "アリス・ギア・アイギス EXPANSION",
+  "name_cn": "机战少女 Alice Expansion",
+  "summary": "时间为未来，在受到机械生命体「Weiß」突如其来的袭击下，人类被迫从地球逃出进入宇宙世界。 宇宙舰队SHARD在逃脱的这段期间成功开发了能让人类对抗Weiß的高次元兵装Alice Gear，并将适合操作它们的优秀女性称作Actress。\r\n随着时间过去，民间企业的 Actress 在得到对 Weiß 组织「AEGiS」的认可后，也能从事驱除 Weiß 的工作，而这也是身负「Alice Gear」的少女们拯救流浪宇宙人类的故事开端！",
+  "date": "2023-04-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c0/e6/366331_l3w8h.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c0/e6/366331_l3w8h.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 7380,
+    "total": 369,
+    "count": {
+      "1": 5,
+      "2": 6,
+      "3": 10,
+      "4": 28,
+      "5": 94,
+      "6": 143,
+      "7": 60,
+      "8": 10,
+      "9": 7,
+      "10": 6
+    },
+    "score": 5.7
+  },
+  "tags": [
+    {
+      "name": "游戏改",
+      "count": 147
+    },
+    {
+      "name": "2023年4月",
+      "count": 129
+    },
+    {
+      "name": "NOMAD",
+      "count": 98
+    },
+    {
+      "name": "TV",
+      "count": 92
+    },
+    {
+      "name": "轻百合",
+      "count": 62
+    },
+    {
+      "name": "2023",
+      "count": 62
+    },
+    {
+      "name": "百合",
+      "count": 55
+    },
+    {
+      "name": "科幻",
+      "count": 45
+    },
+    {
+      "name": "日常",
+      "count": 44
+    },
+    {
+      "name": "搞笑",
+      "count": 38
+    },
+    {
+      "name": "机战少女",
+      "count": 36
+    },
+    {
+      "name": "花井宏和",
+      "count": 26
+    },
+    {
+      "name": "手游改",
+      "count": 19
+    },
+    {
+      "name": "日本动画",
+      "count": 10
+    },
+    {
+      "name": "2023年",
+      "count": 10
+    },
+    {
+      "name": "战斗",
+      "count": 6
+    },
+    {
+      "name": "TVA",
+      "count": 5
+    },
+    {
+      "name": "沼倉愛美",
+      "count": 4
+    },
+    {
+      "name": "游改",
+      "count": 3
+    },
+    {
+      "name": "第一季",
+      "count": 3
+    },
+    {
+      "name": "表",
+      "count": 3
+    },
+    {
+      "name": "日本",
+      "count": 3
+    },
+    {
+      "name": "原创",
+      "count": 3
+    },
+    {
+      "name": "动画",
+      "count": 2
+    },
+    {
+      "name": "杉原研二",
+      "count": 2
+    },
+    {
+      "name": "内田真礼",
+      "count": 2
+    },
+    {
+      "name": "根本京里",
+      "count": 2
+    },
+    {
+      "name": "机战",
+      "count": 2
+    },
+    {
+      "name": "ノーマッド",
+      "count": 2
+    },
+    {
+      "name": "石川由依",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

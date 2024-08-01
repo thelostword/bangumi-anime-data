@@ -1,0 +1,153 @@
+{
+  "id": 110568,
+  "name": "レーカン！",
+  "name_cn": "灵感少女！",
+  "summary": "转学生天海响是一个拥有灵感体质的高中女生，故事即是描写响、幽灵和同学一起度过的日常生活。",
+  "date": "2015-04-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/6d/fc/110568_3qX23.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/6d/fc/110568_3qX23.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 5889,
+    "total": 920,
+    "count": {
+      "1": 5,
+      "2": 1,
+      "3": 12,
+      "4": 40,
+      "5": 128,
+      "6": 344,
+      "7": 280,
+      "8": 91,
+      "9": 8,
+      "10": 11
+    },
+    "score": 6.3
+  },
+  "tags": [
+    {
+      "name": "百合",
+      "count": 321
+    },
+    {
+      "name": "芳文社",
+      "count": 236
+    },
+    {
+      "name": "2015年4月",
+      "count": 231
+    },
+    {
+      "name": "漫画改",
+      "count": 173
+    },
+    {
+      "name": "治愈",
+      "count": 141
+    },
+    {
+      "name": "搞笑",
+      "count": 138
+    },
+    {
+      "name": "TV",
+      "count": 135
+    },
+    {
+      "name": "幽灵",
+      "count": 81
+    },
+    {
+      "name": "2015",
+      "count": 81
+    },
+    {
+      "name": "灵感少女",
+      "count": 67
+    },
+    {
+      "name": "漫改",
+      "count": 60
+    },
+    {
+      "name": "灵感！",
+      "count": 58
+    },
+    {
+      "name": "PIERROT+",
+      "count": 40
+    },
+    {
+      "name": "日常",
+      "count": 29
+    },
+    {
+      "name": "PERROT+",
+      "count": 21
+    },
+    {
+      "name": "轻百合",
+      "count": 17
+    },
+    {
+      "name": "灵感",
+      "count": 13
+    },
+    {
+      "name": "St.Signpost",
+      "count": 12
+    },
+    {
+      "name": "工藤昌史",
+      "count": 10
+    },
+    {
+      "name": "校园",
+      "count": 7
+    },
+    {
+      "name": "奇幻",
+      "count": 7
+    },
+    {
+      "name": "2015年",
+      "count": 6
+    },
+    {
+      "name": "ぴえろプラス",
+      "count": 3
+    },
+    {
+      "name": "木户衣吹",
+      "count": 3
+    },
+    {
+      "name": "日本",
+      "count": 3
+    },
+    {
+      "name": "萌",
+      "count": 3
+    },
+    {
+      "name": "PIERROT",
+      "count": 3
+    },
+    {
+      "name": "青岛崇",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 3
+    },
+    {
+      "name": "M・A・O",
+      "count": 3
+    }
+  ],
+  "locked": false
+}

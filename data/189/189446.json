@@ -1,0 +1,153 @@
+{
+  "id": 189446,
+  "name": "ID-0",
+  "name_cn": "",
+  "summary": "I-MACHINE——这是在极限环境之中进行作业的大型机器人的总称。\r\n联盟学院的学生·三栗麻耶在使用I-MACHINE时被卷入了一场事故，幸而被同样使用I-MACHINE来采掘“欧利哈尔特矿石”的一批人救下，并坐上了他们的宇宙船。\r\n就这样成为了实际上等同于宇宙海盗的埃斯卡维特公司的“职员”之一……。",
+  "date": "2017-04-09",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/84/33/189446_xLEhG.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/84/33/189446_xLEhG.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 1736,
+    "total": 1291,
+    "count": {
+      "1": 2,
+      "2": 0,
+      "3": 6,
+      "4": 18,
+      "5": 44,
+      "6": 174,
+      "7": 525,
+      "8": 444,
+      "9": 62,
+      "10": 16
+    },
+    "score": 7.2
+  },
+  "tags": [
+    {
+      "name": "原创",
+      "count": 342
+    },
+    {
+      "name": "2017年4月",
+      "count": 275
+    },
+    {
+      "name": "科幻",
+      "count": 257
+    },
+    {
+      "name": "谷口悟朗",
+      "count": 255
+    },
+    {
+      "name": "TV",
+      "count": 229
+    },
+    {
+      "name": "萝卜",
+      "count": 211
+    },
+    {
+      "name": "2017",
+      "count": 132
+    },
+    {
+      "name": "黑田洋介",
+      "count": 130
+    },
+    {
+      "name": "3D",
+      "count": 125
+    },
+    {
+      "name": "サンジゲン",
+      "count": 72
+    },
+    {
+      "name": "三次元",
+      "count": 54
+    },
+    {
+      "name": "黒田洋介",
+      "count": 48
+    },
+    {
+      "name": "村田蓮爾",
+      "count": 36
+    },
+    {
+      "name": "ID-0",
+      "count": 30
+    },
+    {
+      "name": "服部隆之",
+      "count": 17
+    },
+    {
+      "name": "SANZIGEN",
+      "count": 8
+    },
+    {
+      "name": "机战",
+      "count": 8
+    },
+    {
+      "name": "宇宙",
+      "count": 7
+    },
+    {
+      "name": "TVA",
+      "count": 7
+    },
+    {
+      "name": "興津和幸",
+      "count": 6
+    },
+    {
+      "name": "小澤亜李",
+      "count": 6
+    },
+    {
+      "name": "2017年",
+      "count": 5
+    },
+    {
+      "name": "SF",
+      "count": 5
+    },
+    {
+      "name": "金元寿子",
+      "count": 4
+    },
+    {
+      "name": "村田莲尔",
+      "count": 4
+    },
+    {
+      "name": "原创动画",
+      "count": 3
+    },
+    {
+      "name": "B站",
+      "count": 3
+    },
+    {
+      "name": "挖矿",
+      "count": 3
+    },
+    {
+      "name": "TV动画",
+      "count": 3
+    },
+    {
+      "name": "小山力也",
+      "count": 3
+    }
+  ],
+  "locked": false
+}

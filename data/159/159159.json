@@ -1,0 +1,153 @@
+{
+  "id": 159159,
+  "name": "あんさんぶるスターズ！",
+  "name_cn": "偶像梦幻祭",
+  "summary": "专门培养男性偶像的私立梦之咲学院。冰鹰北斗、明星昴流、游木真、衣更真绪4人组成了“Trickstar”的偶像组合，以顶尖偶像作为目标，每天努力练习着。可是，梦之咲学院主办了偶像们相互比拼各自魅力的实况录音活动，通称“梦幻祭”，学院的秩序也被这一活动所统治着。为了寻求改革、“Trickstar”向学生会发起了挑战。",
+  "date": "2019-07-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/4d/e3/159159_rSKms.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/4d/e3/159159_rSKms.jpg"
+  },
+  "eps": 24,
+  "rating": {
+    "rank": 7440,
+    "total": 180,
+    "count": {
+      "1": 3,
+      "2": 2,
+      "3": 13,
+      "4": 12,
+      "5": 46,
+      "6": 70,
+      "7": 25,
+      "8": 7,
+      "9": 1,
+      "10": 1
+    },
+    "score": 5.5
+  },
+  "tags": [
+    {
+      "name": "偶像",
+      "count": 88
+    },
+    {
+      "name": "游戏改",
+      "count": 84
+    },
+    {
+      "name": "2019年7月",
+      "count": 55
+    },
+    {
+      "name": "davidproduction",
+      "count": 49
+    },
+    {
+      "name": "校园",
+      "count": 46
+    },
+    {
+      "name": "音乐",
+      "count": 41
+    },
+    {
+      "name": "TV",
+      "count": 35
+    },
+    {
+      "name": "2019",
+      "count": 28
+    },
+    {
+      "name": "乙女",
+      "count": 14
+    },
+    {
+      "name": "日日日",
+      "count": 9
+    },
+    {
+      "name": "女性向",
+      "count": 8
+    },
+    {
+      "name": "菱田正和",
+      "count": 5
+    },
+    {
+      "name": "前野智昭",
+      "count": 4
+    },
+    {
+      "name": "2017年",
+      "count": 4
+    },
+    {
+      "name": "david_production",
+      "count": 3
+    },
+    {
+      "name": "梶裕貴",
+      "count": 3
+    },
+    {
+      "name": "未确定",
+      "count": 3
+    },
+    {
+      "name": "柿原徹也",
+      "count": 3
+    },
+    {
+      "name": "HappyElements",
+      "count": 2
+    },
+    {
+      "name": "2017",
+      "count": 2
+    },
+    {
+      "name": "手游改",
+      "count": 2
+    },
+    {
+      "name": "2019年",
+      "count": 2
+    },
+    {
+      "name": "乙女向",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "森久保祥太郎",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "胃疼多角恋",
+      "count": 1
+    },
+    {
+      "name": "16-19",
+      "count": 1
+    },
+    {
+      "name": "19.12.22",
+      "count": 1
+    },
+    {
+      "name": "番剧",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

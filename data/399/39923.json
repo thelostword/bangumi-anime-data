@@ -1,0 +1,153 @@
+{
+  "id": 39923,
+  "name": "REVIVAL OF EVANGELION 新世紀エヴァンゲリオン劇場版 DEATH (TRUE)² / Air / まごころを、君に",
+  "name_cn": "新世纪福音战士剧场版 DEATH(TRUE)2/Air/真心为你",
+  "summary": "《REVIVAL》的第一部分：「DEATH (TRUE)2」原先是作為《死與新生》的一部分推出。其中《死與新生》分為兩個部分：「DEATH」篇和「REBIRTH」篇。「DEATH」篇是60分鐘的電視動畫修正版，包括了重新製作的鏡頭和一些新鏡頭。「REVIVAL」所採用的版本，稱為「DEATH (TRUE)2」，是對「DEATH」的重新剪輯，去除《死與新生》的「DEATH」篇中的新鏡頭並且作一些小修改。作品的第二部分「REBIRTH」包括了《THE END OF EVANGELION》的第一部分，因此是《THE END OF EVANGELION》早期未完成的版本。\r\n\r\n《REVIVAL》的第二部分“Air/まごころ、君に”，即為劇場版「THE END OF EVANGELION」。",
+  "date": "1998-03-07",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/f5/a0/39923_k7338.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/f5/a0/39923_k7338.jpg"
+  },
+  "eps": 3,
+  "rating": {
+    "rank": 44,
+    "total": 5977,
+    "count": {
+      "1": 28,
+      "2": 7,
+      "3": 7,
+      "4": 7,
+      "5": 45,
+      "6": 159,
+      "7": 634,
+      "8": 1915,
+      "9": 1975,
+      "10": 1200
+    },
+    "score": 8.5
+  },
+  "tags": [
+    {
+      "name": "EVA",
+      "count": 1590
+    },
+    {
+      "name": "庵野秀明",
+      "count": 1337
+    },
+    {
+      "name": "剧场版",
+      "count": 1263
+    },
+    {
+      "name": "GAINAX",
+      "count": 817
+    },
+    {
+      "name": "1998",
+      "count": 535
+    },
+    {
+      "name": "原创",
+      "count": 382
+    },
+    {
+      "name": "补全",
+      "count": 321
+    },
+    {
+      "name": "新世紀エヴァンゲリオン",
+      "count": 279
+    },
+    {
+      "name": "科幻",
+      "count": 249
+    },
+    {
+      "name": "贞本义行",
+      "count": 198
+    },
+    {
+      "name": "萝卜",
+      "count": 145
+    },
+    {
+      "name": "劇場版",
+      "count": 127
+    },
+    {
+      "name": "Evangelion",
+      "count": 52
+    },
+    {
+      "name": "机战",
+      "count": 44
+    },
+    {
+      "name": "神作",
+      "count": 37
+    },
+    {
+      "name": "Production.I.G",
+      "count": 28
+    },
+    {
+      "name": "新世纪福音战士",
+      "count": 25
+    },
+    {
+      "name": "总集篇",
+      "count": 25
+    },
+    {
+      "name": "ProductionI.G",
+      "count": 22
+    },
+    {
+      "name": "战斗",
+      "count": 21
+    },
+    {
+      "name": "摩砂雪",
+      "count": 19
+    },
+    {
+      "name": "1998年3月",
+      "count": 19
+    },
+    {
+      "name": "日本",
+      "count": 17
+    },
+    {
+      "name": "1998年",
+      "count": 16
+    },
+    {
+      "name": "宗教",
+      "count": 15
+    },
+    {
+      "name": "心理",
+      "count": 15
+    },
+    {
+      "name": "90年代",
+      "count": 14
+    },
+    {
+      "name": "まごころを、君に",
+      "count": 11
+    },
+    {
+      "name": "补完",
+      "count": 9
+    },
+    {
+      "name": "经典",
+      "count": 8
+    }
+  ],
+  "locked": false
+}

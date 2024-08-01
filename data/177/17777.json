@@ -1,0 +1,133 @@
+{
+  "id": 17777,
+  "name": "宮西達也劇場 おまえうまそうだな",
+  "name_cn": "宫西达也剧场 你看起来很好吃",
+  "summary": "",
+  "date": "2010-10-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/9b/0f/17777_2N3zI.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/9b/0f/17777_2N3zI.jpg"
+  },
+  "eps": 20,
+  "rating": {
+    "rank": 2013,
+    "total": 55,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 1,
+      "5": 4,
+      "6": 11,
+      "7": 13,
+      "8": 20,
+      "9": 2,
+      "10": 3
+    },
+    "score": 7.1
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 23
+    },
+    {
+      "name": "治愈",
+      "count": 21
+    },
+    {
+      "name": "2010",
+      "count": 14
+    },
+    {
+      "name": "萌",
+      "count": 12
+    },
+    {
+      "name": "TV",
+      "count": 11
+    },
+    {
+      "name": "宫西达也",
+      "count": 7
+    },
+    {
+      "name": "2010年10月",
+      "count": 5
+    },
+    {
+      "name": "漫改",
+      "count": 5
+    },
+    {
+      "name": "漫画改",
+      "count": 3
+    },
+    {
+      "name": "治癒系",
+      "count": 3
+    },
+    {
+      "name": "kids",
+      "count": 2
+    },
+    {
+      "name": "キッズ",
+      "count": 2
+    },
+    {
+      "name": "亚细亚堂",
+      "count": 1
+    },
+    {
+      "name": "温馨，治愈",
+      "count": 1
+    },
+    {
+      "name": "2010-2019",
+      "count": 1
+    },
+    {
+      "name": "朧澤正治",
+      "count": 1
+    },
+    {
+      "name": "治愈系",
+      "count": 1
+    },
+    {
+      "name": "胧泽正治",
+      "count": 1
+    },
+    {
+      "name": "待看",
+      "count": 1
+    },
+    {
+      "name": "动画",
+      "count": 1
+    },
+    {
+      "name": "童话",
+      "count": 1
+    },
+    {
+      "name": "日本",
+      "count": 1
+    },
+    {
+      "name": "泡面",
+      "count": 1
+    },
+    {
+      "name": "2010年",
+      "count": 1
+    },
+    {
+      "name": "绘本改",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

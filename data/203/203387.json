@@ -1,0 +1,153 @@
+{
+  "id": 203387,
+  "name": "夏目友人帳 陸",
+  "name_cn": "夏目友人帐 陆",
+  "summary": "",
+  "date": "2017-04-11",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e1/4d/203387_kr9cL.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e1/4d/203387_kr9cL.jpg"
+  },
+  "eps": 11,
+  "rating": {
+    "rank": 661,
+    "total": 2446,
+    "count": {
+      "1": 4,
+      "2": 0,
+      "3": 3,
+      "4": 7,
+      "5": 51,
+      "6": 197,
+      "7": 786,
+      "8": 1057,
+      "9": 215,
+      "10": 126
+    },
+    "score": 7.6
+  },
+  "tags": [
+    {
+      "name": "治愈",
+      "count": 665
+    },
+    {
+      "name": "夏目友人帐",
+      "count": 432
+    },
+    {
+      "name": "2017年4月",
+      "count": 412
+    },
+    {
+      "name": "TV",
+      "count": 318
+    },
+    {
+      "name": "漫画改",
+      "count": 282
+    },
+    {
+      "name": "妖怪",
+      "count": 214
+    },
+    {
+      "name": "2017",
+      "count": 200
+    },
+    {
+      "name": "神谷浩史",
+      "count": 196
+    },
+    {
+      "name": "朱夏",
+      "count": 170
+    },
+    {
+      "name": "漫改",
+      "count": 136
+    },
+    {
+      "name": "奇幻",
+      "count": 120
+    },
+    {
+      "name": "日常",
+      "count": 85
+    },
+    {
+      "name": "出合小都美",
+      "count": 40
+    },
+    {
+      "name": "井上和彦",
+      "count": 38
+    },
+    {
+      "name": "夏目友人帳",
+      "count": 25
+    },
+    {
+      "name": "大森貴弘",
+      "count": 20
+    },
+    {
+      "name": "石田彰",
+      "count": 18
+    },
+    {
+      "name": "治愈系",
+      "count": 16
+    },
+    {
+      "name": "温情",
+      "count": 15
+    },
+    {
+      "name": "吉森信",
+      "count": 13
+    },
+    {
+      "name": "续作",
+      "count": 11
+    },
+    {
+      "name": "BrainsBase",
+      "count": 10
+    },
+    {
+      "name": "大森贵弘",
+      "count": 10
+    },
+    {
+      "name": "绿川幸",
+      "count": 10
+    },
+    {
+      "name": "校园",
+      "count": 8
+    },
+    {
+      "name": "日本",
+      "count": 7
+    },
+    {
+      "name": "2017年",
+      "count": 7
+    },
+    {
+      "name": "緑川ゆき",
+      "count": 7
+    },
+    {
+      "name": "日本动画",
+      "count": 6
+    },
+    {
+      "name": "催泪",
+      "count": 6
+    }
+  ],
+  "locked": false
+}

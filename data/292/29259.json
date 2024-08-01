@@ -1,0 +1,153 @@
+{
+  "id": 29259,
+  "name": "エウレカセブンAO",
+  "name_cn": "交响诗篇AO",
+  "summary": "青与医生俊夫一同生活在冲绳的磐户岛上。突然出现的神秘的「Secret」对珊瑚岩进行了攻击。一心为了保护磐户岛的青启动了运输舰上的军用FP...",
+  "date": "2012-04-12",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c1/37/29259_zYeF1.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c1/37/29259_zYeF1.jpg"
+  },
+  "eps": 24,
+  "rating": {
+    "rank": 5655,
+    "total": 1057,
+    "count": {
+      "1": 16,
+      "2": 9,
+      "3": 18,
+      "4": 83,
+      "5": 114,
+      "6": 295,
+      "7": 315,
+      "8": 144,
+      "9": 38,
+      "10": 25
+    },
+    "score": 6.3
+  },
+  "tags": [
+    {
+      "name": "BONES",
+      "count": 373
+    },
+    {
+      "name": "骨头社",
+      "count": 191
+    },
+    {
+      "name": "交响诗篇AO",
+      "count": 172
+    },
+    {
+      "name": "2012年4月",
+      "count": 139
+    },
+    {
+      "name": "TV",
+      "count": 119
+    },
+    {
+      "name": "EUREKA",
+      "count": 118
+    },
+    {
+      "name": "萝卜",
+      "count": 111
+    },
+    {
+      "name": "科幻",
+      "count": 85
+    },
+    {
+      "name": "原创",
+      "count": 75
+    },
+    {
+      "name": "2012",
+      "count": 67
+    },
+    {
+      "name": "交响诗篇续",
+      "count": 60
+    },
+    {
+      "name": "交响诗篇",
+      "count": 34
+    },
+    {
+      "name": "机战",
+      "count": 26
+    },
+    {
+      "name": "2012四月番",
+      "count": 26
+    },
+    {
+      "name": "京田知己",
+      "count": 20
+    },
+    {
+      "name": "会川升",
+      "count": 9
+    },
+    {
+      "name": "2012年",
+      "count": 8
+    },
+    {
+      "name": "會川昇",
+      "count": 7
+    },
+    {
+      "name": "四月番",
+      "count": 7
+    },
+    {
+      "name": "eureka呢",
+      "count": 5
+    },
+    {
+      "name": "日本动画",
+      "count": 4
+    },
+    {
+      "name": "战斗",
+      "count": 4
+    },
+    {
+      "name": "续作",
+      "count": 4
+    },
+    {
+      "name": "半年番",
+      "count": 4
+    },
+    {
+      "name": "新番",
+      "count": 3
+    },
+    {
+      "name": "日本",
+      "count": 3
+    },
+    {
+      "name": "名塚佳織",
+      "count": 2
+    },
+    {
+      "name": "小见川千明",
+      "count": 2
+    },
+    {
+      "name": "TVA",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

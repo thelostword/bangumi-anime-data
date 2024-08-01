@@ -1,0 +1,153 @@
+{
+  "id": 440878,
+  "name": "カードファイト!! ヴァンガード DivineZ",
+  "name_cn": "卡片战斗先导者 DivineZ",
+  "summary": "天から降り注いだ6枚のカード。\r\nそれは最後まで勝ち残った者の願いが叶えられるという『運命大戦』への\r\n参加資格だった。\r\n\r\n明導アキナは妹の病を治すため、\r\n戦いに身を投じる――。",
+  "date": "2024-01-13",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/25/7c/440878_xqL51.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/25/7c/440878_xqL51.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 0,
+    "total": 41,
+    "count": {
+      "1": 3,
+      "2": 0,
+      "3": 0,
+      "4": 2,
+      "5": 10,
+      "6": 16,
+      "7": 7,
+      "8": 1,
+      "9": 1,
+      "10": 1
+    },
+    "score": 5.7
+  },
+  "tags": [
+    {
+      "name": "2024",
+      "count": 10
+    },
+    {
+      "name": "TV",
+      "count": 10
+    },
+    {
+      "name": "STUDIOJEMI",
+      "count": 7
+    },
+    {
+      "name": "卡牌",
+      "count": 5
+    },
+    {
+      "name": "KINEMACITRUS",
+      "count": 5
+    },
+    {
+      "name": "游戏改",
+      "count": 4
+    },
+    {
+      "name": "长剧集",
+      "count": 3
+    },
+    {
+      "name": "宮田俊哉",
+      "count": 3
+    },
+    {
+      "name": "2024年1月",
+      "count": 3
+    },
+    {
+      "name": "山田卓",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "原创",
+      "count": 2
+    },
+    {
+      "name": "GiftAnimation",
+      "count": 2
+    },
+    {
+      "name": "2024年",
+      "count": 1
+    },
+    {
+      "name": "鈴木龍太郎",
+      "count": 1
+    },
+    {
+      "name": "岩田阳葵",
+      "count": 1
+    },
+    {
+      "name": "川岛零士",
+      "count": 1
+    },
+    {
+      "name": "宫田俊哉",
+      "count": 1
+    },
+    {
+      "name": "KINEMACITRUS、GiftAnimation、STU",
+      "count": 1
+    },
+    {
+      "name": "西尾夕香",
+      "count": 1
+    },
+    {
+      "name": "ぎふとアニメーション",
+      "count": 1
+    },
+    {
+      "name": "真野拓实",
+      "count": 1
+    },
+    {
+      "name": "打牌番",
+      "count": 1
+    },
+    {
+      "name": "Vanguard",
+      "count": 1
+    },
+    {
+      "name": "卡片战斗先导者",
+      "count": 1
+    },
+    {
+      "name": "武士道",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "续作",
+      "count": 1
+    },
+    {
+      "name": "六",
+      "count": 1
+    },
+    {
+      "name": "冬季",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

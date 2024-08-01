@@ -1,0 +1,153 @@
+{
+  "id": 3515,
+  "name": "ファイアボール",
+  "name_cn": "火球",
+  "summary": "在遥远的未来，一颗普通的行星上——\r\n由于人类的抵抗，机器人的贵族政治正走向灭亡。\r\n在与世隔绝的住宅中，两位机器人——Flügel公爵的女儿Drossel，及其管家Gedächtnis，展开了琐碎的“日常”对话。 ",
+  "date": "2008-04-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/5f/ef/3515_BzB05.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/5f/ef/3515_BzB05.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 1696,
+    "total": 522,
+    "count": {
+      "1": 3,
+      "2": 2,
+      "3": 5,
+      "4": 4,
+      "5": 21,
+      "6": 87,
+      "7": 188,
+      "8": 145,
+      "9": 43,
+      "10": 24
+    },
+    "score": 7.2
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 107
+    },
+    {
+      "name": "吐槽",
+      "count": 90
+    },
+    {
+      "name": "大小姐",
+      "count": 90
+    },
+    {
+      "name": "科幻",
+      "count": 77
+    },
+    {
+      "name": "3D",
+      "count": 67
+    },
+    {
+      "name": "TV",
+      "count": 66
+    },
+    {
+      "name": "2008",
+      "count": 53
+    },
+    {
+      "name": "双马尾",
+      "count": 43
+    },
+    {
+      "name": "电波",
+      "count": 41
+    },
+    {
+      "name": "迪斯尼",
+      "count": 35
+    },
+    {
+      "name": "Disney",
+      "count": 35
+    },
+    {
+      "name": "漫才",
+      "count": 23
+    },
+    {
+      "name": "2008年4月",
+      "count": 20
+    },
+    {
+      "name": "火球",
+      "count": 20
+    },
+    {
+      "name": "原创",
+      "count": 18
+    },
+    {
+      "name": "搞笑",
+      "count": 8
+    },
+    {
+      "name": "补旧番",
+      "count": 6
+    },
+    {
+      "name": "泡面",
+      "count": 6
+    },
+    {
+      "name": "2008年",
+      "count": 5
+    },
+    {
+      "name": "荒川航",
+      "count": 5
+    },
+    {
+      "name": "超合金",
+      "count": 4
+    },
+    {
+      "name": "萝卜",
+      "count": 4
+    },
+    {
+      "name": "迪士尼",
+      "count": 4
+    },
+    {
+      "name": "短片",
+      "count": 3
+    },
+    {
+      "name": "日本",
+      "count": 3
+    },
+    {
+      "name": "neta",
+      "count": 2
+    },
+    {
+      "name": "年4月",
+      "count": 2
+    },
+    {
+      "name": "大川透",
+      "count": 2
+    },
+    {
+      "name": "TVA",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,153 @@
+{
+  "id": 141806,
+  "name": "とんかつDJアゲ太郎",
+  "name_cn": "炸猪排DJ扬太郎",
+  "summary": "位于东京·涩谷角落的一间炸猪排店“SHIBUKATSU”的第3代店主·胜又扬太郎，在家业的炸猪排店帮忙的同时，过着毫无干劲的懒散日子。某天，在即将关店时被派去送餐的扬太郎，到达的地方是一所俱乐部。比町内会和盂兰盆会有着更高的自由度，被这毫无压力的空间所虏获的扬太郎，完全沉浸在俱乐部的文化当中，并发觉了炸猪排店与DJ的共通点……",
+  "date": "2016-04-10",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/83/cc/141806_AhFYe.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/83/cc/141806_AhFYe.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 3076,
+    "total": 107,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 1,
+      "4": 3,
+      "5": 11,
+      "6": 26,
+      "7": 36,
+      "8": 20,
+      "9": 6,
+      "10": 3
+    },
+    "score": 6.8
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 32
+    },
+    {
+      "name": "大地丙太郎",
+      "count": 32
+    },
+    {
+      "name": "2016年4月",
+      "count": 27
+    },
+    {
+      "name": "漫画改",
+      "count": 24
+    },
+    {
+      "name": "泡面番",
+      "count": 23
+    },
+    {
+      "name": "studiodeen",
+      "count": 19
+    },
+    {
+      "name": "STUDIO_DEEN",
+      "count": 16
+    },
+    {
+      "name": "2016",
+      "count": 13
+    },
+    {
+      "name": "炸猪排DJ扬太郎",
+      "count": 11
+    },
+    {
+      "name": "漫改",
+      "count": 8
+    },
+    {
+      "name": "2016年",
+      "count": 3
+    },
+    {
+      "name": "2016年四月番",
+      "count": 3
+    },
+    {
+      "name": "搞笑",
+      "count": 2
+    },
+    {
+      "name": "マンガ原作",
+      "count": 2
+    },
+    {
+      "name": "漫画改编",
+      "count": 2
+    },
+    {
+      "name": "音乐",
+      "count": 2
+    },
+    {
+      "name": "短片",
+      "count": 2
+    },
+    {
+      "name": "山下大辉",
+      "count": 1
+    },
+    {
+      "name": "201604",
+      "count": 1
+    },
+    {
+      "name": "ミニ番組",
+      "count": 1
+    },
+    {
+      "name": "总之去看1",
+      "count": 1
+    },
+    {
+      "name": "中田诚",
+      "count": 1
+    },
+    {
+      "name": "biba",
+      "count": 1
+    },
+    {
+      "name": "DJ",
+      "count": 1
+    },
+    {
+      "name": "2016年春",
+      "count": 1
+    },
+    {
+      "name": "泡面",
+      "count": 1
+    },
+    {
+      "name": "DEEN",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "改编",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

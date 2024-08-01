@@ -1,0 +1,153 @@
+{
+  "id": 10262,
+  "name": "青いブリンク",
+  "name_cn": "青色杜马",
+  "summary": "少年カケル的父亲被神秘组织绑架，为了救出父亲，カケル和一匹青色的小马blink踏上了旅程，他们遇到了很多同伴，每当遇到困难，blink总是能赐予胆小的カケル以勇气，然而在旅程的尽头等待着少年的却是意想不到的人……\r\nOP：「瞳のなかの未来」\r\n作詞：田口俊／作曲：上田知華／編曲：萩田光男／歌:南野陽子\r\nED：「負けないで勇気」\r\n作詞：森雪之丞／作曲：後藤次利／編曲：米光亮／歌：中山忍",
+  "date": "1989-04-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/02/47/10262_qY2WY.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/02/47/10262_qY2WY.jpg"
+  },
+  "eps": 39,
+  "rating": {
+    "rank": 0,
+    "total": 49,
+    "count": {
+      "1": 1,
+      "2": 1,
+      "3": 0,
+      "4": 0,
+      "5": 3,
+      "6": 6,
+      "7": 13,
+      "8": 19,
+      "9": 5,
+      "10": 1
+    },
+    "score": 7.2
+  },
+  "tags": [
+    {
+      "name": "童年",
+      "count": 24
+    },
+    {
+      "name": "TV",
+      "count": 21
+    },
+    {
+      "name": "1989",
+      "count": 14
+    },
+    {
+      "name": "怀旧",
+      "count": 14
+    },
+    {
+      "name": "手塚治虫",
+      "count": 11
+    },
+    {
+      "name": "手塚PRODUCTION",
+      "count": 9
+    },
+    {
+      "name": "漫画改",
+      "count": 7
+    },
+    {
+      "name": "心理",
+      "count": 5
+    },
+    {
+      "name": "内涵",
+      "count": 5
+    },
+    {
+      "name": "梦结局",
+      "count": 3
+    },
+    {
+      "name": "80年代",
+      "count": 3
+    },
+    {
+      "name": "野沢雅子",
+      "count": 2
+    },
+    {
+      "name": "1980s",
+      "count": 2
+    },
+    {
+      "name": "手塚プロダクション",
+      "count": 2
+    },
+    {
+      "name": "漫画",
+      "count": 2
+    },
+    {
+      "name": "NHK",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 1
+    },
+    {
+      "name": "山根公利",
+      "count": 1
+    },
+    {
+      "name": "原征太郎",
+      "count": 1
+    },
+    {
+      "name": "手冢Pro",
+      "count": 1
+    },
+    {
+      "name": "待補1",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "动漫世界",
+      "count": 1
+    },
+    {
+      "name": "柳川茂",
+      "count": 1
+    },
+    {
+      "name": "漫改",
+      "count": 1
+    },
+    {
+      "name": "日本",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "奇幻",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "2006",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

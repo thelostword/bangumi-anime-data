@@ -1,0 +1,153 @@
+{
+  "id": 3632,
+  "name": "東のエデン 劇場版II Paradise Lost",
+  "name_cn": "东之伊甸 剧场版II Paradise Lost",
+  "summary": "　「攻殻機動隊S.A.C.」シリーズの神山健治監督が自ら書き下ろした原作を、ＴＶアニメと２本の劇場版で描くビッグ・プロジェクト「東のエデン」。本作は劇場版の第２弾。ニューヨークで咲と再会し、再び日本へと戻ってきた滝沢が“東のエデン”メンバーたちと繰り広げる日本を救う最後の戦いを描くと共に、これまでに積み重ねられて来たいくつもの謎がついに解き明かされていく。",
+  "date": "2010-03-13",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/39/84/3632_TJn78.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/39/84/3632_TJn78.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 2197,
+    "total": 1732,
+    "count": {
+      "1": 9,
+      "2": 7,
+      "3": 20,
+      "4": 38,
+      "5": 90,
+      "6": 289,
+      "7": 602,
+      "8": 519,
+      "9": 109,
+      "10": 49
+    },
+    "score": 7.1
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 423
+    },
+    {
+      "name": "东之伊甸",
+      "count": 345
+    },
+    {
+      "name": "神山健治",
+      "count": 252
+    },
+    {
+      "name": "Production_I.G.",
+      "count": 181
+    },
+    {
+      "name": "2010",
+      "count": 162
+    },
+    {
+      "name": "Production.I.G",
+      "count": 150
+    },
+    {
+      "name": "原创",
+      "count": 97
+    },
+    {
+      "name": "ProductionI.G",
+      "count": 76
+    },
+    {
+      "name": "烂尾",
+      "count": 67
+    },
+    {
+      "name": "I.G.",
+      "count": 60
+    },
+    {
+      "name": "东之伊甸剧场版",
+      "count": 56
+    },
+    {
+      "name": "内涵",
+      "count": 44
+    },
+    {
+      "name": "劇場版II　Paradise",
+      "count": 25
+    },
+    {
+      "name": "科幻",
+      "count": 16
+    },
+    {
+      "name": "東のエデン",
+      "count": 15
+    },
+    {
+      "name": "川井宪次",
+      "count": 15
+    },
+    {
+      "name": "木村良平",
+      "count": 15
+    },
+    {
+      "name": "悬疑",
+      "count": 14
+    },
+    {
+      "name": "川井憲次",
+      "count": 12
+    },
+    {
+      "name": "2010年",
+      "count": 10
+    },
+    {
+      "name": "劇場版",
+      "count": 10
+    },
+    {
+      "name": "羽海野千花",
+      "count": 10
+    },
+    {
+      "name": "アニメ剧场",
+      "count": 9
+    },
+    {
+      "name": "Production",
+      "count": 9
+    },
+    {
+      "name": "Production_I.G",
+      "count": 8
+    },
+    {
+      "name": "早见沙织",
+      "count": 8
+    },
+    {
+      "name": "noitaminA",
+      "count": 7
+    },
+    {
+      "name": "剧情",
+      "count": 7
+    },
+    {
+      "name": "ProductionI.G.",
+      "count": 6
+    },
+    {
+      "name": "吉原正行",
+      "count": 5
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,129 @@
+{
+  "id": 77218,
+  "name": "トランスフォーマー ザ☆ヘッドマスターズ",
+  "name_cn": "变形金刚：头领战士",
+  "summary": "2011年，擎天柱恢复Autobot领袖后，Autobot与Decepticon双方均有新的战士加入。这些战士是来自麦斯特星(Planet Master)的头领战士(Headmaster)，此时，汽车人和霸天虎的战争仍然看不到止境......",
+  "date": "1987-07-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/dd/0d/77218_WTr1z.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/dd/0d/77218_WTr1z.jpg"
+  },
+  "eps": 38,
+  "rating": {
+    "rank": 0,
+    "total": 39,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 3,
+      "5": 4,
+      "6": 9,
+      "7": 17,
+      "8": 5,
+      "9": 0,
+      "10": 1
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "童年",
+      "count": 10
+    },
+    {
+      "name": "TV",
+      "count": 10
+    },
+    {
+      "name": "1987",
+      "count": 8
+    },
+    {
+      "name": "变形金刚",
+      "count": 6
+    },
+    {
+      "name": "萝卜",
+      "count": 5
+    },
+    {
+      "name": "日本续拍",
+      "count": 4
+    },
+    {
+      "name": "科幻",
+      "count": 4
+    },
+    {
+      "name": "东映",
+      "count": 4
+    },
+    {
+      "name": "原创",
+      "count": 4
+    },
+    {
+      "name": "藤川桂介",
+      "count": 1
+    },
+    {
+      "name": "robo",
+      "count": 1
+    },
+    {
+      "name": "江原正士",
+      "count": 1
+    },
+    {
+      "name": "80s",
+      "count": 1
+    },
+    {
+      "name": "銀河萬丈",
+      "count": 1
+    },
+    {
+      "name": "佐々木勝利",
+      "count": 1
+    },
+    {
+      "name": "表番",
+      "count": 1
+    },
+    {
+      "name": "儿时回忆",
+      "count": 1
+    },
+    {
+      "name": "战争",
+      "count": 1
+    },
+    {
+      "name": "机器人",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "東映アニメーション",
+      "count": 1
+    },
+    {
+      "name": "东映动画",
+      "count": 1
+    },
+    {
+      "name": "TF",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

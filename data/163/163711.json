@@ -1,0 +1,153 @@
+{
+  "id": 163711,
+  "name": "戦姫絶唱シンフォギアAXZ",
+  "name_cn": "战姬绝唱SYMPHOGEAR AXZ",
+  "summary": "",
+  "date": "2017-07-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/38/12/163711_95HdH.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/38/12/163711_95HdH.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 3213,
+    "total": 762,
+    "count": {
+      "1": 2,
+      "2": 4,
+      "3": 3,
+      "4": 13,
+      "5": 59,
+      "6": 191,
+      "7": 304,
+      "8": 140,
+      "9": 20,
+      "10": 26
+    },
+    "score": 6.8
+  },
+  "tags": [
+    {
+      "name": "百合",
+      "count": 178
+    },
+    {
+      "name": "战姬绝唱",
+      "count": 168
+    },
+    {
+      "name": "2017年7月",
+      "count": 163
+    },
+    {
+      "name": "TV",
+      "count": 151
+    },
+    {
+      "name": "原创",
+      "count": 149
+    },
+    {
+      "name": "Satelight",
+      "count": 118
+    },
+    {
+      "name": "音乐",
+      "count": 104
+    },
+    {
+      "name": "战斗",
+      "count": 93
+    },
+    {
+      "name": "2017",
+      "count": 84
+    },
+    {
+      "name": "金子彰史",
+      "count": 41
+    },
+    {
+      "name": "悠木碧",
+      "count": 37
+    },
+    {
+      "name": "水树奈奈",
+      "count": 34
+    },
+    {
+      "name": "上松範康",
+      "count": 28
+    },
+    {
+      "name": "续期",
+      "count": 19
+    },
+    {
+      "name": "小野勝巳",
+      "count": 14
+    },
+    {
+      "name": "续作",
+      "count": 11
+    },
+    {
+      "name": "热血",
+      "count": 10
+    },
+    {
+      "name": "サテライト",
+      "count": 9
+    },
+    {
+      "name": "小野胜巳",
+      "count": 6
+    },
+    {
+      "name": "科幻",
+      "count": 6
+    },
+    {
+      "name": "魔法少女",
+      "count": 5
+    },
+    {
+      "name": "井口裕香",
+      "count": 4
+    },
+    {
+      "name": "南条爱乃",
+      "count": 4
+    },
+    {
+      "name": "水樹奈々",
+      "count": 4
+    },
+    {
+      "name": "奇幻",
+      "count": 4
+    },
+    {
+      "name": "变身",
+      "count": 4
+    },
+    {
+      "name": "茅野爱衣",
+      "count": 3
+    },
+    {
+      "name": "季番",
+      "count": 3
+    },
+    {
+      "name": "高垣彩阳",
+      "count": 3
+    },
+    {
+      "name": "日本",
+      "count": 3
+    }
+  ],
+  "locked": false
+}

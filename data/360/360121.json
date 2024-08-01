@@ -1,0 +1,153 @@
+{
+  "id": 360121,
+  "name": "悪魔くん",
+  "name_cn": "恶魔君",
+  "summary": "千年王国研究所――そこは、奇怪な依頼が舞いこむ相談所。\r\n研究所の主である《悪魔くん》こと埋れ木一郎は、1万年にひとりの天才少年。だが彼は本当の家族を知らない。そんな《悪魔くん》が、相棒・メフィスト3世と共に、不可思議な事件に挑みながら自らの出自の謎を追う怪奇探偵バディストーリー。",
+  "date": "2023-11-09",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/21/00/360121_XUJiO.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/21/00/360121_XUJiO.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 5362,
+    "total": 74,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 3,
+      "5": 13,
+      "6": 39,
+      "7": 16,
+      "8": 2,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "2023",
+      "count": 32
+    },
+    {
+      "name": "2023年10月",
+      "count": 28
+    },
+    {
+      "name": "Netflix",
+      "count": 27
+    },
+    {
+      "name": "TV",
+      "count": 24
+    },
+    {
+      "name": "EncourageFilms",
+      "count": 23
+    },
+    {
+      "name": "漫改",
+      "count": 19
+    },
+    {
+      "name": "追崎史敏",
+      "count": 14
+    },
+    {
+      "name": "WEB",
+      "count": 13
+    },
+    {
+      "name": "东映动画",
+      "count": 11
+    },
+    {
+      "name": "原创",
+      "count": 11
+    },
+    {
+      "name": "漫画改",
+      "count": 10
+    },
+    {
+      "name": "奇幻",
+      "count": 9
+    },
+    {
+      "name": "佐藤順一",
+      "count": 9
+    },
+    {
+      "name": "东映",
+      "count": 7
+    },
+    {
+      "name": "佐藤顺一",
+      "count": 6
+    },
+    {
+      "name": "大野木寛",
+      "count": 4
+    },
+    {
+      "name": "梶裕貴",
+      "count": 4
+    },
+    {
+      "name": "战斗",
+      "count": 3
+    },
+    {
+      "name": "2023年11月",
+      "count": 2
+    },
+    {
+      "name": "悬疑",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "東映アニメーション",
+      "count": 2
+    },
+    {
+      "name": "未确定",
+      "count": 1
+    },
+    {
+      "name": "老物",
+      "count": 1
+    },
+    {
+      "name": "『ONA』",
+      "count": 1
+    },
+    {
+      "name": "『TVA』",
+      "count": 1
+    },
+    {
+      "name": "水木しげる",
+      "count": 1
+    },
+    {
+      "name": "23秋",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

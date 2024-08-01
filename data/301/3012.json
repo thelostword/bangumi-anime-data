@@ -1,0 +1,153 @@
+{
+  "id": 3012,
+  "name": "もやしもん",
+  "name_cn": "萌菌物语",
+  "summary": "拥有用肉眼看见“菌”能力的少年泽木惣右卫门直保和青梅竹马结城萤进入农业大学所发生一连串的趣事，透过直保和其他人物的互动可以了解许多跟菌相关的知识，也因为直保的特殊能力而招惹许多事情……",
+  "date": "2007-10-11",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/5a/01/3012_H4KKl.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/5a/01/3012_H4KKl.jpg"
+  },
+  "eps": 11,
+  "rating": {
+    "rank": 1165,
+    "total": 1338,
+    "count": {
+      "1": 1,
+      "2": 2,
+      "3": 2,
+      "4": 11,
+      "5": 32,
+      "6": 170,
+      "7": 461,
+      "8": 543,
+      "9": 83,
+      "10": 33
+    },
+    "score": 7.4
+  },
+  "tags": [
+    {
+      "name": "萌菌",
+      "count": 297
+    },
+    {
+      "name": "伪娘",
+      "count": 188
+    },
+    {
+      "name": "2007年10月",
+      "count": 148
+    },
+    {
+      "name": "TV",
+      "count": 123
+    },
+    {
+      "name": "沒想到後面居然腐了……",
+      "count": 120
+    },
+    {
+      "name": "萌菌物语",
+      "count": 119
+    },
+    {
+      "name": "农学",
+      "count": 96
+    },
+    {
+      "name": "2007",
+      "count": 94
+    },
+    {
+      "name": "萌",
+      "count": 82
+    },
+    {
+      "name": "校园",
+      "count": 77
+    },
+    {
+      "name": "科學",
+      "count": 65
+    },
+    {
+      "name": "菌",
+      "count": 49
+    },
+    {
+      "name": "酿酒",
+      "count": 49
+    },
+    {
+      "name": "漫画改",
+      "count": 39
+    },
+    {
+      "name": "阪口大助",
+      "count": 37
+    },
+    {
+      "name": "釀造",
+      "count": 33
+    },
+    {
+      "name": "noitaminA",
+      "count": 32
+    },
+    {
+      "name": "治愈",
+      "count": 22
+    },
+    {
+      "name": "日常",
+      "count": 20
+    },
+    {
+      "name": "白組",
+      "count": 20
+    },
+    {
+      "name": "搞笑",
+      "count": 19
+    },
+    {
+      "name": "白组",
+      "count": 18
+    },
+    {
+      "name": "科普",
+      "count": 17
+    },
+    {
+      "name": "漫改",
+      "count": 14
+    },
+    {
+      "name": "TelecomAnimationFilm",
+      "count": 12
+    },
+    {
+      "name": "矢野雄一郎",
+      "count": 10
+    },
+    {
+      "name": "怪人",
+      "count": 8
+    },
+    {
+      "name": "动画",
+      "count": 7
+    },
+    {
+      "name": "2007年",
+      "count": 6
+    },
+    {
+      "name": "酿了你哦",
+      "count": 6
+    }
+  ],
+  "locked": false
+}

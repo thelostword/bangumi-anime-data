@@ -1,0 +1,153 @@
+{
+  "id": 290288,
+  "name": "Sol Levante",
+  "name_cn": "旭日",
+  "summary": "Netflix、プロダクションI.Gと試験的に共同制作、世界初の4K HDR手描きアニメ。\r\n\r\n若き戦士と使い魔は、望みをかなえると言い伝えられている\"聖地\"を探して旅をする。遺跡の守護者と聖地の精霊だけは、決して怒らせてはならないのだが...。",
+  "date": "2020-04-02",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/0b/a5/290288_uXOkU.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/0b/a5/290288_uXOkU.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 7147,
+    "total": 246,
+    "count": {
+      "1": 2,
+      "2": 2,
+      "3": 5,
+      "4": 19,
+      "5": 76,
+      "6": 87,
+      "7": 37,
+      "8": 14,
+      "9": 1,
+      "10": 3
+    },
+    "score": 5.7
+  },
+  "tags": [
+    {
+      "name": "短片",
+      "count": 124
+    },
+    {
+      "name": "Production.I.G",
+      "count": 98
+    },
+    {
+      "name": "2020",
+      "count": 76
+    },
+    {
+      "name": "WEB",
+      "count": 70
+    },
+    {
+      "name": "Netflix",
+      "count": 66
+    },
+    {
+      "name": "原创",
+      "count": 59
+    },
+    {
+      "name": "4K",
+      "count": 47
+    },
+    {
+      "name": "斋藤瑛",
+      "count": 23
+    },
+    {
+      "name": "ProductionI.G",
+      "count": 21
+    },
+    {
+      "name": "手绘",
+      "count": 14
+    },
+    {
+      "name": "2020年4月",
+      "count": 9
+    },
+    {
+      "name": "齋藤瑛",
+      "count": 7
+    },
+    {
+      "name": "奇幻",
+      "count": 5
+    },
+    {
+      "name": "日本",
+      "count": 4
+    },
+    {
+      "name": "实验动画",
+      "count": 4
+    },
+    {
+      "name": "HDR",
+      "count": 3
+    },
+    {
+      "name": "Production_I.G",
+      "count": 3
+    },
+    {
+      "name": "OVA",
+      "count": 1
+    },
+    {
+      "name": "2020s",
+      "count": 1
+    },
+    {
+      "name": "二〇二〇年",
+      "count": 1
+    },
+    {
+      "name": "undefined",
+      "count": 1
+    },
+    {
+      "name": "江面久",
+      "count": 1
+    },
+    {
+      "name": "田中美穗",
+      "count": 1
+    },
+    {
+      "name": "动画（WEBCM）",
+      "count": 1
+    },
+    {
+      "name": "短片与MV",
+      "count": 1
+    },
+    {
+      "name": "2020-2029",
+      "count": 1
+    },
+    {
+      "name": "已保存",
+      "count": 1
+    },
+    {
+      "name": "Production.IG",
+      "count": 1
+    },
+    {
+      "name": "短篇",
+      "count": 1
+    },
+    {
+      "name": "动画",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

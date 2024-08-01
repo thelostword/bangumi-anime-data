@@ -1,0 +1,153 @@
+{
+  "id": 24738,
+  "name": "ZETMAN",
+  "name_cn": "",
+  "summary": "原作是桂正和于2002年起连载于集英社《周刊Young Jump》的硬派青年漫画。以近未来日本为舞台，讲述体内隐藏着神秘力量“Z・E・T”的阿人和追求正义的天城企业继承人高雅这二人的战斗。",
+  "date": "2012-04-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/f3/e9/24738_81FPa.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/f3/e9/24738_81FPa.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 6094,
+    "total": 959,
+    "count": {
+      "1": 2,
+      "2": 4,
+      "3": 13,
+      "4": 59,
+      "5": 153,
+      "6": 339,
+      "7": 270,
+      "8": 89,
+      "9": 14,
+      "10": 16
+    },
+    "score": 6.2
+  },
+  "tags": [
+    {
+      "name": "桂正和",
+      "count": 240
+    },
+    {
+      "name": "ZETMAN",
+      "count": 198
+    },
+    {
+      "name": "2012年4月",
+      "count": 190
+    },
+    {
+      "name": "宫野真守",
+      "count": 113
+    },
+    {
+      "name": "花泽香菜",
+      "count": 89
+    },
+    {
+      "name": "浪川大辅",
+      "count": 86
+    },
+    {
+      "name": "热血",
+      "count": 79
+    },
+    {
+      "name": "TV",
+      "count": 76
+    },
+    {
+      "name": "漫画改",
+      "count": 47
+    },
+    {
+      "name": "2012",
+      "count": 46
+    },
+    {
+      "name": "铃村健一",
+      "count": 41
+    },
+    {
+      "name": "四月番",
+      "count": 26
+    },
+    {
+      "name": "花澤香菜",
+      "count": 23
+    },
+    {
+      "name": "燃PV",
+      "count": 16
+    },
+    {
+      "name": "漫改",
+      "count": 12
+    },
+    {
+      "name": "TMS",
+      "count": 11
+    },
+    {
+      "name": "新番",
+      "count": 10
+    },
+    {
+      "name": "科幻",
+      "count": 8
+    },
+    {
+      "name": "トムス・エンタテインメント",
+      "count": 7
+    },
+    {
+      "name": "2012年",
+      "count": 6
+    },
+    {
+      "name": "アニメ",
+      "count": 6
+    },
+    {
+      "name": "战斗",
+      "count": 6
+    },
+    {
+      "name": "浪川大輔",
+      "count": 5
+    },
+    {
+      "name": "鍋島修",
+      "count": 5
+    },
+    {
+      "name": "动画",
+      "count": 4
+    },
+    {
+      "name": "宮野真守",
+      "count": 4
+    },
+    {
+      "name": "TMSEntertainment",
+      "count": 4
+    },
+    {
+      "name": "游佐浩二",
+      "count": 4
+    },
+    {
+      "name": "2012春",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 3
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,113 @@
+{
+  "id": 285109,
+  "name": "ゾイドワイルド ZERO",
+  "name_cn": "索斯机械兽WILD ZERO",
+  "summary": "ゾイドとは、銀河の彼方に生息する、戦う意思を持った金属生命体である。\r\n惑星が最後を迎え、人類は第二の故郷として地球を目指すが、ゾイド因子の暴走と不慮のタイムワープで、突如、21世紀の地球にゾイドが出現。ゾイドによる破壊と度重なる地殻変動で地球は一度滅びた。\r\nレオは自ら発掘したビーストライガーを相棒に、地球の未来を左右する少女サリーと冒険の旅に出発した。",
+  "date": "2019-10-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/6c/a3/285109_ffpPf.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/6c/a3/285109_ffpPf.jpg"
+  },
+  "eps": 50,
+  "rating": {
+    "rank": 0,
+    "total": 8,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 3,
+      "6": 3,
+      "7": 1,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "2019年10月",
+      "count": 9
+    },
+    {
+      "name": "TV",
+      "count": 7
+    },
+    {
+      "name": "OLMTEAMOTA",
+      "count": 6
+    },
+    {
+      "name": "原创",
+      "count": 5
+    },
+    {
+      "name": "荒木憲一",
+      "count": 5
+    },
+    {
+      "name": "日本动画",
+      "count": 4
+    },
+    {
+      "name": "OLM",
+      "count": 3
+    },
+    {
+      "name": "櫻井孝宏",
+      "count": 3
+    },
+    {
+      "name": "千田葉月",
+      "count": 2
+    },
+    {
+      "name": "2019",
+      "count": 2
+    },
+    {
+      "name": "野上翔",
+      "count": 2
+    },
+    {
+      "name": "小男孩",
+      "count": 1
+    },
+    {
+      "name": "2019年",
+      "count": 1
+    },
+    {
+      "name": "丑",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "加戸誉夫",
+      "count": 1
+    },
+    {
+      "name": "科幻",
+      "count": 1
+    },
+    {
+      "name": "robo",
+      "count": 1
+    },
+    {
+      "name": "A站",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

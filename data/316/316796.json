@@ -1,0 +1,41 @@
+{
+  "id": 316796,
+  "name": "カピバラさん",
+  "name_cn": "水豚君",
+  "summary": "水豚君迎来诞生15周年纪念。\r\n2020年秋，首次电视动画化！\r\n生活在绿色大草原上的水豚和伙伴们的\r\nQ弹的每日就此奉上。",
+  "date": "2020-10-09",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/9f/5c/316796_s2718.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/9f/5c/316796_s2718.jpg"
+  },
+  "eps": 24,
+  "rating": {
+    "rank": 0,
+    "total": 2,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 0,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 2
+    },
+    {
+      "name": "2020",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

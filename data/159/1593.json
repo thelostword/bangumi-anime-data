@@ -1,0 +1,153 @@
+{
+  "id": 1593,
+  "name": "アラド戦記 ～スラップアップパーティー～",
+  "name_cn": "阿拉德战记 Slap-up Party",
+  "summary": "　　韩国网络游戏公司NEOPLE开发的格斗RPG游戏《地下城与勇士》(《Dungeon and Fighter》)，将制作成TV动画于2009年播出。\r\n　　阿拉德历981年，在阿拉德大陆上，卡赞的诅咒之光降临到了全大陆上……主人公巴隆也因为这个诅咒，一只胳膊“鬼化”变形。他和一把偶然碰到的剑、以及依附在剑上的精灵罗克希一起，为了解开诅咒而开始了苦难之旅。在旅途中碰上了各种各样的伙伴们，他们的奇妙即将开始……\r\n",
+  "date": "2009-04-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/06/a8/1593_DjJ48.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/06/a8/1593_DjJ48.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 7797,
+    "total": 705,
+    "count": {
+      "1": 15,
+      "2": 13,
+      "3": 31,
+      "4": 74,
+      "5": 174,
+      "6": 235,
+      "7": 113,
+      "8": 33,
+      "9": 4,
+      "10": 13
+    },
+    "score": 5.6
+  },
+  "tags": [
+    {
+      "name": "DNF",
+      "count": 153
+    },
+    {
+      "name": "TV",
+      "count": 82
+    },
+    {
+      "name": "游戏改",
+      "count": 77
+    },
+    {
+      "name": "囧人设",
+      "count": 75
+    },
+    {
+      "name": "阿拉德战记",
+      "count": 68
+    },
+    {
+      "name": "恶搞",
+      "count": 61
+    },
+    {
+      "name": "2009年4月",
+      "count": 58
+    },
+    {
+      "name": "GONZO",
+      "count": 56
+    },
+    {
+      "name": "2009",
+      "count": 54
+    },
+    {
+      "name": "地下城与勇士",
+      "count": 43
+    },
+    {
+      "name": "囧片",
+      "count": 23
+    },
+    {
+      "name": "网游",
+      "count": 20
+    },
+    {
+      "name": "战斗",
+      "count": 16
+    },
+    {
+      "name": "奇幻",
+      "count": 16
+    },
+    {
+      "name": "鬼手",
+      "count": 10
+    },
+    {
+      "name": "RPG",
+      "count": 9
+    },
+    {
+      "name": "搞笑",
+      "count": 7
+    },
+    {
+      "name": "冒险",
+      "count": 6
+    },
+    {
+      "name": "游戏",
+      "count": 5
+    },
+    {
+      "name": "囧",
+      "count": 5
+    },
+    {
+      "name": "日本动画",
+      "count": 5
+    },
+    {
+      "name": "池添隆博",
+      "count": 4
+    },
+    {
+      "name": "游改",
+      "count": 3
+    },
+    {
+      "name": "近藤隆",
+      "count": 3
+    },
+    {
+      "name": "童年",
+      "count": 3
+    },
+    {
+      "name": "野川樱",
+      "count": 2
+    },
+    {
+      "name": "GKEntertainment",
+      "count": 2
+    },
+    {
+      "name": "补标",
+      "count": 2
+    },
+    {
+      "name": "网游改",
+      "count": 2
+    },
+    {
+      "name": "TV动画",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

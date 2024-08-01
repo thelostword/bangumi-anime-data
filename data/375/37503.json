@@ -1,0 +1,69 @@
+{
+  "id": 37503,
+  "name": "ディノブレイカー",
+  "name_cn": "机械恐龙DICE",
+  "summary": "XEBEC制作\r\n受美国BANDAI委托而制作的玩具宣番，最先也是在美国播放的。\r\nD.I.C.E（Dinobreaks/DNA Integrated Cybernetic Enterprises）是宇宙规模的大企业，其业务从救人查案直到调解星际战争无所不包。这部动画讲的就是D.I.C.E的少年部队“DICE F-99”的成员们及他们的搭档、恐龙型生体兵器ディノブレイカー的故事。",
+  "date": "2005-12-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/01/47/37503_7Znb1.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/01/47/37503_7Znb1.jpg"
+  },
+  "eps": 40,
+  "rating": {
+    "rank": 0,
+    "total": 16,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 1,
+      "6": 3,
+      "7": 7,
+      "8": 3,
+      "9": 0,
+      "10": 1
+    },
+    "score": 6.9
+  },
+  "tags": [
+    {
+      "name": "童年",
+      "count": 4
+    },
+    {
+      "name": "热血",
+      "count": 3
+    },
+    {
+      "name": "2005",
+      "count": 2
+    },
+    {
+      "name": "旧物",
+      "count": 2
+    },
+    {
+      "name": "没看完",
+      "count": 2
+    },
+    {
+      "name": "子供向",
+      "count": 2
+    },
+    {
+      "name": "XEBEC",
+      "count": 1
+    },
+    {
+      "name": "剧情",
+      "count": 1
+    },
+    {
+      "name": "日本",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

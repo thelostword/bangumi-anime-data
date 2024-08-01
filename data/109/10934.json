@@ -1,0 +1,89 @@
+{
+  "id": 10934,
+  "name": "RPG伝説ヘポイ",
+  "name_cn": "至尊勇者",
+  "summary": "至尊勇者原名“RPG伝说ヘポイ(hepoi)”，是日本动画公司Studio Gallop制作的RPG题材机器人动画。\r\n\r\n本作品是一个讲述具有生命的魔法布娃娃希布拯救世界于魔王管治的故事。\r\n动画于1990至1991年在日本东京电视台播放。共50集。\r\n除了动画还有漫画版本。\r\n",
+  "date": "1990-10-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ac/90/10934_B1u58.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ac/90/10934_B1u58.jpg"
+  },
+  "eps": 50,
+  "rating": {
+    "rank": 0,
+    "total": 5,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 1,
+      "7": 2,
+      "8": 0,
+      "9": 1,
+      "10": 0
+    },
+    "score": 6.8
+  },
+  "tags": [
+    {
+      "name": "草尾毅",
+      "count": 5
+    },
+    {
+      "name": "1990",
+      "count": 3
+    },
+    {
+      "name": "TV",
+      "count": 2
+    },
+    {
+      "name": "旧物",
+      "count": 2
+    },
+    {
+      "name": "石蔵武",
+      "count": 2
+    },
+    {
+      "name": "なみきまさと",
+      "count": 1
+    },
+    {
+      "name": "时事热点",
+      "count": 1
+    },
+    {
+      "name": "増田裕生",
+      "count": 1
+    },
+    {
+      "name": "GALLOP",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "童年",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "ぎゃろっぷ",
+      "count": 1
+    },
+    {
+      "name": "robo",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

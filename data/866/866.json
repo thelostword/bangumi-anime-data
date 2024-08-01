@@ -1,0 +1,153 @@
+{
+  "id": 866,
+  "name": "SOUL EATER",
+  "name_cn": "噬魂师",
+  "summary": "　　死神武器职人专门学院，简称“死武专”，学院里的学生分为“工匠”和“武器”，他们的目的是收集“99个偏离人类轨道形成‘鬼神之卵’的灵魂”和“1个魔女的灵魂”，当“武器”吞噬这100个灵魂后就能升级成为死神专用武器 Death Scythe，而这一切都是为了防止“鬼神”的重新出现……",
+  "date": "2008-04-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ca/81/866_5X5OW.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ca/81/866_5X5OW.jpg"
+  },
+  "eps": 51,
+  "rating": {
+    "rank": 1024,
+    "total": 3164,
+    "count": {
+      "1": 2,
+      "2": 3,
+      "3": 6,
+      "4": 17,
+      "5": 78,
+      "6": 381,
+      "7": 1079,
+      "8": 1250,
+      "9": 253,
+      "10": 95
+    },
+    "score": 7.4
+  },
+  "tags": [
+    {
+      "name": "BONES",
+      "count": 948
+    },
+    {
+      "name": "噬魂师",
+      "count": 735
+    },
+    {
+      "name": "骨头社",
+      "count": 489
+    },
+    {
+      "name": "热血",
+      "count": 473
+    },
+    {
+      "name": "TV",
+      "count": 326
+    },
+    {
+      "name": "2008年4月",
+      "count": 280
+    },
+    {
+      "name": "2008",
+      "count": 245
+    },
+    {
+      "name": "souleater",
+      "count": 206
+    },
+    {
+      "name": "宫野真守",
+      "count": 172
+    },
+    {
+      "name": "漫画改",
+      "count": 162
+    },
+    {
+      "name": "坂本真绫",
+      "count": 137
+    },
+    {
+      "name": "魔女",
+      "count": 124
+    },
+    {
+      "name": "战斗",
+      "count": 118
+    },
+    {
+      "name": "死神",
+      "count": 114
+    },
+    {
+      "name": "Soul",
+      "count": 81
+    },
+    {
+      "name": "漫改",
+      "count": 64
+    },
+    {
+      "name": "神作",
+      "count": 51
+    },
+    {
+      "name": "五十岚卓哉",
+      "count": 40
+    },
+    {
+      "name": "奇幻",
+      "count": 32
+    },
+    {
+      "name": "Eater",
+      "count": 29
+    },
+    {
+      "name": "小见川千明",
+      "count": 25
+    },
+    {
+      "name": "桑岛法子",
+      "count": 25
+    },
+    {
+      "name": "五十嵐卓哉",
+      "count": 21
+    },
+    {
+      "name": "搞笑",
+      "count": 16
+    },
+    {
+      "name": "大和屋晓",
+      "count": 16
+    },
+    {
+      "name": "岩崎琢",
+      "count": 16
+    },
+    {
+      "name": "2008年",
+      "count": 14
+    },
+    {
+      "name": "内山昂辉",
+      "count": 13
+    },
+    {
+      "name": "烂尾",
+      "count": 12
+    },
+    {
+      "name": "REVOLUTION",
+      "count": 11
+    }
+  ],
+  "locked": false
+}

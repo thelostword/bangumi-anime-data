@@ -1,0 +1,69 @@
+{
+  "id": 220039,
+  "name": "ふたごのモンチッチ",
+  "name_cn": "",
+  "summary": "",
+  "date": "1980-02-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/cb/cb/220039_J00pL.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/cb/cb/220039_J00pL.jpg"
+  },
+  "eps": 130,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 2
+    },
+    {
+      "name": "1980",
+      "count": 2
+    },
+    {
+      "name": "赛璐珞",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "1980年2月",
+      "count": 1
+    },
+    {
+      "name": "苇PRODUCTION",
+      "count": 1
+    },
+    {
+      "name": "1980年",
+      "count": 1
+    },
+    {
+      "name": "80s",
+      "count": 1
+    },
+    {
+      "name": "1980年一月番",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

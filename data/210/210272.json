@@ -1,0 +1,153 @@
+{
+  "id": 210272,
+  "name": "ラブライブ! サンシャイン!! 第2期",
+  "name_cn": "LoveLive! Sunshine!! 第二季",
+  "summary": "",
+  "date": "2017-10-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/d1/71/210272_JIkpK.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/d1/71/210272_JIkpK.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 5224,
+    "total": 1783,
+    "count": {
+      "1": 8,
+      "2": 9,
+      "3": 22,
+      "4": 68,
+      "5": 219,
+      "6": 594,
+      "7": 595,
+      "8": 177,
+      "9": 36,
+      "10": 55
+    },
+    "score": 6.4
+  },
+  "tags": [
+    {
+      "name": "偶像",
+      "count": 486
+    },
+    {
+      "name": "SUNRISE",
+      "count": 399
+    },
+    {
+      "name": "2017年10月",
+      "count": 312
+    },
+    {
+      "name": "原创",
+      "count": 299
+    },
+    {
+      "name": "TV",
+      "count": 263
+    },
+    {
+      "name": "LoveLive",
+      "count": 239
+    },
+    {
+      "name": "校园",
+      "count": 222
+    },
+    {
+      "name": "音乐",
+      "count": 220
+    },
+    {
+      "name": "百合",
+      "count": 196
+    },
+    {
+      "name": "Aqours",
+      "count": 164
+    },
+    {
+      "name": "2017",
+      "count": 148
+    },
+    {
+      "name": "LoveLive！Sunshine!!",
+      "count": 138
+    },
+    {
+      "name": "青春",
+      "count": 54
+    },
+    {
+      "name": "酒井和男",
+      "count": 51
+    },
+    {
+      "name": "LoveLive！",
+      "count": 29
+    },
+    {
+      "name": "花田十辉",
+      "count": 25
+    },
+    {
+      "name": "花田十輝",
+      "count": 18
+    },
+    {
+      "name": "续作",
+      "count": 10
+    },
+    {
+      "name": "サンライズ",
+      "count": 9
+    },
+    {
+      "name": "LoveLive!",
+      "count": 8
+    },
+    {
+      "name": "日常",
+      "count": 8
+    },
+    {
+      "name": "2017年",
+      "count": 7
+    },
+    {
+      "name": "轻百合",
+      "count": 6
+    },
+    {
+      "name": "TVA",
+      "count": 5
+    },
+    {
+      "name": "加藤達也",
+      "count": 4
+    },
+    {
+      "name": "励志",
+      "count": 4
+    },
+    {
+      "name": "love",
+      "count": 3
+    },
+    {
+      "name": "季番",
+      "count": 3
+    },
+    {
+      "name": "日升",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 3
+    }
+  ],
+  "locked": false
+}

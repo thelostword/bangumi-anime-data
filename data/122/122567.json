@@ -1,0 +1,153 @@
+{
+  "id": 122567,
+  "name": "バトルスピリッツ 烈火魂",
+  "name_cn": "战斗之魂 烈火灵魂",
+  "summary": "",
+  "date": "2015-04-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/5a/85/122567_272L7.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/5a/85/122567_272L7.jpg"
+  },
+  "eps": 51,
+  "rating": {
+    "rank": 0,
+    "total": 33,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 1,
+      "4": 3,
+      "5": 1,
+      "6": 15,
+      "7": 7,
+      "8": 4,
+      "9": 0,
+      "10": 1
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "SUNRISE",
+      "count": 14
+    },
+    {
+      "name": "TV",
+      "count": 10
+    },
+    {
+      "name": "子供向",
+      "count": 9
+    },
+    {
+      "name": "2015",
+      "count": 8
+    },
+    {
+      "name": "2015年4月",
+      "count": 7
+    },
+    {
+      "name": "卡牌",
+      "count": 7
+    },
+    {
+      "name": "バトルスピリッツ",
+      "count": 5
+    },
+    {
+      "name": "BattleSpirits",
+      "count": 4
+    },
+    {
+      "name": "第七期",
+      "count": 3
+    },
+    {
+      "name": "長谷川勝己",
+      "count": 3
+    },
+    {
+      "name": "201504",
+      "count": 3
+    },
+    {
+      "name": "杉島邦久",
+      "count": 3
+    },
+    {
+      "name": "サンライズ",
+      "count": 2
+    },
+    {
+      "name": "童年",
+      "count": 2
+    },
+    {
+      "name": "battlespirit",
+      "count": 1
+    },
+    {
+      "name": "¬",
+      "count": 1
+    },
+    {
+      "name": "2015年四月番",
+      "count": 1
+    },
+    {
+      "name": "山下七海",
+      "count": 1
+    },
+    {
+      "name": "山下誠一郎",
+      "count": 1
+    },
+    {
+      "name": "BNPictures",
+      "count": 1
+    },
+    {
+      "name": "六",
+      "count": 1
+    },
+    {
+      "name": "长谷川胜己",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "日本",
+      "count": 1
+    },
+    {
+      "name": "热血少年漫",
+      "count": 1
+    },
+    {
+      "name": "汤本佳典",
+      "count": 1
+    },
+    {
+      "name": "2015年",
+      "count": 1
+    },
+    {
+      "name": "动画",
+      "count": 1
+    },
+    {
+      "name": "杉岛邦久",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

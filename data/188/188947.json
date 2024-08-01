@@ -1,0 +1,61 @@
+{
+  "id": 188947,
+  "name": "シートン動物記",
+  "name_cn": "",
+  "summary": "シートン動物記系列第3作。",
+  "date": "1989-10-14",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/63/44/188947_v0mhh.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/63/44/188947_v0mhh.jpg"
+  },
+  "eps": 45,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "1989",
+      "count": 2
+    },
+    {
+      "name": "Eiken",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "1989年十月番",
+      "count": 1
+    },
+    {
+      "name": "1989年10月",
+      "count": 1
+    },
+    {
+      "name": "1989年",
+      "count": 1
+    },
+    {
+      "name": "TV",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

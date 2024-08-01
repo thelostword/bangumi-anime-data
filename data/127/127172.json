@@ -1,0 +1,109 @@
+{
+  "id": 127172,
+  "name": "にゅるにゅる!!KAKUSENくん 第2期",
+  "name_cn": "黏黏糊糊!!角质君 第2期",
+  "summary": "",
+  "date": "2015-04-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/73/a2/127172_Dr6l5.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/73/a2/127172_Dr6l5.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 0,
+    "total": 46,
+    "count": {
+      "1": 1,
+      "2": 2,
+      "3": 1,
+      "4": 3,
+      "5": 17,
+      "6": 13,
+      "7": 8,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.4
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 23
+    },
+    {
+      "name": "2015年4月",
+      "count": 13
+    },
+    {
+      "name": "恶心萌",
+      "count": 12
+    },
+    {
+      "name": "TV",
+      "count": 11
+    },
+    {
+      "name": "2015年",
+      "count": 4
+    },
+    {
+      "name": "搞笑",
+      "count": 4
+    },
+    {
+      "name": "2015",
+      "count": 4
+    },
+    {
+      "name": "四月番",
+      "count": 3
+    },
+    {
+      "name": "2015年四月番",
+      "count": 2
+    },
+    {
+      "name": "『TVA』",
+      "count": 2
+    },
+    {
+      "name": "设定奇特",
+      "count": 2
+    },
+    {
+      "name": "DLE",
+      "count": 2
+    },
+    {
+      "name": "时事热点",
+      "count": 1
+    },
+    {
+      "name": "モリ∩",
+      "count": 1
+    },
+    {
+      "name": "201504",
+      "count": 1
+    },
+    {
+      "name": "正太",
+      "count": 1
+    },
+    {
+      "name": "原创",
+      "count": 1
+    },
+    {
+      "name": "续集",
+      "count": 1
+    },
+    {
+      "name": "泡面",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

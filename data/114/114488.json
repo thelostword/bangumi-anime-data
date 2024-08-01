@@ -1,0 +1,153 @@
+{
+  "id": 114488,
+  "name": "少年ハリウッド -HOLLY STAGE FOR 50-",
+  "name_cn": "少年好莱坞 第二季",
+  "summary": "",
+  "date": "2015-01-10",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/20/9d/114488_CNkN4.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/20/9d/114488_CNkN4.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 3514,
+    "total": 62,
+    "count": {
+      "1": 2,
+      "2": 1,
+      "3": 1,
+      "4": 3,
+      "5": 5,
+      "6": 13,
+      "7": 22,
+      "8": 10,
+      "9": 3,
+      "10": 2
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "2015年1月",
+      "count": 27
+    },
+    {
+      "name": "ZEXCS",
+      "count": 16
+    },
+    {
+      "name": "原创",
+      "count": 16
+    },
+    {
+      "name": "逢坂良太",
+      "count": 15
+    },
+    {
+      "name": "2015",
+      "count": 13
+    },
+    {
+      "name": "TV",
+      "count": 11
+    },
+    {
+      "name": "柿原徹也",
+      "count": 8
+    },
+    {
+      "name": "小野賢章",
+      "count": 6
+    },
+    {
+      "name": "橋口いくよ",
+      "count": 5
+    },
+    {
+      "name": "第二季",
+      "count": 4
+    },
+    {
+      "name": "2015冬",
+      "count": 4
+    },
+    {
+      "name": "2015年",
+      "count": 3
+    },
+    {
+      "name": "轻改",
+      "count": 3
+    },
+    {
+      "name": "乙女向",
+      "count": 3
+    },
+    {
+      "name": "偶像",
+      "count": 3
+    },
+    {
+      "name": "黒柳トシマサ",
+      "count": 3
+    },
+    {
+      "name": "田中亮",
+      "count": 2
+    },
+    {
+      "name": "林哲司",
+      "count": 2
+    },
+    {
+      "name": "新番",
+      "count": 2
+    },
+    {
+      "name": "二期",
+      "count": 2
+    },
+    {
+      "name": "已保存",
+      "count": 1
+    },
+    {
+      "name": "可重温",
+      "count": 1
+    },
+    {
+      "name": "小野咸障",
+      "count": 1
+    },
+    {
+      "name": "贤章",
+      "count": 1
+    },
+    {
+      "name": "男团",
+      "count": 1
+    },
+    {
+      "name": "『TVA』",
+      "count": 1
+    },
+    {
+      "name": "舞台",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "女性向",
+      "count": 1
+    },
+    {
+      "name": "7",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

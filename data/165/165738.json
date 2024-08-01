@@ -1,0 +1,153 @@
+{
+  "id": 165738,
+  "name": "のんのんびより りぴーと OAD",
+  "name_cn": "悠哉日常大王 Repeat OAD",
+  "summary": "单行本第10卷同捆OAD。",
+  "date": "2016-09-23",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/04/21/165738_ynYUr.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/04/21/165738_ynYUr.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 522,
+    "total": 1846,
+    "count": {
+      "1": 2,
+      "2": 0,
+      "3": 2,
+      "4": 2,
+      "5": 11,
+      "6": 126,
+      "7": 560,
+      "8": 880,
+      "9": 157,
+      "10": 106
+    },
+    "score": 7.7
+  },
+  "tags": [
+    {
+      "name": "日常",
+      "count": 489
+    },
+    {
+      "name": "OAD",
+      "count": 466
+    },
+    {
+      "name": "SILVERLINK.",
+      "count": 367
+    },
+    {
+      "name": "治愈",
+      "count": 313
+    },
+    {
+      "name": "OVA",
+      "count": 310
+    },
+    {
+      "name": "漫画改",
+      "count": 228
+    },
+    {
+      "name": "2016",
+      "count": 228
+    },
+    {
+      "name": "喵帕斯",
+      "count": 194
+    },
+    {
+      "name": "百合",
+      "count": 168
+    },
+    {
+      "name": "2016年9月",
+      "count": 136
+    },
+    {
+      "name": "漫改",
+      "count": 103
+    },
+    {
+      "name": "川面真也",
+      "count": 83
+    },
+    {
+      "name": "萝莉",
+      "count": 83
+    },
+    {
+      "name": "悠哉日常大王",
+      "count": 80
+    },
+    {
+      "name": "吉田玲子",
+      "count": 53
+    },
+    {
+      "name": "萌",
+      "count": 25
+    },
+    {
+      "name": "搞笑",
+      "count": 21
+    },
+    {
+      "name": "2016年",
+      "count": 16
+    },
+    {
+      "name": "轻百合",
+      "count": 15
+    },
+    {
+      "name": "のんのんびより",
+      "count": 14
+    },
+    {
+      "name": "日本",
+      "count": 7
+    },
+    {
+      "name": "日本动画",
+      "count": 6
+    },
+    {
+      "name": "阿澄佳奈",
+      "count": 5
+    },
+    {
+      "name": "萌系",
+      "count": 5
+    },
+    {
+      "name": "SILVER_LINK.",
+      "count": 5
+    },
+    {
+      "name": "乡村",
+      "count": 4
+    },
+    {
+      "name": "萌豚",
+      "count": 4
+    },
+    {
+      "name": "大塚舞",
+      "count": 4
+    },
+    {
+      "name": "7分",
+      "count": 3
+    },
+    {
+      "name": "TV",
+      "count": 3
+    }
+  ],
+  "locked": false
+}

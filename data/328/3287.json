@@ -1,0 +1,153 @@
+{
+  "id": 3287,
+  "name": "焼きたて!!ジャぱん",
+  "name_cn": "日式面包王",
+  "summary": "世界上有英国面包，法国面包，德国面包，但是就是没有属于日本的面包，既然如此今后就只好用自己的双手创造出来，这个故事就是描写拥有太阳之手的热血少年东和马，在日本缔造的伟大抒情史诗。",
+  "date": "2004-10-12",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/94/6e/3287_rjvz8.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/94/6e/3287_rjvz8.jpg"
+  },
+  "eps": 69,
+  "rating": {
+    "rank": 2174,
+    "total": 519,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 10,
+      "5": 23,
+      "6": 89,
+      "7": 227,
+      "8": 132,
+      "9": 26,
+      "10": 11
+    },
+    "score": 7.1
+  },
+  "tags": [
+    {
+      "name": "日式面包王",
+      "count": 96
+    },
+    {
+      "name": "TV",
+      "count": 74
+    },
+    {
+      "name": "料理系",
+      "count": 66
+    },
+    {
+      "name": "搞笑",
+      "count": 49
+    },
+    {
+      "name": "2004",
+      "count": 46
+    },
+    {
+      "name": "太阳之手",
+      "count": 44
+    },
+    {
+      "name": "SUNRISE",
+      "count": 44
+    },
+    {
+      "name": "童年",
+      "count": 34
+    },
+    {
+      "name": "kuso",
+      "count": 28
+    },
+    {
+      "name": "爆笑",
+      "count": 25
+    },
+    {
+      "name": "子安武人",
+      "count": 23
+    },
+    {
+      "name": "吃货",
+      "count": 17
+    },
+    {
+      "name": "TVB",
+      "count": 16
+    },
+    {
+      "name": "漫画改",
+      "count": 16
+    },
+    {
+      "name": "东和马",
+      "count": 15
+    },
+    {
+      "name": "2004年10月",
+      "count": 12
+    },
+    {
+      "name": "美食",
+      "count": 11
+    },
+    {
+      "name": "极品",
+      "count": 10
+    },
+    {
+      "name": "神作",
+      "count": 9
+    },
+    {
+      "name": "料理",
+      "count": 7
+    },
+    {
+      "name": "漫改",
+      "count": 6
+    },
+    {
+      "name": "日本",
+      "count": 4
+    },
+    {
+      "name": "钉宫理惠",
+      "count": 4
+    },
+    {
+      "name": "隅沢克之",
+      "count": 4
+    },
+    {
+      "name": "日本动画",
+      "count": 4
+    },
+    {
+      "name": "2004年",
+      "count": 4
+    },
+    {
+      "name": "动画",
+      "count": 3
+    },
+    {
+      "name": "水树奈奈",
+      "count": 3
+    },
+    {
+      "name": "热血",
+      "count": 3
+    },
+    {
+      "name": "2000s",
+      "count": 3
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,153 @@
+{
+  "id": 80995,
+  "name": "ブラッドラッド OAD",
+  "name_cn": "血意少年 OAD",
+  "summary": "单行本第10卷限定版同捆OAD",
+  "date": "2013-12-04",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/a4/ca/80995_Q8Zsg.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/a4/ca/80995_Q8Zsg.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 4388,
+    "total": 424,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 4,
+      "4": 6,
+      "5": 44,
+      "6": 135,
+      "7": 179,
+      "8": 48,
+      "9": 3,
+      "10": 5
+    },
+    "score": 6.6
+  },
+  "tags": [
+    {
+      "name": "OAD",
+      "count": 118
+    },
+    {
+      "name": "OVA",
+      "count": 88
+    },
+    {
+      "name": "血意少年",
+      "count": 70
+    },
+    {
+      "name": "2013",
+      "count": 68
+    },
+    {
+      "name": "搞笑",
+      "count": 55
+    },
+    {
+      "name": "漫画改",
+      "count": 51
+    },
+    {
+      "name": "BrainsBase",
+      "count": 35
+    },
+    {
+      "name": "BLOODLAD",
+      "count": 31
+    },
+    {
+      "name": "漫改",
+      "count": 18
+    },
+    {
+      "name": "小玉有起",
+      "count": 15
+    },
+    {
+      "name": "2013年12月",
+      "count": 15
+    },
+    {
+      "name": "逢坂良太",
+      "count": 13
+    },
+    {
+      "name": "木村良平",
+      "count": 12
+    },
+    {
+      "name": "战斗",
+      "count": 11
+    },
+    {
+      "name": "奇幻",
+      "count": 7
+    },
+    {
+      "name": "石田彰",
+      "count": 6
+    },
+    {
+      "name": "2013年",
+      "count": 6
+    },
+    {
+      "name": "宮繁之",
+      "count": 4
+    },
+    {
+      "name": "热血",
+      "count": 4
+    },
+    {
+      "name": "杉山纪彰",
+      "count": 3
+    },
+    {
+      "name": "八星",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 3
+    },
+    {
+      "name": "古怒田健志",
+      "count": 3
+    },
+    {
+      "name": "吸血鬼",
+      "count": 3
+    },
+    {
+      "name": "恋爱",
+      "count": 2
+    },
+    {
+      "name": "Brains･Base",
+      "count": 2
+    },
+    {
+      "name": "6",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "Brain’sBase",
+      "count": 2
+    },
+    {
+      "name": "魔幻",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

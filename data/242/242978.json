@@ -1,0 +1,81 @@
+{
+  "id": 242978,
+  "name": "フューチャーカード 神バディファイト",
+  "name_cn": "未来卡 神搭档对战",
+  "summary": "",
+  "date": "2018-06-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/78/e2/242978_Zz4aA.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/78/e2/242978_Zz4aA.jpg"
+  },
+  "eps": 47,
+  "rating": {
+    "rank": 0,
+    "total": 5,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 4,
+      "7": 0,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.4
+  },
+  "tags": [
+    {
+      "name": "斉藤壮馬",
+      "count": 4
+    },
+    {
+      "name": "XEBEC",
+      "count": 3
+    },
+    {
+      "name": "水野麻里絵",
+      "count": 3
+    },
+    {
+      "name": "OLMTEAMOTA",
+      "count": 2
+    },
+    {
+      "name": "2018",
+      "count": 2
+    },
+    {
+      "name": "OLM、XEBEC",
+      "count": 1
+    },
+    {
+      "name": "加戸誉夫",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "OLM",
+      "count": 1
+    },
+    {
+      "name": "川崎ヒロユキ",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

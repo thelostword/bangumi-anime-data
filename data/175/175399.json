@@ -1,0 +1,153 @@
+{
+  "id": 175399,
+  "name": "フリクリ プログレ",
+  "name_cn": "FLCL Progressive",
+  "summary": "ありとあらゆる命題に明確な答えを用意せず、生理的欲動の充足のみをシコシコ満喫しその日暮らすような説得力ゼロ青少年たち。\r\nその中でなんてことない日常を過ごすヘッドフォンの少女ヒドミ。\r\n彼女が轢かれた夜、クラスメイトの少年・井出の額から巨大ロボットが出現した！\r\nハル子から分裂したラハルとジンユと出会い、〝特別なことなんてない日常〟が終わりを告げる―！！！！！",
+  "date": "2018-09-28",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/44/40/175399_9qA5O.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/44/40/175399_9qA5O.jpg"
+  },
+  "eps": 6,
+  "rating": {
+    "rank": 4827,
+    "total": 587,
+    "count": {
+      "1": 9,
+      "2": 2,
+      "3": 7,
+      "4": 29,
+      "5": 63,
+      "6": 154,
+      "7": 203,
+      "8": 92,
+      "9": 21,
+      "10": 7
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "Production.I.G",
+      "count": 185
+    },
+    {
+      "name": "剧场版",
+      "count": 172
+    },
+    {
+      "name": "2018",
+      "count": 133
+    },
+    {
+      "name": "FLCL",
+      "count": 129
+    },
+    {
+      "name": "原创",
+      "count": 101
+    },
+    {
+      "name": "貞本義行",
+      "count": 58
+    },
+    {
+      "name": "OVA",
+      "count": 52
+    },
+    {
+      "name": "ProductionI.G",
+      "count": 37
+    },
+    {
+      "name": "鶴巻和哉",
+      "count": 34
+    },
+    {
+      "name": "荒井和人",
+      "count": 19
+    },
+    {
+      "name": "博史池畠",
+      "count": 14
+    },
+    {
+      "name": "海谷敏久",
+      "count": 10
+    },
+    {
+      "name": "Production_I.G",
+      "count": 9
+    },
+    {
+      "name": "青春",
+      "count": 8
+    },
+    {
+      "name": "末澤慧",
+      "count": 7
+    },
+    {
+      "name": "小川優樹",
+      "count": 6
+    },
+    {
+      "name": "井端義秀",
+      "count": 6
+    },
+    {
+      "name": "2018年",
+      "count": 6
+    },
+    {
+      "name": "日本",
+      "count": 5
+    },
+    {
+      "name": "小川优树",
+      "count": 5
+    },
+    {
+      "name": "米山舞",
+      "count": 4
+    },
+    {
+      "name": "科幻",
+      "count": 4
+    },
+    {
+      "name": "贞本义行",
+      "count": 4
+    },
+    {
+      "name": "作画",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 3
+    },
+    {
+      "name": "奇幻",
+      "count": 3
+    },
+    {
+      "name": "末泽慧",
+      "count": 3
+    },
+    {
+      "name": "井端义秀",
+      "count": 3
+    },
+    {
+      "name": "水濑祈",
+      "count": 3
+    },
+    {
+      "name": "2010-2019",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

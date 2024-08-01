@@ -1,0 +1,153 @@
+{
+  "id": 101399,
+  "name": "アイドルマスター シンデレラガールズ",
+  "name_cn": "偶像大师 灰姑娘女孩",
+  "summary": "深具历史的艺能事务所“346 Production”旗下有着众多的偶像。而在那里新近展开了“CINDERELLA PROJECT（灰姑娘计划）”！度过着普通的每一天的女孩子。作为未来的偶像被选中的她们，在初次见到的世界中编织出灰姑娘的物语。大家究竟能否一起沿着通向城堡的台阶向上攀登？现在，魔法即将开始施展——",
+  "date": "2015-01-09",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/9a/da/101399_CVW36.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/9a/da/101399_CVW36.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 2628,
+    "total": 2804,
+    "count": {
+      "1": 9,
+      "2": 0,
+      "3": 9,
+      "4": 43,
+      "5": 140,
+      "6": 588,
+      "7": 1230,
+      "8": 639,
+      "9": 86,
+      "10": 60
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "A-1Pictures",
+      "count": 752
+    },
+    {
+      "name": "偶像大师",
+      "count": 579
+    },
+    {
+      "name": "2015年1月",
+      "count": 477
+    },
+    {
+      "name": "游戏改",
+      "count": 449
+    },
+    {
+      "name": "偶像",
+      "count": 420
+    },
+    {
+      "name": "TV",
+      "count": 379
+    },
+    {
+      "name": "2015",
+      "count": 257
+    },
+    {
+      "name": "偶像大师灰姑娘女孩",
+      "count": 253
+    },
+    {
+      "name": "IM@S",
+      "count": 208
+    },
+    {
+      "name": "百合",
+      "count": 152
+    },
+    {
+      "name": "爱马仕",
+      "count": 123
+    },
+    {
+      "name": "高雄统子",
+      "count": 103
+    },
+    {
+      "name": "音乐",
+      "count": 68
+    },
+    {
+      "name": "A-1",
+      "count": 40
+    },
+    {
+      "name": "高雄統子",
+      "count": 24
+    },
+    {
+      "name": "アイドルマスター",
+      "count": 19
+    },
+    {
+      "name": "励志",
+      "count": 18
+    },
+    {
+      "name": "原创",
+      "count": 13
+    },
+    {
+      "name": "高桥龙也",
+      "count": 12
+    },
+    {
+      "name": "内田真礼",
+      "count": 9
+    },
+    {
+      "name": "TVA",
+      "count": 9
+    },
+    {
+      "name": "2015年",
+      "count": 9
+    },
+    {
+      "name": "萌",
+      "count": 8
+    },
+    {
+      "name": "田中秀和",
+      "count": 8
+    },
+    {
+      "name": "日本动画",
+      "count": 8
+    },
+    {
+      "name": "季番",
+      "count": 8
+    },
+    {
+      "name": "A-1_Pictures",
+      "count": 8
+    },
+    {
+      "name": "日本",
+      "count": 7
+    },
+    {
+      "name": "髙橋龍也",
+      "count": 6
+    },
+    {
+      "name": "松尾祐輔",
+      "count": 5
+    }
+  ],
+  "locked": false
+}

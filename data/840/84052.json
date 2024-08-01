@@ -1,0 +1,61 @@
+{
+  "id": 84052,
+  "name": "さぁイコー! たまごっち",
+  "name_cn": "最高! 拓麻歌子",
+  "summary": "",
+  "date": "2007-12-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/a1/25/84052_23aeY.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/a1/25/84052_23aeY.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 8
+  },
+  "tags": [
+    {
+      "name": "喵帕斯记录~",
+      "count": 1
+    },
+    {
+      "name": "小时候看的",
+      "count": 1
+    },
+    {
+      "name": "¬",
+      "count": 1
+    },
+    {
+      "name": "OLM",
+      "count": 1
+    },
+    {
+      "name": "补",
+      "count": 1
+    },
+    {
+      "name": "空",
+      "count": 1
+    },
+    {
+      "name": "2007",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,153 @@
+{
+  "id": 74534,
+  "name": "宇宙戦艦ヤマト 完結編",
+  "name_cn": "宇宙战舰大和号 完结篇",
+  "summary": "《宇宙战舰大和号 完结篇》（原题：宇宙戦艦ヤマト 完結編；英文题：Final Yamato[2]）是日本东映动画公司制作的科幻动画电影，并于1983年3月19日公开，同时也是宇宙战舰大和号系列的第五部电影作品。",
+  "date": "1983-03-19",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ce/7a/74534_1Jp1j.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ce/7a/74534_1Jp1j.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 35,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 2,
+      "5": 2,
+      "6": 14,
+      "7": 8,
+      "8": 4,
+      "9": 2,
+      "10": 3
+    },
+    "score": 6.8
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 22
+    },
+    {
+      "name": "1983",
+      "count": 11
+    },
+    {
+      "name": "科幻",
+      "count": 9
+    },
+    {
+      "name": "宇宙战舰大和号",
+      "count": 8
+    },
+    {
+      "name": "东映",
+      "count": 5
+    },
+    {
+      "name": "松本零士",
+      "count": 4
+    },
+    {
+      "name": "西崎義展",
+      "count": 4
+    },
+    {
+      "name": "舛田利雄",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "赛璐珞",
+      "count": 1
+    },
+    {
+      "name": "富山敬",
+      "count": 1
+    },
+    {
+      "name": "-1990",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "西崎义展",
+      "count": 1
+    },
+    {
+      "name": "80s",
+      "count": 1
+    },
+    {
+      "name": "星辰大海",
+      "count": 1
+    },
+    {
+      "name": "1983年3月",
+      "count": 1
+    },
+    {
+      "name": "日本动画电影考察",
+      "count": 1
+    },
+    {
+      "name": "胜间田具治",
+      "count": 1
+    },
+    {
+      "name": "作画wiki推荐",
+      "count": 1
+    },
+    {
+      "name": "勝間田具治",
+      "count": 1
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1
+    },
+    {
+      "name": "不打分",
+      "count": 1
+    },
+    {
+      "name": "東映アニメーション",
+      "count": 1
+    },
+    {
+      "name": "SF",
+      "count": 1
+    },
+    {
+      "name": "原创",
+      "count": 1
+    },
+    {
+      "name": "机甲",
+      "count": 1
+    },
+    {
+      "name": "日本",
+      "count": 1
+    },
+    {
+      "name": "XEBEC",
+      "count": 1
+    },
+    {
+      "name": "动画",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

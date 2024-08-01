@@ -1,0 +1,153 @@
+{
+  "id": 292298,
+  "name": "シャドウバース",
+  "name_cn": "影之诗",
+  "summary": "就学于天青学园的少年，龙崎阳羽。他因为出乎意料的原因得到了神秘的手机。手机中有着超人气电子卡牌游戏《影之诗》。与对手们相遇，挑战大赛，与同伴间的牵绊。通过影之诗收获的东西，促成了希罗的“进化”。",
+  "date": "2020-04-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/f6/f3/292298_iIQik.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/f6/f3/292298_iIQik.jpg"
+  },
+  "eps": 48,
+  "rating": {
+    "rank": 8608,
+    "total": 489,
+    "count": {
+      "1": 94,
+      "2": 100,
+      "3": 106,
+      "4": 103,
+      "5": 40,
+      "6": 32,
+      "7": 8,
+      "8": 1,
+      "9": 2,
+      "10": 3
+    },
+    "score": 3.1
+  },
+  "tags": [
+    {
+      "name": "游戏改",
+      "count": 113
+    },
+    {
+      "name": "2020年4月",
+      "count": 98
+    },
+    {
+      "name": "TV",
+      "count": 74
+    },
+    {
+      "name": "ZEXCS",
+      "count": 73
+    },
+    {
+      "name": "影之诗",
+      "count": 63
+    },
+    {
+      "name": "傻之逼",
+      "count": 53
+    },
+    {
+      "name": "2020",
+      "count": 53
+    },
+    {
+      "name": "手游改",
+      "count": 39
+    },
+    {
+      "name": "打牌王",
+      "count": 30
+    },
+    {
+      "name": "梶原岳人",
+      "count": 20
+    },
+    {
+      "name": "原创",
+      "count": 20
+    },
+    {
+      "name": "川口敬一郎",
+      "count": 16
+    },
+    {
+      "name": "本渡楓",
+      "count": 13
+    },
+    {
+      "name": "奇幻",
+      "count": 12
+    },
+    {
+      "name": "卡牌",
+      "count": 7
+    },
+    {
+      "name": "日本动画",
+      "count": 6
+    },
+    {
+      "name": "战斗",
+      "count": 5
+    },
+    {
+      "name": "2020年",
+      "count": 4
+    },
+    {
+      "name": "cygames",
+      "count": 3
+    },
+    {
+      "name": "竞技",
+      "count": 2
+    },
+    {
+      "name": "磯崎輪太郎",
+      "count": 2
+    },
+    {
+      "name": "热血",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "搞笑",
+      "count": 2
+    },
+    {
+      "name": "三重野瞳",
+      "count": 2
+    },
+    {
+      "name": "szb",
+      "count": 2
+    },
+    {
+      "name": "龙崎翔羽",
+      "count": 1
+    },
+    {
+      "name": "飯田里樹",
+      "count": 1
+    },
+    {
+      "name": "迷惑",
+      "count": 1
+    },
+    {
+      "name": "近藤隆",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

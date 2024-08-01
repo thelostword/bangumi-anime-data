@@ -1,0 +1,153 @@
+{
+  "id": 240811,
+  "name": "銀魂. 銀ノ魂篇 第2クール",
+  "name_cn": "银魂. 银之魂篇 第二季",
+  "summary": "",
+  "date": "2018-07-08",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/26/3f/240811_T320d.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/26/3f/240811_T320d.jpg"
+  },
+  "eps": 14,
+  "rating": {
+    "rank": 1782,
+    "total": 891,
+    "count": {
+      "1": 7,
+      "2": 5,
+      "3": 8,
+      "4": 14,
+      "5": 35,
+      "6": 157,
+      "7": 319,
+      "8": 215,
+      "9": 69,
+      "10": 62
+    },
+    "score": 7.2
+  },
+  "tags": [
+    {
+      "name": "银魂",
+      "count": 153
+    },
+    {
+      "name": "搞笑",
+      "count": 149
+    },
+    {
+      "name": "TV",
+      "count": 139
+    },
+    {
+      "name": "2018年7月",
+      "count": 124
+    },
+    {
+      "name": "漫画改",
+      "count": 97
+    },
+    {
+      "name": "2018",
+      "count": 79
+    },
+    {
+      "name": "BNPictures",
+      "count": 61
+    },
+    {
+      "name": "JUMP",
+      "count": 54
+    },
+    {
+      "name": "SUNRISE",
+      "count": 52
+    },
+    {
+      "name": "热血",
+      "count": 48
+    },
+    {
+      "name": "漫改",
+      "count": 46
+    },
+    {
+      "name": "战斗",
+      "count": 27
+    },
+    {
+      "name": "BN_Pictures",
+      "count": 20
+    },
+    {
+      "name": "银他妈",
+      "count": 16
+    },
+    {
+      "name": "宫胁千鹤",
+      "count": 13
+    },
+    {
+      "name": "吐槽",
+      "count": 10
+    },
+    {
+      "name": "日本动画",
+      "count": 9
+    },
+    {
+      "name": "续作",
+      "count": 7
+    },
+    {
+      "name": "宮脇千鶴",
+      "count": 6
+    },
+    {
+      "name": "石田彰",
+      "count": 5
+    },
+    {
+      "name": "日本",
+      "count": 5
+    },
+    {
+      "name": "杉田智和",
+      "count": 5
+    },
+    {
+      "name": "日常",
+      "count": 5
+    },
+    {
+      "name": "恶搞",
+      "count": 4
+    },
+    {
+      "name": "长篇",
+      "count": 4
+    },
+    {
+      "name": "动画",
+      "count": 4
+    },
+    {
+      "name": "奇幻",
+      "count": 4
+    },
+    {
+      "name": "钉宫理惠",
+      "count": 3
+    },
+    {
+      "name": "空知英秋",
+      "count": 3
+    },
+    {
+      "name": "2018年",
+      "count": 3
+    }
+  ],
+  "locked": false
+}

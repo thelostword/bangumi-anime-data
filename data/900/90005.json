@@ -1,0 +1,153 @@
+{
+  "id": 90005,
+  "name": "ケロロ",
+  "name_cn": "Keroro",
+  "summary": "ケロロ军曹がフラッシュアニメーションとして新生！\r\n2014年春よりアニマックスにて放送开始！\r\nタイトルも一新！ケロロ军曹→ケロロ",
+  "date": "2014-03-22",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/9c/4a/90005_R1vG1.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/9c/4a/90005_R1vG1.jpg"
+  },
+  "eps": 23,
+  "rating": {
+    "rank": 5658,
+    "total": 161,
+    "count": {
+      "1": 2,
+      "2": 0,
+      "3": 6,
+      "4": 5,
+      "5": 22,
+      "6": 67,
+      "7": 44,
+      "8": 11,
+      "9": 0,
+      "10": 4
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 62
+    },
+    {
+      "name": "SUNRISE",
+      "count": 29
+    },
+    {
+      "name": "2014年4月",
+      "count": 28
+    },
+    {
+      "name": "搞笑",
+      "count": 27
+    },
+    {
+      "name": "TV",
+      "count": 27
+    },
+    {
+      "name": "Keroro",
+      "count": 20
+    },
+    {
+      "name": "Keroro军曹",
+      "count": 19
+    },
+    {
+      "name": "2014",
+      "count": 19
+    },
+    {
+      "name": "日常",
+      "count": 18
+    },
+    {
+      "name": "漫画改",
+      "count": 11
+    },
+    {
+      "name": "军曹",
+      "count": 8
+    },
+    {
+      "name": "春日森春木",
+      "count": 4
+    },
+    {
+      "name": "2014年",
+      "count": 4
+    },
+    {
+      "name": "kuso",
+      "count": 3
+    },
+    {
+      "name": "草尾毅",
+      "count": 3
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "漫改",
+      "count": 2
+    },
+    {
+      "name": "泡面",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 2
+    },
+    {
+      "name": "サンライズ",
+      "count": 1
+    },
+    {
+      "name": "ミニ番組",
+      "count": 1
+    },
+    {
+      "name": "待下",
+      "count": 1
+    },
+    {
+      "name": "日昇动画",
+      "count": 1
+    },
+    {
+      "name": "『TVA』",
+      "count": 1
+    },
+    {
+      "name": "渡辺久美子",
+      "count": 1
+    },
+    {
+      "name": "アニメ",
+      "count": 1
+    },
+    {
+      "name": "桑岛法子",
+      "count": 1
+    },
+    {
+      "name": "石田彰",
+      "count": 1
+    },
+    {
+      "name": "声优",
+      "count": 1
+    },
+    {
+      "name": "短片",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

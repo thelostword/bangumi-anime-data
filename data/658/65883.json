@@ -1,0 +1,153 @@
+{
+  "id": 65883,
+  "name": "らんま1/2 熱闘編",
+  "name_cn": "乱马1/2 热斗篇",
+  "summary": "",
+  "date": "1989-10-20",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/d7/f0/65883_kIKII.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/d7/f0/65883_kIKII.jpg"
+  },
+  "eps": 143,
+  "rating": {
+    "rank": 867,
+    "total": 371,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 8,
+      "6": 45,
+      "7": 117,
+      "8": 146,
+      "9": 37,
+      "10": 17
+    },
+    "score": 7.6
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 96
+    },
+    {
+      "name": "搞笑",
+      "count": 89
+    },
+    {
+      "name": "高桥留美子",
+      "count": 88
+    },
+    {
+      "name": "1989",
+      "count": 70
+    },
+    {
+      "name": "乱马",
+      "count": 62
+    },
+    {
+      "name": "漫画改",
+      "count": 48
+    },
+    {
+      "name": "童年",
+      "count": 45
+    },
+    {
+      "name": "恋爱",
+      "count": 39
+    },
+    {
+      "name": "studiodeen",
+      "count": 34
+    },
+    {
+      "name": "林原惠美",
+      "count": 30
+    },
+    {
+      "name": "漫改",
+      "count": 24
+    },
+    {
+      "name": "后宫",
+      "count": 15
+    },
+    {
+      "name": "山口胜平",
+      "count": 12
+    },
+    {
+      "name": "战斗",
+      "count": 11
+    },
+    {
+      "name": "经典",
+      "count": 10
+    },
+    {
+      "name": "性转",
+      "count": 10
+    },
+    {
+      "name": "日本动画",
+      "count": 5
+    },
+    {
+      "name": "日常",
+      "count": 5
+    },
+    {
+      "name": "1989年",
+      "count": 5
+    },
+    {
+      "name": "1989年10月",
+      "count": 4
+    },
+    {
+      "name": "日本",
+      "count": 3
+    },
+    {
+      "name": "校园",
+      "count": 3
+    },
+    {
+      "name": "女装",
+      "count": 3
+    },
+    {
+      "name": "西村純二",
+      "count": 3
+    },
+    {
+      "name": "奇幻",
+      "count": 3
+    },
+    {
+      "name": "芝山努",
+      "count": 3
+    },
+    {
+      "name": "川井宪次",
+      "count": 3
+    },
+    {
+      "name": "长篇",
+      "count": 2
+    },
+    {
+      "name": "恋爱喜剧",
+      "count": 2
+    },
+    {
+      "name": "林原めぐみ",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

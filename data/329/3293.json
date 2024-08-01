@@ -1,0 +1,153 @@
+{
+  "id": 3293,
+  "name": "ジャングルはいつもハレのちグゥ FINAL",
+  "name_cn": "热带雨林的爆笑生活FINAL",
+  "summary": "第二部OVA《热带雨林的爆笑生活FINAL》（以下简称FINAL）于2003年末至2004年初制作，共14集（分为7卷）。OVA在日本KIDS STATION电视台播出。",
+  "date": "2003-12-21",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ca/3e/3293_jL446.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ca/3e/3293_jL446.jpg"
+  },
+  "eps": 14,
+  "rating": {
+    "rank": 481,
+    "total": 883,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 2,
+      "4": 6,
+      "5": 17,
+      "6": 72,
+      "7": 220,
+      "8": 362,
+      "9": 145,
+      "10": 58
+    },
+    "score": 7.8
+  },
+  "tags": [
+    {
+      "name": "热带雨林的爆笑生活",
+      "count": 155
+    },
+    {
+      "name": "搞笑",
+      "count": 133
+    },
+    {
+      "name": "阿布",
+      "count": 114
+    },
+    {
+      "name": "2003",
+      "count": 93
+    },
+    {
+      "name": "OVA",
+      "count": 88
+    },
+    {
+      "name": "阿布大神",
+      "count": 60
+    },
+    {
+      "name": "水岛努",
+      "count": 57
+    },
+    {
+      "name": "爆笑",
+      "count": 53
+    },
+    {
+      "name": "水島努",
+      "count": 46
+    },
+    {
+      "name": "TV",
+      "count": 37
+    },
+    {
+      "name": "漫画改",
+      "count": 28
+    },
+    {
+      "name": "经典",
+      "count": 24
+    },
+    {
+      "name": "布神，伸展开",
+      "count": 22
+    },
+    {
+      "name": "SHIN-EI",
+      "count": 21
+    },
+    {
+      "name": "漫改",
+      "count": 16
+    },
+    {
+      "name": "神作",
+      "count": 15
+    },
+    {
+      "name": "吐槽",
+      "count": 14
+    },
+    {
+      "name": "シンエイ動画",
+      "count": 12
+    },
+    {
+      "name": "热带玉林的爆笑生活",
+      "count": 10
+    },
+    {
+      "name": "日常",
+      "count": 7
+    },
+    {
+      "name": "动画",
+      "count": 6
+    },
+    {
+      "name": "日本",
+      "count": 6
+    },
+    {
+      "name": "补番",
+      "count": 5
+    },
+    {
+      "name": "2003年",
+      "count": 4
+    },
+    {
+      "name": "横手美智子",
+      "count": 4
+    },
+    {
+      "name": "阿布SAMA",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 3
+    },
+    {
+      "name": "SHIN-EI动画",
+      "count": 3
+    },
+    {
+      "name": "武本康弘",
+      "count": 2
+    },
+    {
+      "name": "喜剧",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

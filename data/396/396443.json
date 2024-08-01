@@ -1,0 +1,113 @@
+{
+  "id": 396443,
+  "name": "デュエル・マスターズWIN",
+  "name_cn": "决斗大师WIN",
+  "summary": "キリフダを手にした時、デュエマが闇に染まる――\r\n\r\n海辺の街、シラハマに住む新主人公・斬札ウィンはデュエマを愛する12歳！\r\n\r\nある日、悠久の封印から目覚めた「邪神くん」とその配下・アビスロイヤルたちの闇文明カードに出会い、「デュエマの深淵」へといざなわれていくこととなる！\r\n\r\nさらに、デュエマ界を席巻する最強4人組集団「D4」やそのトップ、プリンス・カイザの野望がウィンと邪神くんを巻き込み、物語は大きく動き出す…！！",
+  "date": "2022-09-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/17/73/396443_l164w.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/17/73/396443_l164w.jpg"
+  },
+  "eps": 29,
+  "rating": {
+    "rank": 0,
+    "total": 3,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 1,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 3.3
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 3
+    },
+    {
+      "name": "2022年10月",
+      "count": 3
+    },
+    {
+      "name": "游戏改",
+      "count": 3
+    },
+    {
+      "name": "2022",
+      "count": 3
+    },
+    {
+      "name": "鈴木裕輔",
+      "count": 2
+    },
+    {
+      "name": "BrainsBase",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "小学館ミュージック&デジタルエンタテイメント",
+      "count": 2
+    },
+    {
+      "name": "TVA",
+      "count": 2
+    },
+    {
+      "name": "小学館Music&DigitalEntertainment",
+      "count": 1
+    },
+    {
+      "name": "鵜澤正太郎",
+      "count": 1
+    },
+    {
+      "name": "sBase、小学馆音乐&数字娱乐",
+      "count": 1
+    },
+    {
+      "name": "屹青",
+      "count": 1
+    },
+    {
+      "name": "TVA-02",
+      "count": 1
+    },
+    {
+      "name": "石",
+      "count": 1
+    },
+    {
+      "name": "Brain",
+      "count": 1
+    },
+    {
+      "name": "羽多野渉",
+      "count": 1
+    },
+    {
+      "name": "Brain’sBase",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "加藤陽一",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

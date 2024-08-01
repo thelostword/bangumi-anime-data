@@ -1,0 +1,153 @@
+{
+  "id": 10400,
+  "name": "神秘の世界エルハザード",
+  "name_cn": "神秘的世界",
+  "summary": "以王女露恩为女主角，讲述其与水源诚恋情。因为水源诚发明的奇怪机器失控，一干人等被传送到EL-HAZARD世界。（本作人设也是系列最美的一作，与OVA不同，王女露恩的设定变为与水源诚年龄相近的少女）",
+  "date": "1995-10-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/1e/5e/10400_qE8e7.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/1e/5e/10400_qE8e7.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 0,
+    "total": 37,
+    "count": {
+      "1": 0,
+      "2": 1,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 21,
+      "7": 6,
+      "8": 6,
+      "9": 1,
+      "10": 1
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 26
+    },
+    {
+      "name": "1995",
+      "count": 26
+    },
+    {
+      "name": "AIC",
+      "count": 15
+    },
+    {
+      "name": "井上喜久子",
+      "count": 12
+    },
+    {
+      "name": "纯爱",
+      "count": 11
+    },
+    {
+      "name": "神秘的世界",
+      "count": 10
+    },
+    {
+      "name": "El-Hazard",
+      "count": 10
+    },
+    {
+      "name": "林宏樹",
+      "count": 8
+    },
+    {
+      "name": "补旧番",
+      "count": 8
+    },
+    {
+      "name": "小桜エツコ",
+      "count": 4
+    },
+    {
+      "name": "中沢一登",
+      "count": 3
+    },
+    {
+      "name": "原创",
+      "count": 3
+    },
+    {
+      "name": "TVA",
+      "count": 3
+    },
+    {
+      "name": "1995年",
+      "count": 3
+    },
+    {
+      "name": "秋山胜人",
+      "count": 2
+    },
+    {
+      "name": "荒川捻久",
+      "count": 2
+    },
+    {
+      "name": "「✘」",
+      "count": 2
+    },
+    {
+      "name": "中澤一登",
+      "count": 2
+    },
+    {
+      "name": "中山晴夫",
+      "count": 2
+    },
+    {
+      "name": "月村了衡",
+      "count": 2
+    },
+    {
+      "name": "待補2",
+      "count": 1
+    },
+    {
+      "name": "可看可不看",
+      "count": 1
+    },
+    {
+      "name": "在电视上断断续续看过",
+      "count": 1
+    },
+    {
+      "name": "不到7分",
+      "count": 1
+    },
+    {
+      "name": "1995年十月番",
+      "count": 1
+    },
+    {
+      "name": "诚哥异世界穿越记",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "赛璐珞",
+      "count": 1
+    },
+    {
+      "name": "秋山勝仁",
+      "count": 1
+    },
+    {
+      "name": "异世界",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

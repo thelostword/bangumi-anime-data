@@ -1,0 +1,153 @@
+{
+  "id": 199827,
+  "name": "闇芝居 第4期",
+  "name_cn": "暗芝居 第四季",
+  "summary": "",
+  "date": "2017-01-15",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/62/b1/199827_6z2Gg.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/62/b1/199827_6z2Gg.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 7787,
+    "total": 456,
+    "count": {
+      "1": 3,
+      "2": 8,
+      "3": 17,
+      "4": 46,
+      "5": 117,
+      "6": 189,
+      "7": 67,
+      "8": 5,
+      "9": 2,
+      "10": 2
+    },
+    "score": 5.5
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 140
+    },
+    {
+      "name": "恐怖",
+      "count": 84
+    },
+    {
+      "name": "2017年1月",
+      "count": 83
+    },
+    {
+      "name": "TV",
+      "count": 59
+    },
+    {
+      "name": "原创",
+      "count": 58
+    },
+    {
+      "name": "ILCA",
+      "count": 39
+    },
+    {
+      "name": "2017",
+      "count": 38
+    },
+    {
+      "name": "猎奇",
+      "count": 35
+    },
+    {
+      "name": "惊悚",
+      "count": 32
+    },
+    {
+      "name": "暗芝居",
+      "count": 25
+    },
+    {
+      "name": "泡面",
+      "count": 17
+    },
+    {
+      "name": "漫画改",
+      "count": 12
+    },
+    {
+      "name": "兼子昌也",
+      "count": 10
+    },
+    {
+      "name": "四期",
+      "count": 6
+    },
+    {
+      "name": "第四季",
+      "count": 6
+    },
+    {
+      "name": "日本动画",
+      "count": 4
+    },
+    {
+      "name": "2017年",
+      "count": 4
+    },
+    {
+      "name": "熊本浩武",
+      "count": 4
+    },
+    {
+      "name": "续作",
+      "count": 3
+    },
+    {
+      "name": "动画",
+      "count": 2
+    },
+    {
+      "name": "2017年上半年",
+      "count": 2
+    },
+    {
+      "name": "undefined",
+      "count": 2
+    },
+    {
+      "name": "超自然生物",
+      "count": 1
+    },
+    {
+      "name": "オリジナル",
+      "count": 1
+    },
+    {
+      "name": "2017年冬番",
+      "count": 1
+    },
+    {
+      "name": "不作不死",
+      "count": 1
+    },
+    {
+      "name": "津田寛治",
+      "count": 1
+    },
+    {
+      "name": "2017年冬季番",
+      "count": 1
+    },
+    {
+      "name": "怪谈，",
+      "count": 1
+    },
+    {
+      "name": "乐子番",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,153 @@
+{
+  "id": 243916,
+  "name": "約束のネバーランド",
+  "name_cn": "约定的梦幻岛",
+  "summary": "仰慕的母亲并非亲生母亲。一起生活的他们并非兄弟。\r\nGrace=Field House是没有父母的孩子们居住的地方。虽然没有血缘关系，但妈妈和38个兄弟都度过了幸福的每一天，这是不可替代的家。\r\n但是，他们的日常在某一天突然宣告结束……",
+  "date": "2019-01-10",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ff/49/243916_XXJsd.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ff/49/243916_XXJsd.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 707,
+    "total": 8841,
+    "count": {
+      "1": 8,
+      "2": 13,
+      "3": 13,
+      "4": 40,
+      "5": 149,
+      "6": 739,
+      "7": 2762,
+      "8": 3996,
+      "9": 886,
+      "10": 235
+    },
+    "score": 7.6
+  },
+  "tags": [
+    {
+      "name": "悬疑",
+      "count": 1902
+    },
+    {
+      "name": "CloverWorks",
+      "count": 1641
+    },
+    {
+      "name": "2019年1月",
+      "count": 1381
+    },
+    {
+      "name": "漫改",
+      "count": 1234
+    },
+    {
+      "name": "TV",
+      "count": 931
+    },
+    {
+      "name": "漫画改",
+      "count": 881
+    },
+    {
+      "name": "智斗",
+      "count": 847
+    },
+    {
+      "name": "冒险",
+      "count": 786
+    },
+    {
+      "name": "2019",
+      "count": 633
+    },
+    {
+      "name": "JUMP",
+      "count": 611
+    },
+    {
+      "name": "noitaminA",
+      "count": 321
+    },
+    {
+      "name": "神戸守",
+      "count": 220
+    },
+    {
+      "name": "孩子们的冒险",
+      "count": 204
+    },
+    {
+      "name": "奇幻",
+      "count": 193
+    },
+    {
+      "name": "邪道",
+      "count": 187
+    },
+    {
+      "name": "约定的梦幻岛",
+      "count": 54
+    },
+    {
+      "name": "神户守",
+      "count": 47
+    },
+    {
+      "name": "大野敏哉",
+      "count": 36
+    },
+    {
+      "name": "剧情",
+      "count": 31
+    },
+    {
+      "name": "2019年",
+      "count": 26
+    },
+    {
+      "name": "内田真礼",
+      "count": 22
+    },
+    {
+      "name": "热血",
+      "count": 18
+    },
+    {
+      "name": "日本",
+      "count": 16
+    },
+    {
+      "name": "日本动画",
+      "count": 16
+    },
+    {
+      "name": "猎奇",
+      "count": 15
+    },
+    {
+      "name": "战斗",
+      "count": 15
+    },
+    {
+      "name": "致郁",
+      "count": 14
+    },
+    {
+      "name": "神作",
+      "count": 14
+    },
+    {
+      "name": "出水ぽすか",
+      "count": 10
+    },
+    {
+      "name": "推理",
+      "count": 10
+    }
+  ],
+  "locked": false
+}

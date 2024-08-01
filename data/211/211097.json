@@ -1,0 +1,61 @@
+{
+  "id": 211097,
+  "name": "ゲゲゲの鬼太郎 地獄編",
+  "name_cn": "鬼太郎 地狱篇",
+  "summary": "",
+  "date": "1988-02-08",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/bf/3f/211097_jzQx8.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/bf/3f/211097_jzQx8.jpg"
+  },
+  "eps": 7,
+  "rating": {
+    "rank": 0,
+    "total": 4,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 2,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "鬼太郎",
+      "count": 3
+    },
+    {
+      "name": "神魔",
+      "count": 2
+    },
+    {
+      "name": "SP",
+      "count": 2
+    },
+    {
+      "name": "ゲゲゲの鬼太郎",
+      "count": 1
+    },
+    {
+      "name": "1988",
+      "count": 1
+    },
+    {
+      "name": "东映动画",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

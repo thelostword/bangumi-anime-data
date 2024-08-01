@@ -1,0 +1,109 @@
+{
+  "id": 81374,
+  "name": "妖精姫レーン",
+  "name_cn": "妖精姬莲",
+  "summary": "本来全3巻で計画されていたが、諸般の事情から2巻目（1996年1月26日発売）までしかリリースされていない。2巻に収録されている3巻の予告はでっち上げだと、後に大地監督自ら語っている。",
+  "date": "1995-10-27",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/68/c4/81374_L0Jlz.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/68/c4/81374_L0Jlz.jpg"
+  },
+  "eps": 2,
+  "rating": {
+    "rank": 0,
+    "total": 17,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 2,
+      "4": 5,
+      "5": 5,
+      "6": 4,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 4.8
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 11
+    },
+    {
+      "name": "1995",
+      "count": 4
+    },
+    {
+      "name": "大地丙太郎",
+      "count": 3
+    },
+    {
+      "name": "奇幻",
+      "count": 2
+    },
+    {
+      "name": "独立ova",
+      "count": 2
+    },
+    {
+      "name": "原创",
+      "count": 2
+    },
+    {
+      "name": "95-99",
+      "count": 1
+    },
+    {
+      "name": "DangunPictures",
+      "count": 1
+    },
+    {
+      "name": "OVA-01",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "高橋美紀",
+      "count": 1
+    },
+    {
+      "name": "やまざき大志",
+      "count": 1
+    },
+    {
+      "name": "90年代",
+      "count": 1
+    },
+    {
+      "name": "冒险",
+      "count": 1
+    },
+    {
+      "name": "山寺宏一",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "妖精",
+      "count": 1
+    },
+    {
+      "name": "久川綾",
+      "count": 1
+    },
+    {
+      "name": "其他",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

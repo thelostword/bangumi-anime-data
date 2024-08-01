@@ -1,0 +1,153 @@
+{
+  "id": 28230,
+  "name": "さんかれあ",
+  "name_cn": "散华礼弥",
+  "summary": "本作是一个以僵尸为主的搞笑恋爱故事。男主角降谷千纮因一次机缘巧合的情况下，意外令本来已死的女主角散华礼弥因复活术而成为僵尸。",
+  "date": "2012-04-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/b3/f7/28230_hnla8.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/b3/f7/28230_hnla8.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 3334,
+    "total": 7516,
+    "count": {
+      "1": 6,
+      "2": 16,
+      "3": 34,
+      "4": 115,
+      "5": 511,
+      "6": 1923,
+      "7": 3292,
+      "8": 1306,
+      "9": 167,
+      "10": 146
+    },
+    "score": 6.8
+  },
+  "tags": [
+    {
+      "name": "僵尸",
+      "count": 1534
+    },
+    {
+      "name": "散华礼弥",
+      "count": 1478
+    },
+    {
+      "name": "2012年4月",
+      "count": 1076
+    },
+    {
+      "name": "恋爱",
+      "count": 787
+    },
+    {
+      "name": "TV",
+      "count": 727
+    },
+    {
+      "name": "漫画改",
+      "count": 692
+    },
+    {
+      "name": "studiodeen",
+      "count": 483
+    },
+    {
+      "name": "2012",
+      "count": 439
+    },
+    {
+      "name": "花泽香菜",
+      "count": 423
+    },
+    {
+      "name": "今年流行僵尸么？",
+      "count": 284
+    },
+    {
+      "name": "漫改",
+      "count": 260
+    },
+    {
+      "name": "悠木碧",
+      "count": 168
+    },
+    {
+      "name": "奇幻",
+      "count": 156
+    },
+    {
+      "name": "为了CV我来了",
+      "count": 71
+    },
+    {
+      "name": "内田真礼",
+      "count": 56
+    },
+    {
+      "name": "治愈",
+      "count": 47
+    },
+    {
+      "name": "校园",
+      "count": 43
+    },
+    {
+      "name": "2012春番",
+      "count": 41
+    },
+    {
+      "name": "小俣真一",
+      "count": 40
+    },
+    {
+      "name": "日常",
+      "count": 37
+    },
+    {
+      "name": "木村良平",
+      "count": 35
+    },
+    {
+      "name": "福圓美里",
+      "count": 34
+    },
+    {
+      "name": "萌",
+      "count": 30
+    },
+    {
+      "name": "畠山守",
+      "count": 26
+    },
+    {
+      "name": "后宫",
+      "count": 24
+    },
+    {
+      "name": "2011年4月",
+      "count": 24
+    },
+    {
+      "name": "STUDIO_DEEN",
+      "count": 22
+    },
+    {
+      "name": "アニメ",
+      "count": 22
+    },
+    {
+      "name": "井口裕香",
+      "count": 20
+    },
+    {
+      "name": "2012年",
+      "count": 19
+    }
+  ],
+  "locked": false
+}

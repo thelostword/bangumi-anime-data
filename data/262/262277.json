@@ -1,0 +1,153 @@
+{
+  "id": 262277,
+  "name": "ハイスコアガール  EXTRA STAGE",
+  "name_cn": "高分少女 EXTRA STAGE",
+  "summary": "一切都是为了重要的人……\r\n为了让“此刻”闪耀，不是用语言而是用拳头说话。\r\n青春的游戏三番胜负。\r\n来吧，堂堂正正地一决胜负吧！",
+  "date": "2019-03-20",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/1a/82/262277_JHzXs.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/1a/82/262277_JHzXs.jpg"
+  },
+  "eps": 3,
+  "rating": {
+    "rank": 370,
+    "total": 2365,
+    "count": {
+      "1": 4,
+      "2": 2,
+      "3": 1,
+      "4": 10,
+      "5": 28,
+      "6": 122,
+      "7": 552,
+      "8": 1173,
+      "9": 326,
+      "10": 147
+    },
+    "score": 7.9
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 599
+    },
+    {
+      "name": "J.C.STAFF",
+      "count": 502
+    },
+    {
+      "name": "恋爱",
+      "count": 455
+    },
+    {
+      "name": "漫画改",
+      "count": 309
+    },
+    {
+      "name": "2019",
+      "count": 273
+    },
+    {
+      "name": "高分少女",
+      "count": 218
+    },
+    {
+      "name": "青春",
+      "count": 191
+    },
+    {
+      "name": "漫改",
+      "count": 166
+    },
+    {
+      "name": "2019年3月",
+      "count": 159
+    },
+    {
+      "name": "街机游戏",
+      "count": 144
+    },
+    {
+      "name": "游戏",
+      "count": 113
+    },
+    {
+      "name": "搞笑",
+      "count": 91
+    },
+    {
+      "name": "TV",
+      "count": 54
+    },
+    {
+      "name": "山川吉树",
+      "count": 37
+    },
+    {
+      "name": "山川吉樹",
+      "count": 20
+    },
+    {
+      "name": "2019年",
+      "count": 16
+    },
+    {
+      "name": "校园",
+      "count": 16
+    },
+    {
+      "name": "3D",
+      "count": 14
+    },
+    {
+      "name": "白学",
+      "count": 11
+    },
+    {
+      "name": "日常",
+      "count": 10
+    },
+    {
+      "name": "党争",
+      "count": 8
+    },
+    {
+      "name": "无口",
+      "count": 6
+    },
+    {
+      "name": "浦畑達彦",
+      "count": 5
+    },
+    {
+      "name": "情怀",
+      "count": 5
+    },
+    {
+      "name": "日本",
+      "count": 5
+    },
+    {
+      "name": "2019年1月",
+      "count": 4
+    },
+    {
+      "name": "续作",
+      "count": 4
+    },
+    {
+      "name": "押切蓮介",
+      "count": 4
+    },
+    {
+      "name": "热血",
+      "count": 3
+    },
+    {
+      "name": "2019年4月",
+      "count": 3
+    }
+  ],
+  "locked": false
+}

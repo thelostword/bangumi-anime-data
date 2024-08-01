@@ -1,0 +1,97 @@
+{
+  "id": 58916,
+  "name": "妖逆門",
+  "name_cn": "妖逆门",
+  "summary": "冒険好きの少年・多聞三志郎は謎の男・フエに「逆日本」という日本にそっくりな所に導かれる。そこで44年に一度行われる、妖怪・逆門が主催する壮大で奇妙なげえむ「妖逆門」が今始まる。",
+  "date": "2006-04-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/4d/4a/58916_QvzkE.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/4d/4a/58916_QvzkE.jpg"
+  },
+  "eps": 51,
+  "rating": {
+    "rank": 0,
+    "total": 16,
+    "count": {
+      "1": 0,
+      "2": 1,
+      "3": 0,
+      "4": 2,
+      "5": 3,
+      "6": 3,
+      "7": 4,
+      "8": 1,
+      "9": 2,
+      "10": 0
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "妖逆门",
+      "count": 9
+    },
+    {
+      "name": "2006",
+      "count": 6
+    },
+    {
+      "name": "小林由美子",
+      "count": 4
+    },
+    {
+      "name": "子供向",
+      "count": 4
+    },
+    {
+      "name": "TV",
+      "count": 4
+    },
+    {
+      "name": "RADIXMOBANIMATION",
+      "count": 2
+    },
+    {
+      "name": "妖怪",
+      "count": 2
+    },
+    {
+      "name": "兵頭一歩",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "RADIXACEENTERTAINMENT",
+      "count": 1
+    },
+    {
+      "name": "童年",
+      "count": 1
+    },
+    {
+      "name": "ねぎしひろし",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "怀旧",
+      "count": 1
+    },
+    {
+      "name": "ED好听",
+      "count": 1
+    },
+    {
+      "name": "热血",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

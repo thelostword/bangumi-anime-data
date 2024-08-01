@@ -1,0 +1,153 @@
+{
+  "id": 120070,
+  "name": "ブラック・ジャック2時間スペシャル 〜命をめぐる4つの奇跡〜",
+  "name_cn": "怪医黑杰克特别篇 4个生命的奇迹",
+  "summary": "庆贺BJ诞生30周年，同时也是纪念读卖电视台开播45周年的2小时特别篇。",
+  "date": "2003-12-22",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ad/e9/120070_bU0oa.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ad/e9/120070_bU0oa.jpg"
+  },
+  "eps": 4,
+  "rating": {
+    "rank": 2675,
+    "total": 53,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 2,
+      "4": 1,
+      "5": 2,
+      "6": 13,
+      "7": 20,
+      "8": 11,
+      "9": 4,
+      "10": 0
+    },
+    "score": 6.8
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 14
+    },
+    {
+      "name": "2003",
+      "count": 14
+    },
+    {
+      "name": "手塚PRODUCTION",
+      "count": 14
+    },
+    {
+      "name": "怪医黑杰克",
+      "count": 12
+    },
+    {
+      "name": "漫画改",
+      "count": 11
+    },
+    {
+      "name": "医学",
+      "count": 7
+    },
+    {
+      "name": "手塚眞",
+      "count": 6
+    },
+    {
+      "name": "漫改",
+      "count": 5
+    },
+    {
+      "name": "2003年",
+      "count": 5
+    },
+    {
+      "name": "手冢治虫",
+      "count": 5
+    },
+    {
+      "name": "2003年12月",
+      "count": 5
+    },
+    {
+      "name": "TVSP",
+      "count": 3
+    },
+    {
+      "name": "吉村元希",
+      "count": 2
+    },
+    {
+      "name": "手塚プロダクション",
+      "count": 2
+    },
+    {
+      "name": "大和屋暁",
+      "count": 2
+    },
+    {
+      "name": "治愈",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "季番組",
+      "count": 1
+    },
+    {
+      "name": "TV（集数1-49）",
+      "count": 1
+    },
+    {
+      "name": "大叔",
+      "count": 1
+    },
+    {
+      "name": "读卖电视台",
+      "count": 1
+    },
+    {
+      "name": "手塚PRO",
+      "count": 1
+    },
+    {
+      "name": "手冢制作公司",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "手冢真",
+      "count": 1
+    },
+    {
+      "name": "OVA",
+      "count": 1
+    },
+    {
+      "name": "剧情",
+      "count": 1
+    },
+    {
+      "name": "アニメ",
+      "count": 1
+    },
+    {
+      "name": "大塚明夫",
+      "count": 1
+    },
+    {
+      "name": "黑杰克",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

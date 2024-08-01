@@ -1,0 +1,125 @@
+{
+  "id": 229165,
+  "name": "まめねこ",
+  "name_cn": "豆猫",
+  "summary": "",
+  "date": "2018-01-08",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/af/0e/229165_nEqUP.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/af/0e/229165_nEqUP.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 0,
+    "total": 39,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 7,
+      "6": 16,
+      "7": 12,
+      "8": 3,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.2
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 19
+    },
+    {
+      "name": "2018年1月",
+      "count": 14
+    },
+    {
+      "name": "TV",
+      "count": 8
+    },
+    {
+      "name": "漫画改",
+      "count": 8
+    },
+    {
+      "name": "キャラクション",
+      "count": 6
+    },
+    {
+      "name": "猫",
+      "count": 5
+    },
+    {
+      "name": "2018",
+      "count": 5
+    },
+    {
+      "name": "漫改",
+      "count": 4
+    },
+    {
+      "name": "猫片",
+      "count": 3
+    },
+    {
+      "name": "山本雄三",
+      "count": 3
+    },
+    {
+      "name": "d.短片",
+      "count": 2
+    },
+    {
+      "name": "Charaction",
+      "count": 2
+    },
+    {
+      "name": "泡面",
+      "count": 2
+    },
+    {
+      "name": "可爱",
+      "count": 2
+    },
+    {
+      "name": "豆猫",
+      "count": 1
+    },
+    {
+      "name": "m.一集弃",
+      "count": 1
+    },
+    {
+      "name": "2018年一月番",
+      "count": 1
+    },
+    {
+      "name": "猫咪",
+      "count": 1
+    },
+    {
+      "name": "anime",
+      "count": 1
+    },
+    {
+      "name": "动物",
+      "count": 1
+    },
+    {
+      "name": "2018年",
+      "count": 1
+    },
+    {
+      "name": "a.Anime",
+      "count": 1
+    },
+    {
+      "name": "f.日本",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

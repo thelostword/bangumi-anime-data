@@ -1,0 +1,153 @@
+{
+  "id": 61545,
+  "name": "カーニバル・ファンタズム Special Season",
+  "name_cn": "幻想嘉年华 Special Season",
+  "summary": "",
+  "date": "2013-01-16",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/bb/90/61545_S0gBs.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/bb/90/61545_S0gBs.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 1345,
+    "total": 2095,
+    "count": {
+      "1": 7,
+      "2": 0,
+      "3": 6,
+      "4": 7,
+      "5": 52,
+      "6": 261,
+      "7": 848,
+      "8": 752,
+      "9": 96,
+      "10": 66
+    },
+    "score": 7.3
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 586
+    },
+    {
+      "name": "Type-Moon",
+      "count": 562
+    },
+    {
+      "name": "搞笑",
+      "count": 368
+    },
+    {
+      "name": "幻想嘉年华",
+      "count": 350
+    },
+    {
+      "name": "Fate",
+      "count": 225
+    },
+    {
+      "name": "2013",
+      "count": 198
+    },
+    {
+      "name": "岸诚二",
+      "count": 180
+    },
+    {
+      "name": "Lerche",
+      "count": 159
+    },
+    {
+      "name": "2013年1月",
+      "count": 121
+    },
+    {
+      "name": "奈须きのこ",
+      "count": 106
+    },
+    {
+      "name": "漫画改",
+      "count": 76
+    },
+    {
+      "name": "月姬",
+      "count": 69
+    },
+    {
+      "name": "漫改",
+      "count": 38
+    },
+    {
+      "name": "骗钱",
+      "count": 36
+    },
+    {
+      "name": "岸誠二",
+      "count": 26
+    },
+    {
+      "name": "原创",
+      "count": 16
+    },
+    {
+      "name": "上江洲诚",
+      "count": 15
+    },
+    {
+      "name": "ラルケ",
+      "count": 10
+    },
+    {
+      "name": "2013年",
+      "count": 9
+    },
+    {
+      "name": "日本",
+      "count": 9
+    },
+    {
+      "name": "日常",
+      "count": 7
+    },
+    {
+      "name": "奇幻",
+      "count": 6
+    },
+    {
+      "name": "上江洲誠",
+      "count": 6
+    },
+    {
+      "name": "型月",
+      "count": 5
+    },
+    {
+      "name": "游戏改",
+      "count": 5
+    },
+    {
+      "name": "日本动画",
+      "count": 4
+    },
+    {
+      "name": "动画",
+      "count": 4
+    },
+    {
+      "name": "乱斗",
+      "count": 3
+    },
+    {
+      "name": "OAD",
+      "count": 3
+    },
+    {
+      "name": "后宫",
+      "count": 3
+    }
+  ],
+  "locked": false
+}

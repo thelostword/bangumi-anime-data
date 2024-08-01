@@ -1,0 +1,101 @@
+{
+  "id": 381157,
+  "name": "iiiあいすくりん2",
+  "name_cn": "冰冰冰淇淋君 第二季",
+  "summary": "アイスクリームタウンへようこそ！\r\n今日はどんなお友達と出会えるかな？\r\nなかよしトッピングでハバアイスデー！",
+  "date": "2022-07-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/9d/f2/381157_zsZRs.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/9d/f2/381157_zsZRs.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 0,
+    "total": 12,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 4,
+      "6": 3,
+      "7": 2,
+      "8": 2,
+      "9": 0,
+      "10": 1
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 7
+    },
+    {
+      "name": "2022年7月",
+      "count": 5
+    },
+    {
+      "name": "TV",
+      "count": 2
+    },
+    {
+      "name": "SHIIN-EI",
+      "count": 2
+    },
+    {
+      "name": "松村樹里亜",
+      "count": 2
+    },
+    {
+      "name": "岩崎諒太",
+      "count": 2
+    },
+    {
+      "name": "2022",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "TOHOanimationSTUDIO",
+      "count": 1
+    },
+    {
+      "name": "Tia",
+      "count": 1
+    },
+    {
+      "name": "新锐动画、TIA",
+      "count": 1
+    },
+    {
+      "name": "福田裕子",
+      "count": 1
+    },
+    {
+      "name": "原创",
+      "count": 1
+    },
+    {
+      "name": "折笠富美子",
+      "count": 1
+    },
+    {
+      "name": "6",
+      "count": 1
+    },
+    {
+      "name": "シンエイ動画",
+      "count": 1
+    },
+    {
+      "name": "川田妙子",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,93 @@
+{
+  "id": 240775,
+  "name": "ねこねこ日本史 第3シリーズ",
+  "name_cn": "猫猫日本史 第三季",
+  "summary": "さまざまな歴史上の人物たちが猫になって登場！ゆるーく歴史が学べる（かも知れない）「ねこねこ日本史」の、第３シリーズが放送されることが決まりました！\r\n\r\n４月からも楽しい猫の偉人達がたくさん登場します。\r\nお楽しみに！",
+  "date": "2018-04-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/d0/74/240775_732hC.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/d0/74/240775_732hC.jpg"
+  },
+  "eps": 32,
+  "rating": {
+    "rank": 0,
+    "total": 4,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 1,
+      "6": 2,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.3
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 3
+    },
+    {
+      "name": "TV",
+      "count": 2
+    },
+    {
+      "name": "历史",
+      "count": 2
+    },
+    {
+      "name": "搞笑",
+      "count": 2
+    },
+    {
+      "name": "高田亮",
+      "count": 1
+    },
+    {
+      "name": "2018年4月",
+      "count": 1
+    },
+    {
+      "name": "FlyingShipStudio",
+      "count": 1
+    },
+    {
+      "name": "JokerFilms",
+      "count": 1
+    },
+    {
+      "name": "河村友宏",
+      "count": 1
+    },
+    {
+      "name": "li",
+      "count": 1
+    },
+    {
+      "name": "小林ゆう",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "山寺宏一",
+      "count": 1
+    },
+    {
+      "name": "2018",
+      "count": 1
+    },
+    {
+      "name": "猫",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

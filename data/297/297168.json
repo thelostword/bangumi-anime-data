@@ -1,0 +1,153 @@
+{
+  "id": 297168,
+  "name": "アズールレーン びそくぜんしんっ！",
+  "name_cn": "碧蓝航线：微速前行！",
+  "summary": "",
+  "date": "2021-01-11",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/42/fd/297168_caaHF.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/42/fd/297168_caaHF.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 4391,
+    "total": 1311,
+    "count": {
+      "1": 4,
+      "2": 4,
+      "3": 7,
+      "4": 20,
+      "5": 112,
+      "6": 450,
+      "7": 523,
+      "8": 141,
+      "9": 16,
+      "10": 34
+    },
+    "score": 6.6
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 438
+    },
+    {
+      "name": "碧蓝航线",
+      "count": 297
+    },
+    {
+      "name": "2021年1月",
+      "count": 283
+    },
+    {
+      "name": "日常",
+      "count": 266
+    },
+    {
+      "name": "TV",
+      "count": 183
+    },
+    {
+      "name": "漫画改",
+      "count": 174
+    },
+    {
+      "name": "舰娘",
+      "count": 125
+    },
+    {
+      "name": "2021",
+      "count": 118
+    },
+    {
+      "name": "YostarPictures",
+      "count": 116
+    },
+    {
+      "name": "百合",
+      "count": 93
+    },
+    {
+      "name": "漫改",
+      "count": 55
+    },
+    {
+      "name": "studioCANDYBOX",
+      "count": 53
+    },
+    {
+      "name": "神保昌登",
+      "count": 22
+    },
+    {
+      "name": "泡面",
+      "count": 18
+    },
+    {
+      "name": "游戏改",
+      "count": 11
+    },
+    {
+      "name": "日本",
+      "count": 8
+    },
+    {
+      "name": "萌",
+      "count": 7
+    },
+    {
+      "name": "萝莉",
+      "count": 7
+    },
+    {
+      "name": "搞笑",
+      "count": 6
+    },
+    {
+      "name": "Yostar_Pictures",
+      "count": 6
+    },
+    {
+      "name": "萌系",
+      "count": 6
+    },
+    {
+      "name": "轻百合",
+      "count": 5
+    },
+    {
+      "name": "卖肉",
+      "count": 4
+    },
+    {
+      "name": "日本动画",
+      "count": 4
+    },
+    {
+      "name": "治愈",
+      "count": 3
+    },
+    {
+      "name": "山根希美",
+      "count": 3
+    },
+    {
+      "name": "动画",
+      "count": 3
+    },
+    {
+      "name": "杀必死",
+      "count": 3
+    },
+    {
+      "name": "废萌",
+      "count": 3
+    },
+    {
+      "name": "TVA",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

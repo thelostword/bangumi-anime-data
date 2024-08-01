@@ -1,0 +1,105 @@
+{
+  "id": 39300,
+  "name": "モンキーターン V",
+  "name_cn": "驰风！赛艇王V",
+  "summary": "",
+  "date": "2004-07-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/4c/32/39300_vmDMD.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/4c/32/39300_vmDMD.jpg"
+  },
+  "eps": 25,
+  "rating": {
+    "rank": 0,
+    "total": 8,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 2,
+      "6": 2,
+      "7": 1,
+      "8": 1,
+      "9": 1,
+      "10": 1
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "运动",
+      "count": 3
+    },
+    {
+      "name": "TV",
+      "count": 2
+    },
+    {
+      "name": "2004",
+      "count": 2
+    },
+    {
+      "name": "待補1",
+      "count": 1
+    },
+    {
+      "name": "秋山勝仁",
+      "count": 1
+    },
+    {
+      "name": "川島得愛",
+      "count": 1
+    },
+    {
+      "name": "赛艇王",
+      "count": 1
+    },
+    {
+      "name": "冨岡淳広",
+      "count": 1
+    },
+    {
+      "name": "远古",
+      "count": 1
+    },
+    {
+      "name": "赛艇",
+      "count": 1
+    },
+    {
+      "name": "OLM",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "补番",
+      "count": 1
+    },
+    {
+      "name": "2004年",
+      "count": 1
+    },
+    {
+      "name": "野田順子",
+      "count": 1
+    },
+    {
+      "name": "冷门",
+      "count": 1
+    },
+    {
+      "name": "間島淳司",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

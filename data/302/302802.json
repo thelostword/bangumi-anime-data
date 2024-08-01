@@ -1,0 +1,153 @@
+{
+  "id": 302802,
+  "name": "SHOW BY ROCK!! STARS!!",
+  "name_cn": "SHOW BY ROCK!! STARS!!",
+  "summary": "",
+  "date": "2021-01-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/51/8d/302802_Df3oo.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/51/8d/302802_Df3oo.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 3958,
+    "total": 211,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 3,
+      "4": 3,
+      "5": 24,
+      "6": 59,
+      "7": 88,
+      "8": 26,
+      "9": 8,
+      "10": 0
+    },
+    "score": 6.6
+  },
+  "tags": [
+    {
+      "name": "百合",
+      "count": 77
+    },
+    {
+      "name": "音乐",
+      "count": 59
+    },
+    {
+      "name": "2021年1月",
+      "count": 59
+    },
+    {
+      "name": "TV",
+      "count": 55
+    },
+    {
+      "name": "2021",
+      "count": 38
+    },
+    {
+      "name": "KINEMACITRUS",
+      "count": 33
+    },
+    {
+      "name": "游戏改",
+      "count": 29
+    },
+    {
+      "name": "show_by_rock!!",
+      "count": 27
+    },
+    {
+      "name": "原创",
+      "count": 25
+    },
+    {
+      "name": "乐队",
+      "count": 15
+    },
+    {
+      "name": "偶像",
+      "count": 12
+    },
+    {
+      "name": "待田堂子",
+      "count": 8
+    },
+    {
+      "name": "山岸大悟",
+      "count": 5
+    },
+    {
+      "name": "萌",
+      "count": 3
+    },
+    {
+      "name": "日本",
+      "count": 3
+    },
+    {
+      "name": "兽耳娘",
+      "count": 3
+    },
+    {
+      "name": "遠野ひかる",
+      "count": 2
+    },
+    {
+      "name": "和多田美咲",
+      "count": 2
+    },
+    {
+      "name": "稲川英里",
+      "count": 2
+    },
+    {
+      "name": "高梨康治",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "A站",
+      "count": 1
+    },
+    {
+      "name": "SB69",
+      "count": 1
+    },
+    {
+      "name": "中推",
+      "count": 1
+    },
+    {
+      "name": "片单",
+      "count": 1
+    },
+    {
+      "name": "唱跳rap",
+      "count": 1
+    },
+    {
+      "name": "acfun",
+      "count": 1
+    },
+    {
+      "name": "狐丸可爱",
+      "count": 1
+    },
+    {
+      "name": "女同乐队",
+      "count": 1
+    },
+    {
+      "name": "三丽鸥",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

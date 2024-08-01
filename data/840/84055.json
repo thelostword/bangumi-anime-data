@@ -1,0 +1,49 @@
+{
+  "id": 84055,
+  "name": "たまごっち! ゆめキラドリーム",
+  "name_cn": "拓麻歌子！ Yume Kira Dream",
+  "summary": "",
+  "date": "2012-09-10",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/d0/e8/84055_1NSrv.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/d0/e8/84055_1NSrv.jpg"
+  },
+  "eps": 49,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "OLMTeamKamei",
+      "count": 1
+    },
+    {
+      "name": "¬",
+      "count": 1
+    },
+    {
+      "name": "2012",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

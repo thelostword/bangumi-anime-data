@@ -1,0 +1,53 @@
+{
+  "id": 238376,
+  "name": "ポンコツクエスト〜魔王と派遣の魔物たち〜",
+  "name_cn": "",
+  "summary": "",
+  "date": "2013-08-22",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/6b/d6/238376_MnKWw.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/6b/d6/238376_MnKWw.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 0,
+    "total": 3,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 2,
+      "8": 0,
+      "9": 1,
+      "10": 0
+    },
+    "score": 7.7
+  },
+  "tags": [
+    {
+      "name": "2013年8月",
+      "count": 1
+    },
+    {
+      "name": "2013",
+      "count": 1
+    },
+    {
+      "name": "WEB",
+      "count": 1
+    },
+    {
+      "name": "原创",
+      "count": 1
+    },
+    {
+      "name": "TV",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

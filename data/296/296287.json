@@ -1,0 +1,153 @@
+{
+  "id": 296287,
+  "name": "STAND BY ME ドラえもん 2",
+  "name_cn": "哆啦A梦：伴我同行2",
+  "summary": "日本中に感動の渦を巻き起こした『STAND BY ME ドラえもん』が、スクリーンに帰ってくる！！",
+  "date": "2020-11-20",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/8b/59/296287_l3Aaa.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/8b/59/296287_l3Aaa.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 4404,
+    "total": 560,
+    "count": {
+      "1": 6,
+      "2": 1,
+      "3": 3,
+      "4": 25,
+      "5": 46,
+      "6": 170,
+      "7": 199,
+      "8": 79,
+      "9": 15,
+      "10": 16
+    },
+    "score": 6.6
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 189
+    },
+    {
+      "name": "哆啦A梦",
+      "count": 142
+    },
+    {
+      "name": "2020",
+      "count": 94
+    },
+    {
+      "name": "3D",
+      "count": 60
+    },
+    {
+      "name": "藤子·F·不二雄",
+      "count": 43
+    },
+    {
+      "name": "原创",
+      "count": 31
+    },
+    {
+      "name": "SHIN-EI",
+      "count": 29
+    },
+    {
+      "name": "漫画改",
+      "count": 26
+    },
+    {
+      "name": "治愈",
+      "count": 24
+    },
+    {
+      "name": "シンエイ動画",
+      "count": 19
+    },
+    {
+      "name": "山崎貴",
+      "count": 18
+    },
+    {
+      "name": "科幻",
+      "count": 17
+    },
+    {
+      "name": "催泪",
+      "count": 13
+    },
+    {
+      "name": "白组",
+      "count": 8
+    },
+    {
+      "name": "日本",
+      "count": 8
+    },
+    {
+      "name": "八木竜一",
+      "count": 7
+    },
+    {
+      "name": "漫改",
+      "count": 6
+    },
+    {
+      "name": "童年",
+      "count": 4
+    },
+    {
+      "name": "白組",
+      "count": 4
+    },
+    {
+      "name": "2020年11月",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 3
+    },
+    {
+      "name": "动画电影",
+      "count": 3
+    },
+    {
+      "name": "电影",
+      "count": 3
+    },
+    {
+      "name": "ロボット",
+      "count": 2
+    },
+    {
+      "name": "robot",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 2
+    },
+    {
+      "name": "アニメ映画",
+      "count": 2
+    },
+    {
+      "name": "日系",
+      "count": 1
+    },
+    {
+      "name": "补标",
+      "count": 1
+    },
+    {
+      "name": "令和",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

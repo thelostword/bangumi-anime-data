@@ -1,0 +1,65 @@
+{
+  "id": 53764,
+  "name": "国松さまのお通りだい",
+  "name_cn": "",
+  "summary": "",
+  "date": "1971-10-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/bf/ec/53764_2bHB7.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/bf/ec/53764_2bHB7.jpg"
+  },
+  "eps": 46,
+  "rating": {
+    "rank": 0,
+    "total": 2,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 1,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.5
+  },
+  "tags": [
+    {
+      "name": "给国松大人让路",
+      "count": 2
+    },
+    {
+      "name": "原神",
+      "count": 1
+    },
+    {
+      "name": "虫Pro",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "1971",
+      "count": 1
+    },
+    {
+      "name": "TV",
+      "count": 1
+    },
+    {
+      "name": "童年",
+      "count": 1
+    },
+    {
+      "name": "经典",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

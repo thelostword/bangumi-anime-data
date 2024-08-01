@@ -1,0 +1,41 @@
+{
+  "id": 208346,
+  "name": "ハッピージョージ",
+  "name_cn": "",
+  "summary": "A comedic family of Americans experience life in Japan. \r\nHappy Jozy is broadcast within the program Animusu! on TV Tokyo.",
+  "date": "2015-04-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/63/aa/208346_Ea01z.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/63/aa/208346_Ea01z.jpg"
+  },
+  "eps": 52,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "胜哄Studio",
+      "count": 1
+    },
+    {
+      "name": "空",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

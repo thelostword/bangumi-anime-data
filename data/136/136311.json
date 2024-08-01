@@ -1,0 +1,153 @@
+{
+  "id": 136311,
+  "name": "ゆるゆり なちゅやちゅみ!+",
+  "name_cn": "摇曳百合 夏日时光！+",
+  "summary": "7月25日｢なちゅやちゅみ｣をテレビ東京で放送 8月と9月完全新作アニメ｢なちゅやちゅみ＋｣放送（それぞれ単発）。",
+  "date": "2015-08-20",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/6b/d7/136311_N51T6.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/6b/d7/136311_N51T6.jpg"
+  },
+  "eps": 2,
+  "rating": {
+    "rank": 1097,
+    "total": 1975,
+    "count": {
+      "1": 0,
+      "2": 2,
+      "3": 4,
+      "4": 5,
+      "5": 39,
+      "6": 231,
+      "7": 777,
+      "8": 731,
+      "9": 111,
+      "10": 75
+    },
+    "score": 7.4
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 630
+    },
+    {
+      "name": "百合",
+      "count": 510
+    },
+    {
+      "name": "摇曳百合",
+      "count": 339
+    },
+    {
+      "name": "日常",
+      "count": 325
+    },
+    {
+      "name": "2015",
+      "count": 298
+    },
+    {
+      "name": "漫画改",
+      "count": 250
+    },
+    {
+      "name": "搞笑",
+      "count": 220
+    },
+    {
+      "name": "TYOAnimations",
+      "count": 205
+    },
+    {
+      "name": "阿卡林",
+      "count": 147
+    },
+    {
+      "name": "治愈",
+      "count": 134
+    },
+    {
+      "name": "2015年8月",
+      "count": 106
+    },
+    {
+      "name": "漫改",
+      "count": 93
+    },
+    {
+      "name": "畑博之",
+      "count": 65
+    },
+    {
+      "name": "TV",
+      "count": 58
+    },
+    {
+      "name": "萌",
+      "count": 53
+    },
+    {
+      "name": "轻百合",
+      "count": 33
+    },
+    {
+      "name": "校园",
+      "count": 24
+    },
+    {
+      "name": "夏日时光！+",
+      "count": 17
+    },
+    {
+      "name": "动画工房",
+      "count": 11
+    },
+    {
+      "name": "2015年",
+      "count": 10
+    },
+    {
+      "name": "一迅社",
+      "count": 10
+    },
+    {
+      "name": "深見真",
+      "count": 8
+    },
+    {
+      "name": "TYO",
+      "count": 7
+    },
+    {
+      "name": "深见真",
+      "count": 6
+    },
+    {
+      "name": "ゆめ太カンパニー",
+      "count": 6
+    },
+    {
+      "name": "TYOアニメーションズ",
+      "count": 6
+    },
+    {
+      "name": "欢乐",
+      "count": 6
+    },
+    {
+      "name": "日本",
+      "count": 5
+    },
+    {
+      "name": "空气系",
+      "count": 5
+    },
+    {
+      "name": "TVSP",
+      "count": 5
+    }
+  ],
+  "locked": false
+}

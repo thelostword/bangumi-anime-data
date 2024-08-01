@@ -1,0 +1,85 @@
+{
+  "id": 213787,
+  "name": "新巨人の星II",
+  "name_cn": "新巨人之星II",
+  "summary": "",
+  "date": "1979-04-14",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/f8/27/213787_BKKL2.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/f8/27/213787_BKKL2.jpg"
+  },
+  "eps": 23,
+  "rating": {
+    "rank": 0,
+    "total": 4,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 0,
+      "5": 0,
+      "6": 3,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.3
+  },
+  "tags": [
+    {
+      "name": "1979",
+      "count": 4
+    },
+    {
+      "name": "永丘昭典",
+      "count": 2
+    },
+    {
+      "name": "東京ムービー",
+      "count": 2
+    },
+    {
+      "name": "今沢哲男",
+      "count": 2
+    },
+    {
+      "name": "TVA",
+      "count": 2
+    },
+    {
+      "name": "井上真樹夫",
+      "count": 1
+    },
+    {
+      "name": "东京电影新社",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "1977",
+      "count": 1
+    },
+    {
+      "name": "棒球",
+      "count": 1
+    },
+    {
+      "name": "古谷徹",
+      "count": 1
+    },
+    {
+      "name": "TV",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

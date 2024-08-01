@@ -1,0 +1,53 @@
+{
+  "id": 210465,
+  "name": "かみさまみならい ヒミツのここたま 第2シリーズ",
+  "name_cn": "见习神明 秘密的心灵 第2部",
+  "summary": "",
+  "date": "2017-04-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/89/9a/210465_uYKup.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/89/9a/210465_uYKup.jpg"
+  },
+  "eps": 50,
+  "rating": {
+    "rank": 0,
+    "total": 4,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 2,
+      "7": 0,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.3
+  },
+  "tags": [
+    {
+      "name": "幼女向",
+      "count": 3
+    },
+    {
+      "name": "TV",
+      "count": 2
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "原创",
+      "count": 1
+    },
+    {
+      "name": "萌",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,37 @@
+{
+  "id": 18582,
+  "name": "Daydream",
+  "name_cn": "",
+  "summary": "東方妖々夢アレンジアルバム",
+  "date": "2009-08-15",
+  "platform": "",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/db/e2/18582_KCarA.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/db/e2/18582_KCarA.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 3,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 2,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.3
+  },
+  "tags": [
+    {
+      "name": "東方",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

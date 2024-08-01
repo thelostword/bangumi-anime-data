@@ -1,0 +1,37 @@
+{
+  "id": 302153,
+  "name": "Simon Saison 2",
+  "name_cn": "超人兔 第二季",
+  "summary": "Simon is an adorable little rabbit who exudes all the vitality of childhood.\r\nHe is at an age when little rabbits (and indeed children!) are starting to come into their own - challenging relationships with parents, embarking upon school life, learning about the world in general.\r\n",
+  "date": "2020-09-21",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/7f/f9/302153_9zjcL.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/7f/f9/302153_9zjcL.jpg"
+  },
+  "eps": 52,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "子供向",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,153 @@
+{
+  "id": 1737,
+  "name": "うたわれるもの OVA",
+  "name_cn": "传颂之物 OVA",
+  "summary": "",
+  "date": "2009-06-24",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/70/ec/1737_HdQxI.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/70/ec/1737_HdQxI.jpg"
+  },
+  "eps": 3,
+  "rating": {
+    "rank": 3756,
+    "total": 748,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 5,
+      "4": 16,
+      "5": 51,
+      "6": 229,
+      "7": 306,
+      "8": 113,
+      "9": 14,
+      "10": 13
+    },
+    "score": 6.7
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 254
+    },
+    {
+      "name": "传颂",
+      "count": 104
+    },
+    {
+      "name": "leaf",
+      "count": 97
+    },
+    {
+      "name": "传颂之物",
+      "count": 82
+    },
+    {
+      "name": "游戏改",
+      "count": 72
+    },
+    {
+      "name": "2009",
+      "count": 60
+    },
+    {
+      "name": "卖肉",
+      "count": 49
+    },
+    {
+      "name": "GAL改",
+      "count": 44
+    },
+    {
+      "name": "奇幻",
+      "count": 39
+    },
+    {
+      "name": "邪恶",
+      "count": 34
+    },
+    {
+      "name": "出浴",
+      "count": 25
+    },
+    {
+      "name": "2009年6月",
+      "count": 23
+    },
+    {
+      "name": "うたわれるもの",
+      "count": 20
+    },
+    {
+      "name": "Utaware_OVA",
+      "count": 14
+    },
+    {
+      "name": "カオスプロジェクト",
+      "count": 12
+    },
+    {
+      "name": "动画",
+      "count": 10
+    },
+    {
+      "name": "幻想",
+      "count": 8
+    },
+    {
+      "name": "后宫",
+      "count": 8
+    },
+    {
+      "name": "日本",
+      "count": 7
+    },
+    {
+      "name": "兽耳",
+      "count": 7
+    },
+    {
+      "name": "战斗",
+      "count": 5
+    },
+    {
+      "name": "肉",
+      "count": 5
+    },
+    {
+      "name": "Utaware",
+      "count": 4
+    },
+    {
+      "name": "搞笑",
+      "count": 4
+    },
+    {
+      "name": "中原麻衣",
+      "count": 4
+    },
+    {
+      "name": "小山力也",
+      "count": 4
+    },
+    {
+      "name": "福利",
+      "count": 4
+    },
+    {
+      "name": "ChaosProject",
+      "count": 4
+    },
+    {
+      "name": "魔法",
+      "count": 4
+    },
+    {
+      "name": "2009年",
+      "count": 4
+    }
+  ],
+  "locked": false
+}

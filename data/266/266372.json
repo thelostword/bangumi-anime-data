@@ -1,0 +1,153 @@
+{
+  "id": 266372,
+  "name": "炎炎ノ消防隊",
+  "name_cn": "炎炎消防队",
+  "summary": "全人类恐慌着——\r\n没有任何变异的人突然燃烧起来，变成火炎怪物“焰人”、极尽破坏力的“人体起火现象”。\r\n与火焰之恐怖对抗的特殊消防队，他们的使命是解开现象之谜并拯救人类！\r\n出于某个原因被称为“恶魔”的新入队少年・森罗，以成为“英雄”为目标，与伙伴们一起，投身于与火焰对抗的日子中！！",
+  "date": "2019-07-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e5/f5/266372_2E8SA.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e5/f5/266372_2E8SA.jpg"
+  },
+  "eps": 24,
+  "rating": {
+    "rank": 4986,
+    "total": 3007,
+    "count": {
+      "1": 8,
+      "2": 7,
+      "3": 22,
+      "4": 108,
+      "5": 279,
+      "6": 977,
+      "7": 1175,
+      "8": 362,
+      "9": 37,
+      "10": 32
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "战斗",
+      "count": 688
+    },
+    {
+      "name": "2019年7月",
+      "count": 629
+    },
+    {
+      "name": "热血",
+      "count": 597
+    },
+    {
+      "name": "davidproduction",
+      "count": 466
+    },
+    {
+      "name": "漫画改",
+      "count": 442
+    },
+    {
+      "name": "TV",
+      "count": 362
+    },
+    {
+      "name": "漫改",
+      "count": 277
+    },
+    {
+      "name": "炎炎消防队",
+      "count": 250
+    },
+    {
+      "name": "2019",
+      "count": 236
+    },
+    {
+      "name": "奇幻",
+      "count": 141
+    },
+    {
+      "name": "八瀬祐樹",
+      "count": 78
+    },
+    {
+      "name": "半年番",
+      "count": 49
+    },
+    {
+      "name": "梶原岳人",
+      "count": 24
+    },
+    {
+      "name": "日本动画",
+      "count": 19
+    },
+    {
+      "name": "大卫社",
+      "count": 14
+    },
+    {
+      "name": "david_production",
+      "count": 13
+    },
+    {
+      "name": "超能力",
+      "count": 10
+    },
+    {
+      "name": "搞笑",
+      "count": 9
+    },
+    {
+      "name": "八濑祐树",
+      "count": 8
+    },
+    {
+      "name": "2019年",
+      "count": 8
+    },
+    {
+      "name": "守岡英行",
+      "count": 7
+    },
+    {
+      "name": "蓜島岳斗",
+      "count": 7
+    },
+    {
+      "name": "TVA",
+      "count": 5
+    },
+    {
+      "name": "david.production",
+      "count": 5
+    },
+    {
+      "name": "八濑佑树",
+      "count": 5
+    },
+    {
+      "name": "末廣健一郎",
+      "count": 4
+    },
+    {
+      "name": "王道",
+      "count": 4
+    },
+    {
+      "name": "大久保笃",
+      "count": 4
+    },
+    {
+      "name": "日本",
+      "count": 4
+    },
+    {
+      "name": "蓜岛岳斗",
+      "count": 4
+    }
+  ],
+  "locked": false
+}

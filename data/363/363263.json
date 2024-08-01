@@ -1,0 +1,153 @@
+{
+  "id": 363263,
+  "name": "マブラヴ オルタネイティヴ 第2期",
+  "name_cn": "Muv-Luv Alternative 第二季",
+  "summary": "这是在极限世界战斗的人间羁绊故事。\r\n在这个时空存在的无数平行世界之一。\r\n这里的人类驱使着名为战术步行战斗机（战术机）的人形兵器，与地球外起源生命体「BETA」持续战斗了几十年。\r\n人类面临着灭亡的危机下，在各种残酷的命运下又会怎样生存呢？",
+  "date": "2022-10-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c0/1c/363263_aP9c9.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c0/1c/363263_aP9c9.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 7624,
+    "total": 475,
+    "count": {
+      "1": 17,
+      "2": 6,
+      "3": 22,
+      "4": 39,
+      "5": 109,
+      "6": 161,
+      "7": 76,
+      "8": 28,
+      "9": 8,
+      "10": 9
+    },
+    "score": 5.6
+  },
+  "tags": [
+    {
+      "name": "2022年10月",
+      "count": 111
+    },
+    {
+      "name": "TV",
+      "count": 99
+    },
+    {
+      "name": "游戏改",
+      "count": 95
+    },
+    {
+      "name": "GAL改",
+      "count": 92
+    },
+    {
+      "name": "FLAGSHIPLINE",
+      "count": 69
+    },
+    {
+      "name": "2022",
+      "count": 63
+    },
+    {
+      "name": "萝卜",
+      "count": 57
+    },
+    {
+      "name": "机战",
+      "count": 51
+    },
+    {
+      "name": "Graphinica",
+      "count": 44
+    },
+    {
+      "name": "惨遭动画化",
+      "count": 42
+    },
+    {
+      "name": "西本由紀夫",
+      "count": 20
+    },
+    {
+      "name": "MUV-LUV",
+      "count": 17
+    },
+    {
+      "name": "浦畑達彦",
+      "count": 9
+    },
+    {
+      "name": "ゆめ太カンパニー",
+      "count": 6
+    },
+    {
+      "name": "战斗",
+      "count": 5
+    },
+    {
+      "name": "续作",
+      "count": 5
+    },
+    {
+      "name": "科幻",
+      "count": 5
+    },
+    {
+      "name": "后宫",
+      "count": 4
+    },
+    {
+      "name": "动画",
+      "count": 3
+    },
+    {
+      "name": "グラフィニカ",
+      "count": 3
+    },
+    {
+      "name": "TVA",
+      "count": 3
+    },
+    {
+      "name": "季番",
+      "count": 3
+    },
+    {
+      "name": "2022年",
+      "count": 3
+    },
+    {
+      "name": "梦太Company",
+      "count": 2
+    },
+    {
+      "name": "谷拓也",
+      "count": 2
+    },
+    {
+      "name": "6分",
+      "count": 2
+    },
+    {
+      "name": "机甲",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "TYOAnimations",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

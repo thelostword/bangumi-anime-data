@@ -1,0 +1,41 @@
+{
+  "id": 402219,
+  "name": "Peeping Life -The Perfect Extension-",
+  "name_cn": "",
+  "summary": "",
+  "date": "2011-09-23",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/65/70/402219_ddWL4.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/65/70/402219_ddWL4.jpg"
+  },
+  "eps": 10,
+  "rating": {
+    "rank": 0,
+    "total": 2,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 0,
+      "5": 1,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 4
+  },
+  "tags": [
+    {
+      "name": "OVA-01",
+      "count": 1
+    },
+    {
+      "name": "欧美",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

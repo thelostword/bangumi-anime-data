@@ -1,0 +1,153 @@
+{
+  "id": 199630,
+  "name": "青の祓魔師 OAD",
+  "name_cn": "青之驱魔师 OAD",
+  "summary": "单行本第19卷限定版同捆OAD。\r\n\r\n单行本第20卷限定版同捆OAD",
+  "date": "2017-04-03",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/54/f6/199630_A7pw5.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/54/f6/199630_A7pw5.jpg"
+  },
+  "eps": 2,
+  "rating": {
+    "rank": 5631,
+    "total": 252,
+    "count": {
+      "1": 2,
+      "2": 0,
+      "3": 0,
+      "4": 8,
+      "5": 32,
+      "6": 119,
+      "7": 68,
+      "8": 20,
+      "9": 2,
+      "10": 1
+    },
+    "score": 6.2
+  },
+  "tags": [
+    {
+      "name": "OAD",
+      "count": 78
+    },
+    {
+      "name": "A-1Pictures",
+      "count": 54
+    },
+    {
+      "name": "OVA",
+      "count": 53
+    },
+    {
+      "name": "青之驱魔师",
+      "count": 47
+    },
+    {
+      "name": "2017",
+      "count": 44
+    },
+    {
+      "name": "漫画改",
+      "count": 31
+    },
+    {
+      "name": "热血",
+      "count": 30
+    },
+    {
+      "name": "2017年4月",
+      "count": 22
+    },
+    {
+      "name": "奇幻",
+      "count": 14
+    },
+    {
+      "name": "漫改",
+      "count": 13
+    },
+    {
+      "name": "战斗",
+      "count": 12
+    },
+    {
+      "name": "泽野弘之",
+      "count": 8
+    },
+    {
+      "name": "初见浩一",
+      "count": 7
+    },
+    {
+      "name": "澤野弘之",
+      "count": 6
+    },
+    {
+      "name": "初見浩一",
+      "count": 4
+    },
+    {
+      "name": "动画",
+      "count": 4
+    },
+    {
+      "name": "日本",
+      "count": 3
+    },
+    {
+      "name": "JUMP",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 3
+    },
+    {
+      "name": "大野敏哉",
+      "count": 2
+    },
+    {
+      "name": "搞笑",
+      "count": 2
+    },
+    {
+      "name": "岡本信彦",
+      "count": 2
+    },
+    {
+      "name": "OVA·OAD",
+      "count": 2
+    },
+    {
+      "name": "2017年",
+      "count": 2
+    },
+    {
+      "name": "妖怪",
+      "count": 2
+    },
+    {
+      "name": "恶魔",
+      "count": 2
+    },
+    {
+      "name": "信任",
+      "count": 1
+    },
+    {
+      "name": "2022",
+      "count": 1
+    },
+    {
+      "name": "OVA&OAD",
+      "count": 1
+    },
+    {
+      "name": "秘密",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

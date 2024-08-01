@@ -1,0 +1,141 @@
+{
+  "id": 40931,
+  "name": "幽☆遊☆白書 映像白書II",
+  "name_cn": "幽游白书 映像白书2",
+  "summary": "名場面を登場人物別に再編集したVHSビデオ作品として『映像白書』が発売された。この作品には特典として「夢夢白書」というオリジナルショートストーリーがあり、本放送や劇場版とは大きく異なるシュールな作風で、脚本は桑原和真役の千葉繁が担当している。",
+  "date": "1995-12-16",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/06/cd/40931_56C45.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/06/cd/40931_56C45.jpg"
+  },
+  "eps": 4,
+  "rating": {
+    "rank": 0,
+    "total": 48,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 2,
+      "4": 1,
+      "5": 10,
+      "6": 24,
+      "7": 4,
+      "8": 3,
+      "9": 3,
+      "10": 1
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 20
+    },
+    {
+      "name": "富坚义博",
+      "count": 9
+    },
+    {
+      "name": "幽游白书",
+      "count": 9
+    },
+    {
+      "name": "1995",
+      "count": 9
+    },
+    {
+      "name": "StudioPierrot",
+      "count": 8
+    },
+    {
+      "name": "1996",
+      "count": 5
+    },
+    {
+      "name": "ぴえろ",
+      "count": 3
+    },
+    {
+      "name": "漫改",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 3
+    },
+    {
+      "name": "日本",
+      "count": 3
+    },
+    {
+      "name": "动画",
+      "count": 2
+    },
+    {
+      "name": "阿部記之",
+      "count": 1
+    },
+    {
+      "name": "佐々木望",
+      "count": 1
+    },
+    {
+      "name": "大橋志吉",
+      "count": 1
+    },
+    {
+      "name": "OVA-01",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "2024",
+      "count": 1
+    },
+    {
+      "name": "集锦",
+      "count": 1
+    },
+    {
+      "name": "童年的经典",
+      "count": 1
+    },
+    {
+      "name": "緒方恵美",
+      "count": 1
+    },
+    {
+      "name": "剧场版",
+      "count": 1
+    },
+    {
+      "name": "漫画",
+      "count": 1
+    },
+    {
+      "name": "漫画改",
+      "count": 1
+    },
+    {
+      "name": "战斗",
+      "count": 1
+    },
+    {
+      "name": "补番",
+      "count": 1
+    },
+    {
+      "name": "童年",
+      "count": 1
+    },
+    {
+      "name": "檜山修之",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

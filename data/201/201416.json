@@ -1,0 +1,65 @@
+{
+  "id": 201416,
+  "name": "ぷるるんっ!しずくちゃん あはっ☆",
+  "name_cn": "彩虹水滴 第二季",
+  "summary": "",
+  "date": "2007-10-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/34/6d/201416_e5333.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/34/6d/201416_e5333.jpg"
+  },
+  "eps": 51,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 2
+    },
+    {
+      "name": "TMSEntertainment",
+      "count": 1
+    },
+    {
+      "name": "2007年十月番",
+      "count": 1
+    },
+    {
+      "name": "2007年",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "2007年10月",
+      "count": 1
+    },
+    {
+      "name": "2007",
+      "count": 1
+    },
+    {
+      "name": "TMS",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

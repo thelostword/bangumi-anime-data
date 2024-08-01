@@ -1,0 +1,129 @@
+{
+  "id": 55061,
+  "name": "A-Ko The VS",
+  "name_cn": "A子计划 外传",
+  "summary": "『プロジェクトA子』シリーズの外伝として制作されたOVA作品。遥か宇宙の彼方にある砂の惑星にて、一角獣ハンターを生業とするA子とB子。2人はひょんなことから財閥令嬢のC子と知り合うが、犯罪組織の手先によって彼女は拉致されてしまう。対潜クルーザーに乗り込み後を追うA子たちだったが、想定外の事態で仲間割れすることに？　本編との共通点はメインキャラクターのみで、まるで趣の異なるシリアスなSF冒険活劇に仕上がっている。『GLAY SIDE』、『BLUE SIDE』の上下巻にて完結。",
+  "date": "1990-07-21",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/37/f0/55061_3YI2z.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/37/f0/55061_3YI2z.jpg"
+  },
+  "eps": 2,
+  "rating": {
+    "rank": 0,
+    "total": 39,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 2,
+      "4": 2,
+      "5": 9,
+      "6": 20,
+      "7": 2,
+      "8": 3,
+      "9": 0,
+      "10": 1
+    },
+    "score": 5.8
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 22
+    },
+    {
+      "name": "1990",
+      "count": 13
+    },
+    {
+      "name": "西岛克彦",
+      "count": 12
+    },
+    {
+      "name": "百合",
+      "count": 10
+    },
+    {
+      "name": "原创",
+      "count": 8
+    },
+    {
+      "name": "科幻",
+      "count": 5
+    },
+    {
+      "name": "StudioFantasia",
+      "count": 5
+    },
+    {
+      "name": "奇幻",
+      "count": 3
+    },
+    {
+      "name": "独立ova",
+      "count": 3
+    },
+    {
+      "name": "A子计划",
+      "count": 2
+    },
+    {
+      "name": "伊藤美紀",
+      "count": 2
+    },
+    {
+      "name": "Studio-Fantasia",
+      "count": 1
+    },
+    {
+      "name": "SF",
+      "count": 1
+    },
+    {
+      "name": "90-94",
+      "count": 1
+    },
+    {
+      "name": "搞笑",
+      "count": 1
+    },
+    {
+      "name": "OVA-01",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "スタジオ・ファンタジア",
+      "count": 1
+    },
+    {
+      "name": "篠原恵美",
+      "count": 1
+    },
+    {
+      "name": "萌",
+      "count": 1
+    },
+    {
+      "name": "西島克彦",
+      "count": 1
+    },
+    {
+      "name": "其他",
+      "count": 1
+    },
+    {
+      "name": "川井憲次",
+      "count": 1
+    },
+    {
+      "name": "80年代",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

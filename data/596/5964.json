@@ -1,0 +1,153 @@
+{
+  "id": 5964,
+  "name": "人間交差点",
+  "name_cn": "人生交叉点",
+  "summary": "每话均为独立短篇，描写社会人生百态。\r\n人的一生就像在一条充满分岔点的路上行走，当面对每一个十字路口时，不同的抉择会导致不同的命运。",
+  "date": "2003-04-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c6/7b/5964_NeoJ5.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c6/7b/5964_NeoJ5.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 3913,
+    "total": 60,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 3,
+      "4": 1,
+      "5": 10,
+      "6": 19,
+      "7": 14,
+      "8": 11,
+      "9": 1,
+      "10": 1
+    },
+    "score": 6.4
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 37
+    },
+    {
+      "name": "2003",
+      "count": 34
+    },
+    {
+      "name": "A・C・G・T",
+      "count": 19
+    },
+    {
+      "name": "单元剧",
+      "count": 13
+    },
+    {
+      "name": "生活",
+      "count": 12
+    },
+    {
+      "name": "补番",
+      "count": 12
+    },
+    {
+      "name": "原创",
+      "count": 9
+    },
+    {
+      "name": "久米一成",
+      "count": 8
+    },
+    {
+      "name": "平静",
+      "count": 4
+    },
+    {
+      "name": "亲情类",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 3
+    },
+    {
+      "name": "翡翠台上看的",
+      "count": 3
+    },
+    {
+      "name": "2003春",
+      "count": 2
+    },
+    {
+      "name": "漫改",
+      "count": 2
+    },
+    {
+      "name": "2003年4月",
+      "count": 2
+    },
+    {
+      "name": "补旧番",
+      "count": 2
+    },
+    {
+      "name": "矢島正雄",
+      "count": 1
+    },
+    {
+      "name": "5分",
+      "count": 1
+    },
+    {
+      "name": "可独立观赏",
+      "count": 1
+    },
+    {
+      "name": "岸間信明",
+      "count": 1
+    },
+    {
+      "name": "2003-04",
+      "count": 1
+    },
+    {
+      "name": "谷口守泰",
+      "count": 1
+    },
+    {
+      "name": "言情类",
+      "count": 1
+    },
+    {
+      "name": "低于7",
+      "count": 1
+    },
+    {
+      "name": "『TVA』",
+      "count": 1
+    },
+    {
+      "name": "头弃",
+      "count": 1
+    },
+    {
+      "name": "泡面番",
+      "count": 1
+    },
+    {
+      "name": "，",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "漫画改",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

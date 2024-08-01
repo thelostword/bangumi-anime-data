@@ -1,0 +1,37 @@
+{
+  "id": 309870,
+  "name": "やなせたかしシアター",
+  "name_cn": "柳瀬嵩剧场",
+  "summary": "",
+  "date": "2012-12-01",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/32/db/309870_Ia5BZ.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/32/db/309870_Ia5BZ.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "空",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

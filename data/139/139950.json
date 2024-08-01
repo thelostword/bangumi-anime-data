@@ -1,0 +1,153 @@
+{
+  "id": 139950,
+  "name": "金田一少年の事件簿R 新シリーズ",
+  "name_cn": "金田一少年事件簿R 2期",
+  "summary": "",
+  "date": "2015-10-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/32/a8/139950_rp2fr.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/32/a8/139950_rp2fr.jpg"
+  },
+  "eps": 22,
+  "rating": {
+    "rank": 2277,
+    "total": 262,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 2,
+      "5": 9,
+      "6": 50,
+      "7": 134,
+      "8": 54,
+      "9": 7,
+      "10": 6
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "2015年10月",
+      "count": 61
+    },
+    {
+      "name": "推理",
+      "count": 60
+    },
+    {
+      "name": "TV",
+      "count": 51
+    },
+    {
+      "name": "金田一",
+      "count": 37
+    },
+    {
+      "name": "2015",
+      "count": 35
+    },
+    {
+      "name": "漫画改",
+      "count": 31
+    },
+    {
+      "name": "东映",
+      "count": 24
+    },
+    {
+      "name": "金田一少年事件簿R",
+      "count": 16
+    },
+    {
+      "name": "漫改",
+      "count": 12
+    },
+    {
+      "name": "日本",
+      "count": 7
+    },
+    {
+      "name": "动画",
+      "count": 3
+    },
+    {
+      "name": "续作",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 3
+    },
+    {
+      "name": "悬疑",
+      "count": 3
+    },
+    {
+      "name": "東映アニメーション",
+      "count": 3
+    },
+    {
+      "name": "东映动画",
+      "count": 2
+    },
+    {
+      "name": "アニメ",
+      "count": 2
+    },
+    {
+      "name": "土田豊",
+      "count": 2
+    },
+    {
+      "name": "2015年",
+      "count": 2
+    },
+    {
+      "name": "金田一少年事件簿",
+      "count": 2
+    },
+    {
+      "name": "TVA",
+      "count": 2
+    },
+    {
+      "name": "『TVA』",
+      "count": 1
+    },
+    {
+      "name": "2015年十月番",
+      "count": 1
+    },
+    {
+      "name": "2015秋",
+      "count": 1
+    },
+    {
+      "name": "松野太紀",
+      "count": 1
+    },
+    {
+      "name": "201510",
+      "count": 1
+    },
+    {
+      "name": "补标",
+      "count": 1
+    },
+    {
+      "name": "本格",
+      "count": 1
+    },
+    {
+      "name": "最想看的",
+      "count": 1
+    },
+    {
+      "name": "土田豐",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

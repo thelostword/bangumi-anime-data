@@ -1,0 +1,57 @@
+{
+  "id": 184662,
+  "name": "にゃんころり ～けんぷろ学園～",
+  "name_cn": "喵翻滚 ~贤Pro学园~",
+  "summary": "影像制作「Chisey」与声优事务所「贤Production」联合出品的原创Flash动画系列。\r\n主演：\r\nウィング：代永翼　タック：佐藤拓也　ハタ：畠中祐",
+  "date": "2013-11-05",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e6/58/184662_RrvoF.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e6/58/184662_RrvoF.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "2013",
+      "count": 2
+    },
+    {
+      "name": "WEB",
+      "count": 2
+    },
+    {
+      "name": "2013年十月番",
+      "count": 1
+    },
+    {
+      "name": "2013年11月",
+      "count": 1
+    },
+    {
+      "name": "2013年",
+      "count": 1
+    },
+    {
+      "name": "代永翼",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

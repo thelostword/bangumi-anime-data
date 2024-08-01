@@ -1,0 +1,153 @@
+{
+  "id": 1878,
+  "name": "スクールランブル 二学期",
+  "name_cn": "校园迷糊大王 二学期",
+  "summary": "",
+  "date": "2006-04-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/dc/5d/1878_bO9qG.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/dc/5d/1878_bO9qG.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 354,
+    "total": 2343,
+    "count": {
+      "1": 3,
+      "2": 0,
+      "3": 1,
+      "4": 13,
+      "5": 34,
+      "6": 154,
+      "7": 574,
+      "8": 1003,
+      "9": 393,
+      "10": 168
+    },
+    "score": 7.9
+  },
+  "tags": [
+    {
+      "name": "校园迷糊大王",
+      "count": 475
+    },
+    {
+      "name": "搞笑",
+      "count": 388
+    },
+    {
+      "name": "校园",
+      "count": 367
+    },
+    {
+      "name": "恋爱",
+      "count": 320
+    },
+    {
+      "name": "TV",
+      "count": 228
+    },
+    {
+      "name": "2006",
+      "count": 189
+    },
+    {
+      "name": "恶搞",
+      "count": 173
+    },
+    {
+      "name": "school-rumble",
+      "count": 147
+    },
+    {
+      "name": "欢乐",
+      "count": 122
+    },
+    {
+      "name": "漫画改",
+      "count": 112
+    },
+    {
+      "name": "能登麻美子",
+      "count": 79
+    },
+    {
+      "name": "2006年4月",
+      "count": 63
+    },
+    {
+      "name": "天满成路人了",
+      "count": 58
+    },
+    {
+      "name": "StudioComet",
+      "count": 47
+    },
+    {
+      "name": "漫改",
+      "count": 41
+    },
+    {
+      "name": "SchoolRumble",
+      "count": 32
+    },
+    {
+      "name": "神作",
+      "count": 21
+    },
+    {
+      "name": "旗",
+      "count": 20
+    },
+    {
+      "name": "日常",
+      "count": 17
+    },
+    {
+      "name": "日本",
+      "count": 17
+    },
+    {
+      "name": "青春",
+      "count": 16
+    },
+    {
+      "name": "堀江由衣",
+      "count": 16
+    },
+    {
+      "name": "小林尽",
+      "count": 12
+    },
+    {
+      "name": "小清水亚美",
+      "count": 11
+    },
+    {
+      "name": "スタジオコメット",
+      "count": 10
+    },
+    {
+      "name": "金崎贵臣",
+      "count": 9
+    },
+    {
+      "name": "喜剧",
+      "count": 9
+    },
+    {
+      "name": "金﨑貴臣",
+      "count": 9
+    },
+    {
+      "name": "恋爱喜剧",
+      "count": 8
+    },
+    {
+      "name": "续作",
+      "count": 7
+    }
+  ],
+  "locked": false
+}

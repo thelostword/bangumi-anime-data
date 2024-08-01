@@ -1,0 +1,37 @@
+{
+  "id": 208318,
+  "name": "パンパカパンツ おNEW！",
+  "name_cn": "",
+  "summary": "Follows a pig whose family's mission is to collect underpants.",
+  "date": "2015-04-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/26/c0/208318_K0J3y.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/26/c0/208318_K0J3y.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "DLE",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

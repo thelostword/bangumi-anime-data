@@ -1,0 +1,65 @@
+{
+  "id": 331786,
+  "name": "赤ちゃん本部長",
+  "name_cn": "婴儿本部长",
+  "summary": "突然赤ちゃんになってしまった４７歳の本部長と部下たちのシュールなコメディ！",
+  "date": "2021-03-28",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ba/61/331786_7znM8.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ba/61/331786_7znM8.jpg"
+  },
+  "eps": 8,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 3
+    },
+    {
+      "name": "Tomovies",
+      "count": 2
+    },
+    {
+      "name": "斉藤壮馬",
+      "count": 2
+    },
+    {
+      "name": "安部真理恵",
+      "count": 1
+    },
+    {
+      "name": "2021",
+      "count": 1
+    },
+    {
+      "name": "坂口哲夫",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "森久保祥太郎",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

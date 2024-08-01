@@ -1,0 +1,49 @@
+{
+  "id": 285670,
+  "name": "われしょ!～我ら!小動物愛護委員会～",
+  "name_cn": "",
+  "summary": "",
+  "date": "2019-07-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/b0/f1/285670_DZwPt.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/b0/f1/285670_DZwPt.jpg"
+  },
+  "eps": 5,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "2019年7月",
+      "count": 1
+    },
+    {
+      "name": "2019",
+      "count": 1
+    },
+    {
+      "name": "空",
+      "count": 1
+    },
+    {
+      "name": "TV",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

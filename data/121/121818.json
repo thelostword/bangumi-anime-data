@@ -1,0 +1,89 @@
+{
+  "id": 121818,
+  "name": "ワールドフールニュース",
+  "name_cn": "",
+  "summary": "",
+  "date": "2014-04-24",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/39/f2/121818_zZ0B9.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/39/f2/121818_zZ0B9.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 0,
+    "total": 6,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 1,
+      "7": 4,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "2014",
+      "count": 3
+    },
+    {
+      "name": "CoMixWaveFilms",
+      "count": 2
+    },
+    {
+      "name": "泡面番",
+      "count": 2
+    },
+    {
+      "name": "マシモユウ",
+      "count": 1
+    },
+    {
+      "name": "ムラヤマ・J・サーシ",
+      "count": 1
+    },
+    {
+      "name": "田中哲弥",
+      "count": 1
+    },
+    {
+      "name": "萩原鈴",
+      "count": 1
+    },
+    {
+      "name": "野田博史",
+      "count": 1
+    },
+    {
+      "name": "ショートアニメ",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "¬",
+      "count": 1
+    },
+    {
+      "name": "TV",
+      "count": 1
+    },
+    {
+      "name": "没地下",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,153 @@
+{
+  "id": 39637,
+  "name": "しらんぷり",
+  "name_cn": "视而不见",
+  "summary": "2012年青年动画制作者育成计划作品\r\n\r\n『我』是小学六年级生。『找人麻烦的』四人组总是欺负小钝，大家为了自保，对此不得不视而不见……",
+  "date": "2012-03-26",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/88/a7/39637_oHMbB.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/88/a7/39637_oHMbB.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 5232,
+    "total": 231,
+    "count": {
+      "1": 1,
+      "2": 3,
+      "3": 1,
+      "4": 10,
+      "5": 33,
+      "6": 69,
+      "7": 87,
+      "8": 23,
+      "9": 3,
+      "10": 1
+    },
+    "score": 6.3
+  },
+  "tags": [
+    {
+      "name": "青年动画制作者育成计划",
+      "count": 70
+    },
+    {
+      "name": "短片",
+      "count": 70
+    },
+    {
+      "name": "2012",
+      "count": 57
+    },
+    {
+      "name": "剧场版",
+      "count": 30
+    },
+    {
+      "name": "欺凌事件",
+      "count": 28
+    },
+    {
+      "name": "动画未来",
+      "count": 28
+    },
+    {
+      "name": "OVA",
+      "count": 25
+    },
+    {
+      "name": "白组",
+      "count": 20
+    },
+    {
+      "name": "原创",
+      "count": 15
+    },
+    {
+      "name": "校园",
+      "count": 15
+    },
+    {
+      "name": "视而不见",
+      "count": 8
+    },
+    {
+      "name": "奇特",
+      "count": 7
+    },
+    {
+      "name": "アニメミライ",
+      "count": 7
+    },
+    {
+      "name": "白組",
+      "count": 6
+    },
+    {
+      "name": "2012年",
+      "count": 4
+    },
+    {
+      "name": "日本",
+      "count": 3
+    },
+    {
+      "name": "映画",
+      "count": 3
+    },
+    {
+      "name": "宮下新平",
+      "count": 3
+    },
+    {
+      "name": "若手アニメーター育成プロジェクト",
+      "count": 2
+    },
+    {
+      "name": "2012年3月",
+      "count": 2
+    },
+    {
+      "name": "宫下新平",
+      "count": 2
+    },
+    {
+      "name": "七星",
+      "count": 2
+    },
+    {
+      "name": "欺凌",
+      "count": 2
+    },
+    {
+      "name": "独立ova",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 1
+    },
+    {
+      "name": "末弘孝史",
+      "count": 1
+    },
+    {
+      "name": "伊東光介",
+      "count": 1
+    },
+    {
+      "name": "加藤靖忠",
+      "count": 1
+    },
+    {
+      "name": "动画未来2012",
+      "count": 1
+    },
+    {
+      "name": "定松剛",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

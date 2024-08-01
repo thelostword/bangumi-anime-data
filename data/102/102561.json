@@ -1,0 +1,69 @@
+{
+  "id": 102561,
+  "name": "GO-GO たまごっち!",
+  "name_cn": "GO-GO 拓麻歌子！",
+  "summary": "拓麻歌子系列第四期",
+  "date": "2014-04-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/7c/21/102561_018I3.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/7c/21/102561_018I3.jpg"
+  },
+  "eps": 50,
+  "rating": {
+    "rank": 0,
+    "total": 6,
+    "count": {
+      "1": 2,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 1,
+      "7": 1,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 4.7
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 4
+    },
+    {
+      "name": "2014",
+      "count": 3
+    },
+    {
+      "name": "2014年7月",
+      "count": 3
+    },
+    {
+      "name": "TV",
+      "count": 2
+    },
+    {
+      "name": "OLMTeamKamei",
+      "count": 1
+    },
+    {
+      "name": "¬",
+      "count": 1
+    },
+    {
+      "name": "2014年",
+      "count": 1
+    },
+    {
+      "name": "2014年4月",
+      "count": 1
+    },
+    {
+      "name": "2014年四月番",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,133 @@
+{
+  "id": 207664,
+  "name": "Dance with Devils-Fortuna-",
+  "name_cn": "与魔共舞-Fortuna-",
+  "summary": "",
+  "date": "2017-11-04",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/59/29/207664_oftAK.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/59/29/207664_oftAK.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 29,
+    "count": {
+      "1": 2,
+      "2": 0,
+      "3": 0,
+      "4": 6,
+      "5": 8,
+      "6": 7,
+      "7": 4,
+      "8": 2,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.2
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 19
+    },
+    {
+      "name": "乙女向",
+      "count": 13
+    },
+    {
+      "name": "rejet",
+      "count": 7
+    },
+    {
+      "name": "原创",
+      "count": 6
+    },
+    {
+      "name": "2017",
+      "count": 5
+    },
+    {
+      "name": "2017年",
+      "count": 3
+    },
+    {
+      "name": "与魔共舞",
+      "count": 2
+    },
+    {
+      "name": "2017年11月",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "Brain",
+      "count": 2
+    },
+    {
+      "name": "2017秋",
+      "count": 1
+    },
+    {
+      "name": "2017年十月番",
+      "count": 1
+    },
+    {
+      "name": "5-",
+      "count": 1
+    },
+    {
+      "name": "茜屋日海夏",
+      "count": 1
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1
+    },
+    {
+      "name": "吉村愛",
+      "count": 1
+    },
+    {
+      "name": "BrainsBase",
+      "count": 1
+    },
+    {
+      "name": "女性向",
+      "count": 1
+    },
+    {
+      "name": "s",
+      "count": 1
+    },
+    {
+      "name": "sBase",
+      "count": 1
+    },
+    {
+      "name": "Base",
+      "count": 1
+    },
+    {
+      "name": "Brain’sBase",
+      "count": 1
+    },
+    {
+      "name": "金春智子",
+      "count": 1
+    },
+    {
+      "name": "羽多野渉",
+      "count": 1
+    },
+    {
+      "name": "斉藤壮馬",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,153 @@
+{
+  "id": 308558,
+  "name": "SHAMAN KING",
+  "name_cn": "通灵王",
+  "summary": "“通灵王（SHAMAN KING）”，那是掌管森罗万象的星球之王。能够与神明或灵体交流、被称作“通灵人”的人们，在500年一度的“通灵人大战”当中争夺这一宝座。这些通灵人其中之一的少年·麻仓叶以通灵王为目标的战斗。",
+  "date": "2021-04-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e1/78/308558_n7D29.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e1/78/308558_n7D29.jpg"
+  },
+  "eps": 52,
+  "rating": {
+    "rank": 7643,
+    "total": 333,
+    "count": {
+      "1": 4,
+      "2": 3,
+      "3": 16,
+      "4": 44,
+      "5": 80,
+      "6": 112,
+      "7": 52,
+      "8": 16,
+      "9": 2,
+      "10": 4
+    },
+    "score": 5.6
+  },
+  "tags": [
+    {
+      "name": "2021年4月",
+      "count": 110
+    },
+    {
+      "name": "TV",
+      "count": 76
+    },
+    {
+      "name": "漫画改",
+      "count": 69
+    },
+    {
+      "name": "BRIDGE",
+      "count": 58
+    },
+    {
+      "name": "2021",
+      "count": 49
+    },
+    {
+      "name": "奇幻",
+      "count": 31
+    },
+    {
+      "name": "林原めぐみ",
+      "count": 29
+    },
+    {
+      "name": "漫改",
+      "count": 27
+    },
+    {
+      "name": "续命系列",
+      "count": 19
+    },
+    {
+      "name": "通灵王",
+      "count": 18
+    },
+    {
+      "name": "战斗",
+      "count": 15
+    },
+    {
+      "name": "古田丈司",
+      "count": 15
+    },
+    {
+      "name": "米村正二",
+      "count": 11
+    },
+    {
+      "name": "2021年",
+      "count": 5
+    },
+    {
+      "name": "小西克幸",
+      "count": 4
+    },
+    {
+      "name": "ブリッジ",
+      "count": 3
+    },
+    {
+      "name": "热血",
+      "count": 3
+    },
+    {
+      "name": "重置",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 2
+    },
+    {
+      "name": "林原惠",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "堀江由衣",
+      "count": 2
+    },
+    {
+      "name": "Netflix",
+      "count": 1
+    },
+    {
+      "name": "女同性恋",
+      "count": 1
+    },
+    {
+      "name": "异能战斗",
+      "count": 1
+    },
+    {
+      "name": "长剧集",
+      "count": 1
+    },
+    {
+      "name": "只看恐山篇",
+      "count": 1
+    },
+    {
+      "name": "七海ひろき",
+      "count": 1
+    },
+    {
+      "name": "女同",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

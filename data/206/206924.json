@@ -1,0 +1,153 @@
+{
+  "id": 206924,
+  "name": "TO BE HERO LEAF",
+  "name_cn": "凸变英雄 LEAF",
+  "summary": "无知少女穿越异世界，遭遇裸男围攻。是屈服？是挣扎？是反抗？凸变英雄LEAF之脱变英雄，看春光乍泄，照亮世界！",
+  "date": "2018-04-14",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/83/79/206924_F3BA8.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/83/79/206924_F3BA8.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 5166,
+    "total": 1104,
+    "count": {
+      "1": 8,
+      "2": 4,
+      "3": 17,
+      "4": 41,
+      "5": 136,
+      "6": 341,
+      "7": 370,
+      "8": 146,
+      "9": 21,
+      "10": 20
+    },
+    "score": 6.4
+  },
+  "tags": [
+    {
+      "name": "国产",
+      "count": 389
+    },
+    {
+      "name": "原创",
+      "count": 187
+    },
+    {
+      "name": "凸变英雄",
+      "count": 177
+    },
+    {
+      "name": "绘梦动画",
+      "count": 144
+    },
+    {
+      "name": "TV",
+      "count": 126
+    },
+    {
+      "name": "2018年4月",
+      "count": 121
+    },
+    {
+      "name": "搞笑",
+      "count": 91
+    },
+    {
+      "name": "2018",
+      "count": 89
+    },
+    {
+      "name": "战斗",
+      "count": 77
+    },
+    {
+      "name": "李豪凌",
+      "count": 62
+    },
+    {
+      "name": "STUDIO.LAN！",
+      "count": 48
+    },
+    {
+      "name": "国漫",
+      "count": 37
+    },
+    {
+      "name": "第二期",
+      "count": 29
+    },
+    {
+      "name": "中日合作",
+      "count": 26
+    },
+    {
+      "name": "绘梦",
+      "count": 17
+    },
+    {
+      "name": "奇幻",
+      "count": 16
+    },
+    {
+      "name": "青春",
+      "count": 11
+    },
+    {
+      "name": "恋爱",
+      "count": 10
+    },
+    {
+      "name": "悬疑",
+      "count": 8
+    },
+    {
+      "name": "WEB",
+      "count": 6
+    },
+    {
+      "name": "催泪",
+      "count": 5
+    },
+    {
+      "name": "中国",
+      "count": 5
+    },
+    {
+      "name": "治愈",
+      "count": 5
+    },
+    {
+      "name": "动画",
+      "count": 4
+    },
+    {
+      "name": "续作",
+      "count": 4
+    },
+    {
+      "name": "国创",
+      "count": 3
+    },
+    {
+      "name": "热血",
+      "count": 3
+    },
+    {
+      "name": "校园",
+      "count": 3
+    },
+    {
+      "name": "2010s",
+      "count": 2
+    },
+    {
+      "name": "烂尾",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

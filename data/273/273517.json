@@ -1,0 +1,65 @@
+{
+  "id": 273517,
+  "name": "真夜中のボイトレ男子",
+  "name_cn": "",
+  "summary": "",
+  "date": "2019-01-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/97/6d/273517_JJP11.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/97/6d/273517_JJP11.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 0,
+    "total": 2,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "青木伸一",
+      "count": 2
+    },
+    {
+      "name": "泡面番",
+      "count": 2
+    },
+    {
+      "name": "森川智之",
+      "count": 2
+    },
+    {
+      "name": "时事热点",
+      "count": 1
+    },
+    {
+      "name": "AMGMUSIC",
+      "count": 1
+    },
+    {
+      "name": "山本和臣",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "2019",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

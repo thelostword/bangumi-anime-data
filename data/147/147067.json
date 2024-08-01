@@ -1,0 +1,153 @@
+{
+  "id": 147067,
+  "name": "PERSONA5 the Animation -THE DAY BREAKERS-",
+  "name_cn": "女神异闻录5 -THE DAY BREAKERS-",
+  "summary": "あるミッションをベースに若き怪盗団の活躍が描かれるプロローグストーリーです。",
+  "date": "2016-09-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/4e/c5/147067_448Ir.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/4e/c5/147067_448Ir.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 4588,
+    "total": 749,
+    "count": {
+      "1": 5,
+      "2": 2,
+      "3": 1,
+      "4": 11,
+      "5": 58,
+      "6": 254,
+      "7": 331,
+      "8": 75,
+      "9": 4,
+      "10": 8
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "A-1Pictures",
+      "count": 192
+    },
+    {
+      "name": "OVA",
+      "count": 185
+    },
+    {
+      "name": "游戏改",
+      "count": 156
+    },
+    {
+      "name": "2016",
+      "count": 111
+    },
+    {
+      "name": "女神异闻录5",
+      "count": 80
+    },
+    {
+      "name": "女神异闻录",
+      "count": 60
+    },
+    {
+      "name": "2016年9月",
+      "count": 53
+    },
+    {
+      "name": "TV",
+      "count": 42
+    },
+    {
+      "name": "游戏宣传",
+      "count": 35
+    },
+    {
+      "name": "目黒将司",
+      "count": 26
+    },
+    {
+      "name": "尾崎隆晴",
+      "count": 20
+    },
+    {
+      "name": "TVSP",
+      "count": 15
+    },
+    {
+      "name": "TV_SP",
+      "count": 13
+    },
+    {
+      "name": "猪爪慎一",
+      "count": 11
+    },
+    {
+      "name": "SP",
+      "count": 10
+    },
+    {
+      "name": "奇幻",
+      "count": 9
+    },
+    {
+      "name": "2016年",
+      "count": 8
+    },
+    {
+      "name": "A-1_Pictures",
+      "count": 5
+    },
+    {
+      "name": "福山润",
+      "count": 5
+    },
+    {
+      "name": "战斗",
+      "count": 5
+    },
+    {
+      "name": "PERSONA",
+      "count": 4
+    },
+    {
+      "name": "杉田智和",
+      "count": 4
+    },
+    {
+      "name": "游戏",
+      "count": 4
+    },
+    {
+      "name": "福山潤",
+      "count": 4
+    },
+    {
+      "name": "Atlus",
+      "count": 4
+    },
+    {
+      "name": "日本",
+      "count": 4
+    },
+    {
+      "name": "宫野真守",
+      "count": 3
+    },
+    {
+      "name": "OVA&OAD&SP",
+      "count": 2
+    },
+    {
+      "name": "2016年七月番",
+      "count": 2
+    },
+    {
+      "name": "游改",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

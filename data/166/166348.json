@@ -1,0 +1,153 @@
+{
+  "id": 166348,
+  "name": "血界戦線 王様のレストランの王様",
+  "name_cn": "血界战线 王者餐厅的王者",
+  "summary": "公式书同捆新作DVD",
+  "date": "2016-06-03",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/28/b8/166348_pk93W.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/28/b8/166348_pk93W.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 2069,
+    "total": 840,
+    "count": {
+      "1": 0,
+      "2": 2,
+      "3": 4,
+      "4": 6,
+      "5": 21,
+      "6": 135,
+      "7": 412,
+      "8": 223,
+      "9": 20,
+      "10": 17
+    },
+    "score": 7.1
+  },
+  "tags": [
+    {
+      "name": "BONES",
+      "count": 284
+    },
+    {
+      "name": "OVA",
+      "count": 283
+    },
+    {
+      "name": "2016",
+      "count": 139
+    },
+    {
+      "name": "漫画改",
+      "count": 118
+    },
+    {
+      "name": "OAD",
+      "count": 111
+    },
+    {
+      "name": "搞笑",
+      "count": 107
+    },
+    {
+      "name": "血界战线",
+      "count": 87
+    },
+    {
+      "name": "奇幻",
+      "count": 79
+    },
+    {
+      "name": "漫改",
+      "count": 71
+    },
+    {
+      "name": "松本理惠",
+      "count": 60
+    },
+    {
+      "name": "热血",
+      "count": 45
+    },
+    {
+      "name": "2016年3月",
+      "count": 28
+    },
+    {
+      "name": "战斗",
+      "count": 23
+    },
+    {
+      "name": "王者餐厅的王者",
+      "count": 22
+    },
+    {
+      "name": "2016年",
+      "count": 17
+    },
+    {
+      "name": "松本理恵",
+      "count": 8
+    },
+    {
+      "name": "石田彰",
+      "count": 7
+    },
+    {
+      "name": "2016年6月",
+      "count": 6
+    },
+    {
+      "name": "骨头社",
+      "count": 6
+    },
+    {
+      "name": "川元利浩",
+      "count": 5
+    },
+    {
+      "name": "日本",
+      "count": 4
+    },
+    {
+      "name": "内藤泰弘",
+      "count": 4
+    },
+    {
+      "name": "日本动画",
+      "count": 4
+    },
+    {
+      "name": "中二",
+      "count": 4
+    },
+    {
+      "name": "森江美咲",
+      "count": 3
+    },
+    {
+      "name": "阪口大助",
+      "count": 3
+    },
+    {
+      "name": "中井和哉",
+      "count": 3
+    },
+    {
+      "name": "OVA·OAD",
+      "count": 3
+    },
+    {
+      "name": "OVA&OAD",
+      "count": 3
+    },
+    {
+      "name": "料理",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

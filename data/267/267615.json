@@ -1,0 +1,153 @@
+{
+  "id": 267615,
+  "name": "ダイヤのA actⅡ",
+  "name_cn": "钻石王牌 act2",
+  "summary": "2年生となる沢村栄純が、ついに春のセンバツ甲子園のデビューを果たす！目指すは全国の頂点のみ！！名門復活へ。青道高校野球部の快進撃が始まる！！",
+  "date": "2019-04-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/7f/b2/267615_Qio7E.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/7f/b2/267615_Qio7E.jpg"
+  },
+  "eps": 52,
+  "rating": {
+    "rank": 1388,
+    "total": 428,
+    "count": {
+      "1": 2,
+      "2": 2,
+      "3": 1,
+      "4": 8,
+      "5": 13,
+      "6": 55,
+      "7": 154,
+      "8": 143,
+      "9": 26,
+      "10": 24
+    },
+    "score": 7.3
+  },
+  "tags": [
+    {
+      "name": "MADHouse",
+      "count": 102
+    },
+    {
+      "name": "运动",
+      "count": 93
+    },
+    {
+      "name": "2019年4月",
+      "count": 81
+    },
+    {
+      "name": "漫画改",
+      "count": 75
+    },
+    {
+      "name": "热血",
+      "count": 73
+    },
+    {
+      "name": "棒球",
+      "count": 70
+    },
+    {
+      "name": "TV",
+      "count": 47
+    },
+    {
+      "name": "2019",
+      "count": 40
+    },
+    {
+      "name": "漫改",
+      "count": 33
+    },
+    {
+      "name": "钻石王牌",
+      "count": 30
+    },
+    {
+      "name": "逢坂良太",
+      "count": 13
+    },
+    {
+      "name": "竞技",
+      "count": 12
+    },
+    {
+      "name": "増原光幸",
+      "count": 10
+    },
+    {
+      "name": "运动番",
+      "count": 7
+    },
+    {
+      "name": "古怒田健志",
+      "count": 4
+    },
+    {
+      "name": "野球",
+      "count": 3
+    },
+    {
+      "name": "体育",
+      "count": 3
+    },
+    {
+      "name": "寺嶋裕二",
+      "count": 3
+    },
+    {
+      "name": "百石元",
+      "count": 2
+    },
+    {
+      "name": "櫻井孝宏",
+      "count": 2
+    },
+    {
+      "name": "校园",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "寺岛裕二",
+      "count": 2
+    },
+    {
+      "name": "樱井孝宏",
+      "count": 2
+    },
+    {
+      "name": "梅原裕一郎",
+      "count": 1
+    },
+    {
+      "name": "植田实",
+      "count": 1
+    },
+    {
+      "name": "钻",
+      "count": 1
+    },
+    {
+      "name": "剧情神",
+      "count": 1
+    },
+    {
+      "name": "大长篇",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

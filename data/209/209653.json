@@ -1,0 +1,45 @@
+{
+  "id": 209653,
+  "name": "おしりかじり虫 第4シリーズ",
+  "name_cn": "咬屁屁虫 第四季",
+  "summary": "",
+  "date": "2015-10-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/d0/18/209653_2tqT7.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/d0/18/209653_2tqT7.jpg"
+  },
+  "eps": 10,
+  "rating": {
+    "rank": 0,
+    "total": 2,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 1,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 3.5
+  },
+  "tags": [
+    {
+      "name": "TVA-02",
+      "count": 1
+    },
+    {
+      "name": "KINEMACITRUS",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

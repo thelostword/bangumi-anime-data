@@ -1,0 +1,49 @@
+{
+  "id": 232981,
+  "name": "秘密結社鷹の爪 DO",
+  "name_cn": "秘密结社 鹰之爪 DO",
+  "summary": "",
+  "date": "2015-04-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/71/c1/232981_TVFeP.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/71/c1/232981_TVFeP.jpg"
+  },
+  "eps": 38,
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5
+  },
+  "tags": [
+    {
+      "name": "DLE",
+      "count": 2
+    },
+    {
+      "name": "原神",
+      "count": 1
+    },
+    {
+      "name": "2015",
+      "count": 1
+    },
+    {
+      "name": "泡面番",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

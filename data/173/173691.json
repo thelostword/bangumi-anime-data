@@ -1,0 +1,129 @@
+{
+  "id": 173691,
+  "name": "モンスターストライク 第2クール",
+  "name_cn": "怪物弹珠 第2期",
+  "summary": "webアニメ「モンスターストライク」より、第2クールが3月26日にスタートすることが発表された。",
+  "date": "2016-03-26",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/95/22/173691_QXLtJ.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/95/22/173691_QXLtJ.jpg"
+  },
+  "eps": 52,
+  "rating": {
+    "rank": 0,
+    "total": 30,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 3,
+      "5": 7,
+      "6": 5,
+      "7": 12,
+      "8": 3,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.2
+  },
+  "tags": [
+    {
+      "name": "WEB",
+      "count": 16
+    },
+    {
+      "name": "泡面番",
+      "count": 12
+    },
+    {
+      "name": "游戏改",
+      "count": 11
+    },
+    {
+      "name": "2016",
+      "count": 10
+    },
+    {
+      "name": "2016年3月",
+      "count": 6
+    },
+    {
+      "name": "搞笑",
+      "count": 5
+    },
+    {
+      "name": "木村珠莉",
+      "count": 3
+    },
+    {
+      "name": "续期",
+      "count": 3
+    },
+    {
+      "name": "TV",
+      "count": 2
+    },
+    {
+      "name": "意外的不错",
+      "count": 2
+    },
+    {
+      "name": "2016年4月",
+      "count": 2
+    },
+    {
+      "name": "201604",
+      "count": 1
+    },
+    {
+      "name": "市川量也",
+      "count": 1
+    },
+    {
+      "name": "2016年四月番",
+      "count": 1
+    },
+    {
+      "name": "怪物弹珠",
+      "count": 1
+    },
+    {
+      "name": "小林裕介",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "游戏",
+      "count": 1
+    },
+    {
+      "name": "游戏改编",
+      "count": 1
+    },
+    {
+      "name": "改编",
+      "count": 1
+    },
+    {
+      "name": "加藤陽一",
+      "count": 1
+    },
+    {
+      "name": "ウルトラスーパーピクチャーズ",
+      "count": 1
+    },
+    {
+      "name": "スタジオ雲雀",
+      "count": 1
+    },
+    {
+      "name": "2016年",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

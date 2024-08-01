@@ -1,0 +1,153 @@
+{
+  "id": 182886,
+  "name": "探偵オペラ ミルキィホームズ ファンファンパーリーナイト♪ ～ケンとジャネットの贈り物～",
+  "name_cn": "侦探歌剧 少女福尔摩斯 派对之夜",
+  "summary": "",
+  "date": "2016-12-31",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/0c/3d/182886_wofc8.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/0c/3d/182886_wofc8.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 2925,
+    "total": 165,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 3,
+      "5": 9,
+      "6": 39,
+      "7": 79,
+      "8": 30,
+      "9": 5,
+      "10": 0
+    },
+    "score": 6.8
+  },
+  "tags": [
+    {
+      "name": "J.C.STAFF",
+      "count": 57
+    },
+    {
+      "name": "2016",
+      "count": 40
+    },
+    {
+      "name": "搞笑",
+      "count": 37
+    },
+    {
+      "name": "OVA",
+      "count": 35
+    },
+    {
+      "name": "百合",
+      "count": 31
+    },
+    {
+      "name": "游戏改",
+      "count": 22
+    },
+    {
+      "name": "TV",
+      "count": 22
+    },
+    {
+      "name": "原创",
+      "count": 16
+    },
+    {
+      "name": "TVSP",
+      "count": 16
+    },
+    {
+      "name": "萝莉",
+      "count": 13
+    },
+    {
+      "name": "2016年12月",
+      "count": 12
+    },
+    {
+      "name": "萌",
+      "count": 10
+    },
+    {
+      "name": "侦探歌剧",
+      "count": 9
+    },
+    {
+      "name": "SP",
+      "count": 6
+    },
+    {
+      "name": "桜井弘明",
+      "count": 6
+    },
+    {
+      "name": "2016年",
+      "count": 5
+    },
+    {
+      "name": "萌豚",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "ふでやすかずゆき",
+      "count": 2
+    },
+    {
+      "name": "樱井弘明",
+      "count": 2
+    },
+    {
+      "name": "Bushiroad",
+      "count": 2
+    },
+    {
+      "name": "电波",
+      "count": 2
+    },
+    {
+      "name": "奇幻",
+      "count": 2
+    },
+    {
+      "name": "特別番組",
+      "count": 1
+    },
+    {
+      "name": "ブシロード",
+      "count": 1
+    },
+    {
+      "name": "已下",
+      "count": 1
+    },
+    {
+      "name": "少女福尔摩斯",
+      "count": 1
+    },
+    {
+      "name": "沙雕",
+      "count": 1
+    },
+    {
+      "name": "二〇一六年",
+      "count": 1
+    },
+    {
+      "name": "10代",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

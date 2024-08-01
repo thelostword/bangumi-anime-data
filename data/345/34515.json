@@ -1,0 +1,153 @@
+{
+  "id": 34515,
+  "name": "星界の断章 誕生",
+  "name_cn": "星界的断章 诞生",
+  "summary": "WOWOWで放映され人気を得た『星界の紋章』シリーズの番外編。平面宇宙を舞台に、王子ドゥビュースと、のちの妻・ブラキアが繰り広げる冒険とロマンスを描く。",
+  "date": "2000-04-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/17/75/34515_qBs9L.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/17/75/34515_qBs9L.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 1950,
+    "total": 176,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 11,
+      "6": 40,
+      "7": 67,
+      "8": 40,
+      "9": 5,
+      "10": 13
+    },
+    "score": 7.2
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 59
+    },
+    {
+      "name": "SUNRISE",
+      "count": 52
+    },
+    {
+      "name": "2000",
+      "count": 38
+    },
+    {
+      "name": "轻小说改",
+      "count": 31
+    },
+    {
+      "name": "科幻",
+      "count": 25
+    },
+    {
+      "name": "星界",
+      "count": 22
+    },
+    {
+      "name": "TV",
+      "count": 12
+    },
+    {
+      "name": "川澄綾子",
+      "count": 11
+    },
+    {
+      "name": "森岡浩之",
+      "count": 11
+    },
+    {
+      "name": "轻改",
+      "count": 8
+    },
+    {
+      "name": "SF",
+      "count": 7
+    },
+    {
+      "name": "長岡康史",
+      "count": 4
+    },
+    {
+      "name": "TVSP",
+      "count": 4
+    },
+    {
+      "name": "小说改",
+      "count": 3
+    },
+    {
+      "name": "サンライズ",
+      "count": 2
+    },
+    {
+      "name": "长冈康史",
+      "count": 2
+    },
+    {
+      "name": "鍋島修",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "今井由香",
+      "count": 1
+    },
+    {
+      "name": "星战",
+      "count": 1
+    },
+    {
+      "name": "轻小说",
+      "count": 1
+    },
+    {
+      "name": "星界的战旗",
+      "count": 1
+    },
+    {
+      "name": "独立ova",
+      "count": 1
+    },
+    {
+      "name": "喵帕斯记录~",
+      "count": 1
+    },
+    {
+      "name": "星界的",
+      "count": 1
+    },
+    {
+      "name": "TV（集数1-49）",
+      "count": 1
+    },
+    {
+      "name": "00春",
+      "count": 1
+    },
+    {
+      "name": "2000年春",
+      "count": 1
+    },
+    {
+      "name": "2000.04",
+      "count": 1
+    },
+    {
+      "name": "老番",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

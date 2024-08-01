@@ -1,0 +1,153 @@
+{
+  "id": 18631,
+  "name": "灼眼のシャナIII -Final-",
+  "name_cn": "灼眼的夏娜III -Final-",
+  "summary": "",
+  "date": "2011-10-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/56/47/18631_j5o2m.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/56/47/18631_j5o2m.jpg"
+  },
+  "eps": 24,
+  "rating": {
+    "rank": 2109,
+    "total": 4611,
+    "count": {
+      "1": 18,
+      "2": 14,
+      "3": 27,
+      "4": 74,
+      "5": 268,
+      "6": 830,
+      "7": 1734,
+      "8": 1161,
+      "9": 288,
+      "10": 197
+    },
+    "score": 7.1
+  },
+  "tags": [
+    {
+      "name": "钉宫理惠",
+      "count": 1063
+    },
+    {
+      "name": "J.C.STAFF",
+      "count": 847
+    },
+    {
+      "name": "灼眼のシャナIII",
+      "count": 708
+    },
+    {
+      "name": "2011年10月",
+      "count": 504
+    },
+    {
+      "name": "轻小说改",
+      "count": 443
+    },
+    {
+      "name": "最终季",
+      "count": 441
+    },
+    {
+      "name": "傲娇",
+      "count": 434
+    },
+    {
+      "name": "TV",
+      "count": 350
+    },
+    {
+      "name": "灼眼のシャナ",
+      "count": 238
+    },
+    {
+      "name": "2011",
+      "count": 207
+    },
+    {
+      "name": "傲娇再开",
+      "count": 172
+    },
+    {
+      "name": "萝莉",
+      "count": 149
+    },
+    {
+      "name": "战斗",
+      "count": 128
+    },
+    {
+      "name": "奇幻",
+      "count": 116
+    },
+    {
+      "name": "高桥弥七郎",
+      "count": 104
+    },
+    {
+      "name": "轻改",
+      "count": 83
+    },
+    {
+      "name": "灼眼的夏娜",
+      "count": 73
+    },
+    {
+      "name": "恋爱",
+      "count": 55
+    },
+    {
+      "name": "夏娜",
+      "count": 34
+    },
+    {
+      "name": "渡部高志",
+      "count": 34
+    },
+    {
+      "name": "校园",
+      "count": 27
+    },
+    {
+      "name": "小说改",
+      "count": 26
+    },
+    {
+      "name": "好吧，期待吧",
+      "count": 24
+    },
+    {
+      "name": "2011年",
+      "count": 19
+    },
+    {
+      "name": "萌",
+      "count": 15
+    },
+    {
+      "name": "热血",
+      "count": 15
+    },
+    {
+      "name": "半年番",
+      "count": 12
+    },
+    {
+      "name": "小林靖子",
+      "count": 12
+    },
+    {
+      "name": "十月番",
+      "count": 11
+    },
+    {
+      "name": "日野聪",
+      "count": 10
+    }
+  ],
+  "locked": false
+}

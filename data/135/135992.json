@@ -1,0 +1,97 @@
+{
+  "id": 135992,
+  "name": "キュートランスフォーマー さらなる人気者への道",
+  "name_cn": "Q版变形金刚 更高人气者之路",
+  "summary": "",
+  "date": "2015-07-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/19/91/135992_pCD4M.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/19/91/135992_pCD4M.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 0,
+    "total": 14,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 1,
+      "6": 5,
+      "7": 4,
+      "8": 3,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 11
+    },
+    {
+      "name": "DLE",
+      "count": 9
+    },
+    {
+      "name": "2015年7月",
+      "count": 7
+    },
+    {
+      "name": "2015",
+      "count": 5
+    },
+    {
+      "name": "变形金刚",
+      "count": 4
+    },
+    {
+      "name": "石ダテコー太郎",
+      "count": 3
+    },
+    {
+      "name": "TV",
+      "count": 3
+    },
+    {
+      "name": "石馆光太郎",
+      "count": 3
+    },
+    {
+      "name": "2015年七月番",
+      "count": 1
+    },
+    {
+      "name": "平间邦修",
+      "count": 1
+    },
+    {
+      "name": "Q版变形金刚",
+      "count": 1
+    },
+    {
+      "name": "山口正武",
+      "count": 1
+    },
+    {
+      "name": "游戏改",
+      "count": 1
+    },
+    {
+      "name": "原创",
+      "count": 1
+    },
+    {
+      "name": "搞笑",
+      "count": 1
+    },
+    {
+      "name": "2015年",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,153 @@
+{
+  "id": 2090,
+  "name": "BLACK BLOOD BROTHERS",
+  "name_cn": "黑血兄弟",
+  "summary": "香港突然遭到了一群名为“九龙血统”的人的袭击。结束这场“圣战”的英雄——吸血鬼望月次郎在战争中失去了爱人。十年以后，次郎的弟弟再次造访了特区香港，这时，亡灵都醒来了。这个特区是世界上唯一的、吸血鬼与人类在人间共存的场所。当“九龙血统”和吸血鬼们再度相遇的时候，会是怎样的场面，怎样的结局呢？望月次郎挥舞着“银刀”守护什么呢？",
+  "date": "2006-09-08",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/26/f5/2090_iIyYy.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/26/f5/2090_iIyYy.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 4878,
+    "total": 236,
+    "count": {
+      "1": 1,
+      "2": 1,
+      "3": 5,
+      "4": 4,
+      "5": 32,
+      "6": 79,
+      "7": 79,
+      "8": 28,
+      "9": 2,
+      "10": 5
+    },
+    "score": 6.4
+  },
+  "tags": [
+    {
+      "name": "吸血鬼",
+      "count": 67
+    },
+    {
+      "name": "BBB",
+      "count": 43
+    },
+    {
+      "name": "轻小说",
+      "count": 38
+    },
+    {
+      "name": "黑血兄弟",
+      "count": 32
+    },
+    {
+      "name": "樱井孝宏",
+      "count": 25
+    },
+    {
+      "name": "2006",
+      "count": 23
+    },
+    {
+      "name": "TV",
+      "count": 16
+    },
+    {
+      "name": "兄弟",
+      "count": 16
+    },
+    {
+      "name": "基片可能",
+      "count": 12
+    },
+    {
+      "name": "改编自小说",
+      "count": 8
+    },
+    {
+      "name": "轻小说改",
+      "count": 8
+    },
+    {
+      "name": "装b",
+      "count": 6
+    },
+    {
+      "name": "基",
+      "count": 5
+    },
+    {
+      "name": "2006年",
+      "count": 4
+    },
+    {
+      "name": "王子~~",
+      "count": 4
+    },
+    {
+      "name": "奇幻",
+      "count": 3
+    },
+    {
+      "name": "櫻井孝宏",
+      "count": 3
+    },
+    {
+      "name": "轻改",
+      "count": 3
+    },
+    {
+      "name": "补番",
+      "count": 3
+    },
+    {
+      "name": "富士见",
+      "count": 2
+    },
+    {
+      "name": "吉川博明",
+      "count": 2
+    },
+    {
+      "name": "草河游也",
+      "count": 2
+    },
+    {
+      "name": "GroupTac",
+      "count": 2
+    },
+    {
+      "name": "南央美",
+      "count": 2
+    },
+    {
+      "name": "战斗",
+      "count": 2
+    },
+    {
+      "name": "グループ・タック",
+      "count": 2
+    },
+    {
+      "name": "13",
+      "count": 2
+    },
+    {
+      "name": "StudioLive",
+      "count": 1
+    },
+    {
+      "name": "tag缺",
+      "count": 1
+    },
+    {
+      "name": "Group.Tac",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,153 @@
+{
+  "id": 79467,
+  "name": "声優戦隊ボイストーム7",
+  "name_cn": "声优战队",
+  "summary": "",
+  "date": "2013-10-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/87/65/79467_IEZWt.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/87/65/79467_IEZWt.jpg"
+  },
+  "eps": 11,
+  "rating": {
+    "rank": 7242,
+    "total": 201,
+    "count": {
+      "1": 2,
+      "2": 3,
+      "3": 12,
+      "4": 24,
+      "5": 43,
+      "6": 60,
+      "7": 46,
+      "8": 7,
+      "9": 0,
+      "10": 4
+    },
+    "score": 5.6
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 96
+    },
+    {
+      "name": "2013年10月",
+      "count": 73
+    },
+    {
+      "name": "TV",
+      "count": 41
+    },
+    {
+      "name": "声优战队",
+      "count": 38
+    },
+    {
+      "name": "三木真一郎",
+      "count": 26
+    },
+    {
+      "name": "櫻井孝宏",
+      "count": 25
+    },
+    {
+      "name": "搞笑",
+      "count": 24
+    },
+    {
+      "name": "原创",
+      "count": 24
+    },
+    {
+      "name": "柿原彻也",
+      "count": 20
+    },
+    {
+      "name": "2013",
+      "count": 16
+    },
+    {
+      "name": "加藤英美里",
+      "count": 14
+    },
+    {
+      "name": "関俊彦",
+      "count": 13
+    },
+    {
+      "name": "宮田幸季",
+      "count": 10
+    },
+    {
+      "name": "羽多野涉",
+      "count": 10
+    },
+    {
+      "name": "柿原徹也",
+      "count": 5
+    },
+    {
+      "name": "樱井孝宏",
+      "count": 4
+    },
+    {
+      "name": "日本动画",
+      "count": 3
+    },
+    {
+      "name": "2013年",
+      "count": 3
+    },
+    {
+      "name": "江口拓也",
+      "count": 2
+    },
+    {
+      "name": "泡面",
+      "count": 2
+    },
+    {
+      "name": "2013年10月秋アニメ",
+      "count": 1
+    },
+    {
+      "name": "13秋",
+      "count": 1
+    },
+    {
+      "name": "动画",
+      "count": 1
+    },
+    {
+      "name": "土2605",
+      "count": 1
+    },
+    {
+      "name": "打鬥",
+      "count": 1
+    },
+    {
+      "name": "逗比动画",
+      "count": 1
+    },
+    {
+      "name": "DigitalFantasy",
+      "count": 1
+    },
+    {
+      "name": "百田英生",
+      "count": 1
+    },
+    {
+      "name": "中島ヨシキ",
+      "count": 1
+    },
+    {
+      "name": "『TVA』",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

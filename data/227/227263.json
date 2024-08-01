@@ -1,0 +1,153 @@
+{
+  "id": 227263,
+  "name": "Fate/kaleid liner プリズマ☆イリヤ プリズマ☆ファンタズム",
+  "name_cn": "Fate/kaleid liner 魔法少女☆伊莉雅 Prisma☆Phantasm",
+  "summary": "在2017年10月7日的“Machi☆Asobi”漫展上，宣布将制作续篇。2018年12月22日在周年纪念活动“Prisma☆Klangfest ～kaleidoscope～”上宣布新作OVA制作决定。\r\nOVA于2019年6月14日在剧场上映，标题为《Fate/kaleid liner 魔法少女☆伊莉雅 Prisma☆Phantasm》（neta自Carnival Phantasm），共63分钟，为原作者广山弘监修的原创搞笑剧情。正式的BD/DVD于2019年11月27日发售。\r\n\r\nプリズマ☆イリヤ オールキャスト総出演のドタバタギャグコメディがここに開幕! \r\n「Fate/kaleid liner プリズマ☆イリヤ」シリーズのキャラクターが平行世界の垣根を越えて大集合! \r\n原作ひろやまひろし監修による完全新作オリジナルエピソード。少女たちのもう一つの物語が描かれる――。",
+  "date": "2019-06-14",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/cf/ac/227263_3WG4d.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/cf/ac/227263_3WG4d.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 5387,
+    "total": 1058,
+    "count": {
+      "1": 6,
+      "2": 5,
+      "3": 11,
+      "4": 31,
+      "5": 143,
+      "6": 346,
+      "7": 375,
+      "8": 109,
+      "9": 10,
+      "10": 22
+    },
+    "score": 6.4
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 309
+    },
+    {
+      "name": "SILVERLINK.",
+      "count": 213
+    },
+    {
+      "name": "Type-Moon",
+      "count": 195
+    },
+    {
+      "name": "Fate",
+      "count": 185
+    },
+    {
+      "name": "魔法少女",
+      "count": 179
+    },
+    {
+      "name": "百合",
+      "count": 161
+    },
+    {
+      "name": "魔法少女☆伊莉雅",
+      "count": 154
+    },
+    {
+      "name": "OVA",
+      "count": 134
+    },
+    {
+      "name": "2019",
+      "count": 111
+    },
+    {
+      "name": "搞笑",
+      "count": 88
+    },
+    {
+      "name": "漫画改",
+      "count": 86
+    },
+    {
+      "name": "大沼心",
+      "count": 78
+    },
+    {
+      "name": "2019年6月",
+      "count": 30
+    },
+    {
+      "name": "漫改",
+      "count": 21
+    },
+    {
+      "name": "奇幻",
+      "count": 14
+    },
+    {
+      "name": "萌",
+      "count": 12
+    },
+    {
+      "name": "萝莉",
+      "count": 11
+    },
+    {
+      "name": "2019年",
+      "count": 9
+    },
+    {
+      "name": "战斗",
+      "count": 8
+    },
+    {
+      "name": "SILVER_LINK.",
+      "count": 7
+    },
+    {
+      "name": "原创",
+      "count": 4
+    },
+    {
+      "name": "日常",
+      "count": 4
+    },
+    {
+      "name": "日本动画",
+      "count": 4
+    },
+    {
+      "name": "水瀬葉月",
+      "count": 4
+    },
+    {
+      "name": "井上堅二",
+      "count": 4
+    },
+    {
+      "name": "2019年4月",
+      "count": 4
+    },
+    {
+      "name": "轻百合",
+      "count": 3
+    },
+    {
+      "name": "日本",
+      "count": 3
+    },
+    {
+      "name": "加藤達也",
+      "count": 3
+    },
+    {
+      "name": "Fatekaleidliner魔法少女☆伊莉雅",
+      "count": 3
+    }
+  ],
+  "locked": false
+}

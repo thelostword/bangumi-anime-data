@@ -1,0 +1,45 @@
+{
+  "id": 88751,
+  "name": "サイバーシックス",
+  "name_cn": "CYBERSIX",
+  "summary": "『サイバーシックス』(Cybersix)は、日本とカナダの合同作品であるテレビアニメ。原作はアルゼンチンのカルロス・トゥリージョ&カルロス・メグリア作の同名コミック。\r\n\r\n悪を愛する科学者・フォン・リヒター博士によって作られたサイバーシックスは、人間の心を持ったバイオロイド（人造人間）。彼女は愛する人々と街を守るため、リヒターの放つ怪物と戦いを繰り広げる。",
+  "date": "2000-10-16",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/9f/0f/88751_E7ahG.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/9f/0f/88751_E7ahG.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 0,
+    "total": 3,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 1,
+      "6": 1,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 3
+    },
+    {
+      "name": "欧美",
+      "count": 2
+    },
+    {
+      "name": "TMSENTERTAINMENT、NOA",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

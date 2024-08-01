@@ -1,0 +1,153 @@
+{
+  "id": 120369,
+  "name": "ヘタリア The World Twinkle",
+  "name_cn": "黑塔利亚 第6期",
+  "summary": "",
+  "date": "2015-07-03",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/bd/85/120369_gdGxh.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/bd/85/120369_gdGxh.jpg"
+  },
+  "eps": 15,
+  "rating": {
+    "rank": 2920,
+    "total": 573,
+    "count": {
+      "1": 5,
+      "2": 0,
+      "3": 3,
+      "4": 5,
+      "5": 50,
+      "6": 128,
+      "7": 223,
+      "8": 119,
+      "9": 24,
+      "10": 16
+    },
+    "score": 6.9
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 236
+    },
+    {
+      "name": "2015年7月",
+      "count": 136
+    },
+    {
+      "name": "APH",
+      "count": 130
+    },
+    {
+      "name": "国拟人",
+      "count": 82
+    },
+    {
+      "name": "漫画改",
+      "count": 74
+    },
+    {
+      "name": "studiodeen",
+      "count": 67
+    },
+    {
+      "name": "TV",
+      "count": 65
+    },
+    {
+      "name": "2015",
+      "count": 62
+    },
+    {
+      "name": "搞笑",
+      "count": 62
+    },
+    {
+      "name": "漫改",
+      "count": 54
+    },
+    {
+      "name": "黑塔利亚",
+      "count": 35
+    },
+    {
+      "name": "腐",
+      "count": 34
+    },
+    {
+      "name": "浪川大輔",
+      "count": 34
+    },
+    {
+      "name": "小西克幸",
+      "count": 21
+    },
+    {
+      "name": "杉山纪彰",
+      "count": 16
+    },
+    {
+      "name": "意呆利",
+      "count": 15
+    },
+    {
+      "name": "WEB",
+      "count": 15
+    },
+    {
+      "name": "2015年",
+      "count": 11
+    },
+    {
+      "name": "拟人",
+      "count": 9
+    },
+    {
+      "name": "泡面",
+      "count": 6
+    },
+    {
+      "name": "历史",
+      "count": 5
+    },
+    {
+      "name": "日丸屋秀和",
+      "count": 5
+    },
+    {
+      "name": "安元洋貴",
+      "count": 5
+    },
+    {
+      "name": "基",
+      "count": 5
+    },
+    {
+      "name": "漫画",
+      "count": 4
+    },
+    {
+      "name": "续作",
+      "count": 4
+    },
+    {
+      "name": "わたなべひろし",
+      "count": 4
+    },
+    {
+      "name": "高橋広樹",
+      "count": 3
+    },
+    {
+      "name": "浪川大辅",
+      "count": 3
+    },
+    {
+      "name": "スタジオディーン",
+      "count": 3
+    }
+  ],
+  "locked": false
+}

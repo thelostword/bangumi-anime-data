@@ -1,0 +1,153 @@
+{
+  "id": 236196,
+  "name": "アニマエール！",
+  "name_cn": "Anima Yell!",
+  "summary": "喜欢助人为乐的鸠谷小羽，在初中毕业时迷上了相遇的啦啦队，而在高中与经验者有马日诘、儿时玩伴猿渡宇希一同成立了啦啦队同好会。她们活力满满、拼尽全力的应援，今天也在给他人打气！！",
+  "date": "2018-10-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/94/37/236196_vIOKr.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/94/37/236196_vIOKr.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 5384,
+    "total": 919,
+    "count": {
+      "1": 2,
+      "2": 2,
+      "3": 6,
+      "4": 26,
+      "5": 113,
+      "6": 352,
+      "7": 305,
+      "8": 90,
+      "9": 15,
+      "10": 8
+    },
+    "score": 6.4
+  },
+  "tags": [
+    {
+      "name": "芳文社",
+      "count": 350
+    },
+    {
+      "name": "动画工房",
+      "count": 256
+    },
+    {
+      "name": "百合",
+      "count": 250
+    },
+    {
+      "name": "2018年10月",
+      "count": 220
+    },
+    {
+      "name": "日常",
+      "count": 163
+    },
+    {
+      "name": "TV",
+      "count": 156
+    },
+    {
+      "name": "漫画改",
+      "count": 110
+    },
+    {
+      "name": "2018",
+      "count": 104
+    },
+    {
+      "name": "漫改",
+      "count": 103
+    },
+    {
+      "name": "萌",
+      "count": 72
+    },
+    {
+      "name": "治愈",
+      "count": 60
+    },
+    {
+      "name": "轻百合",
+      "count": 59
+    },
+    {
+      "name": "動画工房",
+      "count": 49
+    },
+    {
+      "name": "佐藤雅子",
+      "count": 26
+    },
+    {
+      "name": "志茂文彦",
+      "count": 22
+    },
+    {
+      "name": "校园",
+      "count": 14
+    },
+    {
+      "name": "运动",
+      "count": 13
+    },
+    {
+      "name": "社团",
+      "count": 9
+    },
+    {
+      "name": "萌系",
+      "count": 8
+    },
+    {
+      "name": "尾崎由香",
+      "count": 8
+    },
+    {
+      "name": "きらら",
+      "count": 5
+    },
+    {
+      "name": "啦啦队",
+      "count": 5
+    },
+    {
+      "name": "萌豚",
+      "count": 5
+    },
+    {
+      "name": "2018年",
+      "count": 5
+    },
+    {
+      "name": "AnimaYell!",
+      "count": 3
+    },
+    {
+      "name": "轻百",
+      "count": 3
+    },
+    {
+      "name": "山田唯菜",
+      "count": 3
+    },
+    {
+      "name": "堤博明",
+      "count": 3
+    },
+    {
+      "name": "manzo",
+      "count": 3
+    },
+    {
+      "name": "日本",
+      "count": 3
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,153 @@
+{
+  "id": 269023,
+  "name": "キラッとプリ☆チャン シーズン2",
+  "name_cn": "闪亮美妙☆频道 第二季",
+  "summary": "",
+  "date": "2019-04-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/5a/df/269023_0a1L6.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/5a/df/269023_0a1L6.jpg"
+  },
+  "eps": 51,
+  "rating": {
+    "rank": 1955,
+    "total": 59,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 2,
+      "5": 1,
+      "6": 14,
+      "7": 23,
+      "8": 11,
+      "9": 3,
+      "10": 5
+    },
+    "score": 7.2
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 18
+    },
+    {
+      "name": "幼女向",
+      "count": 16
+    },
+    {
+      "name": "原创",
+      "count": 15
+    },
+    {
+      "name": "龙之子",
+      "count": 14
+    },
+    {
+      "name": "2019",
+      "count": 13
+    },
+    {
+      "name": "偶像",
+      "count": 12
+    },
+    {
+      "name": "2019年4月",
+      "count": 11
+    },
+    {
+      "name": "タツノコプロ",
+      "count": 6
+    },
+    {
+      "name": "博史池畠",
+      "count": 4
+    },
+    {
+      "name": "年番",
+      "count": 3
+    },
+    {
+      "name": "兵頭一歩",
+      "count": 3
+    },
+    {
+      "name": "満田一",
+      "count": 2
+    },
+    {
+      "name": "音乐",
+      "count": 2
+    },
+    {
+      "name": "キラッとプリ☆チャン",
+      "count": 2
+    },
+    {
+      "name": "百合",
+      "count": 2
+    },
+    {
+      "name": "大友",
+      "count": 2
+    },
+    {
+      "name": "林鼓子",
+      "count": 1
+    },
+    {
+      "name": "2019年",
+      "count": 1
+    },
+    {
+      "name": "DONGWOO_A&E",
+      "count": 1
+    },
+    {
+      "name": "唱跳rap",
+      "count": 1
+    },
+    {
+      "name": "龙之子、东宇A&E",
+      "count": 1
+    },
+    {
+      "name": "美妙系列",
+      "count": 1
+    },
+    {
+      "name": "プリズムの煌めき",
+      "count": 1
+    },
+    {
+      "name": "校园",
+      "count": 1
+    },
+    {
+      "name": "森嶋優花",
+      "count": 1
+    },
+    {
+      "name": "ED好评",
+      "count": 1
+    },
+    {
+      "name": "续作",
+      "count": 1
+    },
+    {
+      "name": "梦想",
+      "count": 1
+    },
+    {
+      "name": "日常",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

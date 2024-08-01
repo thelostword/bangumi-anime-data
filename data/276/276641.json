@@ -1,0 +1,153 @@
+{
+  "id": 276641,
+  "name": "銀魂 THE FINAL",
+  "name_cn": "银魂 THE FINAL",
+  "summary": "地球滅亡までのカウントダウンが迫る中、かつての盟友である銀時、高杉、桂は、それぞれの思いを胸に奔走する。そんな銀時たちの前に立ちはだかったのは、幼少時代の彼らを教え導いた師匠・吉田松陽の別人格である虚（うつろ）だった。銀時たちを援護するべく、新八と神楽、さらには真選組やかぶき町の面々、かつてのライバルたちも立ち上がる。",
+  "date": "2021-01-08",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/89/5b/276641_Z3H84.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/89/5b/276641_Z3H84.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 2032,
+    "total": 535,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 4,
+      "4": 18,
+      "5": 35,
+      "6": 90,
+      "7": 183,
+      "8": 138,
+      "9": 35,
+      "10": 31
+    },
+    "score": 7.1
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 185
+    },
+    {
+      "name": "银魂",
+      "count": 118
+    },
+    {
+      "name": "2021",
+      "count": 93
+    },
+    {
+      "name": "搞笑",
+      "count": 84
+    },
+    {
+      "name": "BNPictures",
+      "count": 64
+    },
+    {
+      "name": "漫改",
+      "count": 47
+    },
+    {
+      "name": "漫画改",
+      "count": 44
+    },
+    {
+      "name": "战斗",
+      "count": 42
+    },
+    {
+      "name": "杉田智和",
+      "count": 32
+    },
+    {
+      "name": "宮脇千鶴",
+      "count": 22
+    },
+    {
+      "name": "JUMP",
+      "count": 19
+    },
+    {
+      "name": "2021年1月",
+      "count": 13
+    },
+    {
+      "name": "大和屋暁",
+      "count": 9
+    },
+    {
+      "name": "2021年",
+      "count": 9
+    },
+    {
+      "name": "热血",
+      "count": 9
+    },
+    {
+      "name": "银他妈",
+      "count": 8
+    },
+    {
+      "name": "日本动画",
+      "count": 7
+    },
+    {
+      "name": "SUNRISE",
+      "count": 6
+    },
+    {
+      "name": "吐槽",
+      "count": 4
+    },
+    {
+      "name": "2023",
+      "count": 2
+    },
+    {
+      "name": "undefined",
+      "count": 2
+    },
+    {
+      "name": "吐糟",
+      "count": 2
+    },
+    {
+      "name": "日常",
+      "count": 2
+    },
+    {
+      "name": "宫胁千鹤",
+      "count": 2
+    },
+    {
+      "name": "アニメ映画",
+      "count": 2
+    },
+    {
+      "name": "动画电影",
+      "count": 2
+    },
+    {
+      "name": "必看",
+      "count": 2
+    },
+    {
+      "name": "奇幻",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "GINTAMA",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

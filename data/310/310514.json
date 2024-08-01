@@ -1,0 +1,41 @@
+{
+  "id": 310514,
+  "name": "Peeping Life 手塚プロ・タツノコプロ ワンダーランド",
+  "name_cn": "",
+  "summary": "普通の人々のちょっとおかしな会話が笑いのツボを突く、ＣＧアニメ『Peeping Life』とタツノコキャラのコラボレーション作品。更にブラック・ジャックや海のトリトンなど、手塚プロダクションのキャラクターたちとも、夢の競演をはたしている。",
+  "date": "2013-06-25",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/9f/e7/310514_Abv4P.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/9f/e7/310514_Abv4P.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 4,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 3,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 4.8
+  },
+  "tags": [
+    {
+      "name": "OVA-01",
+      "count": 1
+    },
+    {
+      "name": "搞笑",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

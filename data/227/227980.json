@@ -1,0 +1,153 @@
+{
+  "id": 227980,
+  "name": "GRANBLUE FANTASY The Animation season2",
+  "name_cn": "碧蓝幻想 第二季",
+  "summary": "空に憧れ、星の島を目指す少年は、蒼い髪の不思議な少女と、\r\n運命と生命を共にすることになった。\r\n空へと旅立った少年と少女が出会ったのは、信頼できる仲間たち、そして空を渡る騎空艇。\r\n帝国の追撃を躱し、星晶獣との邂逅を経て、二人は絆を深め、成長していく。\r\nだが、星の島への道程はまだ半ば。\r\n少年と少女は、仲間と共に次なる旅路へ進む。",
+  "date": "2019-10-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/1f/8d/227980_ClrAS.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/1f/8d/227980_ClrAS.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 6743,
+    "total": 515,
+    "count": {
+      "1": 4,
+      "2": 5,
+      "3": 10,
+      "4": 22,
+      "5": 84,
+      "6": 224,
+      "7": 147,
+      "8": 14,
+      "9": 1,
+      "10": 4
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "游戏改",
+      "count": 169
+    },
+    {
+      "name": "2019年10月",
+      "count": 145
+    },
+    {
+      "name": "MAPPA",
+      "count": 124
+    },
+    {
+      "name": "TV",
+      "count": 91
+    },
+    {
+      "name": "cygames",
+      "count": 89
+    },
+    {
+      "name": "奇幻",
+      "count": 84
+    },
+    {
+      "name": "碧蓝幻想",
+      "count": 61
+    },
+    {
+      "name": "战斗",
+      "count": 58
+    },
+    {
+      "name": "2019",
+      "count": 47
+    },
+    {
+      "name": "冒险",
+      "count": 40
+    },
+    {
+      "name": "梅本唯",
+      "count": 17
+    },
+    {
+      "name": "续集",
+      "count": 14
+    },
+    {
+      "name": "手游改",
+      "count": 10
+    },
+    {
+      "name": "cy爸爸",
+      "count": 10
+    },
+    {
+      "name": "吉村清子",
+      "count": 4
+    },
+    {
+      "name": "动画",
+      "count": 4
+    },
+    {
+      "name": "小野友樹",
+      "count": 3
+    },
+    {
+      "name": "2019秋",
+      "count": 3
+    },
+    {
+      "name": "续作",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "anime",
+      "count": 2
+    },
+    {
+      "name": "异世界",
+      "count": 2
+    },
+    {
+      "name": "GBF",
+      "count": 2
+    },
+    {
+      "name": "TVA",
+      "count": 2
+    },
+    {
+      "name": "魔幻",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "游改",
+      "count": 2
+    },
+    {
+      "name": "2019年",
+      "count": 2
+    },
+    {
+      "name": "SP没看",
+      "count": 1
+    },
+    {
+      "name": "成田勤",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

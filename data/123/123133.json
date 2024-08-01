@@ -1,0 +1,81 @@
+{
+  "id": 123133,
+  "name": "ナルどマ",
+  "name_cn": "闪开，让最帅的来",
+  "summary": "日本手机应用软件大厂NHNPlayArt推出连载类手机漫画APPCOMICO于今日宣布了旗下五部作品动画化之一。",
+  "date": "2015-05-16",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/13/85/123133_NyWYQ.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/13/85/123133_NyWYQ.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 0,
+    "total": 4,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 2,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 6.8
+  },
+  "tags": [
+    {
+      "name": "搞笑",
+      "count": 4
+    },
+    {
+      "name": "2015年4月",
+      "count": 4
+    },
+    {
+      "name": "漫改",
+      "count": 3
+    },
+    {
+      "name": "2015年",
+      "count": 3
+    },
+    {
+      "name": "资源在那里",
+      "count": 1
+    },
+    {
+      "name": "胜哄Studio",
+      "count": 1
+    },
+    {
+      "name": "时事热点",
+      "count": 1
+    },
+    {
+      "name": "2015年四月番",
+      "count": 1
+    },
+    {
+      "name": "2015年5月",
+      "count": 1
+    },
+    {
+      "name": "WEB",
+      "count": 1
+    },
+    {
+      "name": "漫画改",
+      "count": 1
+    },
+    {
+      "name": "2015",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

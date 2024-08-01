@@ -1,0 +1,153 @@
+{
+  "id": 49598,
+  "name": "純情ロマンチカ2",
+  "name_cn": "纯情罗曼史2",
+  "summary": "",
+  "date": "2008-10-11",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/89/73/49598_4Fc4U.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/89/73/49598_4Fc4U.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 2675,
+    "total": 502,
+    "count": {
+      "1": 5,
+      "2": 2,
+      "3": 5,
+      "4": 6,
+      "5": 31,
+      "6": 104,
+      "7": 190,
+      "8": 117,
+      "9": 25,
+      "10": 17
+    },
+    "score": 6.9
+  },
+  "tags": [
+    {
+      "name": "BL",
+      "count": 158
+    },
+    {
+      "name": "耽美",
+      "count": 132
+    },
+    {
+      "name": "中村春菊",
+      "count": 101
+    },
+    {
+      "name": "2008年10月",
+      "count": 67
+    },
+    {
+      "name": "TV",
+      "count": 67
+    },
+    {
+      "name": "studiodeen",
+      "count": 45
+    },
+    {
+      "name": "2008",
+      "count": 45
+    },
+    {
+      "name": "樱井孝宏",
+      "count": 41
+    },
+    {
+      "name": "純情ロマンチカ",
+      "count": 35
+    },
+    {
+      "name": "腐",
+      "count": 35
+    },
+    {
+      "name": "漫画改",
+      "count": 30
+    },
+    {
+      "name": "纯情罗曼史",
+      "count": 19
+    },
+    {
+      "name": "纯爱",
+      "count": 17
+    },
+    {
+      "name": "漫改",
+      "count": 15
+    },
+    {
+      "name": "今千秋",
+      "count": 13
+    },
+    {
+      "name": "治愈",
+      "count": 12
+    },
+    {
+      "name": "恋爱",
+      "count": 10
+    },
+    {
+      "name": "櫻井孝宏",
+      "count": 7
+    },
+    {
+      "name": "2008年",
+      "count": 6
+    },
+    {
+      "name": "スタジオディーン",
+      "count": 4
+    },
+    {
+      "name": "DEEN",
+      "count": 4
+    },
+    {
+      "name": "腐向",
+      "count": 3
+    },
+    {
+      "name": "森川智之",
+      "count": 3
+    },
+    {
+      "name": "菊地洋子",
+      "count": 3
+    },
+    {
+      "name": "中瀬理香",
+      "count": 3
+    },
+    {
+      "name": "花田光",
+      "count": 3
+    },
+    {
+      "name": "伊藤健太郎",
+      "count": 3
+    },
+    {
+      "name": "续作",
+      "count": 3
+    },
+    {
+      "name": "TVA",
+      "count": 3
+    },
+    {
+      "name": "神奈延年",
+      "count": 3
+    }
+  ],
+  "locked": false
+}

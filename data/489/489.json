@@ -1,0 +1,153 @@
+{
+  "id": 489,
+  "name": "School Days OVA スペシャル ～マジカルハート☆こころちゃん～",
+  "name_cn": "日在校园OVA 魔法少女小心心",
+  "summary": "故事主题是番外篇，所以无论主角还是故事都有截然不同的改变，这次的女主角居然是桂言叶的妹妹「桂心」，以身怀绝技的魔法少女身份登场，和邪恶的怪人展开作战！\r\n",
+  "date": "2008-03-28",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/85/4d/489_a34K8.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/85/4d/489_a34K8.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 8009,
+    "total": 1024,
+    "count": {
+      "1": 24,
+      "2": 28,
+      "3": 65,
+      "4": 137,
+      "5": 226,
+      "6": 316,
+      "7": 137,
+      "8": 56,
+      "9": 14,
+      "10": 21
+    },
+    "score": 5.5
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 350
+    },
+    {
+      "name": "日在校园",
+      "count": 170
+    },
+    {
+      "name": "SchoolDays",
+      "count": 140
+    },
+    {
+      "name": "2008",
+      "count": 136
+    },
+    {
+      "name": "魔法少女",
+      "count": 101
+    },
+    {
+      "name": "TNK",
+      "count": 69
+    },
+    {
+      "name": "School_Days_OVA",
+      "count": 60
+    },
+    {
+      "name": "杀必死",
+      "count": 57
+    },
+    {
+      "name": "GAL改",
+      "count": 56
+    },
+    {
+      "name": "锯女神救世界",
+      "count": 45
+    },
+    {
+      "name": "喜剧",
+      "count": 43
+    },
+    {
+      "name": "游戏改",
+      "count": 37
+    },
+    {
+      "name": "搞笑",
+      "count": 26
+    },
+    {
+      "name": "社会问题",
+      "count": 24
+    },
+    {
+      "name": "校园",
+      "count": 20
+    },
+    {
+      "name": "后宫",
+      "count": 16
+    },
+    {
+      "name": "GAL",
+      "count": 15
+    },
+    {
+      "name": "无限的结局",
+      "count": 15
+    },
+    {
+      "name": "元永慶太郎",
+      "count": 12
+    },
+    {
+      "name": "2008年",
+      "count": 11
+    },
+    {
+      "name": "战队",
+      "count": 9
+    },
+    {
+      "name": "元永庆太郎",
+      "count": 9
+    },
+    {
+      "name": "恋爱",
+      "count": 9
+    },
+    {
+      "name": "ティー・エヌ・ケー",
+      "count": 7
+    },
+    {
+      "name": "2008年3月",
+      "count": 7
+    },
+    {
+      "name": "番外",
+      "count": 6
+    },
+    {
+      "name": "战斗",
+      "count": 6
+    },
+    {
+      "name": "动画",
+      "count": 4
+    },
+    {
+      "name": "补番",
+      "count": 4
+    },
+    {
+      "name": "日本动画",
+      "count": 4
+    }
+  ],
+  "locked": false
+}

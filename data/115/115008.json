@@ -1,0 +1,153 @@
+{
+  "id": 115008,
+  "name": "ヘヴィーオブジェクト",
+  "name_cn": "重装武器",
+  "summary": "　　在战争的形态及世界形势大变样的未来的地球上，以成为一名超大型兵器“OBJECT”的设计师为目标的学生库温瑟赶赴战场，在那里邂逅了OBJECT的驾驶员、人称“ELITE”的少女米琳达，并且在一次作战之后，与搭档贺维亚一同对抗OBJECT……",
+  "date": "2015-10-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/b0/92/115008_ECBxC.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/b0/92/115008_ECBxC.jpg"
+  },
+  "eps": 24,
+  "rating": {
+    "rank": 6191,
+    "total": 1959,
+    "count": {
+      "1": 10,
+      "2": 8,
+      "3": 34,
+      "4": 80,
+      "5": 295,
+      "6": 704,
+      "7": 631,
+      "8": 156,
+      "9": 22,
+      "10": 19
+    },
+    "score": 6.2
+  },
+  "tags": [
+    {
+      "name": "J.C.STAFF",
+      "count": 447
+    },
+    {
+      "name": "2015年10月",
+      "count": 411
+    },
+    {
+      "name": "轻小说改",
+      "count": 380
+    },
+    {
+      "name": "鎌池和馬",
+      "count": 317
+    },
+    {
+      "name": "科幻",
+      "count": 267
+    },
+    {
+      "name": "机甲",
+      "count": 231
+    },
+    {
+      "name": "TV",
+      "count": 200
+    },
+    {
+      "name": "重装武器",
+      "count": 176
+    },
+    {
+      "name": "轻改",
+      "count": 125
+    },
+    {
+      "name": "2015",
+      "count": 108
+    },
+    {
+      "name": "萝卜",
+      "count": 81
+    },
+    {
+      "name": "花江夏树",
+      "count": 43
+    },
+    {
+      "name": "吉野弘幸",
+      "count": 40
+    },
+    {
+      "name": "石川界人",
+      "count": 38
+    },
+    {
+      "name": "战斗",
+      "count": 26
+    },
+    {
+      "name": "渡部高志",
+      "count": 22
+    },
+    {
+      "name": "机战",
+      "count": 19
+    },
+    {
+      "name": "搞笑",
+      "count": 15
+    },
+    {
+      "name": "战争",
+      "count": 12
+    },
+    {
+      "name": "小说改",
+      "count": 10
+    },
+    {
+      "name": "伊藤静",
+      "count": 9
+    },
+    {
+      "name": "2015年",
+      "count": 9
+    },
+    {
+      "name": "后宫",
+      "count": 9
+    },
+    {
+      "name": "大河内一楼",
+      "count": 7
+    },
+    {
+      "name": "热血",
+      "count": 6
+    },
+    {
+      "name": "金元寿子",
+      "count": 5
+    },
+    {
+      "name": "卖肉",
+      "count": 4
+    },
+    {
+      "name": "半年番",
+      "count": 4
+    },
+    {
+      "name": "ラノベ原作",
+      "count": 4
+    },
+    {
+      "name": "镰池和马",
+      "count": 4
+    }
+  ],
+  "locked": false
+}

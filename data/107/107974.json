@@ -1,0 +1,153 @@
+{
+  "id": 107974,
+  "name": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ! OAD",
+  "name_cn": "Fate/kaleid liner 魔法少女☆伊莉雅 2wei OAD",
+  "summary": "Fate/kaleid liner プリズマ☆イリヤ ドライ!! 单行本第六卷限定版同捆OAD",
+  "date": "2015-07-25",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/cb/0d/107974_Z052S.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/cb/0d/107974_Z052S.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 2798,
+    "total": 1174,
+    "count": {
+      "1": 8,
+      "2": 0,
+      "3": 2,
+      "4": 10,
+      "5": 49,
+      "6": 258,
+      "7": 581,
+      "8": 211,
+      "9": 24,
+      "10": 31
+    },
+    "score": 6.9
+  },
+  "tags": [
+    {
+      "name": "OAD",
+      "count": 262
+    },
+    {
+      "name": "OVA",
+      "count": 241
+    },
+    {
+      "name": "Type-Moon",
+      "count": 226
+    },
+    {
+      "name": "百合",
+      "count": 218
+    },
+    {
+      "name": "魔法少女伊莉雅",
+      "count": 175
+    },
+    {
+      "name": "SILVERLINK.",
+      "count": 158
+    },
+    {
+      "name": "2015",
+      "count": 137
+    },
+    {
+      "name": "Fate",
+      "count": 112
+    },
+    {
+      "name": "大沼心",
+      "count": 98
+    },
+    {
+      "name": "漫画改",
+      "count": 87
+    },
+    {
+      "name": "魔法少女",
+      "count": 74
+    },
+    {
+      "name": "2015年4月",
+      "count": 60
+    },
+    {
+      "name": "伊莉雅",
+      "count": 37
+    },
+    {
+      "name": "漫改",
+      "count": 36
+    },
+    {
+      "name": "魔法少女☆伊莉雅",
+      "count": 22
+    },
+    {
+      "name": "2015年7月",
+      "count": 18
+    },
+    {
+      "name": "萝莉",
+      "count": 17
+    },
+    {
+      "name": "神保昌登",
+      "count": 17
+    },
+    {
+      "name": "奇幻",
+      "count": 14
+    },
+    {
+      "name": "魔法",
+      "count": 11
+    },
+    {
+      "name": "搞笑",
+      "count": 11
+    },
+    {
+      "name": "战斗",
+      "count": 10
+    },
+    {
+      "name": "2015年",
+      "count": 9
+    },
+    {
+      "name": "Fate_Kaleid_Liner",
+      "count": 8
+    },
+    {
+      "name": "SILVER_LINK.",
+      "count": 7
+    },
+    {
+      "name": "日本动画",
+      "count": 4
+    },
+    {
+      "name": "后宫",
+      "count": 4
+    },
+    {
+      "name": "日本",
+      "count": 4
+    },
+    {
+      "name": "呆萌",
+      "count": 4
+    },
+    {
+      "name": "番外",
+      "count": 4
+    }
+  ],
+  "locked": false
+}

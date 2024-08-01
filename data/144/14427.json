@@ -1,0 +1,153 @@
+{
+  "id": 14427,
+  "name": "BLOOD-C",
+  "name_cn": "",
+  "summary": "原创动画《BLOOD》系列之BLOOD-C，由CLAMP负责剧情以及人物原案。\r\n漫画版于《少年エース》7月号（5月26日上市）起连载，漫画作者为琴音らんまる。\r\n故事讲述了更衣小夜是私立三荆学园的高中二年级学生，虽然平常和同学们一起过着普通的学园生活。但是另一方面，她还要接受父亲的命令完成某项“任务”。那就是狩猎被称为“古物”，拥有远超过人类力量，并且以人类为食的东西。小夜作为唯一可以打倒“古物”的人，为了守护他人、为了自己最喜欢的父亲，使用浮岛神社传承下来的御神刀独自战斗着。",
+  "date": "2011-07-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/76/fb/14427_w47ht.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/76/fb/14427_w47ht.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 6898,
+    "total": 2773,
+    "count": {
+      "1": 34,
+      "2": 46,
+      "3": 88,
+      "4": 239,
+      "5": 432,
+      "6": 893,
+      "7": 652,
+      "8": 288,
+      "9": 58,
+      "10": 43
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "CLAMP",
+      "count": 830
+    },
+    {
+      "name": "水树奈奈",
+      "count": 473
+    },
+    {
+      "name": "Production.I.G",
+      "count": 465
+    },
+    {
+      "name": "BLOOD-C",
+      "count": 435
+    },
+    {
+      "name": "2011年7月",
+      "count": 348
+    },
+    {
+      "name": "猎奇",
+      "count": 333
+    },
+    {
+      "name": "TV",
+      "count": 233
+    },
+    {
+      "name": "水岛努",
+      "count": 200
+    },
+    {
+      "name": "原创",
+      "count": 168
+    },
+    {
+      "name": "2011",
+      "count": 156
+    },
+    {
+      "name": "血腥",
+      "count": 101
+    },
+    {
+      "name": "小夜？",
+      "count": 84
+    },
+    {
+      "name": "BLOOD",
+      "count": 66
+    },
+    {
+      "name": "ProductionI.G",
+      "count": 62
+    },
+    {
+      "name": "blood+",
+      "count": 44
+    },
+    {
+      "name": "大妈",
+      "count": 43
+    },
+    {
+      "name": "战斗",
+      "count": 41
+    },
+    {
+      "name": "2011七月番",
+      "count": 34
+    },
+    {
+      "name": "P.I.G",
+      "count": 22
+    },
+    {
+      "name": "2011年",
+      "count": 15
+    },
+    {
+      "name": "水島努",
+      "count": 14
+    },
+    {
+      "name": "小夜",
+      "count": 12
+    },
+    {
+      "name": "アニメ",
+      "count": 11
+    },
+    {
+      "name": "七月番",
+      "count": 10
+    },
+    {
+      "name": "番茄酱",
+      "count": 9
+    },
+    {
+      "name": "水樹奈々",
+      "count": 9
+    },
+    {
+      "name": "奇幻",
+      "count": 9
+    },
+    {
+      "name": "奈奈",
+      "count": 7
+    },
+    {
+      "name": "吸血鬼",
+      "count": 6
+    },
+    {
+      "name": "Production_I.G",
+      "count": 5
+    }
+  ],
+  "locked": false
+}

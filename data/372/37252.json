@@ -1,0 +1,121 @@
+{
+  "id": 37252,
+  "name": "VS騎士ラムネ&40炎",
+  "name_cn": "VS骑士柠檬汽水&40炎",
+  "summary": "　　NG騎士ラムネ＆４０的续集。\r\n　　前作主角馬場ラムネ的儿子小宅男馬場ラムネード买了张游戏光盘，结果游戏穿了后人也跟着穿越到了异世界ドキドキスペース，并得知自己继承了传说中的勇者ラムネス的血统，为了打倒大邪神アブラーム而必须战斗。",
+  "date": "1996-04-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/a4/c0/37252_7xW44.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/a4/c0/37252_7xW44.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 0,
+    "total": 26,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 2,
+      "6": 9,
+      "7": 4,
+      "8": 7,
+      "9": 3,
+      "10": 1
+    },
+    "score": 7.1
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 20
+    },
+    {
+      "name": "1996",
+      "count": 11
+    },
+    {
+      "name": "草尾毅",
+      "count": 5
+    },
+    {
+      "name": "ProductionReed",
+      "count": 5
+    },
+    {
+      "name": "90年代",
+      "count": 5
+    },
+    {
+      "name": "萝卜",
+      "count": 3
+    },
+    {
+      "name": "在电视上断断续续看过",
+      "count": 1
+    },
+    {
+      "name": "苇PRODUCTION",
+      "count": 1
+    },
+    {
+      "name": "玉川砂記子",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "robo",
+      "count": 1
+    },
+    {
+      "name": "葦プロダクション",
+      "count": 1
+    },
+    {
+      "name": "赛璐珞",
+      "count": 1
+    },
+    {
+      "name": "ロボットアニメ",
+      "count": 1
+    },
+    {
+      "name": "ねぎしひろし",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "机甲",
+      "count": 1
+    },
+    {
+      "name": "童年",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "藤本義孝",
+      "count": 1
+    },
+    {
+      "name": "あかほりさとる",
+      "count": 1
+    },
+    {
+      "name": "90s",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

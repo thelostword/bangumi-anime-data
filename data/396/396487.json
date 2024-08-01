@@ -1,0 +1,77 @@
+{
+  "id": 396487,
+  "name": "チキップダンサーズ 2期",
+  "name_cn": "小鸡舞者 第二季",
+  "summary": "",
+  "date": "2022-09-27",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/06/b0/396487_rCOEj.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/06/b0/396487_rCOEj.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 0,
+    "total": 2,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 3
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 2
+    },
+    {
+      "name": "FanWorks",
+      "count": 1
+    },
+    {
+      "name": "石川由依",
+      "count": 1
+    },
+    {
+      "name": "田辺茂範",
+      "count": 1
+    },
+    {
+      "name": "2022",
+      "count": 1
+    },
+    {
+      "name": "屹青",
+      "count": 1
+    },
+    {
+      "name": "花江夏樹",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "ラレコ",
+      "count": 1
+    },
+    {
+      "name": "ファンワークス",
+      "count": 1
+    },
+    {
+      "name": "续集",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

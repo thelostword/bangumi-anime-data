@@ -1,0 +1,85 @@
+{
+  "id": 63122,
+  "name": "慟哭のナイトメア",
+  "name_cn": "痛哭的噩梦",
+  "summary": "MikuMikuDanceを使用したオリジナルフルCGアニメーション。",
+  "date": "2013-01-25",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/14/de/63122_MrfXE.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/14/de/63122_MrfXE.jpg"
+  },
+  "eps": 15,
+  "rating": {
+    "rank": 0,
+    "total": 13,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 2,
+      "4": 2,
+      "5": 3,
+      "6": 5,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.1
+  },
+  "tags": [
+    {
+      "name": "短片",
+      "count": 10
+    },
+    {
+      "name": "2013",
+      "count": 9
+    },
+    {
+      "name": "图书馆战争既视感",
+      "count": 3
+    },
+    {
+      "name": "3D",
+      "count": 3
+    },
+    {
+      "name": "TV",
+      "count": 2
+    },
+    {
+      "name": "ONA",
+      "count": 2
+    },
+    {
+      "name": "慟哭のナイトメア",
+      "count": 2
+    },
+    {
+      "name": "原神",
+      "count": 1
+    },
+    {
+      "name": "独立ova",
+      "count": 1
+    },
+    {
+      "name": "Ⅰ类tv",
+      "count": 1
+    },
+    {
+      "name": "日番",
+      "count": 1
+    },
+    {
+      "name": "WEB",
+      "count": 1
+    },
+    {
+      "name": "OVA",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

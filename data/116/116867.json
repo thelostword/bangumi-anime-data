@@ -1,0 +1,97 @@
+{
+  "id": 116867,
+  "name": "ぱんきす!2次元",
+  "name_cn": "PUNKISS！2次元",
+  "summary": "为了让人们能在和谐的声音中生活，“音之精灵”于世界中到处进行着调音。在培养“音之精灵”的学院中，有五个吊车尾学生，学校给这五个人准备了特别的任务……\r\n\r\n是动画、舞台、俳优、漫画、音乐五合一计划「PUNKISS！」的中心项目。",
+  "date": "2015-01-08",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/f0/77/116867_94tNh.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/f0/77/116867_94tNh.jpg"
+  },
+  "eps": 24,
+  "rating": {
+    "rank": 0,
+    "total": 34,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 4,
+      "5": 13,
+      "6": 6,
+      "7": 7,
+      "8": 4,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.8
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 28
+    },
+    {
+      "name": "2015年1月",
+      "count": 15
+    },
+    {
+      "name": "TV",
+      "count": 14
+    },
+    {
+      "name": "原创",
+      "count": 13
+    },
+    {
+      "name": "DLE",
+      "count": 12
+    },
+    {
+      "name": "2015",
+      "count": 9
+    },
+    {
+      "name": "音乐",
+      "count": 9
+    },
+    {
+      "name": "萌",
+      "count": 7
+    },
+    {
+      "name": "PUNKISS！2次元",
+      "count": 4
+    },
+    {
+      "name": "2015年",
+      "count": 2
+    },
+    {
+      "name": "篠原ぱらこ",
+      "count": 1
+    },
+    {
+      "name": "大宫一人",
+      "count": 1
+    },
+    {
+      "name": "中野守",
+      "count": 1
+    },
+    {
+      "name": "泡面",
+      "count": 1
+    },
+    {
+      "name": "『TVA』",
+      "count": 1
+    },
+    {
+      "name": "二次元",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

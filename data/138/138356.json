@@ -1,0 +1,81 @@
+{
+  "id": 138356,
+  "name": "リボンの騎士",
+  "name_cn": "蓝宝石王子",
+  "summary": "虫プロによるTVアニメの放送から30年以上が過ぎた1999年に約8分のショートムービーが製作されて、KYOTO手塚治虫ワールド（現在は閉館）で上映された。 ",
+  "date": "1999-12-04",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e7/dd/138356_8YL8U.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e7/dd/138356_8YL8U.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 7,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 4,
+      "7": 2,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 6.9
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 5
+    },
+    {
+      "name": "虫Production",
+      "count": 4
+    },
+    {
+      "name": "1999",
+      "count": 3
+    },
+    {
+      "name": "1999年",
+      "count": 2
+    },
+    {
+      "name": "漫画改编",
+      "count": 2
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "1999年十月番",
+      "count": 1
+    },
+    {
+      "name": "1999年12月",
+      "count": 1
+    },
+    {
+      "name": "上世纪",
+      "count": 1
+    },
+    {
+      "name": "漫画改",
+      "count": 1
+    },
+    {
+      "name": "改编",
+      "count": 1
+    },
+    {
+      "name": "手冢Production",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

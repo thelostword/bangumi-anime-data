@@ -1,0 +1,85 @@
+{
+  "id": 333258,
+  "name": "映画ざんねんないきもの事典",
+  "name_cn": "电影 遗憾生物事典",
+  "summary": "",
+  "date": "2022-07-08",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/8a/c2/333258_BI652.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/8a/c2/333258_BI652.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 2
+    },
+    {
+      "name": "榎木淳弥",
+      "count": 1
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1
+    },
+    {
+      "name": "ウチヤマユウジ",
+      "count": 1
+    },
+    {
+      "name": "由水桂",
+      "count": 1
+    },
+    {
+      "name": "イワタナオミ",
+      "count": 1
+    },
+    {
+      "name": "FanWorks",
+      "count": 1
+    },
+    {
+      "name": "2022",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "空",
+      "count": 1
+    },
+    {
+      "name": "ファンワークス",
+      "count": 1
+    },
+    {
+      "name": "花江夏樹",
+      "count": 1
+    },
+    {
+      "name": "松岡禎丞",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

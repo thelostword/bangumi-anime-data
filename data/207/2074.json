@@ -1,0 +1,153 @@
+{
+  "id": 2074,
+  "name": "逮捕しちゃうぞ",
+  "name_cn": "逮捕令",
+  "summary": "故事是在叙述警视厅墨东警署交通科的二个女警员─小早川美幸和辻本夏实的故事，除了发生在她们身上的各个事件外，再加上她们和周遭朋友的关系所构成的轻松风格写实喜剧。",
+  "date": "1996-10-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/1f/4f/2074_d4HP9.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/1f/4f/2074_d4HP9.jpg"
+  },
+  "eps": 51,
+  "rating": {
+    "rank": 774,
+    "total": 1025,
+    "count": {
+      "1": 1,
+      "2": 1,
+      "3": 2,
+      "4": 1,
+      "5": 20,
+      "6": 85,
+      "7": 355,
+      "8": 432,
+      "9": 83,
+      "10": 45
+    },
+    "score": 7.6
+  },
+  "tags": [
+    {
+      "name": "逮捕令",
+      "count": 216
+    },
+    {
+      "name": "藤岛康介",
+      "count": 174
+    },
+    {
+      "name": "TV",
+      "count": 153
+    },
+    {
+      "name": "童年",
+      "count": 136
+    },
+    {
+      "name": "1996",
+      "count": 109
+    },
+    {
+      "name": "studiodeen",
+      "count": 79
+    },
+    {
+      "name": "帅气女警",
+      "count": 63
+    },
+    {
+      "name": "漫画改",
+      "count": 58
+    },
+    {
+      "name": "女警快车逮捕你",
+      "count": 53
+    },
+    {
+      "name": "交警",
+      "count": 44
+    },
+    {
+      "name": "霹雳女警霸王花",
+      "count": 43
+    },
+    {
+      "name": "90年代",
+      "count": 38
+    },
+    {
+      "name": "日本",
+      "count": 35
+    },
+    {
+      "name": "搞笑",
+      "count": 25
+    },
+    {
+      "name": "漫改",
+      "count": 21
+    },
+    {
+      "name": "童年TvT",
+      "count": 19
+    },
+    {
+      "name": "日常",
+      "count": 15
+    },
+    {
+      "name": "动画",
+      "count": 13
+    },
+    {
+      "name": "中嶋敦子",
+      "count": 11
+    },
+    {
+      "name": "西村纯二",
+      "count": 10
+    },
+    {
+      "name": "生活",
+      "count": 9
+    },
+    {
+      "name": "1996年",
+      "count": 8
+    },
+    {
+      "name": "西村純二",
+      "count": 8
+    },
+    {
+      "name": "1996年10月",
+      "count": 7
+    },
+    {
+      "name": "TVB",
+      "count": 6
+    },
+    {
+      "name": "横手美智子",
+      "count": 5
+    },
+    {
+      "name": "わたなべひろし",
+      "count": 5
+    },
+    {
+      "name": "女警",
+      "count": 4
+    },
+    {
+      "name": "スタジオディーン",
+      "count": 4
+    },
+    {
+      "name": "警察",
+      "count": 4
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,153 @@
+{
+  "id": 18636,
+  "name": "UN-GO",
+  "name_cn": "",
+  "summary": "以日本著名文学家坂口安吾所作《明治开化安吾捕物帖》为蓝本，将这部时代剧作品放置在近未来舞台大胆重现的原创作品，讲述侦探二人组：被称为最后的名侦探的结城新十郎，以及他的搭档——不可思议的美少年因果的故事。",
+  "date": "2011-10-13",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/54/82/18636_EndQl.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/54/82/18636_EndQl.jpg"
+  },
+  "eps": 11,
+  "rating": {
+    "rank": 2041,
+    "total": 2743,
+    "count": {
+      "1": 6,
+      "2": 7,
+      "3": 13,
+      "4": 51,
+      "5": 142,
+      "6": 521,
+      "7": 922,
+      "8": 826,
+      "9": 186,
+      "10": 69
+    },
+    "score": 7.1
+  },
+  "tags": [
+    {
+      "name": "BONES",
+      "count": 827
+    },
+    {
+      "name": "骨头社",
+      "count": 464
+    },
+    {
+      "name": "UN-GO",
+      "count": 399
+    },
+    {
+      "name": "2011年10月",
+      "count": 383
+    },
+    {
+      "name": "水岛精二",
+      "count": 367
+    },
+    {
+      "name": "推理",
+      "count": 300
+    },
+    {
+      "name": "noitaminA",
+      "count": 264
+    },
+    {
+      "name": "TV",
+      "count": 260
+    },
+    {
+      "name": "2011",
+      "count": 197
+    },
+    {
+      "name": "原创",
+      "count": 157
+    },
+    {
+      "name": "坂口安吾",
+      "count": 128
+    },
+    {
+      "name": "搞基可能",
+      "count": 89
+    },
+    {
+      "name": "基片",
+      "count": 66
+    },
+    {
+      "name": "会川升",
+      "count": 63
+    },
+    {
+      "name": "BONES原创",
+      "count": 44
+    },
+    {
+      "name": "悬疑",
+      "count": 38
+    },
+    {
+      "name": "小说改",
+      "count": 36
+    },
+    {
+      "name": "奇幻",
+      "count": 32
+    },
+    {
+      "name": "二大爷",
+      "count": 27
+    },
+    {
+      "name": "补充基能",
+      "count": 22
+    },
+    {
+      "name": "水島精二",
+      "count": 21
+    },
+    {
+      "name": "丰崎爱生",
+      "count": 19
+    },
+    {
+      "name": "會川昇",
+      "count": 14
+    },
+    {
+      "name": "2011年",
+      "count": 11
+    },
+    {
+      "name": "三木真一郎",
+      "count": 8
+    },
+    {
+      "name": "剧情",
+      "count": 8
+    },
+    {
+      "name": "入野自由",
+      "count": 8
+    },
+    {
+      "name": "アニメ",
+      "count": 8
+    },
+    {
+      "name": "动画",
+      "count": 7
+    },
+    {
+      "name": "因果",
+      "count": 7
+    }
+  ],
+  "locked": false
+}

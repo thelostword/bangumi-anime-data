@@ -1,0 +1,153 @@
+{
+  "id": 262112,
+  "name": "おとなの防具屋さん",
+  "name_cn": "大人的防具店",
+  "summary": "“诸位冒险者，欢迎来到我的店。这是一家只收集了我兴趣爱好的防具店。女性的各位请慢慢挑选，诸位男性就来一起欣赏她们穿上装备的身姿吧。”故事讲述了在有着这样野心的防具店店主·纳登手下工作的，对女性和魔力耐性极低的店员卡伍兹充满眼福（？）的每一天。",
+  "date": "2018-10-08",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/d1/46/262112_X22Pp.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/d1/46/262112_X22Pp.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 7880,
+    "total": 647,
+    "count": {
+      "1": 9,
+      "2": 6,
+      "3": 12,
+      "4": 54,
+      "5": 219,
+      "6": 259,
+      "7": 68,
+      "8": 12,
+      "9": 2,
+      "10": 6
+    },
+    "score": 5.5
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 227
+    },
+    {
+      "name": "2018年10月",
+      "count": 149
+    },
+    {
+      "name": "搞笑",
+      "count": 125
+    },
+    {
+      "name": "漫画改",
+      "count": 116
+    },
+    {
+      "name": "TV",
+      "count": 86
+    },
+    {
+      "name": "2018",
+      "count": 81
+    },
+    {
+      "name": "漫改",
+      "count": 65
+    },
+    {
+      "name": "IMAGICA",
+      "count": 55
+    },
+    {
+      "name": "東山奈央",
+      "count": 51
+    },
+    {
+      "name": "IMAGEWORKS",
+      "count": 24
+    },
+    {
+      "name": "泡面",
+      "count": 21
+    },
+    {
+      "name": "大人的防具店",
+      "count": 21
+    },
+    {
+      "name": "小松未可子",
+      "count": 15
+    },
+    {
+      "name": "福利",
+      "count": 11
+    },
+    {
+      "name": "山元隼一",
+      "count": 10
+    },
+    {
+      "name": "卖肉",
+      "count": 8
+    },
+    {
+      "name": "异世界",
+      "count": 5
+    },
+    {
+      "name": "奇幻",
+      "count": 4
+    },
+    {
+      "name": "短片",
+      "count": 4
+    },
+    {
+      "name": "动画",
+      "count": 3
+    },
+    {
+      "name": "肉",
+      "count": 3
+    },
+    {
+      "name": "石井マーク",
+      "count": 2
+    },
+    {
+      "name": "18秋",
+      "count": 2
+    },
+    {
+      "name": "2018年",
+      "count": 2
+    },
+    {
+      "name": "IMAGICA_IMAGEWORKS",
+      "count": 2
+    },
+    {
+      "name": "2018秋",
+      "count": 2
+    },
+    {
+      "name": "どめし",
+      "count": 2
+    },
+    {
+      "name": "东山奈央",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

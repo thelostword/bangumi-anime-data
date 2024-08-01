@@ -1,0 +1,153 @@
+{
+  "id": 350764,
+  "name": "鬼滅の刃 無限列車編",
+  "name_cn": "鬼灭之刃 无限列车篇",
+  "summary": "第1話は、煉獄杏寿郎が鬼殺隊本部を旅立ち無限列車へと向かう道中の任務を描いた完全新作エピソード。第2話～第7話は、無限列車での任務を、新作追加映像、新主題歌映像などと共に描きます。",
+  "date": "2021-10-10",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/65/8e/350764_Aibau.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/65/8e/350764_Aibau.jpg"
+  },
+  "eps": 7,
+  "rating": {
+    "rank": 1548,
+    "total": 5457,
+    "count": {
+      "1": 18,
+      "2": 7,
+      "3": 16,
+      "4": 38,
+      "5": 158,
+      "6": 719,
+      "7": 2316,
+      "8": 1747,
+      "9": 261,
+      "10": 177
+    },
+    "score": 7.3
+  },
+  "tags": [
+    {
+      "name": "战斗",
+      "count": 1127
+    },
+    {
+      "name": "ufotable",
+      "count": 1094
+    },
+    {
+      "name": "热血",
+      "count": 1036
+    },
+    {
+      "name": "2021年10月",
+      "count": 691
+    },
+    {
+      "name": "漫画改",
+      "count": 655
+    },
+    {
+      "name": "鬼灭之刃",
+      "count": 573
+    },
+    {
+      "name": "TV",
+      "count": 438
+    },
+    {
+      "name": "2021",
+      "count": 343
+    },
+    {
+      "name": "漫改",
+      "count": 332
+    },
+    {
+      "name": "奇幻",
+      "count": 268
+    },
+    {
+      "name": "JUMP",
+      "count": 207
+    },
+    {
+      "name": "剧场版",
+      "count": 108
+    },
+    {
+      "name": "梶浦由记",
+      "count": 103
+    },
+    {
+      "name": "外崎春雄",
+      "count": 60
+    },
+    {
+      "name": "续作",
+      "count": 58
+    },
+    {
+      "name": "石田彰",
+      "count": 15
+    },
+    {
+      "name": "2021年",
+      "count": 15
+    },
+    {
+      "name": "催泪",
+      "count": 14
+    },
+    {
+      "name": "日本",
+      "count": 14
+    },
+    {
+      "name": "椎名豪",
+      "count": 11
+    },
+    {
+      "name": "日本动画",
+      "count": 9
+    },
+    {
+      "name": "搞笑",
+      "count": 9
+    },
+    {
+      "name": "励志",
+      "count": 7
+    },
+    {
+      "name": "日漫",
+      "count": 7
+    },
+    {
+      "name": "冒险",
+      "count": 7
+    },
+    {
+      "name": "下野紘",
+      "count": 5
+    },
+    {
+      "name": "鬼滅の刃",
+      "count": 5
+    },
+    {
+      "name": "TVA",
+      "count": 5
+    },
+    {
+      "name": "undefined",
+      "count": 5
+    },
+    {
+      "name": "动画",
+      "count": 4
+    }
+  ],
+  "locked": false
+}

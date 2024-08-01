@@ -1,0 +1,153 @@
+{
+  "id": 235128,
+  "name": "ジョジョの奇妙な冒険 黄金の風",
+  "name_cn": "JOJO的奇妙冒险 黄金之风",
+  "summary": "居住在意大利那不勒斯的青年乔鲁诺·乔巴拿，是继承了乔斯达家宿敌·DIO之血脉的儿子。\r\n幼年时遭受迫害而自暴自弃的他，由于拯救了一名黑帮男子，而学到了“相信他人”。不忘恩义、带着敬意对待自己的黑帮，让他的心变得率直。就这样，乔鲁诺开始对“黑帮明星”怀有憧憬。\r\n15岁的乔鲁诺，与统领意大利黑社会的黑帮组织“热情”一同引发事端，并成为被盯上的目标……",
+  "date": "2018-10-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/42/29/235128_RYOcp.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/42/29/235128_RYOcp.jpg"
+  },
+  "eps": 39,
+  "rating": {
+    "rank": 254,
+    "total": 9892,
+    "count": {
+      "1": 17,
+      "2": 3,
+      "3": 8,
+      "4": 23,
+      "5": 74,
+      "6": 408,
+      "7": 2079,
+      "8": 4864,
+      "9": 1799,
+      "10": 617
+    },
+    "score": 8
+  },
+  "tags": [
+    {
+      "name": "JOJO",
+      "count": 1994
+    },
+    {
+      "name": "荒木飞吕彦",
+      "count": 1446
+    },
+    {
+      "name": "热血",
+      "count": 1174
+    },
+    {
+      "name": "2018年10月",
+      "count": 1130
+    },
+    {
+      "name": "漫画改",
+      "count": 1107
+    },
+    {
+      "name": "战斗",
+      "count": 1022
+    },
+    {
+      "name": "TV",
+      "count": 880
+    },
+    {
+      "name": "JOJO的奇妙冒险",
+      "count": 815
+    },
+    {
+      "name": "davidproduction",
+      "count": 716
+    },
+    {
+      "name": "2018",
+      "count": 482
+    },
+    {
+      "name": "漫改",
+      "count": 453
+    },
+    {
+      "name": "奇幻",
+      "count": 105
+    },
+    {
+      "name": "ジョジョの奇妙な冒険",
+      "count": 95
+    },
+    {
+      "name": "智斗",
+      "count": 85
+    },
+    {
+      "name": "木村泰大",
+      "count": 45
+    },
+    {
+      "name": "david_production",
+      "count": 44
+    },
+    {
+      "name": "小林靖子",
+      "count": 33
+    },
+    {
+      "name": "david.production",
+      "count": 33
+    },
+    {
+      "name": "津田尚克",
+      "count": 31
+    },
+    {
+      "name": "冒险",
+      "count": 21
+    },
+    {
+      "name": "中村悠一",
+      "count": 20
+    },
+    {
+      "name": "燃",
+      "count": 20
+    },
+    {
+      "name": "搞笑",
+      "count": 18
+    },
+    {
+      "name": "2018年",
+      "count": 18
+    },
+    {
+      "name": "大卫社",
+      "count": 17
+    },
+    {
+      "name": "高桥秀弥",
+      "count": 17
+    },
+    {
+      "name": "黑帮",
+      "count": 15
+    },
+    {
+      "name": "高橋秀弥",
+      "count": 15
+    },
+    {
+      "name": "JUMP",
+      "count": 15
+    },
+    {
+      "name": "菅野祐悟",
+      "count": 14
+    }
+  ],
+  "locked": false
+}

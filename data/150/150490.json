@@ -1,0 +1,153 @@
+{
+  "id": 150490,
+  "name": "ジョジョの奇妙な冒険 ダイヤモンドは砕けない",
+  "name_cn": "JOJO的奇妙冒险 不灭钻石",
+  "summary": "在埃及与宿敌DIO的死斗之后过了11年。1999年，空条承太郎为了与祖父乔瑟夫·乔斯达的私生子东方仗助见面，而来到了日本M县S市杜王町。但，仗助却持有与承太郎相同的特殊能力“替身”。之后，以承太郎的来访为开端，仿佛被吸引一般，新的“替身使”们开始行动。“这座城镇存在着什么……”为了守护养育了自己的杜王町，仗助挺身而出——。",
+  "date": "2016-04-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/d0/d5/150490_h8ffV.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/d0/d5/150490_h8ffV.jpg"
+  },
+  "eps": 39,
+  "rating": {
+    "rank": 361,
+    "total": 9809,
+    "count": {
+      "1": 9,
+      "2": 5,
+      "3": 11,
+      "4": 27,
+      "5": 100,
+      "6": 492,
+      "7": 2554,
+      "8": 4742,
+      "9": 1350,
+      "10": 519
+    },
+    "score": 7.8
+  },
+  "tags": [
+    {
+      "name": "JOJO",
+      "count": 2116
+    },
+    {
+      "name": "荒木飛呂彦",
+      "count": 1338
+    },
+    {
+      "name": "热血",
+      "count": 1323
+    },
+    {
+      "name": "漫画改",
+      "count": 1131
+    },
+    {
+      "name": "2016年4月",
+      "count": 1068
+    },
+    {
+      "name": "TV",
+      "count": 921
+    },
+    {
+      "name": "战斗",
+      "count": 815
+    },
+    {
+      "name": "davidproduction",
+      "count": 703
+    },
+    {
+      "name": "2016",
+      "count": 540
+    },
+    {
+      "name": "漫改",
+      "count": 466
+    },
+    {
+      "name": "ジョジョの奇妙な冒険",
+      "count": 335
+    },
+    {
+      "name": "JOJO的奇妙冒险",
+      "count": 299
+    },
+    {
+      "name": "奇幻",
+      "count": 103
+    },
+    {
+      "name": "荒木飞吕彦",
+      "count": 80
+    },
+    {
+      "name": "智斗",
+      "count": 72
+    },
+    {
+      "name": "津田尚克",
+      "count": 72
+    },
+    {
+      "name": "日常",
+      "count": 57
+    },
+    {
+      "name": "david_production",
+      "count": 53
+    },
+    {
+      "name": "搞笑",
+      "count": 45
+    },
+    {
+      "name": "david.production",
+      "count": 44
+    },
+    {
+      "name": "2016年",
+      "count": 24
+    },
+    {
+      "name": "小林靖子",
+      "count": 23
+    },
+    {
+      "name": "JUMP",
+      "count": 20
+    },
+    {
+      "name": "超能力",
+      "count": 19
+    },
+    {
+      "name": "燃",
+      "count": 19
+    },
+    {
+      "name": "加藤敏幸",
+      "count": 19
+    },
+    {
+      "name": "梶裕贵",
+      "count": 16
+    },
+    {
+      "name": "大卫社",
+      "count": 16
+    },
+    {
+      "name": "樱井孝宏",
+      "count": 15
+    },
+    {
+      "name": "菅野祐悟",
+      "count": 15
+    }
+  ],
+  "locked": false
+}

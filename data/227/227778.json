@@ -1,0 +1,105 @@
+{
+  "id": 227778,
+  "name": "ポチっと発明 ピカちんキット",
+  "name_cn": "灵感大冒险",
+  "summary": "",
+  "date": "2018-01-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/74/97/227778_Jmc71.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/74/97/227778_Jmc71.jpg"
+  },
+  "eps": 115,
+  "rating": {
+    "rank": 0,
+    "total": 2,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 2,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5
+  },
+  "tags": [
+    {
+      "name": "2018年1月",
+      "count": 3
+    },
+    {
+      "name": "2018",
+      "count": 2
+    },
+    {
+      "name": "加藤陽一",
+      "count": 2
+    },
+    {
+      "name": "シンエイ動画",
+      "count": 1
+    },
+    {
+      "name": "2018年",
+      "count": 1
+    },
+    {
+      "name": "OLMTEAMOTA",
+      "count": 1
+    },
+    {
+      "name": "OLM×SHIN-EI动画",
+      "count": 1
+    },
+    {
+      "name": "2018年一月番",
+      "count": 1
+    },
+    {
+      "name": "木村隆一",
+      "count": 1
+    },
+    {
+      "name": "花江夏樹",
+      "count": 1
+    },
+    {
+      "name": "原创",
+      "count": 1
+    },
+    {
+      "name": "SF",
+      "count": 1
+    },
+    {
+      "name": "TV",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "OLM",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "沢城みゆき",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

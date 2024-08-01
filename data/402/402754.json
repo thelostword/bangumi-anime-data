@@ -1,0 +1,153 @@
+{
+  "id": 402754,
+  "name": "ぼくのデーモン",
+  "name_cn": "我的恶魔",
+  "summary": "「ぼくのデーモン」は核爆発によって一瞬だけ地獄と重なり、汚染された地獄の砂塵が流れてきている近未来の地球が舞台。“東京”の下町に住む小学生の剣斗は、森で拾った赤い砂粒を“デーモン”に育て、「アナ」と名付けて仲良く暮らしている。人々に忌み嫌われ、殺意を向けられる“デーモン”のアナを守りたい剣斗だったが、剣斗とアナの関係を見守っていた母が不慮の事故に遭ってしまい……。母を助けるための、剣斗とアナによる大冒険が始まる。",
+  "date": "2023-11-23",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/00/d7/402754_xVggr.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/00/d7/402754_xVggr.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 2404,
+    "total": 86,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 6,
+      "6": 17,
+      "7": 42,
+      "8": 17,
+      "9": 1,
+      "10": 3
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "Netflix",
+      "count": 21
+    },
+    {
+      "name": "2023",
+      "count": 19
+    },
+    {
+      "name": "原创",
+      "count": 18
+    },
+    {
+      "name": "悬疑",
+      "count": 13
+    },
+    {
+      "name": "3D",
+      "count": 12
+    },
+    {
+      "name": "TV",
+      "count": 11
+    },
+    {
+      "name": "科幻",
+      "count": 11
+    },
+    {
+      "name": "WEB",
+      "count": 9
+    },
+    {
+      "name": "StudioIgloo",
+      "count": 6
+    },
+    {
+      "name": "IglooStudio",
+      "count": 5
+    },
+    {
+      "name": "乙一",
+      "count": 5
+    },
+    {
+      "name": "网飞",
+      "count": 4
+    },
+    {
+      "name": "电影",
+      "count": 4
+    },
+    {
+      "name": "战斗",
+      "count": 4
+    },
+    {
+      "name": "2023年10月",
+      "count": 3
+    },
+    {
+      "name": "冒险",
+      "count": 3
+    },
+    {
+      "name": "NatYoswatananont",
+      "count": 2
+    },
+    {
+      "name": "2023年11月",
+      "count": 2
+    },
+    {
+      "name": "暗黑宝可梦",
+      "count": 2
+    },
+    {
+      "name": "奇幻",
+      "count": 2
+    },
+    {
+      "name": "未确定",
+      "count": 2
+    },
+    {
+      "name": "6",
+      "count": 1
+    },
+    {
+      "name": "动画",
+      "count": 1
+    },
+    {
+      "name": "精讲",
+      "count": 1
+    },
+    {
+      "name": "アニメ",
+      "count": 1
+    },
+    {
+      "name": "『ONA』",
+      "count": 1
+    },
+    {
+      "name": "日本",
+      "count": 1
+    },
+    {
+      "name": "菊池こころ",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "島袋美由利",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

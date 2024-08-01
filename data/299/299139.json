@@ -1,0 +1,141 @@
+{
+  "id": 299139,
+  "name": "バトルスピリッツ 赫盟のガレット",
+  "name_cn": "战斗之魂 赫盟的加雷特",
+  "summary": "人類と魔族が共存の道を歩みだしてから数世紀。\r\n地球は『人類』でもなく『魔族』でもない\r\n新たな種を生み出した。\r\n\r\n紫の血ーー\r\n\r\n人々は自らと違う紫の血を持つ第３の種族を『モーブ』と名付け\r\n恐怖し、疑い、隔離した。\r\nそれは新たな争いの火種だった。\r\n\r\n異色の血がもたらすものは、人類と魔族に対する福音か、それとも災いか。\r\n世界に革命が起こる。",
+  "date": "2020-08-28",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/0f/d2/299139_AQy9a.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/0f/d2/299139_AQy9a.jpg"
+  },
+  "eps": 5,
+  "rating": {
+    "rank": 0,
+    "total": 22,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 8,
+      "7": 10,
+      "8": 4,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.8
+  },
+  "tags": [
+    {
+      "name": "WEB",
+      "count": 15
+    },
+    {
+      "name": "SUNRISE",
+      "count": 12
+    },
+    {
+      "name": "2020",
+      "count": 11
+    },
+    {
+      "name": "卡牌",
+      "count": 8
+    },
+    {
+      "name": "富冈淳广",
+      "count": 6
+    },
+    {
+      "name": "冨岡淳広",
+      "count": 4
+    },
+    {
+      "name": "BNPictures",
+      "count": 4
+    },
+    {
+      "name": "原创",
+      "count": 4
+    },
+    {
+      "name": "BattleSpirits",
+      "count": 4
+    },
+    {
+      "name": "バトルスピリッツ",
+      "count": 3
+    },
+    {
+      "name": "渡边正树",
+      "count": 3
+    },
+    {
+      "name": "渡辺正樹",
+      "count": 3
+    },
+    {
+      "name": "battlespirit",
+      "count": 3
+    },
+    {
+      "name": "2020s",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "BN-PICTURES",
+      "count": 2
+    },
+    {
+      "name": "TV",
+      "count": 1
+    },
+    {
+      "name": "异界见闻录",
+      "count": 1
+    },
+    {
+      "name": "渡辺正树",
+      "count": 1
+    },
+    {
+      "name": "打牌",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "福山潤",
+      "count": 1
+    },
+    {
+      "name": "櫻井孝宏",
+      "count": 1
+    },
+    {
+      "name": "サンライズ",
+      "count": 1
+    },
+    {
+      "name": "表",
+      "count": 1
+    },
+    {
+      "name": "OVA",
+      "count": 1
+    },
+    {
+      "name": "BN_Pictures",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

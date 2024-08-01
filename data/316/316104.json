@@ -1,0 +1,97 @@
+{
+  "id": 316104,
+  "name": "アイドールズ！",
+  "name_cn": "Idolls!",
+  "summary": "この物語は、空席祭りなアイドルがキャパ100人のライブハウスを満席するために奮闘する、\r\n10日間の熱くてゆる〜い物語である！",
+  "date": "2021-01-08",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/b3/c9/316104_1yKUQ.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/b3/c9/316104_1yKUQ.jpg"
+  },
+  "eps": 10,
+  "rating": {
+    "rank": 0,
+    "total": 13,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 2,
+      "4": 3,
+      "5": 1,
+      "6": 6,
+      "7": 0,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.2
+  },
+  "tags": [
+    {
+      "name": "2021",
+      "count": 8
+    },
+    {
+      "name": "TV",
+      "count": 6
+    },
+    {
+      "name": "原创",
+      "count": 6
+    },
+    {
+      "name": "SHIN-EI",
+      "count": 5
+    },
+    {
+      "name": "IDOL",
+      "count": 2
+    },
+    {
+      "name": "Idolls",
+      "count": 2
+    },
+    {
+      "name": "2021年1月",
+      "count": 1
+    },
+    {
+      "name": "2021y",
+      "count": 1
+    },
+    {
+      "name": "中野翔太",
+      "count": 1
+    },
+    {
+      "name": "宮本武史",
+      "count": 1
+    },
+    {
+      "name": "SHIN-EI动画",
+      "count": 1
+    },
+    {
+      "name": "3D",
+      "count": 1
+    },
+    {
+      "name": "偶像",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "シンエイ動画",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

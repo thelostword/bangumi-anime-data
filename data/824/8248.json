@@ -1,0 +1,73 @@
+{
+  "id": 8248,
+  "name": "3丁目のタマ うちのタマ知りませんか? 第2期",
+  "name_cn": "猫狗宠物街 第2期",
+  "summary": "猫狗宠物街是Sony Creative Products的人气文具品牌“Tama & Friends”的衍生作品。故事围绕著一个住在三丁目的小男孩冈本武与他饲养的一只花猫圆圆所发生的生活小趣事，以及圆圆与它的朋友妙妙、百吉等宠物每天的历险故事。 ",
+  "date": "1994-04-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/51/d1/8248_GRC0K.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/51/d1/8248_GRC0K.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 0,
+    "total": 18,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 2,
+      "7": 8,
+      "8": 6,
+      "9": 1,
+      "10": 1
+    },
+    "score": 7.5
+  },
+  "tags": [
+    {
+      "name": "童年",
+      "count": 9
+    },
+    {
+      "name": "治愈",
+      "count": 5
+    },
+    {
+      "name": "1994",
+      "count": 3
+    },
+    {
+      "name": "竟然有动画",
+      "count": 2
+    },
+    {
+      "name": "TVB",
+      "count": 2
+    },
+    {
+      "name": "TV",
+      "count": 2
+    },
+    {
+      "name": "经典",
+      "count": 2
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "GroupTac",
+      "count": 1
+    },
+    {
+      "name": "グループ・タック",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

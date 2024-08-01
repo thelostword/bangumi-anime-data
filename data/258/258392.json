@@ -1,0 +1,37 @@
+{
+  "id": 258392,
+  "name": "Caribadix",
+  "name_cn": "",
+  "summary": "",
+  "date": "2017-05-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/61/f6/258392_V06nU.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/61/f6/258392_V06nU.jpg"
+  },
+  "eps": 46,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "空",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

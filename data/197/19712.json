@@ -1,0 +1,105 @@
+{
+  "id": 19712,
+  "name": "ハングリーハートWILD STRIKER",
+  "name_cn": "野驁射手",
+  "summary": "",
+  "date": "2002-09-11",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/51/91/19712_DjiXM.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/51/91/19712_DjiXM.jpg"
+  },
+  "eps": 52,
+  "rating": {
+    "rank": 0,
+    "total": 21,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 3,
+      "7": 11,
+      "8": 5,
+      "9": 1,
+      "10": 0
+    },
+    "score": 7.1
+  },
+  "tags": [
+    {
+      "name": "2002",
+      "count": 6
+    },
+    {
+      "name": "TV",
+      "count": 5
+    },
+    {
+      "name": "叶恭介",
+      "count": 3
+    },
+    {
+      "name": "TVB",
+      "count": 2
+    },
+    {
+      "name": "足球",
+      "count": 2
+    },
+    {
+      "name": "运动",
+      "count": 2
+    },
+    {
+      "name": "漫改",
+      "count": 1
+    },
+    {
+      "name": "嵯峨敏",
+      "count": 1
+    },
+    {
+      "name": "加藤夏希",
+      "count": 1
+    },
+    {
+      "name": "补旧番",
+      "count": 1
+    },
+    {
+      "name": "菅良幸",
+      "count": 1
+    },
+    {
+      "name": "日本アニメーション",
+      "count": 1
+    },
+    {
+      "name": "童年",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "日本动画公司",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "燃",
+      "count": 1
+    },
+    {
+      "name": "鳥海浩輔",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

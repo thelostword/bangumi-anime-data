@@ -1,0 +1,153 @@
+{
+  "id": 185837,
+  "name": "Re:プチから始める異世界生活",
+  "name_cn": "Re：从迷你开始的异世界生活",
+  "summary": "「Re:ゼロから始める異世界生活」第12話本編終了後からはミニアニメ「Re:プチから始める異世界生活」をお送りいたします！",
+  "date": "2016-06-24",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/90/40/185837_mmNwi.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/90/40/185837_mmNwi.jpg"
+  },
+  "eps": 14,
+  "rating": {
+    "rank": 5056,
+    "total": 687,
+    "count": {
+      "1": 0,
+      "2": 2,
+      "3": 9,
+      "4": 18,
+      "5": 80,
+      "6": 245,
+      "7": 244,
+      "8": 63,
+      "9": 14,
+      "10": 12
+    },
+    "score": 6.4
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 180
+    },
+    {
+      "name": "SP",
+      "count": 153
+    },
+    {
+      "name": "轻小说改",
+      "count": 104
+    },
+    {
+      "name": "Re:从零开始异世界生活",
+      "count": 92
+    },
+    {
+      "name": "2016",
+      "count": 86
+    },
+    {
+      "name": "WHITEFOX",
+      "count": 72
+    },
+    {
+      "name": "2016年7月",
+      "count": 67
+    },
+    {
+      "name": "TV",
+      "count": 54
+    },
+    {
+      "name": "轻改",
+      "count": 53
+    },
+    {
+      "name": "搞笑",
+      "count": 48
+    },
+    {
+      "name": "WEB",
+      "count": 40
+    },
+    {
+      "name": "STUDIOPUYUKAI",
+      "count": 22
+    },
+    {
+      "name": "OVA",
+      "count": 17
+    },
+    {
+      "name": "2016年6月",
+      "count": 11
+    },
+    {
+      "name": "异世界",
+      "count": 11
+    },
+    {
+      "name": "小说改",
+      "count": 9
+    },
+    {
+      "name": "2016年",
+      "count": 7
+    },
+    {
+      "name": "芦名みのる",
+      "count": 6
+    },
+    {
+      "name": "短片",
+      "count": 6
+    },
+    {
+      "name": "奇幻",
+      "count": 6
+    },
+    {
+      "name": "Re：从零开始的异世界生活",
+      "count": 5
+    },
+    {
+      "name": "后宫",
+      "count": 5
+    },
+    {
+      "name": "穿越",
+      "count": 5
+    },
+    {
+      "name": "小林裕介",
+      "count": 4
+    },
+    {
+      "name": "STUDIO_PUYUKAI",
+      "count": 4
+    },
+    {
+      "name": "スタジオぷYUKAI",
+      "count": 4
+    },
+    {
+      "name": "小剧场",
+      "count": 4
+    },
+    {
+      "name": "芦名稔",
+      "count": 4
+    },
+    {
+      "name": "2016年4月",
+      "count": 4
+    },
+    {
+      "name": "泡面",
+      "count": 4
+    }
+  ],
+  "locked": false
+}

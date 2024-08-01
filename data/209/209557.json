@@ -1,0 +1,65 @@
+{
+  "id": 209557,
+  "name": "リングにかけろ1",
+  "name_cn": "拳王创世纪1",
+  "summary": "",
+  "date": "2004-10-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/69/ad/209557_px36U.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/69/ad/209557_px36U.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 0,
+    "total": 14,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 3,
+      "6": 6,
+      "7": 1,
+      "8": 2,
+      "9": 0,
+      "10": 1
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "2004",
+      "count": 7
+    },
+    {
+      "name": "车田正美",
+      "count": 6
+    },
+    {
+      "name": "漫画改",
+      "count": 3
+    },
+    {
+      "name": "TV",
+      "count": 3
+    },
+    {
+      "name": "JUMP",
+      "count": 3
+    },
+    {
+      "name": "辣鸡",
+      "count": 2
+    },
+    {
+      "name": "童年",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

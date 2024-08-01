@@ -1,0 +1,73 @@
+{
+  "id": 480437,
+  "name": "SHIBUYA♡HACHI",
+  "name_cn": "涩谷♡八",
+  "summary": "渋谷駅前のシンボル“忠犬ハチ公像”として、\r\nまちを見守り続けて来た“HACHI”が現代の渋谷で動き出す！\r\n\r\nミケ・ナナ・ハリー・クロといった\r\n渋谷に集まる愉快な仲間たちと繰り広げるユル〜く楽しい日常。\r\n\r\n“HACHI”の小さな冒険が、いま始まる！",
+  "date": "2024-04-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/f3/47/480437_9t3wu.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/f3/47/480437_9t3wu.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 0,
+    "total": 9,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 3,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.7
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 8
+    },
+    {
+      "name": "2024年4月",
+      "count": 7
+    },
+    {
+      "name": "日本动画公司",
+      "count": 5
+    },
+    {
+      "name": "原创",
+      "count": 3
+    },
+    {
+      "name": "2024",
+      "count": 3
+    },
+    {
+      "name": "TV",
+      "count": 3
+    },
+    {
+      "name": "神谷純",
+      "count": 3
+    },
+    {
+      "name": "日常",
+      "count": 1
+    },
+    {
+      "name": "anime",
+      "count": 1
+    },
+    {
+      "name": "日本アニメーション",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

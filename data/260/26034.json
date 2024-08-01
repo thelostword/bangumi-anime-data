@@ -1,0 +1,153 @@
+{
+  "id": 26034,
+  "name": "ゾイド -ZOIDS-",
+  "name_cn": "机兽新世纪",
+  "summary": "　　ヘリック共和国とガイロス帝国の戦争が続く惑星Zi（ズィー）を舞台に、バンとフィーネの冒険と金属生命体ゾイドとの交流を描いた物語。バンの少年期を描いた無印とも呼ばれる第1部と、青年期を描いた第2部ガーディアンフォース（GF）編の二部構成となっている。",
+  "date": "1999-09-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/6d/90/26034_Ss17o.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/6d/90/26034_Ss17o.jpg"
+  },
+  "eps": 67,
+  "rating": {
+    "rank": 0,
+    "total": 39,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 2,
+      "6": 8,
+      "7": 15,
+      "8": 10,
+      "9": 3,
+      "10": 1
+    },
+    "score": 7.2
+  },
+  "tags": [
+    {
+      "name": "XEBEC",
+      "count": 18
+    },
+    {
+      "name": "TV",
+      "count": 15
+    },
+    {
+      "name": "童年",
+      "count": 11
+    },
+    {
+      "name": "1999",
+      "count": 10
+    },
+    {
+      "name": "原创",
+      "count": 9
+    },
+    {
+      "name": "經典",
+      "count": 6
+    },
+    {
+      "name": "机战",
+      "count": 5
+    },
+    {
+      "name": "亞洲電視臺",
+      "count": 4
+    },
+    {
+      "name": "索斯机械兽",
+      "count": 4
+    },
+    {
+      "name": "萝卜",
+      "count": 4
+    },
+    {
+      "name": "加戸誉夫",
+      "count": 3
+    },
+    {
+      "name": "隅沢克之",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "1999年9月",
+      "count": 1
+    },
+    {
+      "name": "坂崎忠",
+      "count": 1
+    },
+    {
+      "name": "1999年7月",
+      "count": 1
+    },
+    {
+      "name": "電視",
+      "count": 1
+    },
+    {
+      "name": "robo",
+      "count": 1
+    },
+    {
+      "name": "1999年七月番",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "有空再補1",
+      "count": 1
+    },
+    {
+      "name": "机兽",
+      "count": 1
+    },
+    {
+      "name": "1999年9月4日",
+      "count": 1
+    },
+    {
+      "name": "タカラトミー",
+      "count": 1
+    },
+    {
+      "name": "杉内信介",
+      "count": 1
+    },
+    {
+      "name": "ZOIDS",
+      "count": 1
+    },
+    {
+      "name": "Robert_Etoll",
+      "count": 1
+    },
+    {
+      "name": "ATV",
+      "count": 1
+    },
+    {
+      "name": "岸尾だいすけ",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

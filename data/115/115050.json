@@ -1,0 +1,57 @@
+{
+  "id": 115050,
+  "name": "おしりかじり虫 第3シリーズ",
+  "name_cn": "咬屁屁虫 第三季",
+  "summary": "",
+  "date": "2014-10-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/b2/16/115050_90EhJ.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/b2/16/115050_90EhJ.jpg"
+  },
+  "eps": 10,
+  "rating": {
+    "rank": 0,
+    "total": 12,
+    "count": {
+      "1": 7,
+      "2": 1,
+      "3": 0,
+      "4": 1,
+      "5": 1,
+      "6": 1,
+      "7": 0,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 2.7
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 3
+    },
+    {
+      "name": "2014",
+      "count": 1
+    },
+    {
+      "name": "KINEMACITRUS",
+      "count": 1
+    },
+    {
+      "name": "Face",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "小岛正幸",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

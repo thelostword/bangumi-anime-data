@@ -1,0 +1,97 @@
+{
+  "id": 291844,
+  "name": "Four of a kind 新シリーズ",
+  "name_cn": "四牌士 新系列",
+  "summary": "",
+  "date": "2019-10-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/7b/d0/291844_qvn23.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/7b/d0/291844_qvn23.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 0,
+    "total": 18,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 2,
+      "5": 1,
+      "6": 6,
+      "7": 5,
+      "8": 4,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.4
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 7
+    },
+    {
+      "name": "定格动画",
+      "count": 4
+    },
+    {
+      "name": "搞笑",
+      "count": 3
+    },
+    {
+      "name": "2019",
+      "count": 3
+    },
+    {
+      "name": "战队",
+      "count": 2
+    },
+    {
+      "name": "原创",
+      "count": 2
+    },
+    {
+      "name": "2019年10月",
+      "count": 1
+    },
+    {
+      "name": "2019秋",
+      "count": 1
+    },
+    {
+      "name": "8+",
+      "count": 1
+    },
+    {
+      "name": "飯塚貴士",
+      "count": 1
+    },
+    {
+      "name": "ILCA",
+      "count": 1
+    },
+    {
+      "name": "特摄",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "短片",
+      "count": 1
+    },
+    {
+      "name": "熊本浩武",
+      "count": 1
+    },
+    {
+      "name": "福士誠治",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

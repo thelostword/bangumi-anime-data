@@ -1,0 +1,121 @@
+{
+  "id": 127775,
+  "name": "惑星ロボ ダンガードA 宇宙大海戦",
+  "name_cn": "惑星机器人丹加德A 宇宙大海战",
+  "summary": "劇場版の第2作だがオリジナルではなく、TV版の第44話と第45話を再編集してつなぎ劇場用にブローアップした物。",
+  "date": "1978-03-18",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/bf/7d/127775_Qqw7C.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/bf/7d/127775_Qqw7C.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 6,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 3,
+      "7": 2,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.2
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 5
+    },
+    {
+      "name": "1978",
+      "count": 3
+    },
+    {
+      "name": "松本零士",
+      "count": 2
+    },
+    {
+      "name": "明比正行",
+      "count": 2
+    },
+    {
+      "name": "東映アニメーション",
+      "count": 2
+    },
+    {
+      "name": "田村多津夫",
+      "count": 2
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1
+    },
+    {
+      "name": "1978年一月番",
+      "count": 1
+    },
+    {
+      "name": "1978年3月",
+      "count": 1
+    },
+    {
+      "name": "柴田秀勝",
+      "count": 1
+    },
+    {
+      "name": "-1980",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "惑星机器人",
+      "count": 1
+    },
+    {
+      "name": "星辰大海",
+      "count": 1
+    },
+    {
+      "name": "东映",
+      "count": 1
+    },
+    {
+      "name": "生肉",
+      "count": 1
+    },
+    {
+      "name": "神谷明",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "萝卜",
+      "count": 1
+    },
+    {
+      "name": "robo",
+      "count": 1
+    },
+    {
+      "name": "漫画改",
+      "count": 1
+    },
+    {
+      "name": "1978年",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

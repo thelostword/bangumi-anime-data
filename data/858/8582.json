@@ -1,0 +1,153 @@
+{
+  "id": 8582,
+  "name": "獣兵衛忍風帖",
+  "name_cn": "兽兵卫忍风帖",
+  "summary": "日本德川幕府时期，一个充满阴谋和欺骗的危险时代，兽兵卫是一个武艺高强的流浪剑客，他以充当赏金杀手为生，但是一次委托将他卷入推翻幕府的可怕阴谋中......",
+  "date": "1993-06-05",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/02/28/8582_cCtWN.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/02/28/8582_cCtWN.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 1070,
+    "total": 637,
+    "count": {
+      "1": 0,
+      "2": 1,
+      "3": 2,
+      "4": 6,
+      "5": 15,
+      "6": 67,
+      "7": 227,
+      "8": 254,
+      "9": 42,
+      "10": 23
+    },
+    "score": 7.4
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 246
+    },
+    {
+      "name": "川尻善昭",
+      "count": 238
+    },
+    {
+      "name": "MADHouse",
+      "count": 180
+    },
+    {
+      "name": "1993",
+      "count": 131
+    },
+    {
+      "name": "原创",
+      "count": 98
+    },
+    {
+      "name": "暴力",
+      "count": 85
+    },
+    {
+      "name": "时代剧",
+      "count": 37
+    },
+    {
+      "name": "90年代",
+      "count": 37
+    },
+    {
+      "name": "忍者",
+      "count": 27
+    },
+    {
+      "name": "和田薫",
+      "count": 23
+    },
+    {
+      "name": "天野喜孝",
+      "count": 21
+    },
+    {
+      "name": "战斗",
+      "count": 17
+    },
+    {
+      "name": "补番计划",
+      "count": 11
+    },
+    {
+      "name": "动画电影",
+      "count": 8
+    },
+    {
+      "name": "映画",
+      "count": 8
+    },
+    {
+      "name": "电影",
+      "count": 7
+    },
+    {
+      "name": "山寺宏一",
+      "count": 6
+    },
+    {
+      "name": "1993年",
+      "count": 6
+    },
+    {
+      "name": "猎奇",
+      "count": 5
+    },
+    {
+      "name": "血腥",
+      "count": 4
+    },
+    {
+      "name": "1993年6月",
+      "count": 4
+    },
+    {
+      "name": "日本",
+      "count": 4
+    },
+    {
+      "name": "1990s",
+      "count": 3
+    },
+    {
+      "name": "兽兵卫忍风帖",
+      "count": 3
+    },
+    {
+      "name": "アニメイトフィルム",
+      "count": 3
+    },
+    {
+      "name": "作画",
+      "count": 3
+    },
+    {
+      "name": "奇幻",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 3
+    },
+    {
+      "name": "90s",
+      "count": 3
+    },
+    {
+      "name": "AnimateFilm",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

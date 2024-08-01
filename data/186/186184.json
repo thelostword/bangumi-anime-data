@@ -1,0 +1,153 @@
+{
+  "id": 186184,
+  "name": "Tales of Zestiria the X 2期",
+  "name_cn": "情热传说 the X 第二季",
+  "summary": "",
+  "date": "2017-01-08",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/95/31/186184_z265p.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/95/31/186184_z265p.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 6508,
+    "total": 1169,
+    "count": {
+      "1": 10,
+      "2": 6,
+      "3": 22,
+      "4": 69,
+      "5": 176,
+      "6": 446,
+      "7": 328,
+      "8": 87,
+      "9": 11,
+      "10": 14
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "游戏改",
+      "count": 295
+    },
+    {
+      "name": "ufotable",
+      "count": 231
+    },
+    {
+      "name": "2017年1月",
+      "count": 228
+    },
+    {
+      "name": "TV",
+      "count": 149
+    },
+    {
+      "name": "情热传说",
+      "count": 128
+    },
+    {
+      "name": "奇幻",
+      "count": 108
+    },
+    {
+      "name": "2017",
+      "count": 75
+    },
+    {
+      "name": "第二季",
+      "count": 73
+    },
+    {
+      "name": "传说系列",
+      "count": 55
+    },
+    {
+      "name": "热情传说X",
+      "count": 48
+    },
+    {
+      "name": "基情",
+      "count": 44
+    },
+    {
+      "name": "战斗",
+      "count": 35
+    },
+    {
+      "name": "魔幻",
+      "count": 35
+    },
+    {
+      "name": "经费",
+      "count": 33
+    },
+    {
+      "name": "木村良平",
+      "count": 18
+    },
+    {
+      "name": "续期",
+      "count": 15
+    },
+    {
+      "name": "外崎春雄",
+      "count": 13
+    },
+    {
+      "name": "冒险",
+      "count": 10
+    },
+    {
+      "name": "续作",
+      "count": 8
+    },
+    {
+      "name": "百合",
+      "count": 7
+    },
+    {
+      "name": "2017年",
+      "count": 7
+    },
+    {
+      "name": "小松未可子",
+      "count": 6
+    },
+    {
+      "name": "基",
+      "count": 4
+    },
+    {
+      "name": "逢坂良太",
+      "count": 4
+    },
+    {
+      "name": "近藤光",
+      "count": 4
+    },
+    {
+      "name": "异世界",
+      "count": 3
+    },
+    {
+      "name": "热血",
+      "count": 3
+    },
+    {
+      "name": "椎名豪",
+      "count": 3
+    },
+    {
+      "name": "茅野爱衣",
+      "count": 3
+    },
+    {
+      "name": "茅野愛衣",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

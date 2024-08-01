@@ -1,0 +1,109 @@
+{
+  "id": 80768,
+  "name": "白菜",
+  "name_cn": "白菜",
+  "summary": "───入学式から数日。とあるトラブルに巻き込まれ、体操着姿になっている睦梨白菜（むろなししろな）はクラスメート達に好奇の視線を向けられていた。いたたまれなさそうな白菜に一人の少女が声をかけ───。",
+  "date": "2013-07-15",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/52/58/80768_ZGBa1.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/52/58/80768_ZGBa1.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 26,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 4,
+      "6": 10,
+      "7": 8,
+      "8": 2,
+      "9": 0,
+      "10": 1
+    },
+    "score": 6.4
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 12
+    },
+    {
+      "name": "同人作",
+      "count": 7
+    },
+    {
+      "name": "ろん",
+      "count": 5
+    },
+    {
+      "name": "2013年7月",
+      "count": 4
+    },
+    {
+      "name": "白菜",
+      "count": 4
+    },
+    {
+      "name": "NICONICO唱見",
+      "count": 4
+    },
+    {
+      "name": "2013",
+      "count": 4
+    },
+    {
+      "name": "WEB",
+      "count": 3
+    },
+    {
+      "name": "LON爷",
+      "count": 3
+    },
+    {
+      "name": "泡面",
+      "count": 2
+    },
+    {
+      "name": "TV",
+      "count": 2
+    },
+    {
+      "name": "ONA",
+      "count": 2
+    },
+    {
+      "name": "短片",
+      "count": 2
+    },
+    {
+      "name": "没见着下载",
+      "count": 1
+    },
+    {
+      "name": "2009-2013",
+      "count": 1
+    },
+    {
+      "name": "有生之年",
+      "count": 1
+    },
+    {
+      "name": "星期日",
+      "count": 1
+    },
+    {
+      "name": "不評分",
+      "count": 1
+    },
+    {
+      "name": "同人",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

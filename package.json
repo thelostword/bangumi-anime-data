@@ -1,0 +1,31 @@
+{
+  "name": "bangumi-anime-data",
+  "module": "./data.json",
+  "type": "module",
+  "types": "./data.d.ts",
+  "exports": {
+    ".": {
+      "types": "./data.d.ts",
+      "import": "./data.json",
+      "require": "./data.json"
+    },
+    "./data-by-year.json": {
+      "types": "./data-by-year.d.ts",
+      "import": "./data-by-year.json",
+      "require": "./data-by-year.json"
+    }
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "bangumi-data": "./bangumi-data",
+    "cbor": "^9.0.2",
+    "cheerio": "^1.0.0-rc.12",
+    "date-fns": "^3.6.0",
+    "ramda": "^0.30.1"
+  }
+}

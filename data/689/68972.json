@@ -1,0 +1,141 @@
+{
+  "id": 68972,
+  "name": ".hack//Integration",
+  "name_cn": "",
+  "summary": "“SIGN”の28話「Unison」（SIGN単体のDVDには未収録）、黄昏の腕輪伝説の番外編、Liminality全話が収録されたDVDボックス",
+  "date": "2002-06-20",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c6/16/68972_1ZU46.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c6/16/68972_1ZU46.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 50,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 3,
+      "5": 6,
+      "6": 16,
+      "7": 16,
+      "8": 4,
+      "9": 3,
+      "10": 1
+    },
+    "score": 6.4
+  },
+  "tags": [
+    {
+      "name": ".hack",
+      "count": 15
+    },
+    {
+      "name": "OVA",
+      "count": 13
+    },
+    {
+      "name": "2002",
+      "count": 11
+    },
+    {
+      "name": ".hack系列",
+      "count": 7
+    },
+    {
+      "name": "BEETRAIN",
+      "count": 6
+    },
+    {
+      "name": "科幻",
+      "count": 4
+    },
+    {
+      "name": "网游",
+      "count": 4
+    },
+    {
+      "name": "游戏",
+      "count": 3
+    },
+    {
+      "name": "音乐",
+      "count": 2
+    },
+    {
+      "name": "不错",
+      "count": 2
+    },
+    {
+      "name": "喵帕斯记录~",
+      "count": 1
+    },
+    {
+      "name": "斎賀みつき",
+      "count": 1
+    },
+    {
+      "name": "OVA-01",
+      "count": 1
+    },
+    {
+      "name": "s1",
+      "count": 1
+    },
+    {
+      "name": "ovaoad",
+      "count": 1
+    },
+    {
+      "name": "OVA「续」",
+      "count": 1
+    },
+    {
+      "name": "虚拟",
+      "count": 1
+    },
+    {
+      "name": "伊藤和典",
+      "count": 1
+    },
+    {
+      "name": "游戏改",
+      "count": 1
+    },
+    {
+      "name": "原创",
+      "count": 1
+    },
+    {
+      "name": "SF",
+      "count": 1
+    },
+    {
+      "name": "剧场版",
+      "count": 1
+    },
+    {
+      "name": "真下耕一",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "坂本真綾",
+      "count": 1
+    },
+    {
+      "name": "梶浦由记",
+      "count": 1
+    },
+    {
+      "name": "喜欢",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

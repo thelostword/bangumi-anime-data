@@ -1,0 +1,153 @@
+{
+  "id": 54277,
+  "name": "機動戦士ガンダムSEED DESTINY HDリマスター",
+  "name_cn": "机动战士高达SEED DESTINY HD重制版",
+  "summary": "",
+  "date": "2013-04-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/92/4e/54277_3k11E.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/92/4e/54277_3k11E.jpg"
+  },
+  "eps": 50,
+  "rating": {
+    "rank": 4469,
+    "total": 1263,
+    "count": {
+      "1": 16,
+      "2": 12,
+      "3": 25,
+      "4": 42,
+      "5": 122,
+      "6": 324,
+      "7": 446,
+      "8": 184,
+      "9": 41,
+      "10": 51
+    },
+    "score": 6.6
+  },
+  "tags": [
+    {
+      "name": "高达",
+      "count": 307
+    },
+    {
+      "name": "SUNRISE",
+      "count": 300
+    },
+    {
+      "name": "GUNDAM",
+      "count": 184
+    },
+    {
+      "name": "TV",
+      "count": 181
+    },
+    {
+      "name": "2013年4月",
+      "count": 134
+    },
+    {
+      "name": "机战",
+      "count": 118
+    },
+    {
+      "name": "原创",
+      "count": 117
+    },
+    {
+      "name": "萝卜",
+      "count": 115
+    },
+    {
+      "name": "2013",
+      "count": 109
+    },
+    {
+      "name": "种命万能",
+      "count": 94
+    },
+    {
+      "name": "再战十年",
+      "count": 67
+    },
+    {
+      "name": "福田己津央",
+      "count": 63
+    },
+    {
+      "name": "DESTINY",
+      "count": 52
+    },
+    {
+      "name": "废鸟",
+      "count": 31
+    },
+    {
+      "name": "科幻",
+      "count": 28
+    },
+    {
+      "name": "石田殿",
+      "count": 12
+    },
+    {
+      "name": "铃村健一",
+      "count": 11
+    },
+    {
+      "name": "战争",
+      "count": 11
+    },
+    {
+      "name": "平井久司",
+      "count": 10
+    },
+    {
+      "name": "重制版",
+      "count": 8
+    },
+    {
+      "name": "石田彰",
+      "count": 7
+    },
+    {
+      "name": "战斗",
+      "count": 6
+    },
+    {
+      "name": "両澤千晶",
+      "count": 6
+    },
+    {
+      "name": "2004",
+      "count": 6
+    },
+    {
+      "name": "聲優",
+      "count": 5
+    },
+    {
+      "name": "機動戦士ガンダムSEED",
+      "count": 5
+    },
+    {
+      "name": "保志总一朗",
+      "count": 5
+    },
+    {
+      "name": "2013年",
+      "count": 5
+    },
+    {
+      "name": "重制",
+      "count": 4
+    },
+    {
+      "name": "种命",
+      "count": 4
+    }
+  ],
+  "locked": false
+}

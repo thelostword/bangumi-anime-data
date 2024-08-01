@@ -1,0 +1,153 @@
+{
+  "id": 1877,
+  "name": "スクールランブル 一学期補習",
+  "name_cn": "校园迷糊大王 一学期补习",
+  "summary": "故事讲述的是茶道部全体赴温泉疗养，忽悠忽悠的泡澡放松心情，不愿错过良机的众男生尾随而至……",
+  "date": "2005-12-22",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/f3/1b/1877_phriw.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/f3/1b/1877_phriw.jpg"
+  },
+  "eps": 2,
+  "rating": {
+    "rank": 676,
+    "total": 1226,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 1,
+      "4": 3,
+      "5": 25,
+      "6": 118,
+      "7": 370,
+      "8": 522,
+      "9": 127,
+      "10": 59
+    },
+    "score": 7.6
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 297
+    },
+    {
+      "name": "校园迷糊大王",
+      "count": 236
+    },
+    {
+      "name": "校园",
+      "count": 169
+    },
+    {
+      "name": "搞笑",
+      "count": 144
+    },
+    {
+      "name": "2005",
+      "count": 130
+    },
+    {
+      "name": "School_Rumble",
+      "count": 95
+    },
+    {
+      "name": "喜剧",
+      "count": 88
+    },
+    {
+      "name": "漫画改",
+      "count": 59
+    },
+    {
+      "name": "StudioComet",
+      "count": 46
+    },
+    {
+      "name": "能登麻美子",
+      "count": 46
+    },
+    {
+      "name": "恋爱",
+      "count": 42
+    },
+    {
+      "name": "欢乐",
+      "count": 38
+    },
+    {
+      "name": "爆笑",
+      "count": 37
+    },
+    {
+      "name": "漫改",
+      "count": 34
+    },
+    {
+      "name": "高松信司",
+      "count": 17
+    },
+    {
+      "name": "喧嚣学院OVA",
+      "count": 17
+    },
+    {
+      "name": "日常",
+      "count": 15
+    },
+    {
+      "name": "堀江由衣",
+      "count": 13
+    },
+    {
+      "name": "傲娇",
+      "count": 11
+    },
+    {
+      "name": "笨蛋",
+      "count": 9
+    },
+    {
+      "name": "小林尽",
+      "count": 8
+    },
+    {
+      "name": "小清水亚美",
+      "count": 8
+    },
+    {
+      "name": "2005年12月",
+      "count": 7
+    },
+    {
+      "name": "2005年",
+      "count": 6
+    },
+    {
+      "name": "スタジオコメット",
+      "count": 5
+    },
+    {
+      "name": "日本",
+      "count": 5
+    },
+    {
+      "name": "SchoolRumble",
+      "count": 4
+    },
+    {
+      "name": "动画",
+      "count": 4
+    },
+    {
+      "name": "恋爱喜剧",
+      "count": 4
+    },
+    {
+      "name": "青春",
+      "count": 4
+    }
+  ],
+  "locked": false
+}

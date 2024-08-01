@@ -1,0 +1,153 @@
+{
+  "id": 234349,
+  "name": "衛宮さんちの今日のごはん",
+  "name_cn": "卫宫家今天的饭",
+  "summary": "Fate×料理所交织而出的美味并温柔的世界——\r\n\r\n那里是随处都可见的稍稍有些热闹的餐桌上的光景。\r\n春夏秋冬、在卫宫家每天都能享受到美味的料理。\r\n\r\n今天做些什么呢",
+  "date": "2017-12-31",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/bb/27/234349_7G58b.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/bb/27/234349_7G58b.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 956,
+    "total": 6032,
+    "count": {
+      "1": 8,
+      "2": 3,
+      "3": 4,
+      "4": 17,
+      "5": 118,
+      "6": 630,
+      "7": 2195,
+      "8": 2502,
+      "9": 394,
+      "10": 161
+    },
+    "score": 7.5
+  },
+  "tags": [
+    {
+      "name": "ufotable",
+      "count": 1426
+    },
+    {
+      "name": "Fate",
+      "count": 1292
+    },
+    {
+      "name": "美食",
+      "count": 1255
+    },
+    {
+      "name": "日常",
+      "count": 1206
+    },
+    {
+      "name": "Type-Moon",
+      "count": 954
+    },
+    {
+      "name": "漫画改",
+      "count": 767
+    },
+    {
+      "name": "卫宫家今天的饭",
+      "count": 441
+    },
+    {
+      "name": "WEB",
+      "count": 389
+    },
+    {
+      "name": "2017",
+      "count": 373
+    },
+    {
+      "name": "2017年12月",
+      "count": 355
+    },
+    {
+      "name": "TV",
+      "count": 307
+    },
+    {
+      "name": "治愈",
+      "count": 307
+    },
+    {
+      "name": "漫改",
+      "count": 227
+    },
+    {
+      "name": "2018年1月",
+      "count": 166
+    },
+    {
+      "name": "2018",
+      "count": 91
+    },
+    {
+      "name": "佐藤哲人",
+      "count": 47
+    },
+    {
+      "name": "泡面番",
+      "count": 41
+    },
+    {
+      "name": "三浦貴博",
+      "count": 34
+    },
+    {
+      "name": "OVA",
+      "count": 22
+    },
+    {
+      "name": "三浦贵博",
+      "count": 20
+    },
+    {
+      "name": "萌",
+      "count": 11
+    },
+    {
+      "name": "日本动画",
+      "count": 10
+    },
+    {
+      "name": "日本",
+      "count": 10
+    },
+    {
+      "name": "2017年",
+      "count": 10
+    },
+    {
+      "name": "奇幻",
+      "count": 9
+    },
+    {
+      "name": "2018年",
+      "count": 9
+    },
+    {
+      "name": "Webアニメ",
+      "count": 8
+    },
+    {
+      "name": "近藤光",
+      "count": 8
+    },
+    {
+      "name": "植田佳奈",
+      "count": 7
+    },
+    {
+      "name": "搞笑",
+      "count": 7
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,153 @@
+{
+  "id": 110049,
+  "name": "進撃の巨人 悔いなき選択 OAD",
+  "name_cn": "进击的巨人 无悔的选择 OAD",
+  "summary": "外传「进击的巨人 无悔的选择」OAD化决定！\r\n「进击的巨人」单行本第15、16卷同捆OAD。\r\n讲述了利威尔与调查兵团的团长艾尔文两人相遇的故事。",
+  "date": "2014-12-09",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/8e/9b/110049_bV5g9.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/8e/9b/110049_bV5g9.jpg"
+  },
+  "eps": 2,
+  "rating": {
+    "rank": 1075,
+    "total": 3331,
+    "count": {
+      "1": 12,
+      "2": 2,
+      "3": 3,
+      "4": 20,
+      "5": 77,
+      "6": 386,
+      "7": 1318,
+      "8": 1132,
+      "9": 205,
+      "10": 176
+    },
+    "score": 7.4
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 903
+    },
+    {
+      "name": "进击的巨人",
+      "count": 772
+    },
+    {
+      "name": "WITSTUDIO",
+      "count": 598
+    },
+    {
+      "name": "OAD",
+      "count": 388
+    },
+    {
+      "name": "漫画改",
+      "count": 384
+    },
+    {
+      "name": "2014",
+      "count": 344
+    },
+    {
+      "name": "荒木哲郎",
+      "count": 257
+    },
+    {
+      "name": "热血",
+      "count": 234
+    },
+    {
+      "name": "2014年12月",
+      "count": 212
+    },
+    {
+      "name": "战斗",
+      "count": 205
+    },
+    {
+      "name": "泽野弘之",
+      "count": 202
+    },
+    {
+      "name": "漫改",
+      "count": 168
+    },
+    {
+      "name": "兵長",
+      "count": 147
+    },
+    {
+      "name": "神谷浩史",
+      "count": 135
+    },
+    {
+      "name": "无悔的选择",
+      "count": 57
+    },
+    {
+      "name": "奇幻",
+      "count": 44
+    },
+    {
+      "name": "小林靖子",
+      "count": 20
+    },
+    {
+      "name": "WIT_STUDIO",
+      "count": 18
+    },
+    {
+      "name": "澤野弘之",
+      "count": 12
+    },
+    {
+      "name": "番外",
+      "count": 12
+    },
+    {
+      "name": "2014年",
+      "count": 11
+    },
+    {
+      "name": "日本",
+      "count": 9
+    },
+    {
+      "name": "OVA&OAD",
+      "count": 8
+    },
+    {
+      "name": "Production.I.G",
+      "count": 8
+    },
+    {
+      "name": "猎奇",
+      "count": 7
+    },
+    {
+      "name": "日本动画",
+      "count": 7
+    },
+    {
+      "name": "諫山創",
+      "count": 7
+    },
+    {
+      "name": "進撃の巨人",
+      "count": 7
+    },
+    {
+      "name": "兵长",
+      "count": 7
+    },
+    {
+      "name": "TV",
+      "count": 6
+    }
+  ],
+  "locked": false
+}

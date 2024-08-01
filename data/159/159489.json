@@ -1,0 +1,129 @@
+{
+  "id": 159489,
+  "name": "映画 妖怪ウォッチ 空飛ぶクジラとダブル世界の大冒険だニャン！",
+  "name_cn": "妖怪手表 飞翔鲸鱼与两个世界的冒险喵",
+  "summary": "",
+  "date": "2016-12-17",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/d0/4d/159489_ThbQH.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/d0/4d/159489_ThbQH.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 11,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 4,
+      "6": 3,
+      "7": 2,
+      "8": 2,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.2
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 6
+    },
+    {
+      "name": "2016",
+      "count": 5
+    },
+    {
+      "name": "加藤陽一",
+      "count": 2
+    },
+    {
+      "name": "小桜エツコ",
+      "count": 2
+    },
+    {
+      "name": "OLM",
+      "count": 2
+    },
+    {
+      "name": "日野晃博",
+      "count": 1
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1
+    },
+    {
+      "name": "2024",
+      "count": 1
+    },
+    {
+      "name": "2016年12月",
+      "count": 1
+    },
+    {
+      "name": "ウシロシンジ",
+      "count": 1
+    },
+    {
+      "name": "2016年十月番",
+      "count": 1
+    },
+    {
+      "name": "2016年",
+      "count": 1
+    },
+    {
+      "name": "续作",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "3D",
+      "count": 1
+    },
+    {
+      "name": "游戏改编",
+      "count": 1
+    },
+    {
+      "name": "日本",
+      "count": 1
+    },
+    {
+      "name": "改编",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "関智一",
+      "count": 1
+    },
+    {
+      "name": "真人",
+      "count": 1
+    },
+    {
+      "name": "戸松遥",
+      "count": 1
+    },
+    {
+      "name": "游戏改",
+      "count": 1
+    },
+    {
+      "name": "伪",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

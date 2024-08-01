@@ -1,0 +1,153 @@
+{
+  "id": 88041,
+  "name": "SOUL EATER NOT!",
+  "name_cn": "噬魂师NOT！",
+  "summary": "故事讲述了“恋上恋爱的14岁少女”春鸟鸫、可爱的天然呆少女多多音美美、傲娇公主阿妮亚·赫本在死神武器工匠专科学校里热闹刺激的校园生活。",
+  "date": "2014-04-08",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/09/dc/88041_9HFsM.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/09/dc/88041_9HFsM.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 6781,
+    "total": 849,
+    "count": {
+      "1": 7,
+      "2": 2,
+      "3": 13,
+      "4": 55,
+      "5": 143,
+      "6": 371,
+      "7": 187,
+      "8": 55,
+      "9": 7,
+      "10": 9
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "BONES",
+      "count": 233
+    },
+    {
+      "name": "2014年4月",
+      "count": 199
+    },
+    {
+      "name": "百合",
+      "count": 195
+    },
+    {
+      "name": "噬魂师NOT",
+      "count": 119
+    },
+    {
+      "name": "漫画改",
+      "count": 108
+    },
+    {
+      "name": "TV",
+      "count": 102
+    },
+    {
+      "name": "2014",
+      "count": 69
+    },
+    {
+      "name": "漫改",
+      "count": 51
+    },
+    {
+      "name": "悠木碧",
+      "count": 45
+    },
+    {
+      "name": "早见沙织",
+      "count": 44
+    },
+    {
+      "name": "校园",
+      "count": 43
+    },
+    {
+      "name": "souleater",
+      "count": 36
+    },
+    {
+      "name": "热血",
+      "count": 25
+    },
+    {
+      "name": "桥本昌和",
+      "count": 16
+    },
+    {
+      "name": "噬魂师",
+      "count": 12
+    },
+    {
+      "name": "战斗",
+      "count": 11
+    },
+    {
+      "name": "搞笑",
+      "count": 10
+    },
+    {
+      "name": "日常",
+      "count": 10
+    },
+    {
+      "name": "轻百合",
+      "count": 8
+    },
+    {
+      "name": "2014年",
+      "count": 8
+    },
+    {
+      "name": "奇幻",
+      "count": 7
+    },
+    {
+      "name": "橋本昌和",
+      "count": 7
+    },
+    {
+      "name": "日本",
+      "count": 4
+    },
+    {
+      "name": "早見沙織",
+      "count": 3
+    },
+    {
+      "name": "2014.04",
+      "count": 3
+    },
+    {
+      "name": "林友树",
+      "count": 3
+    },
+    {
+      "name": "小见川千明",
+      "count": 3
+    },
+    {
+      "name": "橘麻美",
+      "count": 3
+    },
+    {
+      "name": "小松未可子",
+      "count": 3
+    },
+    {
+      "name": "骨头社",
+      "count": 3
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,77 @@
+{
+  "id": 161681,
+  "name": "忍たま乱太郎 3期",
+  "name_cn": "忍者乱太郎 3期",
+  "summary": "",
+  "date": "1995-10-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/be/8c/161681_nBtcy.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/be/8c/161681_nBtcy.jpg"
+  },
+  "eps": 120,
+  "rating": {
+    "rank": 0,
+    "total": 5,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 1,
+      "7": 3,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 7.4
+  },
+  "tags": [
+    {
+      "name": "1995",
+      "count": 3
+    },
+    {
+      "name": "亜細亜堂",
+      "count": 2
+    },
+    {
+      "name": "华视",
+      "count": 1
+    },
+    {
+      "name": "芝山努",
+      "count": 1
+    },
+    {
+      "name": "河内日出夫",
+      "count": 1
+    },
+    {
+      "name": "高山みなみ",
+      "count": 1
+    },
+    {
+      "name": "1996",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "田中真弓",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

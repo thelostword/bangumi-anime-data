@@ -1,0 +1,117 @@
+{
+  "id": 8247,
+  "name": "3丁目のタマ うちのタマ知りませんか?",
+  "name_cn": "猫狗宠物街",
+  "summary": "故事圍繞著一個住在三丁目的小男孩岡本武與他飼養的一隻花貓斑仔所發生的生活小趣事，以及斑仔與牠的朋友麼麼、波子等寵物每天的歷險故事。",
+  "date": "1993-07-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/31/5f/8247_xTJXO.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/31/5f/8247_xTJXO.jpg"
+  },
+  "eps": 9,
+  "rating": {
+    "rank": 0,
+    "total": 24,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 5,
+      "7": 6,
+      "8": 10,
+      "9": 0,
+      "10": 2
+    },
+    "score": 7.4
+  },
+  "tags": [
+    {
+      "name": "TVB",
+      "count": 9
+    },
+    {
+      "name": "童年",
+      "count": 6
+    },
+    {
+      "name": "经典",
+      "count": 6
+    },
+    {
+      "name": "温馨",
+      "count": 6
+    },
+    {
+      "name": "TV",
+      "count": 5
+    },
+    {
+      "name": "1993",
+      "count": 5
+    },
+    {
+      "name": "狗",
+      "count": 2
+    },
+    {
+      "name": "グループ・タック",
+      "count": 2
+    },
+    {
+      "name": "猫狗宠物街",
+      "count": 2
+    },
+    {
+      "name": "貓",
+      "count": 2
+    },
+    {
+      "name": "治愈",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "3丁目のタマ",
+      "count": 1
+    },
+    {
+      "name": "赛璐珞",
+      "count": 1
+    },
+    {
+      "name": "7JA",
+      "count": 1
+    },
+    {
+      "name": "动",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "GroupTac",
+      "count": 1
+    },
+    {
+      "name": "90s",
+      "count": 1
+    },
+    {
+      "name": "動畫",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

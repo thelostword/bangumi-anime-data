@@ -1,0 +1,153 @@
+{
+  "id": 437,
+  "name": "ドラえもん のび太の大魔境",
+  "name_cn": "哆啦A梦：大雄的大魔境",
+  "summary": "《大雄与大魔境》是《哆啦A梦》大长篇漫画的第三集，也是同名电影的原著漫画。故事背景设定是现代的非洲一处内地。为了解开当地巨石像的秘密，哆啦A梦一群人展开一段精采的冒险故事。\r\n\r\n因剧情设定里胖虎的要求，此作四次元口袋里以往对情节帮助极为重要的道具并未随行携出，故登场的道具也极少。众人凭借个人的力量与智慧，挑战不为人知的谜题。",
+  "date": "1982-03-13",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/fc/cb/437_PJP3z.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/fc/cb/437_PJP3z.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 2088,
+    "total": 461,
+    "count": {
+      "1": 0,
+      "2": 1,
+      "3": 1,
+      "4": 5,
+      "5": 14,
+      "6": 80,
+      "7": 219,
+      "8": 117,
+      "9": 10,
+      "10": 14
+    },
+    "score": 7.1
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 155
+    },
+    {
+      "name": "哆啦A梦",
+      "count": 121
+    },
+    {
+      "name": "1982",
+      "count": 65
+    },
+    {
+      "name": "童年",
+      "count": 46
+    },
+    {
+      "name": "藤子・F・不二雄",
+      "count": 35
+    },
+    {
+      "name": "漫画改",
+      "count": 32
+    },
+    {
+      "name": "SHIN-EI",
+      "count": 27
+    },
+    {
+      "name": "シンエイ動画",
+      "count": 17
+    },
+    {
+      "name": "科幻",
+      "count": 16
+    },
+    {
+      "name": "日本动画",
+      "count": 8
+    },
+    {
+      "name": "西牧秀夫",
+      "count": 7
+    },
+    {
+      "name": "ドラえもん",
+      "count": 7
+    },
+    {
+      "name": "漫改",
+      "count": 7
+    },
+    {
+      "name": "冒险",
+      "count": 6
+    },
+    {
+      "name": "动画电影",
+      "count": 5
+    },
+    {
+      "name": "动画",
+      "count": 4
+    },
+    {
+      "name": "搞笑",
+      "count": 3
+    },
+    {
+      "name": "劇場版",
+      "count": 3
+    },
+    {
+      "name": "1982年3月",
+      "count": 3
+    },
+    {
+      "name": "日本",
+      "count": 3
+    },
+    {
+      "name": "奇幻",
+      "count": 3
+    },
+    {
+      "name": "アニメ映画",
+      "count": 2
+    },
+    {
+      "name": "哆啦A夢",
+      "count": 2
+    },
+    {
+      "name": "童年系列",
+      "count": 2
+    },
+    {
+      "name": "1982年",
+      "count": 2
+    },
+    {
+      "name": "Shin-EiAnimation",
+      "count": 2
+    },
+    {
+      "name": "补标",
+      "count": 2
+    },
+    {
+      "name": "movie",
+      "count": 2
+    },
+    {
+      "name": "SF",
+      "count": 2
+    },
+    {
+      "name": "电影",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

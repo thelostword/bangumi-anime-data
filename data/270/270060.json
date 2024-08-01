@@ -1,0 +1,153 @@
+{
+  "id": 270060,
+  "name": "この音とまれ！第2クール",
+  "name_cn": "一弦定音！第2部分",
+  "summary": "即将废社的时濑高中筝曲社。\r\n来到只身一人的社长面前的是不良少年和他的朋友们，以及古筝的天才少女。\r\n各自各自的古筝之乐所编奏的青春学园物语——",
+  "date": "2019-10-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/66/bf/270060_kZvVN.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/66/bf/270060_kZvVN.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 2225,
+    "total": 261,
+    "count": {
+      "1": 2,
+      "2": 1,
+      "3": 1,
+      "4": 2,
+      "5": 16,
+      "6": 55,
+      "7": 87,
+      "8": 68,
+      "9": 23,
+      "10": 6
+    },
+    "score": 7.1
+  },
+  "tags": [
+    {
+      "name": "2019年10月",
+      "count": 75
+    },
+    {
+      "name": "漫画改",
+      "count": 69
+    },
+    {
+      "name": "音乐",
+      "count": 63
+    },
+    {
+      "name": "TV",
+      "count": 49
+    },
+    {
+      "name": "PlatinumVision",
+      "count": 43
+    },
+    {
+      "name": "2019",
+      "count": 42
+    },
+    {
+      "name": "校园",
+      "count": 41
+    },
+    {
+      "name": "恋爱",
+      "count": 37
+    },
+    {
+      "name": "青春",
+      "count": 36
+    },
+    {
+      "name": "漫改",
+      "count": 23
+    },
+    {
+      "name": "热血",
+      "count": 19
+    },
+    {
+      "name": "一弦定音！",
+      "count": 13
+    },
+    {
+      "name": "筝",
+      "count": 11
+    },
+    {
+      "name": "第二部分",
+      "count": 5
+    },
+    {
+      "name": "续作",
+      "count": 4
+    },
+    {
+      "name": "2019年",
+      "count": 3
+    },
+    {
+      "name": "水野竜馬",
+      "count": 3
+    },
+    {
+      "name": "内田雄馬",
+      "count": 2
+    },
+    {
+      "name": "種﨑敦美",
+      "count": 2
+    },
+    {
+      "name": "久尾歩",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "社团",
+      "count": 2
+    },
+    {
+      "name": "水野龙马",
+      "count": 2
+    },
+    {
+      "name": "プラチナビジョン",
+      "count": 2
+    },
+    {
+      "name": "乐器",
+      "count": 2
+    },
+    {
+      "name": "久尾步",
+      "count": 1
+    },
+    {
+      "name": "頂的",
+      "count": 1
+    },
+    {
+      "name": "私心推",
+      "count": 1
+    },
+    {
+      "name": "分割放送",
+      "count": 1
+    },
+    {
+      "name": "前作烂",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

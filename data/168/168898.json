@@ -1,0 +1,65 @@
+{
+  "id": 168898,
+  "name": "おにくだいすき！ ゼウシくん 「すてきなハンバーグ」",
+  "name_cn": "",
+  "summary": "ゼウシくんもだいすき！「国産お肉のハンバーグ」発売を記念し、新作アニメを公開中！",
+  "date": "2016-02-10",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/3e/2a/168898_QI8sK.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/3e/2a/168898_QI8sK.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 3,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 0,
+      "5": 2,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 4.3
+  },
+  "tags": [
+    {
+      "name": "2016",
+      "count": 4
+    },
+    {
+      "name": "WEB",
+      "count": 2
+    },
+    {
+      "name": "2016年一月番",
+      "count": 1
+    },
+    {
+      "name": "续期",
+      "count": 1
+    },
+    {
+      "name": "2016年2月",
+      "count": 1
+    },
+    {
+      "name": "2016年",
+      "count": 1
+    },
+    {
+      "name": "DLE",
+      "count": 1
+    },
+    {
+      "name": "空",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,77 @@
+{
+  "id": 161775,
+  "name": "新・湘南爆走族 荒くれナイト",
+  "name_cn": "",
+  "summary": "",
+  "date": "1997-09-12",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/4a/b8/161775_cZ3Z9.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/4a/b8/161775_cZ3Z9.jpg"
+  },
+  "eps": 2,
+  "rating": {
+    "rank": 0,
+    "total": 7,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 4,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 6.6
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 7
+    },
+    {
+      "name": "1997",
+      "count": 4
+    },
+    {
+      "name": "山口健",
+      "count": 2
+    },
+    {
+      "name": "東映アニメーション",
+      "count": 2
+    },
+    {
+      "name": "OVA-01",
+      "count": 1
+    },
+    {
+      "name": "今村隆寛",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "塩沢兼人",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "西沢信孝",
+      "count": 1
+    },
+    {
+      "name": "佐藤正治",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

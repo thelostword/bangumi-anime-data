@@ -1,0 +1,153 @@
+{
+  "id": 168468,
+  "name": "ねこねこ日本史",
+  "name_cn": "猫猫日本史",
+  "summary": "根据噌西健司的同名四格漫画改编，将日本历史上的名人变成猫的故事。于2016年4月开始在NHK教育频道的天才电视节目动画档播出。",
+  "date": "2016-04-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/3e/c8/168468_Mm5XK.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/3e/c8/168468_Mm5XK.jpg"
+  },
+  "eps": 32,
+  "rating": {
+    "rank": 5449,
+    "total": 64,
+    "count": {
+      "1": 0,
+      "2": 2,
+      "3": 2,
+      "4": 1,
+      "5": 13,
+      "6": 29,
+      "7": 14,
+      "8": 2,
+      "9": 1,
+      "10": 0
+    },
+    "score": 5.9
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 57
+    },
+    {
+      "name": "2016年4月",
+      "count": 28
+    },
+    {
+      "name": "漫改",
+      "count": 19
+    },
+    {
+      "name": "河村友宏",
+      "count": 13
+    },
+    {
+      "name": "TV",
+      "count": 12
+    },
+    {
+      "name": "2016",
+      "count": 11
+    },
+    {
+      "name": "漫画改",
+      "count": 11
+    },
+    {
+      "name": "猫猫日本史",
+      "count": 9
+    },
+    {
+      "name": "高田亮",
+      "count": 8
+    },
+    {
+      "name": "萌",
+      "count": 8
+    },
+    {
+      "name": "历史",
+      "count": 7
+    },
+    {
+      "name": "そにしけんじ",
+      "count": 4
+    },
+    {
+      "name": "清水匡",
+      "count": 4
+    },
+    {
+      "name": "2016年",
+      "count": 2
+    },
+    {
+      "name": "2016年四月番",
+      "count": 2
+    },
+    {
+      "name": "小林ゆう",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "漫画改编",
+      "count": 2
+    },
+    {
+      "name": "NEFTFILM",
+      "count": 2
+    },
+    {
+      "name": "2023",
+      "count": 1
+    },
+    {
+      "name": "JokerFilms",
+      "count": 1
+    },
+    {
+      "name": "NEFT_FILM",
+      "count": 1
+    },
+    {
+      "name": "FlyingShipStudio",
+      "count": 1
+    },
+    {
+      "name": "201604",
+      "count": 1
+    },
+    {
+      "name": "泡面",
+      "count": 1
+    },
+    {
+      "name": "猫",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "改编",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

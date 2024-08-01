@@ -1,0 +1,153 @@
+{
+  "id": 4312,
+  "name": "HEROMAN",
+  "name_cn": "",
+  "summary": "在美国西海岸的中心城市，憧憬着HERO的少年Joey一边打工，一边和祖母二人快乐地生活。\r\n某天，Joey捡到了一个破烂机器人玩具并着手修理它，然后为它起名叫“HEROMAN”。而在修理好之后的当天夜晚，一度来自外太空的不明离奇闪电击中了Joey家，机器人玩具被雷光包围，化身成一个拥有电击能力的巨大机器人“HEROMAN”。然后，迷之生命体也开始了对地球的侵略……",
+  "date": "2010-04-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/27/d8/4312_LSvSJ.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/27/d8/4312_LSvSJ.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 6074,
+    "total": 372,
+    "count": {
+      "1": 2,
+      "2": 2,
+      "3": 7,
+      "4": 27,
+      "5": 52,
+      "6": 141,
+      "7": 94,
+      "8": 36,
+      "9": 5,
+      "10": 6
+    },
+    "score": 6.2
+  },
+  "tags": [
+    {
+      "name": "BONES",
+      "count": 160
+    },
+    {
+      "name": "美式",
+      "count": 101
+    },
+    {
+      "name": "萝卜",
+      "count": 72
+    },
+    {
+      "name": "英雄",
+      "count": 59
+    },
+    {
+      "name": "伪娘",
+      "count": 43
+    },
+    {
+      "name": "2010",
+      "count": 43
+    },
+    {
+      "name": "TV",
+      "count": 41
+    },
+    {
+      "name": "2010年4月",
+      "count": 32
+    },
+    {
+      "name": "熱血",
+      "count": 22
+    },
+    {
+      "name": "米其林",
+      "count": 17
+    },
+    {
+      "name": "原创",
+      "count": 16
+    },
+    {
+      "name": "機器人",
+      "count": 15
+    },
+    {
+      "name": "机器人",
+      "count": 12
+    },
+    {
+      "name": "USA",
+      "count": 9
+    },
+    {
+      "name": "机战",
+      "count": 6
+    },
+    {
+      "name": "大和屋暁",
+      "count": 4
+    },
+    {
+      "name": "HEROMAN",
+      "count": 4
+    },
+    {
+      "name": "2010年",
+      "count": 4
+    },
+    {
+      "name": "2010年4月番",
+      "count": 4
+    },
+    {
+      "name": "科幻",
+      "count": 4
+    },
+    {
+      "name": "難波日登志",
+      "count": 3
+    },
+    {
+      "name": "蘿蔔",
+      "count": 3
+    },
+    {
+      "name": "偽娘",
+      "count": 3
+    },
+    {
+      "name": "小松未可子",
+      "count": 3
+    },
+    {
+      "name": "木村良平",
+      "count": 3
+    },
+    {
+      "name": "难波日登志",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 2
+    },
+    {
+      "name": "热血",
+      "count": 2
+    },
+    {
+      "name": "TVA",
+      "count": 2
+    },
+    {
+      "name": "5分",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

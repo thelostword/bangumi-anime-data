@@ -1,0 +1,153 @@
+{
+  "id": 302373,
+  "name": "劇場版 きんいろモザイクThank you!!",
+  "name_cn": "剧场版 黄金拼图 谢谢你!!",
+  "summary": "ゆるふわ美少女アニメの金字塔「きんいろモザイク」の\r\n集大成となるファイナルエピソードが劇場版「きんいろモザイクThank You!!」です！\r\n\r\nときにおかしく、いつも明るく、まっすぐできらきらした日々。\r\n彼女たちの最後の高校生活を、劇場でお楽しみください！",
+  "date": "2021-08-20",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e1/7c/302373_jHFzJ.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e1/7c/302373_jHFzJ.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 1318,
+    "total": 640,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 24,
+      "6": 95,
+      "7": 247,
+      "8": 204,
+      "9": 45,
+      "10": 24
+    },
+    "score": 7.3
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 325
+    },
+    {
+      "name": "芳文社",
+      "count": 242
+    },
+    {
+      "name": "百合",
+      "count": 208
+    },
+    {
+      "name": "2021",
+      "count": 153
+    },
+    {
+      "name": "日常",
+      "count": 138
+    },
+    {
+      "name": "Studio五组",
+      "count": 129
+    },
+    {
+      "name": "漫画改",
+      "count": 113
+    },
+    {
+      "name": "治愈",
+      "count": 88
+    },
+    {
+      "name": "萌",
+      "count": 78
+    },
+    {
+      "name": "黄金拼图",
+      "count": 63
+    },
+    {
+      "name": "漫改",
+      "count": 48
+    },
+    {
+      "name": "萝莉",
+      "count": 32
+    },
+    {
+      "name": "校园",
+      "count": 31
+    },
+    {
+      "name": "AXsiZ",
+      "count": 23
+    },
+    {
+      "name": "Studio五組",
+      "count": 20
+    },
+    {
+      "name": "轻百合",
+      "count": 18
+    },
+    {
+      "name": "搞笑",
+      "count": 12
+    },
+    {
+      "name": "名和宗則",
+      "count": 11
+    },
+    {
+      "name": "轻百",
+      "count": 7
+    },
+    {
+      "name": "名和宗则",
+      "count": 7
+    },
+    {
+      "name": "2021年",
+      "count": 7
+    },
+    {
+      "name": "2021年8月",
+      "count": 6
+    },
+    {
+      "name": "萌豚",
+      "count": 5
+    },
+    {
+      "name": "日本",
+      "count": 4
+    },
+    {
+      "name": "萌系",
+      "count": 4
+    },
+    {
+      "name": "綾奈ゆにこ",
+      "count": 4
+    },
+    {
+      "name": "东山奈央",
+      "count": 3
+    },
+    {
+      "name": "绫奈由仁子",
+      "count": 3
+    },
+    {
+      "name": "東山奈央",
+      "count": 2
+    },
+    {
+      "name": "芳文",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

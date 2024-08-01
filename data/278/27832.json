@@ -1,0 +1,153 @@
+{
+  "id": 27832,
+  "name": "機動戦士ガンダムSEED HDリマスター",
+  "name_cn": "机动战士高达SEED HD重制版",
+  "summary": "重制版。\r\n当年播放的画面是4:3普屏，如今的HD重制版则是16:9宽屏，并且在对画面进行了高清画质处理的基础上，还增加了原版没有新画面，部分音乐也会重新混音处理。",
+  "date": "2012-01-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e4/8f/27832_5HPBa.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e4/8f/27832_5HPBa.jpg"
+  },
+  "eps": 48,
+  "rating": {
+    "rank": 1143,
+    "total": 2183,
+    "count": {
+      "1": 16,
+      "2": 3,
+      "3": 8,
+      "4": 24,
+      "5": 62,
+      "6": 262,
+      "7": 735,
+      "8": 780,
+      "9": 176,
+      "10": 117
+    },
+    "score": 7.4
+  },
+  "tags": [
+    {
+      "name": "SUNRISE",
+      "count": 506
+    },
+    {
+      "name": "高达",
+      "count": 455
+    },
+    {
+      "name": "機動戦士ガンダムSEED",
+      "count": 336
+    },
+    {
+      "name": "重制版",
+      "count": 285
+    },
+    {
+      "name": "TV",
+      "count": 278
+    },
+    {
+      "name": "2012年1月",
+      "count": 201
+    },
+    {
+      "name": "原创",
+      "count": 164
+    },
+    {
+      "name": "GUNDAM",
+      "count": 126
+    },
+    {
+      "name": "再战十年",
+      "count": 120
+    },
+    {
+      "name": "萝卜",
+      "count": 82
+    },
+    {
+      "name": "石田彰",
+      "count": 71
+    },
+    {
+      "name": "2012",
+      "count": 70
+    },
+    {
+      "name": "看到鸡神我就滚进来了",
+      "count": 67
+    },
+    {
+      "name": "福田己津央",
+      "count": 56
+    },
+    {
+      "name": "机战",
+      "count": 51
+    },
+    {
+      "name": "科幻",
+      "count": 44
+    },
+    {
+      "name": "2011",
+      "count": 40
+    },
+    {
+      "name": "种命万能",
+      "count": 37
+    },
+    {
+      "name": "平井久司",
+      "count": 20
+    },
+    {
+      "name": "田中理惠",
+      "count": 17
+    },
+    {
+      "name": "战争",
+      "count": 15
+    },
+    {
+      "name": "战斗",
+      "count": 11
+    },
+    {
+      "name": "seed",
+      "count": 11
+    },
+    {
+      "name": "2002",
+      "count": 10
+    },
+    {
+      "name": "両澤千晶",
+      "count": 10
+    },
+    {
+      "name": "保志总一朗",
+      "count": 8
+    },
+    {
+      "name": "梶浦由记",
+      "count": 6
+    },
+    {
+      "name": "佐橋俊彦",
+      "count": 6
+    },
+    {
+      "name": "年番",
+      "count": 5
+    },
+    {
+      "name": "动画",
+      "count": 5
+    }
+  ],
+  "locked": false
+}

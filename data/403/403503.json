@@ -1,0 +1,153 @@
+{
+  "id": 403503,
+  "name": "キングダム 第5シリーズ",
+  "name_cn": "王者天下 第五季",
+  "summary": "第5シリーズでは、秦軍vs趙軍、黒羊丘を巡る戦いが描かれます。\r\nこの戦いで、秦国将軍・桓騎（cv：伊藤健太郎）は総大将を務め、信（cv：森田成一）ら飛信隊は援軍として参戦。\r\n信、そして飛信隊は、桓騎軍と共にどのような戦いを繰り広げるのか、趙国との戦いに勝利することが出来るのか…どうぞご期待ください！",
+  "date": "2024-01-13",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ea/65/403503_qqTy2.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ea/65/403503_qqTy2.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 1234,
+    "total": 192,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 1,
+      "4": 0,
+      "5": 7,
+      "6": 23,
+      "7": 60,
+      "8": 79,
+      "9": 14,
+      "10": 7
+    },
+    "score": 7.4
+  },
+  "tags": [
+    {
+      "name": "2024年1月",
+      "count": 42
+    },
+    {
+      "name": "TV",
+      "count": 41
+    },
+    {
+      "name": "历史",
+      "count": 37
+    },
+    {
+      "name": "漫画改",
+      "count": 34
+    },
+    {
+      "name": "战国",
+      "count": 28
+    },
+    {
+      "name": "StudioPierrot",
+      "count": 25
+    },
+    {
+      "name": "2024",
+      "count": 20
+    },
+    {
+      "name": "战争",
+      "count": 19
+    },
+    {
+      "name": "热血",
+      "count": 17
+    },
+    {
+      "name": "续作",
+      "count": 12
+    },
+    {
+      "name": "漫改",
+      "count": 11
+    },
+    {
+      "name": "王者天下",
+      "count": 8
+    },
+    {
+      "name": "战斗",
+      "count": 8
+    },
+    {
+      "name": "St.Signpost",
+      "count": 7
+    },
+    {
+      "name": "高木登",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 3
+    },
+    {
+      "name": "2024年",
+      "count": 3
+    },
+    {
+      "name": "2024冬",
+      "count": 2
+    },
+    {
+      "name": "今泉贤一",
+      "count": 2
+    },
+    {
+      "name": "ぴえろ",
+      "count": 2
+    },
+    {
+      "name": "泽野弘之",
+      "count": 2
+    },
+    {
+      "name": "死人",
+      "count": 1
+    },
+    {
+      "name": "大长篇",
+      "count": 1
+    },
+    {
+      "name": "山本康太",
+      "count": 1
+    },
+    {
+      "name": "天下王者",
+      "count": 1
+    },
+    {
+      "name": "pierrot、St.Signpost",
+      "count": 1
+    },
+    {
+      "name": "总之去看1",
+      "count": 1
+    },
+    {
+      "name": "スタジオサインポスト",
+      "count": 1
+    },
+    {
+      "name": "二等",
+      "count": 1
+    },
+    {
+      "name": "スタジオ_サインポスト",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

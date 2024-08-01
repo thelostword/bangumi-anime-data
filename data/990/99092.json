@@ -1,0 +1,49 @@
+{
+  "id": 99092,
+  "name": "ふうせんいぬティニー",
+  "name_cn": "气球狗迪尼",
+  "summary": "改编自人气绘本「迪尼 气球狗的故事」。故事讲述了身上系着气球的小狗被风吹到云上，遇到了“气球动物”们一起冒险的故事。",
+  "date": "2014-09-26",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/5d/3b/99092_G1Zex.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/5d/3b/99092_G1Zex.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "2014",
+      "count": 2
+    },
+    {
+      "name": "STEVEN",
+      "count": 1
+    },
+    {
+      "name": "2014年10月",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

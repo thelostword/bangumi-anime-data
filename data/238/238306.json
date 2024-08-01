@@ -1,0 +1,41 @@
+{
+  "id": 238306,
+  "name": "ももんず さんどうぃっち",
+  "name_cn": "",
+  "summary": "",
+  "date": "2014-04-02",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/51/c6/238306_l0lmw.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/51/c6/238306_l0lmw.jpg"
+  },
+  "eps": 8,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "2014",
+      "count": 1
+    },
+    {
+      "name": "空",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

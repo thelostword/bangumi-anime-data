@@ -1,0 +1,77 @@
+{
+  "id": 213634,
+  "name": "おねがい！サミアどん",
+  "name_cn": "",
+  "summary": "",
+  "date": "1985-04-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/cc/30/213634_E6ZYQ.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/cc/30/213634_E6ZYQ.jpg"
+  },
+  "eps": 78,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "1985",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "竹村拓",
+      "count": 2
+    },
+    {
+      "name": "川久保潔",
+      "count": 2
+    },
+    {
+      "name": "青木和代",
+      "count": 2
+    },
+    {
+      "name": "TVA",
+      "count": 2
+    },
+    {
+      "name": "小林治",
+      "count": 2
+    },
+    {
+      "name": "东京电影",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "东京Movie新社",
+      "count": 1
+    },
+    {
+      "name": "東京ムービー新社",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

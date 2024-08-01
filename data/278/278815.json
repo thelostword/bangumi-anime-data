@@ -1,0 +1,153 @@
+{
+  "id": 278815,
+  "name": "はたらく細胞!!",
+  "name_cn": "工作细胞！！",
+  "summary": "这是关于你的故事。\r\n是在你体内的故事——\r\n人类的细胞数量，约为37兆个（新说）。细胞们在名为身体的世界中，今天也在精神满满无休无眠地工作。运输氧气的红血球、与细菌战斗的白血球……那里有关于细胞们的不为人知的戏剧。随着新的细胞、新的细菌与病毒一起登场的全新展开。",
+  "date": "2021-01-09",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ae/11/278815_veMhu.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ae/11/278815_veMhu.jpg"
+  },
+  "eps": 8,
+  "rating": {
+    "rank": 3877,
+    "total": 3930,
+    "count": {
+      "1": 2,
+      "2": 6,
+      "3": 11,
+      "4": 61,
+      "5": 264,
+      "6": 1181,
+      "7": 1770,
+      "8": 521,
+      "9": 59,
+      "10": 55
+    },
+    "score": 6.7
+  },
+  "tags": [
+    {
+      "name": "科普",
+      "count": 998
+    },
+    {
+      "name": "2021年1月",
+      "count": 807
+    },
+    {
+      "name": "漫改",
+      "count": 641
+    },
+    {
+      "name": "TV",
+      "count": 529
+    },
+    {
+      "name": "davidproduction",
+      "count": 484
+    },
+    {
+      "name": "漫画改",
+      "count": 429
+    },
+    {
+      "name": "拟人",
+      "count": 390
+    },
+    {
+      "name": "工作细胞",
+      "count": 372
+    },
+    {
+      "name": "2021",
+      "count": 319
+    },
+    {
+      "name": "续作",
+      "count": 215
+    },
+    {
+      "name": "搞笑",
+      "count": 207
+    },
+    {
+      "name": "萌",
+      "count": 179
+    },
+    {
+      "name": "战斗",
+      "count": 168
+    },
+    {
+      "name": "二期",
+      "count": 78
+    },
+    {
+      "name": "david_production",
+      "count": 58
+    },
+    {
+      "name": "日常",
+      "count": 28
+    },
+    {
+      "name": "花泽香菜",
+      "count": 22
+    },
+    {
+      "name": "2021年",
+      "count": 18
+    },
+    {
+      "name": "小倉宏文",
+      "count": 16
+    },
+    {
+      "name": "小仓宏文",
+      "count": 10
+    },
+    {
+      "name": "治愈",
+      "count": 8
+    },
+    {
+      "name": "日本",
+      "count": 8
+    },
+    {
+      "name": "日本动画",
+      "count": 7
+    },
+    {
+      "name": "奇幻",
+      "count": 7
+    },
+    {
+      "name": "大卫社",
+      "count": 7
+    },
+    {
+      "name": "前野智昭",
+      "count": 7
+    },
+    {
+      "name": "中村悠一",
+      "count": 6
+    },
+    {
+      "name": "柿原優子",
+      "count": 6
+    },
+    {
+      "name": "david.production",
+      "count": 6
+    },
+    {
+      "name": "未上映",
+      "count": 6
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,69 @@
+{
+  "id": 269906,
+  "name": "ジモトがジャパン",
+  "name_cn": "",
+  "summary": "",
+  "date": "2019-04-08",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/fd/d6/269906_xmjxl.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/fd/d6/269906_xmjxl.jpg"
+  },
+  "eps": 50,
+  "rating": {
+    "rank": 0,
+    "total": 3,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 2,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 3.7
+  },
+  "tags": [
+    {
+      "name": "ODDJOB",
+      "count": 2
+    },
+    {
+      "name": "2019",
+      "count": 2
+    },
+    {
+      "name": "はしもとこうじ",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "成瀬正人",
+      "count": 1
+    },
+    {
+      "name": "上野勇",
+      "count": 1
+    },
+    {
+      "name": "西山宏太朗",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "高山みなみ",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

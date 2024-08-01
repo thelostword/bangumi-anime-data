@@ -1,0 +1,153 @@
+{
+  "id": 20113,
+  "name": "HIGH SCORE",
+  "name_cn": "",
+  "summary": "主人公藤原爱实，虽然是一名美少女，但性格恶劣、成绩也很差、并且拥有猛兽级的战斗能力，喜欢狩猎内向的眼睛男，使得学校内外无数人深受其害，甚至成立了“藤原被害者同好会”，故事就是讲述这名少女的奇怪日常。",
+  "date": "2011-11-28",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/10/5b/20113_ixB96.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/10/5b/20113_ixB96.jpg"
+  },
+  "eps": 8,
+  "rating": {
+    "rank": 5925,
+    "total": 191,
+    "count": {
+      "1": 4,
+      "2": 3,
+      "3": 4,
+      "4": 9,
+      "5": 34,
+      "6": 63,
+      "7": 44,
+      "8": 23,
+      "9": 3,
+      "10": 4
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 78
+    },
+    {
+      "name": "喜多村英梨",
+      "count": 39
+    },
+    {
+      "name": "变态",
+      "count": 32
+    },
+    {
+      "name": "短剧",
+      "count": 31
+    },
+    {
+      "name": "flash",
+      "count": 26
+    },
+    {
+      "name": "2011",
+      "count": 26
+    },
+    {
+      "name": "TV",
+      "count": 25
+    },
+    {
+      "name": "2011年12月",
+      "count": 18
+    },
+    {
+      "name": "小西克幸",
+      "count": 14
+    },
+    {
+      "name": "樱井孝宏",
+      "count": 12
+    },
+    {
+      "name": "漫画改",
+      "count": 11
+    },
+    {
+      "name": "DLE",
+      "count": 11
+    },
+    {
+      "name": "搞笑",
+      "count": 5
+    },
+    {
+      "name": "漫改",
+      "count": 4
+    },
+    {
+      "name": "栗原初",
+      "count": 3
+    },
+    {
+      "name": "アニメ",
+      "count": 3
+    },
+    {
+      "name": "2012年1月",
+      "count": 2
+    },
+    {
+      "name": "2011年11月",
+      "count": 2
+    },
+    {
+      "name": "2012",
+      "count": 2
+    },
+    {
+      "name": "小林ゆう",
+      "count": 2
+    },
+    {
+      "name": "短片",
+      "count": 2
+    },
+    {
+      "name": "2011年10月",
+      "count": 2
+    },
+    {
+      "name": "EG",
+      "count": 1
+    },
+    {
+      "name": "谷东",
+      "count": 1
+    },
+    {
+      "name": "很短",
+      "count": 1
+    },
+    {
+      "name": "日番",
+      "count": 1
+    },
+    {
+      "name": "201X",
+      "count": 1
+    },
+    {
+      "name": "Ⅰ类tv",
+      "count": 1
+    },
+    {
+      "name": "二〇一一年",
+      "count": 1
+    },
+    {
+      "name": "石塚和美",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

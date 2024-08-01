@@ -1,0 +1,153 @@
+{
+  "id": 204855,
+  "name": "Fate/Apocrypha",
+  "name_cn": "Fate/Apocrypha",
+  "summary": "过去，在被称作冬木的城市曾举行过由七位魔术师与英灵参加的“圣杯战争”。\r\n然而趁着第二次世界大战的混乱，“某位魔术师”强行夺走了圣杯——\r\n\r\n数十年过去，千界树一族高举那个圣杯为象征，叛离了魔术协会，宣布独立。\r\n愤怒的魔术协会派遣了刺客，但他们却遭到了召唤出的Servant的反击。\r\n\r\n——对抗Servant的是Servant。\r\n\r\n——“圣杯战争”的系统被变更，前所未有的七对七规模的战争爆发了。\r\n因此，以罗马尼亚的图利法斯为舞台，空前绝后的规模的战争——“圣杯大战”拉开了帷幕。",
+  "date": "2017-07-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/b5/e2/204855_54956.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/b5/e2/204855_54956.jpg"
+  },
+  "eps": 25,
+  "rating": {
+    "rank": 8477,
+    "total": 4804,
+    "count": {
+      "1": 161,
+      "2": 212,
+      "3": 483,
+      "4": 1087,
+      "5": 1298,
+      "6": 1066,
+      "7": 356,
+      "8": 92,
+      "9": 16,
+      "10": 33
+    },
+    "score": 4.8
+  },
+  "tags": [
+    {
+      "name": "Fate",
+      "count": 1193
+    },
+    {
+      "name": "A-1Pictures",
+      "count": 1020
+    },
+    {
+      "name": "Type-Moon",
+      "count": 794
+    },
+    {
+      "name": "2017年7月",
+      "count": 671
+    },
+    {
+      "name": "轻小说改",
+      "count": 583
+    },
+    {
+      "name": "TV",
+      "count": 516
+    },
+    {
+      "name": "东出佑一郎",
+      "count": 416
+    },
+    {
+      "name": "奇幻",
+      "count": 338
+    },
+    {
+      "name": "战斗",
+      "count": 330
+    },
+    {
+      "name": "2017",
+      "count": 315
+    },
+    {
+      "name": "轻改",
+      "count": 229
+    },
+    {
+      "name": "Apocrypha",
+      "count": 136
+    },
+    {
+      "name": "浅井義之",
+      "count": 79
+    },
+    {
+      "name": "小说改",
+      "count": 43
+    },
+    {
+      "name": "2017年",
+      "count": 21
+    },
+    {
+      "name": "横山克",
+      "count": 20
+    },
+    {
+      "name": "浅井义之",
+      "count": 19
+    },
+    {
+      "name": "热血",
+      "count": 15
+    },
+    {
+      "name": "坂本真绫",
+      "count": 13
+    },
+    {
+      "name": "A-1",
+      "count": 13
+    },
+    {
+      "name": "東出祐一郎",
+      "count": 12
+    },
+    {
+      "name": "A-1_Pictures",
+      "count": 10
+    },
+    {
+      "name": "型月",
+      "count": 10
+    },
+    {
+      "name": "日本",
+      "count": 10
+    },
+    {
+      "name": "魔法",
+      "count": 8
+    },
+    {
+      "name": "日本动画",
+      "count": 8
+    },
+    {
+      "name": "TVA",
+      "count": 7
+    },
+    {
+      "name": "动画",
+      "count": 7
+    },
+    {
+      "name": "花江夏树",
+      "count": 7
+    },
+    {
+      "name": "神奇东出",
+      "count": 7
+    }
+  ],
+  "locked": false
+}

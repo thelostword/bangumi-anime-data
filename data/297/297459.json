@@ -1,0 +1,73 @@
+{
+  "id": 297459,
+  "name": "フライングベイビーズ☆プチ",
+  "name_cn": "小草裙舞女孩",
+  "summary": "",
+  "date": "2020-01-08",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/d9/b4/297459_bRRrg.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/d9/b4/297459_bRRrg.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "2020",
+      "count": 4
+    },
+    {
+      "name": "福島ガイナ",
+      "count": 2
+    },
+    {
+      "name": "2020.1",
+      "count": 2
+    },
+    {
+      "name": "福岛GAINA",
+      "count": 1
+    },
+    {
+      "name": "2020年1月",
+      "count": 1
+    },
+    {
+      "name": "浅尾芳宣",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "空",
+      "count": 1
+    },
+    {
+      "name": "原创",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,153 @@
+{
+  "id": 96861,
+  "name": "金田一少年の事件簿R",
+  "name_cn": "金田一少年事件簿R",
+  "summary": "",
+  "date": "2014-04-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c9/e9/96861_22jV5.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c9/e9/96861_22jV5.jpg"
+  },
+  "eps": 25,
+  "rating": {
+    "rank": 3623,
+    "total": 470,
+    "count": {
+      "1": 0,
+      "2": 1,
+      "3": 4,
+      "4": 4,
+      "5": 43,
+      "6": 131,
+      "7": 202,
+      "8": 65,
+      "9": 11,
+      "10": 9
+    },
+    "score": 6.7
+  },
+  "tags": [
+    {
+      "name": "推理",
+      "count": 95
+    },
+    {
+      "name": "2014年4月",
+      "count": 93
+    },
+    {
+      "name": "金田一",
+      "count": 84
+    },
+    {
+      "name": "TV",
+      "count": 81
+    },
+    {
+      "name": "漫画改",
+      "count": 59
+    },
+    {
+      "name": "2014",
+      "count": 54
+    },
+    {
+      "name": "东映",
+      "count": 41
+    },
+    {
+      "name": "金田一少年事件簿",
+      "count": 31
+    },
+    {
+      "name": "漫改",
+      "count": 15
+    },
+    {
+      "name": "飛田展男",
+      "count": 11
+    },
+    {
+      "name": "浜田賢二",
+      "count": 7
+    },
+    {
+      "name": "日本",
+      "count": 6
+    },
+    {
+      "name": "悬疑",
+      "count": 6
+    },
+    {
+      "name": "东映动画",
+      "count": 5
+    },
+    {
+      "name": "東映アニメーション",
+      "count": 5
+    },
+    {
+      "name": "TVA",
+      "count": 3
+    },
+    {
+      "name": "动画",
+      "count": 3
+    },
+    {
+      "name": "2014年",
+      "count": 3
+    },
+    {
+      "name": "星期日",
+      "count": 3
+    },
+    {
+      "name": "续作",
+      "count": 2
+    },
+    {
+      "name": "半年番",
+      "count": 2
+    },
+    {
+      "name": "TV动画",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "東映",
+      "count": 2
+    },
+    {
+      "name": "土田豊",
+      "count": 2
+    },
+    {
+      "name": "アニメ",
+      "count": 2
+    },
+    {
+      "name": "中川亜紀子",
+      "count": 1
+    },
+    {
+      "name": "¬",
+      "count": 1
+    },
+    {
+      "name": "7JA",
+      "count": 1
+    },
+    {
+      "name": "全世界都会说日语系列走哪哪死人系列",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

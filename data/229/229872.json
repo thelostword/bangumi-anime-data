@@ -1,0 +1,109 @@
+{
+  "id": 229872,
+  "name": "gdメン gdgd men’s party",
+  "name_cn": "",
+  "summary": "",
+  "date": "2018-01-08",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/78/60/229872_0wvdF.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/78/60/229872_0wvdF.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 0,
+    "total": 28,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 8,
+      "6": 10,
+      "7": 8,
+      "8": 2,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "菅原そうた",
+      "count": 9
+    },
+    {
+      "name": "原创",
+      "count": 8
+    },
+    {
+      "name": "TV",
+      "count": 7
+    },
+    {
+      "name": "2018",
+      "count": 7
+    },
+    {
+      "name": "2018年1月",
+      "count": 6
+    },
+    {
+      "name": "森りょういち",
+      "count": 5
+    },
+    {
+      "name": "泡面番",
+      "count": 5
+    },
+    {
+      "name": "搞笑",
+      "count": 4
+    },
+    {
+      "name": "泡面",
+      "count": 3
+    },
+    {
+      "name": "2018年一月番",
+      "count": 2
+    },
+    {
+      "name": "Strawberry-MeetsPictures、Fanco",
+      "count": 1
+    },
+    {
+      "name": "2018年",
+      "count": 1
+    },
+    {
+      "name": "ミニ番組",
+      "count": 1
+    },
+    {
+      "name": "gdgd妖精s",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "アニメ",
+      "count": 1
+    },
+    {
+      "name": "山本和臣",
+      "count": 1
+    },
+    {
+      "name": "松岡禎丞",
+      "count": 1
+    },
+    {
+      "name": "小林裕介",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

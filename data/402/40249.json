@@ -1,0 +1,153 @@
+{
+  "id": 40249,
+  "name": "新テニスの王子様 OVA",
+  "name_cn": "新网球王子OVA",
+  "summary": "TVシリーズをさらに楽しめる新作OVAを各巻1話ずつ収録したDVDで登場！！",
+  "date": "2012-04-20",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/95/3e/40249_CPw97.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/95/3e/40249_CPw97.jpg"
+  },
+  "eps": 7,
+  "rating": {
+    "rank": 4503,
+    "total": 264,
+    "count": {
+      "1": 3,
+      "2": 2,
+      "3": 2,
+      "4": 7,
+      "5": 32,
+      "6": 92,
+      "7": 77,
+      "8": 31,
+      "9": 4,
+      "10": 14
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 90
+    },
+    {
+      "name": "新网球王子",
+      "count": 49
+    },
+    {
+      "name": "Production.I.G",
+      "count": 35
+    },
+    {
+      "name": "网球王子",
+      "count": 24
+    },
+    {
+      "name": "2012",
+      "count": 23
+    },
+    {
+      "name": "杀人网球",
+      "count": 19
+    },
+    {
+      "name": "热血",
+      "count": 19
+    },
+    {
+      "name": "2012年4月",
+      "count": 17
+    },
+    {
+      "name": "运动",
+      "count": 12
+    },
+    {
+      "name": "漫画改",
+      "count": 11
+    },
+    {
+      "name": "网王",
+      "count": 10
+    },
+    {
+      "name": "体育",
+      "count": 9
+    },
+    {
+      "name": "漫改",
+      "count": 7
+    },
+    {
+      "name": "山本秀世",
+      "count": 6
+    },
+    {
+      "name": "2012年",
+      "count": 4
+    },
+    {
+      "name": "ProductionI.G",
+      "count": 4
+    },
+    {
+      "name": "新",
+      "count": 3
+    },
+    {
+      "name": "エム・エス・シー",
+      "count": 3
+    },
+    {
+      "name": "TV",
+      "count": 3
+    },
+    {
+      "name": "诹访部顺一",
+      "count": 3
+    },
+    {
+      "name": "M.S.C",
+      "count": 3
+    },
+    {
+      "name": "校园",
+      "count": 3
+    },
+    {
+      "name": "竞技",
+      "count": 2
+    },
+    {
+      "name": "テニスの王子様",
+      "count": 2
+    },
+    {
+      "name": "续作",
+      "count": 2
+    },
+    {
+      "name": "高桥广树",
+      "count": 2
+    },
+    {
+      "name": "諏訪部順一",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "JUMP",
+      "count": 2
+    },
+    {
+      "name": "运动番",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

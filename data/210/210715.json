@@ -1,0 +1,49 @@
+{
+  "id": 210715,
+  "name": "その花びらにくちづけを 玲緒麻衣だいありぃ",
+  "name_cn": "亲吻那片花瓣 玲绪麻衣日记",
+  "summary": "",
+  "date": "2009-09-26",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/8b/c6/210715_Cco8F.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/8b/c6/210715_Cco8F.jpg"
+  },
+  "eps": 10,
+  "rating": {
+    "rank": 0,
+    "total": 11,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 1,
+      "7": 7,
+      "8": 2,
+      "9": 0,
+      "10": 1
+    },
+    "score": 7.4
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 3
+    },
+    {
+      "name": "百合",
+      "count": 3
+    },
+    {
+      "name": "亲吻那片花瓣",
+      "count": 1
+    },
+    {
+      "name": "2009",
+      "count": 1
+    }
+  ],
+  "locked": true
+}

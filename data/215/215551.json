@@ -1,0 +1,45 @@
+{
+  "id": 215551,
+  "name": "のらみみ2",
+  "name_cn": "野良耳2",
+  "summary": "",
+  "date": "2008-10-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/2f/23/215551_7YNT3.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/2f/23/215551_7YNT3.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 0,
+    "total": 5,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 2,
+      "6": 2,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.8
+  },
+  "tags": [
+    {
+      "name": "2008",
+      "count": 3
+    },
+    {
+      "name": "治愈",
+      "count": 2
+    },
+    {
+      "name": "TV",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

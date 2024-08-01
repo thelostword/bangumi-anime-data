@@ -1,0 +1,65 @@
+{
+  "id": 211560,
+  "name": "極上!!めちゃモテ委員長 セカンドコレクション",
+  "name_cn": "极上！！超人气委员长 第二季",
+  "summary": "",
+  "date": "2010-04-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/69/d9/211560_ZAq41.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/69/d9/211560_ZAq41.jpg"
+  },
+  "eps": 51,
+  "rating": {
+    "rank": 0,
+    "total": 8,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 2,
+      "5": 0,
+      "6": 3,
+      "7": 2,
+      "8": 0,
+      "9": 1,
+      "10": 0
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "少女向",
+      "count": 4
+    },
+    {
+      "name": "校园",
+      "count": 3
+    },
+    {
+      "name": "【ANIME】TV丨日本",
+      "count": 1
+    },
+    {
+      "name": "Caio动画",
+      "count": 1
+    },
+    {
+      "name": "化妆和服装知识普及",
+      "count": 1
+    },
+    {
+      "name": "2010年4月",
+      "count": 1
+    },
+    {
+      "name": "恋爱",
+      "count": 1
+    },
+    {
+      "name": "TV",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

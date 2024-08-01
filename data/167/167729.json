@@ -1,0 +1,153 @@
+{
+  "id": 167729,
+  "name": "SHOW BY ROCK!! しょ～と!!",
+  "name_cn": "SHOW BY ROCK!! SHORT!!",
+  "summary": "《SHOW BY ROCK!!》续篇先行放送的短篇动画，对本篇中登场的各乐队进行介绍，以轻松愉快的方式展现本篇的世界观。",
+  "date": "2016-07-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/a7/25/167729_amC9C.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/a7/25/167729_amC9C.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 5100,
+    "total": 347,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 8,
+      "5": 41,
+      "6": 134,
+      "7": 136,
+      "8": 23,
+      "9": 3,
+      "10": 1
+    },
+    "score": 6.4
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 113
+    },
+    {
+      "name": "BONES",
+      "count": 104
+    },
+    {
+      "name": "2016年7月",
+      "count": 82
+    },
+    {
+      "name": "游戏改",
+      "count": 68
+    },
+    {
+      "name": "TV",
+      "count": 50
+    },
+    {
+      "name": "2016",
+      "count": 43
+    },
+    {
+      "name": "音乐",
+      "count": 36
+    },
+    {
+      "name": "百合",
+      "count": 24
+    },
+    {
+      "name": "池添隆博",
+      "count": 14
+    },
+    {
+      "name": "早见沙织",
+      "count": 14
+    },
+    {
+      "name": "待田堂子",
+      "count": 10
+    },
+    {
+      "name": "上坂すみれ",
+      "count": 8
+    },
+    {
+      "name": "高梨康治",
+      "count": 8
+    },
+    {
+      "name": "2016年",
+      "count": 7
+    },
+    {
+      "name": "佐仓绫音",
+      "count": 4
+    },
+    {
+      "name": "泡面",
+      "count": 3
+    },
+    {
+      "name": "内山昂輝",
+      "count": 3
+    },
+    {
+      "name": "日本",
+      "count": 3
+    },
+    {
+      "name": "偶像",
+      "count": 3
+    },
+    {
+      "name": "2016年七月番",
+      "count": 2
+    },
+    {
+      "name": "萌",
+      "count": 2
+    },
+    {
+      "name": "柿原徹也",
+      "count": 2
+    },
+    {
+      "name": "搞笑",
+      "count": 2
+    },
+    {
+      "name": "SHOWBYROCK",
+      "count": 2
+    },
+    {
+      "name": "宫野真守",
+      "count": 2
+    },
+    {
+      "name": "游戏改编",
+      "count": 2
+    },
+    {
+      "name": "内山昂辉",
+      "count": 2
+    },
+    {
+      "name": "show_by_rock!!",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "战斗",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

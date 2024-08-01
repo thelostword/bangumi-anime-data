@@ -1,0 +1,93 @@
+{
+  "id": 82780,
+  "name": "電脳戦隊ヴギィ'ズ★エンジェル",
+  "name_cn": "美少女电脑战队",
+  "summary": "被突如奇来的宇宙侵略者S．E侵占地表以来，已经过了一百年，现在是新西历302年。人类仍然不知道侵略者的真正面目，少数人潜入海底深处的AQUABASE中苟延残喘活下来。",
+  "date": "1997-10-24",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/39/b8/82780_a9e94.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/39/b8/82780_a9e94.jpg"
+  },
+  "eps": 3,
+  "rating": {
+    "rank": 0,
+    "total": 27,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 4,
+      "5": 6,
+      "6": 13,
+      "7": 4,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.6
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 25
+    },
+    {
+      "name": "大張正己",
+      "count": 11
+    },
+    {
+      "name": "J.C.STAFF",
+      "count": 9
+    },
+    {
+      "name": "1997",
+      "count": 8
+    },
+    {
+      "name": "独立ova",
+      "count": 5
+    },
+    {
+      "name": "原创",
+      "count": 4
+    },
+    {
+      "name": "机战",
+      "count": 3
+    },
+    {
+      "name": "OVA-01",
+      "count": 2
+    },
+    {
+      "name": "其他",
+      "count": 2
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "95-99",
+      "count": 1
+    },
+    {
+      "name": "90年代",
+      "count": 1
+    },
+    {
+      "name": "机器人",
+      "count": 1
+    },
+    {
+      "name": "战队",
+      "count": 1
+    },
+    {
+      "name": "旧番",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

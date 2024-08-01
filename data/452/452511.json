@@ -1,0 +1,73 @@
+{
+  "id": 452511,
+  "name": "まついぬ",
+  "name_cn": "松犬",
+  "summary": "ふわふわまるい\r\nろくひきのなかよしわんこ\r\nまついぬ\r\n\r\nとくべつなことはしないけど\r\nいつもなんだかはーとふる\r\n\r\nとくべつなところはないけれど\r\nいつもなぜだかぴーすふる\r\n\r\nなにげないにちじょー\r\nなんてことないしあわせ\r\n\r\nかれらのじかんが\r\nあなたのこころをかろやかに\r\n\r\nむにゅっときままなまついぬたちに\r\nあいにいこう",
+  "date": "2023-10-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/0d/e1/452511_aoIV0.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/0d/e1/452511_aoIV0.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 0,
+    "total": 5,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 2,
+      "7": 1,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.4
+  },
+  "tags": [
+    {
+      "name": "2023年10月",
+      "count": 8
+    },
+    {
+      "name": "PointPictures",
+      "count": 6
+    },
+    {
+      "name": "泡面番",
+      "count": 6
+    },
+    {
+      "name": "2023",
+      "count": 4
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "WEB",
+      "count": 2
+    },
+    {
+      "name": "えんどうてつや",
+      "count": 1
+    },
+    {
+      "name": "小川ひとみ",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "TV",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

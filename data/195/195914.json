@@ -1,0 +1,49 @@
+{
+  "id": 195914,
+  "name": "ふしぎの国のアリス",
+  "name_cn": "爱丽思梦游记",
+  "summary": "",
+  "date": "1983-10-10",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/fc/7d/195914_oYad7.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/fc/7d/195914_oYad7.jpg"
+  },
+  "eps": 52,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "1983",
+      "count": 2
+    },
+    {
+      "name": "TV",
+      "count": 2
+    },
+    {
+      "name": "空",
+      "count": 1
+    },
+    {
+      "name": "日本动画公司",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

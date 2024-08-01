@@ -1,0 +1,153 @@
+{
+  "id": 125624,
+  "name": "英国一家、日本を食べる",
+  "name_cn": "英国一家，吃在日本",
+  "summary": "动画根据英国美食记者迈克尔·布斯（Michael Booth）所著《不止寿司——日本人所理解的厨艺之道》（Sushi and Beyond:What the Japanese Know About Cooking）改编。",
+  "date": "2015-04-15",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/f8/7c/125624_GITjZ.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/f8/7c/125624_GITjZ.jpg"
+  },
+  "eps": 24,
+  "rating": {
+    "rank": 2701,
+    "total": 247,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 2,
+      "4": 3,
+      "5": 18,
+      "6": 50,
+      "7": 101,
+      "8": 60,
+      "9": 6,
+      "10": 6
+    },
+    "score": 6.9
+  },
+  "tags": [
+    {
+      "name": "美食",
+      "count": 84
+    },
+    {
+      "name": "2015年4月",
+      "count": 52
+    },
+    {
+      "name": "TV",
+      "count": 41
+    },
+    {
+      "name": "NHK",
+      "count": 39
+    },
+    {
+      "name": "三次元乱入",
+      "count": 32
+    },
+    {
+      "name": "2015",
+      "count": 27
+    },
+    {
+      "name": "吃货必看",
+      "count": 22
+    },
+    {
+      "name": "旅游",
+      "count": 20
+    },
+    {
+      "name": "ファンワークス",
+      "count": 17
+    },
+    {
+      "name": "2015年四月番",
+      "count": 16
+    },
+    {
+      "name": "ラレコ",
+      "count": 11
+    },
+    {
+      "name": "百日食事",
+      "count": 9
+    },
+    {
+      "name": "FanWorks",
+      "count": 9
+    },
+    {
+      "name": "日常",
+      "count": 4
+    },
+    {
+      "name": "2015年",
+      "count": 3
+    },
+    {
+      "name": "小说改",
+      "count": 3
+    },
+    {
+      "name": "2016",
+      "count": 1
+    },
+    {
+      "name": "英国一家吃在日本",
+      "count": 1
+    },
+    {
+      "name": "剧集",
+      "count": 1
+    },
+    {
+      "name": "満仲由紀子",
+      "count": 1
+    },
+    {
+      "name": "T3",
+      "count": 1
+    },
+    {
+      "name": "日本料理",
+      "count": 1
+    },
+    {
+      "name": "工匠精神",
+      "count": 1
+    },
+    {
+      "name": "英国一家，吃在日本",
+      "count": 1
+    },
+    {
+      "name": "高津晴天",
+      "count": 1
+    },
+    {
+      "name": "201504",
+      "count": 1
+    },
+    {
+      "name": "吹原幸太",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "完结",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

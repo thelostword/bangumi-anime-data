@@ -1,0 +1,153 @@
+{
+  "id": 101442,
+  "name": "のんのんびより  りぴーと",
+  "name_cn": "悠哉日常大王 Repeat",
+  "summary": "「旭丘分校」只有5名学生。\r\n虽然年纪和性格都不相同，一起赏花，一起在河边玩耍，一起挖白薯，一起挖雪洞……\r\n一起度过春夏秋冬，享受着田间生活。\r\n虽然在平淡的生活中可能并未察觉，不知不觉中，一起欢笑，一起流泪，心中变得温暖起来。\r\n这样悠哉游哉的时光再次到来。",
+  "date": "2015-07-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/8b/6b/101442_EM1Vg.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/8b/6b/101442_EM1Vg.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 214,
+    "total": 5676,
+    "count": {
+      "1": 2,
+      "2": 2,
+      "3": 2,
+      "4": 10,
+      "5": 38,
+      "6": 240,
+      "7": 1105,
+      "8": 2777,
+      "9": 1041,
+      "10": 459
+    },
+    "score": 8
+  },
+  "tags": [
+    {
+      "name": "日常",
+      "count": 1639
+    },
+    {
+      "name": "治愈",
+      "count": 1408
+    },
+    {
+      "name": "喵帕斯",
+      "count": 1033
+    },
+    {
+      "name": "SILVERLINK.",
+      "count": 786
+    },
+    {
+      "name": "2015年7月",
+      "count": 763
+    },
+    {
+      "name": "TV",
+      "count": 598
+    },
+    {
+      "name": "漫画改",
+      "count": 557
+    },
+    {
+      "name": "悠哉日常大王",
+      "count": 496
+    },
+    {
+      "name": "百合",
+      "count": 408
+    },
+    {
+      "name": "萌",
+      "count": 394
+    },
+    {
+      "name": "2015",
+      "count": 367
+    },
+    {
+      "name": "漫改",
+      "count": 227
+    },
+    {
+      "name": "川面真也",
+      "count": 147
+    },
+    {
+      "name": "第二季",
+      "count": 121
+    },
+    {
+      "name": "吉田玲子",
+      "count": 92
+    },
+    {
+      "name": "搞笑",
+      "count": 53
+    },
+    {
+      "name": "续作",
+      "count": 30
+    },
+    {
+      "name": "萝莉",
+      "count": 27
+    },
+    {
+      "name": "轻百合",
+      "count": 26
+    },
+    {
+      "name": "乡村",
+      "count": 25
+    },
+    {
+      "name": "阿澄佳奈",
+      "count": 22
+    },
+    {
+      "name": "2015年",
+      "count": 19
+    },
+    {
+      "name": "萌系",
+      "count": 14
+    },
+    {
+      "name": "村川梨衣",
+      "count": 13
+    },
+    {
+      "name": "SILVER_LINK.",
+      "count": 13
+    },
+    {
+      "name": "佐仓绫音",
+      "count": 12
+    },
+    {
+      "name": "SILVERLINK",
+      "count": 11
+    },
+    {
+      "name": "校园",
+      "count": 10
+    },
+    {
+      "name": "日本",
+      "count": 10
+    },
+    {
+      "name": "志茂文彦",
+      "count": 9
+    }
+  ],
+  "locked": false
+}

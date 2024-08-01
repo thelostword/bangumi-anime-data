@@ -1,0 +1,81 @@
+{
+  "id": 310899,
+  "name": "せいぜいがんばれ！魔法少女くるみ 3期",
+  "name_cn": "尽量加油吧！魔法少女胡桃 第三季",
+  "summary": "",
+  "date": "2020-10-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/33/65/310899_WL100.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/33/65/310899_WL100.jpg"
+  },
+  "eps": 25,
+  "rating": {
+    "rank": 0,
+    "total": 7,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 2,
+      "7": 4,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.9
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 3
+    },
+    {
+      "name": "原创",
+      "count": 3
+    },
+    {
+      "name": "PieInTheSky",
+      "count": 2
+    },
+    {
+      "name": "2020年10月",
+      "count": 2
+    },
+    {
+      "name": "TV",
+      "count": 2
+    },
+    {
+      "name": "2020",
+      "count": 2
+    },
+    {
+      "name": "放送开始：2020年10月",
+      "count": 1
+    },
+    {
+      "name": "没汉化",
+      "count": 1
+    },
+    {
+      "name": "Pie_in_the_sky",
+      "count": 1
+    },
+    {
+      "name": "Web动画",
+      "count": 1
+    },
+    {
+      "name": "松本庆祐",
+      "count": 1
+    },
+    {
+      "name": "WEB",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

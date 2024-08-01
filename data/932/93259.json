@@ -1,0 +1,45 @@
+{
+  "id": 93259,
+  "name": "チャンネル5.5",
+  "name_cn": "5.5频道",
+  "summary": "",
+  "date": "2014-01-28",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/f2/63/93259_G377s.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/f2/63/93259_G377s.jpg"
+  },
+  "eps": 4,
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 1
+  },
+  "tags": [
+    {
+      "name": "store",
+      "count": 1
+    },
+    {
+      "name": "outlet",
+      "count": 1
+    },
+    {
+      "name": "Moncler",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

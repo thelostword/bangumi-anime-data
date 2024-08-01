@@ -1,0 +1,153 @@
+{
+  "id": 84083,
+  "name": "ぷちます!!‐プチプチ・アイドルマスター‐",
+  "name_cn": "迷你偶像 2期",
+  "summary": "",
+  "date": "2014-04-01",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e3/0e/84083_UaAun.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e3/0e/84083_UaAun.jpg"
+  },
+  "eps": 74,
+  "rating": {
+    "rank": 1434,
+    "total": 494,
+    "count": {
+      "1": 1,
+      "2": 2,
+      "3": 0,
+      "4": 1,
+      "5": 16,
+      "6": 72,
+      "7": 199,
+      "8": 148,
+      "9": 36,
+      "10": 19
+    },
+    "score": 7.3
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 185
+    },
+    {
+      "name": "偶像大师",
+      "count": 95
+    },
+    {
+      "name": "迷你偶像",
+      "count": 93
+    },
+    {
+      "name": "2014年4月",
+      "count": 84
+    },
+    {
+      "name": "漫画改",
+      "count": 76
+    },
+    {
+      "name": "2014",
+      "count": 63
+    },
+    {
+      "name": "TV",
+      "count": 61
+    },
+    {
+      "name": "GATHERING",
+      "count": 52
+    },
+    {
+      "name": "WEB",
+      "count": 48
+    },
+    {
+      "name": "偶像",
+      "count": 45
+    },
+    {
+      "name": "日常",
+      "count": 45
+    },
+    {
+      "name": "萌",
+      "count": 36
+    },
+    {
+      "name": "搞笑",
+      "count": 30
+    },
+    {
+      "name": "漫改",
+      "count": 24
+    },
+    {
+      "name": "IM@S",
+      "count": 18
+    },
+    {
+      "name": "まんきゅう",
+      "count": 5
+    },
+    {
+      "name": "ギャザリング",
+      "count": 4
+    },
+    {
+      "name": "万球",
+      "count": 4
+    },
+    {
+      "name": "日本",
+      "count": 4
+    },
+    {
+      "name": "原由实",
+      "count": 4
+    },
+    {
+      "name": "2014年",
+      "count": 4
+    },
+    {
+      "name": "泡面",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 3
+    },
+    {
+      "name": "百合",
+      "count": 3
+    },
+    {
+      "name": "短片",
+      "count": 3
+    },
+    {
+      "name": "续作",
+      "count": 2
+    },
+    {
+      "name": "骗钱大师",
+      "count": 2
+    },
+    {
+      "name": "原创",
+      "count": 2
+    },
+    {
+      "name": "アイドルマスター",
+      "count": 2
+    },
+    {
+      "name": "面都泡不熟",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

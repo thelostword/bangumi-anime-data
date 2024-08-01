@@ -1,0 +1,153 @@
+{
+  "id": 327414,
+  "name": "鬼滅の刃 中高一貫!! キメツ学園物語",
+  "name_cn": "鬼灭之刃 初高一体!!鬼灭学园物语",
+  "summary": "",
+  "date": "2021-02-14",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ad/42/327414_U8ddu.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ad/42/327414_U8ddu.jpg"
+  },
+  "eps": 7,
+  "rating": {
+    "rank": 6924,
+    "total": 290,
+    "count": {
+      "1": 2,
+      "2": 4,
+      "3": 6,
+      "4": 18,
+      "5": 81,
+      "6": 118,
+      "7": 34,
+      "8": 8,
+      "9": 5,
+      "10": 14
+    },
+    "score": 5.9
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 90
+    },
+    {
+      "name": "ufotable",
+      "count": 88
+    },
+    {
+      "name": "2021",
+      "count": 63
+    },
+    {
+      "name": "WEB",
+      "count": 62
+    },
+    {
+      "name": "搞笑",
+      "count": 47
+    },
+    {
+      "name": "鬼灭之刃",
+      "count": 46
+    },
+    {
+      "name": "校园",
+      "count": 41
+    },
+    {
+      "name": "漫画改",
+      "count": 28
+    },
+    {
+      "name": "SP",
+      "count": 25
+    },
+    {
+      "name": "原创",
+      "count": 22
+    },
+    {
+      "name": "JUMP",
+      "count": 12
+    },
+    {
+      "name": "漫改",
+      "count": 12
+    },
+    {
+      "name": "OVA",
+      "count": 7
+    },
+    {
+      "name": "2021年",
+      "count": 6
+    },
+    {
+      "name": "番外",
+      "count": 5
+    },
+    {
+      "name": "松冈祯丞",
+      "count": 3
+    },
+    {
+      "name": "花江夏树",
+      "count": 3
+    },
+    {
+      "name": "热血",
+      "count": 3
+    },
+    {
+      "name": "鬼头明里",
+      "count": 3
+    },
+    {
+      "name": "2021年2月",
+      "count": 3
+    },
+    {
+      "name": "小西克幸",
+      "count": 2
+    },
+    {
+      "name": "樱井孝宏",
+      "count": 2
+    },
+    {
+      "name": "短片",
+      "count": 2
+    },
+    {
+      "name": "战斗",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "d.短片",
+      "count": 1
+    },
+    {
+      "name": "庸作",
+      "count": 1
+    },
+    {
+      "name": "j.值得且只值得看一遍(3星)",
+      "count": 1
+    },
+    {
+      "name": "字母G",
+      "count": 1
+    },
+    {
+      "name": "『ONA』",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

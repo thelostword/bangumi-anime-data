@@ -1,0 +1,45 @@
+{
+  "id": 258329,
+  "name": "猫のダヤン 日本へ行く",
+  "name_cn": "",
+  "summary": "",
+  "date": "2015-10-17",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/cd/fe/258329_k5dt8.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/cd/fe/258329_k5dt8.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 10
+  },
+  "tags": [
+    {
+      "name": "时事热点",
+      "count": 1
+    },
+    {
+      "name": "胜哄Studio",
+      "count": 1
+    },
+    {
+      "name": "泡面番",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

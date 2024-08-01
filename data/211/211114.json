@@ -1,0 +1,97 @@
+{
+  "id": 211114,
+  "name": "ねこねこ日本史 第2期",
+  "name_cn": "猫猫日本史 第二季",
+  "summary": "",
+  "date": "2017-04-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/5b/81/211114_Dq8HL.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/5b/81/211114_Dq8HL.jpg"
+  },
+  "eps": 32,
+  "rating": {
+    "rank": 0,
+    "total": 11,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 1,
+      "6": 2,
+      "7": 5,
+      "8": 1,
+      "9": 1,
+      "10": 0
+    },
+    "score": 6.6
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 9
+    },
+    {
+      "name": "漫改",
+      "count": 4
+    },
+    {
+      "name": "2017",
+      "count": 2
+    },
+    {
+      "name": "2017年4月",
+      "count": 2
+    },
+    {
+      "name": "河村友宏",
+      "count": 2
+    },
+    {
+      "name": "历史",
+      "count": 2
+    },
+    {
+      "name": "TV",
+      "count": 2
+    },
+    {
+      "name": "高田亮",
+      "count": 1
+    },
+    {
+      "name": "FlyingShipStudio",
+      "count": 1
+    },
+    {
+      "name": "JokerFilms",
+      "count": 1
+    },
+    {
+      "name": "山寺宏一",
+      "count": 1
+    },
+    {
+      "name": "漫画改",
+      "count": 1
+    },
+    {
+      "name": "搞笑",
+      "count": 1
+    },
+    {
+      "name": "猫",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "小林ゆう",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

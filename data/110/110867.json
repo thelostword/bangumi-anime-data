@@ -1,0 +1,153 @@
+{
+  "id": 110867,
+  "name": "魔法少女リリカルなのはViVid",
+  "name_cn": "魔法少女奈叶ViVid",
+  "summary": "《魔法少女奈叶ViVid》以奈叶收养的女孩薇薇欧为主人公，讲述了“JS事件”之后，刚进入魔法学校初等科的她在掌握了魔法基本知识后，收到了奈叶和菲特赠送的专用法器“神圣之心”；而另一边，自称为“霸王”的神秘人物英格瓦尔特，正准备掀起一股新的波澜……",
+  "date": "2015-04-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/cb/3d/110867_PAS54.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/cb/3d/110867_PAS54.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 6122,
+    "total": 1041,
+    "count": {
+      "1": 5,
+      "2": 6,
+      "3": 11,
+      "4": 51,
+      "5": 149,
+      "6": 384,
+      "7": 338,
+      "8": 72,
+      "9": 20,
+      "10": 5
+    },
+    "score": 6.2
+  },
+  "tags": [
+    {
+      "name": "2015年4月",
+      "count": 240
+    },
+    {
+      "name": "A-1Pictures",
+      "count": 224
+    },
+    {
+      "name": "百合",
+      "count": 214
+    },
+    {
+      "name": "漫画改",
+      "count": 158
+    },
+    {
+      "name": "魔法少女奈叶",
+      "count": 151
+    },
+    {
+      "name": "魔法少女奈叶ViVid",
+      "count": 144
+    },
+    {
+      "name": "TV",
+      "count": 142
+    },
+    {
+      "name": "魔炮",
+      "count": 126
+    },
+    {
+      "name": "2015",
+      "count": 96
+    },
+    {
+      "name": "萝莉",
+      "count": 84
+    },
+    {
+      "name": "魔法少女",
+      "count": 66
+    },
+    {
+      "name": "都築真紀",
+      "count": 55
+    },
+    {
+      "name": "漫改",
+      "count": 39
+    },
+    {
+      "name": "战斗",
+      "count": 17
+    },
+    {
+      "name": "能登麻美子",
+      "count": 14
+    },
+    {
+      "name": "伊藤祐毅",
+      "count": 13
+    },
+    {
+      "name": "2015年四月番",
+      "count": 7
+    },
+    {
+      "name": "2015年",
+      "count": 5
+    },
+    {
+      "name": "TVA",
+      "count": 5
+    },
+    {
+      "name": "A-1_Pictures",
+      "count": 5
+    },
+    {
+      "name": "喜多村英梨",
+      "count": 4
+    },
+    {
+      "name": "A-1",
+      "count": 4
+    },
+    {
+      "name": "田村ゆかり",
+      "count": 4
+    },
+    {
+      "name": "续作",
+      "count": 4
+    },
+    {
+      "name": "季番",
+      "count": 4
+    },
+    {
+      "name": "轻百合",
+      "count": 4
+    },
+    {
+      "name": "伊藤佑毅",
+      "count": 4
+    },
+    {
+      "name": "藤真拓哉",
+      "count": 4
+    },
+    {
+      "name": "萌",
+      "count": 4
+    },
+    {
+      "name": "水树奈奈",
+      "count": 4
+    }
+  ],
+  "locked": false
+}

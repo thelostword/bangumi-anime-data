@@ -1,0 +1,109 @@
+{
+  "id": 117676,
+  "name": "山ねずみロッキーチャック",
+  "name_cn": "小山鼠洛基",
+  "summary": "",
+  "date": "1973-01-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ea/50/117676_6VAK6.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ea/50/117676_6VAK6.jpg"
+  },
+  "eps": 52,
+  "rating": {
+    "rank": 0,
+    "total": 2,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 2,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "童年",
+      "count": 2
+    },
+    {
+      "name": "补旧番",
+      "count": 2
+    },
+    {
+      "name": "TV",
+      "count": 2
+    },
+    {
+      "name": "遠藤政治",
+      "count": 1
+    },
+    {
+      "name": "瑞鷹",
+      "count": 1
+    },
+    {
+      "name": "増山江威子",
+      "count": 1
+    },
+    {
+      "name": "丹野雄二",
+      "count": 1
+    },
+    {
+      "name": "山賀裕二",
+      "count": 1
+    },
+    {
+      "name": "瑞鹰映像",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "1973年",
+      "count": 1
+    },
+    {
+      "name": "1973",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "冒险",
+      "count": 1
+    },
+    {
+      "name": "环保",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "经典",
+      "count": 1
+    },
+    {
+      "name": "永井一郎",
+      "count": 1
+    },
+    {
+      "name": "怀旧",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

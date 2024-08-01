@@ -1,0 +1,153 @@
+{
+  "id": 120205,
+  "name": "えくそだすっ！",
+  "name_cn": "Exodus!",
+  "summary": "《白箱》剧中剧，BD/DVD第三卷特典。",
+  "date": "2015-02-25",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/18/6c/120205_p74iW.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/18/6c/120205_p74iW.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 4457,
+    "total": 1778,
+    "count": {
+      "1": 5,
+      "2": 1,
+      "3": 13,
+      "4": 26,
+      "5": 165,
+      "6": 551,
+      "7": 761,
+      "8": 214,
+      "9": 23,
+      "10": 19
+    },
+    "score": 6.6
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 741
+    },
+    {
+      "name": "P.A.WORKS",
+      "count": 630
+    },
+    {
+      "name": "剧中剧",
+      "count": 466
+    },
+    {
+      "name": "原创",
+      "count": 377
+    },
+    {
+      "name": "白箱",
+      "count": 321
+    },
+    {
+      "name": "2015",
+      "count": 303
+    },
+    {
+      "name": "水岛努",
+      "count": 244
+    },
+    {
+      "name": "偶像",
+      "count": 167
+    },
+    {
+      "name": "2015年2月",
+      "count": 99
+    },
+    {
+      "name": "Exodus!",
+      "count": 82
+    },
+    {
+      "name": "武藏野",
+      "count": 75
+    },
+    {
+      "name": "水島努",
+      "count": 47
+    },
+    {
+      "name": "SHIROBAKO",
+      "count": 42
+    },
+    {
+      "name": "吉野弘幸",
+      "count": 33
+    },
+    {
+      "name": "2015年",
+      "count": 20
+    },
+    {
+      "name": "中原麻衣",
+      "count": 12
+    },
+    {
+      "name": "搞笑",
+      "count": 12
+    },
+    {
+      "name": "日本",
+      "count": 10
+    },
+    {
+      "name": "茅野爱衣",
+      "count": 10
+    },
+    {
+      "name": "炸裂",
+      "count": 9
+    },
+    {
+      "name": "伊藤静",
+      "count": 9
+    },
+    {
+      "name": "2015年1月",
+      "count": 7
+    },
+    {
+      "name": "原创动画",
+      "count": 6
+    },
+    {
+      "name": "SP",
+      "count": 5
+    },
+    {
+      "name": "番外",
+      "count": 5
+    },
+    {
+      "name": "森島範子",
+      "count": 4
+    },
+    {
+      "name": "TV",
+      "count": 4
+    },
+    {
+      "name": "日本动画",
+      "count": 4
+    },
+    {
+      "name": "短片",
+      "count": 4
+    },
+    {
+      "name": "悬疑",
+      "count": 4
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,141 @@
+{
+  "id": 175309,
+  "name": "カードファイト!! ヴァンガードG ストライドゲート編",
+  "name_cn": "卡片战斗先导者G Stride Gate篇",
+  "summary": "2016年4月17日よりテレビ東京系列で放送開始予定。",
+  "date": "2016-04-17",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/d1/01/175309_mbsO6.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/d1/01/175309_mbsO6.jpg"
+  },
+  "eps": 24,
+  "rating": {
+    "rank": 0,
+    "total": 12,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 0,
+      "7": 5,
+      "8": 3,
+      "9": 2,
+      "10": 0
+    },
+    "score": 6.9
+  },
+  "tags": [
+    {
+      "name": "2016年4月",
+      "count": 9
+    },
+    {
+      "name": "2016",
+      "count": 8
+    },
+    {
+      "name": "TV",
+      "count": 7
+    },
+    {
+      "name": "续作",
+      "count": 6
+    },
+    {
+      "name": "游戏改",
+      "count": 6
+    },
+    {
+      "name": "TMS",
+      "count": 5
+    },
+    {
+      "name": "续期",
+      "count": 4
+    },
+    {
+      "name": "改编",
+      "count": 3
+    },
+    {
+      "name": "2016年",
+      "count": 2
+    },
+    {
+      "name": "TMSEntertainment",
+      "count": 2
+    },
+    {
+      "name": "卡牌",
+      "count": 2
+    },
+    {
+      "name": "201604",
+      "count": 2
+    },
+    {
+      "name": "游戏改编",
+      "count": 2
+    },
+    {
+      "name": "2016年四月番",
+      "count": 2
+    },
+    {
+      "name": "梅本唯",
+      "count": 2
+    },
+    {
+      "name": "石井マーク",
+      "count": 1
+    },
+    {
+      "name": "屹青",
+      "count": 1
+    },
+    {
+      "name": "VGG",
+      "count": 1
+    },
+    {
+      "name": "吉村清子",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "宫野真守",
+      "count": 1
+    },
+    {
+      "name": "トムス・エンタテインメント",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "卡片战斗先导者G",
+      "count": 1
+    },
+    {
+      "name": "Vanguard",
+      "count": 1
+    },
+    {
+      "name": "榎木淳弥",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

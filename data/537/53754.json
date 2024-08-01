@@ -1,0 +1,105 @@
+{
+  "id": 53754,
+  "name": "新・巨人の星",
+  "name_cn": "新巨人之星",
+  "summary": "",
+  "date": "1977-10-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/17/bf/53754_iZZsV.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/17/bf/53754_iZZsV.jpg"
+  },
+  "eps": 52,
+  "rating": {
+    "rank": 0,
+    "total": 7,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 1,
+      "5": 0,
+      "6": 3,
+      "7": 2,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.6
+  },
+  "tags": [
+    {
+      "name": "1977",
+      "count": 5
+    },
+    {
+      "name": "TV",
+      "count": 3
+    },
+    {
+      "name": "¬",
+      "count": 2
+    },
+    {
+      "name": "可看可不看",
+      "count": 2
+    },
+    {
+      "name": "東京ムービー",
+      "count": 2
+    },
+    {
+      "name": "井上真樹夫",
+      "count": 2
+    },
+    {
+      "name": "岡崎稔",
+      "count": 2
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "赛璐珞",
+      "count": 1
+    },
+    {
+      "name": "出﨑哲",
+      "count": 1
+    },
+    {
+      "name": "东京电影新社",
+      "count": 1
+    },
+    {
+      "name": "70s",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "棒球",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "古谷徹",
+      "count": 1
+    },
+    {
+      "name": "今沢哲男",
+      "count": 1
+    },
+    {
+      "name": "无在线",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

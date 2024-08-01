@@ -1,0 +1,141 @@
+{
+  "id": 338655,
+  "name": "MAKE MY DAY",
+  "name_cn": "冰雪极境",
+  "summary": "白鳥座の角にある氷と雪に覆われた不毛な惑星。地下の暗闇から突如として謎の生物が現れ、住民たちを襲い始める。\r\n明日が見えない恐怖の中で、人間たちは生き延びることができるのか？",
+  "date": "2023-02-02",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e4/65/338655_2VnUz.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e4/65/338655_2VnUz.jpg"
+  },
+  "eps": 8,
+  "rating": {
+    "rank": 7591,
+    "total": 56,
+    "count": {
+      "1": 3,
+      "2": 3,
+      "3": 8,
+      "4": 11,
+      "5": 17,
+      "6": 4,
+      "7": 8,
+      "8": 1,
+      "9": 1,
+      "10": 0
+    },
+    "score": 4.6
+  },
+  "tags": [
+    {
+      "name": "Netflix",
+      "count": 45
+    },
+    {
+      "name": "2023年1月",
+      "count": 33
+    },
+    {
+      "name": "科幻",
+      "count": 31
+    },
+    {
+      "name": "原创",
+      "count": 28
+    },
+    {
+      "name": "WEB",
+      "count": 24
+    },
+    {
+      "name": "TV",
+      "count": 13
+    },
+    {
+      "name": "本多真",
+      "count": 11
+    },
+    {
+      "name": "Five",
+      "count": 11
+    },
+    {
+      "name": "2023",
+      "count": 10
+    },
+    {
+      "name": "牛尾宪辅",
+      "count": 8
+    },
+    {
+      "name": "太田垣康男",
+      "count": 6
+    },
+    {
+      "name": "SF",
+      "count": 5
+    },
+    {
+      "name": "押山清高",
+      "count": 5
+    },
+    {
+      "name": "3D",
+      "count": 5
+    },
+    {
+      "name": "河森正治",
+      "count": 4
+    },
+    {
+      "name": "5",
+      "count": 3
+    },
+    {
+      "name": "吉澤佑実子",
+      "count": 2
+    },
+    {
+      "name": "出色的机设，节奏和配乐",
+      "count": 1
+    },
+    {
+      "name": "Studio5",
+      "count": 1
+    },
+    {
+      "name": "屎一样的人设模型",
+      "count": 1
+    },
+    {
+      "name": "待補2",
+      "count": 1
+    },
+    {
+      "name": "5Inc.",
+      "count": 1
+    },
+    {
+      "name": "日本",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "欧美",
+      "count": 1
+    },
+    {
+      "name": "Animation",
+      "count": 1
+    },
+    {
+      "name": "动画",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

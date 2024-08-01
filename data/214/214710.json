@@ -1,0 +1,153 @@
+{
+  "id": 214710,
+  "name": "ガンダムビルドファイターズ バトローグ",
+  "name_cn": "高达创战者 Battlogue",
+  "summary": "ショートフィルムで送る、様々なシチュエーション、\r\n様々なガンプラで展開される珠玉のドリームバトル。\r\n誰しもが熱狂するガンプラバトルがここにある！",
+  "date": "2017-08-04",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c5/d0/214710_pCevB.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c5/d0/214710_pCevB.jpg"
+  },
+  "eps": 5,
+  "rating": {
+    "rank": 4526,
+    "total": 268,
+    "count": {
+      "1": 1,
+      "2": 1,
+      "3": 3,
+      "4": 4,
+      "5": 24,
+      "6": 89,
+      "7": 111,
+      "8": 32,
+      "9": 2,
+      "10": 1
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "SUNRISE",
+      "count": 79
+    },
+    {
+      "name": "高达",
+      "count": 66
+    },
+    {
+      "name": "WEB",
+      "count": 56
+    },
+    {
+      "name": "2017",
+      "count": 44
+    },
+    {
+      "name": "萝卜",
+      "count": 37
+    },
+    {
+      "name": "大張正己",
+      "count": 28
+    },
+    {
+      "name": "原创",
+      "count": 25
+    },
+    {
+      "name": "黑田洋介",
+      "count": 23
+    },
+    {
+      "name": "2017年8月",
+      "count": 20
+    },
+    {
+      "name": "短片",
+      "count": 19
+    },
+    {
+      "name": "机战",
+      "count": 18
+    },
+    {
+      "name": "OVA",
+      "count": 14
+    },
+    {
+      "name": "GUNDAM",
+      "count": 13
+    },
+    {
+      "name": "高达创战者",
+      "count": 8
+    },
+    {
+      "name": "黒田洋介",
+      "count": 5
+    },
+    {
+      "name": "科幻",
+      "count": 4
+    },
+    {
+      "name": "大张正已",
+      "count": 3
+    },
+    {
+      "name": "动画",
+      "count": 3
+    },
+    {
+      "name": "サンライズ",
+      "count": 3
+    },
+    {
+      "name": "大张正己",
+      "count": 3
+    },
+    {
+      "name": "战斗",
+      "count": 2
+    },
+    {
+      "name": "2017年",
+      "count": 2
+    },
+    {
+      "name": "橘麻美",
+      "count": 2
+    },
+    {
+      "name": "林友树",
+      "count": 2
+    },
+    {
+      "name": "模型",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "竞技",
+      "count": 2
+    },
+    {
+      "name": "『ONA』",
+      "count": 1
+    },
+    {
+      "name": "b社的刚普拉广告",
+      "count": 1
+    },
+    {
+      "name": "高达Game",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,153 @@
+{
+  "id": 136913,
+  "name": "弱酸性ミリオンアーサー",
+  "name_cn": "弱酸性百万亚瑟王",
+  "summary": "『乖離性ミリオンアーサー』の公式生放送『まじょラボ！』第2回においてWebアニメ化が発表され、2015年11月20日から配信中。",
+  "date": "2015-11-20",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/cd/c6/136913_80K9r.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/cd/c6/136913_80K9r.jpg"
+  },
+  "eps": 84,
+  "rating": {
+    "rank": 3619,
+    "total": 132,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 4,
+      "5": 20,
+      "6": 39,
+      "7": 38,
+      "8": 22,
+      "9": 8,
+      "10": 1
+    },
+    "score": 6.6
+  },
+  "tags": [
+    {
+      "name": "搞笑",
+      "count": 33
+    },
+    {
+      "name": "泡面",
+      "count": 28
+    },
+    {
+      "name": "2015年10月",
+      "count": 24
+    },
+    {
+      "name": "泡面番",
+      "count": 22
+    },
+    {
+      "name": "WEB",
+      "count": 16
+    },
+    {
+      "name": "游戏改",
+      "count": 16
+    },
+    {
+      "name": "2015",
+      "count": 14
+    },
+    {
+      "name": "弱酸性百万亚瑟王",
+      "count": 11
+    },
+    {
+      "name": "无厘头",
+      "count": 11
+    },
+    {
+      "name": "GATHERING",
+      "count": 10
+    },
+    {
+      "name": "四格漫画改",
+      "count": 9
+    },
+    {
+      "name": "漫画改",
+      "count": 7
+    },
+    {
+      "name": "2015年11月",
+      "count": 3
+    },
+    {
+      "name": "漫改",
+      "count": 2
+    },
+    {
+      "name": "ちょぼらうにょぽみ",
+      "count": 2
+    },
+    {
+      "name": "萌",
+      "count": 2
+    },
+    {
+      "name": "2015年",
+      "count": 2
+    },
+    {
+      "name": "ギャザリング",
+      "count": 2
+    },
+    {
+      "name": "佐倉綾音",
+      "count": 2
+    },
+    {
+      "name": "TV",
+      "count": 2
+    },
+    {
+      "name": "井口裕香",
+      "count": 2
+    },
+    {
+      "name": "まんきゅう",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "氪改",
+      "count": 1
+    },
+    {
+      "name": "2016年4月",
+      "count": 1
+    },
+    {
+      "name": "钉宫",
+      "count": 1
+    },
+    {
+      "name": "日本",
+      "count": 1
+    },
+    {
+      "name": "2015年十月番",
+      "count": 1
+    },
+    {
+      "name": "检查",
+      "count": 1
+    },
+    {
+      "name": "2015年Web·SP",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

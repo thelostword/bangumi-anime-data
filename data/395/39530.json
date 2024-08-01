@@ -1,0 +1,153 @@
+{
+  "id": 39530,
+  "name": "新機動戦記ガンダムW Endless Waltz",
+  "name_cn": "新机动战记高达W 无尽的华尔兹",
+  "summary": " TVシリーズの物語から1年後を舞台に、真のオペレーション・メテオを実行せんとするデキム・バートンとマリーメイア軍の反乱を描いたOVA。\r\nノベライズでは『EPISODE ZERO』の内容を詳細に描いた節がある。\r\n後に再編集され、追加映像を加えた「特別篇」が劇場公開された。",
+  "date": "1997-01-25",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/7c/69/39530_85Mu8.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/7c/69/39530_85Mu8.jpg"
+  },
+  "eps": 3,
+  "rating": {
+    "rank": 1355,
+    "total": 557,
+    "count": {
+      "1": 2,
+      "2": 0,
+      "3": 0,
+      "4": 4,
+      "5": 12,
+      "6": 64,
+      "7": 221,
+      "8": 211,
+      "9": 38,
+      "10": 5
+    },
+    "score": 7.3
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 154
+    },
+    {
+      "name": "SUNRISE",
+      "count": 136
+    },
+    {
+      "name": "高达",
+      "count": 128
+    },
+    {
+      "name": "1997",
+      "count": 83
+    },
+    {
+      "name": "原创",
+      "count": 60
+    },
+    {
+      "name": "GUNDAM",
+      "count": 45
+    },
+    {
+      "name": "萝卜",
+      "count": 43
+    },
+    {
+      "name": "无尽的华尔兹",
+      "count": 43
+    },
+    {
+      "name": "機動戦士ガンダム",
+      "count": 33
+    },
+    {
+      "name": "高达W",
+      "count": 24
+    },
+    {
+      "name": "青木康直",
+      "count": 22
+    },
+    {
+      "name": "富野由悠季",
+      "count": 12
+    },
+    {
+      "name": "大谷幸",
+      "count": 10
+    },
+    {
+      "name": "机战",
+      "count": 10
+    },
+    {
+      "name": "科幻",
+      "count": 8
+    },
+    {
+      "name": "战争",
+      "count": 7
+    },
+    {
+      "name": "90年代",
+      "count": 7
+    },
+    {
+      "name": "剧场版",
+      "count": 5
+    },
+    {
+      "name": "隅沢克之",
+      "count": 5
+    },
+    {
+      "name": "村濑修功",
+      "count": 4
+    },
+    {
+      "name": "日本",
+      "count": 3
+    },
+    {
+      "name": "掉毛",
+      "count": 3
+    },
+    {
+      "name": "1997年1月",
+      "count": 3
+    },
+    {
+      "name": "绿川光",
+      "count": 3
+    },
+    {
+      "name": "サンライズ",
+      "count": 3
+    },
+    {
+      "name": "1990s",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 2
+    },
+    {
+      "name": "1997年",
+      "count": 2
+    },
+    {
+      "name": "浦上靖夫",
+      "count": 2
+    },
+    {
+      "name": "补旧番",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

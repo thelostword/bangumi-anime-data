@@ -1,0 +1,129 @@
+{
+  "id": 349388,
+  "name": "カードファイト!! ヴァンガード will+Dress",
+  "name_cn": "卡片战斗先导者 will+Dress",
+  "summary": "ユウユたちの元にある大会への招待状が届いた。\r\nその大会「デラックス」とは総合プロデューサー 向江ジンキの\r\n独自の調査によって選ばれた16名の精鋭たちから、\r\n“誰が最強か”を決めるべく企画された大会だった！\r\n日本最強のファイターの称号をかけた戦いが今始まる！",
+  "date": "2022-07-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ad/62/349388_7v4v4.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ad/62/349388_7v4v4.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 0,
+    "total": 30,
+    "count": {
+      "1": 1,
+      "2": 1,
+      "3": 1,
+      "4": 5,
+      "5": 8,
+      "6": 8,
+      "7": 3,
+      "8": 2,
+      "9": 0,
+      "10": 1
+    },
+    "score": 5.4
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 13
+    },
+    {
+      "name": "KINEMACITRUS",
+      "count": 11
+    },
+    {
+      "name": "2022年7月",
+      "count": 10
+    },
+    {
+      "name": "2022",
+      "count": 10
+    },
+    {
+      "name": "STUDIOJEMI",
+      "count": 9
+    },
+    {
+      "name": "卡牌",
+      "count": 9
+    },
+    {
+      "name": "原创",
+      "count": 7
+    },
+    {
+      "name": "GiftAnimation",
+      "count": 4
+    },
+    {
+      "name": "卡片战斗先导者",
+      "count": 2
+    },
+    {
+      "name": "小笠原仁",
+      "count": 2
+    },
+    {
+      "name": "鈴木龍太郎",
+      "count": 2
+    },
+    {
+      "name": "子供向",
+      "count": 2
+    },
+    {
+      "name": "KINEMACITRUS、GiftAnimation、STU",
+      "count": 1
+    },
+    {
+      "name": "屹青",
+      "count": 1
+    },
+    {
+      "name": "长剧集",
+      "count": 1
+    },
+    {
+      "name": "ぎふとアニメーション",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "2022年",
+      "count": 1
+    },
+    {
+      "name": "续作",
+      "count": 1
+    },
+    {
+      "name": "Vanguard",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "正太",
+      "count": 1
+    },
+    {
+      "name": "蒼井翔太",
+      "count": 1
+    },
+    {
+      "name": "森賢",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

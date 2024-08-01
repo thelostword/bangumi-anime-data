@@ -1,0 +1,145 @@
+{
+  "id": 266787,
+  "name": "HERO≠MASK",
+  "name_cn": "英雄面具",
+  "summary": "發生一連串離奇的死亡案件後，公訴檢察官莎拉·辛克萊和犯罪特偵處的探員詹姆斯·布拉德，發現一個以生化面具為核心、前所未見的詭異陰謀。",
+  "date": "2018-12-03",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/f3/99/266787_nO0eZ.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/f3/99/266787_nO0eZ.jpg"
+  },
+  "eps": 15,
+  "rating": {
+    "rank": 7091,
+    "total": 86,
+    "count": {
+      "1": 2,
+      "2": 2,
+      "3": 3,
+      "4": 10,
+      "5": 35,
+      "6": 20,
+      "7": 8,
+      "8": 4,
+      "9": 0,
+      "10": 2
+    },
+    "score": 5.3
+  },
+  "tags": [
+    {
+      "name": "Netflix",
+      "count": 49
+    },
+    {
+      "name": "原创",
+      "count": 35
+    },
+    {
+      "name": "StudioPierrot",
+      "count": 30
+    },
+    {
+      "name": "2018",
+      "count": 27
+    },
+    {
+      "name": "悬疑",
+      "count": 24
+    },
+    {
+      "name": "犯罪",
+      "count": 19
+    },
+    {
+      "name": "WEB",
+      "count": 19
+    },
+    {
+      "name": "2018年12月",
+      "count": 11
+    },
+    {
+      "name": "TV",
+      "count": 7
+    },
+    {
+      "name": "推理",
+      "count": 7
+    },
+    {
+      "name": "2019年1月",
+      "count": 6
+    },
+    {
+      "name": "青木弘安",
+      "count": 5
+    },
+    {
+      "name": "2018年10月",
+      "count": 3
+    },
+    {
+      "name": "科幻",
+      "count": 3
+    },
+    {
+      "name": "ぴえろ",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 1
+    },
+    {
+      "name": "interested",
+      "count": 1
+    },
+    {
+      "name": "面具英雄",
+      "count": 1
+    },
+    {
+      "name": "『ONA』",
+      "count": 1
+    },
+    {
+      "name": "日本",
+      "count": 1
+    },
+    {
+      "name": "奇幻",
+      "count": 1
+    },
+    {
+      "name": "战斗",
+      "count": 1
+    },
+    {
+      "name": "甲斐田裕子",
+      "count": 1
+    },
+    {
+      "name": "3",
+      "count": 1
+    },
+    {
+      "name": "加瀬康之",
+      "count": 1
+    },
+    {
+      "name": "内山昂輝",
+      "count": 1
+    },
+    {
+      "name": "2018年",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

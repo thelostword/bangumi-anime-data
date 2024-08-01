@@ -1,0 +1,65 @@
+{
+  "id": 169499,
+  "name": "シートン動物記 くまの子ジャッキー",
+  "name_cn": "",
+  "summary": "",
+  "date": "1977-06-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/17/4a/169499_lPlN2.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/17/4a/169499_lPlN2.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 10
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 2
+    },
+    {
+      "name": "1977",
+      "count": 2
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "时事热点",
+      "count": 1
+    },
+    {
+      "name": "1977年四月番",
+      "count": 1
+    },
+    {
+      "name": "1977年",
+      "count": 1
+    },
+    {
+      "name": "日本动画公司",
+      "count": 1
+    },
+    {
+      "name": "1977年6月",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

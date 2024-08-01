@@ -1,0 +1,153 @@
+{
+  "id": 2255,
+  "name": "日本一の男の魂",
+  "name_cn": "日本第一男人之魂",
+  "summary": "改編自喜国雅彦的同名漫畫。\r\n以黃色NETA爲主要内容的搞笑動畫，每話由不同主題的3個左右的獨立短片組成。共兩季，均於1999年在TBS電視臺播放。第一季播放於動畫欄目《ワンダフル》。\r\n動畫中也包含喜国雅彦的另一作品《傷だらけの天使たち》的NETA。\r\n\r\ncast\r\n江口淳（声優：有馬克明） \r\n結城智彦（声優：一条和矢） \r\n柴田勝三（声優：矢部雅史） \r\n堺（声優：加瀬田進） \r\nなつみ（声優：手塚ちはる） \r\n\r\nOP：『ゆらめき』（作詞：京/作曲：Shinya/編曲：YOSHIKI、Dir en grey/歌：Dir en grey） \r\nED：無",
+  "date": "1999-01-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c2/ba/2255_k0tT0.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c2/ba/2255_k0tT0.jpg"
+  },
+  "eps": 16,
+  "rating": {
+    "rank": 2138,
+    "total": 66,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 3,
+      "5": 2,
+      "6": 13,
+      "7": 26,
+      "8": 15,
+      "9": 5,
+      "10": 2
+    },
+    "score": 7.1
+  },
+  "tags": [
+    {
+      "name": "搞笑",
+      "count": 33
+    },
+    {
+      "name": "泡面番",
+      "count": 24
+    },
+    {
+      "name": "猥瑣系",
+      "count": 24
+    },
+    {
+      "name": "TV",
+      "count": 23
+    },
+    {
+      "name": "1999",
+      "count": 19
+    },
+    {
+      "name": "恶搞",
+      "count": 10
+    },
+    {
+      "name": "Cha研",
+      "count": 9
+    },
+    {
+      "name": "童年",
+      "count": 8
+    },
+    {
+      "name": "脱力",
+      "count": 8
+    },
+    {
+      "name": "咳咳...",
+      "count": 7
+    },
+    {
+      "name": "老物",
+      "count": 6
+    },
+    {
+      "name": "ボブ白旗",
+      "count": 3
+    },
+    {
+      "name": "漫画改",
+      "count": 2
+    },
+    {
+      "name": "studiodeen",
+      "count": 2
+    },
+    {
+      "name": "ワンダフルアニメ",
+      "count": 2
+    },
+    {
+      "name": "漫改",
+      "count": 2
+    },
+    {
+      "name": "Ⅰ类tv",
+      "count": 1
+    },
+    {
+      "name": "可看可不看",
+      "count": 1
+    },
+    {
+      "name": "『TVA』",
+      "count": 1
+    },
+    {
+      "name": "有馬克明",
+      "count": 1
+    },
+    {
+      "name": "赛璐珞",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "吉田啓良",
+      "count": 1
+    },
+    {
+      "name": "-06",
+      "count": 1
+    },
+    {
+      "name": "90s",
+      "count": 1
+    },
+    {
+      "name": "ミニ番組",
+      "count": 1
+    },
+    {
+      "name": "矢部雅史",
+      "count": 1
+    },
+    {
+      "name": "补番",
+      "count": 1
+    },
+    {
+      "name": "补旧番",
+      "count": 1
+    },
+    {
+      "name": "スタジオディーン",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,153 @@
+{
+  "id": 91517,
+  "name": "シュガー＊ソルジャー",
+  "name_cn": "白砂糖战士",
+  "summary": "",
+  "date": "2014-01-14",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/21/30/91517_iS2Bz.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/21/30/91517_iS2Bz.jpg"
+  },
+  "eps": 3,
+  "rating": {
+    "rank": 7682,
+    "total": 73,
+    "count": {
+      "1": 0,
+      "2": 2,
+      "3": 11,
+      "4": 8,
+      "5": 36,
+      "6": 11,
+      "7": 3,
+      "8": 2,
+      "9": 0,
+      "10": 0
+    },
+    "score": 4.8
+  },
+  "tags": [
+    {
+      "name": "2014",
+      "count": 32
+    },
+    {
+      "name": "OVA",
+      "count": 30
+    },
+    {
+      "name": "少女漫",
+      "count": 11
+    },
+    {
+      "name": "TV",
+      "count": 11
+    },
+    {
+      "name": "漫画改",
+      "count": 10
+    },
+    {
+      "name": "白砂糖战士",
+      "count": 9
+    },
+    {
+      "name": "少女向",
+      "count": 9
+    },
+    {
+      "name": "短片",
+      "count": 9
+    },
+    {
+      "name": "乙女向",
+      "count": 7
+    },
+    {
+      "name": "逢坂良太",
+      "count": 7
+    },
+    {
+      "name": "漫改",
+      "count": 5
+    },
+    {
+      "name": "恋爱",
+      "count": 4
+    },
+    {
+      "name": "校园",
+      "count": 3
+    },
+    {
+      "name": "2014年1月",
+      "count": 3
+    },
+    {
+      "name": "泡面番",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "リボン",
+      "count": 2
+    },
+    {
+      "name": "水",
+      "count": 2
+    },
+    {
+      "name": "水瀬いのり",
+      "count": 1
+    },
+    {
+      "name": "TV（集数1-49）",
+      "count": 1
+    },
+    {
+      "name": "りぼん",
+      "count": 1
+    },
+    {
+      "name": "短片／广告",
+      "count": 1
+    },
+    {
+      "name": "18-100",
+      "count": 1
+    },
+    {
+      "name": "TVSP",
+      "count": 1
+    },
+    {
+      "name": "『TVA』",
+      "count": 1
+    },
+    {
+      "name": "酒井まゆ",
+      "count": 1
+    },
+    {
+      "name": "独立ova",
+      "count": 1
+    },
+    {
+      "name": "PV",
+      "count": 1
+    },
+    {
+      "name": "动画短片",
+      "count": 1
+    },
+    {
+      "name": "女性向",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

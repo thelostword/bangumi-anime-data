@@ -1,0 +1,121 @@
+{
+  "id": 169990,
+  "name": "フューチャーカード バディファイト DDD",
+  "name_cn": "未来卡搭档对战DDD",
+  "summary": "某一天，牙王捡到了印着太阳纹章的蛋。从蛋中出现的，是全新的“必杀怪兽”——！",
+  "date": "2016-04-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/3c/ff/169990_55S33.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/3c/ff/169990_55S33.jpg"
+  },
+  "eps": 51,
+  "rating": {
+    "rank": 0,
+    "total": 5,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 2,
+      "7": 3,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.6
+  },
+  "tags": [
+    {
+      "name": "2016年4月",
+      "count": 7
+    },
+    {
+      "name": "2016",
+      "count": 7
+    },
+    {
+      "name": "斉藤壮馬",
+      "count": 5
+    },
+    {
+      "name": "池田重隆",
+      "count": 4
+    },
+    {
+      "name": "续期",
+      "count": 3
+    },
+    {
+      "name": "2016年",
+      "count": 3
+    },
+    {
+      "name": "2016年四月番",
+      "count": 3
+    },
+    {
+      "name": "TV",
+      "count": 3
+    },
+    {
+      "name": "201604",
+      "count": 2
+    },
+    {
+      "name": "OLM",
+      "count": 2
+    },
+    {
+      "name": "XEBEC",
+      "count": 2
+    },
+    {
+      "name": "OLM、XEBEC",
+      "count": 1
+    },
+    {
+      "name": "水野麻里絵",
+      "count": 1
+    },
+    {
+      "name": "OLMTEAMOTA",
+      "count": 1
+    },
+    {
+      "name": "赤星政尚",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "游戏改编",
+      "count": 1
+    },
+    {
+      "name": "改编",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "游戏改",
+      "count": 1
+    },
+    {
+      "name": "第三期",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

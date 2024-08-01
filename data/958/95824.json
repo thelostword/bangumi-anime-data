@@ -1,0 +1,153 @@
+{
+  "id": 95824,
+  "name": "闇芝居 第2期",
+  "name_cn": "暗芝居 第二季",
+  "summary": "",
+  "date": "2014-07-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/a2/c7/95824_6Lpt2.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/a2/c7/95824_6Lpt2.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 6026,
+    "total": 898,
+    "count": {
+      "1": 1,
+      "2": 3,
+      "3": 8,
+      "4": 36,
+      "5": 125,
+      "6": 370,
+      "7": 281,
+      "8": 56,
+      "9": 9,
+      "10": 9
+    },
+    "score": 6.2
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 307
+    },
+    {
+      "name": "恐怖",
+      "count": 206
+    },
+    {
+      "name": "2014年7月",
+      "count": 171
+    },
+    {
+      "name": "猎奇",
+      "count": 113
+    },
+    {
+      "name": "TV",
+      "count": 111
+    },
+    {
+      "name": "惊悚",
+      "count": 101
+    },
+    {
+      "name": "暗芝居",
+      "count": 84
+    },
+    {
+      "name": "2014",
+      "count": 79
+    },
+    {
+      "name": "原创",
+      "count": 68
+    },
+    {
+      "name": "ILCA",
+      "count": 58
+    },
+    {
+      "name": "第二季",
+      "count": 30
+    },
+    {
+      "name": "泡面",
+      "count": 25
+    },
+    {
+      "name": "恐怖泡面番",
+      "count": 18
+    },
+    {
+      "name": "熊本浩武",
+      "count": 10
+    },
+    {
+      "name": "2014年",
+      "count": 9
+    },
+    {
+      "name": "清水崇",
+      "count": 7
+    },
+    {
+      "name": "井口昇",
+      "count": 6
+    },
+    {
+      "name": "増本庄一郎",
+      "count": 5
+    },
+    {
+      "name": "续作",
+      "count": 4
+    },
+    {
+      "name": "高嶋友也",
+      "count": 4
+    },
+    {
+      "name": "悬疑",
+      "count": 4
+    },
+    {
+      "name": "日本动画",
+      "count": 4
+    },
+    {
+      "name": "2014年夏番",
+      "count": 3
+    },
+    {
+      "name": "动画",
+      "count": 3
+    },
+    {
+      "name": "2010s",
+      "count": 2
+    },
+    {
+      "name": "闇芝居",
+      "count": 2
+    },
+    {
+      "name": "二期",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "怪谈",
+      "count": 2
+    },
+    {
+      "name": "村井良大",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

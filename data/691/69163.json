@@ -1,0 +1,153 @@
+{
+  "id": 69163,
+  "name": "ハガレン4コマ劇場",
+  "name_cn": "钢之炼金术师 四格剧场",
+  "summary": "DVD & Blu-ray每卷收录的映像特典，原作为荒川弘所画的4格漫画，首次动画化。",
+  "date": "2009-08-26",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/1f/49/69163_OAFUU.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/1f/49/69163_OAFUU.jpg"
+  },
+  "eps": 65,
+  "rating": {
+    "rank": 1361,
+    "total": 482,
+    "count": {
+      "1": 2,
+      "2": 3,
+      "3": 3,
+      "4": 2,
+      "5": 14,
+      "6": 59,
+      "7": 178,
+      "8": 172,
+      "9": 28,
+      "10": 21
+    },
+    "score": 7.3
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 166
+    },
+    {
+      "name": "BONES",
+      "count": 144
+    },
+    {
+      "name": "搞笑",
+      "count": 111
+    },
+    {
+      "name": "2009",
+      "count": 95
+    },
+    {
+      "name": "鋼の錬金術師",
+      "count": 48
+    },
+    {
+      "name": "SP",
+      "count": 47
+    },
+    {
+      "name": "钢之炼金术师",
+      "count": 47
+    },
+    {
+      "name": "荒川弘",
+      "count": 41
+    },
+    {
+      "name": "漫画改",
+      "count": 40
+    },
+    {
+      "name": "短片",
+      "count": 33
+    },
+    {
+      "name": "漫改",
+      "count": 28
+    },
+    {
+      "name": "2009年8月",
+      "count": 18
+    },
+    {
+      "name": "四格",
+      "count": 16
+    },
+    {
+      "name": "泡面番",
+      "count": 15
+    },
+    {
+      "name": "森井健史郎",
+      "count": 7
+    },
+    {
+      "name": "森井ケンシロウ",
+      "count": 7
+    },
+    {
+      "name": "骨头社",
+      "count": 6
+    },
+    {
+      "name": "日本",
+      "count": 6
+    },
+    {
+      "name": "动画",
+      "count": 5
+    },
+    {
+      "name": "番外",
+      "count": 5
+    },
+    {
+      "name": "千住明",
+      "count": 5
+    },
+    {
+      "name": "特典",
+      "count": 5
+    },
+    {
+      "name": "ダブトゥーンスタジオ",
+      "count": 4
+    },
+    {
+      "name": "2009年",
+      "count": 4
+    },
+    {
+      "name": "超自然系",
+      "count": 3
+    },
+    {
+      "name": "W-toonStudio",
+      "count": 3
+    },
+    {
+      "name": "牛姨",
+      "count": 2
+    },
+    {
+      "name": "TV",
+      "count": 2
+    },
+    {
+      "name": "W-Toon_Studio",
+      "count": 2
+    },
+    {
+      "name": "喜剧",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

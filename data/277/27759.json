@@ -1,0 +1,153 @@
+{
+  "id": 27759,
+  "name": "ピカチュウのなつやすみ",
+  "name_cn": "皮卡丘的欢乐假期",
+  "summary": "宝可梦广场是为宝可梦而准备的游戏场所。皮卡丘、波克比、杰尼龟，还有一些大家熟悉的宝可梦们，都在那里快乐游玩。但，皮卡丘与杰尼龟等同伴因为小事跟别的宝可梦吵起来，吵醒了在睡觉的波克比，也引起了一场意外......",
+  "date": "1998-07-18",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/b5/4d/27759_G7u9U.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/b5/4d/27759_G7u9U.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 4058,
+    "total": 106,
+    "count": {
+      "1": 0,
+      "2": 2,
+      "3": 0,
+      "4": 1,
+      "5": 10,
+      "6": 36,
+      "7": 47,
+      "8": 8,
+      "9": 1,
+      "10": 1
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 27
+    },
+    {
+      "name": "pokemon",
+      "count": 23
+    },
+    {
+      "name": "OVA",
+      "count": 22
+    },
+    {
+      "name": "1998",
+      "count": 20
+    },
+    {
+      "name": "游戏改",
+      "count": 12
+    },
+    {
+      "name": "口袋妖怪",
+      "count": 9
+    },
+    {
+      "name": "OLM",
+      "count": 8
+    },
+    {
+      "name": "神奇宝贝",
+      "count": 7
+    },
+    {
+      "name": "汤山邦彦",
+      "count": 4
+    },
+    {
+      "name": "皮卡丘",
+      "count": 4
+    },
+    {
+      "name": "日本动画",
+      "count": 3
+    },
+    {
+      "name": "湯山邦彦",
+      "count": 3
+    },
+    {
+      "name": "童年",
+      "count": 3
+    },
+    {
+      "name": "宝可梦",
+      "count": 3
+    },
+    {
+      "name": "原创",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 2
+    },
+    {
+      "name": "短片",
+      "count": 2
+    },
+    {
+      "name": "1998年7月",
+      "count": 2
+    },
+    {
+      "name": "1998年",
+      "count": 2
+    },
+    {
+      "name": "精灵宝可梦",
+      "count": 2
+    },
+    {
+      "name": "園田英樹",
+      "count": 1
+    },
+    {
+      "name": "六星",
+      "count": 1
+    },
+    {
+      "name": "剧场版短片",
+      "count": 1
+    },
+    {
+      "name": "玉川明洋",
+      "count": 1
+    },
+    {
+      "name": "YL",
+      "count": 1
+    },
+    {
+      "name": "番外性质",
+      "count": 1
+    },
+    {
+      "name": "OVA-01",
+      "count": 1
+    },
+    {
+      "name": "浅田裕二",
+      "count": 1
+    },
+    {
+      "name": "SP",
+      "count": 1
+    },
+    {
+      "name": "90年代",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

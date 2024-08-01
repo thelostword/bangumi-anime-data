@@ -1,0 +1,45 @@
+{
+  "id": 240273,
+  "name": "劇場版 ひらがな男子 ～序～",
+  "name_cn": "平假名男子 ～序～",
+  "summary": "故事发生在一个以日本为舞台的文字消失的时代，平假名「あ」展开了寻找伙伴的平假名男子们的冒险之旅。",
+  "date": "2018-05-11",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/a3/e5/240273_Maih4.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/a3/e5/240273_Maih4.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 2
+    },
+    {
+      "name": "DIRECTIONS",
+      "count": 1
+    },
+    {
+      "name": "空",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

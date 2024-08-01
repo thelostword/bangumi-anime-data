@@ -1,0 +1,45 @@
+{
+  "id": 10070,
+  "name": "TRIP TREK",
+  "name_cn": "",
+  "summary": "主人公ゾッコ是“ビビット”王国的魔王与美丽的人类女子所生的混血小孩，为了寻找行踪不明的母亲而踏上了旅途。她的同伴是一只名叫ミミメ的绒毛玩具兔子。\r\n\r\nCast\r\n小林ゆう、宮野真守、井上喜久子、浪川大輔 等。\r\n\r\nOP 「夢の中へ TRIP TREK ver」\r\n作詞/作曲:井上陽水　編曲:PONY　歌:小林ゆう・Tassee田代\r\nED 「天国に昇ったら」\r\n作詞/作曲:Tassee田代　歌・演奏:PONY",
+  "date": "2010-11-10",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/1a/ab/10070_5n5Nn.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/1a/ab/10070_5n5Nn.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "时事热点",
+      "count": 1
+    },
+    {
+      "name": "空",
+      "count": 1
+    },
+    {
+      "name": "补",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

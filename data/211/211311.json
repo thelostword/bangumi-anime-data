@@ -1,0 +1,153 @@
+{
+  "id": 211311,
+  "name": "DEVILMAN crybaby",
+  "name_cn": "恶魔人 crybaby",
+  "summary": "随着恶魔觉醒，人类世界陷入混乱。性格温柔的男孩与恶魔合体，在神秘好友飞鸟了的指引下，卷入一场残酷、堕落的对抗邪恶之战。",
+  "date": "2018-01-05",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c2/c7/211311_778A7.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c2/c7/211311_778A7.jpg"
+  },
+  "eps": 10,
+  "rating": {
+    "rank": 329,
+    "total": 8868,
+    "count": {
+      "1": 37,
+      "2": 22,
+      "3": 27,
+      "4": 78,
+      "5": 145,
+      "6": 590,
+      "7": 1864,
+      "8": 3610,
+      "9": 1956,
+      "10": 539
+    },
+    "score": 7.9
+  },
+  "tags": [
+    {
+      "name": "汤浅政明",
+      "count": 2503
+    },
+    {
+      "name": "Netflix",
+      "count": 1642
+    },
+    {
+      "name": "大河内一楼",
+      "count": 1476
+    },
+    {
+      "name": "永井豪",
+      "count": 1001
+    },
+    {
+      "name": "2018年1月",
+      "count": 934
+    },
+    {
+      "name": "猎奇",
+      "count": 920
+    },
+    {
+      "name": "漫改",
+      "count": 806
+    },
+    {
+      "name": "漫画改",
+      "count": 739
+    },
+    {
+      "name": "TV",
+      "count": 686
+    },
+    {
+      "name": "2018",
+      "count": 667
+    },
+    {
+      "name": "ScienceSARU",
+      "count": 565
+    },
+    {
+      "name": "战斗",
+      "count": 416
+    },
+    {
+      "name": "致郁",
+      "count": 354
+    },
+    {
+      "name": "WEB",
+      "count": 338
+    },
+    {
+      "name": "湯浅政明",
+      "count": 158
+    },
+    {
+      "name": "奇幻",
+      "count": 100
+    },
+    {
+      "name": "押山清高",
+      "count": 84
+    },
+    {
+      "name": "人性",
+      "count": 56
+    },
+    {
+      "name": "恶魔人",
+      "count": 50
+    },
+    {
+      "name": "血腥",
+      "count": 47
+    },
+    {
+      "name": "黑暗",
+      "count": 44
+    },
+    {
+      "name": "牛尾憲輔",
+      "count": 43
+    },
+    {
+      "name": "牛尾宪辅",
+      "count": 41
+    },
+    {
+      "name": "神作",
+      "count": 32
+    },
+    {
+      "name": "暴力",
+      "count": 24
+    },
+    {
+      "name": "サイエンスSARU",
+      "count": 24
+    },
+    {
+      "name": "治愈",
+      "count": 22
+    },
+    {
+      "name": "2018年",
+      "count": 21
+    },
+    {
+      "name": "剧情",
+      "count": 18
+    },
+    {
+      "name": "内山昂辉",
+      "count": 15
+    }
+  ],
+  "locked": false
+}

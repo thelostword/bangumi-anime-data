@@ -1,0 +1,49 @@
+{
+  "id": 316103,
+  "name": "秘密結社 鷹の爪 ～ゴールデン・スペル～",
+  "name_cn": "秘密结社 鹰之爪 ~Golden Spell~",
+  "summary": "",
+  "date": "2020-10-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/b8/c4/316103_LD2VT.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/b8/c4/316103_LD2VT.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 0,
+    "total": 3,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 1,
+      "7": 0,
+      "8": 2,
+      "9": 0,
+      "10": 0
+    },
+    "score": 7.3
+  },
+  "tags": [
+    {
+      "name": "DLE",
+      "count": 2
+    },
+    {
+      "name": "2020",
+      "count": 1
+    },
+    {
+      "name": "泡面番",
+      "count": 1
+    },
+    {
+      "name": "补",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

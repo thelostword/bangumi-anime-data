@@ -1,0 +1,153 @@
+{
+  "id": 46703,
+  "name": "侵略!!イカ娘 OAD",
+  "name_cn": "侵略！！乌贼娘 OAD",
+  "summary": "漫画单行本第12、14、17卷同捆OAD",
+  "date": "2012-08-08",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/b5/77/46703_MKJHE.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/b5/77/46703_MKJHE.jpg"
+  },
+  "eps": 3,
+  "rating": {
+    "rank": 2216,
+    "total": 816,
+    "count": {
+      "1": 2,
+      "2": 0,
+      "3": 1,
+      "4": 5,
+      "5": 23,
+      "6": 139,
+      "7": 408,
+      "8": 207,
+      "9": 17,
+      "10": 14
+    },
+    "score": 7.1
+  },
+  "tags": [
+    {
+      "name": "OAD",
+      "count": 219
+    },
+    {
+      "name": "OVA",
+      "count": 151
+    },
+    {
+      "name": "乌贼娘",
+      "count": 150
+    },
+    {
+      "name": "搞笑",
+      "count": 136
+    },
+    {
+      "name": "2012",
+      "count": 109
+    },
+    {
+      "name": "萌",
+      "count": 86
+    },
+    {
+      "name": "水岛努",
+      "count": 70
+    },
+    {
+      "name": "治愈",
+      "count": 63
+    },
+    {
+      "name": "金元寿子",
+      "count": 60
+    },
+    {
+      "name": "漫画改",
+      "count": 52
+    },
+    {
+      "name": "Diomedea",
+      "count": 51
+    },
+    {
+      "name": "イカ娘",
+      "count": 35
+    },
+    {
+      "name": "一卡牧师妹",
+      "count": 35
+    },
+    {
+      "name": "漫改",
+      "count": 34
+    },
+    {
+      "name": "日常",
+      "count": 33
+    },
+    {
+      "name": "Diomedéa",
+      "count": 18
+    },
+    {
+      "name": "触手娘",
+      "count": 15
+    },
+    {
+      "name": "水島努",
+      "count": 11
+    },
+    {
+      "name": "2.5",
+      "count": 9
+    },
+    {
+      "name": "2012年",
+      "count": 8
+    },
+    {
+      "name": "百合",
+      "count": 8
+    },
+    {
+      "name": "爆笑",
+      "count": 6
+    },
+    {
+      "name": "2012年8月",
+      "count": 6
+    },
+    {
+      "name": "横手美智子",
+      "count": 4
+    },
+    {
+      "name": "中村悠一",
+      "count": 4
+    },
+    {
+      "name": "日本",
+      "count": 4
+    },
+    {
+      "name": "伊藤かな恵",
+      "count": 3
+    },
+    {
+      "name": "侵略！乌贼娘",
+      "count": 3
+    },
+    {
+      "name": "伊藤加奈惠",
+      "count": 3
+    },
+    {
+      "name": "田中理恵",
+      "count": 3
+    }
+  ],
+  "locked": false
+}

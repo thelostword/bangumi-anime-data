@@ -1,0 +1,153 @@
+{
+  "id": 212003,
+  "name": "ウマ娘 プリティーダービー",
+  "name_cn": "赛马娘 Pretty Derby",
+  "summary": "这是从异世界传承下光辉的姓名与竞跑能力的“马娘”、自久以来与人类共存着的世界的故事。\r\n从乡下转学到大都市的训中学园的马娘·特别周，与同学们互相切磋、赌上“日本第一马娘”的称号，目标：在“Twinkle系列”中的胜利！",
+  "date": "2018-04-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/91/c0/212003_pPk1M.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/91/c0/212003_pPk1M.jpg"
+  },
+  "eps": 16,
+  "rating": {
+    "rank": 2340,
+    "total": 7766,
+    "count": {
+      "1": 17,
+      "2": 16,
+      "3": 19,
+      "4": 77,
+      "5": 329,
+      "6": 1451,
+      "7": 3509,
+      "8": 1924,
+      "9": 278,
+      "10": 146
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "P.A.WORKS",
+      "count": 1941
+    },
+    {
+      "name": "运动",
+      "count": 1416
+    },
+    {
+      "name": "2018年4月",
+      "count": 1178
+    },
+    {
+      "name": "游戏改",
+      "count": 1140
+    },
+    {
+      "name": "百合",
+      "count": 1070
+    },
+    {
+      "name": "偶像",
+      "count": 1045
+    },
+    {
+      "name": "TV",
+      "count": 898
+    },
+    {
+      "name": "cygames",
+      "count": 874
+    },
+    {
+      "name": "马娘",
+      "count": 867
+    },
+    {
+      "name": "2018",
+      "count": 553
+    },
+    {
+      "name": "原创",
+      "count": 544
+    },
+    {
+      "name": "竞技",
+      "count": 463
+    },
+    {
+      "name": "及川啓",
+      "count": 137
+    },
+    {
+      "name": "及川启",
+      "count": 93
+    },
+    {
+      "name": "赛马娘",
+      "count": 85
+    },
+    {
+      "name": "轻百合",
+      "count": 51
+    },
+    {
+      "name": "石原章弘",
+      "count": 47
+    },
+    {
+      "name": "励志",
+      "count": 43
+    },
+    {
+      "name": "热血",
+      "count": 41
+    },
+    {
+      "name": "日常",
+      "count": 33
+    },
+    {
+      "name": "2018年",
+      "count": 21
+    },
+    {
+      "name": "拟人",
+      "count": 20
+    },
+    {
+      "name": "搞笑",
+      "count": 15
+    },
+    {
+      "name": "校园",
+      "count": 14
+    },
+    {
+      "name": "扭曲",
+      "count": 12
+    },
+    {
+      "name": "杉浦理史",
+      "count": 11
+    },
+    {
+      "name": "日本",
+      "count": 10
+    },
+    {
+      "name": "治愈",
+      "count": 10
+    },
+    {
+      "name": "日本动画",
+      "count": 8
+    },
+    {
+      "name": "赛马",
+      "count": 8
+    }
+  ],
+  "locked": false
+}

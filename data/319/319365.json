@@ -1,0 +1,101 @@
+{
+  "id": 319365,
+  "name": "「宇宙戦艦ヤマト」という時代 西暦2202年の選択",
+  "name_cn": "宇宙战舰大和号的时代 西历2202年的选择",
+  "summary": "世紀を越え、希望の光を灯し続けた伝説の艦—―その全記録。\r\n\r\n『宇宙戦艦ヤマト2202　愛の戦士たち』を中心に、人類史・宇宙史に刻まれる歴戦の全記録。新作カット・新録ナレーションを織り交ぜリビルドした慟哭の120分!!",
+  "date": "2021-06-11",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/9e/e3/319365_31QAa.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/9e/e3/319365_31QAa.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 10,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 0,
+      "6": 6,
+      "7": 1,
+      "8": 1,
+      "9": 0,
+      "10": 1
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "2021",
+      "count": 7
+    },
+    {
+      "name": "剧场版",
+      "count": 4
+    },
+    {
+      "name": "studioMOTHER",
+      "count": 3
+    },
+    {
+      "name": "漫画改",
+      "count": 2
+    },
+    {
+      "name": "SUNRISE",
+      "count": 2
+    },
+    {
+      "name": "TV",
+      "count": 2
+    },
+    {
+      "name": "福井晴敏",
+      "count": 2
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1
+    },
+    {
+      "name": "2021年6月",
+      "count": 1
+    },
+    {
+      "name": "西﨑彰司",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "SF",
+      "count": 1
+    },
+    {
+      "name": "机战",
+      "count": 1
+    },
+    {
+      "name": "机甲",
+      "count": 1
+    },
+    {
+      "name": "サンライズ",
+      "count": 1
+    },
+    {
+      "name": "总集篇",
+      "count": 1
+    },
+    {
+      "name": "robo",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

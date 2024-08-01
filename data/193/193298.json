@@ -1,0 +1,153 @@
+{
+  "id": 193298,
+  "name": "銀魂.",
+  "name_cn": "银魂.",
+  "summary": "",
+  "date": "2017-01-08",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ba/ec/193298_d3A2D.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ba/ec/193298_d3A2D.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 729,
+    "total": 1679,
+    "count": {
+      "1": 7,
+      "2": 7,
+      "3": 7,
+      "4": 22,
+      "5": 55,
+      "6": 166,
+      "7": 494,
+      "8": 570,
+      "9": 198,
+      "10": 153
+    },
+    "score": 7.6
+  },
+  "tags": [
+    {
+      "name": "银魂",
+      "count": 364
+    },
+    {
+      "name": "搞笑",
+      "count": 259
+    },
+    {
+      "name": "2017年1月",
+      "count": 248
+    },
+    {
+      "name": "TV",
+      "count": 199
+    },
+    {
+      "name": "漫画改",
+      "count": 184
+    },
+    {
+      "name": "SUNRISE",
+      "count": 148
+    },
+    {
+      "name": "杉田智和",
+      "count": 113
+    },
+    {
+      "name": "2017",
+      "count": 113
+    },
+    {
+      "name": "钉宫理惠",
+      "count": 96
+    },
+    {
+      "name": "漫改",
+      "count": 81
+    },
+    {
+      "name": "热血",
+      "count": 66
+    },
+    {
+      "name": "JUMP",
+      "count": 55
+    },
+    {
+      "name": "BN_Pictures",
+      "count": 47
+    },
+    {
+      "name": "銀魂",
+      "count": 34
+    },
+    {
+      "name": "BNPictures",
+      "count": 23
+    },
+    {
+      "name": "战斗",
+      "count": 22
+    },
+    {
+      "name": "阪口大助",
+      "count": 20
+    },
+    {
+      "name": "吐槽",
+      "count": 17
+    },
+    {
+      "name": "银他妈",
+      "count": 15
+    },
+    {
+      "name": "宮脇千鶴",
+      "count": 10
+    },
+    {
+      "name": "宫胁千鹤",
+      "count": 9
+    },
+    {
+      "name": "恶搞",
+      "count": 8
+    },
+    {
+      "name": "石田彰",
+      "count": 8
+    },
+    {
+      "name": "续作",
+      "count": 8
+    },
+    {
+      "name": "日本动画",
+      "count": 6
+    },
+    {
+      "name": "长篇",
+      "count": 6
+    },
+    {
+      "name": "日常",
+      "count": 6
+    },
+    {
+      "name": "空知英秋",
+      "count": 5
+    },
+    {
+      "name": "日本",
+      "count": 5
+    },
+    {
+      "name": "动画",
+      "count": 5
+    }
+  ],
+  "locked": false
+}

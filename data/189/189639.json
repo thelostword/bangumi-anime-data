@@ -1,0 +1,153 @@
+{
+  "id": 189639,
+  "name": "てーきゅう 8期",
+  "name_cn": "网球并不可笑嘛 8期",
+  "summary": "",
+  "date": "2016-10-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/d0/aa/189639_bCd2o.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/d0/aa/189639_bCd2o.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 2662,
+    "total": 491,
+    "count": {
+      "1": 0,
+      "2": 2,
+      "3": 0,
+      "4": 3,
+      "5": 25,
+      "6": 95,
+      "7": 254,
+      "8": 90,
+      "9": 15,
+      "10": 7
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 190
+    },
+    {
+      "name": "搞笑",
+      "count": 93
+    },
+    {
+      "name": "2016年10月",
+      "count": 89
+    },
+    {
+      "name": "TV",
+      "count": 70
+    },
+    {
+      "name": "漫画改",
+      "count": 60
+    },
+    {
+      "name": "2016",
+      "count": 58
+    },
+    {
+      "name": "百合",
+      "count": 52
+    },
+    {
+      "name": "millepensee",
+      "count": 47
+    },
+    {
+      "name": "漫改",
+      "count": 30
+    },
+    {
+      "name": "网球少女",
+      "count": 25
+    },
+    {
+      "name": "欢乐",
+      "count": 18
+    },
+    {
+      "name": "板垣伸",
+      "count": 15
+    },
+    {
+      "name": "泡面",
+      "count": 13
+    },
+    {
+      "name": "日常",
+      "count": 13
+    },
+    {
+      "name": "续期",
+      "count": 13
+    },
+    {
+      "name": "ミルパンセ",
+      "count": 9
+    },
+    {
+      "name": "吐槽",
+      "count": 6
+    },
+    {
+      "name": "花泽香菜",
+      "count": 6
+    },
+    {
+      "name": "三森すずこ花澤香菜",
+      "count": 6
+    },
+    {
+      "name": "神语速",
+      "count": 5
+    },
+    {
+      "name": "轻百合",
+      "count": 5
+    },
+    {
+      "name": "三森すずこ",
+      "count": 4
+    },
+    {
+      "name": "花澤香菜",
+      "count": 4
+    },
+    {
+      "name": "2016年",
+      "count": 4
+    },
+    {
+      "name": "日本",
+      "count": 3
+    },
+    {
+      "name": "校园",
+      "count": 3
+    },
+    {
+      "name": "动画",
+      "count": 3
+    },
+    {
+      "name": "渡部優衣",
+      "count": 3
+    },
+    {
+      "name": "电波",
+      "count": 3
+    },
+    {
+      "name": "石原夏织",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

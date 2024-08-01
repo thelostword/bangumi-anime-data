@@ -1,0 +1,153 @@
+{
+  "id": 38758,
+  "name": "イナズマイレブンGO クロノ・ストーン",
+  "name_cn": "闪电十一人GO 时空之石",
+  "summary": "",
+  "date": "2012-04-18",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/65/79/38758_jtcuw.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/65/79/38758_jtcuw.jpg"
+  },
+  "eps": 51,
+  "rating": {
+    "rank": 2557,
+    "total": 119,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 2,
+      "4": 4,
+      "5": 5,
+      "6": 31,
+      "7": 39,
+      "8": 27,
+      "9": 5,
+      "10": 6
+    },
+    "score": 6.9
+  },
+  "tags": [
+    {
+      "name": "闪电十一人GO",
+      "count": 30
+    },
+    {
+      "name": "子供向",
+      "count": 25
+    },
+    {
+      "name": "LEVEL5",
+      "count": 20
+    },
+    {
+      "name": "热血",
+      "count": 18
+    },
+    {
+      "name": "2012年4月",
+      "count": 18
+    },
+    {
+      "name": "闪电十一人",
+      "count": 17
+    },
+    {
+      "name": "2012",
+      "count": 15
+    },
+    {
+      "name": "超能力足球",
+      "count": 10
+    },
+    {
+      "name": "圣斗士踢足球",
+      "count": 10
+    },
+    {
+      "name": "杀人足球",
+      "count": 9
+    },
+    {
+      "name": "TV",
+      "count": 8
+    },
+    {
+      "name": "菲好可爱",
+      "count": 7
+    },
+    {
+      "name": "日野大大",
+      "count": 5
+    },
+    {
+      "name": "运动",
+      "count": 5
+    },
+    {
+      "name": "OLM",
+      "count": 3
+    },
+    {
+      "name": "基",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 1
+    },
+    {
+      "name": "青春",
+      "count": 1
+    },
+    {
+      "name": "日野",
+      "count": 1
+    },
+    {
+      "name": "山田健一",
+      "count": 1
+    },
+    {
+      "name": "日野晃博",
+      "count": 1
+    },
+    {
+      "name": "五周目",
+      "count": 1
+    },
+    {
+      "name": "OLMTEAMWASAKI",
+      "count": 1
+    },
+    {
+      "name": "山口健太郎",
+      "count": 1
+    },
+    {
+      "name": "大长篇",
+      "count": 1
+    },
+    {
+      "name": "熱血向",
+      "count": 1
+    },
+    {
+      "name": "樋口達人",
+      "count": 1
+    },
+    {
+      "name": "オー・エル・エム",
+      "count": 1
+    },
+    {
+      "name": "萨卡",
+      "count": 1
+    },
+    {
+      "name": "小足球",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

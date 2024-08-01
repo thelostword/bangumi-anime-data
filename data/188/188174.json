@@ -1,0 +1,89 @@
+{
+  "id": 188174,
+  "name": "The SNACK WORLD",
+  "name_cn": "",
+  "summary": "",
+  "date": "2017-04-13",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/fb/71/188174_wJ6K1.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/fb/71/188174_wJ6K1.jpg"
+  },
+  "eps": 50,
+  "rating": {
+    "rank": 0,
+    "total": 11,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 3,
+      "7": 2,
+      "8": 5,
+      "9": 1,
+      "10": 0
+    },
+    "score": 7.4
+  },
+  "tags": [
+    {
+      "name": "游戏改编",
+      "count": 4
+    },
+    {
+      "name": "The_SNACK_WORLD",
+      "count": 3
+    },
+    {
+      "name": "2017年4月",
+      "count": 3
+    },
+    {
+      "name": "TV",
+      "count": 3
+    },
+    {
+      "name": "游改",
+      "count": 2
+    },
+    {
+      "name": "搞笑",
+      "count": 2
+    },
+    {
+      "name": "2017年",
+      "count": 1
+    },
+    {
+      "name": "2017年四月番",
+      "count": 1
+    },
+    {
+      "name": "2017",
+      "count": 1
+    },
+    {
+      "name": "日野晃博",
+      "count": 1
+    },
+    {
+      "name": "游戏",
+      "count": 1
+    },
+    {
+      "name": "改编",
+      "count": 1
+    },
+    {
+      "name": "OLM",
+      "count": 1
+    },
+    {
+      "name": "逗比",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

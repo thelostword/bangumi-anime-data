@@ -1,0 +1,153 @@
+{
+  "id": 171068,
+  "name": "文豪ストレイドッグス 第2シーズン",
+  "name_cn": "文豪野犬 第二季",
+  "summary": "",
+  "date": "2016-10-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/9a/1c/171068_XIwkj.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/9a/1c/171068_XIwkj.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 3040,
+    "total": 2528,
+    "count": {
+      "1": 6,
+      "2": 3,
+      "3": 6,
+      "4": 24,
+      "5": 137,
+      "6": 593,
+      "7": 1162,
+      "8": 510,
+      "9": 49,
+      "10": 38
+    },
+    "score": 6.9
+  },
+  "tags": [
+    {
+      "name": "BONES",
+      "count": 658
+    },
+    {
+      "name": "2016年10月",
+      "count": 455
+    },
+    {
+      "name": "漫画改",
+      "count": 391
+    },
+    {
+      "name": "文豪野犬",
+      "count": 351
+    },
+    {
+      "name": "战斗",
+      "count": 334
+    },
+    {
+      "name": "TV",
+      "count": 308
+    },
+    {
+      "name": "2016",
+      "count": 215
+    },
+    {
+      "name": "骨头社",
+      "count": 193
+    },
+    {
+      "name": "奇幻",
+      "count": 189
+    },
+    {
+      "name": "漫改",
+      "count": 188
+    },
+    {
+      "name": "超能力",
+      "count": 115
+    },
+    {
+      "name": "五十岚卓哉",
+      "count": 109
+    },
+    {
+      "name": "宮野真守",
+      "count": 69
+    },
+    {
+      "name": "续作",
+      "count": 65
+    },
+    {
+      "name": "续期",
+      "count": 45
+    },
+    {
+      "name": "热血",
+      "count": 30
+    },
+    {
+      "name": "岩崎琢",
+      "count": 25
+    },
+    {
+      "name": "神谷浩史",
+      "count": 22
+    },
+    {
+      "name": "2016年",
+      "count": 18
+    },
+    {
+      "name": "宫野真守",
+      "count": 14
+    },
+    {
+      "name": "2016秋",
+      "count": 10
+    },
+    {
+      "name": "樱井孝宏",
+      "count": 8
+    },
+    {
+      "name": "异能",
+      "count": 8
+    },
+    {
+      "name": "小野贤章",
+      "count": 8
+    },
+    {
+      "name": "五十嵐卓哉",
+      "count": 8
+    },
+    {
+      "name": "榎戸洋司",
+      "count": 7
+    },
+    {
+      "name": "石田彰",
+      "count": 7
+    },
+    {
+      "name": "榎户洋司",
+      "count": 7
+    },
+    {
+      "name": "诹访部顺一",
+      "count": 7
+    },
+    {
+      "name": "第二季",
+      "count": 7
+    }
+  ],
+  "locked": false
+}

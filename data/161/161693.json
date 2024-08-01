@@ -1,0 +1,81 @@
+{
+  "id": 161693,
+  "name": "忍たま乱太郎 15期",
+  "name_cn": "",
+  "summary": "",
+  "date": "2007-04-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c7/a4/161693_reePg.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c7/a4/161693_reePg.jpg"
+  },
+  "eps": 50,
+  "rating": {
+    "rank": 0,
+    "total": 5,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 1,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 2
+    },
+    "score": 7.6
+  },
+  "tags": [
+    {
+      "name": "2007",
+      "count": 4
+    },
+    {
+      "name": "亜細亜堂",
+      "count": 2
+    },
+    {
+      "name": "芝山努",
+      "count": 2
+    },
+    {
+      "name": "河内日出夫",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "时事热点",
+      "count": 1
+    },
+    {
+      "name": "华视",
+      "count": 1
+    },
+    {
+      "name": "高山みなみ",
+      "count": 1
+    },
+    {
+      "name": "田中真弓",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "亚细亚堂",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

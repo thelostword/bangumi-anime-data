@@ -1,0 +1,153 @@
+{
+  "id": 24056,
+  "name": "森田さんは無口。2",
+  "name_cn": "森田同学很沉默 2",
+  "summary": "TV版第二期。\r\n沉默寡言的女高中生森田真由，常常在说话前会思考大量的事情，总是错过和别人一起交谈的时机，从而闹出很多笑话。",
+  "date": "2011-10-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/82/c3/24056_cpZeF.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/82/c3/24056_cpZeF.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 4263,
+    "total": 655,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 5,
+      "4": 10,
+      "5": 53,
+      "6": 228,
+      "7": 249,
+      "8": 92,
+      "9": 10,
+      "10": 7
+    },
+    "score": 6.6
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 149
+    },
+    {
+      "name": "最速第二季",
+      "count": 88
+    },
+    {
+      "name": "2011年10月",
+      "count": 83
+    },
+    {
+      "name": "泡面计时器",
+      "count": 69
+    },
+    {
+      "name": "百合",
+      "count": 64
+    },
+    {
+      "name": "花泽香菜",
+      "count": 61
+    },
+    {
+      "name": "森田同学很沉默",
+      "count": 45
+    },
+    {
+      "name": "2011",
+      "count": 45
+    },
+    {
+      "name": "TV",
+      "count": 39
+    },
+    {
+      "name": "无缝衔接",
+      "count": 27
+    },
+    {
+      "name": "花澤香菜",
+      "count": 24
+    },
+    {
+      "name": "香菜",
+      "count": 23
+    },
+    {
+      "name": "欢乐",
+      "count": 19
+    },
+    {
+      "name": "短剧",
+      "count": 16
+    },
+    {
+      "name": "Seven",
+      "count": 15
+    },
+    {
+      "name": "漫画改",
+      "count": 15
+    },
+    {
+      "name": "日常",
+      "count": 13
+    },
+    {
+      "name": "校园",
+      "count": 11
+    },
+    {
+      "name": "搞笑",
+      "count": 11
+    },
+    {
+      "name": "泡面",
+      "count": 9
+    },
+    {
+      "name": "森田小姐",
+      "count": 8
+    },
+    {
+      "name": "林直孝",
+      "count": 8
+    },
+    {
+      "name": "漫改",
+      "count": 8
+    },
+    {
+      "name": "治愈",
+      "count": 7
+    },
+    {
+      "name": "早見沙織",
+      "count": 6
+    },
+    {
+      "name": "轻百合",
+      "count": 5
+    },
+    {
+      "name": "无口",
+      "count": 5
+    },
+    {
+      "name": "StudioGram",
+      "count": 5
+    },
+    {
+      "name": "户松遥",
+      "count": 4
+    },
+    {
+      "name": "续作",
+      "count": 4
+    }
+  ],
+  "locked": false
+}

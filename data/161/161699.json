@@ -1,0 +1,73 @@
+{
+  "id": 161699,
+  "name": "忍たま乱太郎 21期",
+  "name_cn": "",
+  "summary": "",
+  "date": "2013-04-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/0a/fa/161699_kMTas.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/0a/fa/161699_kMTas.jpg"
+  },
+  "eps": 75,
+  "rating": {
+    "rank": 0,
+    "total": 4,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 1,
+      "7": 1,
+      "8": 1,
+      "9": 0,
+      "10": 1
+    },
+    "score": 7.8
+  },
+  "tags": [
+    {
+      "name": "2013",
+      "count": 3
+    },
+    {
+      "name": "亜細亜堂",
+      "count": 2
+    },
+    {
+      "name": "芝山努",
+      "count": 2
+    },
+    {
+      "name": "河内日出夫",
+      "count": 2
+    },
+    {
+      "name": "亚细亚堂",
+      "count": 1
+    },
+    {
+      "name": "高山みなみ",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "田中真弓",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,153 @@
+{
+  "id": 99962,
+  "name": "戦国BASARA Judge End",
+  "name_cn": "战国BASARA Judge End",
+  "summary": "电视动画《战国BASARA Judge End》改编自2010年发售的游戏《战国BASARA3》。故事会以《战国BASARA3》为蓝本，将“关原之战”设为舞台。彼时为群雄割据的战国乱世，高歌天下布武的大魔王织田信长，在本能寺遭遇心腹大将明智光秀的反戈讨伐。在信长阵亡后，拥有压倒性战力的丰臣秀吉成为一方霸主。另一边，奥州最强之人伊达政宗准备进军小田原城。随后，甲斐武田军队听闻伊达开赴进军的报告，真田幸村心生驰援战场的冲动……",
+  "date": "2014-07-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/76/0e/99962_oz117.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/76/0e/99962_oz117.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 7279,
+    "total": 276,
+    "count": {
+      "1": 3,
+      "2": 4,
+      "3": 9,
+      "4": 26,
+      "5": 60,
+      "6": 96,
+      "7": 68,
+      "8": 8,
+      "9": 1,
+      "10": 1
+    },
+    "score": 5.7
+  },
+  "tags": [
+    {
+      "name": "战国BASARA",
+      "count": 72
+    },
+    {
+      "name": "2014年7月",
+      "count": 63
+    },
+    {
+      "name": "游戏改",
+      "count": 54
+    },
+    {
+      "name": "TV",
+      "count": 47
+    },
+    {
+      "name": "中井和哉",
+      "count": 24
+    },
+    {
+      "name": "2014",
+      "count": 23
+    },
+    {
+      "name": "保志总一朗",
+      "count": 16
+    },
+    {
+      "name": "关智一",
+      "count": 14
+    },
+    {
+      "name": "テレコム・アニメーションフィルム",
+      "count": 11
+    },
+    {
+      "name": "游戏改编",
+      "count": 9
+    },
+    {
+      "name": "战国",
+      "count": 6
+    },
+    {
+      "name": "TelecomAnimationFilm",
+      "count": 6
+    },
+    {
+      "name": "热血",
+      "count": 5
+    },
+    {
+      "name": "2014年",
+      "count": 4
+    },
+    {
+      "name": "佐野隆史",
+      "count": 3
+    },
+    {
+      "name": "TAF",
+      "count": 3
+    },
+    {
+      "name": "战斗",
+      "count": 3
+    },
+    {
+      "name": "搞笑",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 3
+    },
+    {
+      "name": "基",
+      "count": 2
+    },
+    {
+      "name": "历史",
+      "count": 2
+    },
+    {
+      "name": "関智一",
+      "count": 2
+    },
+    {
+      "name": "Telecom",
+      "count": 2
+    },
+    {
+      "name": "子安武人",
+      "count": 2
+    },
+    {
+      "name": "新番",
+      "count": 2
+    },
+    {
+      "name": "TVA",
+      "count": 2
+    },
+    {
+      "name": "石田彰",
+      "count": 2
+    },
+    {
+      "name": "小林利充",
+      "count": 1
+    },
+    {
+      "name": "看完",
+      "count": 1
+    },
+    {
+      "name": "游改",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

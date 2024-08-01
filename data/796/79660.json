@@ -1,0 +1,153 @@
+{
+  "id": 79660,
+  "name": "銀河英雄伝説外伝 朝の夢、夜の歌",
+  "name_cn": "银河英雄传说外传 朝之梦，夜之歌",
+  "summary": "銀河帝国と自由惑星同盟の対立の中、それぞれ思いを胸に秘めながら活躍する英雄たちの姿を描いたOVA。",
+  "date": "1998-02-10",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/0a/2f/79660_JeCx2.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/0a/2f/79660_JeCx2.jpg"
+  },
+  "eps": 4,
+  "rating": {
+    "rank": 1764,
+    "total": 146,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 7,
+      "6": 20,
+      "7": 62,
+      "8": 41,
+      "9": 8,
+      "10": 6
+    },
+    "score": 7.2
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 60
+    },
+    {
+      "name": "银河英雄传说",
+      "count": 32
+    },
+    {
+      "name": "1998",
+      "count": 26
+    },
+    {
+      "name": "小说改",
+      "count": 26
+    },
+    {
+      "name": "科幻",
+      "count": 19
+    },
+    {
+      "name": "田中芳树",
+      "count": 19
+    },
+    {
+      "name": "石黒昇",
+      "count": 9
+    },
+    {
+      "name": "战争",
+      "count": 7
+    },
+    {
+      "name": "石黑升",
+      "count": 5
+    },
+    {
+      "name": "銀河英雄伝説外伝",
+      "count": 4
+    },
+    {
+      "name": "KittyFilm",
+      "count": 3
+    },
+    {
+      "name": "太空歌剧",
+      "count": 3
+    },
+    {
+      "name": "キティ・フィルム",
+      "count": 3
+    },
+    {
+      "name": "1998年",
+      "count": 3
+    },
+    {
+      "name": "日本",
+      "count": 3
+    },
+    {
+      "name": "动画",
+      "count": 3
+    },
+    {
+      "name": "SF",
+      "count": 2
+    },
+    {
+      "name": "銀河英雄伝説",
+      "count": 2
+    },
+    {
+      "name": "银英",
+      "count": 2
+    },
+    {
+      "name": "轻小说改",
+      "count": 2
+    },
+    {
+      "name": "田原正利",
+      "count": 2
+    },
+    {
+      "name": "ケイファクトリー",
+      "count": 2
+    },
+    {
+      "name": "90年代",
+      "count": 2
+    },
+    {
+      "name": "石田彰",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "朝の夢、夜の歌",
+      "count": 1
+    },
+    {
+      "name": "2018年",
+      "count": 1
+    },
+    {
+      "name": "OVA-01",
+      "count": 1
+    },
+    {
+      "name": "1990-1999",
+      "count": 1
+    },
+    {
+      "name": "OVAOAD特典",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

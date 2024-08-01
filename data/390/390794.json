@@ -1,0 +1,153 @@
+{
+  "id": 390794,
+  "name": "ダークギャザリング",
+  "name_cn": "黑暗集会",
+  "summary": "　　灵感少女夜宵因交通事故失去了双亲，母亲的灵魂还在事故时被恶灵夺走，为了找回夜宵母亲的灵魂，拥有通灵体质的萤多朗和夜宵一起前往恶灵弥漫的灵异地点。",
+  "date": "2023-07-09",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/27/14/390794_LG1k6.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/27/14/390794_LG1k6.jpg"
+  },
+  "eps": 25,
+  "rating": {
+    "rank": 3705,
+    "total": 1949,
+    "count": {
+      "1": 0,
+      "2": 3,
+      "3": 14,
+      "4": 45,
+      "5": 154,
+      "6": 485,
+      "7": 847,
+      "8": 348,
+      "9": 31,
+      "10": 22
+    },
+    "score": 6.7
+  },
+  "tags": [
+    {
+      "name": "2023年7月",
+      "count": 608
+    },
+    {
+      "name": "恐怖",
+      "count": 563
+    },
+    {
+      "name": "漫画改",
+      "count": 483
+    },
+    {
+      "name": "猎奇",
+      "count": 416
+    },
+    {
+      "name": "战斗",
+      "count": 312
+    },
+    {
+      "name": "TV",
+      "count": 272
+    },
+    {
+      "name": "OLM",
+      "count": 269
+    },
+    {
+      "name": "怪谈",
+      "count": 246
+    },
+    {
+      "name": "2023",
+      "count": 202
+    },
+    {
+      "name": "漫改",
+      "count": 197
+    },
+    {
+      "name": "宝可梦",
+      "count": 175
+    },
+    {
+      "name": "灵异",
+      "count": 148
+    },
+    {
+      "name": "奇幻",
+      "count": 120
+    },
+    {
+      "name": "博史池畠",
+      "count": 81
+    },
+    {
+      "name": "OLMTEAMOTA",
+      "count": 46
+    },
+    {
+      "name": "萝莉",
+      "count": 11
+    },
+    {
+      "name": "悬疑",
+      "count": 10
+    },
+    {
+      "name": "黑暗集会",
+      "count": 9
+    },
+    {
+      "name": "花泽香菜",
+      "count": 7
+    },
+    {
+      "name": "村越繁",
+      "count": 6
+    },
+    {
+      "name": "恋爱",
+      "count": 5
+    },
+    {
+      "name": "半年番",
+      "count": 4
+    },
+    {
+      "name": "日本",
+      "count": 4
+    },
+    {
+      "name": "未确定",
+      "count": 4
+    },
+    {
+      "name": "日漫",
+      "count": 4
+    },
+    {
+      "name": "暗黑宝可梦",
+      "count": 4
+    },
+    {
+      "name": "2023年",
+      "count": 4
+    },
+    {
+      "name": "动画",
+      "count": 3
+    },
+    {
+      "name": "妖怪",
+      "count": 3
+    },
+    {
+      "name": "剧情",
+      "count": 3
+    }
+  ],
+  "locked": false
+}

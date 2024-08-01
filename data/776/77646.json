@@ -1,0 +1,153 @@
+{
+  "id": 77646,
+  "name": "マギ The kingdom of magic",
+  "name_cn": "天方魔谭MAGI 第二季",
+  "summary": "改编同名动画为小学馆创业90周年纪念企划作品，2012年10月7日开始播放。日本授权中国大陆乐视网即日播出。\r\n\r\n于播效完毕后决定制作续篇，其后确定于2013年10月6日起播放第二季，并改动副标题作识别；第一季为依循漫画的“The labyrinth of magic（魔法的迷宫）”，第二季迷宫改为“The kingdom of magic（魔法的王国）",
+  "date": "2013-10-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c7/7e/77646_7oJOW.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c7/7e/77646_7oJOW.jpg"
+  },
+  "eps": 25,
+  "rating": {
+    "rank": 1694,
+    "total": 1709,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 5,
+      "4": 17,
+      "5": 62,
+      "6": 283,
+      "7": 678,
+      "8": 535,
+      "9": 83,
+      "10": 45
+    },
+    "score": 7.2
+  },
+  "tags": [
+    {
+      "name": "魔笛MAGI",
+      "count": 348
+    },
+    {
+      "name": "2013年10月",
+      "count": 308
+    },
+    {
+      "name": "A-1Pictures",
+      "count": 267
+    },
+    {
+      "name": "漫画改",
+      "count": 227
+    },
+    {
+      "name": "TV",
+      "count": 187
+    },
+    {
+      "name": "奇幻",
+      "count": 127
+    },
+    {
+      "name": "2013",
+      "count": 121
+    },
+    {
+      "name": "JUMP",
+      "count": 69
+    },
+    {
+      "name": "热血",
+      "count": 66
+    },
+    {
+      "name": "户松遥",
+      "count": 62
+    },
+    {
+      "name": "漫改",
+      "count": 54
+    },
+    {
+      "name": "第二季",
+      "count": 50
+    },
+    {
+      "name": "木村良平",
+      "count": 47
+    },
+    {
+      "name": "战斗",
+      "count": 43
+    },
+    {
+      "name": "小野大辅",
+      "count": 38
+    },
+    {
+      "name": "A-1",
+      "count": 22
+    },
+    {
+      "name": "2013年10月秋アニメ",
+      "count": 15
+    },
+    {
+      "name": "舛成孝二",
+      "count": 14
+    },
+    {
+      "name": "冒险",
+      "count": 14
+    },
+    {
+      "name": "花泽香菜",
+      "count": 12
+    },
+    {
+      "name": "吉野弘幸",
+      "count": 12
+    },
+    {
+      "name": "石田彰",
+      "count": 8
+    },
+    {
+      "name": "魔笛",
+      "count": 8
+    },
+    {
+      "name": "鷺巣詩郎",
+      "count": 7
+    },
+    {
+      "name": "大高忍",
+      "count": 7
+    },
+    {
+      "name": "梶裕貴",
+      "count": 6
+    },
+    {
+      "name": "续作",
+      "count": 6
+    },
+    {
+      "name": "搞笑",
+      "count": 6
+    },
+    {
+      "name": "2013年",
+      "count": 6
+    },
+    {
+      "name": "MAGI",
+      "count": 6
+    }
+  ],
+  "locked": false
+}

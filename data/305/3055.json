@@ -1,0 +1,153 @@
+{
+  "id": 3055,
+  "name": "Tales of Eternia THE ANIMATION",
+  "name_cn": "永恒传说",
+  "summary": "　　动画《永恒传说》根据PS版《永恒传说》改编，共13集。原作是传说系列作品中的一部，动画版精细的还原了游戏中的细腻设定和独具魅力的登场人物，白热的战斗场景与游戏中的感觉也相差无几。此外还加上了动画版原创的人物和故事，豪华的声优阵容也为本作增色不少。虽然是一部2001年出品的动画作品，但在传说系列FANS中拥有不俗的口碑，动画的成功之处在于与游戏比较结合，传闻看过该动画后会激起重新通关《永恒传说》的冲动。",
+  "date": "2001-01-08",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/28/36/3055_k4epk.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/28/36/3055_k4epk.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 6500,
+    "total": 72,
+    "count": {
+      "1": 0,
+      "2": 2,
+      "3": 2,
+      "4": 13,
+      "5": 21,
+      "6": 17,
+      "7": 12,
+      "8": 3,
+      "9": 1,
+      "10": 1
+    },
+    "score": 5.5
+  },
+  "tags": [
+    {
+      "name": "传说系列",
+      "count": 29
+    },
+    {
+      "name": "TOE",
+      "count": 15
+    },
+    {
+      "name": "TV",
+      "count": 14
+    },
+    {
+      "name": "XEBEC",
+      "count": 9
+    },
+    {
+      "name": "永恒传说",
+      "count": 8
+    },
+    {
+      "name": "游戏改",
+      "count": 7
+    },
+    {
+      "name": "2001",
+      "count": 7
+    },
+    {
+      "name": "石田彰",
+      "count": 6
+    },
+    {
+      "name": "崩",
+      "count": 5
+    },
+    {
+      "name": "堀江由衣",
+      "count": 4
+    },
+    {
+      "name": "2001年",
+      "count": 3
+    },
+    {
+      "name": "Tales",
+      "count": 3
+    },
+    {
+      "name": "NAMCO",
+      "count": 3
+    },
+    {
+      "name": "奇幻",
+      "count": 2
+    },
+    {
+      "name": "うえだしげる",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "川崎ヒロユキ",
+      "count": 1
+    },
+    {
+      "name": "林原惠",
+      "count": 1
+    },
+    {
+      "name": "普通",
+      "count": 1
+    },
+    {
+      "name": "猪股睦实",
+      "count": 1
+    },
+    {
+      "name": "有泽孝纪",
+      "count": 1
+    },
+    {
+      "name": "前田明寿",
+      "count": 1
+    },
+    {
+      "name": "2001.01",
+      "count": 1
+    },
+    {
+      "name": "tv-s",
+      "count": 1
+    },
+    {
+      "name": "五分",
+      "count": 1
+    },
+    {
+      "name": "2001冬",
+      "count": 1
+    },
+    {
+      "name": "游改",
+      "count": 1
+    },
+    {
+      "name": "2001年1月",
+      "count": 1
+    },
+    {
+      "name": "皆口裕子",
+      "count": 1
+    },
+    {
+      "name": "游戏改编",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

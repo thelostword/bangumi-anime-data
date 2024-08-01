@@ -1,0 +1,57 @@
+{
+  "id": 211094,
+  "name": "ゲゲゲの鬼太郎 妖怪大戦争",
+  "name_cn": "鬼太郎 妖怪大战争",
+  "summary": "",
+  "date": "1986-03-15",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/6a/f1/211094_tAHNW.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/6a/f1/211094_tAHNW.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 4,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 0,
+      "5": 0,
+      "6": 1,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 3
+    },
+    {
+      "name": "神魔",
+      "count": 2
+    },
+    {
+      "name": "鬼太郎",
+      "count": 2
+    },
+    {
+      "name": "1986",
+      "count": 2
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "补番",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

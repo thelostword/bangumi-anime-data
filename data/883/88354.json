@@ -1,0 +1,153 @@
+{
+  "id": 88354,
+  "name": "きょうかいのかなた アイドル裁判! ～迷いながらも君を裁く民～",
+  "name_cn": "境界的彼方 偶像裁判 ～即使迷茫也要制裁之民～",
+  "summary": "",
+  "date": "2013-11-18",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/5e/9b/88354_PIlVl.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/5e/9b/88354_PIlVl.jpg"
+  },
+  "eps": 5,
+  "rating": {
+    "rank": 5006,
+    "total": 1120,
+    "count": {
+      "1": 6,
+      "2": 5,
+      "3": 13,
+      "4": 33,
+      "5": 124,
+      "6": 381,
+      "7": 381,
+      "8": 130,
+      "9": 20,
+      "10": 27
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "京阿尼",
+      "count": 373
+    },
+    {
+      "name": "泡面番",
+      "count": 315
+    },
+    {
+      "name": "卖萌",
+      "count": 194
+    },
+    {
+      "name": "境界的彼方",
+      "count": 161
+    },
+    {
+      "name": "OVA",
+      "count": 158
+    },
+    {
+      "name": "WEB",
+      "count": 137
+    },
+    {
+      "name": "2013",
+      "count": 106
+    },
+    {
+      "name": "搞笑",
+      "count": 104
+    },
+    {
+      "name": "2013年11月",
+      "count": 99
+    },
+    {
+      "name": "Q版",
+      "count": 83
+    },
+    {
+      "name": "京都动画",
+      "count": 56
+    },
+    {
+      "name": "京阿尼钱多的不行",
+      "count": 49
+    },
+    {
+      "name": "萌",
+      "count": 37
+    },
+    {
+      "name": "2013年10月",
+      "count": 29
+    },
+    {
+      "name": "轻小说改",
+      "count": 19
+    },
+    {
+      "name": "京都",
+      "count": 16
+    },
+    {
+      "name": "京都アニメーション",
+      "count": 15
+    },
+    {
+      "name": "SP",
+      "count": 14
+    },
+    {
+      "name": "泡面",
+      "count": 9
+    },
+    {
+      "name": "花田十輝",
+      "count": 9
+    },
+    {
+      "name": "轻改",
+      "count": 9
+    },
+    {
+      "name": "花田十辉",
+      "count": 9
+    },
+    {
+      "name": "石立太一",
+      "count": 8
+    },
+    {
+      "name": "小说改",
+      "count": 8
+    },
+    {
+      "name": "原创",
+      "count": 7
+    },
+    {
+      "name": "偶像裁判",
+      "count": 5
+    },
+    {
+      "name": "番外",
+      "count": 5
+    },
+    {
+      "name": "2013年",
+      "count": 5
+    },
+    {
+      "name": "萌萌哒",
+      "count": 4
+    },
+    {
+      "name": "茅原实里",
+      "count": 4
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,153 @@
+{
+  "id": 175533,
+  "name": "ゆゆ式 OVA",
+  "name_cn": "悠悠式 OVA",
+  "summary": "ノーイベント・グッドライフ！あの情報処理部が帰ってくる！『まんがタイムきらら』のヒット作・「ゆゆ式」の新作エピソードがOVAでリリース決定！",
+  "date": "2017-02-22",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/93/5c/175533_OMkhK.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/93/5c/175533_OMkhK.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 2488,
+    "total": 313,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 3,
+      "4": 4,
+      "5": 12,
+      "6": 79,
+      "7": 118,
+      "8": 76,
+      "9": 15,
+      "10": 6
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 148
+    },
+    {
+      "name": "芳文社",
+      "count": 91
+    },
+    {
+      "name": "百合",
+      "count": 82
+    },
+    {
+      "name": "2017",
+      "count": 75
+    },
+    {
+      "name": "日常",
+      "count": 72
+    },
+    {
+      "name": "KINEMACITRUS",
+      "count": 41
+    },
+    {
+      "name": "空气系",
+      "count": 31
+    },
+    {
+      "name": "漫画改",
+      "count": 27
+    },
+    {
+      "name": "悠悠式",
+      "count": 26
+    },
+    {
+      "name": "漫改",
+      "count": 20
+    },
+    {
+      "name": "2017年2月",
+      "count": 16
+    },
+    {
+      "name": "萌",
+      "count": 9
+    },
+    {
+      "name": "种田梨沙",
+      "count": 8
+    },
+    {
+      "name": "小森香织",
+      "count": 8
+    },
+    {
+      "name": "轻百合",
+      "count": 7
+    },
+    {
+      "name": "校园",
+      "count": 7
+    },
+    {
+      "name": "かおり",
+      "count": 7
+    },
+    {
+      "name": "KINEMA_CITRUS",
+      "count": 5
+    },
+    {
+      "name": "治愈",
+      "count": 5
+    },
+    {
+      "name": "2017年1月",
+      "count": 5
+    },
+    {
+      "name": "搞笑",
+      "count": 4
+    },
+    {
+      "name": "三上小又",
+      "count": 3
+    },
+    {
+      "name": "2017年",
+      "count": 3
+    },
+    {
+      "name": "KINEMA.CITRUS",
+      "count": 3
+    },
+    {
+      "name": "吐槽",
+      "count": 3
+    },
+    {
+      "name": "大久保瑠美",
+      "count": 3
+    },
+    {
+      "name": "高橋ナツコ",
+      "count": 3
+    },
+    {
+      "name": "番外",
+      "count": 3
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "きらら",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

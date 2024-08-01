@@ -1,0 +1,153 @@
+{
+  "id": 49425,
+  "name": "金田一少年の事件簿 黒魔術殺人事件編",
+  "name_cn": "金田一少年事件簿 黒魔术杀人事件",
+  "summary": "「金田一少年の事件簿」20周年記念シリーズ『黒魔術殺人事件』 ",
+  "date": "2012-12-17",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/d7/8e/49425_tJBUd.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/d7/8e/49425_tJBUd.jpg"
+  },
+  "eps": 2,
+  "rating": {
+    "rank": 3627,
+    "total": 166,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 2,
+      "5": 16,
+      "6": 56,
+      "7": 64,
+      "8": 19,
+      "9": 5,
+      "10": 3
+    },
+    "score": 6.6
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 54
+    },
+    {
+      "name": "金田一",
+      "count": 35
+    },
+    {
+      "name": "推理",
+      "count": 34
+    },
+    {
+      "name": "2012",
+      "count": 30
+    },
+    {
+      "name": "东映",
+      "count": 17
+    },
+    {
+      "name": "漫画改",
+      "count": 11
+    },
+    {
+      "name": "剧场版",
+      "count": 10
+    },
+    {
+      "name": "2012年",
+      "count": 8
+    },
+    {
+      "name": "日本",
+      "count": 7
+    },
+    {
+      "name": "漫改",
+      "count": 6
+    },
+    {
+      "name": "日本动画",
+      "count": 4
+    },
+    {
+      "name": "東映アニメーション",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 2
+    },
+    {
+      "name": "村山功",
+      "count": 2
+    },
+    {
+      "name": "☆OVA",
+      "count": 2
+    },
+    {
+      "name": "2013",
+      "count": 2
+    },
+    {
+      "name": "小村敏明",
+      "count": 1
+    },
+    {
+      "name": "中川亜紀子",
+      "count": 1
+    },
+    {
+      "name": "OVA-01",
+      "count": 1
+    },
+    {
+      "name": "日系",
+      "count": 1
+    },
+    {
+      "name": "OAD.OVA.SP",
+      "count": 1
+    },
+    {
+      "name": "OVA&OAD&SP",
+      "count": 1
+    },
+    {
+      "name": "松野太紀",
+      "count": 1
+    },
+    {
+      "name": "『OVA』",
+      "count": 1
+    },
+    {
+      "name": "续作",
+      "count": 1
+    },
+    {
+      "name": "讲谈社",
+      "count": 1
+    },
+    {
+      "name": "黑暗",
+      "count": 1
+    },
+    {
+      "name": "悬疑",
+      "count": 1
+    },
+    {
+      "name": "剧情",
+      "count": 1
+    },
+    {
+      "name": "番外",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

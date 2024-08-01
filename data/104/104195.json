@@ -1,0 +1,61 @@
+{
+  "id": 104195,
+  "name": "スウィート・ヴァレリアン",
+  "name_cn": "Sweet Valerian",
+  "summary": "变身成兔子的少女们，维持世界的正义。 ",
+  "date": "2004-08-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/28/c6/104195_1L1zP.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/28/c6/104195_1L1zP.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 0,
+    "total": 5,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 2,
+      "6": 2,
+      "7": 0,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 5
+    },
+    {
+      "name": "泡面番",
+      "count": 5
+    },
+    {
+      "name": "2004",
+      "count": 4
+    },
+    {
+      "name": "MADHouse",
+      "count": 4
+    },
+    {
+      "name": "CLAMP",
+      "count": 4
+    },
+    {
+      "name": "原创",
+      "count": 2
+    },
+    {
+      "name": "樱井弘明",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,153 @@
+{
+  "id": 48037,
+  "name": "うーさーのその日暮らし",
+  "name_cn": "兔宝的悲惨日常",
+  "summary": "謎の動物“うーさー”の荒ぶりそうであまり荒ぶらない「その日暮らし」。",
+  "date": "2012-10-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/56/b4/48037_L1tM1.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/56/b4/48037_L1tM1.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 5369,
+    "total": 412,
+    "count": {
+      "1": 4,
+      "2": 3,
+      "3": 6,
+      "4": 12,
+      "5": 42,
+      "6": 149,
+      "7": 142,
+      "8": 48,
+      "9": 3,
+      "10": 3
+    },
+    "score": 6.3
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 182
+    },
+    {
+      "name": "2012年10月",
+      "count": 93
+    },
+    {
+      "name": "宮野真守",
+      "count": 89
+    },
+    {
+      "name": "TV",
+      "count": 59
+    },
+    {
+      "name": "2012",
+      "count": 40
+    },
+    {
+      "name": "搞笑",
+      "count": 34
+    },
+    {
+      "name": "宫野真守",
+      "count": 29
+    },
+    {
+      "name": "supercell",
+      "count": 25
+    },
+    {
+      "name": "漫画改",
+      "count": 23
+    },
+    {
+      "name": "欢乐",
+      "count": 21
+    },
+    {
+      "name": "ryo",
+      "count": 18
+    },
+    {
+      "name": "SANZIGEN",
+      "count": 17
+    },
+    {
+      "name": "小动物",
+      "count": 13
+    },
+    {
+      "name": "wooser",
+      "count": 10
+    },
+    {
+      "name": "三次元",
+      "count": 9
+    },
+    {
+      "name": "漫改",
+      "count": 8
+    },
+    {
+      "name": "山田豊徳",
+      "count": 7
+    },
+    {
+      "name": "泡面",
+      "count": 6
+    },
+    {
+      "name": "MAMO",
+      "count": 5
+    },
+    {
+      "name": "动画剧集",
+      "count": 5
+    },
+    {
+      "name": "サンジゲン",
+      "count": 5
+    },
+    {
+      "name": "兔宝的悲惨日常",
+      "count": 5
+    },
+    {
+      "name": "日常",
+      "count": 4
+    },
+    {
+      "name": "neta",
+      "count": 4
+    },
+    {
+      "name": "吐槽",
+      "count": 3
+    },
+    {
+      "name": "原创",
+      "count": 3
+    },
+    {
+      "name": "2012年",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 3
+    },
+    {
+      "name": "短片",
+      "count": 2
+    },
+    {
+      "name": "Tia",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

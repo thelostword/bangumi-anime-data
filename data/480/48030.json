@@ -1,0 +1,153 @@
+{
+  "id": 48030,
+  "name": "Capeta",
+  "name_cn": "极速方程式",
+  "summary": "小学生平胜平太的父亲平茂雄知道儿子对赛车有兴趣，于是把别人不要的组件装砌了一辆小型赛车送给儿子。此后胜平太开始参与小型赛车活动，与好朋友铃木茂波及安藤信组成了capeta车队。他们一直受资金不足掣肘，然而胜平太在赛车场上的表现却令人注目。",
+  "date": "2005-10-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e0/07/48030_xK2KM.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e0/07/48030_xK2KM.jpg"
+  },
+  "eps": 52,
+  "rating": {
+    "rank": 0,
+    "total": 44,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 10,
+      "7": 13,
+      "8": 13,
+      "9": 5,
+      "10": 3
+    },
+    "score": 7.5
+  },
+  "tags": [
+    {
+      "name": "赛车",
+      "count": 14
+    },
+    {
+      "name": "竞技",
+      "count": 14
+    },
+    {
+      "name": "2005",
+      "count": 13
+    },
+    {
+      "name": "热血",
+      "count": 10
+    },
+    {
+      "name": "童年",
+      "count": 8
+    },
+    {
+      "name": "TV",
+      "count": 8
+    },
+    {
+      "name": "运动",
+      "count": 6
+    },
+    {
+      "name": "卡丁车",
+      "count": 5
+    },
+    {
+      "name": "StudioComet",
+      "count": 4
+    },
+    {
+      "name": "补旧番",
+      "count": 4
+    },
+    {
+      "name": "运动系",
+      "count": 3
+    },
+    {
+      "name": "スタジオコメット",
+      "count": 2
+    },
+    {
+      "name": "上代務",
+      "count": 1
+    },
+    {
+      "name": "华视",
+      "count": 1
+    },
+    {
+      "name": "F1",
+      "count": 1
+    },
+    {
+      "name": "喜安浩平",
+      "count": 1
+    },
+    {
+      "name": "上代务",
+      "count": 1
+    },
+    {
+      "name": "三沢伸",
+      "count": 1
+    },
+    {
+      "name": "我居然看过并且还记得",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "体育",
+      "count": 1
+    },
+    {
+      "name": "漫画改",
+      "count": 1
+    },
+    {
+      "name": "励志",
+      "count": 1
+    },
+    {
+      "name": "原创",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "TVB",
+      "count": 1
+    },
+    {
+      "name": "豊永利行",
+      "count": 1
+    },
+    {
+      "name": "2005年",
+      "count": 1
+    },
+    {
+      "name": "年番",
+      "count": 1
+    },
+    {
+      "name": "2005年10月",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

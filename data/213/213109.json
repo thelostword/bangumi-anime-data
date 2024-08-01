@@ -1,0 +1,77 @@
+{
+  "id": 213109,
+  "name": "小松左京アニメ劇場",
+  "name_cn": "小松左京动画剧场",
+  "summary": "",
+  "date": "1989-10-18",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/f8/1d/213109_OEPpd.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/f8/1d/213109_OEPpd.jpg"
+  },
+  "eps": 24,
+  "rating": {
+    "rank": 0,
+    "total": 2,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 1,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 8
+  },
+  "tags": [
+    {
+      "name": "1989",
+      "count": 2
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "富田靖子",
+      "count": 1
+    },
+    {
+      "name": "AIC、GAINAX",
+      "count": 1
+    },
+    {
+      "name": "时事热点",
+      "count": 1
+    },
+    {
+      "name": "名古屋章",
+      "count": 1
+    },
+    {
+      "name": "西森明良",
+      "count": 1
+    },
+    {
+      "name": "SF",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "泡面番",
+      "count": 1
+    },
+    {
+      "name": "GAINAX",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

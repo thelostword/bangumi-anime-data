@@ -1,0 +1,65 @@
+{
+  "id": 209766,
+  "name": "'07戦争童話 ふたつの胡桃",
+  "name_cn": "",
+  "summary": "",
+  "date": "2007-08-15",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/7e/53/209766_lmCc6.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/7e/53/209766_lmCc6.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 5,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 2,
+      "6": 1,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.4
+  },
+  "tags": [
+    {
+      "name": "2007",
+      "count": 4
+    },
+    {
+      "name": "OVA",
+      "count": 4
+    },
+    {
+      "name": "SP",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 3
+    },
+    {
+      "name": "平井峰太郎",
+      "count": 3
+    },
+    {
+      "name": "OVA-01",
+      "count": 1
+    },
+    {
+      "name": "空",
+      "count": 1
+    },
+    {
+      "name": "新锐动画",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

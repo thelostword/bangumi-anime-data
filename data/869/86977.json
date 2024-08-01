@@ -1,0 +1,133 @@
+{
+  "id": 86977,
+  "name": "宇宙海賊ミトの大冒険",
+  "name_cn": "宇宙海盗大冒险",
+  "summary": "天野原町に住む中学生の少年・光国葵は、母・美都と1年ぶりに父親の墓参りに行く。ところが、その最中に銀河パトロール局員の年賀睦月・正月の姉弟が乱入して美都に襲い掛かる。なんとか年賀姉弟を退けるが、美都の身体の中から小学生くらいの少女が現れる。実は彼女は、宇宙を股にかける海賊のキャプテン・ミトだったのだ。",
+  "date": "1999-01-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/39/67/86977_J6Zmb.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/39/67/86977_J6Zmb.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 0,
+    "total": 10,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 1,
+      "6": 3,
+      "7": 2,
+      "8": 2,
+      "9": 1,
+      "10": 0
+    },
+    "score": 6.6
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 8
+    },
+    {
+      "name": "1999",
+      "count": 4
+    },
+    {
+      "name": "TriangleStaff",
+      "count": 4
+    },
+    {
+      "name": "渡部高志",
+      "count": 3
+    },
+    {
+      "name": "志茂文彦",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 3
+    },
+    {
+      "name": "TVB",
+      "count": 3
+    },
+    {
+      "name": "动画",
+      "count": 1
+    },
+    {
+      "name": "旧番",
+      "count": 1
+    },
+    {
+      "name": "萌",
+      "count": 1
+    },
+    {
+      "name": "90s",
+      "count": 1
+    },
+    {
+      "name": "1999年1月",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "赛璐珞",
+      "count": 1
+    },
+    {
+      "name": "10+",
+      "count": 1
+    },
+    {
+      "name": "トライアングルスタッフ",
+      "count": 1
+    },
+    {
+      "name": "日本",
+      "count": 1
+    },
+    {
+      "name": "童年",
+      "count": 1
+    },
+    {
+      "name": "原创",
+      "count": 1
+    },
+    {
+      "name": "川上とも子",
+      "count": 1
+    },
+    {
+      "name": "保志総一朗",
+      "count": 1
+    },
+    {
+      "name": "科幻",
+      "count": 1
+    },
+    {
+      "name": "SF",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "SUNRISE",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

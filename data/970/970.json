@@ -1,0 +1,153 @@
+{
+  "id": 970,
+  "name": "鉄のラインバレル",
+  "name_cn": "武装机甲",
+  "summary": "性格膽小怯懦的少年早瀨浩一，三年前在參觀正在建設的海上都市的建築工地時，遇上了意外事故。當時身受重傷瀕死的他，在昏迷了半年後醒來時，成了一個具有暴虐基因的好斗分子，而且身體里還獲得了未知的神秘力量……",
+  "date": "2008-10-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/89/fc/970_m4n5C.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/89/fc/970_m4n5C.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 7209,
+    "total": 447,
+    "count": {
+      "1": 4,
+      "2": 8,
+      "3": 22,
+      "4": 48,
+      "5": 91,
+      "6": 131,
+      "7": 90,
+      "8": 37,
+      "9": 9,
+      "10": 7
+    },
+    "score": 5.8
+  },
+  "tags": [
+    {
+      "name": "武装机甲",
+      "count": 102
+    },
+    {
+      "name": "中二",
+      "count": 98
+    },
+    {
+      "name": "萝卜",
+      "count": 91
+    },
+    {
+      "name": "GONZO",
+      "count": 88
+    },
+    {
+      "name": "TV",
+      "count": 60
+    },
+    {
+      "name": "平井脸",
+      "count": 48
+    },
+    {
+      "name": "2008",
+      "count": 44
+    },
+    {
+      "name": "正义",
+      "count": 33
+    },
+    {
+      "name": "Linebarrels",
+      "count": 32
+    },
+    {
+      "name": "崩",
+      "count": 26
+    },
+    {
+      "name": "能登麻美子",
+      "count": 18
+    },
+    {
+      "name": "机战",
+      "count": 16
+    },
+    {
+      "name": "战斗",
+      "count": 15
+    },
+    {
+      "name": "2008年10月",
+      "count": 11
+    },
+    {
+      "name": "谷口悟朗",
+      "count": 9
+    },
+    {
+      "name": "漫改",
+      "count": 8
+    },
+    {
+      "name": "漫画改",
+      "count": 8
+    },
+    {
+      "name": "科幻",
+      "count": 7
+    },
+    {
+      "name": "日本",
+      "count": 7
+    },
+    {
+      "name": "动画",
+      "count": 6
+    },
+    {
+      "name": "平井久司",
+      "count": 5
+    },
+    {
+      "name": "ALIproject",
+      "count": 5
+    },
+    {
+      "name": "铁中二",
+      "count": 4
+    },
+    {
+      "name": "十月新番",
+      "count": 4
+    },
+    {
+      "name": "日高政光",
+      "count": 3
+    },
+    {
+      "name": "2008年",
+      "count": 3
+    },
+    {
+      "name": "TVA",
+      "count": 2
+    },
+    {
+      "name": "2008.10",
+      "count": 2
+    },
+    {
+      "name": "中二病",
+      "count": 2
+    },
+    {
+      "name": "中村悠一",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

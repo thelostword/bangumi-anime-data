@@ -1,0 +1,93 @@
+{
+  "id": 205845,
+  "name": "ワールドフールニュース PARTII",
+  "name_cn": "World Fool News Part 2",
+  "summary": "",
+  "date": "2017-04-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/82/e5/205845_HyiKX.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/82/e5/205845_HyiKX.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 0,
+    "total": 15,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 3,
+      "6": 7,
+      "7": 3,
+      "8": 2,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.3
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 5
+    },
+    {
+      "name": "TV",
+      "count": 2
+    },
+    {
+      "name": "CoMixWaveFilms",
+      "count": 2
+    },
+    {
+      "name": "原创",
+      "count": 2
+    },
+    {
+      "name": "ムラヤマ・J・サーシ",
+      "count": 1
+    },
+    {
+      "name": "田中哲弥",
+      "count": 1
+    },
+    {
+      "name": "野田博史",
+      "count": 1
+    },
+    {
+      "name": "萩原鈴",
+      "count": 1
+    },
+    {
+      "name": "マシモユウ",
+      "count": 1
+    },
+    {
+      "name": "2017年4月",
+      "count": 1
+    },
+    {
+      "name": "续作",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "2017",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "WorldFoolNews2",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

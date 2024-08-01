@@ -1,0 +1,153 @@
+{
+  "id": 89488,
+  "name": "うたの☆プリンスさまっ♪ マジLOVEレボリューションズ",
+  "name_cn": "歌之王子殿下 真爱REVOLUTIONS",
+  "summary": "",
+  "date": "2015-04-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e4/8e/89488_jGLiI.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e4/8e/89488_jGLiI.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 5786,
+    "total": 303,
+    "count": {
+      "1": 1,
+      "2": 4,
+      "3": 2,
+      "4": 15,
+      "5": 49,
+      "6": 115,
+      "7": 78,
+      "8": 29,
+      "9": 5,
+      "10": 5
+    },
+    "score": 6.2
+  },
+  "tags": [
+    {
+      "name": "乙女向",
+      "count": 99
+    },
+    {
+      "name": "2015年4月",
+      "count": 88
+    },
+    {
+      "name": "歌之王子殿下",
+      "count": 64
+    },
+    {
+      "name": "游戏改",
+      "count": 61
+    },
+    {
+      "name": "A-1Pictures",
+      "count": 56
+    },
+    {
+      "name": "TV",
+      "count": 43
+    },
+    {
+      "name": "2015",
+      "count": 37
+    },
+    {
+      "name": "宫野真守",
+      "count": 32
+    },
+    {
+      "name": "中村悠一",
+      "count": 26
+    },
+    {
+      "name": "偶像",
+      "count": 21
+    },
+    {
+      "name": "下野紘",
+      "count": 16
+    },
+    {
+      "name": "谷山紀章",
+      "count": 13
+    },
+    {
+      "name": "音乐",
+      "count": 11
+    },
+    {
+      "name": "宮野真守",
+      "count": 11
+    },
+    {
+      "name": "诹访部顺一",
+      "count": 6
+    },
+    {
+      "name": "乙女",
+      "count": 5
+    },
+    {
+      "name": "鈴村健一",
+      "count": 5
+    },
+    {
+      "name": "2015年",
+      "count": 5
+    },
+    {
+      "name": "星野真",
+      "count": 4
+    },
+    {
+      "name": "沢城みゆき",
+      "count": 4
+    },
+    {
+      "name": "金春智子",
+      "count": 3
+    },
+    {
+      "name": "寺島拓篤",
+      "count": 3
+    },
+    {
+      "name": "恋爱",
+      "count": 3
+    },
+    {
+      "name": "铃村健一",
+      "count": 3
+    },
+    {
+      "name": "木村良平",
+      "count": 3
+    },
+    {
+      "name": "前野智昭",
+      "count": 3
+    },
+    {
+      "name": "铃木达央",
+      "count": 3
+    },
+    {
+      "name": "游佐浩二",
+      "count": 3
+    },
+    {
+      "name": "搞笑",
+      "count": 3
+    },
+    {
+      "name": "女性向",
+      "count": 3
+    }
+  ],
+  "locked": false
+}

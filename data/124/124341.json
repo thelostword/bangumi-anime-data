@@ -1,0 +1,153 @@
+{
+  "id": 124341,
+  "name": "ARIA The AVVENIRE",
+  "name_cn": "水星领航员 The AVVENIRE",
+  "summary": "TVアニメ放送開始10周年記念プロジェクト『蒼のカーテンコール』のひとつとしてスタート\r\n\r\n9月26日(土)に公開される『ARIA The AVVENIRE』は過去にアニメ化されなかった原作からの２エピソードと、今回このプロジェクトのために原作者・天野こずえ先生が実に７年ぶりに描き下ろした完全新作漫画を元にしたオリジナルストーリーの合計３エピソードから構成されます。完全新作となる本作に、皆様ぜひご期待ください！",
+  "date": "2015-09-26",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/10/a1/124341_5oSro.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/10/a1/124341_5oSro.jpg"
+  },
+  "eps": 3,
+  "rating": {
+    "rank": 80,
+    "total": 1308,
+    "count": {
+      "1": 5,
+      "2": 2,
+      "3": 2,
+      "4": 9,
+      "5": 17,
+      "6": 61,
+      "7": 164,
+      "8": 423,
+      "9": 339,
+      "10": 286
+    },
+    "score": 8.4
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 453
+    },
+    {
+      "name": "治愈",
+      "count": 405
+    },
+    {
+      "name": "水星领航员",
+      "count": 280
+    },
+    {
+      "name": "2015",
+      "count": 237
+    },
+    {
+      "name": "ARIA",
+      "count": 178
+    },
+    {
+      "name": "剧场版",
+      "count": 135
+    },
+    {
+      "name": "漫画改",
+      "count": 131
+    },
+    {
+      "name": "佐藤顺一",
+      "count": 130
+    },
+    {
+      "name": "TYOAnimations",
+      "count": 120
+    },
+    {
+      "name": "天野こずえ",
+      "count": 74
+    },
+    {
+      "name": "漫改",
+      "count": 55
+    },
+    {
+      "name": "吉田玲子",
+      "count": 54
+    },
+    {
+      "name": "百合",
+      "count": 53
+    },
+    {
+      "name": "2015年9月",
+      "count": 32
+    },
+    {
+      "name": "日常",
+      "count": 24
+    },
+    {
+      "name": "佐藤順一",
+      "count": 18
+    },
+    {
+      "name": "科幻",
+      "count": 11
+    },
+    {
+      "name": "2015年",
+      "count": 11
+    },
+    {
+      "name": "治愈系神作",
+      "count": 11
+    },
+    {
+      "name": "奇幻",
+      "count": 8
+    },
+    {
+      "name": "日本",
+      "count": 7
+    },
+    {
+      "name": "TYO",
+      "count": 6
+    },
+    {
+      "name": "ゆめ太カンパニー",
+      "count": 6
+    },
+    {
+      "name": "续作",
+      "count": 5
+    },
+    {
+      "name": "动画",
+      "count": 4
+    },
+    {
+      "name": "HalFilmMaker",
+      "count": 4
+    },
+    {
+      "name": "治愈系",
+      "count": 4
+    },
+    {
+      "name": "映画",
+      "count": 3
+    },
+    {
+      "name": "其他",
+      "count": 3
+    },
+    {
+      "name": "TYOアニメーションズ",
+      "count": 3
+    }
+  ],
+  "locked": false
+}

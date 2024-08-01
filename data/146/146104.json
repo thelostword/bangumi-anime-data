@@ -1,0 +1,153 @@
+{
+  "id": 146104,
+  "name": "暦物語",
+  "name_cn": "历物语",
+  "summary": "在和美丽吸血鬼遭遇的春假之后，主人公阿良良木历迎来新学期，从新学期的第一个月开始到大学入学考试为止，这一年间每个月所经历的故事。",
+  "date": "2016-01-09",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/23/f8/146104_lFg3g.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/23/f8/146104_lFg3g.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 1797,
+    "total": 3955,
+    "count": {
+      "1": 1,
+      "2": 2,
+      "3": 5,
+      "4": 26,
+      "5": 147,
+      "6": 684,
+      "7": 1717,
+      "8": 1066,
+      "9": 175,
+      "10": 132
+    },
+    "score": 7.2
+  },
+  "tags": [
+    {
+      "name": "新房昭之",
+      "count": 999
+    },
+    {
+      "name": "物语系列",
+      "count": 955
+    },
+    {
+      "name": "SHAFT",
+      "count": 868
+    },
+    {
+      "name": "西尾维新",
+      "count": 664
+    },
+    {
+      "name": "2016年1月",
+      "count": 483
+    },
+    {
+      "name": "轻小说改",
+      "count": 452
+    },
+    {
+      "name": "TV",
+      "count": 375
+    },
+    {
+      "name": "2016",
+      "count": 344
+    },
+    {
+      "name": "WEB",
+      "count": 235
+    },
+    {
+      "name": "轻改",
+      "count": 212
+    },
+    {
+      "name": "后宫",
+      "count": 169
+    },
+    {
+      "name": "板村智幸",
+      "count": 122
+    },
+    {
+      "name": "奇幻",
+      "count": 113
+    },
+    {
+      "name": "历物语",
+      "count": 98
+    },
+    {
+      "name": "神前晓",
+      "count": 88
+    },
+    {
+      "name": "神谷浩史",
+      "count": 60
+    },
+    {
+      "name": "小说改",
+      "count": 51
+    },
+    {
+      "name": "泡面番",
+      "count": 36
+    },
+    {
+      "name": "2016年",
+      "count": 20
+    },
+    {
+      "name": "日常",
+      "count": 19
+    },
+    {
+      "name": "校园",
+      "count": 16
+    },
+    {
+      "name": "吐槽",
+      "count": 15
+    },
+    {
+      "name": "恋爱",
+      "count": 13
+    },
+    {
+      "name": "物语",
+      "count": 10
+    },
+    {
+      "name": "神前暁",
+      "count": 10
+    },
+    {
+      "name": "西尾維新",
+      "count": 10
+    },
+    {
+      "name": "续作",
+      "count": 9
+    },
+    {
+      "name": "搞笑",
+      "count": 9
+    },
+    {
+      "name": "日本动画",
+      "count": 7
+    },
+    {
+      "name": "怪異",
+      "count": 7
+    }
+  ],
+  "locked": false
+}

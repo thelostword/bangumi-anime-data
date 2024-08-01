@@ -1,0 +1,153 @@
+{
+  "id": 272921,
+  "name": "アイカツフレンズ！～かがやきのジュエル～",
+  "name_cn": "偶像活动Friends ～闪耀的宝石～",
+  "summary": "",
+  "date": "2019-04-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e2/ed/272921_Wkee1.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e2/ed/272921_Wkee1.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 3762,
+    "total": 86,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 3,
+      "5": 17,
+      "6": 21,
+      "7": 26,
+      "8": 12,
+      "9": 3,
+      "10": 3
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "BNPictures",
+      "count": 27
+    },
+    {
+      "name": "2019",
+      "count": 24
+    },
+    {
+      "name": "原创",
+      "count": 23
+    },
+    {
+      "name": "TV",
+      "count": 22
+    },
+    {
+      "name": "2019年4月",
+      "count": 17
+    },
+    {
+      "name": "偶像",
+      "count": 16
+    },
+    {
+      "name": "子供番",
+      "count": 10
+    },
+    {
+      "name": "百合",
+      "count": 7
+    },
+    {
+      "name": "五十嵐達也",
+      "count": 6
+    },
+    {
+      "name": "五十岚达也",
+      "count": 5
+    },
+    {
+      "name": "TVA",
+      "count": 4
+    },
+    {
+      "name": "偶像活动",
+      "count": 3
+    },
+    {
+      "name": "渡部里美",
+      "count": 3
+    },
+    {
+      "name": "SUNRISE",
+      "count": 3
+    },
+    {
+      "name": "柿原優子",
+      "count": 2
+    },
+    {
+      "name": "半年番",
+      "count": 2
+    },
+    {
+      "name": "BN_Pictures",
+      "count": 2
+    },
+    {
+      "name": "音乐",
+      "count": 2
+    },
+    {
+      "name": "BN",
+      "count": 1
+    },
+    {
+      "name": "アイカツ",
+      "count": 1
+    },
+    {
+      "name": "松永あかね",
+      "count": 1
+    },
+    {
+      "name": "唱跳rap",
+      "count": 1
+    },
+    {
+      "name": "我难道说，是史上最弱的大友吗？",
+      "count": 1
+    },
+    {
+      "name": "美山加恋",
+      "count": 1
+    },
+    {
+      "name": "10代",
+      "count": 1
+    },
+    {
+      "name": "偶像活动Friends",
+      "count": 1
+    },
+    {
+      "name": "【07分】",
+      "count": 1
+    },
+    {
+      "name": "2019年",
+      "count": 1
+    },
+    {
+      "name": "柿原优子",
+      "count": 1
+    },
+    {
+      "name": "日常",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

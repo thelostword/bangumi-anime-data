@@ -1,0 +1,153 @@
+{
+  "id": 422154,
+  "name": "ポケモンコンシェルジュ",
+  "name_cn": "宝可梦 礼宾部",
+  "summary": "舞台は南の島のポケモンリゾート。\r\n新米コンシェルジュとして働くハルが、お客さまとして訪れるポケモンと触れ合いながら成長を遂げていく物語。",
+  "date": "2023-12-28",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/cd/e3/422154_8CWWv.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/cd/e3/422154_8CWWv.jpg"
+  },
+  "eps": 4,
+  "rating": {
+    "rank": 1141,
+    "total": 193,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 3,
+      "6": 25,
+      "7": 67,
+      "8": 82,
+      "9": 11,
+      "10": 5
+    },
+    "score": 7.5
+  },
+  "tags": [
+    {
+      "name": "2023",
+      "count": 57
+    },
+    {
+      "name": "WEB",
+      "count": 49
+    },
+    {
+      "name": "定格动画",
+      "count": 42
+    },
+    {
+      "name": "宝可梦",
+      "count": 36
+    },
+    {
+      "name": "dwarfstudios",
+      "count": 35
+    },
+    {
+      "name": "原创",
+      "count": 29
+    },
+    {
+      "name": "Netflix",
+      "count": 22
+    },
+    {
+      "name": "OVA",
+      "count": 16
+    },
+    {
+      "name": "游戏改",
+      "count": 13
+    },
+    {
+      "name": "小川育",
+      "count": 13
+    },
+    {
+      "name": "治愈",
+      "count": 12
+    },
+    {
+      "name": "日常",
+      "count": 12
+    },
+    {
+      "name": "2023年12月",
+      "count": 11
+    },
+    {
+      "name": "短片",
+      "count": 8
+    },
+    {
+      "name": "2023年",
+      "count": 8
+    },
+    {
+      "name": "奇幻",
+      "count": 4
+    },
+    {
+      "name": "日本动画",
+      "count": 4
+    },
+    {
+      "name": "日本",
+      "count": 3
+    },
+    {
+      "name": "アニメ",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 2
+    },
+    {
+      "name": "2024年1月",
+      "count": 2
+    },
+    {
+      "name": "TV",
+      "count": 2
+    },
+    {
+      "name": "2020s",
+      "count": 1
+    },
+    {
+      "name": "剧集",
+      "count": 1
+    },
+    {
+      "name": "Dwarf",
+      "count": 1
+    },
+    {
+      "name": "土城温美",
+      "count": 1
+    },
+    {
+      "name": "DwarfStudio",
+      "count": 1
+    },
+    {
+      "name": "あい",
+      "count": 1
+    },
+    {
+      "name": "非连续或短剧集",
+      "count": 1
+    },
+    {
+      "name": "奥野瑛太",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

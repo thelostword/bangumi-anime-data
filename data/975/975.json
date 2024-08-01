@@ -1,0 +1,153 @@
+{
+  "id": 975,
+  "name": "ONE PIECE",
+  "name_cn": "航海王",
+  "summary": "　　传说中海贼王哥尔·D·罗杰在死前说出他留下了具有财富、名声、力量的宝藏「ONE PIECE」，许多人为了争夺ONE PIECE，争相出海，许多海贼开始树立霸权，而形成了大海贼时代。十年后，草帽小子 蒙其·D·路飞为了要实现与因救他而断臂的海贼红发香克斯的约定而出海，在遥远的路途上找寻着志同道合的伙伴，一起进入「伟大的航道」，目标当上海贼王。",
+  "date": "1999-10-20",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/92/97/975_YKuWd.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/92/97/975_YKuWd.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 86,
+    "total": 11147,
+    "count": {
+      "1": 73,
+      "2": 40,
+      "3": 29,
+      "4": 101,
+      "5": 281,
+      "6": 688,
+      "7": 1701,
+      "8": 2805,
+      "9": 2203,
+      "10": 3226
+    },
+    "score": 8.3
+  },
+  "tags": [
+    {
+      "name": "ONEPIECE",
+      "count": 4057
+    },
+    {
+      "name": "海贼王",
+      "count": 3681
+    },
+    {
+      "name": "热血",
+      "count": 2537
+    },
+    {
+      "name": "尾田榮一郎",
+      "count": 1694
+    },
+    {
+      "name": "梦想",
+      "count": 1209
+    },
+    {
+      "name": "JUMP",
+      "count": 1173
+    },
+    {
+      "name": "民工",
+      "count": 938
+    },
+    {
+      "name": "路飞",
+      "count": 928
+    },
+    {
+      "name": "热血系",
+      "count": 907
+    },
+    {
+      "name": "集英社",
+      "count": 622
+    },
+    {
+      "name": "TV",
+      "count": 495
+    },
+    {
+      "name": "超连载",
+      "count": 452
+    },
+    {
+      "name": "OP",
+      "count": 398
+    },
+    {
+      "name": "海贼",
+      "count": 308
+    },
+    {
+      "name": "1999",
+      "count": 233
+    },
+    {
+      "name": "漫画改",
+      "count": 142
+    },
+    {
+      "name": "战斗",
+      "count": 102
+    },
+    {
+      "name": "動畫",
+      "count": 96
+    },
+    {
+      "name": "东映",
+      "count": 86
+    },
+    {
+      "name": "漫改",
+      "count": 82
+    },
+    {
+      "name": "冒险",
+      "count": 50
+    },
+    {
+      "name": "童年",
+      "count": 43
+    },
+    {
+      "name": "搞笑",
+      "count": 39
+    },
+    {
+      "name": "1999年10月",
+      "count": 39
+    },
+    {
+      "name": "東映アニメーション",
+      "count": 39
+    },
+    {
+      "name": "长篇",
+      "count": 38
+    },
+    {
+      "name": "神作",
+      "count": 33
+    },
+    {
+      "name": "奇幻",
+      "count": 28
+    },
+    {
+      "name": "PIECE",
+      "count": 24
+    },
+    {
+      "name": "东映动画",
+      "count": 21
+    }
+  ],
+  "locked": false
+}

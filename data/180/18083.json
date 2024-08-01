@@ -1,0 +1,153 @@
+{
+  "id": 18083,
+  "name": "ギャラクシーエンジェルX",
+  "name_cn": "银河天使X",
+  "summary": "银河天使动画第四季。游戏主角之一的乌丸千岁终于登场。",
+  "date": "2004-07-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/78/b8/18083_toNoJ.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/78/b8/18083_toNoJ.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 2041,
+    "total": 111,
+    "count": {
+      "1": 0,
+      "2": 1,
+      "3": 1,
+      "4": 0,
+      "5": 9,
+      "6": 15,
+      "7": 42,
+      "8": 32,
+      "9": 9,
+      "10": 2
+    },
+    "score": 7.1
+  },
+  "tags": [
+    {
+      "name": "搞笑",
+      "count": 35
+    },
+    {
+      "name": "TV",
+      "count": 26
+    },
+    {
+      "name": "MADHouse",
+      "count": 25
+    },
+    {
+      "name": "银河天使",
+      "count": 22
+    },
+    {
+      "name": "2004",
+      "count": 19
+    },
+    {
+      "name": "田村ゆかり",
+      "count": 12
+    },
+    {
+      "name": "补番",
+      "count": 10
+    },
+    {
+      "name": "游戏改",
+      "count": 10
+    },
+    {
+      "name": "科幻",
+      "count": 8
+    },
+    {
+      "name": "高柳滋仁",
+      "count": 3
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 2
+    },
+    {
+      "name": "浅香守生",
+      "count": 2
+    },
+    {
+      "name": "2004年7月",
+      "count": 2
+    },
+    {
+      "name": "たなかかずや",
+      "count": 1
+    },
+    {
+      "name": "井上敏树",
+      "count": 1
+    },
+    {
+      "name": "7分",
+      "count": 1
+    },
+    {
+      "name": "乌丸千岁",
+      "count": 1
+    },
+    {
+      "name": "00年代",
+      "count": 1
+    },
+    {
+      "name": "可能会看",
+      "count": 1
+    },
+    {
+      "name": "電視",
+      "count": 1
+    },
+    {
+      "name": "04夏",
+      "count": 1
+    },
+    {
+      "name": "6分",
+      "count": 1
+    },
+    {
+      "name": "大长篇",
+      "count": 1
+    },
+    {
+      "name": "井上敏樹",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "奇幻",
+      "count": 1
+    },
+    {
+      "name": "沢城みゆき",
+      "count": 1
+    },
+    {
+      "name": "萌",
+      "count": 1
+    },
+    {
+      "name": "田村",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,93 @@
+{
+  "id": 419847,
+  "name": "Spicy Candy",
+  "name_cn": "辣糖甜心",
+  "summary": "ツッコミ系毒舌女子の Spicy が、\r\n日常の些細な「あるある」「ぼやき」「これって変じゃない？」を\r\nメロディーに乗せて歌い出します。",
+  "date": "2023-02-14",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/b7/94/419847_1LlzK.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/b7/94/419847_1LlzK.jpg"
+  },
+  "eps": 16,
+  "rating": {
+    "rank": 0,
+    "total": 19,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 8,
+      "6": 8,
+      "7": 2,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.6
+  },
+  "tags": [
+    {
+      "name": "2023",
+      "count": 5
+    },
+    {
+      "name": "泡面番",
+      "count": 5
+    },
+    {
+      "name": "青池良辅",
+      "count": 3
+    },
+    {
+      "name": "音乐",
+      "count": 2
+    },
+    {
+      "name": "东映",
+      "count": 2
+    },
+    {
+      "name": "泡面番×憋气番✓",
+      "count": 1
+    },
+    {
+      "name": "国产或合作动画",
+      "count": 1
+    },
+    {
+      "name": "弱6",
+      "count": 1
+    },
+    {
+      "name": "开心麻花",
+      "count": 1
+    },
+    {
+      "name": "非连续或短剧集",
+      "count": 1
+    },
+    {
+      "name": "泡面",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "WEB",
+      "count": 1
+    },
+    {
+      "name": "东映动画",
+      "count": 1
+    },
+    {
+      "name": "短片",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

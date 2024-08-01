@@ -1,0 +1,49 @@
+{
+  "id": 199408,
+  "name": "戦隊ヒーロー スキヤキフォース -ぐんまの平和を願うシーズン-",
+  "name_cn": "",
+  "summary": "The anime will be a \"surreal comedy\" that emphasizes Gunma prefecture's self-sufficiency in ingredients for sukiyaki. The story centers around the titular Sukiyaki Force, created by Professor Warishita, who fight against the forces of Kiraida, who have come to Gunma and threaten to destroy the world.",
+  "date": "2017-01-09",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/a3/50/199408_PpL6f.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/a3/50/199408_PpL6f.jpg"
+  },
+  "eps": 24,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "原神",
+      "count": 1
+    },
+    {
+      "name": "17.1",
+      "count": 1
+    },
+    {
+      "name": "2017年",
+      "count": 1
+    },
+    {
+      "name": "Studio4℃",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,153 @@
+{
+  "id": 146732,
+  "name": "GRANBLUE FANTASY The Animation",
+  "name_cn": "碧蓝幻想",
+  "summary": "这里是，空中漂浮着众多岛屿的，空之世界。\r\n在信奉神秘的赛克汀瑟岛上生活的少年·格兰，以及会说话的羽蜥蜴碧，某天，遇见了迷之美少女——露莉亚。\r\n露莉亚，是从企图以强大的军事力支配这个空之世界的军事国家·艾尔斯提帝国那里逃来的。\r\n格兰与露璃亚为了逃离帝国，带着格兰的父亲留下的写有“在星之岛伊斯塔鲁西亚等着”的书信，展开了前往天空的宏大旅程。",
+  "date": "2017-04-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/26/fe/146732_8PnIj.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/26/fe/146732_8PnIj.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 5770,
+    "total": 1249,
+    "count": {
+      "1": 7,
+      "2": 1,
+      "3": 12,
+      "4": 33,
+      "5": 169,
+      "6": 477,
+      "7": 418,
+      "8": 111,
+      "9": 10,
+      "10": 11
+    },
+    "score": 6.3
+  },
+  "tags": [
+    {
+      "name": "A-1Pictures",
+      "count": 371
+    },
+    {
+      "name": "2017年4月",
+      "count": 274
+    },
+    {
+      "name": "游戏改",
+      "count": 262
+    },
+    {
+      "name": "TV",
+      "count": 201
+    },
+    {
+      "name": "手游改",
+      "count": 199
+    },
+    {
+      "name": "碧蓝幻想",
+      "count": 185
+    },
+    {
+      "name": "奇幻",
+      "count": 170
+    },
+    {
+      "name": "cygames",
+      "count": 155
+    },
+    {
+      "name": "2017",
+      "count": 115
+    },
+    {
+      "name": "冒险",
+      "count": 71
+    },
+    {
+      "name": "2017年1月",
+      "count": 51
+    },
+    {
+      "name": "战斗",
+      "count": 35
+    },
+    {
+      "name": "伊藤祐毅",
+      "count": 32
+    },
+    {
+      "name": "A-1",
+      "count": 18
+    },
+    {
+      "name": "游戏改编",
+      "count": 14
+    },
+    {
+      "name": "木村良平",
+      "count": 10
+    },
+    {
+      "name": "2017年",
+      "count": 8
+    },
+    {
+      "name": "异世界",
+      "count": 6
+    },
+    {
+      "name": "東山奈央",
+      "count": 6
+    },
+    {
+      "name": "钉宫理惠",
+      "count": 5
+    },
+    {
+      "name": "泽城美雪",
+      "count": 5
+    },
+    {
+      "name": "赤井俊文",
+      "count": 5
+    },
+    {
+      "name": "TVA",
+      "count": 5
+    },
+    {
+      "name": "东山奈央",
+      "count": 5
+    },
+    {
+      "name": "GBF",
+      "count": 3
+    },
+    {
+      "name": "伊藤佑毅",
+      "count": 3
+    },
+    {
+      "name": "小野友树",
+      "count": 3
+    },
+    {
+      "name": "动画",
+      "count": 3
+    },
+    {
+      "name": "沢城みゆき",
+      "count": 2
+    },
+    {
+      "name": "成田勤",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

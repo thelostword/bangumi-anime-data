@@ -1,0 +1,153 @@
+{
+  "id": 85339,
+  "name": "ストライクウィッチーズ Operation Victory Arrow",
+  "name_cn": "强袭魔女 胜利之箭行动",
+  "summary": "新作为三部30分钟的短篇故事，时间轴设定在TVA 2期和剧场版之间，描写回归故里的角色们各自的活跃。",
+  "date": "2014-09-20",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/df/c9/85339_TCCP7.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/df/c9/85339_TCCP7.jpg"
+  },
+  "eps": 3,
+  "rating": {
+    "rank": 2446,
+    "total": 718,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 6,
+      "4": 6,
+      "5": 33,
+      "6": 138,
+      "7": 324,
+      "8": 178,
+      "9": 22,
+      "10": 11
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 296
+    },
+    {
+      "name": "百合",
+      "count": 198
+    },
+    {
+      "name": "强袭魔女",
+      "count": 156
+    },
+    {
+      "name": "SILVERLINK.",
+      "count": 142
+    },
+    {
+      "name": "原创",
+      "count": 117
+    },
+    {
+      "name": "2014",
+      "count": 105
+    },
+    {
+      "name": "2014年12月",
+      "count": 63
+    },
+    {
+      "name": "战斗",
+      "count": 43
+    },
+    {
+      "name": "島田フミカネ",
+      "count": 42
+    },
+    {
+      "name": "高村和宏",
+      "count": 42
+    },
+    {
+      "name": "獣耳娘",
+      "count": 22
+    },
+    {
+      "name": "飞天小裤裤",
+      "count": 20
+    },
+    {
+      "name": "战争",
+      "count": 18
+    },
+    {
+      "name": "肉",
+      "count": 17
+    },
+    {
+      "name": "科幻",
+      "count": 13
+    },
+    {
+      "name": "军事",
+      "count": 8
+    },
+    {
+      "name": "萌",
+      "count": 6
+    },
+    {
+      "name": "兽耳",
+      "count": 6
+    },
+    {
+      "name": "2014年",
+      "count": 6
+    },
+    {
+      "name": "空战",
+      "count": 6
+    },
+    {
+      "name": "2014年9月",
+      "count": 5
+    },
+    {
+      "name": "魔法少女",
+      "count": 4
+    },
+    {
+      "name": "奇幻",
+      "count": 4
+    },
+    {
+      "name": "日本",
+      "count": 4
+    },
+    {
+      "name": "斎藤千和",
+      "count": 3
+    },
+    {
+      "name": "其他",
+      "count": 2
+    },
+    {
+      "name": "伊藤静",
+      "count": 2
+    },
+    {
+      "name": "露点",
+      "count": 2
+    },
+    {
+      "name": "岛田文金",
+      "count": 2
+    },
+    {
+      "name": "田中理恵",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

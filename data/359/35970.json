@@ -1,0 +1,153 @@
+{
+  "id": 35970,
+  "name": "B'T-X NEO",
+  "name_cn": "钢铁神兵B'T-X NEO",
+  "summary": "『B'T-X NEO』（ビート・エックス ネオ）のタイトルで、1997年8月21日にOVA化された。TV版の続きとなっているが、原作連載中の作品であるため、オリジナルの展開となっている。",
+  "date": "1997-08-21",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ae/91/35970_Nz4S4.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ae/91/35970_Nz4S4.jpg"
+  },
+  "eps": 14,
+  "rating": {
+    "rank": 2141,
+    "total": 149,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 0,
+      "5": 5,
+      "6": 26,
+      "7": 73,
+      "8": 37,
+      "9": 4,
+      "10": 3
+    },
+    "score": 7.1
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 35
+    },
+    {
+      "name": "童年",
+      "count": 27
+    },
+    {
+      "name": "车田正美",
+      "count": 23
+    },
+    {
+      "name": "1997",
+      "count": 17
+    },
+    {
+      "name": "热血",
+      "count": 16
+    },
+    {
+      "name": "漫画改",
+      "count": 10
+    },
+    {
+      "name": "钢铁神兵",
+      "count": 8
+    },
+    {
+      "name": "烂尾",
+      "count": 7
+    },
+    {
+      "name": "TV",
+      "count": 6
+    },
+    {
+      "name": "日本",
+      "count": 4
+    },
+    {
+      "name": "残念",
+      "count": 3
+    },
+    {
+      "name": "补番",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "トムス・エンタテインメント",
+      "count": 2
+    },
+    {
+      "name": "科幻",
+      "count": 2
+    },
+    {
+      "name": "亀垣一",
+      "count": 1
+    },
+    {
+      "name": "七星",
+      "count": 1
+    },
+    {
+      "name": "佐々木望",
+      "count": 1
+    },
+    {
+      "name": "收藏",
+      "count": 1
+    },
+    {
+      "name": "季番",
+      "count": 1
+    },
+    {
+      "name": "菅良幸",
+      "count": 1
+    },
+    {
+      "name": "OVA-01",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "钢铁神兵系列",
+      "count": 1
+    },
+    {
+      "name": "不感兴趣",
+      "count": 1
+    },
+    {
+      "name": "檜山修之",
+      "count": 1
+    },
+    {
+      "name": "1997年",
+      "count": 1
+    },
+    {
+      "name": "SF",
+      "count": 1
+    },
+    {
+      "name": "结局",
+      "count": 1
+    },
+    {
+      "name": "战争",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

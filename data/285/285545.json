@@ -1,0 +1,153 @@
+{
+  "id": 285545,
+  "name": "みにゆり",
+  "name_cn": "迷你百合",
+  "summary": "ゆるゆりのミニアニメ「みにゆり」制作決定\r\n\r\nゆるゆりのミニアニメの制作が決定しました！タイトルは「みにゆり」です！５分×４話をミニキャラで制作します。WEB上に公開予定ですのでよろしくお願いします！！クラウドファンディング応援していただいた皆さまのおかげで今後も続く「ゆるゆり」をお楽しみに♪ #yuruyuri\r\n\r\n— アニメ「ゆるゆり」公式アカウント、 (@anime_yuruyuri) 2019年6月29日",
+  "date": "2019-09-25",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ef/83/285545_8sL5s.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ef/83/285545_8sL5s.jpg"
+  },
+  "eps": 4,
+  "rating": {
+    "rank": 4307,
+    "total": 428,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 3,
+      "4": 8,
+      "5": 46,
+      "6": 158,
+      "7": 141,
+      "8": 52,
+      "9": 6,
+      "10": 14
+    },
+    "score": 6.6
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 147
+    },
+    {
+      "name": "WEB",
+      "count": 120
+    },
+    {
+      "name": "百合",
+      "count": 118
+    },
+    {
+      "name": "2019",
+      "count": 99
+    },
+    {
+      "name": "漫画改",
+      "count": 64
+    },
+    {
+      "name": "摇曳百合",
+      "count": 60
+    },
+    {
+      "name": "搞笑",
+      "count": 54
+    },
+    {
+      "name": "DMM.futureworks",
+      "count": 46
+    },
+    {
+      "name": "日常",
+      "count": 45
+    },
+    {
+      "name": "漫改",
+      "count": 32
+    },
+    {
+      "name": "萌",
+      "count": 22
+    },
+    {
+      "name": "W-toonStudio",
+      "count": 18
+    },
+    {
+      "name": "2019年9月",
+      "count": 18
+    },
+    {
+      "name": "W-Toon_Studio",
+      "count": 12
+    },
+    {
+      "name": "轻百合",
+      "count": 12
+    },
+    {
+      "name": "阿卡林",
+      "count": 8
+    },
+    {
+      "name": "2019年10月",
+      "count": 7
+    },
+    {
+      "name": "OVA",
+      "count": 7
+    },
+    {
+      "name": "泡面",
+      "count": 6
+    },
+    {
+      "name": "校园",
+      "count": 6
+    },
+    {
+      "name": "宫岛星矢",
+      "count": 5
+    },
+    {
+      "name": "宮嶋星矢",
+      "count": 5
+    },
+    {
+      "name": "ダブトゥーンスタジオ",
+      "count": 5
+    },
+    {
+      "name": "タカヒロ",
+      "count": 5
+    },
+    {
+      "name": "治愈",
+      "count": 4
+    },
+    {
+      "name": "なもり",
+      "count": 4
+    },
+    {
+      "name": "日本",
+      "count": 4
+    },
+    {
+      "name": "2019年",
+      "count": 3
+    },
+    {
+      "name": "SP",
+      "count": 3
+    },
+    {
+      "name": "STUDIOMORIKEN",
+      "count": 3
+    }
+  ],
+  "locked": false
+}

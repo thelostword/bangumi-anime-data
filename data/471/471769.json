@@ -1,0 +1,141 @@
+{
+  "id": 471769,
+  "name": "シャドウバースF アーク編",
+  "name_cn": "影之诗F 方舟篇",
+  "summary": "映像には突然現れた謎の物体・アークや、天竜ライトに接近するアークルーラーが映し出される。さらにドラグニルが不安を抱く様子や、ライトらが世界を救うために奮闘する姿が収められた。",
+  "date": "2024-04-13",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c4/5a/471769_ojwc9.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c4/5a/471769_ojwc9.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 30,
+    "count": {
+      "1": 2,
+      "2": 0,
+      "3": 1,
+      "4": 3,
+      "5": 13,
+      "6": 7,
+      "7": 1,
+      "8": 1,
+      "9": 1,
+      "10": 1
+    },
+    "score": 5.3
+  },
+  "tags": [
+    {
+      "name": "ZEXCS",
+      "count": 17
+    },
+    {
+      "name": "2024年4月",
+      "count": 14
+    },
+    {
+      "name": "游戏改",
+      "count": 11
+    },
+    {
+      "name": "2024",
+      "count": 10
+    },
+    {
+      "name": "TV",
+      "count": 10
+    },
+    {
+      "name": "影之诗",
+      "count": 9
+    },
+    {
+      "name": "卡牌",
+      "count": 6
+    },
+    {
+      "name": "川口敬一郎",
+      "count": 5
+    },
+    {
+      "name": "cygames",
+      "count": 4
+    },
+    {
+      "name": "影之诗F",
+      "count": 2
+    },
+    {
+      "name": "浦和希",
+      "count": 2
+    },
+    {
+      "name": "三重野瞳",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "春季",
+      "count": 1
+    },
+    {
+      "name": "5.5",
+      "count": 1
+    },
+    {
+      "name": "磯崎輪太郎",
+      "count": 1
+    },
+    {
+      "name": "运动竞技",
+      "count": 1
+    },
+    {
+      "name": "续作",
+      "count": 1
+    },
+    {
+      "name": "原创",
+      "count": 1
+    },
+    {
+      "name": "奇幻",
+      "count": 1
+    },
+    {
+      "name": "日本",
+      "count": 1
+    },
+    {
+      "name": "游戏",
+      "count": 1
+    },
+    {
+      "name": "冒险",
+      "count": 1
+    },
+    {
+      "name": "热血",
+      "count": 1
+    },
+    {
+      "name": "山村響",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "上村祐翔",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

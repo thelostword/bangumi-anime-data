@@ -1,0 +1,109 @@
+{
+  "id": 135196,
+  "name": "はじめの一歩 間柴vs木村 死刑執行",
+  "name_cn": "第一神拳 间柴vs木村 死刑执行",
+  "summary": " 　　2003年9月5日発売のOVA。異色作品で木村役の藤原啓治がキャストロールの先頭で紹介されている。 ",
+  "date": "2003-09-05",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/d2/d1/135196_z3R3p.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/d2/d1/135196_z3R3p.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 45,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 5,
+      "7": 16,
+      "8": 17,
+      "9": 4,
+      "10": 2
+    },
+    "score": 7.5
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 15
+    },
+    {
+      "name": "MADHouse",
+      "count": 12
+    },
+    {
+      "name": "2003",
+      "count": 11
+    },
+    {
+      "name": "第一神拳",
+      "count": 7
+    },
+    {
+      "name": "漫画改",
+      "count": 4
+    },
+    {
+      "name": "热血",
+      "count": 3
+    },
+    {
+      "name": "难波日登志",
+      "count": 3
+    },
+    {
+      "name": "喜安浩平",
+      "count": 3
+    },
+    {
+      "name": "ふでやすかずゆき",
+      "count": 2
+    },
+    {
+      "name": "其他",
+      "count": 1
+    },
+    {
+      "name": "其它",
+      "count": 1
+    },
+    {
+      "name": "OVA-01",
+      "count": 1
+    },
+    {
+      "name": "関智一",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "体育",
+      "count": 1
+    },
+    {
+      "name": "格斗",
+      "count": 1
+    },
+    {
+      "name": "打斗",
+      "count": 1
+    },
+    {
+      "name": "小山力也",
+      "count": 1
+    },
+    {
+      "name": "難波日登志",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

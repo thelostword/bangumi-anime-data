@@ -1,0 +1,153 @@
+{
+  "id": 202256,
+  "name": "メアリと魔女の花",
+  "name_cn": "玛丽与魔女之花",
+  "summary": "　　影片改编自英国作家 Mary Stewart 在1971年发表的儿童小说《小扫帚》（The Little Broomstick）。 \r\n\r\n　　本作讲述了小女孩玛丽被送到乡下的阿姨家过暑假，机缘巧合之际在森林里发现了七年才盛开一次的不可思议之花——“夜间飞行”。在这朵魔幻之花的引导下，玛丽骑乘着扫帚来到了充满奇幻力量的魔法学校，在学习各种神奇有趣的魔法的过程中，玛丽却逐渐发现这个光怪陆离的魔法世界还有不为人知的另一面……",
+  "date": "2017-07-08",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/aa/c9/202256_ppqxW.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/aa/c9/202256_ppqxW.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 6004,
+    "total": 942,
+    "count": {
+      "1": 2,
+      "2": 2,
+      "3": 11,
+      "4": 37,
+      "5": 139,
+      "6": 364,
+      "7": 303,
+      "8": 69,
+      "9": 6,
+      "10": 9
+    },
+    "score": 6.2
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 366
+    },
+    {
+      "name": "米林宏昌",
+      "count": 211
+    },
+    {
+      "name": "2017",
+      "count": 201
+    },
+    {
+      "name": "小说改",
+      "count": 142
+    },
+    {
+      "name": "STUDIOPONOC",
+      "count": 140
+    },
+    {
+      "name": "奇幻",
+      "count": 113
+    },
+    {
+      "name": "动画电影",
+      "count": 88
+    },
+    {
+      "name": "童话",
+      "count": 78
+    },
+    {
+      "name": "魔法",
+      "count": 39
+    },
+    {
+      "name": "魔法少女",
+      "count": 32
+    },
+    {
+      "name": "2017年7月",
+      "count": 22
+    },
+    {
+      "name": "玛丽·斯图亚特",
+      "count": 19
+    },
+    {
+      "name": "2017年",
+      "count": 15
+    },
+    {
+      "name": "映画",
+      "count": 10
+    },
+    {
+      "name": "治愈",
+      "count": 8
+    },
+    {
+      "name": "魔女",
+      "count": 6
+    },
+    {
+      "name": "吉卜力",
+      "count": 6
+    },
+    {
+      "name": "日本动画",
+      "count": 6
+    },
+    {
+      "name": "スタジオポノック",
+      "count": 5
+    },
+    {
+      "name": "电影",
+      "count": 5
+    },
+    {
+      "name": "动画",
+      "count": 4
+    },
+    {
+      "name": "大平晋也",
+      "count": 4
+    },
+    {
+      "name": "日本",
+      "count": 4
+    },
+    {
+      "name": "PONOC",
+      "count": 3
+    },
+    {
+      "name": "冒险",
+      "count": 3
+    },
+    {
+      "name": "坂口理子",
+      "count": 3
+    },
+    {
+      "name": "劇場版",
+      "count": 3
+    },
+    {
+      "name": "STUDIO_PONOC",
+      "count": 3
+    },
+    {
+      "name": "玛丽与魔女之花",
+      "count": 3
+    },
+    {
+      "name": "undefined",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

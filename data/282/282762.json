@@ -1,0 +1,153 @@
+{
+  "id": 282762,
+  "name": "八十亀ちゃんかんさつにっき 2さつめ",
+  "name_cn": "八十龟酱观察日记 第二册",
+  "summary": "",
+  "date": "2020-01-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/83/cf/282762_meiVG.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/83/cf/282762_meiVG.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 5750,
+    "total": 129,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 3,
+      "5": 30,
+      "6": 57,
+      "7": 29,
+      "8": 9,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 49
+    },
+    {
+      "name": "2020年1月",
+      "count": 38
+    },
+    {
+      "name": "漫画改",
+      "count": 24
+    },
+    {
+      "name": "2020",
+      "count": 22
+    },
+    {
+      "name": "TV",
+      "count": 18
+    },
+    {
+      "name": "日常",
+      "count": 14
+    },
+    {
+      "name": "搞笑",
+      "count": 14
+    },
+    {
+      "name": "サエッタ",
+      "count": 12
+    },
+    {
+      "name": "漫改",
+      "count": 10
+    },
+    {
+      "name": "八十龟酱观察日记",
+      "count": 7
+    },
+    {
+      "name": "泡面",
+      "count": 6
+    },
+    {
+      "name": "校园",
+      "count": 6
+    },
+    {
+      "name": "saetta",
+      "count": 4
+    },
+    {
+      "name": "小松未可子",
+      "count": 4
+    },
+    {
+      "name": "日本动画",
+      "count": 3
+    },
+    {
+      "name": "续期",
+      "count": 3
+    },
+    {
+      "name": "户松遥",
+      "count": 3
+    },
+    {
+      "name": "戸松遥",
+      "count": 3
+    },
+    {
+      "name": "地方宣传",
+      "count": 2
+    },
+    {
+      "name": "1月",
+      "count": 2
+    },
+    {
+      "name": "平泽久义",
+      "count": 2
+    },
+    {
+      "name": "地域黑",
+      "count": 2
+    },
+    {
+      "name": "市来光弘",
+      "count": 2
+    },
+    {
+      "name": "令和",
+      "count": 1
+    },
+    {
+      "name": "2020年",
+      "count": 1
+    },
+    {
+      "name": "屹青",
+      "count": 1
+    },
+    {
+      "name": "早坂皐月",
+      "count": 1
+    },
+    {
+      "name": "八木崇夫",
+      "count": 1
+    },
+    {
+      "name": "八十龟观察日记",
+      "count": 1
+    },
+    {
+      "name": "动画",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

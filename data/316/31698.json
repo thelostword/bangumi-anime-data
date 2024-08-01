@@ -1,0 +1,137 @@
+{
+  "id": 31698,
+  "name": "オズの魔法使い",
+  "name_cn": "绿野仙踪",
+  "summary": "『奥兹国的魔法师』（『オズの魔法使い』）是一部根据富兰克·鲍姆（Lyman Frank Baum）所著系列童话《绿野仙踪》所改编的日本动画，于1986至1987年在东京电视台播放。",
+  "date": "1986-10-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/6e/6b/31698_Z47uD.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/6e/6b/31698_Z47uD.jpg"
+  },
+  "eps": 52,
+  "rating": {
+    "rank": 0,
+    "total": 12,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 0,
+      "7": 8,
+      "8": 1,
+      "9": 2,
+      "10": 0
+    },
+    "score": 7.3
+  },
+  "tags": [
+    {
+      "name": "童年",
+      "count": 7
+    },
+    {
+      "name": "TV",
+      "count": 7
+    },
+    {
+      "name": "1986",
+      "count": 4
+    },
+    {
+      "name": "80s",
+      "count": 4
+    },
+    {
+      "name": "日番",
+      "count": 3
+    },
+    {
+      "name": "补旧番",
+      "count": 3
+    },
+    {
+      "name": "80年代",
+      "count": 3
+    },
+    {
+      "name": "長嶺高文",
+      "count": 3
+    },
+    {
+      "name": "K.S_YOSHIMURA",
+      "count": 2
+    },
+    {
+      "name": "直居隆雄",
+      "count": 2
+    },
+    {
+      "name": "宮崎晃",
+      "count": 2
+    },
+    {
+      "name": "可能没看全",
+      "count": 2
+    },
+    {
+      "name": "斎藤博",
+      "count": 2
+    },
+    {
+      "name": "年番&大长篇",
+      "count": 1
+    },
+    {
+      "name": "已收录(mix)",
+      "count": 1
+    },
+    {
+      "name": "バンメディア",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "undefined",
+      "count": 1
+    },
+    {
+      "name": "殿河内勝",
+      "count": 1
+    },
+    {
+      "name": "奇幻",
+      "count": 1
+    },
+    {
+      "name": "日本",
+      "count": 1
+    },
+    {
+      "name": "小说改",
+      "count": 1
+    },
+    {
+      "name": "童话衍生",
+      "count": 1
+    },
+    {
+      "name": "関修一",
+      "count": 1
+    },
+    {
+      "name": "パンメディア",
+      "count": 1
+    },
+    {
+      "name": "古林一太",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

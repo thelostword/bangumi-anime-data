@@ -1,0 +1,69 @@
+{
+  "id": 212331,
+  "name": "ふるさとめぐり 日本の昔ばなし",
+  "name_cn": "故乡漫游 日本的古老传说",
+  "summary": "",
+  "date": "2017-04-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ff/78/212331_Nn84a.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ff/78/212331_Nn84a.jpg"
+  },
+  "eps": 50,
+  "rating": {
+    "rank": 0,
+    "total": 3,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 1,
+      "7": 1,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "续作",
+      "count": 3
+    },
+    {
+      "name": "原创",
+      "count": 3
+    },
+    {
+      "name": "TV",
+      "count": 2
+    },
+    {
+      "name": "2017年4月",
+      "count": 2
+    },
+    {
+      "name": "故乡漫游日本的古老传说",
+      "count": 1
+    },
+    {
+      "name": "剧集",
+      "count": 1
+    },
+    {
+      "name": "Tomason",
+      "count": 1
+    },
+    {
+      "name": "空",
+      "count": 1
+    },
+    {
+      "name": "2017",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

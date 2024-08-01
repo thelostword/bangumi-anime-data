@@ -1,0 +1,49 @@
+{
+  "id": 232975,
+  "name": "秘密結社鷹の爪 MAX",
+  "name_cn": "秘密结社 鹰之爪 MAX",
+  "summary": "",
+  "date": "2013-04-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/72/3b/232975_KtRFB.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/72/3b/232975_KtRFB.jpg"
+  },
+  "eps": 38,
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 1,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "蛙男商会",
+      "count": 1
+    },
+    {
+      "name": "2013",
+      "count": 1
+    },
+    {
+      "name": "DLE",
+      "count": 1
+    },
+    {
+      "name": "泡面番",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

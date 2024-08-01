@@ -1,0 +1,129 @@
+{
+  "id": 137576,
+  "name": "暗闇三太",
+  "name_cn": "暗暗三太",
+  "summary": "《暗闇三太》是由九州朝日放送和株式会社ILCA共同企划制作的以“恐怖”为主题的怀旧系原创电视动画。于2015年7月4日播出，每话5分钟，全13话。",
+  "date": "2015-07-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/d1/ea/137576_Pu9u1.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/d1/ea/137576_Pu9u1.jpg"
+  },
+  "eps": 14,
+  "rating": {
+    "rank": 0,
+    "total": 36,
+    "count": {
+      "1": 0,
+      "2": 2,
+      "3": 0,
+      "4": 8,
+      "5": 10,
+      "6": 11,
+      "7": 4,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 5.3
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 32
+    },
+    {
+      "name": "2015年7月",
+      "count": 20
+    },
+    {
+      "name": "恐怖",
+      "count": 13
+    },
+    {
+      "name": "TV",
+      "count": 12
+    },
+    {
+      "name": "ILCA",
+      "count": 10
+    },
+    {
+      "name": "2015",
+      "count": 9
+    },
+    {
+      "name": "仲村学",
+      "count": 5
+    },
+    {
+      "name": "社会",
+      "count": 5
+    },
+    {
+      "name": "暗黑",
+      "count": 5
+    },
+    {
+      "name": "熊本浩武",
+      "count": 4
+    },
+    {
+      "name": "原创",
+      "count": 2
+    },
+    {
+      "name": "原创TV",
+      "count": 2
+    },
+    {
+      "name": "西川伸司",
+      "count": 1
+    },
+    {
+      "name": "仲塚悠士",
+      "count": 1
+    },
+    {
+      "name": "田边茂",
+      "count": 1
+    },
+    {
+      "name": "莲惠介",
+      "count": 1
+    },
+    {
+      "name": "岩崎圭",
+      "count": 1
+    },
+    {
+      "name": "201507",
+      "count": 1
+    },
+    {
+      "name": "2015年七月番",
+      "count": 1
+    },
+    {
+      "name": "短片集",
+      "count": 1
+    },
+    {
+      "name": "2010s",
+      "count": 1
+    },
+    {
+      "name": "诡异",
+      "count": 1
+    },
+    {
+      "name": "2015年",
+      "count": 1
+    },
+    {
+      "name": "神作",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,81 @@
+{
+  "id": 9616,
+  "name": "やんやんマチコ",
+  "name_cn": "波波咩",
+  "summary": "　　作品是描述一只悠闲的黑绵羊真智子，生活周遭所发生的故事住在香榭丽舍商店街杂货店二楼的她，平时最喜欢摇呼啦圈。\r\n　　监狱兔的制作公司KANABAN GRAPHICS的新作。一只羊的治愈系动画。颜色、造型、配音都很可爱。（via douban）",
+  "date": "2009-12-25",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/91/03/9616_UU6xX.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/91/03/9616_UU6xX.jpg"
+  },
+  "eps": 11,
+  "rating": {
+    "rank": 0,
+    "total": 36,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 1,
+      "6": 9,
+      "7": 6,
+      "8": 13,
+      "9": 5,
+      "10": 1
+    },
+    "score": 7.3
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 10
+    },
+    {
+      "name": "2009",
+      "count": 6
+    },
+    {
+      "name": "羊羊美智子",
+      "count": 4
+    },
+    {
+      "name": "WEB",
+      "count": 4
+    },
+    {
+      "name": "TV",
+      "count": 3
+    },
+    {
+      "name": "搞笑",
+      "count": 2
+    },
+    {
+      "name": "泡面",
+      "count": 2
+    },
+    {
+      "name": "泡麵番",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "治愈",
+      "count": 1
+    },
+    {
+      "name": "新番",
+      "count": 1
+    },
+    {
+      "name": "ONA",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

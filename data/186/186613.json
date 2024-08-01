@@ -1,0 +1,153 @@
+{
+  "id": 186613,
+  "name": "ViVid Strike!",
+  "name_cn": "",
+  "summary": "在孤儿院生活的少女风香和凛音。从小一起长大宛如姐妹般的二个人虽然过着清贫的生活但是仍然梦想着光明的未来。但是，风香和凛音迎来的「再次的离别」改变了两人的命运——。",
+  "date": "2016-10-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/42/ee/186613_I102a.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/42/ee/186613_I102a.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 6353,
+    "total": 737,
+    "count": {
+      "1": 4,
+      "2": 3,
+      "3": 7,
+      "4": 36,
+      "5": 113,
+      "6": 298,
+      "7": 217,
+      "8": 51,
+      "9": 5,
+      "10": 3
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "百合",
+      "count": 186
+    },
+    {
+      "name": "2016年10月",
+      "count": 164
+    },
+    {
+      "name": "魔炮",
+      "count": 130
+    },
+    {
+      "name": "TV",
+      "count": 126
+    },
+    {
+      "name": "原创",
+      "count": 104
+    },
+    {
+      "name": "2016",
+      "count": 79
+    },
+    {
+      "name": "漫画改",
+      "count": 75
+    },
+    {
+      "name": "战斗",
+      "count": 58
+    },
+    {
+      "name": "SEVEN・ARCS",
+      "count": 53
+    },
+    {
+      "name": "SevenArcs",
+      "count": 50
+    },
+    {
+      "name": "西村纯二",
+      "count": 37
+    },
+    {
+      "name": "续作",
+      "count": 34
+    },
+    {
+      "name": "ViVid",
+      "count": 24
+    },
+    {
+      "name": "魔法少女",
+      "count": 16
+    },
+    {
+      "name": "都築真紀",
+      "count": 14
+    },
+    {
+      "name": "魔法少女奈叶",
+      "count": 11
+    },
+    {
+      "name": "Strike!",
+      "count": 9
+    },
+    {
+      "name": "小仓唯",
+      "count": 7
+    },
+    {
+      "name": "西村純二",
+      "count": 6
+    },
+    {
+      "name": "竞技",
+      "count": 5
+    },
+    {
+      "name": "水濑祈",
+      "count": 4
+    },
+    {
+      "name": "2016年",
+      "count": 4
+    },
+    {
+      "name": "SEVEN_ARCS",
+      "count": 4
+    },
+    {
+      "name": "热血",
+      "count": 4
+    },
+    {
+      "name": "漫改",
+      "count": 4
+    },
+    {
+      "name": "萝莉",
+      "count": 4
+    },
+    {
+      "name": "能登麻美子",
+      "count": 4
+    },
+    {
+      "name": "科幻",
+      "count": 3
+    },
+    {
+      "name": "藤真拓哉",
+      "count": 3
+    },
+    {
+      "name": "都筑真纪",
+      "count": 3
+    }
+  ],
+  "locked": false
+}

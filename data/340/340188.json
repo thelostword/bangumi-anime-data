@@ -1,0 +1,153 @@
+{
+  "id": 340188,
+  "name": "聖剣伝説 Legend of Mana -The Teardrop Crystal-",
+  "name_cn": "圣剑传说 玛娜传奇 -泪珠水晶-",
+  "summary": "ドミナの町近くに住む少年シャイロは、\r\nあるときから夢の中で謎の声を聞くようになる。\r\n自分には使命があるという声を……。\r\nある日、シャイロは「珠魅」である二人と出会う。\r\n珠魅はかつて、その胸に埋まる宝石を狙われて数多くの者が殺された種族だった。\r\nそして今、世界各地で謎の宝石泥棒が次々と珠魅たちを襲う事件が発生していた。\r\n\r\n珠魅の宝石をめぐる冒険に\r\nシャイロが旅立つ！",
+  "date": "2022-10-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/cc/75/340188_jT1j2.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/cc/75/340188_jT1j2.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 8218,
+    "total": 129,
+    "count": {
+      "1": 6,
+      "2": 5,
+      "3": 11,
+      "4": 35,
+      "5": 44,
+      "6": 19,
+      "7": 3,
+      "8": 3,
+      "9": 0,
+      "10": 3
+    },
+    "score": 4.6
+  },
+  "tags": [
+    {
+      "name": "游戏改",
+      "count": 61
+    },
+    {
+      "name": "2022年10月",
+      "count": 54
+    },
+    {
+      "name": "TV",
+      "count": 42
+    },
+    {
+      "name": "Graphinica",
+      "count": 28
+    },
+    {
+      "name": "横浜AnimationLABO",
+      "count": 28
+    },
+    {
+      "name": "2022",
+      "count": 26
+    },
+    {
+      "name": "圣剑传说",
+      "count": 22
+    },
+    {
+      "name": "奇幻",
+      "count": 17
+    },
+    {
+      "name": "神保昌登",
+      "count": 12
+    },
+    {
+      "name": "横浜アニメーションラボ",
+      "count": 10
+    },
+    {
+      "name": "战斗",
+      "count": 8
+    },
+    {
+      "name": "下村陽子",
+      "count": 5
+    },
+    {
+      "name": "冒险",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "早見沙織",
+      "count": 2
+    },
+    {
+      "name": "2022秋",
+      "count": 2
+    },
+    {
+      "name": "RPG改",
+      "count": 1
+    },
+    {
+      "name": "下村阳子",
+      "count": 1
+    },
+    {
+      "name": "未确定",
+      "count": 1
+    },
+    {
+      "name": "屹青",
+      "count": 1
+    },
+    {
+      "name": "Graphinica、横滨动画研究所",
+      "count": 1
+    },
+    {
+      "name": "可独立观赏",
+      "count": 1
+    },
+    {
+      "name": "fmt.TV",
+      "count": 1
+    },
+    {
+      "name": "b级",
+      "count": 1
+    },
+    {
+      "name": "2022年",
+      "count": 1
+    },
+    {
+      "name": "游改",
+      "count": 1
+    },
+    {
+      "name": "名塚佳織",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "游戏",
+      "count": 1
+    },
+    {
+      "name": "anime",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

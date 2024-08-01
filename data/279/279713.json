@@ -1,0 +1,153 @@
+{
+  "id": 279713,
+  "name": "ポプテピピック TVスペシャル",
+  "name_cn": "pop子和pipi美的日常 TV特番",
+  "summary": "ウェブコミック配信サイト「まんがライフWIN」で掲載された大川ぶくぶの4コマ漫画をアニメ化したTVスペシャル。背が低い14歳の女の子・ポプ子と、背が高い14歳の女の子・ピピ美が、シュールでカオスな日々を繰り広げる。",
+  "date": "2019-04-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/a5/f7/279713_h1WHO.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/a5/f7/279713_h1WHO.jpg"
+  },
+  "eps": 2,
+  "rating": {
+    "rank": 6707,
+    "total": 1018,
+    "count": {
+      "1": 126,
+      "2": 16,
+      "3": 13,
+      "4": 16,
+      "5": 83,
+      "6": 245,
+      "7": 282,
+      "8": 149,
+      "9": 33,
+      "10": 55
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "神風動画",
+      "count": 245
+    },
+    {
+      "name": "搞笑",
+      "count": 187
+    },
+    {
+      "name": "2019年4月",
+      "count": 173
+    },
+    {
+      "name": "漫画改",
+      "count": 154
+    },
+    {
+      "name": "2019",
+      "count": 134
+    },
+    {
+      "name": "TVSP",
+      "count": 119
+    },
+    {
+      "name": "漫改",
+      "count": 86
+    },
+    {
+      "name": "pop子和pipi美的日常",
+      "count": 85
+    },
+    {
+      "name": "SP",
+      "count": 85
+    },
+    {
+      "name": "TV",
+      "count": 81
+    },
+    {
+      "name": "OVA",
+      "count": 52
+    },
+    {
+      "name": "神风动画",
+      "count": 51
+    },
+    {
+      "name": "2019年",
+      "count": 14
+    },
+    {
+      "name": "日本动画",
+      "count": 11
+    },
+    {
+      "name": "青木純",
+      "count": 8
+    },
+    {
+      "name": "玩梗",
+      "count": 8
+    },
+    {
+      "name": "大川ぶくぶ",
+      "count": 5
+    },
+    {
+      "name": "日本",
+      "count": 4
+    },
+    {
+      "name": "番外",
+      "count": 3
+    },
+    {
+      "name": "动画",
+      "count": 3
+    },
+    {
+      "name": "TVA",
+      "count": 3
+    },
+    {
+      "name": "AC部",
+      "count": 3
+    },
+    {
+      "name": "スペースネコカンパニー",
+      "count": 3
+    },
+    {
+      "name": "原创",
+      "count": 3
+    },
+    {
+      "name": "意义不明",
+      "count": 3
+    },
+    {
+      "name": "石田彰",
+      "count": 3
+    },
+    {
+      "name": "抽象",
+      "count": 3
+    },
+    {
+      "name": "恶搞",
+      "count": 3
+    },
+    {
+      "name": "续作",
+      "count": 2
+    },
+    {
+      "name": "表外",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

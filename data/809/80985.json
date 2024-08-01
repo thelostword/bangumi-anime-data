@@ -1,0 +1,153 @@
+{
+  "id": 80985,
+  "name": "好きっていいなよ。OAD",
+  "name_cn": "只要你说你爱我 OAD",
+  "summary": "漫画第11卷同捆OAD",
+  "date": "2013-07-24",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/b9/19/80985_sYca2.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/b9/19/80985_sYca2.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 6176,
+    "total": 217,
+    "count": {
+      "1": 2,
+      "2": 0,
+      "3": 3,
+      "4": 11,
+      "5": 37,
+      "6": 92,
+      "7": 56,
+      "8": 13,
+      "9": 2,
+      "10": 1
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "OAD",
+      "count": 82
+    },
+    {
+      "name": "只要你说你爱我",
+      "count": 45
+    },
+    {
+      "name": "2013",
+      "count": 39
+    },
+    {
+      "name": "乙女向",
+      "count": 36
+    },
+    {
+      "name": "恋爱",
+      "count": 32
+    },
+    {
+      "name": "OVA",
+      "count": 29
+    },
+    {
+      "name": "ZEXCS",
+      "count": 24
+    },
+    {
+      "name": "樱井孝宏",
+      "count": 16
+    },
+    {
+      "name": "漫改",
+      "count": 15
+    },
+    {
+      "name": "少女",
+      "count": 15
+    },
+    {
+      "name": "2013年7月",
+      "count": 14
+    },
+    {
+      "name": "佐藤卓哉",
+      "count": 8
+    },
+    {
+      "name": "茅野爱衣",
+      "count": 7
+    },
+    {
+      "name": "漫画改",
+      "count": 7
+    },
+    {
+      "name": "校园",
+      "count": 6
+    },
+    {
+      "name": "少女向",
+      "count": 4
+    },
+    {
+      "name": "日本动画",
+      "count": 3
+    },
+    {
+      "name": "櫻井孝宏",
+      "count": 3
+    },
+    {
+      "name": "寿美菜子",
+      "count": 2
+    },
+    {
+      "name": "校园青春",
+      "count": 2
+    },
+    {
+      "name": "青春",
+      "count": 2
+    },
+    {
+      "name": "茅野愛衣",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "简单",
+      "count": 2
+    },
+    {
+      "name": "女性向",
+      "count": 2
+    },
+    {
+      "name": "Junior",
+      "count": 1
+    },
+    {
+      "name": "岛崎信长",
+      "count": 1
+    },
+    {
+      "name": "六星",
+      "count": 1
+    },
+    {
+      "name": "OVA·OAD",
+      "count": 1
+    },
+    {
+      "name": "动画",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

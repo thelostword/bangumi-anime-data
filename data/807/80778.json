@@ -1,0 +1,153 @@
+{
+  "id": 80778,
+  "name": "ミス・モノクローム -The Animation-",
+  "name_cn": "黑白小姐",
+  "summary": "想更加出人头地！为了实现这样的理想，黑白小姐以成为卖座偶像为目标开始活动，尽管天然性格的黑白小姐总是给周围带来麻烦，但还是每日奔走于偶像业界！",
+  "date": "2013-10-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c8/7e/80778_3UZ00.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c8/7e/80778_3UZ00.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 4879,
+    "total": 1805,
+    "count": {
+      "1": 4,
+      "2": 0,
+      "3": 22,
+      "4": 38,
+      "5": 220,
+      "6": 577,
+      "7": 654,
+      "8": 241,
+      "9": 30,
+      "10": 19
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 636
+    },
+    {
+      "name": "堀江由衣",
+      "count": 373
+    },
+    {
+      "name": "2013年10月",
+      "count": 320
+    },
+    {
+      "name": "原创",
+      "count": 247
+    },
+    {
+      "name": "黑白小姐",
+      "count": 178
+    },
+    {
+      "name": "TV",
+      "count": 167
+    },
+    {
+      "name": "2013",
+      "count": 107
+    },
+    {
+      "name": "神展开",
+      "count": 97
+    },
+    {
+      "name": "LIDENFILMS",
+      "count": 87
+    },
+    {
+      "name": "17岁教",
+      "count": 76
+    },
+    {
+      "name": "井上喜久子",
+      "count": 61
+    },
+    {
+      "name": "17岁教教主",
+      "count": 56
+    },
+    {
+      "name": "193亿",
+      "count": 47
+    },
+    {
+      "name": "偶像",
+      "count": 38
+    },
+    {
+      "name": "搞笑",
+      "count": 36
+    },
+    {
+      "name": "岩崎良明",
+      "count": 26
+    },
+    {
+      "name": "SANZIGEN",
+      "count": 22
+    },
+    {
+      "name": "泡面",
+      "count": 20
+    },
+    {
+      "name": "神田朱未",
+      "count": 15
+    },
+    {
+      "name": "サンジゲン",
+      "count": 13
+    },
+    {
+      "name": "三次元",
+      "count": 11
+    },
+    {
+      "name": "2013年",
+      "count": 9
+    },
+    {
+      "name": "萌",
+      "count": 8
+    },
+    {
+      "name": "日常",
+      "count": 7
+    },
+    {
+      "name": "ED",
+      "count": 6
+    },
+    {
+      "name": "原创动画",
+      "count": 5
+    },
+    {
+      "name": "藤原启治",
+      "count": 5
+    },
+    {
+      "name": "短片",
+      "count": 5
+    },
+    {
+      "name": "MissMonochrome",
+      "count": 5
+    },
+    {
+      "name": "音乐",
+      "count": 4
+    }
+  ],
+  "locked": false
+}

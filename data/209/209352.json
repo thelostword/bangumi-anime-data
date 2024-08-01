@@ -1,0 +1,109 @@
+{
+  "id": 209352,
+  "name": "少年アシベ GO！GO！ゴマちゃん 第2シリーズ",
+  "name_cn": "少年阿贝 GO!GO!小芝麻 第二季",
+  "summary": "",
+  "date": "2017-04-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e7/40/209352_1j8Su.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e7/40/209352_1j8Su.jpg"
+  },
+  "eps": 32,
+  "rating": {
+    "rank": 0,
+    "total": 9,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 0,
+      "5": 2,
+      "6": 1,
+      "7": 5,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 4
+    },
+    {
+      "name": "佐仓绫音",
+      "count": 3
+    },
+    {
+      "name": "东山奈央",
+      "count": 3
+    },
+    {
+      "name": "2017年4月",
+      "count": 3
+    },
+    {
+      "name": "2017",
+      "count": 2
+    },
+    {
+      "name": "HusioStudio",
+      "count": 2
+    },
+    {
+      "name": "BRIDGE",
+      "count": 2
+    },
+    {
+      "name": "少年阿贝",
+      "count": 2
+    },
+    {
+      "name": "GO!GO!小芝麻",
+      "count": 2
+    },
+    {
+      "name": "河村梨恵",
+      "count": 1
+    },
+    {
+      "name": "201704",
+      "count": 1
+    },
+    {
+      "name": "竹内利光",
+      "count": 1
+    },
+    {
+      "name": "近藤信宏",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "ブリッジ",
+      "count": 1
+    },
+    {
+      "name": "漫改",
+      "count": 1
+    },
+    {
+      "name": "東山奈央",
+      "count": 1
+    },
+    {
+      "name": "TV",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

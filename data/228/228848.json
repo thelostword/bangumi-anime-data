@@ -1,0 +1,153 @@
+{
+  "id": 228848,
+  "name": "○○さえいればいい。",
+  "name_cn": "如果有○○就好了。",
+  "summary": "",
+  "date": "2017-10-09",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/09/53/228848_jUlSO.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/09/53/228848_jUlSO.jpg"
+  },
+  "eps": 8,
+  "rating": {
+    "rank": 6208,
+    "total": 395,
+    "count": {
+      "1": 0,
+      "2": 3,
+      "3": 3,
+      "4": 11,
+      "5": 68,
+      "6": 183,
+      "7": 99,
+      "8": 22,
+      "9": 3,
+      "10": 3
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "WEB",
+      "count": 100
+    },
+    {
+      "name": "小剧场",
+      "count": 89
+    },
+    {
+      "name": "泡面番",
+      "count": 87
+    },
+    {
+      "name": "2017年10月",
+      "count": 76
+    },
+    {
+      "name": "2017",
+      "count": 68
+    },
+    {
+      "name": "轻小说改",
+      "count": 54
+    },
+    {
+      "name": "SP",
+      "count": 46
+    },
+    {
+      "name": "搞笑",
+      "count": 43
+    },
+    {
+      "name": "OVA",
+      "count": 43
+    },
+    {
+      "name": "W-toonStudio",
+      "count": 39
+    },
+    {
+      "name": "轻改",
+      "count": 26
+    },
+    {
+      "name": "短片",
+      "count": 11
+    },
+    {
+      "name": "小说改",
+      "count": 10
+    },
+    {
+      "name": "森井ケンシロウ",
+      "count": 6
+    },
+    {
+      "name": "DMM.futureworks",
+      "count": 6
+    },
+    {
+      "name": "山本希望",
+      "count": 6
+    },
+    {
+      "name": "泡面",
+      "count": 4
+    },
+    {
+      "name": "森井健史郎",
+      "count": 3
+    },
+    {
+      "name": "如果有妹妹就好了。",
+      "count": 3
+    },
+    {
+      "name": "如果有妹妹就好了",
+      "count": 3
+    },
+    {
+      "name": "恋爱",
+      "count": 3
+    },
+    {
+      "name": "ダブトゥーンスタジオ",
+      "count": 3
+    },
+    {
+      "name": "2017年",
+      "count": 2
+    },
+    {
+      "name": "2017年Web·SP",
+      "count": 2
+    },
+    {
+      "name": "OVA&OAD",
+      "count": 2
+    },
+    {
+      "name": "原创",
+      "count": 2
+    },
+    {
+      "name": "10月",
+      "count": 2
+    },
+    {
+      "name": "平坂读",
+      "count": 2
+    },
+    {
+      "name": "TV",
+      "count": 1
+    },
+    {
+      "name": "日本",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,105 @@
+{
+  "id": 150325,
+  "name": "サスケ",
+  "name_cn": "死神少年",
+  "summary": "1968年9月3日から1969年3月25日までTBS系列局で放送。TCJ（現・エイケン）とTBS（東京放送）の共同製作。森永製菓の一社提供。カラー作品。全29話。最高視聴率は20.8%。",
+  "date": "1968-09-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/30/8e/150325_ZZA2I.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/30/8e/150325_ZZA2I.jpg"
+  },
+  "eps": 29,
+  "rating": {
+    "rank": 0,
+    "total": 2,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 1,
+      "7": 0,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "1968",
+      "count": 4
+    },
+    {
+      "name": "TV",
+      "count": 3
+    },
+    {
+      "name": "田代淳二",
+      "count": 2
+    },
+    {
+      "name": "TCJ動画センター",
+      "count": 2
+    },
+    {
+      "name": "佐助",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "雷門ケン坊",
+      "count": 2
+    },
+    {
+      "name": "赛璐珞",
+      "count": 1
+    },
+    {
+      "name": "田中正史",
+      "count": 1
+    },
+    {
+      "name": "TCJ",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "白土三平",
+      "count": 1
+    },
+    {
+      "name": "60s",
+      "count": 1
+    },
+    {
+      "name": "日本",
+      "count": 1
+    },
+    {
+      "name": "童年",
+      "count": 1
+    },
+    {
+      "name": "bilibili",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "生肉",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

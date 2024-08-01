@@ -1,0 +1,153 @@
+{
+  "id": 314366,
+  "name": "Shenmue the Animation",
+  "name_cn": "莎木",
+  "summary": "１９８６年、横須賀。芭月道場で生まれ育った芭月涼は、厳格な父のもとで芭月流柔術の腕を磨いていた。しかしある日、謎の男・藍帝に父を殺され、父が守っていた『鏡』を奪われてしまう。必ず事件の真相を解き明かすと決意する涼。しかし父の過去に通じる手がかりを追い求めるうちに、闇組織の抗争に巻き込まれてゆく……。横須賀から香港を舞台に、涼の長い旅が今始まる！",
+  "date": "2022-04-07",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/68/09/314366_sqHL8.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/68/09/314366_sqHL8.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 7002,
+    "total": 150,
+    "count": {
+      "1": 3,
+      "2": 2,
+      "3": 4,
+      "4": 18,
+      "5": 31,
+      "6": 53,
+      "7": 32,
+      "8": 5,
+      "9": 0,
+      "10": 2
+    },
+    "score": 5.7
+  },
+  "tags": [
+    {
+      "name": "游戏改",
+      "count": 57
+    },
+    {
+      "name": "TelecomAnimationFilm",
+      "count": 45
+    },
+    {
+      "name": "2022",
+      "count": 41
+    },
+    {
+      "name": "TV",
+      "count": 40
+    },
+    {
+      "name": "樱井亲良",
+      "count": 18
+    },
+    {
+      "name": "莎木",
+      "count": 17
+    },
+    {
+      "name": "2022年4月",
+      "count": 16
+    },
+    {
+      "name": "WEB",
+      "count": 12
+    },
+    {
+      "name": "当年的跨时代游戏，居然要动漫化",
+      "count": 9
+    },
+    {
+      "name": "武术",
+      "count": 6
+    },
+    {
+      "name": "战斗",
+      "count": 4
+    },
+    {
+      "name": "櫻井親良",
+      "count": 3
+    },
+    {
+      "name": "桂林赌王",
+      "count": 2
+    },
+    {
+      "name": "2022年1月",
+      "count": 2
+    },
+    {
+      "name": "2022年2月",
+      "count": 2
+    },
+    {
+      "name": "sega",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "辱华",
+      "count": 2
+    },
+    {
+      "name": "照井春佳",
+      "count": 1
+    },
+    {
+      "name": "霸权",
+      "count": 1
+    },
+    {
+      "name": "2022春",
+      "count": 1
+    },
+    {
+      "name": "半弃",
+      "count": 1
+    },
+    {
+      "name": "2020-2029",
+      "count": 1
+    },
+    {
+      "name": "游改",
+      "count": 1
+    },
+    {
+      "name": "樱井孝宏",
+      "count": 1
+    },
+    {
+      "name": "松風雅也",
+      "count": 1
+    },
+    {
+      "name": "打斗",
+      "count": 1
+    },
+    {
+      "name": "ONA",
+      "count": 1
+    },
+    {
+      "name": "冒险",
+      "count": 1
+    },
+    {
+      "name": "日本",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

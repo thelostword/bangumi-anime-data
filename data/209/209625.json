@@ -1,0 +1,85 @@
+{
+  "id": 209625,
+  "name": "トランスフォーマー カーロボット",
+  "name_cn": "变形金刚：汽车人战记",
+  "summary": "汽车人战记的世界处于另一变形金刚系列的时空，故事讲述了一次能源发报会上原始兽的暗黑破坏神Gigatron出现捉走了科学家大西博士，其儿子勇气在无意间召唤了一直隐藏在地球的火焰擎天柱Fire Convoy，原来汽车人很久已经溶入了世界，成为各式的交通工具，也架起连接世界及塞伯坦的网络。",
+  "date": "2000-04-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/62/e4/209625_ivxIE.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/62/e4/209625_ivxIE.jpg"
+  },
+  "eps": 39,
+  "rating": {
+    "rank": 0,
+    "total": 17,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 8,
+      "7": 5,
+      "8": 2,
+      "9": 1,
+      "10": 0
+    },
+    "score": 6.6
+  },
+  "tags": [
+    {
+      "name": "2000",
+      "count": 7
+    },
+    {
+      "name": "变形金刚",
+      "count": 6
+    },
+    {
+      "name": "TV",
+      "count": 4
+    },
+    {
+      "name": "童年",
+      "count": 4
+    },
+    {
+      "name": "TF",
+      "count": 3
+    },
+    {
+      "name": "经典",
+      "count": 3
+    },
+    {
+      "name": "原创",
+      "count": 3
+    },
+    {
+      "name": "萝卜",
+      "count": 3
+    },
+    {
+      "name": "GALLOP",
+      "count": 2
+    },
+    {
+      "name": "科幻",
+      "count": 2
+    },
+    {
+      "name": "搞笑",
+      "count": 1
+    },
+    {
+      "name": "机战",
+      "count": 1
+    },
+    {
+      "name": "漫改",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

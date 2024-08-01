@@ -1,0 +1,93 @@
+{
+  "id": 56999,
+  "name": "オフサイド",
+  "name_cn": "少年足球",
+  "summary": "故事以中学生足球员熊谷五郎为主角，讲述他与学校足球队的队友一同努力的过程。",
+  "date": "2001-05-10",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/39/9b/56999_40Zt4.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/39/9b/56999_40Zt4.jpg"
+  },
+  "eps": 39,
+  "rating": {
+    "rank": 0,
+    "total": 2,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 1,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "2001",
+      "count": 3
+    },
+    {
+      "name": "竞技",
+      "count": 2
+    },
+    {
+      "name": "ProductionReed",
+      "count": 1
+    },
+    {
+      "name": "亚视",
+      "count": 1
+    },
+    {
+      "name": "葦プロダクション",
+      "count": 1
+    },
+    {
+      "name": "樋口智恵子",
+      "count": 1
+    },
+    {
+      "name": "奥田誠治",
+      "count": 1
+    },
+    {
+      "name": "土田大",
+      "count": 1
+    },
+    {
+      "name": "私市淳",
+      "count": 1
+    },
+    {
+      "name": "小学",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "童年",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "运动",
+      "count": 1
+    },
+    {
+      "name": "小山高生",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

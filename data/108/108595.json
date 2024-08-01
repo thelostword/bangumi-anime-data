@@ -1,0 +1,153 @@
+{
+  "id": 108595,
+  "name": "ダイヤのA OAD",
+  "name_cn": "钻石王牌 OAD",
+  "summary": "单行本44~46卷连续三卷都附OAD动画。",
+  "date": "2014-11-17",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/b2/88/108595_Af0Lu.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/b2/88/108595_Af0Lu.jpg"
+  },
+  "eps": 3,
+  "rating": {
+    "rank": 2004,
+    "total": 156,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 3,
+      "5": 4,
+      "6": 36,
+      "7": 60,
+      "8": 41,
+      "9": 4,
+      "10": 8
+    },
+    "score": 7.1
+  },
+  "tags": [
+    {
+      "name": "OAD",
+      "count": 66
+    },
+    {
+      "name": "MADHouse",
+      "count": 53
+    },
+    {
+      "name": "2014",
+      "count": 46
+    },
+    {
+      "name": "OVA",
+      "count": 35
+    },
+    {
+      "name": "Production.I.G",
+      "count": 32
+    },
+    {
+      "name": "钻石王牌",
+      "count": 30
+    },
+    {
+      "name": "运动",
+      "count": 24
+    },
+    {
+      "name": "漫画改",
+      "count": 20
+    },
+    {
+      "name": "漫改",
+      "count": 17
+    },
+    {
+      "name": "热血",
+      "count": 14
+    },
+    {
+      "name": "逢坂良太",
+      "count": 11
+    },
+    {
+      "name": "2014年11月",
+      "count": 9
+    },
+    {
+      "name": "棒球",
+      "count": 9
+    },
+    {
+      "name": "ProductionI.G",
+      "count": 9
+    },
+    {
+      "name": "浜名孝行",
+      "count": 5
+    },
+    {
+      "name": "東地宏樹",
+      "count": 4
+    },
+    {
+      "name": "藤咲淳一",
+      "count": 4
+    },
+    {
+      "name": "浅沼晋太郎",
+      "count": 4
+    },
+    {
+      "name": "滨名孝行",
+      "count": 4
+    },
+    {
+      "name": "竞技",
+      "count": 3
+    },
+    {
+      "name": "运动番",
+      "count": 3
+    },
+    {
+      "name": "競技",
+      "count": 3
+    },
+    {
+      "name": "体育",
+      "count": 3
+    },
+    {
+      "name": "Production_I.G",
+      "count": 3
+    },
+    {
+      "name": "冈本信彦",
+      "count": 2
+    },
+    {
+      "name": "Frying-Pan",
+      "count": 2
+    },
+    {
+      "name": "岡本信彦",
+      "count": 2
+    },
+    {
+      "name": "花江夏樹",
+      "count": 2
+    },
+    {
+      "name": "高桑一",
+      "count": 2
+    },
+    {
+      "name": "下野紘",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,73 @@
+{
+  "id": 426274,
+  "name": "アニアキングダム",
+  "name_cn": "安利亚王国",
+  "summary": "",
+  "date": "2023-04-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/43/15/426274_Oipr8.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/43/15/426274_Oipr8.jpg"
+  },
+  "eps": 39,
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "市川十億衛門",
+      "count": 1
+    },
+    {
+      "name": "石崎太郎",
+      "count": 1
+    },
+    {
+      "name": "インフィニティビジョン",
+      "count": 1
+    },
+    {
+      "name": "OLM、InfinityVision",
+      "count": 1
+    },
+    {
+      "name": "2023",
+      "count": 1
+    },
+    {
+      "name": "OLM",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "空",
+      "count": 1
+    },
+    {
+      "name": "短片",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

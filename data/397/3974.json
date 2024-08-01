@@ -1,0 +1,153 @@
+{
+  "id": 3974,
+  "name": "SoltyRei",
+  "name_cn": "曙光少女",
+  "summary": "罗伊·雷邦特是艰苦度日的赏金猎人，居住于残破的城市，该地曾因不明原因的事故“Blast Fall”，造成数千人丧生。生还者仍共同面对失去的创痛。街道上四处可见Resemble（因肢体严重受损，装置高科技义肢的人类）。\r\n\r\n然而科学无法弥补所有的创伤，罗伊渴望能逃离过去的悲痛。那夜，索露蒂、与众不同的Resemble、从天落下，失去过去的记忆。她很快便有了归宿，然而，在这个世界，痛苦和疏离永远环伺在旁。",
+  "date": "2005-10-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/9a/32/3974_fYFM9.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/9a/32/3974_fYFM9.jpg"
+  },
+  "eps": 25,
+  "rating": {
+    "rank": 3340,
+    "total": 140,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 1,
+      "4": 6,
+      "5": 9,
+      "6": 42,
+      "7": 46,
+      "8": 27,
+      "9": 4,
+      "10": 4
+    },
+    "score": 6.7
+  },
+  "tags": [
+    {
+      "name": "GONZO",
+      "count": 67
+    },
+    {
+      "name": "TV",
+      "count": 48
+    },
+    {
+      "name": "科幻",
+      "count": 39
+    },
+    {
+      "name": "原创",
+      "count": 32
+    },
+    {
+      "name": "2005",
+      "count": 26
+    },
+    {
+      "name": "大叔X萝莉",
+      "count": 24
+    },
+    {
+      "name": "AIC",
+      "count": 24
+    },
+    {
+      "name": "曙光少女",
+      "count": 17
+    },
+    {
+      "name": "SF",
+      "count": 16
+    },
+    {
+      "name": "中田譲治",
+      "count": 13
+    },
+    {
+      "name": "2005年10月",
+      "count": 9
+    },
+    {
+      "name": "平池芳正",
+      "count": 5
+    },
+    {
+      "name": "megrock",
+      "count": 4
+    },
+    {
+      "name": "补番",
+      "count": 4
+    },
+    {
+      "name": "草尾毅",
+      "count": 3
+    },
+    {
+      "name": "2005秋",
+      "count": 1
+    },
+    {
+      "name": "半年番",
+      "count": 1
+    },
+    {
+      "name": "大原沙耶香",
+      "count": 1
+    },
+    {
+      "name": "6分",
+      "count": 1
+    },
+    {
+      "name": "00年代",
+      "count": 1
+    },
+    {
+      "name": "AIC_Digital",
+      "count": 1
+    },
+    {
+      "name": "2005年秋季番",
+      "count": 1
+    },
+    {
+      "name": "不到7分",
+      "count": 1
+    },
+    {
+      "name": "待補2",
+      "count": 1
+    },
+    {
+      "name": "安利",
+      "count": 1
+    },
+    {
+      "name": "QTS",
+      "count": 1
+    },
+    {
+      "name": "木村暢",
+      "count": 1
+    },
+    {
+      "name": "斎藤桃子",
+      "count": 1
+    },
+    {
+      "name": "電視",
+      "count": 1
+    },
+    {
+      "name": "年差カプ",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

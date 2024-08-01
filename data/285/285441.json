@@ -1,0 +1,85 @@
+{
+  "id": 285441,
+  "name": "ARP Backstage Pass",
+  "name_cn": "",
+  "summary": "最新のAR技術が生み出した、4人組のARダンス＆ボーカルグループ、ARP。\r\nエイベックスよりデビューし、ハイレベルな歌やダンスに加え、観客を巻き込んだトーク、ファンの応援で構成が\r\n変化していく参加型ライブが特徴で、次世代のアーティストとして今もっとも注目を集める存在である。\r\nそんな彼らのこれまでの軌跡が、なんとアニメ化！それが《ARP Backstage Pass》である。",
+  "date": "2020-01-13",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/bf/4a/285441_J3YmZ.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/bf/4a/285441_J3YmZ.jpg"
+  },
+  "eps": 10,
+  "rating": {
+    "rank": 0,
+    "total": 5,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 2,
+      "5": 0,
+      "6": 1,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 4.4
+  },
+  "tags": [
+    {
+      "name": "2020",
+      "count": 5
+    },
+    {
+      "name": "TV",
+      "count": 3
+    },
+    {
+      "name": "偶像",
+      "count": 3
+    },
+    {
+      "name": "原创",
+      "count": 2
+    },
+    {
+      "name": "伊東歌詞太郎",
+      "count": 1
+    },
+    {
+      "name": "时事热点",
+      "count": 1
+    },
+    {
+      "name": "DynamoPictures",
+      "count": 1
+    },
+    {
+      "name": "ダイナモピクチャーズ",
+      "count": 1
+    },
+    {
+      "name": "えんどうてつや",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "水島大宙",
+      "count": 1
+    },
+    {
+      "name": "友永コリエ",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

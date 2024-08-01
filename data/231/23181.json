@@ -1,0 +1,153 @@
+{
+  "id": 23181,
+  "name": "ガンバリスト! 駿",
+  "name_cn": "奥运高手",
+  "summary": "平成学园的男子体操社长年成绩不佳，但是一位对体操充满向往的新生藤卷骏却想要加入体操社。在藤卷骏进入体操社之后，其他的社员纷纷受到激励，并逐渐在比赛中有突出的表现。",
+  "date": "1996-07-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/a2/49/23181_5a7Rz.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/a2/49/23181_5a7Rz.jpg"
+  },
+  "eps": 30,
+  "rating": {
+    "rank": 2462,
+    "total": 53,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 0,
+      "6": 13,
+      "7": 29,
+      "8": 8,
+      "9": 1,
+      "10": 1
+    },
+    "score": 6.9
+  },
+  "tags": [
+    {
+      "name": "SUNRISE",
+      "count": 15
+    },
+    {
+      "name": "TV",
+      "count": 14
+    },
+    {
+      "name": "体育",
+      "count": 11
+    },
+    {
+      "name": "1996",
+      "count": 11
+    },
+    {
+      "name": "童年",
+      "count": 8
+    },
+    {
+      "name": "奥运高手",
+      "count": 7
+    },
+    {
+      "name": "竞技",
+      "count": 7
+    },
+    {
+      "name": "亀垣一",
+      "count": 6
+    },
+    {
+      "name": "森末慎二",
+      "count": 6
+    },
+    {
+      "name": "菊田洋之",
+      "count": 6
+    },
+    {
+      "name": "三木真一郎",
+      "count": 3
+    },
+    {
+      "name": "90年代",
+      "count": 2
+    },
+    {
+      "name": "阪口大助",
+      "count": 2
+    },
+    {
+      "name": "TVB",
+      "count": 2
+    },
+    {
+      "name": "西澤晋",
+      "count": 1
+    },
+    {
+      "name": "童年系列",
+      "count": 1
+    },
+    {
+      "name": "浦上靖夫",
+      "count": 1
+    },
+    {
+      "name": "1996年7月",
+      "count": 1
+    },
+    {
+      "name": "保存",
+      "count": 1
+    },
+    {
+      "name": "在电视上断断续续看过",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "7.0",
+      "count": 1
+    },
+    {
+      "name": "千葉克彦",
+      "count": 1
+    },
+    {
+      "name": "漫改",
+      "count": 1
+    },
+    {
+      "name": "动画",
+      "count": 1
+    },
+    {
+      "name": "运动",
+      "count": 1
+    },
+    {
+      "name": "ED",
+      "count": 1
+    },
+    {
+      "name": "サンライズ",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

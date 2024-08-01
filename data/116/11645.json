@@ -1,0 +1,153 @@
+{
+  "id": 11645,
+  "name": "スレイヤーズREVOLUTION",
+  "name_cn": "秀逗魔导士REVOLUTION",
+  "summary": "前作「TRY」から11年ぶりの新作。2008年のドラゴンマガジン4月号にて新作のテレビアニメが放映されることが告知された。そして翌月のドラゴンマガジン5月号で、新作アニメのタイトルが『スレイヤーズREVOLUTION（レヴォリューション）』であることが発表された。ストーリーは本編5巻とすぺしゃる9巻等をベースとしたアニメオリジナルとなっている。略称は「スレイヤーズR」。",
+  "date": "2008-07-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/cf/d3/11645_S3NPj.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/cf/d3/11645_S3NPj.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 3359,
+    "total": 374,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 3,
+      "4": 9,
+      "5": 24,
+      "6": 102,
+      "7": 153,
+      "8": 63,
+      "9": 14,
+      "10": 5
+    },
+    "score": 6.8
+  },
+  "tags": [
+    {
+      "name": "秀逗魔导士",
+      "count": 84
+    },
+    {
+      "name": "TV",
+      "count": 59
+    },
+    {
+      "name": "J.C.STAFF",
+      "count": 51
+    },
+    {
+      "name": "搞笑",
+      "count": 38
+    },
+    {
+      "name": "2008",
+      "count": 36
+    },
+    {
+      "name": "魔剑美神",
+      "count": 35
+    },
+    {
+      "name": "林原めぐみ",
+      "count": 24
+    },
+    {
+      "name": "魔法",
+      "count": 19
+    },
+    {
+      "name": "2008年7月",
+      "count": 18
+    },
+    {
+      "name": "SLAYERS",
+      "count": 17
+    },
+    {
+      "name": "轻小说改",
+      "count": 14
+    },
+    {
+      "name": "2008年",
+      "count": 14
+    },
+    {
+      "name": "经典",
+      "count": 13
+    },
+    {
+      "name": "热血",
+      "count": 12
+    },
+    {
+      "name": "童年",
+      "count": 7
+    },
+    {
+      "name": "奇幻",
+      "count": 6
+    },
+    {
+      "name": "声优",
+      "count": 5
+    },
+    {
+      "name": "anime",
+      "count": 4
+    },
+    {
+      "name": "渡部高志",
+      "count": 4
+    },
+    {
+      "name": "战斗",
+      "count": 3
+    },
+    {
+      "name": "动画",
+      "count": 3
+    },
+    {
+      "name": "轻改",
+      "count": 3
+    },
+    {
+      "name": "续作",
+      "count": 3
+    },
+    {
+      "name": "石田彰",
+      "count": 3
+    },
+    {
+      "name": "緑川光",
+      "count": 3
+    },
+    {
+      "name": "林原惠",
+      "count": 3
+    },
+    {
+      "name": "松本保典",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "冒险",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

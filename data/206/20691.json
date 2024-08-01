@@ -1,0 +1,137 @@
+{
+  "id": 20691,
+  "name": "猫ラーメン",
+  "name_cn": "猫拉面",
+  "summary": "",
+  "date": "2007-06-22",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e9/00/20691_sJTWt.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e9/00/20691_sJTWt.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 0,
+    "total": 49,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 1,
+      "5": 4,
+      "6": 21,
+      "7": 13,
+      "8": 6,
+      "9": 3,
+      "10": 0
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 23
+    },
+    {
+      "name": "2007",
+      "count": 13
+    },
+    {
+      "name": "TV",
+      "count": 10
+    },
+    {
+      "name": "日常系",
+      "count": 7
+    },
+    {
+      "name": "这个有动画啊（惊！）",
+      "count": 6
+    },
+    {
+      "name": "漫画改",
+      "count": 5
+    },
+    {
+      "name": "治愈",
+      "count": 4
+    },
+    {
+      "name": "2007夏アニメ",
+      "count": 4
+    },
+    {
+      "name": "flash",
+      "count": 4
+    },
+    {
+      "name": "四格改",
+      "count": 3
+    },
+    {
+      "name": "猫拉面",
+      "count": 3
+    },
+    {
+      "name": "猫",
+      "count": 3
+    },
+    {
+      "name": "S-inc.",
+      "count": 3
+    },
+    {
+      "name": "★TV",
+      "count": 2
+    },
+    {
+      "name": "泡面",
+      "count": 2
+    },
+    {
+      "name": "マッグガーデン",
+      "count": 1
+    },
+    {
+      "name": "小原藍",
+      "count": 1
+    },
+    {
+      "name": "カギ",
+      "count": 1
+    },
+    {
+      "name": "山崎頼子",
+      "count": 1
+    },
+    {
+      "name": "春日森春木",
+      "count": 1
+    },
+    {
+      "name": "日常",
+      "count": 1
+    },
+    {
+      "name": "漫改",
+      "count": 1
+    },
+    {
+      "name": "5",
+      "count": 1
+    },
+    {
+      "name": "森井ケンシロウ",
+      "count": 1
+    },
+    {
+      "name": "池ヶ谷愛",
+      "count": 1
+    },
+    {
+      "name": "搞笑",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

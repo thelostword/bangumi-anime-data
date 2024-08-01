@@ -1,0 +1,105 @@
+{
+  "id": 54760,
+  "name": "Mission-E",
+  "name_cn": "",
+  "summary": "在第二季中，Mission-E是CODE-E的续集，时间设置在最后一个事件发生于CODE-E的五年后。而主角换成和千波美已起在OZ工作的君冢 麻织。OZ是一个与TYPE-E能力者有好的组织。“Foundation”是与OZ对立的组织，主要是负责隔离病控制TYPE-E能力者。",
+  "date": "2008-07-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/4d/23/54760_VHy88.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/4d/23/54760_VHy88.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 0,
+    "total": 31,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 7,
+      "6": 8,
+      "7": 12,
+      "8": 3,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.3
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 11
+    },
+    {
+      "name": "2008",
+      "count": 11
+    },
+    {
+      "name": "无口少女",
+      "count": 6
+    },
+    {
+      "name": "原创",
+      "count": 5
+    },
+    {
+      "name": "科幻",
+      "count": 5
+    },
+    {
+      "name": "兄妹恋",
+      "count": 4
+    },
+    {
+      "name": "超能力",
+      "count": 4
+    },
+    {
+      "name": "特公",
+      "count": 3
+    },
+    {
+      "name": "热血",
+      "count": 3
+    },
+    {
+      "name": "季番",
+      "count": 2
+    },
+    {
+      "name": "2008年7月",
+      "count": 2
+    },
+    {
+      "name": "加藤敏幸",
+      "count": 1
+    },
+    {
+      "name": "studiodeen",
+      "count": 1
+    },
+    {
+      "name": "恋爱",
+      "count": 1
+    },
+    {
+      "name": "动画",
+      "count": 1
+    },
+    {
+      "name": "战斗",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "RY",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

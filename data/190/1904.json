@@ -1,0 +1,153 @@
+{
+  "id": 1904,
+  "name": "ONE PIECE THE MOVIE デッドエンドの冒険",
+  "name_cn": "海贼王  死亡尽头的冒险",
+  "summary": "草帽海贼团来到汉那巴尔，吃饭的时候娜美注意到老板正和某位海贼在做可疑的交易，一问之下才知道，地下赌场正在举办每年一次的死亡海上竞赛，而且今年的奖金高达3亿贝里，为了寻求奖金和冒险的一行参加决定参加这场比赛。",
+  "date": "2003-03-01",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c9/15/1904_8VSH3.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c9/15/1904_8VSH3.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 2678,
+    "total": 488,
+    "count": {
+      "1": 2,
+      "2": 0,
+      "3": 1,
+      "4": 7,
+      "5": 23,
+      "6": 117,
+      "7": 206,
+      "8": 99,
+      "9": 22,
+      "10": 11
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 173
+    },
+    {
+      "name": "海贼王",
+      "count": 126
+    },
+    {
+      "name": "2003",
+      "count": 62
+    },
+    {
+      "name": "ONEPIECE",
+      "count": 47
+    },
+    {
+      "name": "热血",
+      "count": 40
+    },
+    {
+      "name": "东映",
+      "count": 32
+    },
+    {
+      "name": "路飞",
+      "count": 22
+    },
+    {
+      "name": "原创",
+      "count": 21
+    },
+    {
+      "name": "JUMP",
+      "count": 20
+    },
+    {
+      "name": "尾田荣一郎",
+      "count": 19
+    },
+    {
+      "name": "OP",
+      "count": 14
+    },
+    {
+      "name": "战斗",
+      "count": 12
+    },
+    {
+      "name": "東映アニメーション",
+      "count": 9
+    },
+    {
+      "name": "少年系",
+      "count": 9
+    },
+    {
+      "name": "宇田钢之介",
+      "count": 9
+    },
+    {
+      "name": "田中公平",
+      "count": 7
+    },
+    {
+      "name": "冒险",
+      "count": 6
+    },
+    {
+      "name": "漫画改",
+      "count": 6
+    },
+    {
+      "name": "2003年",
+      "count": 6
+    },
+    {
+      "name": "宇田鋼之介",
+      "count": 5
+    },
+    {
+      "name": "电影",
+      "count": 4
+    },
+    {
+      "name": "东映动画",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 3
+    },
+    {
+      "name": "2003年3月",
+      "count": 3
+    },
+    {
+      "name": "动画",
+      "count": 3
+    },
+    {
+      "name": "映画",
+      "count": 3
+    },
+    {
+      "name": "アニメ映画",
+      "count": 2
+    },
+    {
+      "name": "动画电影",
+      "count": 2
+    },
+    {
+      "name": "菅良幸",
+      "count": 2
+    },
+    {
+      "name": "友情",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

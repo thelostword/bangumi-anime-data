@@ -1,0 +1,121 @@
+{
+  "id": 362733,
+  "name": "闇芝居 第10期",
+  "name_cn": "暗芝居 第十季",
+  "summary": "",
+  "date": "2022-01-09",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/b5/58/362733_4M8Lq.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/b5/58/362733_4M8Lq.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 7354,
+    "total": 101,
+    "count": {
+      "1": 2,
+      "2": 2,
+      "3": 2,
+      "4": 17,
+      "5": 30,
+      "6": 37,
+      "7": 8,
+      "8": 2,
+      "9": 0,
+      "10": 1
+    },
+    "score": 5.3
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 37
+    },
+    {
+      "name": "TV",
+      "count": 20
+    },
+    {
+      "name": "原创",
+      "count": 18
+    },
+    {
+      "name": "2022年1月",
+      "count": 18
+    },
+    {
+      "name": "恐怖",
+      "count": 18
+    },
+    {
+      "name": "猎奇",
+      "count": 17
+    },
+    {
+      "name": "ILCA",
+      "count": 13
+    },
+    {
+      "name": "惊悚",
+      "count": 11
+    },
+    {
+      "name": "2022",
+      "count": 10
+    },
+    {
+      "name": "怪谈",
+      "count": 8
+    },
+    {
+      "name": "2022年01月",
+      "count": 5
+    },
+    {
+      "name": "纸芝居",
+      "count": 3
+    },
+    {
+      "name": "石上加奈子",
+      "count": 2
+    },
+    {
+      "name": "熊本浩武",
+      "count": 2
+    },
+    {
+      "name": "暗芝居",
+      "count": 2
+    },
+    {
+      "name": "中7",
+      "count": 1
+    },
+    {
+      "name": "屹青",
+      "count": 1
+    },
+    {
+      "name": "佐佐木充郭",
+      "count": 1
+    },
+    {
+      "name": "悬疑",
+      "count": 1
+    },
+    {
+      "name": "动画",
+      "count": 1
+    },
+    {
+      "name": "日本",
+      "count": 1
+    },
+    {
+      "name": "船田晃",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,153 @@
+{
+  "id": 8882,
+  "name": "魔法のステージファンシーララ",
+  "name_cn": "梦幻拉拉",
+  "summary": "9岁小学女生筱原美穗偶然遇到两个“时间记忆精灵”皮古和摩古，它们送了魔法笔和魔法画簿给美穗，让她可以使用魔法把画像变成实体。美穗用魔法把自己变成15岁的拉拉，偶然之下在街上被邀请担任替工模特，从此打开进入演艺界之路。\r\n",
+  "date": "1998-04-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/d5/b0/8882_i0y0i.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/d5/b0/8882_i0y0i.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 1707,
+    "total": 68,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 6,
+      "6": 6,
+      "7": 21,
+      "8": 27,
+      "9": 7,
+      "10": 0
+    },
+    "score": 7.3
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 46
+    },
+    {
+      "name": "望月智充",
+      "count": 35
+    },
+    {
+      "name": "1998",
+      "count": 32
+    },
+    {
+      "name": "魔法少女",
+      "count": 30
+    },
+    {
+      "name": "StudioPierrot",
+      "count": 23
+    },
+    {
+      "name": "原创",
+      "count": 19
+    },
+    {
+      "name": "大森贵弘",
+      "count": 16
+    },
+    {
+      "name": "高田明美",
+      "count": 10
+    },
+    {
+      "name": "TVB",
+      "count": 7
+    },
+    {
+      "name": "偶像",
+      "count": 6
+    },
+    {
+      "name": "童年",
+      "count": 5
+    },
+    {
+      "name": "90年代",
+      "count": 5
+    },
+    {
+      "name": "大森貴弘",
+      "count": 4
+    },
+    {
+      "name": "奇幻",
+      "count": 3
+    },
+    {
+      "name": "1998年4月",
+      "count": 2
+    },
+    {
+      "name": "Studio·Pierrot",
+      "count": 2
+    },
+    {
+      "name": "PIERROT",
+      "count": 2
+    },
+    {
+      "name": "1998年",
+      "count": 2
+    },
+    {
+      "name": "ぴえろ",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "村井贞之",
+      "count": 1
+    },
+    {
+      "name": "¬",
+      "count": 1
+    },
+    {
+      "name": "ぴえろ魔法少女シリーズ",
+      "count": 1
+    },
+    {
+      "name": "小丑社",
+      "count": 1
+    },
+    {
+      "name": "老害最爱",
+      "count": 1
+    },
+    {
+      "name": "90s",
+      "count": 1
+    },
+    {
+      "name": "动",
+      "count": 1
+    },
+    {
+      "name": "待補0",
+      "count": 1
+    },
+    {
+      "name": "重",
+      "count": 1
+    },
+    {
+      "name": "赛璐珞",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

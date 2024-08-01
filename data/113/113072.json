@@ -1,0 +1,65 @@
+{
+  "id": 113072,
+  "name": "ぐらP＆ろで夫",
+  "name_cn": "GranP&Rodeo夫",
+  "summary": "普通の高校生、ろで夫の夢は「ロックスターになること」。\r\nそんなろで夫の前に、未来から来た音楽プロデューサー「ぐらP」が現れた！\r\nはたしてろで夫は、ぐらPのプロデュースで、\r\nGRANRODEOのようなアーティストになれるのか！？",
+  "date": "2014-10-19",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/64/87/113072_3A7h4.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/64/87/113072_3A7h4.jpg"
+  },
+  "eps": 62,
+  "rating": {
+    "rank": 0,
+    "total": 7,
+    "count": {
+      "1": 2,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 1,
+      "7": 1,
+      "8": 1,
+      "9": 0,
+      "10": 1
+    },
+    "score": 5.4
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 2
+    },
+    {
+      "name": "泡面番",
+      "count": 2
+    },
+    {
+      "name": "2014",
+      "count": 2
+    },
+    {
+      "name": "时事热点",
+      "count": 1
+    },
+    {
+      "name": "2014年十月番",
+      "count": 1
+    },
+    {
+      "name": "2014年10月",
+      "count": 1
+    },
+    {
+      "name": "2014年",
+      "count": 1
+    },
+    {
+      "name": "原创",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

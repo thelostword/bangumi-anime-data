@@ -1,0 +1,153 @@
+{
+  "id": 143740,
+  "name": "うしおととら 第2期",
+  "name_cn": "潮与虎 第二季",
+  "summary": "",
+  "date": "2016-04-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/82/f7/143740_JsEcq.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/82/f7/143740_JsEcq.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 3436,
+    "total": 418,
+    "count": {
+      "1": 0,
+      "2": 2,
+      "3": 0,
+      "4": 7,
+      "5": 36,
+      "6": 109,
+      "7": 178,
+      "8": 69,
+      "9": 11,
+      "10": 6
+    },
+    "score": 6.8
+  },
+  "tags": [
+    {
+      "name": "2016年4月",
+      "count": 87
+    },
+    {
+      "name": "MAPPA",
+      "count": 83
+    },
+    {
+      "name": "热血",
+      "count": 76
+    },
+    {
+      "name": "漫画改",
+      "count": 71
+    },
+    {
+      "name": "TV",
+      "count": 68
+    },
+    {
+      "name": "战斗",
+      "count": 60
+    },
+    {
+      "name": "奇幻",
+      "count": 39
+    },
+    {
+      "name": "2016",
+      "count": 37
+    },
+    {
+      "name": "漫改",
+      "count": 30
+    },
+    {
+      "name": "潮与虎",
+      "count": 26
+    },
+    {
+      "name": "续期",
+      "count": 19
+    },
+    {
+      "name": "藤田和日郎",
+      "count": 13
+    },
+    {
+      "name": "VOLN",
+      "count": 12
+    },
+    {
+      "name": "西村聪",
+      "count": 11
+    },
+    {
+      "name": "studioVOLN",
+      "count": 7
+    },
+    {
+      "name": "2016年四月番",
+      "count": 7
+    },
+    {
+      "name": "日本动画",
+      "count": 6
+    },
+    {
+      "name": "小山力也",
+      "count": 5
+    },
+    {
+      "name": "妖怪",
+      "count": 5
+    },
+    {
+      "name": "2016年",
+      "count": 5
+    },
+    {
+      "name": "西村聡",
+      "count": 3
+    },
+    {
+      "name": "畠中祐",
+      "count": 3
+    },
+    {
+      "name": "漫画改编",
+      "count": 3
+    },
+    {
+      "name": "小松未可子",
+      "count": 3
+    },
+    {
+      "name": "井上敏樹",
+      "count": 3
+    },
+    {
+      "name": "マンガ原作",
+      "count": 2
+    },
+    {
+      "name": "森智子",
+      "count": 2
+    },
+    {
+      "name": "安野希世乃",
+      "count": 2
+    },
+    {
+      "name": "米村正二",
+      "count": 2
+    },
+    {
+      "name": "井上敏树",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

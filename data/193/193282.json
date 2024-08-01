@@ -1,0 +1,153 @@
+{
+  "id": 193282,
+  "name": "にゃんこデイズ",
+  "name_cn": "猫咪日常",
+  "summary": "故事讲述了怕生的女孩小长井友子和她饲养的3只猫咪的日常。而这3只猫分别是撒娇高手的“玛”、淡定王“罗”、爱哭鬼“西”，她们有着人的形态，有猫耳和尾巴，会说人类语言。",
+  "date": "2017-01-08",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/f0/6e/193282_Ca1UE.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/f0/6e/193282_Ca1UE.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 5722,
+    "total": 1887,
+    "count": {
+      "1": 2,
+      "2": 9,
+      "3": 16,
+      "4": 45,
+      "5": 237,
+      "6": 783,
+      "7": 596,
+      "8": 152,
+      "9": 16,
+      "10": 31
+    },
+    "score": 6.3
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 749
+    },
+    {
+      "name": "百合",
+      "count": 379
+    },
+    {
+      "name": "2017年1月",
+      "count": 318
+    },
+    {
+      "name": "萌",
+      "count": 311
+    },
+    {
+      "name": "漫画改",
+      "count": 243
+    },
+    {
+      "name": "TV",
+      "count": 225
+    },
+    {
+      "name": "猫",
+      "count": 189
+    },
+    {
+      "name": "2017",
+      "count": 187
+    },
+    {
+      "name": "日常",
+      "count": 181
+    },
+    {
+      "name": "漫改",
+      "count": 127
+    },
+    {
+      "name": "EMT_Squared",
+      "count": 100
+    },
+    {
+      "name": "治愈",
+      "count": 76
+    },
+    {
+      "name": "泡面",
+      "count": 66
+    },
+    {
+      "name": "喵咪days",
+      "count": 58
+    },
+    {
+      "name": "平池芳正",
+      "count": 31
+    },
+    {
+      "name": "EMT2",
+      "count": 23
+    },
+    {
+      "name": "小松未可子",
+      "count": 19
+    },
+    {
+      "name": "轻百合",
+      "count": 16
+    },
+    {
+      "name": "萌系",
+      "count": 14
+    },
+    {
+      "name": "EMTSquared",
+      "count": 14
+    },
+    {
+      "name": "萌豚",
+      "count": 9
+    },
+    {
+      "name": "EMTスクエアード",
+      "count": 8
+    },
+    {
+      "name": "2017年",
+      "count": 8
+    },
+    {
+      "name": "日本动画",
+      "count": 7
+    },
+    {
+      "name": "大空直美",
+      "count": 7
+    },
+    {
+      "name": "搞笑",
+      "count": 5
+    },
+    {
+      "name": "表情包",
+      "count": 5
+    },
+    {
+      "name": "猫娘",
+      "count": 5
+    },
+    {
+      "name": "校园",
+      "count": 5
+    },
+    {
+      "name": "给我也整一个",
+      "count": 4
+    }
+  ],
+  "locked": false
+}

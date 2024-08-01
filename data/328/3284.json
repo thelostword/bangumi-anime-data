@@ -1,0 +1,153 @@
+{
+  "id": 3284,
+  "name": "スーパーロボット大戦ORIGINAL GENERATION THE ANIMATION",
+  "name_cn": "超级机器人大战OG THE ANIMATION",
+  "summary": "本作是超级机器人大战首次制成动画，故事背景在“OG2”结束后发生的“巴鲁多露事件”的原创故事。因为这是第一次动画化，机战迷都十分期待，但因动画素质低而不获好评。",
+  "date": "2005-10-05",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c1/d0/3284_oMJse.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c1/d0/3284_oMJse.jpg"
+  },
+  "eps": 3,
+  "rating": {
+    "rank": 5549,
+    "total": 132,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 3,
+      "4": 5,
+      "5": 24,
+      "6": 53,
+      "7": 37,
+      "8": 7,
+      "9": 1,
+      "10": 2
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 33
+    },
+    {
+      "name": "机战OG",
+      "count": 27
+    },
+    {
+      "name": "萝卜",
+      "count": 21
+    },
+    {
+      "name": "超级机器人大战",
+      "count": 17
+    },
+    {
+      "name": "2005",
+      "count": 14
+    },
+    {
+      "name": "游戏改",
+      "count": 10
+    },
+    {
+      "name": "机器人",
+      "count": 9
+    },
+    {
+      "name": "BrainsBase",
+      "count": 8
+    },
+    {
+      "name": "机战",
+      "count": 6
+    },
+    {
+      "name": "水谷优子",
+      "count": 5
+    },
+    {
+      "name": "2005年",
+      "count": 5
+    },
+    {
+      "name": "游戏改编",
+      "count": 3
+    },
+    {
+      "name": "中庸",
+      "count": 3
+    },
+    {
+      "name": "已看",
+      "count": 1
+    },
+    {
+      "name": "robo",
+      "count": 1
+    },
+    {
+      "name": "Brain’sBase",
+      "count": 1
+    },
+    {
+      "name": "川越淳",
+      "count": 1
+    },
+    {
+      "name": "机甲",
+      "count": 1
+    },
+    {
+      "name": "OVA-01",
+      "count": 1
+    },
+    {
+      "name": "个人必看",
+      "count": 1
+    },
+    {
+      "name": "科幻",
+      "count": 1
+    },
+    {
+      "name": "补番",
+      "count": 1
+    },
+    {
+      "name": "杉田智和",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "战斗",
+      "count": 1
+    },
+    {
+      "name": "动画",
+      "count": 1
+    },
+    {
+      "name": "2009",
+      "count": 1
+    },
+    {
+      "name": "游戏",
+      "count": 1
+    },
+    {
+      "name": "西園悟",
+      "count": 1
+    },
+    {
+      "name": "日本",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

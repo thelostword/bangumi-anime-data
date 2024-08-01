@@ -1,0 +1,153 @@
+{
+  "id": 296367,
+  "name": "SSSS.DYNAZENON",
+  "name_cn": "SSSS.电光机王",
+  "summary": "不如归台高中一年生的麻中蓬，在某日回家的路上，与自称『怪兽操控者』的谜之男子失马相遇。\r\n突然出现的怪兽以及巨型机器人戴拿赛诺。\r\n在那里的南梦芽、山中历、飞鸟川千濑也共同被卷入战斗中。",
+  "date": "2021-04-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/a1/11/296367_lMue6.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/a1/11/296367_lMue6.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 998,
+    "total": 8528,
+    "count": {
+      "1": 10,
+      "2": 9,
+      "3": 26,
+      "4": 47,
+      "5": 198,
+      "6": 835,
+      "7": 3041,
+      "8": 3552,
+      "9": 584,
+      "10": 226
+    },
+    "score": 7.4
+  },
+  "tags": [
+    {
+      "name": "TRIGGER",
+      "count": 2357
+    },
+    {
+      "name": "原创",
+      "count": 2044
+    },
+    {
+      "name": "特摄",
+      "count": 1541
+    },
+    {
+      "name": "恋爱",
+      "count": 1490
+    },
+    {
+      "name": "2021年4月",
+      "count": 1264
+    },
+    {
+      "name": "TV",
+      "count": 993
+    },
+    {
+      "name": "战斗",
+      "count": 752
+    },
+    {
+      "name": "JK",
+      "count": 741
+    },
+    {
+      "name": "雨宮哲",
+      "count": 722
+    },
+    {
+      "name": "萝卜",
+      "count": 696
+    },
+    {
+      "name": "2021",
+      "count": 608
+    },
+    {
+      "name": "科幻",
+      "count": 437
+    },
+    {
+      "name": "雨宫哲",
+      "count": 371
+    },
+    {
+      "name": "机战",
+      "count": 337
+    },
+    {
+      "name": "長谷川圭一",
+      "count": 197
+    },
+    {
+      "name": "校园",
+      "count": 45
+    },
+    {
+      "name": "日本动画",
+      "count": 38
+    },
+    {
+      "name": "2021年",
+      "count": 31
+    },
+    {
+      "name": "DK",
+      "count": 28
+    },
+    {
+      "name": "热血",
+      "count": 27
+    },
+    {
+      "name": "青春",
+      "count": 26
+    },
+    {
+      "name": "特摄改",
+      "count": 24
+    },
+    {
+      "name": "奇幻",
+      "count": 23
+    },
+    {
+      "name": "日本",
+      "count": 15
+    },
+    {
+      "name": "纯爱",
+      "count": 12
+    },
+    {
+      "name": "扳机社",
+      "count": 11
+    },
+    {
+      "name": "ssss",
+      "count": 10
+    },
+    {
+      "name": "榎木淳弥",
+      "count": 9
+    },
+    {
+      "name": "动画",
+      "count": 9
+    },
+    {
+      "name": "日常",
+      "count": 8
+    }
+  ],
+  "locked": false
+}

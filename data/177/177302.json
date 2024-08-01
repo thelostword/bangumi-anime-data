@@ -1,0 +1,153 @@
+{
+  "id": 177302,
+  "name": "ソウルワーカー",
+  "name_cn": "灵魂武器",
+  "summary": "web动画《灵魂武器》改编自韩国游戏开发公司Lion Games开发的一款动漫风格的动作网游，以能力者为题材的。",
+  "date": "2016-03-17",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/d5/c7/177302_Xl3Q3.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/d5/c7/177302_Xl3Q3.jpg"
+  },
+  "eps": 5,
+  "rating": {
+    "rank": 0,
+    "total": 44,
+    "count": {
+      "1": 0,
+      "2": 1,
+      "3": 2,
+      "4": 9,
+      "5": 17,
+      "6": 10,
+      "7": 4,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.1
+  },
+  "tags": [
+    {
+      "name": "游戏改",
+      "count": 16
+    },
+    {
+      "name": "WEB",
+      "count": 11
+    },
+    {
+      "name": "2016",
+      "count": 8
+    },
+    {
+      "name": "泡面",
+      "count": 7
+    },
+    {
+      "name": "灵魂武器",
+      "count": 7
+    },
+    {
+      "name": "3D",
+      "count": 7
+    },
+    {
+      "name": "2016年3月",
+      "count": 6
+    },
+    {
+      "name": "Worker",
+      "count": 4
+    },
+    {
+      "name": "战斗",
+      "count": 4
+    },
+    {
+      "name": "别役裕之",
+      "count": 3
+    },
+    {
+      "name": "泡面番",
+      "count": 3
+    },
+    {
+      "name": "木户衣吹",
+      "count": 2
+    },
+    {
+      "name": "2016年1月",
+      "count": 2
+    },
+    {
+      "name": "2016年一月番",
+      "count": 1
+    },
+    {
+      "name": "2016年",
+      "count": 1
+    },
+    {
+      "name": "独立ova",
+      "count": 1
+    },
+    {
+      "name": "ソウルワーカー",
+      "count": 1
+    },
+    {
+      "name": "二〇一六年",
+      "count": 1
+    },
+    {
+      "name": "2016年Web·SP",
+      "count": 1
+    },
+    {
+      "name": "LARX",
+      "count": 1
+    },
+    {
+      "name": "JeungJaeSung",
+      "count": 1
+    },
+    {
+      "name": "石民帝",
+      "count": 1
+    },
+    {
+      "name": "网络动画",
+      "count": 1
+    },
+    {
+      "name": "游戏",
+      "count": 1
+    },
+    {
+      "name": "改编",
+      "count": 1
+    },
+    {
+      "name": "Soul",
+      "count": 1
+    },
+    {
+      "name": "游戏改编",
+      "count": 1
+    },
+    {
+      "name": "短片",
+      "count": 1
+    },
+    {
+      "name": "OVA",
+      "count": 1
+    },
+    {
+      "name": "异能",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

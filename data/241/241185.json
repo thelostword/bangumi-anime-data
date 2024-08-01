@@ -1,0 +1,153 @@
+{
+  "id": 241185,
+  "name": "Lapis Re:LiGHTs ラピスリライツ",
+  "name_cn": "宝石幻想 光芒重现",
+  "summary": "故事发生于普遍使用“辉砂”以及其结晶体“辉石”作为动力的城市·玛姆盖斯提尔。\r\n运用辉砂与辉石、以咒语或旋律来发动魔法的少女被称为“魔女”，进行着歌唱活动以及驱除怪兽，被人们所敬仰着。\r\n晓之魔女所创设，齐聚了见习魔女们的学校，芙劳拉女子学院。\r\n梦想成为出色魔女的少女·缇亚拉来到了这所学院的门前。",
+  "date": "2020-07-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/8b/fd/241185_qfFR2.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/8b/fd/241185_qfFR2.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 2983,
+    "total": 1048,
+    "count": {
+      "1": 2,
+      "2": 0,
+      "3": 3,
+      "4": 17,
+      "5": 56,
+      "6": 260,
+      "7": 453,
+      "8": 214,
+      "9": 27,
+      "10": 16
+    },
+    "score": 6.9
+  },
+  "tags": [
+    {
+      "name": "偶像",
+      "count": 324
+    },
+    {
+      "name": "原创",
+      "count": 305
+    },
+    {
+      "name": "2020年7月",
+      "count": 229
+    },
+    {
+      "name": "百合",
+      "count": 228
+    },
+    {
+      "name": "TV",
+      "count": 193
+    },
+    {
+      "name": "2020",
+      "count": 151
+    },
+    {
+      "name": "音乐",
+      "count": 135
+    },
+    {
+      "name": "横滨AnimationLABO",
+      "count": 118
+    },
+    {
+      "name": "奇幻",
+      "count": 106
+    },
+    {
+      "name": "畑博之",
+      "count": 58
+    },
+    {
+      "name": "校园",
+      "count": 51
+    },
+    {
+      "name": "横浜アニメーションラボ",
+      "count": 25
+    },
+    {
+      "name": "魔法",
+      "count": 12
+    },
+    {
+      "name": "轻百合",
+      "count": 10
+    },
+    {
+      "name": "游戏改",
+      "count": 10
+    },
+    {
+      "name": "土田霞",
+      "count": 7
+    },
+    {
+      "name": "TVA",
+      "count": 5
+    },
+    {
+      "name": "あさのハジメ",
+      "count": 4
+    },
+    {
+      "name": "2020年",
+      "count": 4
+    },
+    {
+      "name": "2020夏",
+      "count": 3
+    },
+    {
+      "name": "日常",
+      "count": 3
+    },
+    {
+      "name": "萌",
+      "count": 3
+    },
+    {
+      "name": "魔法少女",
+      "count": 3
+    },
+    {
+      "name": "YAL",
+      "count": 2
+    },
+    {
+      "name": "搞笑",
+      "count": 2
+    },
+    {
+      "name": "异世界",
+      "count": 2
+    },
+    {
+      "name": "宝野聡史",
+      "count": 2
+    },
+    {
+      "name": "宝石幻想",
+      "count": 2
+    },
+    {
+      "name": "朝野始",
+      "count": 2
+    },
+    {
+      "name": "TV动画",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

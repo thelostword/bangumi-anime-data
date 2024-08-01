@@ -1,0 +1,153 @@
+{
+  "id": 3016,
+  "name": "みなみけ べつばら",
+  "name_cn": "南家三姐妹 饭后甜点",
+  "summary": "单行本第6卷限定版同捆OAD，内容为漫画第118-119话和第121-122话。",
+  "date": "2009-06-23",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/53/a1/3016_tst0c.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/53/a1/3016_tst0c.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 1442,
+    "total": 1347,
+    "count": {
+      "1": 2,
+      "2": 0,
+      "3": 3,
+      "4": 11,
+      "5": 39,
+      "6": 174,
+      "7": 547,
+      "8": 470,
+      "9": 60,
+      "10": 41
+    },
+    "score": 7.3
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 339
+    },
+    {
+      "name": "南家三姐妹",
+      "count": 322
+    },
+    {
+      "name": "搞笑",
+      "count": 199
+    },
+    {
+      "name": "日常",
+      "count": 164
+    },
+    {
+      "name": "2009",
+      "count": 132
+    },
+    {
+      "name": "治愈系",
+      "count": 125
+    },
+    {
+      "name": "校园",
+      "count": 88
+    },
+    {
+      "name": "饭后甜点",
+      "count": 87
+    },
+    {
+      "name": "治愈",
+      "count": 78
+    },
+    {
+      "name": "asread",
+      "count": 74
+    },
+    {
+      "name": "漫画改",
+      "count": 72
+    },
+    {
+      "name": "日常生活",
+      "count": 50
+    },
+    {
+      "name": "OAD",
+      "count": 49
+    },
+    {
+      "name": "井上麻里奈",
+      "count": 41
+    },
+    {
+      "name": "漫改",
+      "count": 32
+    },
+    {
+      "name": "小野大辅",
+      "count": 16
+    },
+    {
+      "name": "2009年6月",
+      "count": 13
+    },
+    {
+      "name": "及川啓",
+      "count": 9
+    },
+    {
+      "name": "佐藤利奈",
+      "count": 8
+    },
+    {
+      "name": "アスリード",
+      "count": 8
+    },
+    {
+      "name": "日本",
+      "count": 7
+    },
+    {
+      "name": "去厕所后不见了",
+      "count": 7
+    },
+    {
+      "name": "喜剧",
+      "count": 7
+    },
+    {
+      "name": "2009年7月",
+      "count": 7
+    },
+    {
+      "name": "みなみけ",
+      "count": 6
+    },
+    {
+      "name": "喜多村英梨",
+      "count": 6
+    },
+    {
+      "name": "2009年",
+      "count": 6
+    },
+    {
+      "name": "吐槽",
+      "count": 6
+    },
+    {
+      "name": "及川启",
+      "count": 6
+    },
+    {
+      "name": "豊崎愛生",
+      "count": 5
+    }
+  ],
+  "locked": false
+}

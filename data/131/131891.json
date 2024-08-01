@@ -1,0 +1,153 @@
+{
+  "id": 131891,
+  "name": "暗殺教室 第2期",
+  "name_cn": "暗杀教室 第二季",
+  "summary": "",
+  "date": "2016-01-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/68/64/131891_dR2ZT.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/68/64/131891_dR2ZT.jpg"
+  },
+  "eps": 25,
+  "rating": {
+    "rank": 684,
+    "total": 5489,
+    "count": {
+      "1": 7,
+      "2": 9,
+      "3": 15,
+      "4": 39,
+      "5": 125,
+      "6": 483,
+      "7": 1666,
+      "8": 2268,
+      "9": 588,
+      "10": 289
+    },
+    "score": 7.6
+  },
+  "tags": [
+    {
+      "name": "漫画改",
+      "count": 933
+    },
+    {
+      "name": "2016年1月",
+      "count": 886
+    },
+    {
+      "name": "搞笑",
+      "count": 873
+    },
+    {
+      "name": "校园",
+      "count": 687
+    },
+    {
+      "name": "暗杀教室",
+      "count": 603
+    },
+    {
+      "name": "TV",
+      "count": 564
+    },
+    {
+      "name": "Lerche",
+      "count": 463
+    },
+    {
+      "name": "2016",
+      "count": 345
+    },
+    {
+      "name": "福山润",
+      "count": 324
+    },
+    {
+      "name": "暗殺教室",
+      "count": 303
+    },
+    {
+      "name": "漫改",
+      "count": 250
+    },
+    {
+      "name": "岸誠二",
+      "count": 218
+    },
+    {
+      "name": "战斗",
+      "count": 179
+    },
+    {
+      "name": "岸诚二",
+      "count": 110
+    },
+    {
+      "name": "杉田智和",
+      "count": 87
+    },
+    {
+      "name": "治愈",
+      "count": 80
+    },
+    {
+      "name": "催泪",
+      "count": 70
+    },
+    {
+      "name": "宫野真守",
+      "count": 52
+    },
+    {
+      "name": "日常",
+      "count": 35
+    },
+    {
+      "name": "奇幻",
+      "count": 34
+    },
+    {
+      "name": "JUMP",
+      "count": 30
+    },
+    {
+      "name": "续作",
+      "count": 27
+    },
+    {
+      "name": "2016年",
+      "count": 21
+    },
+    {
+      "name": "热血",
+      "count": 21
+    },
+    {
+      "name": "成长",
+      "count": 19
+    },
+    {
+      "name": "励志",
+      "count": 19
+    },
+    {
+      "name": "青春",
+      "count": 12
+    },
+    {
+      "name": "松井優征",
+      "count": 12
+    },
+    {
+      "name": "上江洲诚",
+      "count": 11
+    },
+    {
+      "name": "冈本信彦",
+      "count": 10
+    }
+  ],
+  "locked": false
+}

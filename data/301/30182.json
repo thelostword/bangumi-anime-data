@@ -1,0 +1,141 @@
+{
+  "id": 30182,
+  "name": "星のカービィ",
+  "name_cn": "星之卡比",
+  "summary": "星之卡比（简称卡比，英文：Kirby；日文：星のカービィ;又称卡比之星）是HAL研究社和任天堂公司合力创造的电子游戏系列，也是该系列的主角。\r\n\r\n星之卡比还有另一个动画系列，也叫《星之卡比》，不过内容却和游戏完全不一样。动画的最大特色是画面融合了2D和3D图像。制作人员对这动画有两个主要的要求：“卡比不能说话”和“地球人不能出现”，其实也是两项困难的要求。",
+  "date": "2001-10-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c4/2a/30182_mn65G.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c4/2a/30182_mn65G.jpg"
+  },
+  "eps": 100,
+  "rating": {
+    "rank": 2927,
+    "total": 65,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 0,
+      "5": 4,
+      "6": 24,
+      "7": 23,
+      "8": 8,
+      "9": 3,
+      "10": 2
+    },
+    "score": 6.8
+  },
+  "tags": [
+    {
+      "name": "星之卡比",
+      "count": 27
+    },
+    {
+      "name": "子供向",
+      "count": 18
+    },
+    {
+      "name": "童年",
+      "count": 15
+    },
+    {
+      "name": "TVB",
+      "count": 13
+    },
+    {
+      "name": "萌物",
+      "count": 7
+    },
+    {
+      "name": "TV",
+      "count": 6
+    },
+    {
+      "name": "2001",
+      "count": 5
+    },
+    {
+      "name": "绪方贤一",
+      "count": 4
+    },
+    {
+      "name": "银河万丈",
+      "count": 3
+    },
+    {
+      "name": "题材风格不合",
+      "count": 3
+    },
+    {
+      "name": "社会现象",
+      "count": 3
+    },
+    {
+      "name": "星",
+      "count": 2
+    },
+    {
+      "name": "水谷优子",
+      "count": 2
+    },
+    {
+      "name": "欢乐",
+      "count": 2
+    },
+    {
+      "name": "飞田展男",
+      "count": 2
+    },
+    {
+      "name": "作品库",
+      "count": 1
+    },
+    {
+      "name": "日下部光雄",
+      "count": 1
+    },
+    {
+      "name": "スタジオ・ザイン",
+      "count": 1
+    },
+    {
+      "name": "StudioSign",
+      "count": 1
+    },
+    {
+      "name": "Studio",
+      "count": 1
+    },
+    {
+      "name": "游戏改",
+      "count": 1
+    },
+    {
+      "name": "日本",
+      "count": 1
+    },
+    {
+      "name": "幼儿园",
+      "count": 1
+    },
+    {
+      "name": "私市淳",
+      "count": 1
+    },
+    {
+      "name": "SIGN",
+      "count": 1
+    },
+    {
+      "name": "动画",
+      "count": 1
+    },
+    {
+      "name": "吉川惣司",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

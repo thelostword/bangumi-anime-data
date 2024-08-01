@@ -1,0 +1,153 @@
+{
+  "id": 176599,
+  "name": "WWW.WORKING!!",
+  "name_cn": "WWW.迷糊餐厅",
+  "summary": "由于家境困难而开始在家庭餐厅打工的东田大辅。但那里却是有着料理白痴的外场主管、一切都以金钱衡量的服务员等等，没什么正经人的家庭餐厅……！？",
+  "date": "2016-10-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/69/61/176599_Dqhsx.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/69/61/176599_Dqhsx.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 2552,
+    "total": 2405,
+    "count": {
+      "1": 4,
+      "2": 5,
+      "3": 3,
+      "4": 23,
+      "5": 111,
+      "6": 461,
+      "7": 1122,
+      "8": 589,
+      "9": 63,
+      "10": 24
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "搞笑",
+      "count": 552
+    },
+    {
+      "name": "A-1Pictures",
+      "count": 473
+    },
+    {
+      "name": "2016年10月",
+      "count": 449
+    },
+    {
+      "name": "日常",
+      "count": 376
+    },
+    {
+      "name": "漫画改",
+      "count": 319
+    },
+    {
+      "name": "TV",
+      "count": 286
+    },
+    {
+      "name": "漫改",
+      "count": 174
+    },
+    {
+      "name": "恋爱",
+      "count": 165
+    },
+    {
+      "name": "WORKING",
+      "count": 152
+    },
+    {
+      "name": "2016",
+      "count": 146
+    },
+    {
+      "name": "中村悠一",
+      "count": 80
+    },
+    {
+      "name": "户松遥",
+      "count": 63
+    },
+    {
+      "name": "水树奈奈",
+      "count": 43
+    },
+    {
+      "name": "职场",
+      "count": 29
+    },
+    {
+      "name": "内山昂輝",
+      "count": 26
+    },
+    {
+      "name": "鎌倉由実",
+      "count": 17
+    },
+    {
+      "name": "迷糊餐厅",
+      "count": 15
+    },
+    {
+      "name": "镰仓由实",
+      "count": 14
+    },
+    {
+      "name": "小野贤章",
+      "count": 12
+    },
+    {
+      "name": "2016年",
+      "count": 11
+    },
+    {
+      "name": "猫组",
+      "count": 10
+    },
+    {
+      "name": "日笠阳子",
+      "count": 9
+    },
+    {
+      "name": "横山克",
+      "count": 9
+    },
+    {
+      "name": "A-1_Pictures",
+      "count": 8
+    },
+    {
+      "name": "高津カリノ",
+      "count": 7
+    },
+    {
+      "name": "治愈",
+      "count": 7
+    },
+    {
+      "name": "日本动画",
+      "count": 7
+    },
+    {
+      "name": "雨宫天",
+      "count": 7
+    },
+    {
+      "name": "内山昂辉",
+      "count": 7
+    },
+    {
+      "name": "A-1",
+      "count": 6
+    }
+  ],
+  "locked": false
+}

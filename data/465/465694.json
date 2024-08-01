@@ -1,0 +1,125 @@
+{
+  "id": 465694,
+  "name": "闇芝居 第12期",
+  "name_cn": "暗芝居 第十二季",
+  "summary": "二十四年一月ｶﾗ十二期ﾀﾞﾖ…。",
+  "date": "2024-01-14",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/4f/75/465694_6hwAX.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/4f/75/465694_6hwAX.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 7485,
+    "total": 56,
+    "count": {
+      "1": 2,
+      "2": 4,
+      "3": 3,
+      "4": 15,
+      "5": 17,
+      "6": 11,
+      "7": 1,
+      "8": 1,
+      "9": 1,
+      "10": 1
+    },
+    "score": 4.7
+  },
+  "tags": [
+    {
+      "name": "2024年1月",
+      "count": 27
+    },
+    {
+      "name": "泡面番",
+      "count": 22
+    },
+    {
+      "name": "暗芝居",
+      "count": 18
+    },
+    {
+      "name": "TV",
+      "count": 13
+    },
+    {
+      "name": "原创",
+      "count": 12
+    },
+    {
+      "name": "2024",
+      "count": 10
+    },
+    {
+      "name": "ILCA",
+      "count": 8
+    },
+    {
+      "name": "惊悚",
+      "count": 6
+    },
+    {
+      "name": "山川典夫",
+      "count": 5
+    },
+    {
+      "name": "佐佐木充郭",
+      "count": 3
+    },
+    {
+      "name": "船田晃",
+      "count": 3
+    },
+    {
+      "name": "熊本浩武",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "续集",
+      "count": 1
+    },
+    {
+      "name": "TVA-03",
+      "count": 1
+    },
+    {
+      "name": "光芝居",
+      "count": 1
+    },
+    {
+      "name": "亮芝居",
+      "count": 1
+    },
+    {
+      "name": "5分",
+      "count": 1
+    },
+    {
+      "name": "1月新番",
+      "count": 1
+    },
+    {
+      "name": "动画",
+      "count": 1
+    },
+    {
+      "name": "日本",
+      "count": 1
+    },
+    {
+      "name": "恐怖",
+      "count": 1
+    },
+    {
+      "name": "恐怖猎奇",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

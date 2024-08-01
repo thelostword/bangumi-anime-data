@@ -1,0 +1,153 @@
+{
+  "id": 43951,
+  "name": "Fate/kaleid liner プリズマ☆イリヤ",
+  "name_cn": "Fate/kaleid liner 魔法少女☆伊莉雅",
+  "summary": "伊莉雅是一个就读穗群原学园的普通女孩子，在某天遇到了自称人工天然精灵的魔法露比万花筒之杖，并强制地被缔结契约，成为了魔法少女伊莉雅。而已是红宝石之星持有人的她，还变成了万花筒之杖原持有者的魔术师远坂凛的奴隶，在其的命令之下，被迫帮忙回收沉睡于冬木市的某危险的卡片……",
+  "date": "2013-07-12",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/1f/c3/43951_TJfCH.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/1f/c3/43951_TJfCH.jpg"
+  },
+  "eps": 10,
+  "rating": {
+    "rank": 3080,
+    "total": 4608,
+    "count": {
+      "1": 14,
+      "2": 8,
+      "3": 20,
+      "4": 69,
+      "5": 247,
+      "6": 1088,
+      "7": 2064,
+      "8": 912,
+      "9": 94,
+      "10": 92
+    },
+    "score": 6.9
+  },
+  "tags": [
+    {
+      "name": "Type-Moon",
+      "count": 1114
+    },
+    {
+      "name": "魔法少女☆伊莉雅",
+      "count": 957
+    },
+    {
+      "name": "百合",
+      "count": 813
+    },
+    {
+      "name": "2013年7月",
+      "count": 729
+    },
+    {
+      "name": "大沼心",
+      "count": 565
+    },
+    {
+      "name": "SILVERLINK.",
+      "count": 545
+    },
+    {
+      "name": "漫画改",
+      "count": 495
+    },
+    {
+      "name": "TV",
+      "count": 471
+    },
+    {
+      "name": "魔法少女",
+      "count": 467
+    },
+    {
+      "name": "Fate",
+      "count": 445
+    },
+    {
+      "name": "马猴烧酒",
+      "count": 317
+    },
+    {
+      "name": "2013",
+      "count": 289
+    },
+    {
+      "name": "漫改",
+      "count": 147
+    },
+    {
+      "name": "战斗",
+      "count": 83
+    },
+    {
+      "name": "奇幻",
+      "count": 64
+    },
+    {
+      "name": "好奇怪！",
+      "count": 58
+    },
+    {
+      "name": "萝莉",
+      "count": 53
+    },
+    {
+      "name": "搞笑",
+      "count": 42
+    },
+    {
+      "name": "萌",
+      "count": 35
+    },
+    {
+      "name": "日常",
+      "count": 24
+    },
+    {
+      "name": "2013年",
+      "count": 20
+    },
+    {
+      "name": "SILVER_LINK.",
+      "count": 16
+    },
+    {
+      "name": "轻百合",
+      "count": 14
+    },
+    {
+      "name": "伊莉雅",
+      "count": 13
+    },
+    {
+      "name": "七月番",
+      "count": 12
+    },
+    {
+      "name": "门胁舞以",
+      "count": 12
+    },
+    {
+      "name": "型月",
+      "count": 11
+    },
+    {
+      "name": "名冢佳织",
+      "count": 11
+    },
+    {
+      "name": "校园",
+      "count": 11
+    },
+    {
+      "name": "魔法",
+      "count": 9
+    }
+  ],
+  "locked": false
+}

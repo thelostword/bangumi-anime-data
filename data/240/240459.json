@@ -1,0 +1,97 @@
+{
+  "id": 240459,
+  "name": "少年アシベ GO!GO!ゴマちゃん 第3シリーズ",
+  "name_cn": "少年阿贝GO！GO！小芝麻 第三季",
+  "summary": "小学１年生のアシベとゴマフアザラシのゴマちゃんが、家や学校、近所の人々と繰り広げるゆかいな日常を描いたアニメ「少年アシベ　GO!GO!ゴマちゃん」の、第3シリーズの放送が決定しました！",
+  "date": "2018-04-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/6b/29/240459_5pgGh.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/6b/29/240459_5pgGh.jpg"
+  },
+  "eps": 32,
+  "rating": {
+    "rank": 0,
+    "total": 6,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 1,
+      "6": 2,
+      "7": 2,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.8
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 3
+    },
+    {
+      "name": "HusioStudio",
+      "count": 2
+    },
+    {
+      "name": "少年阿贝GO！GO！小芝麻",
+      "count": 2
+    },
+    {
+      "name": "竹内利光",
+      "count": 2
+    },
+    {
+      "name": "2018",
+      "count": 1
+    },
+    {
+      "name": "2018年4月",
+      "count": 1
+    },
+    {
+      "name": "河村梨恵",
+      "count": 1
+    },
+    {
+      "name": "BRIDGE",
+      "count": 1
+    },
+    {
+      "name": "東山奈央",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "漫画改",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "ブリッジ",
+      "count": 1
+    },
+    {
+      "name": "TV",
+      "count": 1
+    },
+    {
+      "name": "东山奈央",
+      "count": 1
+    },
+    {
+      "name": "近藤信宏",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,153 @@
+{
+  "id": 356474,
+  "name": "FINAL FANTASY VII ADVENT CHILDREN COMPLETE",
+  "name_cn": "最终幻想VII：降临之子 完全版",
+  "summary": "《最终幻想VII 降临之子 完全版》（Final Fantasy VII: Advent Children Complete），是于2009年4月16日发售的蓝光光盘版本，在2006年9月22－24日的“东京电玩展2006”（TGS 2006）首度发表。完整版包括修改部分镜头、画面及替换部分旧版场景，共增加约30分钟的片长。",
+  "date": "2009-04-16",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/56/a6/356474_GRGHA.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/56/a6/356474_GRGHA.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 1008,
+    "total": 160,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 1,
+      "6": 11,
+      "7": 72,
+      "8": 52,
+      "9": 17,
+      "10": 6
+    },
+    "score": 7.6
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 39
+    },
+    {
+      "name": "游戏改",
+      "count": 33
+    },
+    {
+      "name": "最终幻想",
+      "count": 28
+    },
+    {
+      "name": "2009",
+      "count": 27
+    },
+    {
+      "name": "3D",
+      "count": 17
+    },
+    {
+      "name": "战斗",
+      "count": 15
+    },
+    {
+      "name": "奇幻",
+      "count": 14
+    },
+    {
+      "name": "SE",
+      "count": 12
+    },
+    {
+      "name": "OVA",
+      "count": 7
+    },
+    {
+      "name": "动画电影",
+      "count": 7
+    },
+    {
+      "name": "野村哲也",
+      "count": 6
+    },
+    {
+      "name": "独立长片",
+      "count": 3
+    },
+    {
+      "name": "动画",
+      "count": 3
+    },
+    {
+      "name": "日本",
+      "count": 3
+    },
+    {
+      "name": "BD1",
+      "count": 1
+    },
+    {
+      "name": "7分",
+      "count": 1
+    },
+    {
+      "name": "催泪",
+      "count": 1
+    },
+    {
+      "name": "D-",
+      "count": 1
+    },
+    {
+      "name": "OVA-01",
+      "count": 1
+    },
+    {
+      "name": "还不如原版",
+      "count": 1
+    },
+    {
+      "name": "CG",
+      "count": 1
+    },
+    {
+      "name": "2022",
+      "count": 1
+    },
+    {
+      "name": "FF7",
+      "count": 1
+    },
+    {
+      "name": "改编",
+      "count": 1
+    },
+    {
+      "name": "圣子降临",
+      "count": 1
+    },
+    {
+      "name": "游戏",
+      "count": 1
+    },
+    {
+      "name": "劇場版",
+      "count": 1
+    },
+    {
+      "name": "克劳德",
+      "count": 1
+    },
+    {
+      "name": "2005",
+      "count": 1
+    },
+    {
+      "name": "科幻",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

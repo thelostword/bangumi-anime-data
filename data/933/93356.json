@@ -1,0 +1,153 @@
+{
+  "id": 93356,
+  "name": "マギ シンドバッドの冒険",
+  "name_cn": "天方魔谭MAGI 辛巴达的冒险",
+  "summary": "单行本第3卷特别版同捆OAD前篇。\r\n\r\n单行本第4卷特别版同捆OAD后篇。\r\n\r\n单行本第5卷特别版同捆OAD。\r\n\r\n单行本第6卷特别版同捆OAD。\r\n\r\n单行本第7卷特别版同捆OAD。",
+  "date": "2014-05-16",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/44/75/93356_G4XgH.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/44/75/93356_G4XgH.jpg"
+  },
+  "eps": 5,
+  "rating": {
+    "rank": 3098,
+    "total": 433,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 3,
+      "4": 3,
+      "5": 27,
+      "6": 120,
+      "7": 192,
+      "8": 68,
+      "9": 7,
+      "10": 13
+    },
+    "score": 6.8
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 153
+    },
+    {
+      "name": "魔笛MAGI",
+      "count": 94
+    },
+    {
+      "name": "辛巴达的冒险",
+      "count": 60
+    },
+    {
+      "name": "2014",
+      "count": 59
+    },
+    {
+      "name": "2014年5月",
+      "count": 42
+    },
+    {
+      "name": "漫改",
+      "count": 40
+    },
+    {
+      "name": "Lay-duce",
+      "count": 40
+    },
+    {
+      "name": "奇幻",
+      "count": 39
+    },
+    {
+      "name": "漫画改",
+      "count": 26
+    },
+    {
+      "name": "大高忍",
+      "count": 25
+    },
+    {
+      "name": "热血",
+      "count": 23
+    },
+    {
+      "name": "JUMP",
+      "count": 20
+    },
+    {
+      "name": "剧场版",
+      "count": 13
+    },
+    {
+      "name": "石田彰",
+      "count": 12
+    },
+    {
+      "name": "マギ",
+      "count": 12
+    },
+    {
+      "name": "战斗",
+      "count": 10
+    },
+    {
+      "name": "小野大辅",
+      "count": 7
+    },
+    {
+      "name": "冒险",
+      "count": 6
+    },
+    {
+      "name": "OAD",
+      "count": 6
+    },
+    {
+      "name": "天方魔谭MAGI",
+      "count": 5
+    },
+    {
+      "name": "杉田智和",
+      "count": 3
+    },
+    {
+      "name": "岸本卓",
+      "count": 3
+    },
+    {
+      "name": "佐古宗一郎",
+      "count": 3
+    },
+    {
+      "name": "中井和哉",
+      "count": 3
+    },
+    {
+      "name": "レイ・デュース",
+      "count": 3
+    },
+    {
+      "name": "2014年",
+      "count": 3
+    },
+    {
+      "name": "藤原启治",
+      "count": 2
+    },
+    {
+      "name": "櫻井孝宏",
+      "count": 2
+    },
+    {
+      "name": "樱井孝宏",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,153 @@
+{
+  "id": 10291,
+  "name": "GHOST IN THE SHELL / 攻殻機動隊2.0",
+  "name_cn": "攻壳机动队2.0",
+  "summary": "2008年7月12日(土)公開。監督押井守。全カットを完全リニューアルした21世紀版攻殻機動隊とも言える作品。人形使い役として、新たに榊原良子がキャスティングされた。",
+  "date": "2008-07-12",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ef/18/10291_4dGhK.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ef/18/10291_4dGhK.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 58,
+    "total": 2568,
+    "count": {
+      "1": 11,
+      "2": 2,
+      "3": 1,
+      "4": 11,
+      "5": 18,
+      "6": 72,
+      "7": 247,
+      "8": 880,
+      "9": 877,
+      "10": 449
+    },
+    "score": 8.5
+  },
+  "tags": [
+    {
+      "name": "押井守",
+      "count": 774
+    },
+    {
+      "name": "攻壳机动队",
+      "count": 650
+    },
+    {
+      "name": "剧场版",
+      "count": 616
+    },
+    {
+      "name": "Production.I.G",
+      "count": 472
+    },
+    {
+      "name": "科幻",
+      "count": 355
+    },
+    {
+      "name": "2008",
+      "count": 304
+    },
+    {
+      "name": "士郎正宗",
+      "count": 229
+    },
+    {
+      "name": "川井宪次",
+      "count": 132
+    },
+    {
+      "name": "复刻",
+      "count": 112
+    },
+    {
+      "name": "草薙素子",
+      "count": 103
+    },
+    {
+      "name": "神作",
+      "count": 92
+    },
+    {
+      "name": "ProductionI.G",
+      "count": 74
+    },
+    {
+      "name": "漫画改",
+      "count": 74
+    },
+    {
+      "name": "赛博朋克",
+      "count": 41
+    },
+    {
+      "name": "漫改",
+      "count": 27
+    },
+    {
+      "name": "电影",
+      "count": 23
+    },
+    {
+      "name": "攻殻機動隊",
+      "count": 22
+    },
+    {
+      "name": "2.0",
+      "count": 18
+    },
+    {
+      "name": "2008年7月",
+      "count": 14
+    },
+    {
+      "name": "日本",
+      "count": 10
+    },
+    {
+      "name": "2008年",
+      "count": 10
+    },
+    {
+      "name": "伊藤和典",
+      "count": 9
+    },
+    {
+      "name": "川井憲次",
+      "count": 9
+    },
+    {
+      "name": "Production_I.G",
+      "count": 8
+    },
+    {
+      "name": "Production.IG",
+      "count": 8
+    },
+    {
+      "name": "经典",
+      "count": 8
+    },
+    {
+      "name": "战斗",
+      "count": 8
+    },
+    {
+      "name": "SF",
+      "count": 7
+    },
+    {
+      "name": "总集篇",
+      "count": 6
+    },
+    {
+      "name": "动画",
+      "count": 6
+    }
+  ],
+  "locked": false
+}

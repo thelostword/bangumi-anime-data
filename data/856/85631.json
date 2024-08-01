@@ -1,0 +1,153 @@
+{
+  "id": 85631,
+  "name": "ジョジョの奇妙な冒険 スターダストクルセイダース",
+  "name_cn": "JOJO的奇妙冒险 星尘斗士",
+  "summary": "时为1987年，乔瑟夫·乔斯达与“柱之男”们之间的死战后过了50年……乔瑟夫为了为了帮助“被恶灵附身了”的外孙子·空条承太郎而来到了日本。原来那并不是恶灵而是幽波纹（替身）。替身突然出现的原因在于，从跨越100年的长眠中苏醒过来的吸血鬼·DIO与乔斯达家之间的令人忌讳的因缘。为了拯救受到DIO的诅咒而倒下的承太郎的母亲·荷莉，他们决定要打倒邪恶的化身·DIO，和伙伴们一起踏上了旅程。",
+  "date": "2014-04-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/6b/c7/85631_Gi7oH.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/6b/c7/85631_Gi7oH.jpg"
+  },
+  "eps": 24,
+  "rating": {
+    "rank": 209,
+    "total": 11554,
+    "count": {
+      "1": 16,
+      "2": 5,
+      "3": 10,
+      "4": 38,
+      "5": 98,
+      "6": 464,
+      "7": 2286,
+      "8": 5412,
+      "9": 2329,
+      "10": 896
+    },
+    "score": 8
+  },
+  "tags": [
+    {
+      "name": "JOJO",
+      "count": 2145
+    },
+    {
+      "name": "JOJO的奇妙冒险",
+      "count": 1703
+    },
+    {
+      "name": "热血",
+      "count": 1558
+    },
+    {
+      "name": "漫画改",
+      "count": 1294
+    },
+    {
+      "name": "2014年4月",
+      "count": 1172
+    },
+    {
+      "name": "TV",
+      "count": 1061
+    },
+    {
+      "name": "战斗",
+      "count": 745
+    },
+    {
+      "name": "2014",
+      "count": 653
+    },
+    {
+      "name": "学姿势",
+      "count": 589
+    },
+    {
+      "name": "燃",
+      "count": 588
+    },
+    {
+      "name": "david.production",
+      "count": 477
+    },
+    {
+      "name": "漫改",
+      "count": 435
+    },
+    {
+      "name": "davidproduction",
+      "count": 355
+    },
+    {
+      "name": "津田尚克",
+      "count": 211
+    },
+    {
+      "name": "荒木飞吕彦",
+      "count": 154
+    },
+    {
+      "name": "奇幻",
+      "count": 95
+    },
+    {
+      "name": "智斗",
+      "count": 83
+    },
+    {
+      "name": "超能力系",
+      "count": 76
+    },
+    {
+      "name": "david_production",
+      "count": 58
+    },
+    {
+      "name": "冒险",
+      "count": 46
+    },
+    {
+      "name": "搞笑",
+      "count": 33
+    },
+    {
+      "name": "荒木飛呂彦",
+      "count": 32
+    },
+    {
+      "name": "小林靖子",
+      "count": 32
+    },
+    {
+      "name": "2014年",
+      "count": 28
+    },
+    {
+      "name": "小野大辅",
+      "count": 24
+    },
+    {
+      "name": "神作",
+      "count": 23
+    },
+    {
+      "name": "子安武人",
+      "count": 21
+    },
+    {
+      "name": "JUMP",
+      "count": 20
+    },
+    {
+      "name": "超能力",
+      "count": 19
+    },
+    {
+      "name": "续作",
+      "count": 17
+    }
+  ],
+  "locked": false
+}

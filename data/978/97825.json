@@ -1,0 +1,153 @@
+{
+  "id": 97825,
+  "name": "よくわかる魔法科!",
+  "name_cn": "简单易懂的魔法科！",
+  "summary": "『魔法科高校の劣等生』SDキャラが解説するSP動画",
+  "date": "2014-02-22",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/24/4d/97825_k4O4g.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/24/4d/97825_k4O4g.jpg"
+  },
+  "eps": 7,
+  "rating": {
+    "rank": 7941,
+    "total": 178,
+    "count": {
+      "1": 1,
+      "2": 6,
+      "3": 11,
+      "4": 28,
+      "5": 62,
+      "6": 55,
+      "7": 7,
+      "8": 4,
+      "9": 0,
+      "10": 4
+    },
+    "score": 5.2
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 57
+    },
+    {
+      "name": "WEB",
+      "count": 52
+    },
+    {
+      "name": "2014",
+      "count": 39
+    },
+    {
+      "name": "解说",
+      "count": 25
+    },
+    {
+      "name": "简单易懂的魔法科",
+      "count": 23
+    },
+    {
+      "name": "2014年2月",
+      "count": 20
+    },
+    {
+      "name": "魔法科高校的劣等生",
+      "count": 18
+    },
+    {
+      "name": "MADHouse",
+      "count": 16
+    },
+    {
+      "name": "衍生",
+      "count": 14
+    },
+    {
+      "name": "轻小说改",
+      "count": 10
+    },
+    {
+      "name": "轻改",
+      "count": 9
+    },
+    {
+      "name": "W-toonStudio",
+      "count": 9
+    },
+    {
+      "name": "SP",
+      "count": 7
+    },
+    {
+      "name": "中村悠一",
+      "count": 4
+    },
+    {
+      "name": "早見沙織",
+      "count": 4
+    },
+    {
+      "name": "番外",
+      "count": 3
+    },
+    {
+      "name": "2014年",
+      "count": 3
+    },
+    {
+      "name": "ダブトゥーンスタジオ",
+      "count": 3
+    },
+    {
+      "name": "森井ケンシロウ",
+      "count": 3
+    },
+    {
+      "name": "简单易懂的魔法科！",
+      "count": 2
+    },
+    {
+      "name": "森井健史郎",
+      "count": 2
+    },
+    {
+      "name": "魔法科高校の劣等生",
+      "count": 2
+    },
+    {
+      "name": "2014年1月",
+      "count": 2
+    },
+    {
+      "name": "内山夕実",
+      "count": 2
+    },
+    {
+      "name": "佐藤聪美",
+      "count": 2
+    },
+    {
+      "name": "其他",
+      "count": 2
+    },
+    {
+      "name": "泡面",
+      "count": 2
+    },
+    {
+      "name": "TV",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "花泽香菜",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

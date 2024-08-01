@@ -1,0 +1,153 @@
+{
+  "id": 92423,
+  "name": "攻殻機動隊入門あらいず",
+  "name_cn": "攻壳机动队入门ARISE",
+  "summary": "",
+  "date": "2014-01-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/07/8a/92423_Gh83F.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/07/8a/92423_Gh83F.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 0,
+    "total": 43,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 1,
+      "4": 5,
+      "5": 12,
+      "6": 14,
+      "7": 5,
+      "8": 2,
+      "9": 0,
+      "10": 3
+    },
+    "score": 5.8
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 22
+    },
+    {
+      "name": "TV",
+      "count": 17
+    },
+    {
+      "name": "2014年1月",
+      "count": 13
+    },
+    {
+      "name": "2014",
+      "count": 9
+    },
+    {
+      "name": "漫画改",
+      "count": 6
+    },
+    {
+      "name": "沢城みゆき",
+      "count": 5
+    },
+    {
+      "name": "坂本真綾",
+      "count": 4
+    },
+    {
+      "name": "Production.IG",
+      "count": 4
+    },
+    {
+      "name": "卖萌",
+      "count": 4
+    },
+    {
+      "name": "STUDIOPUYUKAI",
+      "count": 3
+    },
+    {
+      "name": "攻壳机动队",
+      "count": 3
+    },
+    {
+      "name": "ProductionI.G",
+      "count": 3
+    },
+    {
+      "name": "芦名稔",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "2014年",
+      "count": 2
+    },
+    {
+      "name": "メディクリエ",
+      "count": 1
+    },
+    {
+      "name": "2014年一月番",
+      "count": 1
+    },
+    {
+      "name": "芦名みのる",
+      "count": 1
+    },
+    {
+      "name": "1分",
+      "count": 1
+    },
+    {
+      "name": "Medicrie.Co.Ltd",
+      "count": 1
+    },
+    {
+      "name": "ミニ番組",
+      "count": 1
+    },
+    {
+      "name": "ぷYUKAI",
+      "count": 1
+    },
+    {
+      "name": "Medicrie",
+      "count": 1
+    },
+    {
+      "name": "STUDIO_PUYUKAI",
+      "count": 1
+    },
+    {
+      "name": "『TVA』",
+      "count": 1
+    },
+    {
+      "name": "スタジオぷYUKAI",
+      "count": 1
+    },
+    {
+      "name": "アニメ",
+      "count": 1
+    },
+    {
+      "name": "短篇",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "SF",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

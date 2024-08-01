@@ -1,0 +1,153 @@
+{
+  "id": 11180,
+  "name": "プリティーリズム・オーロラドリーム",
+  "name_cn": "美妙旋律 极光之梦",
+  "summary": "故事主角之一春音艾菈（另译春音爱良）为了成为一个在Prism Show（一种结合歌舞﹑花式溜冰和绫镜跳跃的新型竞技运动）舞台上表现得光鲜亮丽的“Prism Star（绫镜舞者，即在Prism Show表演的舞者）”，便与她身边的两位主角之一天宫律舞（另译天宫律舞）、高峰美音一同迈向成为演艺圈明日之星的路程。",
+  "date": "2011-04-09",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/09/db/11180_RbXAv.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/09/db/11180_RbXAv.jpg"
+  },
+  "eps": 51,
+  "rating": {
+    "rank": 2919,
+    "total": 185,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 5,
+      "4": 6,
+      "5": 23,
+      "6": 36,
+      "7": 57,
+      "8": 29,
+      "9": 15,
+      "10": 13
+    },
+    "score": 6.8
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 48
+    },
+    {
+      "name": "偶像",
+      "count": 41
+    },
+    {
+      "name": "美妙旋律",
+      "count": 38
+    },
+    {
+      "name": "少女向",
+      "count": 36
+    },
+    {
+      "name": "2011年4月",
+      "count": 35
+    },
+    {
+      "name": "龙之子",
+      "count": 29
+    },
+    {
+      "name": "2011",
+      "count": 24
+    },
+    {
+      "name": "3D",
+      "count": 21
+    },
+    {
+      "name": "原创",
+      "count": 18
+    },
+    {
+      "name": "年番",
+      "count": 15
+    },
+    {
+      "name": "星光少女",
+      "count": 14
+    },
+    {
+      "name": "幼女向",
+      "count": 12
+    },
+    {
+      "name": "龙之子工作室",
+      "count": 10
+    },
+    {
+      "name": "LISP",
+      "count": 9
+    },
+    {
+      "name": "恋爱",
+      "count": 6
+    },
+    {
+      "name": "菱田正和",
+      "count": 6
+    },
+    {
+      "name": "童年",
+      "count": 5
+    },
+    {
+      "name": "タツノコプロ",
+      "count": 4
+    },
+    {
+      "name": "子供向",
+      "count": 4
+    },
+    {
+      "name": "游戏推广",
+      "count": 3
+    },
+    {
+      "name": "龙之子Production",
+      "count": 3
+    },
+    {
+      "name": "2011年",
+      "count": 3
+    },
+    {
+      "name": "三重野瞳",
+      "count": 3
+    },
+    {
+      "name": "时尚",
+      "count": 3
+    },
+    {
+      "name": "阿澄佳奈",
+      "count": 3
+    },
+    {
+      "name": "音乐",
+      "count": 2
+    },
+    {
+      "name": "美妙系列",
+      "count": 2
+    },
+    {
+      "name": "女性向",
+      "count": 2
+    },
+    {
+      "name": "近藤隆",
+      "count": 2
+    },
+    {
+      "name": "大友",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

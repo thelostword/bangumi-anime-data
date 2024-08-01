@@ -1,0 +1,137 @@
+{
+  "id": 398151,
+  "name": "羅小黒戦記 ぼくが選ぶ未来",
+  "name_cn": "罗小黑战记 我选择的未来",
+  "summary": "「羅小黒戦記 ぼくが選ぶ未来」はTV放送版アニメとして10月7日より地上波放送決定！\r\n劇場版をディレクターズカット版として全5話にて分割放送！\r\nさらに新規描きおろしも追加予定！エンディング曲は劇場版主題歌のLMYK「Unity」がTVサイズで使用される。",
+  "date": "2022-10-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/4b/17/398151_R9EDb.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/4b/17/398151_R9EDb.jpg"
+  },
+  "eps": 5,
+  "rating": {
+    "rank": 5052,
+    "total": 63,
+    "count": {
+      "1": 10,
+      "2": 2,
+      "3": 0,
+      "4": 2,
+      "5": 3,
+      "6": 10,
+      "7": 16,
+      "8": 13,
+      "9": 5,
+      "10": 2
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "国产",
+      "count": 31
+    },
+    {
+      "name": "罗小黑",
+      "count": 22
+    },
+    {
+      "name": "TV",
+      "count": 12
+    },
+    {
+      "name": "2022",
+      "count": 11
+    },
+    {
+      "name": "罗小黑战记",
+      "count": 11
+    },
+    {
+      "name": "奇幻",
+      "count": 10
+    },
+    {
+      "name": "治愈",
+      "count": 9
+    },
+    {
+      "name": "中国",
+      "count": 7
+    },
+    {
+      "name": "2022年10月",
+      "count": 6
+    },
+    {
+      "name": "战斗",
+      "count": 5
+    },
+    {
+      "name": "原创",
+      "count": 5
+    },
+    {
+      "name": "剧场版",
+      "count": 3
+    },
+    {
+      "name": "动画史上绝无仅有的神作",
+      "count": 3
+    },
+    {
+      "name": "寒木春华",
+      "count": 3
+    },
+    {
+      "name": "霸权",
+      "count": 3
+    },
+    {
+      "name": "萌",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 2
+    },
+    {
+      "name": "汉奸",
+      "count": 1
+    },
+    {
+      "name": "国产动画",
+      "count": 1
+    },
+    {
+      "name": "励志",
+      "count": 1
+    },
+    {
+      "name": "神作",
+      "count": 1
+    },
+    {
+      "name": "动物",
+      "count": 1
+    },
+    {
+      "name": "待补",
+      "count": 1
+    },
+    {
+      "name": "国漫",
+      "count": 1
+    },
+    {
+      "name": "动画电影",
+      "count": 1
+    },
+    {
+      "name": "MTJJ",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

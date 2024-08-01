@@ -1,0 +1,153 @@
+{
+  "id": 4294,
+  "name": "SDガンダム三国伝 Brave Battle Warriors",
+  "name_cn": "SD高达三国传",
+  "summary": "故事舞台发生于“三缡纱”，刘备、曹操、孙权高达，分别统领“翔”、“机驾”、“轰”三国，联手讨伐杀害灵帝钢弹的主谋－董卓。",
+  "date": "2010-04-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/11/d8/4294_SzKBj.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/11/d8/4294_SzKBj.jpg"
+  },
+  "eps": 51,
+  "rating": {
+    "rank": 6706,
+    "total": 310,
+    "count": {
+      "1": 2,
+      "2": 3,
+      "3": 8,
+      "4": 19,
+      "5": 50,
+      "6": 141,
+      "7": 65,
+      "8": 17,
+      "9": 3,
+      "10": 2
+    },
+    "score": 5.9
+  },
+  "tags": [
+    {
+      "name": "SUNRISE",
+      "count": 77
+    },
+    {
+      "name": "模型广告",
+      "count": 57
+    },
+    {
+      "name": "高达",
+      "count": 55
+    },
+    {
+      "name": "2010",
+      "count": 45
+    },
+    {
+      "name": "TV",
+      "count": 45
+    },
+    {
+      "name": "GUNDAM",
+      "count": 39
+    },
+    {
+      "name": "原创",
+      "count": 31
+    },
+    {
+      "name": "SD",
+      "count": 28
+    },
+    {
+      "name": "童年",
+      "count": 26
+    },
+    {
+      "name": "迷の感动",
+      "count": 22
+    },
+    {
+      "name": "低龄动画",
+      "count": 21
+    },
+    {
+      "name": "2010年4月",
+      "count": 17
+    },
+    {
+      "name": "萝卜",
+      "count": 15
+    },
+    {
+      "name": "机战",
+      "count": 9
+    },
+    {
+      "name": "anime",
+      "count": 6
+    },
+    {
+      "name": "子供向",
+      "count": 4
+    },
+    {
+      "name": "森邦宏",
+      "count": 3
+    },
+    {
+      "name": "历史",
+      "count": 3
+    },
+    {
+      "name": "鈴木健一",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 3
+    },
+    {
+      "name": "三国",
+      "count": 3
+    },
+    {
+      "name": "尚香泥够",
+      "count": 2
+    },
+    {
+      "name": "ガンダム",
+      "count": 2
+    },
+    {
+      "name": "浦畑達彦",
+      "count": 2
+    },
+    {
+      "name": "战争",
+      "count": 2
+    },
+    {
+      "name": "钢弹",
+      "count": 2
+    },
+    {
+      "name": "サンライズ",
+      "count": 2
+    },
+    {
+      "name": "3分",
+      "count": 1
+    },
+    {
+      "name": "⊘日本",
+      "count": 1
+    },
+    {
+      "name": "☐",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

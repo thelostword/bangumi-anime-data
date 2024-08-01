@@ -1,0 +1,153 @@
+{
+  "id": 100857,
+  "name": "未確認で進行形 「鴨肉って緑っぽい味がするのね」",
+  "name_cn": "未确认进行式 OAD",
+  "summary": "漫画单行本第5卷同捆OAD",
+  "date": "2014-03-28",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c2/5c/100857_Ym5zR.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c2/5c/100857_Ym5zR.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 4160,
+    "total": 694,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 4,
+      "4": 7,
+      "5": 59,
+      "6": 220,
+      "7": 307,
+      "8": 80,
+      "9": 6,
+      "10": 10
+    },
+    "score": 6.6
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 175
+    },
+    {
+      "name": "OAD",
+      "count": 144
+    },
+    {
+      "name": "动画工房",
+      "count": 131
+    },
+    {
+      "name": "2014",
+      "count": 101
+    },
+    {
+      "name": "漫画改",
+      "count": 85
+    },
+    {
+      "name": "搞笑",
+      "count": 72
+    },
+    {
+      "name": "未确认进行式",
+      "count": 69
+    },
+    {
+      "name": "動画工房",
+      "count": 68
+    },
+    {
+      "name": "恋爱",
+      "count": 65
+    },
+    {
+      "name": "2014年3月",
+      "count": 47
+    },
+    {
+      "name": "日常",
+      "count": 37
+    },
+    {
+      "name": "漫改",
+      "count": 36
+    },
+    {
+      "name": "藤原佳幸",
+      "count": 13
+    },
+    {
+      "name": "未確認で進行形",
+      "count": 9
+    },
+    {
+      "name": "2014年",
+      "count": 7
+    },
+    {
+      "name": "志茂文彦",
+      "count": 7
+    },
+    {
+      "name": "治愈",
+      "count": 7
+    },
+    {
+      "name": "百合",
+      "count": 4
+    },
+    {
+      "name": "一迅社",
+      "count": 3
+    },
+    {
+      "name": "市川淳",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 3
+    },
+    {
+      "name": "校园",
+      "count": 3
+    },
+    {
+      "name": "萝莉",
+      "count": 3
+    },
+    {
+      "name": "3月",
+      "count": 3
+    },
+    {
+      "name": "OVA&OAD",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 2
+    },
+    {
+      "name": "萌",
+      "count": 2
+    },
+    {
+      "name": "菊池愛",
+      "count": 2
+    },
+    {
+      "name": "undefined",
+      "count": 2
+    },
+    {
+      "name": "OVA·OAD",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

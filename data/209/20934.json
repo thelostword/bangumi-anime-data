@@ -1,0 +1,141 @@
+{
+  "id": 20934,
+  "name": "サクラ大戦 ニューヨーク・紐育",
+  "name_cn": "樱花大战 纽约",
+  "summary": "第1话　ミー＆マイガール\r\n第2话　X…and The City\r\n第3话　星の辉く夜に\r\n第4话　マザー、アイウォントゥシング！\r\n第5话　禁断の楽园\r\n第6话　纽育（ここ）より永远（とわ）に",
+  "date": "2007-04-04",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/4c/73/20934_W9ref.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/4c/73/20934_W9ref.jpg"
+  },
+  "eps": 6,
+  "rating": {
+    "rank": 7111,
+    "total": 65,
+    "count": {
+      "1": 1,
+      "2": 2,
+      "3": 9,
+      "4": 11,
+      "5": 16,
+      "6": 13,
+      "7": 9,
+      "8": 1,
+      "9": 2,
+      "10": 1
+    },
+    "score": 5.1
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 31
+    },
+    {
+      "name": "2007",
+      "count": 23
+    },
+    {
+      "name": "游戏改",
+      "count": 15
+    },
+    {
+      "name": "AIC",
+      "count": 14
+    },
+    {
+      "name": "樱花大战",
+      "count": 10
+    },
+    {
+      "name": "机战",
+      "count": 9
+    },
+    {
+      "name": "田中公平",
+      "count": 6
+    },
+    {
+      "name": "广井王子",
+      "count": 5
+    },
+    {
+      "name": "木村隆一",
+      "count": 4
+    },
+    {
+      "name": "动画",
+      "count": 3
+    },
+    {
+      "name": "萝卜",
+      "count": 3
+    },
+    {
+      "name": "藤島康介",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "陶山章央",
+      "count": 1
+    },
+    {
+      "name": "サクラ大戦",
+      "count": 1
+    },
+    {
+      "name": "赤堀悟",
+      "count": 1
+    },
+    {
+      "name": "robo",
+      "count": 1
+    },
+    {
+      "name": "OVA-01",
+      "count": 1
+    },
+    {
+      "name": "喵帕斯没看~",
+      "count": 1
+    },
+    {
+      "name": "2007年",
+      "count": 1
+    },
+    {
+      "name": "科幻",
+      "count": 1
+    },
+    {
+      "name": "打斗",
+      "count": 1
+    },
+    {
+      "name": "あかほりさとる",
+      "count": 1
+    },
+    {
+      "name": "补番",
+      "count": 1
+    },
+    {
+      "name": "横山智佐",
+      "count": 1
+    },
+    {
+      "name": "其他",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,153 @@
+{
+  "id": 112905,
+  "name": "SHOW BY ROCK!!",
+  "name_cn": "SHOW BY ROCK!!",
+  "summary": "电视动画《Show By Rock!!》改编自日本VeinCarryJapan所推出的同名手机游戏。《SHOW BY ROCK!!》故事背景是在音乐都市MIDICITY中，喜爱哥德萝莉风格的猫女Cyan（シアン），邂逅了优等生兔子Chuchu（チュチュ）、宇宙来的鼓手Moa（モア）和外表冷漠内心害羞的Retoree(レトリー)。在MIDICITY中以成为音乐的富翁为目标前进。 ",
+  "date": "2015-04-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/32/3e/112905_Zs9sH.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/32/3e/112905_Zs9sH.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 3688,
+    "total": 886,
+    "count": {
+      "1": 4,
+      "2": 0,
+      "3": 2,
+      "4": 21,
+      "5": 70,
+      "6": 235,
+      "7": 375,
+      "8": 149,
+      "9": 21,
+      "10": 9
+    },
+    "score": 6.7
+  },
+  "tags": [
+    {
+      "name": "BONES",
+      "count": 295
+    },
+    {
+      "name": "游戏改",
+      "count": 245
+    },
+    {
+      "name": "2015年4月",
+      "count": 218
+    },
+    {
+      "name": "音乐",
+      "count": 185
+    },
+    {
+      "name": "TV",
+      "count": 150
+    },
+    {
+      "name": "百合",
+      "count": 99
+    },
+    {
+      "name": "2015",
+      "count": 92
+    },
+    {
+      "name": "3D",
+      "count": 66
+    },
+    {
+      "name": "萌",
+      "count": 46
+    },
+    {
+      "name": "池添隆博",
+      "count": 45
+    },
+    {
+      "name": "偶像",
+      "count": 36
+    },
+    {
+      "name": "内山昂輝",
+      "count": 23
+    },
+    {
+      "name": "待田堂子",
+      "count": 21
+    },
+    {
+      "name": "逢坂良太",
+      "count": 19
+    },
+    {
+      "name": "游戏改编",
+      "count": 13
+    },
+    {
+      "name": "SHOW",
+      "count": 9
+    },
+    {
+      "name": "佐倉綾音",
+      "count": 7
+    },
+    {
+      "name": "by",
+      "count": 7
+    },
+    {
+      "name": "2015年",
+      "count": 7
+    },
+    {
+      "name": "上坂すみれ",
+      "count": 6
+    },
+    {
+      "name": "高梨康治",
+      "count": 6
+    },
+    {
+      "name": "佐仓绫音",
+      "count": 5
+    },
+    {
+      "name": "轻百合",
+      "count": 5
+    },
+    {
+      "name": "乐队",
+      "count": 5
+    },
+    {
+      "name": "内山昂辉",
+      "count": 5
+    },
+    {
+      "name": "村瀬歩",
+      "count": 5
+    },
+    {
+      "name": "稲川英里",
+      "count": 4
+    },
+    {
+      "name": "搞笑",
+      "count": 4
+    },
+    {
+      "name": "兽耳",
+      "count": 4
+    },
+    {
+      "name": "宫野真守",
+      "count": 4
+    }
+  ],
+  "locked": false
+}

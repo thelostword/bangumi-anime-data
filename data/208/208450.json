@@ -1,0 +1,153 @@
+{
+  "id": 208450,
+  "name": "アホガール",
+  "name_cn": "笨女孩",
+  "summary": "空前绝后的笨蛋，就在这里！ 笨到无可救药的女高中生·花畑佳子。 非常喜欢香蕉。 非常喜欢青梅竹马的阿君。 以上！",
+  "date": "2017-07-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/bf/83/208450_0l5MJ.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/bf/83/208450_0l5MJ.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 4701,
+    "total": 7184,
+    "count": {
+      "1": 31,
+      "2": 28,
+      "3": 50,
+      "4": 191,
+      "5": 693,
+      "6": 2124,
+      "7": 2933,
+      "8": 913,
+      "9": 122,
+      "10": 99
+    },
+    "score": 6.6
+  },
+  "tags": [
+    {
+      "name": "搞笑",
+      "count": 2155
+    },
+    {
+      "name": "2017年7月",
+      "count": 1104
+    },
+    {
+      "name": "漫画改",
+      "count": 1075
+    },
+    {
+      "name": "泡面番",
+      "count": 906
+    },
+    {
+      "name": "TV",
+      "count": 774
+    },
+    {
+      "name": "悠木碧",
+      "count": 696
+    },
+    {
+      "name": "校园",
+      "count": 624
+    },
+    {
+      "name": "Diomedéa",
+      "count": 602
+    },
+    {
+      "name": "日常",
+      "count": 512
+    },
+    {
+      "name": "2017",
+      "count": 487
+    },
+    {
+      "name": "笨女孩",
+      "count": 439
+    },
+    {
+      "name": "漫改",
+      "count": 355
+    },
+    {
+      "name": "欢乐",
+      "count": 294
+    },
+    {
+      "name": "杉田智和",
+      "count": 243
+    },
+    {
+      "name": "玉木慎吾",
+      "count": 95
+    },
+    {
+      "name": "Diomedea",
+      "count": 44
+    },
+    {
+      "name": "沙雕",
+      "count": 25
+    },
+    {
+      "name": "ヒロユキ",
+      "count": 24
+    },
+    {
+      "name": "恋爱",
+      "count": 22
+    },
+    {
+      "name": "后宫",
+      "count": 19
+    },
+    {
+      "name": "泡面",
+      "count": 17
+    },
+    {
+      "name": "智障",
+      "count": 17
+    },
+    {
+      "name": "喜剧",
+      "count": 16
+    },
+    {
+      "name": "2017年",
+      "count": 16
+    },
+    {
+      "name": "日本",
+      "count": 13
+    },
+    {
+      "name": "上坂堇",
+      "count": 11
+    },
+    {
+      "name": "あおしまたかし",
+      "count": 9
+    },
+    {
+      "name": "日本动画",
+      "count": 9
+    },
+    {
+      "name": "7月",
+      "count": 8
+    },
+    {
+      "name": "原田彩枫",
+      "count": 7
+    }
+  ],
+  "locked": false
+}

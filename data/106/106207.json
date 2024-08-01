@@ -1,0 +1,153 @@
+{
+  "id": 106207,
+  "name": "蟲師 続章 第2クール",
+  "name_cn": "虫师 续章 第2期",
+  "summary": "",
+  "date": "2014-10-18",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/9c/c7/106207_z8288.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/9c/c7/106207_z8288.jpg"
+  },
+  "eps": 10,
+  "rating": {
+    "rank": 36,
+    "total": 3458,
+    "count": {
+      "1": 6,
+      "2": 2,
+      "3": 5,
+      "4": 4,
+      "5": 15,
+      "6": 73,
+      "7": 318,
+      "8": 1082,
+      "9": 1323,
+      "10": 630
+    },
+    "score": 8.6
+  },
+  "tags": [
+    {
+      "name": "治愈",
+      "count": 801
+    },
+    {
+      "name": "蟲師",
+      "count": 626
+    },
+    {
+      "name": "2014年10月",
+      "count": 468
+    },
+    {
+      "name": "TV",
+      "count": 432
+    },
+    {
+      "name": "漫画改",
+      "count": 358
+    },
+    {
+      "name": "漆原友紀",
+      "count": 330
+    },
+    {
+      "name": "奇幻",
+      "count": 311
+    },
+    {
+      "name": "ArtLand",
+      "count": 298
+    },
+    {
+      "name": "2014",
+      "count": 269
+    },
+    {
+      "name": "虫师",
+      "count": 218
+    },
+    {
+      "name": "増田俊郎",
+      "count": 169
+    },
+    {
+      "name": "漫改",
+      "count": 125
+    },
+    {
+      "name": "长滨博史",
+      "count": 107
+    },
+    {
+      "name": "長濱博史",
+      "count": 67
+    },
+    {
+      "name": "马越嘉彦",
+      "count": 35
+    },
+    {
+      "name": "神作",
+      "count": 22
+    },
+    {
+      "name": "人生",
+      "count": 22
+    },
+    {
+      "name": "空灵",
+      "count": 18
+    },
+    {
+      "name": "2014年",
+      "count": 16
+    },
+    {
+      "name": "治愈系",
+      "count": 16
+    },
+    {
+      "name": "公路片",
+      "count": 12
+    },
+    {
+      "name": "神音乐",
+      "count": 12
+    },
+    {
+      "name": "日本",
+      "count": 10
+    },
+    {
+      "name": "内涵系",
+      "count": 10
+    },
+    {
+      "name": "長濵博史",
+      "count": 10
+    },
+    {
+      "name": "续作",
+      "count": 10
+    },
+    {
+      "name": "内涵",
+      "count": 8
+    },
+    {
+      "name": "银古",
+      "count": 7
+    },
+    {
+      "name": "神配乐",
+      "count": 7
+    },
+    {
+      "name": "水墨",
+      "count": 6
+    }
+  ],
+  "locked": false
+}

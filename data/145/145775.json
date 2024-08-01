@@ -1,0 +1,153 @@
+{
+  "id": 145775,
+  "name": "ミス・モノクローム -The Animation- 3",
+  "name_cn": "黑白小姐 第三季",
+  "summary": "",
+  "date": "2015-10-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/76/a4/145775_57i01.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/76/a4/145775_57i01.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 5703,
+    "total": 561,
+    "count": {
+      "1": 0,
+      "2": 1,
+      "3": 4,
+      "4": 11,
+      "5": 79,
+      "6": 251,
+      "7": 157,
+      "8": 52,
+      "9": 3,
+      "10": 3
+    },
+    "score": 6.3
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 194
+    },
+    {
+      "name": "2015年10月",
+      "count": 123
+    },
+    {
+      "name": "黑白小姐",
+      "count": 91
+    },
+    {
+      "name": "原创",
+      "count": 81
+    },
+    {
+      "name": "堀江由衣",
+      "count": 80
+    },
+    {
+      "name": "偶像",
+      "count": 60
+    },
+    {
+      "name": "TV",
+      "count": 58
+    },
+    {
+      "name": "搞笑",
+      "count": 44
+    },
+    {
+      "name": "LIDENFILMS",
+      "count": 43
+    },
+    {
+      "name": "2015",
+      "count": 41
+    },
+    {
+      "name": "泡面",
+      "count": 27
+    },
+    {
+      "name": "第三季",
+      "count": 22
+    },
+    {
+      "name": "岩崎良明",
+      "count": 15
+    },
+    {
+      "name": "三次元",
+      "count": 10
+    },
+    {
+      "name": "SANZIGEN",
+      "count": 8
+    },
+    {
+      "name": "2015年",
+      "count": 3
+    },
+    {
+      "name": "藤原启治",
+      "count": 3
+    },
+    {
+      "name": "阿澄佳奈",
+      "count": 3
+    },
+    {
+      "name": "日常",
+      "count": 3
+    },
+    {
+      "name": "サンジゲン",
+      "count": 3
+    },
+    {
+      "name": "欢乐",
+      "count": 2
+    },
+    {
+      "name": "井上喜久子",
+      "count": 2
+    },
+    {
+      "name": "机器人",
+      "count": 2
+    },
+    {
+      "name": "喜剧",
+      "count": 2
+    },
+    {
+      "name": "神谷浩史",
+      "count": 2
+    },
+    {
+      "name": "季番",
+      "count": 2
+    },
+    {
+      "name": "萌",
+      "count": 2
+    },
+    {
+      "name": "201510",
+      "count": 1
+    },
+    {
+      "name": "『TVA』",
+      "count": 1
+    },
+    {
+      "name": "2015年十月番",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

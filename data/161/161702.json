@@ -1,0 +1,89 @@
+{
+  "id": 161702,
+  "name": "まじめにふまじめ かいけつゾロリ",
+  "name_cn": "",
+  "summary": "",
+  "date": "2005-02-13",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/21/4a/161702_nhNXL.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/21/4a/161702_nhNXL.jpg"
+  },
+  "eps": 97,
+  "rating": {
+    "rank": 0,
+    "total": 4,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 0,
+      "6": 3,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.5
+  },
+  "tags": [
+    {
+      "name": "2005",
+      "count": 4
+    },
+    {
+      "name": "SUNRISE",
+      "count": 4
+    },
+    {
+      "name": "加瀬充子",
+      "count": 4
+    },
+    {
+      "name": "亀垣一",
+      "count": 3
+    },
+    {
+      "name": "芝山努",
+      "count": 2
+    },
+    {
+      "name": "亚细亚堂",
+      "count": 1
+    },
+    {
+      "name": "まさきひろ",
+      "count": 1
+    },
+    {
+      "name": "もりたけし",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "TV",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "サンライズ",
+      "count": 1
+    },
+    {
+      "name": "田中公平",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

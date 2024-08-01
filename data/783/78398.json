@@ -1,0 +1,153 @@
+{
+  "id": 78398,
+  "name": "殺し屋さん",
+  "name_cn": "限制级杀手",
+  "summary": "",
+  "date": "2013-10-10",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/11/ce/78398_wL38P.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/11/ce/78398_wL38P.jpg"
+  },
+  "eps": 10,
+  "rating": {
+    "rank": 4205,
+    "total": 921,
+    "count": {
+      "1": 2,
+      "2": 2,
+      "3": 9,
+      "4": 25,
+      "5": 81,
+      "6": 273,
+      "7": 333,
+      "8": 164,
+      "9": 29,
+      "10": 3
+    },
+    "score": 6.6
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 363
+    },
+    {
+      "name": "2013年10月",
+      "count": 188
+    },
+    {
+      "name": "搞笑",
+      "count": 143
+    },
+    {
+      "name": "漫画改",
+      "count": 118
+    },
+    {
+      "name": "樱井孝宏",
+      "count": 112
+    },
+    {
+      "name": "TV",
+      "count": 84
+    },
+    {
+      "name": "2013",
+      "count": 61
+    },
+    {
+      "name": "限制级杀手",
+      "count": 56
+    },
+    {
+      "name": "櫻井孝宏",
+      "count": 39
+    },
+    {
+      "name": "OperaHouse",
+      "count": 37
+    },
+    {
+      "name": "基",
+      "count": 28
+    },
+    {
+      "name": "考哥",
+      "count": 25
+    },
+    {
+      "name": "漫改",
+      "count": 18
+    },
+    {
+      "name": "泡面",
+      "count": 17
+    },
+    {
+      "name": "藤田咲",
+      "count": 12
+    },
+    {
+      "name": "2013年",
+      "count": 7
+    },
+    {
+      "name": "杀手",
+      "count": 7
+    },
+    {
+      "name": "オペラハウス",
+      "count": 6
+    },
+    {
+      "name": "池ヶ谷愛",
+      "count": 6
+    },
+    {
+      "name": "池池谷爱",
+      "count": 5
+    },
+    {
+      "name": "大川透",
+      "count": 4
+    },
+    {
+      "name": "藤原啓治",
+      "count": 4
+    },
+    {
+      "name": "藤原启治",
+      "count": 4
+    },
+    {
+      "name": "动画",
+      "count": 4
+    },
+    {
+      "name": "耽美",
+      "count": 4
+    },
+    {
+      "name": "腐",
+      "count": 4
+    },
+    {
+      "name": "暧昧",
+      "count": 3
+    },
+    {
+      "name": "池ヶ谷",
+      "count": 2
+    },
+    {
+      "name": "BL",
+      "count": 2
+    },
+    {
+      "name": "殺し屋さん",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

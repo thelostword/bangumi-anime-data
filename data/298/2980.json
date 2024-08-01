@@ -1,0 +1,117 @@
+{
+  "id": 2980,
+  "name": "パンダーゼット THE ROBONIMATION",
+  "name_cn": "熊猫万能侠",
+  "summary": "熊猫万能侠，是日本发售的パンダーゼット（Panda-Z）系列玩具中的代表作品。对应的动画作品，是对日本机器人动画片元祖《铁甲万能侠》的恶搞。 ",
+  "date": "2004-04-12",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/aa/6b/2980_Myy7g.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/aa/6b/2980_Myy7g.jpg"
+  },
+  "eps": 30,
+  "rating": {
+    "rank": 0,
+    "total": 14,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 1,
+      "5": 1,
+      "6": 6,
+      "7": 5,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.9
+  },
+  "tags": [
+    {
+      "name": "熊猫",
+      "count": 8
+    },
+    {
+      "name": "panda-z",
+      "count": 6
+    },
+    {
+      "name": "2004",
+      "count": 6
+    },
+    {
+      "name": "熊猫万能侠",
+      "count": 5
+    },
+    {
+      "name": "泡面番",
+      "count": 5
+    },
+    {
+      "name": "神戸守",
+      "count": 3
+    },
+    {
+      "name": "TV",
+      "count": 2
+    },
+    {
+      "name": "BEE・MEDIA",
+      "count": 2
+    },
+    {
+      "name": "シナジージャパン",
+      "count": 1
+    },
+    {
+      "name": "补旧番",
+      "count": 1
+    },
+    {
+      "name": "竟然有动画",
+      "count": 1
+    },
+    {
+      "name": "robo",
+      "count": 1
+    },
+    {
+      "name": "BeeMedia",
+      "count": 1
+    },
+    {
+      "name": "神户守",
+      "count": 1
+    },
+    {
+      "name": "可爱",
+      "count": 1
+    },
+    {
+      "name": "原创",
+      "count": 1
+    },
+    {
+      "name": "特摄",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "童年",
+      "count": 1
+    },
+    {
+      "name": "SynergySP",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

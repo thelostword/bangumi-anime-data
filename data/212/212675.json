@@ -1,0 +1,153 @@
+{
+  "id": 212675,
+  "name": "てーきゅう 9期",
+  "name_cn": "网球并不可笑嘛 9期",
+  "summary": "",
+  "date": "2017-07-12",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/12/12/212675_hz6BV.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/12/12/212675_hz6BV.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 2682,
+    "total": 459,
+    "count": {
+      "1": 1,
+      "2": 1,
+      "3": 0,
+      "4": 2,
+      "5": 19,
+      "6": 107,
+      "7": 217,
+      "8": 96,
+      "9": 9,
+      "10": 7
+    },
+    "score": 6.9
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 171
+    },
+    {
+      "name": "搞笑",
+      "count": 104
+    },
+    {
+      "name": "2017年7月",
+      "count": 81
+    },
+    {
+      "name": "漫画改",
+      "count": 64
+    },
+    {
+      "name": "TV",
+      "count": 64
+    },
+    {
+      "name": "2017",
+      "count": 54
+    },
+    {
+      "name": "百合",
+      "count": 48
+    },
+    {
+      "name": "millepensee",
+      "count": 44
+    },
+    {
+      "name": "漫改",
+      "count": 22
+    },
+    {
+      "name": "花澤香菜",
+      "count": 22
+    },
+    {
+      "name": "泡面",
+      "count": 18
+    },
+    {
+      "name": "网球少女",
+      "count": 14
+    },
+    {
+      "name": "板垣伸",
+      "count": 14
+    },
+    {
+      "name": "日常",
+      "count": 11
+    },
+    {
+      "name": "三森すずこ",
+      "count": 10
+    },
+    {
+      "name": "ミルパンセ",
+      "count": 10
+    },
+    {
+      "name": "吐槽",
+      "count": 6
+    },
+    {
+      "name": "神语速",
+      "count": 6
+    },
+    {
+      "name": "欢乐",
+      "count": 5
+    },
+    {
+      "name": "轻百合",
+      "count": 5
+    },
+    {
+      "name": "渡部優衣",
+      "count": 3
+    },
+    {
+      "name": "电波",
+      "count": 3
+    },
+    {
+      "name": "花泽香菜",
+      "count": 3
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "MAPPA",
+      "count": 2
+    },
+    {
+      "name": "2017年",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 2
+    },
+    {
+      "name": "Piyo",
+      "count": 2
+    },
+    {
+      "name": "无关网球",
+      "count": 2
+    },
+    {
+      "name": "网球并不可笑嘛",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

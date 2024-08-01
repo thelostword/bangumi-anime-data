@@ -1,0 +1,121 @@
+{
+  "id": 82321,
+  "name": "ナイン",
+  "name_cn": "最后的冠军",
+  "summary": "TV版第1作の劇場版，1983年9月16日に東宝系にて劇場公開。テレビ版で不備な点などを修正、変更している。また声優や主題歌、BGMも変更している。再放送で第2作、第3作と一緒に再放送されるときは、テレビ版ではなくこちらのほうが放送されることもある。",
+  "date": "1983-05-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/b4/30/82321_BwDHH.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/b4/30/82321_BwDHH.jpg"
+  },
+  "eps": 3,
+  "rating": {
+    "rank": 0,
+    "total": 15,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 1,
+      "5": 4,
+      "6": 2,
+      "7": 5,
+      "8": 1,
+      "9": 1,
+      "10": 0
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 4
+    },
+    {
+      "name": "独立ova",
+      "count": 3
+    },
+    {
+      "name": "棒球",
+      "count": 3
+    },
+    {
+      "name": "1983",
+      "count": 3
+    },
+    {
+      "name": "恋爱",
+      "count": 2
+    },
+    {
+      "name": "80s",
+      "count": 2
+    },
+    {
+      "name": "GroupTac",
+      "count": 1
+    },
+    {
+      "name": "TVSP",
+      "count": 1
+    },
+    {
+      "name": "石原真理子",
+      "count": 1
+    },
+    {
+      "name": "东宝、GroupTac",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "赛璐珞",
+      "count": 1
+    },
+    {
+      "name": "杉井ギサブロー",
+      "count": 1
+    },
+    {
+      "name": "古谷徹",
+      "count": 1
+    },
+    {
+      "name": "运动",
+      "count": 1
+    },
+    {
+      "name": "OVA",
+      "count": 1
+    },
+    {
+      "name": "青春",
+      "count": 1
+    },
+    {
+      "name": "安达充",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "坂本千夏",
+      "count": 1
+    },
+    {
+      "name": "校园",
+      "count": 1
+    },
+    {
+      "name": "グループ・タック",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

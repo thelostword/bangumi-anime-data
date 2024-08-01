@@ -1,0 +1,153 @@
+{
+  "id": 38072,
+  "name": "Di Gi Charat",
+  "name_cn": "Di Gi Charat",
+  "summary": "Di Gi Charat（又译滴骰孖妹（香港无线电视）、铃铛猫娘（香港译名）、叮当小魔女（台湾译名））是Broccoli为其角色精品店所做的角色企画，原作者是コゲどんぼ（小夏钝帆，Koge-Donbo）。由于其独特的造型，很快就成为了Broccoli的精品连锁店GAMERS的吉祥物，因大受欢迎亦被多次改编动画、电子游戏等。",
+  "date": "1999-11-30",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ad/f0/39301_yw20W.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ad/f0/39301_yw20W.jpg"
+  },
+  "eps": 16,
+  "rating": {
+    "rank": 4836,
+    "total": 152,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 3,
+      "4": 5,
+      "5": 21,
+      "6": 55,
+      "7": 47,
+      "8": 20,
+      "9": 0,
+      "10": 1
+    },
+    "score": 6.3
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 63
+    },
+    {
+      "name": "1999",
+      "count": 56
+    },
+    {
+      "name": "TV",
+      "count": 45
+    },
+    {
+      "name": "MADHouse",
+      "count": 42
+    },
+    {
+      "name": "搞笑",
+      "count": 30
+    },
+    {
+      "name": "治愈系",
+      "count": 19
+    },
+    {
+      "name": "超级铃铛猫",
+      "count": 17
+    },
+    {
+      "name": "原创",
+      "count": 14
+    },
+    {
+      "name": "TVB",
+      "count": 14
+    },
+    {
+      "name": "樱井弘明",
+      "count": 11
+    },
+    {
+      "name": "1999年11月",
+      "count": 7
+    },
+    {
+      "name": "桜井弘明",
+      "count": 7
+    },
+    {
+      "name": "1999年",
+      "count": 5
+    },
+    {
+      "name": "治愈",
+      "count": 5
+    },
+    {
+      "name": "萌",
+      "count": 5
+    },
+    {
+      "name": "日本动画",
+      "count": 4
+    },
+    {
+      "name": "补番",
+      "count": 2
+    },
+    {
+      "name": "[NBG]",
+      "count": 2
+    },
+    {
+      "name": "真田アサミ",
+      "count": 2
+    },
+    {
+      "name": "泡面",
+      "count": 2
+    },
+    {
+      "name": "沢城みゆき",
+      "count": 2
+    },
+    {
+      "name": "90s",
+      "count": 2
+    },
+    {
+      "name": "童年",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "95-99",
+      "count": 1
+    },
+    {
+      "name": "偶像／音乐",
+      "count": 1
+    },
+    {
+      "name": "シリーズ／Di_Gi_Charat",
+      "count": 1
+    },
+    {
+      "name": "氷上恭子",
+      "count": 1
+    },
+    {
+      "name": "1900s",
+      "count": 1
+    },
+    {
+      "name": "待補1",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

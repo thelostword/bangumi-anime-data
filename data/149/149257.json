@@ -1,0 +1,153 @@
+{
+  "id": 149257,
+  "name": "ばくおん!! OAD",
+  "name_cn": "爆音少女!! OAD",
+  "summary": "单行本第7卷、第9卷限定版同捆DVD",
+  "date": "2016-03-18",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/73/ff/149257_nTtN8.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/73/ff/149257_nTtN8.jpg"
+  },
+  "eps": 2,
+  "rating": {
+    "rank": 5854,
+    "total": 204,
+    "count": {
+      "1": 0,
+      "2": 3,
+      "3": 2,
+      "4": 13,
+      "5": 30,
+      "6": 85,
+      "7": 48,
+      "8": 18,
+      "9": 1,
+      "10": 4
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "OAD",
+      "count": 60
+    },
+    {
+      "name": "漫画改",
+      "count": 36
+    },
+    {
+      "name": "OVA",
+      "count": 29
+    },
+    {
+      "name": "百合",
+      "count": 27
+    },
+    {
+      "name": "2016年3月",
+      "count": 26
+    },
+    {
+      "name": "摩托",
+      "count": 24
+    },
+    {
+      "name": "2016",
+      "count": 23
+    },
+    {
+      "name": "西村纯二",
+      "count": 11
+    },
+    {
+      "name": "TMS",
+      "count": 11
+    },
+    {
+      "name": "漫改",
+      "count": 10
+    },
+    {
+      "name": "搞笑",
+      "count": 8
+    },
+    {
+      "name": "东山奈央",
+      "count": 8
+    },
+    {
+      "name": "轻松",
+      "count": 8
+    },
+    {
+      "name": "TMS-Entertainment",
+      "count": 5
+    },
+    {
+      "name": "2016年",
+      "count": 4
+    },
+    {
+      "name": "内山夕実",
+      "count": 4
+    },
+    {
+      "name": "上田麗奈",
+      "count": 4
+    },
+    {
+      "name": "TMSEntertainment",
+      "count": 4
+    },
+    {
+      "name": "東山奈央",
+      "count": 3
+    },
+    {
+      "name": "萌",
+      "count": 3
+    },
+    {
+      "name": "治愈",
+      "count": 3
+    },
+    {
+      "name": "トムス・エンタテインメント",
+      "count": 2
+    },
+    {
+      "name": "运动",
+      "count": 2
+    },
+    {
+      "name": "砂山蔵澄",
+      "count": 2
+    },
+    {
+      "name": "TMS_Entertainment",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "爆音少女",
+      "count": 2
+    },
+    {
+      "name": "番外",
+      "count": 2
+    },
+    {
+      "name": "西村純二",
+      "count": 2
+    },
+    {
+      "name": "2016年4月",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

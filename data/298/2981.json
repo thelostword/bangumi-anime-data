@@ -1,0 +1,153 @@
+{
+  "id": 2981,
+  "name": "勇者王ガオガイガーFINAL GRAND GLORIOUS GATHERING",
+  "name_cn": "勇者王GaoGaiGar Final Grand Glorious Gathering",
+  "summary": "本作品属于勇者王GaoGaiGar Final的电视播放版，基本内容和OVA版勇者王GaoGaiGar Final相同。但加入了新的勇者王片段。而另一方面，由于勇者王和动画Betterman属于同一个世界观，本篇也加入了相关的片段。\r\n本作品于2005年4月至6月在日本电视播放，其十二话。\r\n由于是电视播放版，一些杀必死画面和每集的长度被重新剪接。",
+  "date": "2005-04-11",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/9f/f0/2981_QGdCY.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/9f/f0/2981_QGdCY.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 347,
+    "total": 268,
+    "count": {
+      "1": 2,
+      "2": 0,
+      "3": 1,
+      "4": 3,
+      "5": 5,
+      "6": 14,
+      "7": 53,
+      "8": 98,
+      "9": 61,
+      "10": 31
+    },
+    "score": 8
+  },
+  "tags": [
+    {
+      "name": "SUNRISE",
+      "count": 72
+    },
+    {
+      "name": "勇者王",
+      "count": 70
+    },
+    {
+      "name": "燃",
+      "count": 57
+    },
+    {
+      "name": "萝卜",
+      "count": 56
+    },
+    {
+      "name": "TV",
+      "count": 56
+    },
+    {
+      "name": "2005",
+      "count": 44
+    },
+    {
+      "name": "熱血",
+      "count": 39
+    },
+    {
+      "name": "机战",
+      "count": 24
+    },
+    {
+      "name": "神作",
+      "count": 24
+    },
+    {
+      "name": "原创",
+      "count": 23
+    },
+    {
+      "name": "童年",
+      "count": 19
+    },
+    {
+      "name": "TVB",
+      "count": 16
+    },
+    {
+      "name": "老片",
+      "count": 6
+    },
+    {
+      "name": "热血",
+      "count": 5
+    },
+    {
+      "name": "沒看全",
+      "count": 5
+    },
+    {
+      "name": "2005年4月",
+      "count": 5
+    },
+    {
+      "name": "科幻",
+      "count": 4
+    },
+    {
+      "name": "动画",
+      "count": 3
+    },
+    {
+      "name": "田中公平",
+      "count": 3
+    },
+    {
+      "name": "五武冬史",
+      "count": 3
+    },
+    {
+      "name": "OVA",
+      "count": 3
+    },
+    {
+      "name": "木村贵宏",
+      "count": 2
+    },
+    {
+      "name": "サンライズ",
+      "count": 2
+    },
+    {
+      "name": "总集篇",
+      "count": 2
+    },
+    {
+      "name": "米谷良知",
+      "count": 2
+    },
+    {
+      "name": "2005年",
+      "count": 2
+    },
+    {
+      "name": "勇者シリーズ",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "2000s",
+      "count": 1
+    },
+    {
+      "name": "补登",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,153 @@
+{
+  "id": 750,
+  "name": "ARIA The OVA ～ARIETTA～",
+  "name_cn": "水星领航员 OVA ～ARIETTA～",
+  "summary": "梦见成为Prima的灯里，开始对自己早已熟悉了的日常风景开始感到困惑不安。即使梦醒之后这种不安仍然没有消除，灯里的脑子里慢慢出现了这样一个疑问：“为什么艾莉西亚会选择自己（进ARIA Company）呢？”为了解答灯里梦中的疑问，艾莉西亚开始讲述自己的过去。慢慢的，灯里入社、ARIA公司的过往历史被一页页翻开。从创建ARIA的全能领航员奶奶开始，ARIA公司代代传承的东西和思想到底是什么呢？",
+  "date": "2007-09-21",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/b1/37/750_Jk604.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/b1/37/750_Jk604.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 157,
+    "total": 1272,
+    "count": {
+      "1": 2,
+      "2": 2,
+      "3": 2,
+      "4": 4,
+      "5": 21,
+      "6": 56,
+      "7": 235,
+      "8": 478,
+      "9": 263,
+      "10": 209
+    },
+    "score": 8.2
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 438
+    },
+    {
+      "name": "水星领航员",
+      "count": 310
+    },
+    {
+      "name": "治愈",
+      "count": 263
+    },
+    {
+      "name": "ARIA",
+      "count": 202
+    },
+    {
+      "name": "2007",
+      "count": 200
+    },
+    {
+      "name": "治愈系",
+      "count": 152
+    },
+    {
+      "name": "HalFilmMaker",
+      "count": 135
+    },
+    {
+      "name": "治愈系神作",
+      "count": 101
+    },
+    {
+      "name": "漫画改",
+      "count": 99
+    },
+    {
+      "name": "佐藤顺一",
+      "count": 88
+    },
+    {
+      "name": "漫改",
+      "count": 50
+    },
+    {
+      "name": "2007年9月",
+      "count": 49
+    },
+    {
+      "name": "水星领航员OVA",
+      "count": 35
+    },
+    {
+      "name": "日常",
+      "count": 23
+    },
+    {
+      "name": "佐藤順一",
+      "count": 19
+    },
+    {
+      "name": "百合",
+      "count": 17
+    },
+    {
+      "name": "幻想",
+      "count": 11
+    },
+    {
+      "name": "科幻",
+      "count": 10
+    },
+    {
+      "name": "2007年",
+      "count": 9
+    },
+    {
+      "name": "动画",
+      "count": 9
+    },
+    {
+      "name": "日本",
+      "count": 9
+    },
+    {
+      "name": "催眠",
+      "count": 8
+    },
+    {
+      "name": "HAL_FILM_MAKER",
+      "count": 7
+    },
+    {
+      "name": "奇幻",
+      "count": 7
+    },
+    {
+      "name": "补番",
+      "count": 6
+    },
+    {
+      "name": "日本动画",
+      "count": 3
+    },
+    {
+      "name": "其他",
+      "count": 3
+    },
+    {
+      "name": "天野こずえ",
+      "count": 3
+    },
+    {
+      "name": "职场",
+      "count": 3
+    },
+    {
+      "name": "斎藤千和",
+      "count": 3
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,153 @@
+{
+  "id": 75989,
+  "name": "ラブライブ! 第2期",
+  "name_cn": "Love Live! 第二季",
+  "summary": "在秋叶原、神田和神保町这三条街上的传统学校，音乃木坂学园正面临着废校的大危机。面对学校的危机，以二年生高坂穗乃果为中心的九位女生站了出来。为了保护我们最喜欢的学校，我们能做的事情……。就是，成为偶像！通过成为学院偶像向外宣传学校，增加学生人数！从这里开始，她们实现梦想的故事开始了！",
+  "date": "2014-04-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/94/2a/75989_ylW5o.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/94/2a/75989_ylW5o.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 1619,
+    "total": 5871,
+    "count": {
+      "1": 21,
+      "2": 9,
+      "3": 20,
+      "4": 69,
+      "5": 228,
+      "6": 953,
+      "7": 2265,
+      "8": 1622,
+      "9": 399,
+      "10": 285
+    },
+    "score": 7.2
+  },
+  "tags": [
+    {
+      "name": "偶像",
+      "count": 1585
+    },
+    {
+      "name": "SUNRISE",
+      "count": 1071
+    },
+    {
+      "name": "校园",
+      "count": 893
+    },
+    {
+      "name": "2014年4月",
+      "count": 851
+    },
+    {
+      "name": "音乐",
+      "count": 779
+    },
+    {
+      "name": "LoveLive!",
+      "count": 755
+    },
+    {
+      "name": "原创",
+      "count": 666
+    },
+    {
+      "name": "百合",
+      "count": 654
+    },
+    {
+      "name": "TV",
+      "count": 605
+    },
+    {
+      "name": "LoveLive！",
+      "count": 432
+    },
+    {
+      "name": "2014",
+      "count": 384
+    },
+    {
+      "name": "花田十辉",
+      "count": 291
+    },
+    {
+      "name": "青春",
+      "count": 263
+    },
+    {
+      "name": "萌",
+      "count": 100
+    },
+    {
+      "name": "校園",
+      "count": 85
+    },
+    {
+      "name": "LoveLive",
+      "count": 46
+    },
+    {
+      "name": "京極尚彦",
+      "count": 43
+    },
+    {
+      "name": "京极尚彦",
+      "count": 34
+    },
+    {
+      "name": "续作",
+      "count": 27
+    },
+    {
+      "name": "花田十輝",
+      "count": 23
+    },
+    {
+      "name": "轻百合",
+      "count": 21
+    },
+    {
+      "name": "2014年",
+      "count": 18
+    },
+    {
+      "name": "日常",
+      "count": 18
+    },
+    {
+      "name": "励志",
+      "count": 16
+    },
+    {
+      "name": "治愈",
+      "count": 12
+    },
+    {
+      "name": "室田雄平",
+      "count": 10
+    },
+    {
+      "name": "三森すずこ",
+      "count": 9
+    },
+    {
+      "name": "TVA",
+      "count": 9
+    },
+    {
+      "name": "日升",
+      "count": 9
+    },
+    {
+      "name": "サンライズ",
+      "count": 8
+    }
+  ],
+  "locked": false
+}

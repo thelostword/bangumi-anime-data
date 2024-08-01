@@ -1,0 +1,153 @@
+{
+  "id": 138180,
+  "name": "RWBY Volume 3",
+  "name_cn": "红白黑黄 第三季",
+  "summary": "Rooster Teeth's award-winning animated web series RWBY is back at NYCC with RWBY: VOLUME 3 ! Join the cast and crew of RWBY, including Miles Luna, Kerry Shawcross, Gray Haddock, Lindsay Jones and Barbara Dunkelman, for an exclusive first look at scenes from the premiere episode of RWBY: VOLUME 3 ! Well also share exciting RWBY news, hilarious behind-the-scenes stories, take Q&A from the audience and more!",
+  "date": "2015-10-24",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/30/6c/138180_hpSyg.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/30/6c/138180_hpSyg.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 2471,
+    "total": 1168,
+    "count": {
+      "1": 6,
+      "2": 1,
+      "3": 4,
+      "4": 19,
+      "5": 51,
+      "6": 199,
+      "7": 547,
+      "8": 277,
+      "9": 37,
+      "10": 27
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "欧美",
+      "count": 264
+    },
+    {
+      "name": "RWBY",
+      "count": 246
+    },
+    {
+      "name": "战斗",
+      "count": 180
+    },
+    {
+      "name": "2015年10月",
+      "count": 155
+    },
+    {
+      "name": "原创",
+      "count": 153
+    },
+    {
+      "name": "TV",
+      "count": 115
+    },
+    {
+      "name": "百合",
+      "count": 95
+    },
+    {
+      "name": "2015",
+      "count": 92
+    },
+    {
+      "name": "美国",
+      "count": 68
+    },
+    {
+      "name": "WEB",
+      "count": 68
+    },
+    {
+      "name": "RoosterTeeth",
+      "count": 49
+    },
+    {
+      "name": "MontyOum",
+      "count": 42
+    },
+    {
+      "name": "3D",
+      "count": 38
+    },
+    {
+      "name": "Rooster_Teeth",
+      "count": 25
+    },
+    {
+      "name": "红白黑黄",
+      "count": 20
+    },
+    {
+      "name": "奇幻",
+      "count": 13
+    },
+    {
+      "name": "热血",
+      "count": 10
+    },
+    {
+      "name": "泡面番",
+      "count": 6
+    },
+    {
+      "name": "2015年",
+      "count": 6
+    },
+    {
+      "name": "Rooster.Teeth",
+      "count": 6
+    },
+    {
+      "name": "动作",
+      "count": 5
+    },
+    {
+      "name": "美国动画",
+      "count": 4
+    },
+    {
+      "name": "原创动画",
+      "count": 4
+    },
+    {
+      "name": "Monty_Oum",
+      "count": 4
+    },
+    {
+      "name": "续作",
+      "count": 4
+    },
+    {
+      "name": "致郁",
+      "count": 3
+    },
+    {
+      "name": "动画",
+      "count": 3
+    },
+    {
+      "name": "KerryShawcross",
+      "count": 3
+    },
+    {
+      "name": "独立动画",
+      "count": 3
+    },
+    {
+      "name": "校园",
+      "count": 3
+    }
+  ],
+  "locked": false
+}

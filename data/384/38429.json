@@ -1,0 +1,153 @@
+{
+  "id": 38429,
+  "name": "爆丸バトルブローラーズ",
+  "name_cn": "爆丸",
+  "summary": "某年某月某日，全球各地的小朋友都收到一套不可思议的卡牌。玩家能从牌中召唤出来自异世界的、叫爆丸的怪兽进行格斗。",
+  "date": "2007-04-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/a6/ef/38429_nZEdS.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/a6/ef/38429_nZEdS.jpg"
+  },
+  "eps": 52,
+  "rating": {
+    "rank": 4628,
+    "total": 71,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 3,
+      "5": 11,
+      "6": 36,
+      "7": 14,
+      "8": 5,
+      "9": 1,
+      "10": 1
+    },
+    "score": 6.2
+  },
+  "tags": [
+    {
+      "name": "童年",
+      "count": 23
+    },
+    {
+      "name": "TVB",
+      "count": 15
+    },
+    {
+      "name": "子供向",
+      "count": 12
+    },
+    {
+      "name": "2007",
+      "count": 12
+    },
+    {
+      "name": "热血",
+      "count": 11
+    },
+    {
+      "name": "TV",
+      "count": 8
+    },
+    {
+      "name": "爆丸",
+      "count": 8
+    },
+    {
+      "name": "原创",
+      "count": 7
+    },
+    {
+      "name": "玩具番",
+      "count": 7
+    },
+    {
+      "name": "2007年04月",
+      "count": 7
+    },
+    {
+      "name": "战斗",
+      "count": 5
+    },
+    {
+      "name": "DVD看过，盗版的",
+      "count": 3
+    },
+    {
+      "name": "トムス・エンタテインメント",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "橋本みつお",
+      "count": 1
+    },
+    {
+      "name": "以前",
+      "count": 1
+    },
+    {
+      "name": "2000-2009",
+      "count": 1
+    },
+    {
+      "name": "TMSEntertainment、JapanVistec",
+      "count": 1
+    },
+    {
+      "name": "☐",
+      "count": 1
+    },
+    {
+      "name": "⊘日本",
+      "count": 1
+    },
+    {
+      "name": "国产",
+      "count": 1
+    },
+    {
+      "name": "前川淳",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "小学",
+      "count": 1
+    },
+    {
+      "name": "鈴木千尋",
+      "count": 1
+    },
+    {
+      "name": "补番",
+      "count": 1
+    },
+    {
+      "name": "仙台エリ",
+      "count": 1
+    },
+    {
+      "name": "少年",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

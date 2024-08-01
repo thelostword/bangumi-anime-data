@@ -1,0 +1,153 @@
+{
+  "id": 196773,
+  "name": "Fate/Grand Order -First Order-",
+  "name_cn": "Fate/Grand Order -First Order-",
+  "summary": "2015年。示巴所观测到的未来领域毫无前兆地消失。根据计算，发现——不，是证明了人类将于2017年灭绝。人理延续保障机构·迦勒底将“无法观测的领域”假定为人类灭绝的原因，决定执行尚处于试验阶段的第六实验。那就是回到过去的时间旅行。将术者灵子化送往过去，通过介入事象，寻找出时空奇点，究明真相或予以破坏的禁断的仪式。其名为圣杯探索——冠位指定（Grand Order）。",
+  "date": "2016-12-31",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/dd/fa/196773_Y19Yd.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/dd/fa/196773_Y19Yd.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 7349,
+    "total": 3439,
+    "count": {
+      "1": 21,
+      "2": 29,
+      "3": 59,
+      "4": 189,
+      "5": 742,
+      "6": 1583,
+      "7": 642,
+      "8": 132,
+      "9": 13,
+      "10": 29
+    },
+    "score": 5.9
+  },
+  "tags": [
+    {
+      "name": "Type-Moon",
+      "count": 799
+    },
+    {
+      "name": "游戏改",
+      "count": 740
+    },
+    {
+      "name": "Fate",
+      "count": 689
+    },
+    {
+      "name": "OVA",
+      "count": 505
+    },
+    {
+      "name": "2016",
+      "count": 312
+    },
+    {
+      "name": "2016年12月",
+      "count": 300
+    },
+    {
+      "name": "Lay-duce",
+      "count": 263
+    },
+    {
+      "name": "奇幻",
+      "count": 206
+    },
+    {
+      "name": "TV",
+      "count": 182
+    },
+    {
+      "name": "战斗",
+      "count": 150
+    },
+    {
+      "name": "高桥李依",
+      "count": 103
+    },
+    {
+      "name": "玛修",
+      "count": 102
+    },
+    {
+      "name": "短篇",
+      "count": 64
+    },
+    {
+      "name": "TVSP",
+      "count": 55
+    },
+    {
+      "name": "难波日登志",
+      "count": 50
+    },
+    {
+      "name": "FGO",
+      "count": 29
+    },
+    {
+      "name": "剧场版",
+      "count": 29
+    },
+    {
+      "name": "OAD",
+      "count": 26
+    },
+    {
+      "name": "2016年",
+      "count": 22
+    },
+    {
+      "name": "難波日登志",
+      "count": 21
+    },
+    {
+      "name": "レイ・デュース",
+      "count": 13
+    },
+    {
+      "name": "型月",
+      "count": 11
+    },
+    {
+      "name": "手游改",
+      "count": 10
+    },
+    {
+      "name": "SP",
+      "count": 9
+    },
+    {
+      "name": "2017年1月",
+      "count": 9
+    },
+    {
+      "name": "日本动画",
+      "count": 9
+    },
+    {
+      "name": "日本",
+      "count": 8
+    },
+    {
+      "name": "関根アユミ",
+      "count": 7
+    },
+    {
+      "name": "动画",
+      "count": 7
+    },
+    {
+      "name": "岛崎信长",
+      "count": 7
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,153 @@
+{
+  "id": 60346,
+  "name": "キャンディ・キャンディ",
+  "name_cn": "小甜甜",
+  "summary": "",
+  "date": "1976-10-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/50/06/60346_D6OuZ.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/50/06/60346_D6OuZ.jpg"
+  },
+  "eps": 115,
+  "rating": {
+    "rank": 0,
+    "total": 22,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 3,
+      "6": 2,
+      "7": 11,
+      "8": 5,
+      "9": 1,
+      "10": 0
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 8
+    },
+    {
+      "name": "1976年",
+      "count": 7
+    },
+    {
+      "name": "少女",
+      "count": 7
+    },
+    {
+      "name": "1976",
+      "count": 7
+    },
+    {
+      "name": "東映アニメーション",
+      "count": 6
+    },
+    {
+      "name": "童年",
+      "count": 6
+    },
+    {
+      "name": "松島みのり",
+      "count": 4
+    },
+    {
+      "name": "雪室俊一",
+      "count": 3
+    },
+    {
+      "name": "五十岚优美子",
+      "count": 2
+    },
+    {
+      "name": "旧物",
+      "count": 2
+    },
+    {
+      "name": "1970.80",
+      "count": 1
+    },
+    {
+      "name": "赛璐珞",
+      "count": 1
+    },
+    {
+      "name": "年番&大长篇",
+      "count": 1
+    },
+    {
+      "name": "水木杏子",
+      "count": 1
+    },
+    {
+      "name": "妈妈的童年",
+      "count": 1
+    },
+    {
+      "name": "妈妈喜欢",
+      "count": 1
+    },
+    {
+      "name": "待補1",
+      "count": 1
+    },
+    {
+      "name": "进藤浦尾",
+      "count": 1
+    },
+    {
+      "name": "井上真樹夫",
+      "count": 1
+    },
+    {
+      "name": "70s",
+      "count": 1
+    },
+    {
+      "name": "小甜甜",
+      "count": 1
+    },
+    {
+      "name": "70年代",
+      "count": 1
+    },
+    {
+      "name": "补",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "东映动画",
+      "count": 1
+    },
+    {
+      "name": "漫改",
+      "count": 1
+    },
+    {
+      "name": "东映",
+      "count": 1
+    },
+    {
+      "name": "漫画改",
+      "count": 1
+    },
+    {
+      "name": "爱情",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,97 @@
+{
+  "id": 81531,
+  "name": "新グリム名作劇場",
+  "name_cn": "新格林名作剧场",
+  "summary": "",
+  "date": "1988-10-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/7d/95/81531_4A4J6.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/7d/95/81531_4A4J6.jpg"
+  },
+  "eps": 23,
+  "rating": {
+    "rank": 0,
+    "total": 5,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 2,
+      "8": 2,
+      "9": 1,
+      "10": 0
+    },
+    "score": 7.8
+  },
+  "tags": [
+    {
+      "name": "童年",
+      "count": 5
+    },
+    {
+      "name": "TV",
+      "count": 5
+    },
+    {
+      "name": "1988",
+      "count": 5
+    },
+    {
+      "name": "日本アニメーション",
+      "count": 3
+    },
+    {
+      "name": "80年代",
+      "count": 2
+    },
+    {
+      "name": "格林名作剧场",
+      "count": 2
+    },
+    {
+      "name": "名著改",
+      "count": 1
+    },
+    {
+      "name": "堀江美都子",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "斎藤次郎",
+      "count": 1
+    },
+    {
+      "name": "横田和善",
+      "count": 1
+    },
+    {
+      "name": "斎藤博",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "日本动画公司",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

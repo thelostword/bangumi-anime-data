@@ -1,0 +1,153 @@
+{
+  "id": 114197,
+  "name": "咲日和 OAD",
+  "name_cn": "咲日和 OAD",
+  "summary": "漫画单行本第14卷初回限定特装版中将同捆其衍生作——四格漫画《咲日和》的OAD。",
+  "date": "2015-07-25",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/5a/97/114197_iQO1S.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/5a/97/114197_iQO1S.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 3422,
+    "total": 348,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 2,
+      "4": 5,
+      "5": 25,
+      "6": 94,
+      "7": 154,
+      "8": 54,
+      "9": 6,
+      "10": 7
+    },
+    "score": 6.8
+  },
+  "tags": [
+    {
+      "name": "OAD",
+      "count": 117
+    },
+    {
+      "name": "百合",
+      "count": 85
+    },
+    {
+      "name": "Studio五组",
+      "count": 65
+    },
+    {
+      "name": "漫画改",
+      "count": 62
+    },
+    {
+      "name": "2015",
+      "count": 61
+    },
+    {
+      "name": "OVA",
+      "count": 58
+    },
+    {
+      "name": "咲-Saki-",
+      "count": 47
+    },
+    {
+      "name": "日常",
+      "count": 41
+    },
+    {
+      "name": "2015年7月",
+      "count": 28
+    },
+    {
+      "name": "漫改",
+      "count": 22
+    },
+    {
+      "name": "小野学",
+      "count": 19
+    },
+    {
+      "name": "萌",
+      "count": 17
+    },
+    {
+      "name": "天才麻将少女",
+      "count": 12
+    },
+    {
+      "name": "钉宫理惠",
+      "count": 9
+    },
+    {
+      "name": "Studio五組",
+      "count": 9
+    },
+    {
+      "name": "瀬藤健嗣",
+      "count": 5
+    },
+    {
+      "name": "2015年",
+      "count": 5
+    },
+    {
+      "name": "植田佳奈",
+      "count": 4
+    },
+    {
+      "name": "堀江由衣",
+      "count": 4
+    },
+    {
+      "name": "浦畑達彦",
+      "count": 4
+    },
+    {
+      "name": "濑藤健嗣",
+      "count": 3
+    },
+    {
+      "name": "番外",
+      "count": 3
+    },
+    {
+      "name": "搞笑",
+      "count": 3
+    },
+    {
+      "name": "伊藤静",
+      "count": 3
+    },
+    {
+      "name": "小林立",
+      "count": 2
+    },
+    {
+      "name": "木吉紗",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "小清水亚美",
+      "count": 2
+    },
+    {
+      "name": "麻将",
+      "count": 2
+    },
+    {
+      "name": "渡边刚",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

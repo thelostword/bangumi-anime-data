@@ -1,0 +1,153 @@
+{
+  "id": 95679,
+  "name": "毎度!浦安鉄筋家族",
+  "name_cn": "每度！浦安铁筋家族",
+  "summary": "",
+  "date": "2014-07-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/24/6b/95679_Z7Fhh.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/24/6b/95679_Z7Fhh.jpg"
+  },
+  "eps": 24,
+  "rating": {
+    "rank": 5203,
+    "total": 238,
+    "count": {
+      "1": 0,
+      "2": 3,
+      "3": 2,
+      "4": 15,
+      "5": 29,
+      "6": 83,
+      "7": 67,
+      "8": 31,
+      "9": 6,
+      "10": 2
+    },
+    "score": 6.3
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 103
+    },
+    {
+      "name": "搞笑",
+      "count": 74
+    },
+    {
+      "name": "2014年7月",
+      "count": 62
+    },
+    {
+      "name": "TV",
+      "count": 44
+    },
+    {
+      "name": "漫画改",
+      "count": 38
+    },
+    {
+      "name": "2014",
+      "count": 36
+    },
+    {
+      "name": "studiodeen",
+      "count": 33
+    },
+    {
+      "name": "大地丙太郎",
+      "count": 32
+    },
+    {
+      "name": "漫改",
+      "count": 19
+    },
+    {
+      "name": "泡面",
+      "count": 19
+    },
+    {
+      "name": "笑点不明",
+      "count": 12
+    },
+    {
+      "name": "⑨bishi",
+      "count": 11
+    },
+    {
+      "name": "Studio.DEEN",
+      "count": 6
+    },
+    {
+      "name": "ENDCARD",
+      "count": 3
+    },
+    {
+      "name": "无厘头",
+      "count": 2
+    },
+    {
+      "name": "电波",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 2
+    },
+    {
+      "name": "201407",
+      "count": 2
+    },
+    {
+      "name": "ＴＶアニメ",
+      "count": 1
+    },
+    {
+      "name": "漫画",
+      "count": 1
+    },
+    {
+      "name": "2014年夏",
+      "count": 1
+    },
+    {
+      "name": "神经病番",
+      "count": 1
+    },
+    {
+      "name": "没地下",
+      "count": 1
+    },
+    {
+      "name": "『TVA』",
+      "count": 1
+    },
+    {
+      "name": "2014年下半年",
+      "count": 1
+    },
+    {
+      "name": "脑洞",
+      "count": 1
+    },
+    {
+      "name": "新番记录",
+      "count": 1
+    },
+    {
+      "name": "沙雕",
+      "count": 1
+    },
+    {
+      "name": "B站",
+      "count": 1
+    },
+    {
+      "name": "日常",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

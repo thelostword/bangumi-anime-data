@@ -1,0 +1,73 @@
+{
+  "id": 161692,
+  "name": "忍たま乱太郎 14期",
+  "name_cn": "",
+  "summary": "",
+  "date": "2006-04-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/8c/0c/161692_yMq8F.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/8c/0c/161692_yMq8F.jpg"
+  },
+  "eps": 50,
+  "rating": {
+    "rank": 0,
+    "total": 5,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 2,
+      "7": 1,
+      "8": 1,
+      "9": 0,
+      "10": 1
+    },
+    "score": 7.4
+  },
+  "tags": [
+    {
+      "name": "2006",
+      "count": 3
+    },
+    {
+      "name": "田中真弓",
+      "count": 2
+    },
+    {
+      "name": "芝山努",
+      "count": 2
+    },
+    {
+      "name": "河内日出夫",
+      "count": 2
+    },
+    {
+      "name": "亜細亜堂",
+      "count": 2
+    },
+    {
+      "name": "亚细亚堂",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "高山みなみ",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

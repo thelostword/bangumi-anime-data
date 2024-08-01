@@ -1,0 +1,73 @@
+{
+  "id": 53729,
+  "name": "銀牙伝説WEED",
+  "name_cn": "银牙传说WEED",
+  "summary": "   前作同様、犬同士の会話を人間の言葉に置き換ることで彼らの友情、結束、葛藤、成長を描いている冒険熱血青春ドラマ。",
+  "date": "2005-11-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/88/69/53729_C8UdO.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/88/69/53729_C8UdO.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 0,
+    "total": 2,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 1,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 3
+    },
+    {
+      "name": "2005",
+      "count": 2
+    },
+    {
+      "name": "动物",
+      "count": 2
+    },
+    {
+      "name": "中视",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "原画",
+      "count": 1
+    },
+    {
+      "name": "2005年",
+      "count": 1
+    },
+    {
+      "name": "漫画改",
+      "count": 1
+    },
+    {
+      "name": "2005年11月",
+      "count": 1
+    },
+    {
+      "name": "漫改",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

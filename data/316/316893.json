@@ -1,0 +1,77 @@
+{
+  "id": 316893,
+  "name": "宇宙なんちゃら こてつくん",
+  "name_cn": "宇宙奇妙生物小铁君",
+  "summary": "",
+  "date": "2021-04-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/6d/0a/316893_VmH1a.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/6d/0a/316893_VmH1a.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 4
+  },
+  "tags": [
+    {
+      "name": "FanWorks",
+      "count": 2
+    },
+    {
+      "name": "2021",
+      "count": 2
+    },
+    {
+      "name": "加藤陽一",
+      "count": 1
+    },
+    {
+      "name": "藤原夏海",
+      "count": 1
+    },
+    {
+      "name": "榎木淳弥",
+      "count": 1
+    },
+    {
+      "name": "作田ハズム",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "ファンワークス",
+      "count": 1
+    },
+    {
+      "name": "TV",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

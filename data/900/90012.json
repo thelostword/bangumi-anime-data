@@ -1,0 +1,125 @@
+{
+  "id": 90012,
+  "name": "ぼくたちピチューブラザーズ・風船騒動の巻",
+  "name_cn": "我们是皮丘兄弟",
+  "summary": "总是活泼好动的皮丘兄弟再度登场啰！虽然它们总是相亲相爱的在秘密基地和大家伙一起玩游戏，没想到两兄弟居然为了一丁点儿芝麻小事却大吵了起来，而且到最后还成了波及整个城镇的大骚动……",
+  "date": "2000-12-22",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/86/86/90012_v2ico.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/86/86/90012_v2ico.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 30,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 9,
+      "6": 13,
+      "7": 6,
+      "8": 0,
+      "9": 1,
+      "10": 1
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 15
+    },
+    {
+      "name": "OLM",
+      "count": 8
+    },
+    {
+      "name": "2000",
+      "count": 6
+    },
+    {
+      "name": "游戏改",
+      "count": 5
+    },
+    {
+      "name": "神奇宝贝",
+      "count": 5
+    },
+    {
+      "name": "pokemon",
+      "count": 3
+    },
+    {
+      "name": "口袋妖怪",
+      "count": 3
+    },
+    {
+      "name": "2000年",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "汤山邦彦",
+      "count": 2
+    },
+    {
+      "name": "2000年12月",
+      "count": 1
+    },
+    {
+      "name": "2000.10",
+      "count": 1
+    },
+    {
+      "name": "YL",
+      "count": 1
+    },
+    {
+      "name": "OVA-01",
+      "count": 1
+    },
+    {
+      "name": "TVSP",
+      "count": 1
+    },
+    {
+      "name": "浅田裕二",
+      "count": 1
+    },
+    {
+      "name": "武上純希",
+      "count": 1
+    },
+    {
+      "name": "动画",
+      "count": 1
+    },
+    {
+      "name": "童年",
+      "count": 1
+    },
+    {
+      "name": "大谷育江",
+      "count": 1
+    },
+    {
+      "name": "原创",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "オー・エル・エム",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

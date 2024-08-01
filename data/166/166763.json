@@ -1,0 +1,105 @@
+{
+  "id": 166763,
+  "name": "アニメンタリー 決断",
+  "name_cn": "动画纪录片 决断",
+  "summary": "《动画纪录片 决断》，为日本电视台播映的龙之子制作的以太平洋战争为题材的战记日本动画作品于每周星期六的19点30分 - 20点00分。自1971年4月3日播至同年1971年9月25日，全26话。",
+  "date": "1971-04-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/4a/a5/166763_pDBYr.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/4a/a5/166763_pDBYr.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 0,
+    "total": 7,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 2,
+      "7": 1,
+      "8": 2,
+      "9": 1,
+      "10": 0
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 10
+    },
+    {
+      "name": "1971",
+      "count": 9
+    },
+    {
+      "name": "龙之子",
+      "count": 7
+    },
+    {
+      "name": "1971年四月番",
+      "count": 5
+    },
+    {
+      "name": "1971年4月",
+      "count": 4
+    },
+    {
+      "name": "九里一平",
+      "count": 3
+    },
+    {
+      "name": "平田穂生",
+      "count": 2
+    },
+    {
+      "name": "待補1",
+      "count": 2
+    },
+    {
+      "name": "旧物",
+      "count": 2
+    },
+    {
+      "name": "鳥海尽三",
+      "count": 2
+    },
+    {
+      "name": "TVA",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "原创",
+      "count": 1
+    },
+    {
+      "name": "二战",
+      "count": 1
+    },
+    {
+      "name": "龙之子Production",
+      "count": 1
+    },
+    {
+      "name": "鸟海尽三",
+      "count": 1
+    },
+    {
+      "name": "1971年",
+      "count": 1
+    },
+    {
+      "name": "タツノコプロ",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

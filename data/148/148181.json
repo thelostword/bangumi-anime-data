@@ -1,0 +1,153 @@
+{
+  "id": 148181,
+  "name": "弱虫ペダル NEW GENERATION",
+  "name_cn": "飙速宅男 新世代",
+  "summary": "总北高中自行车竞技部所属的一年级生·小野田坂道，与同年级的今泉俊辅和鸣子章吉、三年级的金城真护、卷岛裕介、田所迅一同以“Team总北”的身份在全国大赛中出场。他们突破了与王者·箱根学园以及京都伏见等对手学校的激烈比赛，漂亮地获得了综合优胜。那样炎热的夏天也已过去，三年生即将引退，总北以“新世代”的队伍在全国大赛中连霸为目标，终于开始进发！",
+  "date": "2017-01-09",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/5c/db/148181_wMH3H.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/5c/db/148181_wMH3H.jpg"
+  },
+  "eps": 25,
+  "rating": {
+    "rank": 3012,
+    "total": 365,
+    "count": {
+      "1": 2,
+      "2": 2,
+      "3": 2,
+      "4": 4,
+      "5": 16,
+      "6": 90,
+      "7": 155,
+      "8": 81,
+      "9": 9,
+      "10": 4
+    },
+    "score": 6.9
+  },
+  "tags": [
+    {
+      "name": "2017年1月",
+      "count": 80
+    },
+    {
+      "name": "运动",
+      "count": 65
+    },
+    {
+      "name": "漫画改",
+      "count": 51
+    },
+    {
+      "name": "TV",
+      "count": 40
+    },
+    {
+      "name": "2017",
+      "count": 35
+    },
+    {
+      "name": "漫改",
+      "count": 33
+    },
+    {
+      "name": "弱虫ペダル",
+      "count": 29
+    },
+    {
+      "name": "竞技",
+      "count": 25
+    },
+    {
+      "name": "热血",
+      "count": 22
+    },
+    {
+      "name": "体育",
+      "count": 17
+    },
+    {
+      "name": "TMS",
+      "count": 17
+    },
+    {
+      "name": "TMSEntertainment",
+      "count": 14
+    },
+    {
+      "name": "TV續作",
+      "count": 7
+    },
+    {
+      "name": "体育番",
+      "count": 6
+    },
+    {
+      "name": "飙速宅男",
+      "count": 3
+    },
+    {
+      "name": "自行车",
+      "count": 3
+    },
+    {
+      "name": "鍋島修",
+      "count": 3
+    },
+    {
+      "name": "运动番",
+      "count": 2
+    },
+    {
+      "name": "山下大辉",
+      "count": 2
+    },
+    {
+      "name": "2017年",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "TMS_Entertainment",
+      "count": 2
+    },
+    {
+      "name": "TVA",
+      "count": 2
+    },
+    {
+      "name": "内田雄馬",
+      "count": 1
+    },
+    {
+      "name": "漫画改编",
+      "count": 1
+    },
+    {
+      "name": "TMS娱乐",
+      "count": 1
+    },
+    {
+      "name": "搞笑",
+      "count": 1
+    },
+    {
+      "name": "续期",
+      "count": 1
+    },
+    {
+      "name": "动画",
+      "count": 1
+    },
+    {
+      "name": "トムス・エンタテインメント",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,153 @@
+{
+  "id": 285422,
+  "name": "異世界かるてっと 2",
+  "name_cn": "异世界四重奏2",
+  "summary": "",
+  "date": "2020-01-14",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/d5/0b/285422_l38Rf.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/d5/0b/285422_l38Rf.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 4581,
+    "total": 1462,
+    "count": {
+      "1": 4,
+      "2": 0,
+      "3": 4,
+      "4": 16,
+      "5": 124,
+      "6": 505,
+      "7": 640,
+      "8": 146,
+      "9": 10,
+      "10": 13
+    },
+    "score": 6.6
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 446
+    },
+    {
+      "name": "异世界",
+      "count": 335
+    },
+    {
+      "name": "原创",
+      "count": 295
+    },
+    {
+      "name": "2020年1月",
+      "count": 288
+    },
+    {
+      "name": "搞笑",
+      "count": 267
+    },
+    {
+      "name": "TV",
+      "count": 168
+    },
+    {
+      "name": "2020",
+      "count": 130
+    },
+    {
+      "name": "STUDIOPUYUKAI",
+      "count": 108
+    },
+    {
+      "name": "异世界四重奏",
+      "count": 78
+    },
+    {
+      "name": "联动",
+      "count": 73
+    },
+    {
+      "name": "泡面",
+      "count": 54
+    },
+    {
+      "name": "STUDIO_PUYUKAI",
+      "count": 33
+    },
+    {
+      "name": "芦名みのる",
+      "count": 11
+    },
+    {
+      "name": "续作",
+      "count": 9
+    },
+    {
+      "name": "穿越",
+      "count": 9
+    },
+    {
+      "name": "校园",
+      "count": 9
+    },
+    {
+      "name": "日本",
+      "count": 9
+    },
+    {
+      "name": "スタジオぷYUKAI",
+      "count": 8
+    },
+    {
+      "name": "日常",
+      "count": 8
+    },
+    {
+      "name": "奇幻",
+      "count": 6
+    },
+    {
+      "name": "芦名稔",
+      "count": 5
+    },
+    {
+      "name": "2020年",
+      "count": 5
+    },
+    {
+      "name": "喜剧",
+      "count": 4
+    },
+    {
+      "name": "战斗",
+      "count": 3
+    },
+    {
+      "name": "沙雕",
+      "count": 3
+    },
+    {
+      "name": "小林裕介",
+      "count": 3
+    },
+    {
+      "name": "悠木碧",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 3
+    },
+    {
+      "name": "群像",
+      "count": 2
+    },
+    {
+      "name": "短篇",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

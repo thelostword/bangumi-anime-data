@@ -1,0 +1,69 @@
+{
+  "id": 238453,
+  "name": "劇場版 甲虫王者ムシキング グレイテストチャンピオンへの道",
+  "name_cn": "",
+  "summary": "",
+  "date": "2005-12-17",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/63/3e/238453_N18F4.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/63/3e/238453_N18F4.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 4,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 1,
+      "5": 2,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 4.3
+  },
+  "tags": [
+    {
+      "name": "アニメ映画",
+      "count": 1
+    },
+    {
+      "name": "くまいもとこ",
+      "count": 1
+    },
+    {
+      "name": "大賀俊二",
+      "count": 1
+    },
+    {
+      "name": "藤田伸三",
+      "count": 1
+    },
+    {
+      "name": "2005",
+      "count": 1
+    },
+    {
+      "name": "神田朱未",
+      "count": 1
+    },
+    {
+      "name": "TMS",
+      "count": 1
+    },
+    {
+      "name": "トムス・エンタテインメント",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

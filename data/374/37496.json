@@ -1,0 +1,101 @@
+{
+  "id": 37496,
+  "name": "爆闘宣言ダイガンダー",
+  "name_cn": "爆斗宣言大钢弹",
+  "summary": "主人公曙アキラ操纵机器人参加格斗大会的故事\r\n剧中格斗大赛用的都是被称为バトロボ的机器人，都搭载AI且具有自我人格。主角机ダイガンダー是由人型机器人リューグ和龙型机器人ガンダー合体而成的大型机器人，合体后的人格倾向于ガンダー。",
+  "date": "2002-04-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/75/41/37496_8dZWw.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/75/41/37496_8dZWw.jpg"
+  },
+  "eps": 39,
+  "rating": {
+    "rank": 0,
+    "total": 6,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 1,
+      "6": 1,
+      "7": 3,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "瀧本富士子",
+      "count": 3
+    },
+    {
+      "name": "原创",
+      "count": 3
+    },
+    {
+      "name": "机战",
+      "count": 3
+    },
+    {
+      "name": "藤田伸三",
+      "count": 2
+    },
+    {
+      "name": "2002",
+      "count": 2
+    },
+    {
+      "name": "robo",
+      "count": 2
+    },
+    {
+      "name": "TV",
+      "count": 2
+    },
+    {
+      "name": "井端珠里",
+      "count": 1
+    },
+    {
+      "name": "Brain’sBase",
+      "count": 1
+    },
+    {
+      "name": "矢野博之",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "童年",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "BrainsBase",
+      "count": 1
+    },
+    {
+      "name": "萝卜",
+      "count": 1
+    },
+    {
+      "name": "Brains･Base",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

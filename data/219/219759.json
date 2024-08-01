@@ -1,0 +1,133 @@
+{
+  "id": 219759,
+  "name": "雨色ココア ame-con!!",
+  "name_cn": "雨色可可 ame-con!!",
+  "summary": "",
+  "date": "2017-10-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ea/1a/219759_gSqvp.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ea/1a/219759_gSqvp.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 0,
+    "total": 38,
+    "count": {
+      "1": 2,
+      "2": 6,
+      "3": 1,
+      "4": 6,
+      "5": 11,
+      "6": 8,
+      "7": 3,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 4.6
+  },
+  "tags": [
+    {
+      "name": "漫画改",
+      "count": 13
+    },
+    {
+      "name": "TV",
+      "count": 13
+    },
+    {
+      "name": "泡面番",
+      "count": 12
+    },
+    {
+      "name": "2017年10月",
+      "count": 10
+    },
+    {
+      "name": "2017",
+      "count": 8
+    },
+    {
+      "name": "泡面",
+      "count": 5
+    },
+    {
+      "name": "乙女向",
+      "count": 3
+    },
+    {
+      "name": "EMTスクエアード",
+      "count": 2
+    },
+    {
+      "name": "2017年",
+      "count": 2
+    },
+    {
+      "name": "EMTSquared",
+      "count": 2
+    },
+    {
+      "name": "2017年十月番",
+      "count": 1
+    },
+    {
+      "name": "201710",
+      "count": 1
+    },
+    {
+      "name": "第4季",
+      "count": 1
+    },
+    {
+      "name": "声优有声漫画",
+      "count": 1
+    },
+    {
+      "name": "已保存",
+      "count": 1
+    },
+    {
+      "name": "【ANIME】TV丨日本",
+      "count": 1
+    },
+    {
+      "name": "耽美",
+      "count": 1
+    },
+    {
+      "name": "漫画改编",
+      "count": 1
+    },
+    {
+      "name": "治愈",
+      "count": 1
+    },
+    {
+      "name": "续作",
+      "count": 1
+    },
+    {
+      "name": "乙女",
+      "count": 1
+    },
+    {
+      "name": "暧昧",
+      "count": 1
+    },
+    {
+      "name": "续期",
+      "count": 1
+    },
+    {
+      "name": "EMT2",
+      "count": 1
+    },
+    {
+      "name": "改编",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

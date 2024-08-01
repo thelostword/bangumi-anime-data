@@ -1,0 +1,153 @@
+{
+  "id": 331921,
+  "name": "天地創造デザイン部 特別編",
+  "name_cn": "天地创造设计部 特别篇",
+  "summary": "■ ”特別編”配信プラットフォーム\r\nAmazon Prime Video（独占配信）\r\n（視聴URL：https://www.amazon.co.jp/dp/B08QMSHHB6）\r\n■ ”特別編”配信開始日\r\n2021年4月1日（木）24：00～\r\n※配信内容は変更になる可能性がございます。",
+  "date": "2021-04-01",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/49/ab/331921_6djV9.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/49/ab/331921_6djV9.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 4318,
+    "total": 250,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 3,
+      "4": 3,
+      "5": 24,
+      "6": 89,
+      "7": 98,
+      "8": 26,
+      "9": 3,
+      "10": 4
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "科普",
+      "count": 59
+    },
+    {
+      "name": "漫画改",
+      "count": 49
+    },
+    {
+      "name": "2021年4月",
+      "count": 48
+    },
+    {
+      "name": "搞笑",
+      "count": 46
+    },
+    {
+      "name": "WEB",
+      "count": 39
+    },
+    {
+      "name": "OVA",
+      "count": 35
+    },
+    {
+      "name": "2021",
+      "count": 30
+    },
+    {
+      "name": "旭production",
+      "count": 30
+    },
+    {
+      "name": "天地创造设计部",
+      "count": 24
+    },
+    {
+      "name": "职场",
+      "count": 15
+    },
+    {
+      "name": "漫改",
+      "count": 15
+    },
+    {
+      "name": "日常",
+      "count": 7
+    },
+    {
+      "name": "动物",
+      "count": 6
+    },
+    {
+      "name": "旭プロダクション",
+      "count": 3
+    },
+    {
+      "name": "奇幻",
+      "count": 3
+    },
+    {
+      "name": "日本",
+      "count": 3
+    },
+    {
+      "name": "SP",
+      "count": 2
+    },
+    {
+      "name": "2021年",
+      "count": 2
+    },
+    {
+      "name": "横手美智子",
+      "count": 2
+    },
+    {
+      "name": "增井壮一",
+      "count": 2
+    },
+    {
+      "name": "TV",
+      "count": 2
+    },
+    {
+      "name": "20年代",
+      "count": 1
+    },
+    {
+      "name": "练习",
+      "count": 1
+    },
+    {
+      "name": "2021年1月",
+      "count": 1
+    },
+    {
+      "name": "undefined",
+      "count": 1
+    },
+    {
+      "name": "神创论",
+      "count": 1
+    },
+    {
+      "name": "オリジナル・ビデオ・アニメ",
+      "count": 1
+    },
+    {
+      "name": "令和3年",
+      "count": 1
+    },
+    {
+      "name": "屹青",
+      "count": 1
+    },
+    {
+      "name": "中6",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

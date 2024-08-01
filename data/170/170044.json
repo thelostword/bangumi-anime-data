@@ -1,0 +1,133 @@
+{
+  "id": 170044,
+  "name": "バトルスピリッツ ダブルドライブ",
+  "name_cn": "战斗之魂 双重驱动",
+  "summary": "",
+  "date": "2016-04-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/24/0e/170044_ughLj.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/24/0e/170044_ughLj.jpg"
+  },
+  "eps": 51,
+  "rating": {
+    "rank": 0,
+    "total": 19,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 3,
+      "5": 7,
+      "6": 5,
+      "7": 1,
+      "8": 1,
+      "9": 1,
+      "10": 1
+    },
+    "score": 5.8
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 9
+    },
+    {
+      "name": "2016",
+      "count": 8
+    },
+    {
+      "name": "SUNRISE",
+      "count": 8
+    },
+    {
+      "name": "2016年4月",
+      "count": 6
+    },
+    {
+      "name": "续作",
+      "count": 5
+    },
+    {
+      "name": "第八期",
+      "count": 5
+    },
+    {
+      "name": "游戏改编",
+      "count": 4
+    },
+    {
+      "name": "改编",
+      "count": 4
+    },
+    {
+      "name": "BattleSpirits",
+      "count": 4
+    },
+    {
+      "name": "バトルスピリッツ",
+      "count": 3
+    },
+    {
+      "name": "杉島邦久",
+      "count": 2
+    },
+    {
+      "name": "サンライズ",
+      "count": 2
+    },
+    {
+      "name": "子供向",
+      "count": 2
+    },
+    {
+      "name": "長谷川勝己",
+      "count": 2
+    },
+    {
+      "name": "BNPictures",
+      "count": 1
+    },
+    {
+      "name": "小市眞琴",
+      "count": 1
+    },
+    {
+      "name": "201604",
+      "count": 1
+    },
+    {
+      "name": "2016年四月番",
+      "count": 1
+    },
+    {
+      "name": "田村睦心",
+      "count": 1
+    },
+    {
+      "name": "正太",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "游戏改",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "卡牌",
+      "count": 1
+    },
+    {
+      "name": "2016年",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

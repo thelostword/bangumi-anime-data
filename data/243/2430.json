@@ -1,0 +1,153 @@
+{
+  "id": 2430,
+  "name": "DOGS/BULLETS & CARNAGE",
+  "name_cn": "狗/子弹&屠杀",
+  "summary": "上巻DVDが2009年5月19日発売の『DOGS / BULLETS & CARNAGE 4巻 予約限定特装版』に同梱、下巻DVDが2009年7月17日発売の『DOGS Stray dogs howling in the dark 予約同梱特装版』に同梱された。",
+  "date": "2009-05-19",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/1f/b2/2430_gFGQY.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/1f/b2/2430_gFGQY.jpg"
+  },
+  "eps": 4,
+  "rating": {
+    "rank": 2288,
+    "total": 263,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 2,
+      "4": 4,
+      "5": 25,
+      "6": 53,
+      "7": 90,
+      "8": 58,
+      "9": 14,
+      "10": 17
+    },
+    "score": 7.1
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 78
+    },
+    {
+      "name": "三轮士郎",
+      "count": 55
+    },
+    {
+      "name": "DOGS",
+      "count": 51
+    },
+    {
+      "name": "槍械控",
+      "count": 33
+    },
+    {
+      "name": "2009",
+      "count": 31
+    },
+    {
+      "name": "枪战",
+      "count": 20
+    },
+    {
+      "name": "davidproduction",
+      "count": 20
+    },
+    {
+      "name": "眼罩",
+      "count": 20
+    },
+    {
+      "name": "狗",
+      "count": 20
+    },
+    {
+      "name": "基",
+      "count": 17
+    },
+    {
+      "name": "烟枪",
+      "count": 16
+    },
+    {
+      "name": "红发",
+      "count": 13
+    },
+    {
+      "name": "耽美",
+      "count": 9
+    },
+    {
+      "name": "石田彰",
+      "count": 8
+    },
+    {
+      "name": "萌",
+      "count": 7
+    },
+    {
+      "name": "BL",
+      "count": 6
+    },
+    {
+      "name": "草尾毅",
+      "count": 4
+    },
+    {
+      "name": "漫画改",
+      "count": 4
+    },
+    {
+      "name": "三轮子",
+      "count": 4
+    },
+    {
+      "name": "吉村清子",
+      "count": 4
+    },
+    {
+      "name": "伪霍恩海姆",
+      "count": 4
+    },
+    {
+      "name": "三輪士郎",
+      "count": 3
+    },
+    {
+      "name": "漫画",
+      "count": 3
+    },
+    {
+      "name": "动画",
+      "count": 3
+    },
+    {
+      "name": "樱井孝宏",
+      "count": 3
+    },
+    {
+      "name": "热血",
+      "count": 3
+    },
+    {
+      "name": "2009年",
+      "count": 3
+    },
+    {
+      "name": "漫改",
+      "count": 3
+    },
+    {
+      "name": "david_production",
+      "count": 3
+    },
+    {
+      "name": "石井久美",
+      "count": 3
+    }
+  ],
+  "locked": false
+}

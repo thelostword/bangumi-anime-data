@@ -1,0 +1,153 @@
+{
+  "id": 326,
+  "name": "攻殻機動隊 S.A.C. 2nd GIG",
+  "name_cn": "攻壳机动队 S.A.C. 2nd GIG",
+  "summary": "这个世界距离我们并不遥远，你把它看作是现代社会的镜子亦为不可。\r\n也许：无论人类怎样发展，人性是不会改变的，即使容纳这渺小人性的外壳换作了机器身体亦是一样。\r\n无论怎样，在一个充斥着改装身体的社会里，人类的欲望得以被延续且发扬光大，由此相关的犯罪也应运而生。\r\n由荒卷所领导的特务组织：公安9课，其实就可以算是日本社会的清洁剂。",
+  "date": "2004-01-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/a6/66/326_D8wjw.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/a6/66/326_D8wjw.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 1,
+    "total": 7708,
+    "count": {
+      "1": 30,
+      "2": 8,
+      "3": 8,
+      "4": 9,
+      "5": 23,
+      "6": 68,
+      "7": 250,
+      "8": 1109,
+      "9": 2567,
+      "10": 3636
+    },
+    "score": 9.2
+  },
+  "tags": [
+    {
+      "name": "菅野洋子",
+      "count": 1744
+    },
+    {
+      "name": "攻殻機動隊",
+      "count": 1630
+    },
+    {
+      "name": "神山健治",
+      "count": 1484
+    },
+    {
+      "name": "科幻",
+      "count": 1457
+    },
+    {
+      "name": "攻壳机动队",
+      "count": 1336
+    },
+    {
+      "name": "押井守",
+      "count": 1106
+    },
+    {
+      "name": "Production.IG",
+      "count": 961
+    },
+    {
+      "name": "TV",
+      "count": 894
+    },
+    {
+      "name": "士郎正宗",
+      "count": 662
+    },
+    {
+      "name": "2004",
+      "count": 631
+    },
+    {
+      "name": "Production.I.G",
+      "count": 550
+    },
+    {
+      "name": "草薙素子",
+      "count": 337
+    },
+    {
+      "name": "漫画改",
+      "count": 165
+    },
+    {
+      "name": "神作",
+      "count": 143
+    },
+    {
+      "name": "ProductionI.G",
+      "count": 115
+    },
+    {
+      "name": "2004年1月",
+      "count": 96
+    },
+    {
+      "name": "漫改",
+      "count": 96
+    },
+    {
+      "name": "赛博朋克",
+      "count": 84
+    },
+    {
+      "name": "S.A.C.",
+      "count": 80
+    },
+    {
+      "name": "经典",
+      "count": 80
+    },
+    {
+      "name": "战斗",
+      "count": 60
+    },
+    {
+      "name": "政治",
+      "count": 58
+    },
+    {
+      "name": "GIG",
+      "count": 36
+    },
+    {
+      "name": "攻壳",
+      "count": 26
+    },
+    {
+      "name": "菅野よう子",
+      "count": 25
+    },
+    {
+      "name": "2004年",
+      "count": 19
+    },
+    {
+      "name": "攻克机动队",
+      "count": 18
+    },
+    {
+      "name": "TVA",
+      "count": 17
+    },
+    {
+      "name": "日本",
+      "count": 16
+    },
+    {
+      "name": "原创",
+      "count": 15
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,153 @@
+{
+  "id": 4841,
+  "name": "一騎当千 Great Guardians",
+  "name_cn": "一骑当千 Great Guardians",
+  "summary": "剧情继承自前作(DD)，新角色孙权仲谋登场。理应已死的吕布再登场。",
+  "date": "2008-06-11",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/05/ee/4841_EbbI3.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/05/ee/4841_EbbI3.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 6241,
+    "total": 510,
+    "count": {
+      "1": 1,
+      "2": 1,
+      "3": 7,
+      "4": 24,
+      "5": 85,
+      "6": 230,
+      "7": 112,
+      "8": 33,
+      "9": 7,
+      "10": 10
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "肉",
+      "count": 71
+    },
+    {
+      "name": "TV",
+      "count": 57
+    },
+    {
+      "name": "一騎当千GG",
+      "count": 56
+    },
+    {
+      "name": "百合",
+      "count": 51
+    },
+    {
+      "name": "2008",
+      "count": 49
+    },
+    {
+      "name": "肉番",
+      "count": 41
+    },
+    {
+      "name": "Arms",
+      "count": 31
+    },
+    {
+      "name": "三国",
+      "count": 28
+    },
+    {
+      "name": "无底线一般向始祖第三季",
+      "count": 28
+    },
+    {
+      "name": "2008年6月",
+      "count": 26
+    },
+    {
+      "name": "卖肉",
+      "count": 25
+    },
+    {
+      "name": "一騎当千",
+      "count": 23
+    },
+    {
+      "name": "一骑当千",
+      "count": 20
+    },
+    {
+      "name": "漫改",
+      "count": 18
+    },
+    {
+      "name": "漫画改",
+      "count": 16
+    },
+    {
+      "name": "战斗",
+      "count": 9
+    },
+    {
+      "name": "2008年7月",
+      "count": 9
+    },
+    {
+      "name": "大畑晃一",
+      "count": 6
+    },
+    {
+      "name": "校园",
+      "count": 6
+    },
+    {
+      "name": "2008年",
+      "count": 4
+    },
+    {
+      "name": "爆衣",
+      "count": 3
+    },
+    {
+      "name": "同人",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 3
+    },
+    {
+      "name": "2008年4月",
+      "count": 3
+    },
+    {
+      "name": "奇幻",
+      "count": 3
+    },
+    {
+      "name": "浅野真澄",
+      "count": 3
+    },
+    {
+      "name": "露点",
+      "count": 2
+    },
+    {
+      "name": "日野聡",
+      "count": 2
+    },
+    {
+      "name": "アームス",
+      "count": 2
+    },
+    {
+      "name": "高梨康治",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

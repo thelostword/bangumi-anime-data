@@ -1,0 +1,81 @@
+{
+  "id": 209598,
+  "name": "冒険遊記プラスターワールド",
+  "name_cn": "冒险游记Pluster World",
+  "summary": "",
+  "date": "2003-04-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/89/fa/209598_s85U0.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/89/fa/209598_s85U0.jpg"
+  },
+  "eps": 52,
+  "rating": {
+    "rank": 0,
+    "total": 2,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 1,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "robo",
+      "count": 1
+    },
+    {
+      "name": "アクタス",
+      "count": 1
+    },
+    {
+      "name": "日巻裕二",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "Actas、Brain",
+      "count": 1
+    },
+    {
+      "name": "Brain’sBase",
+      "count": 1
+    },
+    {
+      "name": "富田祐弘",
+      "count": 1
+    },
+    {
+      "name": "福山潤",
+      "count": 1
+    },
+    {
+      "name": "2003",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "sBase",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

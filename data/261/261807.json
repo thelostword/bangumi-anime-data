@@ -1,0 +1,153 @@
+{
+  "id": 261807,
+  "name": "劇場版マクロスΔ 絶対LIVE!!!!!!",
+  "name_cn": "剧场版超时空要塞Δ 绝对LIVE!!!!!!",
+  "summary": "西暦2068年。銀河辺境のウィンダミア王国と新統合政府の紛争は、ハヤテやミラージュの所属するバルキリー隊と戦術音楽ユニット“ワルキューレ”の歌の力により鎮静化した。\r\nワルキューレは、フレイアの故郷ウィンダミアで、停戦記念LIVEを開催することとなったが＿。",
+  "date": "2021-10-08",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/2e/6a/261807_VKkb9.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/2e/6a/261807_VKkb9.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 3741,
+    "total": 446,
+    "count": {
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 15,
+      "5": 48,
+      "6": 107,
+      "7": 171,
+      "8": 72,
+      "9": 16,
+      "10": 11
+    },
+    "score": 6.7
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 173
+    },
+    {
+      "name": "2021",
+      "count": 85
+    },
+    {
+      "name": "河森正治",
+      "count": 84
+    },
+    {
+      "name": "超时空要塞",
+      "count": 79
+    },
+    {
+      "name": "Satelight",
+      "count": 75
+    },
+    {
+      "name": "科幻",
+      "count": 57
+    },
+    {
+      "name": "Macross",
+      "count": 53
+    },
+    {
+      "name": "萝卜",
+      "count": 50
+    },
+    {
+      "name": "原创",
+      "count": 50
+    },
+    {
+      "name": "偶像",
+      "count": 38
+    },
+    {
+      "name": "MacrossΔ",
+      "count": 28
+    },
+    {
+      "name": "机战",
+      "count": 23
+    },
+    {
+      "name": "战斗",
+      "count": 19
+    },
+    {
+      "name": "2021年10月",
+      "count": 15
+    },
+    {
+      "name": "音乐",
+      "count": 12
+    },
+    {
+      "name": "サテライト",
+      "count": 6
+    },
+    {
+      "name": "2021年",
+      "count": 6
+    },
+    {
+      "name": "根元歳三",
+      "count": 4
+    },
+    {
+      "name": "恋爱",
+      "count": 3
+    },
+    {
+      "name": "小清水亚美",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 2
+    },
+    {
+      "name": "根元岁三",
+      "count": 2
+    },
+    {
+      "name": "アニメ映画",
+      "count": 2
+    },
+    {
+      "name": "内田雄馬",
+      "count": 2
+    },
+    {
+      "name": "内田雄马",
+      "count": 2
+    },
+    {
+      "name": "电影",
+      "count": 2
+    },
+    {
+      "name": "2020-2029",
+      "count": 2
+    },
+    {
+      "name": "机甲",
+      "count": 2
+    },
+    {
+      "name": "movie",
+      "count": 2
+    },
+    {
+      "name": "鈴木みのり",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,153 @@
+{
+  "id": 72651,
+  "name": "イナズマイレブンGO ギャラクシー",
+  "name_cn": "闪电十一人GO 银河",
+  "summary": "",
+  "date": "2013-05-08",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/a5/e4/72651_5yX7s.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/a5/e4/72651_5yX7s.jpg"
+  },
+  "eps": 43,
+  "rating": {
+    "rank": 3181,
+    "total": 76,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 2,
+      "4": 2,
+      "5": 9,
+      "6": 26,
+      "7": 16,
+      "8": 13,
+      "9": 4,
+      "10": 4
+    },
+    "score": 6.7
+  },
+  "tags": [
+    {
+      "name": "闪电十一人GO",
+      "count": 20
+    },
+    {
+      "name": "TV",
+      "count": 15
+    },
+    {
+      "name": "2013",
+      "count": 15
+    },
+    {
+      "name": "闪电十一人",
+      "count": 15
+    },
+    {
+      "name": "LEVEL5",
+      "count": 14
+    },
+    {
+      "name": "运动",
+      "count": 14
+    },
+    {
+      "name": "小足球",
+      "count": 10
+    },
+    {
+      "name": "日野晃博",
+      "count": 8
+    },
+    {
+      "name": "OLM",
+      "count": 7
+    },
+    {
+      "name": "游戏改",
+      "count": 6
+    },
+    {
+      "name": "青春",
+      "count": 6
+    },
+    {
+      "name": "燃",
+      "count": 5
+    },
+    {
+      "name": "2013年4月",
+      "count": 3
+    },
+    {
+      "name": "热血",
+      "count": 3
+    },
+    {
+      "name": "基",
+      "count": 2
+    },
+    {
+      "name": "子供向",
+      "count": 2
+    },
+    {
+      "name": "2013年",
+      "count": 2
+    },
+    {
+      "name": "オー・エル・エム",
+      "count": 1
+    },
+    {
+      "name": "2013年5月",
+      "count": 1
+    },
+    {
+      "name": "2013年四月番",
+      "count": 1
+    },
+    {
+      "name": "石川界人",
+      "count": 1
+    },
+    {
+      "name": "井吹宗正",
+      "count": 1
+    },
+    {
+      "name": "小男孩既是正义！！",
+      "count": 1
+    },
+    {
+      "name": "山田健一",
+      "count": 1
+    },
+    {
+      "name": "萨卡",
+      "count": 1
+    },
+    {
+      "name": "山口健太郎",
+      "count": 1
+    },
+    {
+      "name": "运动番",
+      "count": 1
+    },
+    {
+      "name": "原创",
+      "count": 1
+    },
+    {
+      "name": "动画",
+      "count": 1
+    },
+    {
+      "name": "补番",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

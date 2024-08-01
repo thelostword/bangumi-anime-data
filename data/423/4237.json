@@ -1,0 +1,153 @@
+{
+  "id": 4237,
+  "name": "ケモノヅメ",
+  "name_cn": "兽爪",
+  "summary": "那个男人爱着的女人，竟然是最恐怖的怪物。她所爱的男人， 则是最强的怪物猎人。一边属于敌对的对手，一边又被爱情纽带给相连。这两人之间的爱情将会是怎样的结果呢？",
+  "date": "2006-08-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/5d/15/4237_vSS36.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/5d/15/4237_vSS36.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 708,
+    "total": 960,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 5,
+      "4": 8,
+      "5": 26,
+      "6": 78,
+      "7": 299,
+      "8": 369,
+      "9": 122,
+      "10": 52
+    },
+    "score": 7.6
+  },
+  "tags": [
+    {
+      "name": "汤浅政明",
+      "count": 430
+    },
+    {
+      "name": "MADHouse",
+      "count": 322
+    },
+    {
+      "name": "TV",
+      "count": 236
+    },
+    {
+      "name": "2006",
+      "count": 206
+    },
+    {
+      "name": "原创",
+      "count": 162
+    },
+    {
+      "name": "猎奇",
+      "count": 129
+    },
+    {
+      "name": "爱情",
+      "count": 99
+    },
+    {
+      "name": "cult",
+      "count": 55
+    },
+    {
+      "name": "湯浅政明",
+      "count": 48
+    },
+    {
+      "name": "兽爪",
+      "count": 48
+    },
+    {
+      "name": "浪漫",
+      "count": 44
+    },
+    {
+      "name": "阴暗",
+      "count": 37
+    },
+    {
+      "name": "科幻",
+      "count": 30
+    },
+    {
+      "name": "恋爱",
+      "count": 19
+    },
+    {
+      "name": "中村健治",
+      "count": 14
+    },
+    {
+      "name": "TVA",
+      "count": 10
+    },
+    {
+      "name": "2006年7月",
+      "count": 7
+    },
+    {
+      "name": "2006年8月",
+      "count": 7
+    },
+    {
+      "name": "2006年",
+      "count": 6
+    },
+    {
+      "name": "补番",
+      "count": 6
+    },
+    {
+      "name": "奇幻",
+      "count": 6
+    },
+    {
+      "name": "战斗",
+      "count": 5
+    },
+    {
+      "name": "アニメ",
+      "count": 4
+    },
+    {
+      "name": "日本动画",
+      "count": 4
+    },
+    {
+      "name": "清水洋",
+      "count": 3
+    },
+    {
+      "name": "2000s",
+      "count": 3
+    },
+    {
+      "name": "小林治",
+      "count": 3
+    },
+    {
+      "name": "伊東伸高",
+      "count": 3
+    },
+    {
+      "name": "伊东伸高",
+      "count": 3
+    },
+    {
+      "name": "日本",
+      "count": 3
+    }
+  ],
+  "locked": false
+}

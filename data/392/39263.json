@@ -1,0 +1,129 @@
+{
+  "id": 39263,
+  "name": "BLUE SEED2",
+  "name_cn": "碧奇魂2",
+  "summary": "      1996年発売のTV版後日談となる続編OVAシリーズ。1&2巻のサンフランシスコ編と3巻の温泉編の2エピソード構成。\r\n      荒神の戦いから2年後、スサノオの魂が眠りに就いているにもかかわらず新たな荒神が出現した。新国土管理室のメンバーはネオ荒神の本拠地サンフランシスコに向かい、アメリカ海軍と協力して戦う。",
+  "date": "1996-07-24",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/6c/b7/39263_0eb92.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/6c/b7/39263_0eb92.jpg"
+  },
+  "eps": 3,
+  "rating": {
+    "rank": 0,
+    "total": 27,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 1,
+      "4": 0,
+      "5": 4,
+      "6": 13,
+      "7": 4,
+      "8": 3,
+      "9": 0,
+      "10": 1
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 23
+    },
+    {
+      "name": "Production.I.G",
+      "count": 12
+    },
+    {
+      "name": "1996",
+      "count": 10
+    },
+    {
+      "name": "林原めぐみ",
+      "count": 9
+    },
+    {
+      "name": "XEBEC",
+      "count": 6
+    },
+    {
+      "name": "林原惠",
+      "count": 6
+    },
+    {
+      "name": "碧奇魂",
+      "count": 6
+    },
+    {
+      "name": "ProductionI.G",
+      "count": 5
+    },
+    {
+      "name": "井上和彦",
+      "count": 3
+    },
+    {
+      "name": "旧番",
+      "count": 2
+    },
+    {
+      "name": "村山靖",
+      "count": 2
+    },
+    {
+      "name": "OVA-01",
+      "count": 2
+    },
+    {
+      "name": "うえだゆうじ",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "神魔",
+      "count": 1
+    },
+    {
+      "name": "神谷純",
+      "count": 1
+    },
+    {
+      "name": "1998",
+      "count": 1
+    },
+    {
+      "name": "漫画改",
+      "count": 1
+    },
+    {
+      "name": "原创",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "川井憲次",
+      "count": 1
+    },
+    {
+      "name": "三石琴乃",
+      "count": 1
+    },
+    {
+      "name": "川井宪次",
+      "count": 1
+    },
+    {
+      "name": "榊原良子",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

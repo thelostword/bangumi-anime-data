@@ -1,0 +1,153 @@
+{
+  "id": 438187,
+  "name": "勇気爆発バーンブレイバーン",
+  "name_cn": "勇气爆发 Bang Bravern",
+  "summary": "人形装甲兵器“Titano Stride，通称TS”发达的时代。各国军队在“夏威夷瓦胡岛”集结。 陆上自卫队所属的伊萨米·阿欧与美国海军陆战队所属的路易斯·史密斯两人在战斗中相遇。然而士兵们突然受到不明所属飞机的强袭，束手无策地散开。自豪地战斗吧。 为了在与死亡为邻的战场上生存下去。 为了拯救伙伴。\r\n相信生命，燃烧“勇气”。",
+  "date": "2024-01-11",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/3a/98/438187_chzhD.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/3a/98/438187_chzhD.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 4996,
+    "total": 2456,
+    "count": {
+      "1": 11,
+      "2": 12,
+      "3": 21,
+      "4": 76,
+      "5": 240,
+      "6": 781,
+      "7": 914,
+      "8": 342,
+      "9": 38,
+      "10": 21
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "原创",
+      "count": 784
+    },
+    {
+      "name": "CygamesPictures",
+      "count": 595
+    },
+    {
+      "name": "机战",
+      "count": 546
+    },
+    {
+      "name": "2024年1月",
+      "count": 492
+    },
+    {
+      "name": "大张正己",
+      "count": 418
+    },
+    {
+      "name": "萝卜",
+      "count": 353
+    },
+    {
+      "name": "搞笑",
+      "count": 330
+    },
+    {
+      "name": "超级系",
+      "count": 329
+    },
+    {
+      "name": "TV",
+      "count": 316
+    },
+    {
+      "name": "2024",
+      "count": 225
+    },
+    {
+      "name": "科幻",
+      "count": 218
+    },
+    {
+      "name": "大張正己",
+      "count": 79
+    },
+    {
+      "name": "热血",
+      "count": 35
+    },
+    {
+      "name": "鈴木崚汰",
+      "count": 27
+    },
+    {
+      "name": "战斗",
+      "count": 24
+    },
+    {
+      "name": "无法预测的命运之舞台",
+      "count": 17
+    },
+    {
+      "name": "2024年",
+      "count": 17
+    },
+    {
+      "name": "阿座上洋平",
+      "count": 11
+    },
+    {
+      "name": "小柳啓伍",
+      "count": 9
+    },
+    {
+      "name": "BL",
+      "count": 9
+    },
+    {
+      "name": "机甲",
+      "count": 6
+    },
+    {
+      "name": "勇气爆发",
+      "count": 6
+    },
+    {
+      "name": "日漫",
+      "count": 5
+    },
+    {
+      "name": "动画",
+      "count": 5
+    },
+    {
+      "name": "TVA",
+      "count": 5
+    },
+    {
+      "name": "腐",
+      "count": 4
+    },
+    {
+      "name": "日本",
+      "count": 4
+    },
+    {
+      "name": "季番",
+      "count": 4
+    },
+    {
+      "name": "robo",
+      "count": 4
+    },
+    {
+      "name": "逆天",
+      "count": 3
+    }
+  ],
+  "locked": false
+}

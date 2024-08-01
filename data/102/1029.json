@@ -1,0 +1,153 @@
+{
+  "id": 1029,
+  "name": "ef - a tale of melodies.",
+  "name_cn": "悠久之翼2",
+  "summary": "ef2动画将以「ef - the latter tale.」为主线陈述，\r\n平行描写两个苦涩的恋爱故事，\r\n饱富抒情性，相互融合的两个恋爱故事。\r\n\r\n能听到吗？\r\n——那真实的旋律……",
+  "date": "2008-10-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/84/d2/1029_Zc2U6.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/84/d2/1029_Zc2U6.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 180,
+    "total": 4828,
+    "count": {
+      "1": 9,
+      "2": 3,
+      "3": 8,
+      "4": 16,
+      "5": 88,
+      "6": 304,
+      "7": 847,
+      "8": 1728,
+      "9": 1261,
+      "10": 564
+    },
+    "score": 8.1
+  },
+  "tags": [
+    {
+      "name": "新房昭之",
+      "count": 1052
+    },
+    {
+      "name": "大沼心",
+      "count": 965
+    },
+    {
+      "name": "ef",
+      "count": 862
+    },
+    {
+      "name": "SHAFT",
+      "count": 701
+    },
+    {
+      "name": "GAL改",
+      "count": 634
+    },
+    {
+      "name": "催泪",
+      "count": 606
+    },
+    {
+      "name": "minori",
+      "count": 497
+    },
+    {
+      "name": "天门",
+      "count": 469
+    },
+    {
+      "name": "TV",
+      "count": 430
+    },
+    {
+      "name": "ef_a_tale_of_melodies.",
+      "count": 380
+    },
+    {
+      "name": "2008年10月",
+      "count": 362
+    },
+    {
+      "name": "2008",
+      "count": 268
+    },
+    {
+      "name": "游戏改",
+      "count": 167
+    },
+    {
+      "name": "GAL",
+      "count": 130
+    },
+    {
+      "name": "恋爱",
+      "count": 112
+    },
+    {
+      "name": "黑历史",
+      "count": 87
+    },
+    {
+      "name": "新房",
+      "count": 69
+    },
+    {
+      "name": "治愈",
+      "count": 54
+    },
+    {
+      "name": "校园",
+      "count": 45
+    },
+    {
+      "name": "爱情",
+      "count": 39
+    },
+    {
+      "name": "黑白优子画最高！",
+      "count": 38
+    },
+    {
+      "name": "神作",
+      "count": 30
+    },
+    {
+      "name": "致郁",
+      "count": 28
+    },
+    {
+      "name": "悠久之翼",
+      "count": 19
+    },
+    {
+      "name": "续作",
+      "count": 13
+    },
+    {
+      "name": "七尾奈留",
+      "count": 13
+    },
+    {
+      "name": "虐心",
+      "count": 13
+    },
+    {
+      "name": "奇幻",
+      "count": 10
+    },
+    {
+      "name": "TVA",
+      "count": 9
+    },
+    {
+      "name": "高山カツヒコ",
+      "count": 9
+    }
+  ],
+  "locked": false
+}

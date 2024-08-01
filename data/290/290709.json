@@ -1,0 +1,89 @@
+{
+  "id": 290709,
+  "name": "合体ロボット アトランジャー",
+  "name_cn": "",
+  "summary": "『合体ロボット アトランジャー』が2011年12月開催のコミックマーケット81にて発売。販売はジー・モード。後に、ダイナマイトアクション限定版の特典として、同OVAが収録されたDVDが復刻された。",
+  "date": "2011-12-29",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/a4/a4/290709_4O1gS.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/a4/a4/290709_4O1gS.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 1,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "robo",
+      "count": 2
+    },
+    {
+      "name": "平野秀朗",
+      "count": 2
+    },
+    {
+      "name": "松尾大亮",
+      "count": 2
+    },
+    {
+      "name": "OVA-01",
+      "count": 2
+    },
+    {
+      "name": "AIC",
+      "count": 2
+    },
+    {
+      "name": "2011",
+      "count": 2
+    },
+    {
+      "name": "OVA",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 1
+    },
+    {
+      "name": "上別府仁資",
+      "count": 1
+    },
+    {
+      "name": "日本",
+      "count": 1
+    },
+    {
+      "name": "遠近孝一",
+      "count": 1
+    },
+    {
+      "name": "吉田徹",
+      "count": 1
+    },
+    {
+      "name": "科幻",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

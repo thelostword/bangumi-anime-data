@@ -1,0 +1,153 @@
+{
+  "id": 246429,
+  "name": "BanG Dream! 2nd Season",
+  "name_cn": "BanG Dream! 第二季",
+  "summary": "",
+  "date": "2019-01-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/d9/f3/246429_L8TbT.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/d9/f3/246429_L8TbT.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 1356,
+    "total": 2271,
+    "count": {
+      "1": 11,
+      "2": 5,
+      "3": 7,
+      "4": 21,
+      "5": 65,
+      "6": 296,
+      "7": 890,
+      "8": 727,
+      "9": 160,
+      "10": 89
+    },
+    "score": 7.3
+  },
+  "tags": [
+    {
+      "name": "BanGDream",
+      "count": 524
+    },
+    {
+      "name": "音乐",
+      "count": 438
+    },
+    {
+      "name": "乐队",
+      "count": 423
+    },
+    {
+      "name": "2019年1月",
+      "count": 403
+    },
+    {
+      "name": "原创",
+      "count": 316
+    },
+    {
+      "name": "TV",
+      "count": 311
+    },
+    {
+      "name": "百合",
+      "count": 307
+    },
+    {
+      "name": "偶像",
+      "count": 255
+    },
+    {
+      "name": "游戏改",
+      "count": 186
+    },
+    {
+      "name": "2019",
+      "count": 182
+    },
+    {
+      "name": "Bushiroad",
+      "count": 133
+    },
+    {
+      "name": "邦邦",
+      "count": 130
+    },
+    {
+      "name": "SANZIGEN",
+      "count": 91
+    },
+    {
+      "name": "三次元",
+      "count": 87
+    },
+    {
+      "name": "3D",
+      "count": 52
+    },
+    {
+      "name": "续作",
+      "count": 30
+    },
+    {
+      "name": "校园",
+      "count": 23
+    },
+    {
+      "name": "柿本広大",
+      "count": 21
+    },
+    {
+      "name": "柿本广大",
+      "count": 19
+    },
+    {
+      "name": "サンジゲン",
+      "count": 13
+    },
+    {
+      "name": "日常",
+      "count": 13
+    },
+    {
+      "name": "轻百合",
+      "count": 10
+    },
+    {
+      "name": "青春",
+      "count": 9
+    },
+    {
+      "name": "2019年",
+      "count": 8
+    },
+    {
+      "name": "BanG_Dream!",
+      "count": 8
+    },
+    {
+      "name": "续期",
+      "count": 7
+    },
+    {
+      "name": "綾奈ゆにこ",
+      "count": 7
+    },
+    {
+      "name": "绫奈由仁子",
+      "count": 6
+    },
+    {
+      "name": "日本",
+      "count": 5
+    },
+    {
+      "name": "轻百",
+      "count": 4
+    }
+  ],
+  "locked": false
+}

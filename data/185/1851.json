@@ -1,0 +1,153 @@
+{
+  "id": 1851,
+  "name": "Angel Beats!",
+  "name_cn": "天使的心跳！",
+  "summary": "　　故事从男主角死亡之后从“死后的世界”醒来开始，在“死后的世界”中的学校里，他与一位名为由利(ゆり)、在“死后的世界”率领着一个名为“死んだ(Shinda)世界(Sekai)战线(Sensen)”简称“SSS”的组织的少女相遇了。“SSS”成立的主要目的是与赐予他们生前悲哀命运的神以及神之使者——天使交战，在天使超乎常理的异能面前，“SSS”只能用枪来反抗。就这样一场发生在“死后的世界”的学校里的超能大战物语开始了……\r\n\r\n",
+  "date": "2010-04-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ff/14/1851_ZFEg7.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ff/14/1851_ZFEg7.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 787,
+    "total": 17378,
+    "count": {
+      "1": 72,
+      "2": 44,
+      "3": 76,
+      "4": 232,
+      "5": 553,
+      "6": 1981,
+      "7": 4920,
+      "8": 6034,
+      "9": 2353,
+      "10": 1113
+    },
+    "score": 7.5
+  },
+  "tags": [
+    {
+      "name": "麻枝准",
+      "count": 4568
+    },
+    {
+      "name": "key",
+      "count": 3470
+    },
+    {
+      "name": "AngleBeats!",
+      "count": 2923
+    },
+    {
+      "name": "P.A.WORKS",
+      "count": 2759
+    },
+    {
+      "name": "2010年4月",
+      "count": 1595
+    },
+    {
+      "name": "原创",
+      "count": 1487
+    },
+    {
+      "name": "TV",
+      "count": 1350
+    },
+    {
+      "name": "治愈",
+      "count": 1046
+    },
+    {
+      "name": "2010",
+      "count": 820
+    },
+    {
+      "name": "催泪",
+      "count": 733
+    },
+    {
+      "name": "神谷浩史",
+      "count": 712
+    },
+    {
+      "name": "花泽香菜",
+      "count": 578
+    },
+    {
+      "name": "香菜",
+      "count": 485
+    },
+    {
+      "name": "伪团长",
+      "count": 435
+    },
+    {
+      "name": "死后的团长",
+      "count": 371
+    },
+    {
+      "name": "校园",
+      "count": 310
+    },
+    {
+      "name": "AB",
+      "count": 225
+    },
+    {
+      "name": "殴打天使",
+      "count": 205
+    },
+    {
+      "name": "奇幻",
+      "count": 171
+    },
+    {
+      "name": "恋爱",
+      "count": 159
+    },
+    {
+      "name": "岸诚二",
+      "count": 156
+    },
+    {
+      "name": "搞笑",
+      "count": 150
+    },
+    {
+      "name": "战斗",
+      "count": 115
+    },
+    {
+      "name": "Angel",
+      "count": 100
+    },
+    {
+      "name": "岸誠二",
+      "count": 80
+    },
+    {
+      "name": "麻麻麻麻麻麻麻枝准",
+      "count": 51
+    },
+    {
+      "name": "2010年",
+      "count": 50
+    },
+    {
+      "name": "日常",
+      "count": 48
+    },
+    {
+      "name": "Beats",
+      "count": 46
+    },
+    {
+      "name": "天使",
+      "count": 45
+    }
+  ],
+  "locked": false
+}

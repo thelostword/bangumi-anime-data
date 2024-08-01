@@ -1,0 +1,153 @@
+{
+  "id": 338802,
+  "name": "令和のデ・ジ・キャラット",
+  "name_cn": "令和的Di Gi Charat",
+  "summary": "デ・ジ・キャラット星から地球にやってきたでじことぷちこ。\r\nJKになったうさだ。気高く悪の道を突き進むブラックゲマゲマ団。\r\n\r\nただでさえにぎやかなところに新レギュラーとして\r\n株式会社ブロッコリーの女神ブロッコデス様と\r\n株式会社ブシロードの守護神ブシロちゃんも参戦し、\r\nますます何が起こるかわからないデ・ジ・キャラット新プロジェクト、\r\nついにスタート！！",
+  "date": "2022-10-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/af/47/338802_4FuVF.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/af/47/338802_4FuVF.jpg"
+  },
+  "eps": 16,
+  "rating": {
+    "rank": 6939,
+    "total": 89,
+    "count": {
+      "1": 2,
+      "2": 2,
+      "3": 5,
+      "4": 6,
+      "5": 31,
+      "6": 27,
+      "7": 11,
+      "8": 3,
+      "9": 0,
+      "10": 2
+    },
+    "score": 5.4
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 39
+    },
+    {
+      "name": "2022",
+      "count": 38
+    },
+    {
+      "name": "TV",
+      "count": 30
+    },
+    {
+      "name": "LIDENFILMS",
+      "count": 28
+    },
+    {
+      "name": "2022年10月",
+      "count": 25
+    },
+    {
+      "name": "原创",
+      "count": 15
+    },
+    {
+      "name": "桜井弘明",
+      "count": 14
+    },
+    {
+      "name": "泡面",
+      "count": 13
+    },
+    {
+      "name": "萌系",
+      "count": 10
+    },
+    {
+      "name": "日本",
+      "count": 8
+    },
+    {
+      "name": "氷上恭子",
+      "count": 5
+    },
+    {
+      "name": "LINDERFILM",
+      "count": 4
+    },
+    {
+      "name": "萌",
+      "count": 3
+    },
+    {
+      "name": "治愈",
+      "count": 2
+    },
+    {
+      "name": "WEB",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "真田アサミ",
+      "count": 2
+    },
+    {
+      "name": "屹青",
+      "count": 1
+    },
+    {
+      "name": "ライデンフィルム",
+      "count": 1
+    },
+    {
+      "name": "2022秋",
+      "count": 1
+    },
+    {
+      "name": "可独立观赏",
+      "count": 1
+    },
+    {
+      "name": "TVA-02",
+      "count": 1
+    },
+    {
+      "name": "动画",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "电波",
+      "count": 1
+    },
+    {
+      "name": "沢城みゆき",
+      "count": 1
+    },
+    {
+      "name": "日漫",
+      "count": 1
+    },
+    {
+      "name": "秋叶原",
+      "count": 1
+    },
+    {
+      "name": "樱井弘明",
+      "count": 1
+    },
+    {
+      "name": "情怀",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

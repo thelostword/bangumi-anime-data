@@ -1,0 +1,93 @@
+{
+  "id": 206011,
+  "name": "100%パスカル先生",
+  "name_cn": "100%帕斯卡老师",
+  "summary": "きのえだ小学校４年１組の担任としてやってきたパスカル先生。丁寧なしゃべり方だけど、言ってることややってることはハチャメチャ！４年１組の生徒、はやとくんたちも巻込んだドタバタギャグの日々がスタート！",
+  "date": "2017-04-15",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c7/95/206011_A3pb7.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c7/95/206011_A3pb7.jpg"
+  },
+  "eps": 36,
+  "rating": {
+    "rank": 0,
+    "total": 7,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 2,
+      "6": 0,
+      "7": 5,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.4
+  },
+  "tags": [
+    {
+      "name": "OLM",
+      "count": 4
+    },
+    {
+      "name": "2017",
+      "count": 3
+    },
+    {
+      "name": "佐藤花",
+      "count": 2
+    },
+    {
+      "name": "小平有希",
+      "count": 2
+    },
+    {
+      "name": "子供向",
+      "count": 2
+    },
+    {
+      "name": "TVA",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "森りょういち",
+      "count": 1
+    },
+    {
+      "name": "OLM、OLMDigital",
+      "count": 1
+    },
+    {
+      "name": "补标",
+      "count": 1
+    },
+    {
+      "name": "2017年4月",
+      "count": 1
+    },
+    {
+      "name": "三季番",
+      "count": 1
+    },
+    {
+      "name": "三浦陽",
+      "count": 1
+    },
+    {
+      "name": "漫画改",
+      "count": 1
+    },
+    {
+      "name": "OLMTEAMOTA",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

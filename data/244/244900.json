@@ -1,0 +1,153 @@
+{
+  "id": 244900,
+  "name": "群青のマグメル",
+  "name_cn": "拾又之国",
+  "summary": "大洋の真ん中に突如として出現した新大陸・聖洲（マグメル）を舞台に、探検家たちの救助を生業とする少年・因又の活躍を描くファンタジー。",
+  "date": "2019-04-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/6a/3a/244900_M9Eoq.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/6a/3a/244900_M9Eoq.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 8556,
+    "total": 298,
+    "count": {
+      "1": 25,
+      "2": 30,
+      "3": 48,
+      "4": 97,
+      "5": 51,
+      "6": 34,
+      "7": 7,
+      "8": 3,
+      "9": 2,
+      "10": 1
+    },
+    "score": 3.9
+  },
+  "tags": [
+    {
+      "name": "2019年4月",
+      "count": 90
+    },
+    {
+      "name": "中日合资",
+      "count": 65
+    },
+    {
+      "name": "TV",
+      "count": 54
+    },
+    {
+      "name": "漫画改",
+      "count": 52
+    },
+    {
+      "name": "漫改",
+      "count": 48
+    },
+    {
+      "name": "战斗",
+      "count": 46
+    },
+    {
+      "name": "2019",
+      "count": 34
+    },
+    {
+      "name": "小丑社",
+      "count": 32
+    },
+    {
+      "name": "国漫",
+      "count": 28
+    },
+    {
+      "name": "奇幻",
+      "count": 25
+    },
+    {
+      "name": "ぴえろ",
+      "count": 17
+    },
+    {
+      "name": "国产",
+      "count": 15
+    },
+    {
+      "name": "漫画改编",
+      "count": 13
+    },
+    {
+      "name": "StudioPierrot",
+      "count": 11
+    },
+    {
+      "name": "河西健吾",
+      "count": 9
+    },
+    {
+      "name": "M・A・O",
+      "count": 6
+    },
+    {
+      "name": "集英社",
+      "count": 3
+    },
+    {
+      "name": "垃圾",
+      "count": 3
+    },
+    {
+      "name": "2019春",
+      "count": 3
+    },
+    {
+      "name": "拾又之国",
+      "count": 3
+    },
+    {
+      "name": "中日",
+      "count": 3
+    },
+    {
+      "name": "动画",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "2019年",
+      "count": 2
+    },
+    {
+      "name": "国创",
+      "count": 2
+    },
+    {
+      "name": "伊达勇登",
+      "count": 2
+    },
+    {
+      "name": "冒险",
+      "count": 2
+    },
+    {
+      "name": "御笠之忠次",
+      "count": 2
+    },
+    {
+      "name": "伊達勇登",
+      "count": 2
+    },
+    {
+      "name": "中国",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

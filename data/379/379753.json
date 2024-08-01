@@ -1,0 +1,89 @@
+{
+  "id": 379753,
+  "name": "とんがり頭のごん太",
+  "name_cn": "尖头的权太",
+  "summary": "ごん太、勇気をありがとう。\r\n東日本大震災により、\r\n飼い主と生き別れた福島被災犬ごん太。\r\nたくさんの人々の善意に満ちた行動が、\r\n奇跡を紡ぐ物語。",
+  "date": "2022-06-03",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/49/3e/379753_pBk03.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/49/3e/379753_pBk03.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 10,
+    "count": {
+      "1": 1,
+      "2": 4,
+      "3": 2,
+      "4": 2,
+      "5": 1,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 2.8
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 7
+    },
+    {
+      "name": "2022",
+      "count": 7
+    },
+    {
+      "name": "WAOWorld",
+      "count": 5
+    },
+    {
+      "name": "西澤昭男",
+      "count": 2
+    },
+    {
+      "name": "未上映",
+      "count": 2
+    },
+    {
+      "name": "未发售",
+      "count": 2
+    },
+    {
+      "name": "小说改",
+      "count": 2
+    },
+    {
+      "name": "石川由依",
+      "count": 2
+    },
+    {
+      "name": "置鮎龍太郎",
+      "count": 1
+    },
+    {
+      "name": "剧场版-02",
+      "count": 1
+    },
+    {
+      "name": "动画电影",
+      "count": 1
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "2分",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

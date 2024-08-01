@@ -1,0 +1,153 @@
+{
+  "id": 160674,
+  "name": "ルパン三世 イタリアン・ゲーム",
+  "name_cn": "鲁邦三世 意大利游戏",
+  "summary": "TV Special 25。\r\n\r\n本作的目标将围绕“卡里奥斯特罗伯爵的遗产”展开，蕾贝卡罗塞里尼被绑架，鲁邦不能放任自己的“妻子”不管，决定从犯人的手里“盗取”蕾贝卡。这其中又隐藏着什么不可告人的秘密呢？",
+  "date": "2016-01-08",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/21/b9/160674_AWeXF.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/21/b9/160674_AWeXF.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 1683,
+    "total": 242,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 6,
+      "6": 43,
+      "7": 100,
+      "8": 78,
+      "9": 10,
+      "10": 5
+    },
+    "score": 7.2
+  },
+  "tags": [
+    {
+      "name": "鲁邦三世",
+      "count": 90
+    },
+    {
+      "name": "OVA",
+      "count": 47
+    },
+    {
+      "name": "2016",
+      "count": 41
+    },
+    {
+      "name": "TVSP",
+      "count": 27
+    },
+    {
+      "name": "2016年1月",
+      "count": 25
+    },
+    {
+      "name": "TelecomAnimationFilm",
+      "count": 23
+    },
+    {
+      "name": "TV",
+      "count": 17
+    },
+    {
+      "name": "沢城みゆき",
+      "count": 14
+    },
+    {
+      "name": "矢野雄一郎",
+      "count": 11
+    },
+    {
+      "name": "漫改",
+      "count": 11
+    },
+    {
+      "name": "原创",
+      "count": 9
+    },
+    {
+      "name": "SP",
+      "count": 6
+    },
+    {
+      "name": "漫画改",
+      "count": 6
+    },
+    {
+      "name": "2016年",
+      "count": 5
+    },
+    {
+      "name": "友永和秀",
+      "count": 4
+    },
+    {
+      "name": "Telecom",
+      "count": 4
+    },
+    {
+      "name": "剧场版",
+      "count": 4
+    },
+    {
+      "name": "ルパン三世",
+      "count": 3
+    },
+    {
+      "name": "2016年一月番",
+      "count": 3
+    },
+    {
+      "name": "森本晃司",
+      "count": 3
+    },
+    {
+      "name": "总集篇",
+      "count": 3
+    },
+    {
+      "name": "高橋悠也",
+      "count": 3
+    },
+    {
+      "name": "动画",
+      "count": 3
+    },
+    {
+      "name": "小林清志",
+      "count": 3
+    },
+    {
+      "name": "搞笑",
+      "count": 3
+    },
+    {
+      "name": "日本",
+      "count": 3
+    },
+    {
+      "name": "TAF",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "Telecom_Animation_Film",
+      "count": 2
+    },
+    {
+      "name": "TMS",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

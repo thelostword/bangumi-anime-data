@@ -1,0 +1,65 @@
+{
+  "id": 211287,
+  "name": "愛少女ポリアンナ物語",
+  "name_cn": "爱少女波丽安娜物语",
+  "summary": "",
+  "date": "1986-01-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/31/98/211287_j9jXj.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/31/98/211287_j9jXj.jpg"
+  },
+  "eps": 51,
+  "rating": {
+    "rank": 0,
+    "total": 6,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 3,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 6.7
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 4
+    },
+    {
+      "name": "1986",
+      "count": 4
+    },
+    {
+      "name": "世界名作劇場",
+      "count": 3
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "时事热点",
+      "count": 1
+    },
+    {
+      "name": "世界名作剧场",
+      "count": 1
+    },
+    {
+      "name": "童年",
+      "count": 1
+    },
+    {
+      "name": "日本动画公司",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

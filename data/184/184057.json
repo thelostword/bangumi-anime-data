@@ -1,0 +1,153 @@
+{
+  "id": 184057,
+  "name": "オーバーロード OAD",
+  "name_cn": "OVERLORD OAD",
+  "summary": "单行本第11卷同捆OAD。新作动画时长30分钟，守护者全员将全数出场。",
+  "date": "2016-09-30",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/49/3c/184057_XX8x8.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/49/3c/184057_XX8x8.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 5762,
+    "total": 857,
+    "count": {
+      "1": 3,
+      "2": 5,
+      "3": 5,
+      "4": 22,
+      "5": 111,
+      "6": 354,
+      "7": 277,
+      "8": 58,
+      "9": 7,
+      "10": 15
+    },
+    "score": 6.3
+  },
+  "tags": [
+    {
+      "name": "OAD",
+      "count": 243
+    },
+    {
+      "name": "搞笑",
+      "count": 191
+    },
+    {
+      "name": "OVA",
+      "count": 156
+    },
+    {
+      "name": "OVERLORD",
+      "count": 109
+    },
+    {
+      "name": "2016年9月",
+      "count": 103
+    },
+    {
+      "name": "番外",
+      "count": 96
+    },
+    {
+      "name": "2016",
+      "count": 89
+    },
+    {
+      "name": "轻小说改",
+      "count": 72
+    },
+    {
+      "name": "STUDIOPUYUKAI",
+      "count": 59
+    },
+    {
+      "name": "轻改",
+      "count": 45
+    },
+    {
+      "name": "异世界",
+      "count": 43
+    },
+    {
+      "name": "奇幻",
+      "count": 24
+    },
+    {
+      "name": "穿越",
+      "count": 19
+    },
+    {
+      "name": "小说改",
+      "count": 12
+    },
+    {
+      "name": "芦名みのる",
+      "count": 7
+    },
+    {
+      "name": "2016年10月",
+      "count": 6
+    },
+    {
+      "name": "泡面番",
+      "count": 6
+    },
+    {
+      "name": "骨傲天",
+      "count": 6
+    },
+    {
+      "name": "2016年",
+      "count": 5
+    },
+    {
+      "name": "日野聪",
+      "count": 5
+    },
+    {
+      "name": "スタジオぷYUKAI",
+      "count": 5
+    },
+    {
+      "name": "装逼",
+      "count": 4
+    },
+    {
+      "name": "战斗",
+      "count": 4
+    },
+    {
+      "name": "小剧场",
+      "count": 4
+    },
+    {
+      "name": "动画",
+      "count": 4
+    },
+    {
+      "name": "日本动画",
+      "count": 4
+    },
+    {
+      "name": "原由实",
+      "count": 3
+    },
+    {
+      "name": "芦名稔",
+      "count": 3
+    },
+    {
+      "name": "丸山くがね",
+      "count": 2
+    },
+    {
+      "name": "6分",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

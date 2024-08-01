@@ -1,0 +1,57 @@
+{
+  "id": 299458,
+  "name": "闘将!!拉麵男",
+  "name_cn": "斗将！！拉面男",
+  "summary": "",
+  "date": "1988-01-10",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/21/6e/299458_4Q03M.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/21/6e/299458_4Q03M.jpg"
+  },
+  "eps": 35,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "时事热点",
+      "count": 1
+    },
+    {
+      "name": "赛璐珞",
+      "count": 1
+    },
+    {
+      "name": "80s",
+      "count": 1
+    },
+    {
+      "name": "东映动画",
+      "count": 1
+    },
+    {
+      "name": "TV",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

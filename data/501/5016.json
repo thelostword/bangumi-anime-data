@@ -1,0 +1,97 @@
+{
+  "id": 5016,
+  "name": "ONE～輝く季節へ～",
+  "name_cn": "ONE～辉之季节～",
+  "summary": "全年齢版はキャラクター設定や背景設定などが原作と全く異なっており、全巻を貫くシナリオも原作とは全く異なった展開となっている。",
+  "date": "2001-08-10",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/7e/33/5016_tgQvt.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/7e/33/5016_tgQvt.jpg"
+  },
+  "eps": 4,
+  "rating": {
+    "rank": 7747,
+    "total": 313,
+    "score": 5.5,
+    "count": {
+      "1": 0,
+      "2": 10,
+      "3": 11,
+      "4": 45,
+      "5": 84,
+      "6": 101,
+      "7": 45,
+      "8": 12,
+      "9": 2,
+      "10": 3
+    }
+  },
+  "tags": [
+    {
+      "name": "key",
+      "count": 100
+    },
+    {
+      "name": "OVA",
+      "count": 99
+    },
+    {
+      "name": "2001",
+      "count": 55
+    },
+    {
+      "name": "GAL改",
+      "count": 49
+    },
+    {
+      "name": "Arms",
+      "count": 26
+    },
+    {
+      "name": "里番",
+      "count": 25
+    },
+    {
+      "name": "补番",
+      "count": 23
+    },
+    {
+      "name": "游戏改",
+      "count": 22
+    },
+    {
+      "name": "治愈",
+      "count": 14
+    },
+    {
+      "name": "ONE",
+      "count": 13
+    },
+    {
+      "name": "恋爱",
+      "count": 5
+    },
+    {
+      "name": "2001年",
+      "count": 3
+    },
+    {
+      "name": "日本",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 3
+    },
+    {
+      "name": "独立ova",
+      "count": 2
+    },
+    {
+      "name": "奇幻",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

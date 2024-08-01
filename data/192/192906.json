@@ -1,0 +1,153 @@
+{
+  "id": 192906,
+  "name": "ベルセルク 次篇",
+  "name_cn": "剑风传奇 次篇",
+  "summary": "",
+  "date": "2017-04-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/6b/f9/192906_p7NAm.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/6b/f9/192906_p7NAm.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 2431,
+    "total": 888,
+    "count": {
+      "1": 5,
+      "2": 3,
+      "3": 2,
+      "4": 22,
+      "5": 42,
+      "6": 145,
+      "7": 391,
+      "8": 215,
+      "9": 37,
+      "10": 26
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "剑风传奇",
+      "count": 166
+    },
+    {
+      "name": "TV",
+      "count": 155
+    },
+    {
+      "name": "2017年4月",
+      "count": 129
+    },
+    {
+      "name": "战斗",
+      "count": 112
+    },
+    {
+      "name": "漫改",
+      "count": 95
+    },
+    {
+      "name": "漫画改",
+      "count": 77
+    },
+    {
+      "name": "热血",
+      "count": 75
+    },
+    {
+      "name": "2017",
+      "count": 74
+    },
+    {
+      "name": "GEMBA",
+      "count": 62
+    },
+    {
+      "name": "3D",
+      "count": 60
+    },
+    {
+      "name": "奇幻",
+      "count": 40
+    },
+    {
+      "name": "鷺巣詩郎",
+      "count": 27
+    },
+    {
+      "name": "板垣伸",
+      "count": 27
+    },
+    {
+      "name": "berserk",
+      "count": 21
+    },
+    {
+      "name": "次篇",
+      "count": 9
+    },
+    {
+      "name": "ミルパンセ",
+      "count": 8
+    },
+    {
+      "name": "日本动画",
+      "count": 6
+    },
+    {
+      "name": "三浦建太郎",
+      "count": 5
+    },
+    {
+      "name": "冒险",
+      "count": 5
+    },
+    {
+      "name": "millepensee",
+      "count": 4
+    },
+    {
+      "name": "续作",
+      "count": 4
+    },
+    {
+      "name": "岩永洋昭",
+      "count": 3
+    },
+    {
+      "name": "暗黑",
+      "count": 3
+    },
+    {
+      "name": "深見真",
+      "count": 3
+    },
+    {
+      "name": "动画",
+      "count": 3
+    },
+    {
+      "name": "2017年",
+      "count": 3
+    },
+    {
+      "name": "三浦健太郎",
+      "count": 3
+    },
+    {
+      "name": "TVA",
+      "count": 3
+    },
+    {
+      "name": "神作",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

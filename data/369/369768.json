@@ -1,0 +1,153 @@
+{
+  "id": 369768,
+  "name": "鬼滅の刃 刀鍛冶の里編",
+  "name_cn": "鬼灭之刃 刀匠村篇",
+  "summary": "故事来到了新的地方——炭治郎的目的地是「刀匠村」。与鬼杀队的最强剑士，霞柱·时透无一郎与恋柱·甘露寺蜜璃再会，而鬼也悄然逼近。炭治郎一行人新的战斗即将开始。",
+  "date": "2023-04-09",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c9/bb/369768_F05zh.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c9/bb/369768_F05zh.jpg"
+  },
+  "eps": 11,
+  "rating": {
+    "rank": 4749,
+    "total": 5584,
+    "count": {
+      "1": 25,
+      "2": 24,
+      "3": 55,
+      "4": 164,
+      "5": 559,
+      "6": 1751,
+      "7": 2015,
+      "8": 766,
+      "9": 122,
+      "10": 103
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "ufotable",
+      "count": 1344
+    },
+    {
+      "name": "热血",
+      "count": 1055
+    },
+    {
+      "name": "2023年4月",
+      "count": 1004
+    },
+    {
+      "name": "战斗",
+      "count": 992
+    },
+    {
+      "name": "漫画改",
+      "count": 810
+    },
+    {
+      "name": "鬼灭之刃",
+      "count": 714
+    },
+    {
+      "name": "TV",
+      "count": 625
+    },
+    {
+      "name": "2023",
+      "count": 423
+    },
+    {
+      "name": "漫改",
+      "count": 412
+    },
+    {
+      "name": "奇幻",
+      "count": 359
+    },
+    {
+      "name": "续作",
+      "count": 177
+    },
+    {
+      "name": "JUMP",
+      "count": 151
+    },
+    {
+      "name": "外崎春雄",
+      "count": 124
+    },
+    {
+      "name": "花江夏树",
+      "count": 78
+    },
+    {
+      "name": "日本动画",
+      "count": 30
+    },
+    {
+      "name": "日本",
+      "count": 16
+    },
+    {
+      "name": "2023年",
+      "count": 13
+    },
+    {
+      "name": "梶浦由记",
+      "count": 10
+    },
+    {
+      "name": "搞笑",
+      "count": 9
+    },
+    {
+      "name": "季番",
+      "count": 8
+    },
+    {
+      "name": "椎名豪",
+      "count": 8
+    },
+    {
+      "name": "冒险",
+      "count": 8
+    },
+    {
+      "name": "花江夏樹",
+      "count": 7
+    },
+    {
+      "name": "花泽香菜",
+      "count": 6
+    },
+    {
+      "name": "日漫",
+      "count": 6
+    },
+    {
+      "name": "TVA",
+      "count": 6
+    },
+    {
+      "name": "河西健吾",
+      "count": 6
+    },
+    {
+      "name": "王道",
+      "count": 5
+    },
+    {
+      "name": "花澤香菜",
+      "count": 5
+    },
+    {
+      "name": "动画",
+      "count": 5
+    }
+  ],
+  "locked": false
+}

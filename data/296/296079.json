@@ -1,0 +1,153 @@
+{
+  "id": 296079,
+  "name": "薄明の翼",
+  "name_cn": "破晓之翼",
+  "summary": "《破晓之翼》跟新游戏《宝可梦 剑/盾》一样是以“伽勒尔地区”为舞台背景，真实描绘住在“伽勒尔地区”年轻人们烦恼与纠葛的多线并行群像剧，适合所有年龄段的正式动画作品。\r\n\r\n“伽勒尔地区”是一个有着以宝可梦对战为产业发展的区域。在总共7集的故事的展开中纤细的描绘了在这样的社会中生活的年轻人们的梦想与现实、烦恼与内心纠葛。",
+  "date": "2020-01-15",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/13/ae/296079_E3ee5.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/13/ae/296079_E3ee5.jpg"
+  },
+  "eps": 7,
+  "rating": {
+    "rank": 1104,
+    "total": 619,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 7,
+      "5": 11,
+      "6": 72,
+      "7": 226,
+      "8": 240,
+      "9": 50,
+      "10": 12
+    },
+    "score": 7.4
+  },
+  "tags": [
+    {
+      "name": "WEB",
+      "count": 164
+    },
+    {
+      "name": "2020",
+      "count": 135
+    },
+    {
+      "name": "游戏改",
+      "count": 134
+    },
+    {
+      "name": "泡面番",
+      "count": 104
+    },
+    {
+      "name": "宝可梦",
+      "count": 98
+    },
+    {
+      "name": "山下清悟",
+      "count": 81
+    },
+    {
+      "name": "2020年1月",
+      "count": 74
+    },
+    {
+      "name": "StudioColorido",
+      "count": 70
+    },
+    {
+      "name": "原创",
+      "count": 50
+    },
+    {
+      "name": "短片",
+      "count": 43
+    },
+    {
+      "name": "Colorido",
+      "count": 36
+    },
+    {
+      "name": "pokemon",
+      "count": 35
+    },
+    {
+      "name": "OVA",
+      "count": 30
+    },
+    {
+      "name": "剑盾",
+      "count": 23
+    },
+    {
+      "name": "奇幻",
+      "count": 6
+    },
+    {
+      "name": "木下爽",
+      "count": 6
+    },
+    {
+      "name": "治愈",
+      "count": 6
+    },
+    {
+      "name": "TV",
+      "count": 6
+    },
+    {
+      "name": "热血",
+      "count": 4
+    },
+    {
+      "name": "神奇宝贝",
+      "count": 4
+    },
+    {
+      "name": "2020年",
+      "count": 4
+    },
+    {
+      "name": "日本动画",
+      "count": 4
+    },
+    {
+      "name": "战斗",
+      "count": 4
+    },
+    {
+      "name": "日本",
+      "count": 4
+    },
+    {
+      "name": "精灵宝可梦",
+      "count": 3
+    },
+    {
+      "name": "游改",
+      "count": 2
+    },
+    {
+      "name": "小笠原真",
+      "count": 2
+    },
+    {
+      "name": "其他",
+      "count": 2
+    },
+    {
+      "name": "竞技",
+      "count": 2
+    },
+    {
+      "name": "补番",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

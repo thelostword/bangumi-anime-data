@@ -1,0 +1,153 @@
+{
+  "id": 280654,
+  "name": "エデン",
+  "name_cn": "伊甸",
+  "summary": "人類が姿を消した数千年後の未来。ロボットだけが暮らす機械都市\"エデン3\"には、人間はいないはずだった…。\r\nそんな街に住む2体のロボットはある日、農作業中に人間の女の子を見つける。そして彼らのとった行動が、やがて世界の運命を変えることに…。",
+  "date": "2021-05-27",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/25/82/280654_sWq4a.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/25/82/280654_sWq4a.jpg"
+  },
+  "eps": 4,
+  "rating": {
+    "rank": 7064,
+    "total": 104,
+    "count": {
+      "1": 3,
+      "2": 1,
+      "3": 3,
+      "4": 12,
+      "5": 31,
+      "6": 35,
+      "7": 13,
+      "8": 5,
+      "9": 0,
+      "10": 1
+    },
+    "score": 5.5
+  },
+  "tags": [
+    {
+      "name": "WEB",
+      "count": 44
+    },
+    {
+      "name": "Netflix",
+      "count": 41
+    },
+    {
+      "name": "原创",
+      "count": 34
+    },
+    {
+      "name": "2021",
+      "count": 33
+    },
+    {
+      "name": "科幻",
+      "count": 26
+    },
+    {
+      "name": "入江泰浩",
+      "count": 21
+    },
+    {
+      "name": "2021年4月",
+      "count": 12
+    },
+    {
+      "name": "BONES",
+      "count": 10
+    },
+    {
+      "name": "CGCG",
+      "count": 8
+    },
+    {
+      "name": "2020年",
+      "count": 6
+    },
+    {
+      "name": "川元利浩",
+      "count": 6
+    },
+    {
+      "name": "SF",
+      "count": 5
+    },
+    {
+      "name": "3D",
+      "count": 5
+    },
+    {
+      "name": "TV",
+      "count": 5
+    },
+    {
+      "name": "QubicPictures",
+      "count": 4
+    },
+    {
+      "name": "うえのきみこ",
+      "count": 3
+    },
+    {
+      "name": "Penkin",
+      "count": 3
+    },
+    {
+      "name": "川原利浩",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 2
+    },
+    {
+      "name": "Kevin",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "2020s",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "Qubic",
+      "count": 2
+    },
+    {
+      "name": "屹青",
+      "count": 1
+    },
+    {
+      "name": "0分",
+      "count": 1
+    },
+    {
+      "name": "三渲二",
+      "count": 1
+    },
+    {
+      "name": "非连续或短剧集",
+      "count": 1
+    },
+    {
+      "name": "剧集",
+      "count": 1
+    },
+    {
+      "name": "无言",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,61 @@
+{
+  "id": 182784,
+  "name": "GON -ゴン- 2期",
+  "name_cn": "小恐龙阿贡 第二季",
+  "summary": "",
+  "date": "2015-04-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/d7/18/182784_u1916.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/d7/18/182784_u1916.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "2015年四月番",
+      "count": 1
+    },
+    {
+      "name": "DaewonMedia",
+      "count": 1
+    },
+    {
+      "name": "2015年4月",
+      "count": 1
+    },
+    {
+      "name": "2015年",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "2015",
+      "count": 1
+    },
+    {
+      "name": "TV",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

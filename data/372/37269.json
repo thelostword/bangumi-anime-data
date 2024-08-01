@@ -1,0 +1,137 @@
+{
+  "id": 37269,
+  "name": "忍者戦士飛影",
+  "name_cn": "忍者战士飞影",
+  "summary": "ザ・ブーム軍に対抗するため、3万光年からこの地球を囲む太陽系の正反対にあるシェーマ星系・ラドリオ星からやって来た、ラドリオ星に伝わる伝説の戦士「忍者」を探すロミナ姫とエルシャンクの人々。火星で出会ったジョウ、レニー、マイクは果たしてその「忍者」なのだろうか？",
+  "date": "1985-10-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/fa/1e/37269_FFUGJ.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/fa/1e/37269_FFUGJ.jpg"
+  },
+  "eps": 43,
+  "rating": {
+    "rank": 0,
+    "total": 24,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 0,
+      "5": 10,
+      "6": 9,
+      "7": 3,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 5.8
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 9
+    },
+    {
+      "name": "1985",
+      "count": 8
+    },
+    {
+      "name": "苇PRODUCTION",
+      "count": 7
+    },
+    {
+      "name": "日髙のり子",
+      "count": 5
+    },
+    {
+      "name": "80",
+      "count": 5
+    },
+    {
+      "name": "飛影",
+      "count": 4
+    },
+    {
+      "name": "渡邉由自",
+      "count": 3
+    },
+    {
+      "name": "案納正美",
+      "count": 3
+    },
+    {
+      "name": "ロボットアニメ",
+      "count": 3
+    },
+    {
+      "name": "萝卜",
+      "count": 3
+    },
+    {
+      "name": "1分钟弃",
+      "count": 2
+    },
+    {
+      "name": "robo",
+      "count": 2
+    },
+    {
+      "name": "葦プロダクション",
+      "count": 1
+    },
+    {
+      "name": "冷门老番",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "补旧番",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "机甲",
+      "count": 1
+    },
+    {
+      "name": "原创",
+      "count": 1
+    },
+    {
+      "name": "科幻",
+      "count": 1
+    },
+    {
+      "name": "井上和彦",
+      "count": 1
+    },
+    {
+      "name": "ぴえろ",
+      "count": 1
+    },
+    {
+      "name": "StudioPierrot",
+      "count": 1
+    },
+    {
+      "name": "80年代",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "渡辺由自",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

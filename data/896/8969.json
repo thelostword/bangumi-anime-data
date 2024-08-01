@@ -1,0 +1,153 @@
+{
+  "id": 8969,
+  "name": "クレヨンしんちゃん 雲黒斎の野望",
+  "name_cn": "蜡笔小新之云黑斋的野心",
+  "summary": "",
+  "date": "1995-04-15",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/fc/0d/8969_NlbVm.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/fc/0d/8969_NlbVm.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 4062,
+    "total": 284,
+    "count": {
+      "1": 0,
+      "2": 1,
+      "3": 2,
+      "4": 5,
+      "5": 24,
+      "6": 103,
+      "7": 108,
+      "8": 30,
+      "9": 2,
+      "10": 9
+    },
+    "score": 6.6
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 104
+    },
+    {
+      "name": "蜡笔小新",
+      "count": 82
+    },
+    {
+      "name": "1995",
+      "count": 49
+    },
+    {
+      "name": "搞笑",
+      "count": 26
+    },
+    {
+      "name": "SHIN-EI",
+      "count": 20
+    },
+    {
+      "name": "シンエイ動画",
+      "count": 12
+    },
+    {
+      "name": "本郷みつる",
+      "count": 12
+    },
+    {
+      "name": "原恵一",
+      "count": 11
+    },
+    {
+      "name": "漫画改",
+      "count": 11
+    },
+    {
+      "name": "童年",
+      "count": 8
+    },
+    {
+      "name": "漫改",
+      "count": 6
+    },
+    {
+      "name": "原创",
+      "count": 6
+    },
+    {
+      "name": "蠟筆小新",
+      "count": 4
+    },
+    {
+      "name": "日本",
+      "count": 4
+    },
+    {
+      "name": "アニメ映画",
+      "count": 3
+    },
+    {
+      "name": "90年代",
+      "count": 2
+    },
+    {
+      "name": "1990s",
+      "count": 2
+    },
+    {
+      "name": "SHIN-EI动画",
+      "count": 2
+    },
+    {
+      "name": "六分",
+      "count": 2
+    },
+    {
+      "name": "劇場版",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "本乡满",
+      "count": 2
+    },
+    {
+      "name": "子供向",
+      "count": 2
+    },
+    {
+      "name": "1995年4月",
+      "count": 1
+    },
+    {
+      "name": "原勝徳",
+      "count": 1
+    },
+    {
+      "name": "弱7",
+      "count": 1
+    },
+    {
+      "name": "堤規至",
+      "count": 1
+    },
+    {
+      "name": "漫画原案",
+      "count": 1
+    },
+    {
+      "name": "动画长片",
+      "count": 1
+    },
+    {
+      "name": "クレヨンしんちゃん",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

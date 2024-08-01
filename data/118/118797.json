@@ -1,0 +1,41 @@
+{
+  "id": 118797,
+  "name": "ハル&ボンス",
+  "name_cn": "",
+  "summary": "",
+  "date": "2002-10-02",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/5d/93/118797_3lKhS.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/5d/93/118797_3lKhS.jpg"
+  },
+  "eps": 5,
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 1,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "OVA-01",
+      "count": 1
+    },
+    {
+      "name": "空",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

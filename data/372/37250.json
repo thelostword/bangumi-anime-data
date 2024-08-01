@@ -1,0 +1,89 @@
+{
+  "id": 37250,
+  "name": "NG騎士ラムネ&40 EX ビクビクトライアングル 愛の嵐大作戦",
+  "name_cn": "NG骑士柠檬汽水&40 EX",
+  "summary": "　打倒“妖神颂五力”的三年后，马场柠檬已经是国中生。某日，阿拉拉城空中突然出现了巨大奇怪物体…",
+  "date": "1991-07-21",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/66/81/37250_x62JX.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/66/81/37250_x62JX.jpg"
+  },
+  "eps": 3,
+  "rating": {
+    "rank": 0,
+    "total": 21,
+    "count": {
+      "1": 0,
+      "2": 1,
+      "3": 0,
+      "4": 0,
+      "5": 3,
+      "6": 5,
+      "7": 6,
+      "8": 3,
+      "9": 3,
+      "10": 0
+    },
+    "score": 6.7
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 12
+    },
+    {
+      "name": "1991",
+      "count": 9
+    },
+    {
+      "name": "草尾毅",
+      "count": 5
+    },
+    {
+      "name": "ProductionReed",
+      "count": 2
+    },
+    {
+      "name": "玉川砂記子",
+      "count": 1
+    },
+    {
+      "name": "葦プロダクション",
+      "count": 1
+    },
+    {
+      "name": "OVA-01",
+      "count": 1
+    },
+    {
+      "name": "robo",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "ねぎしひろし",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "あかほりさとる",
+      "count": 1
+    },
+    {
+      "name": "萝卜",
+      "count": 1
+    },
+    {
+      "name": "横山智佐",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

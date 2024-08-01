@@ -1,0 +1,153 @@
+{
+  "id": 195328,
+  "name": "アイドルマスター シンデレラガールズ劇場",
+  "name_cn": "偶像大师 灰姑娘女孩剧场",
+  "summary": "好评配信中的偶像培育游戏「偶像大师 灰姑娘女孩」，在本游戏内进行展开的「灰姑娘女孩剧场」，化身TV动画崭新登场！\r\n我们所熟悉的偶像们，今天也是遇到了大事件！？\r\n平常所未能描绘的偶像们的休息日、以及偶像之间的滑稽小剧场等等。将会带来这些小日常的High tension短篇动画，即将开幕♪",
+  "date": "2017-04-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ec/10/195328_O77ov.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ec/10/195328_O77ov.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 3572,
+    "total": 626,
+    "count": {
+      "1": 2,
+      "2": 0,
+      "3": 2,
+      "4": 11,
+      "5": 32,
+      "6": 187,
+      "7": 288,
+      "8": 82,
+      "9": 11,
+      "10": 11
+    },
+    "score": 6.7
+  },
+  "tags": [
+    {
+      "name": "偶像大师",
+      "count": 135
+    },
+    {
+      "name": "泡面番",
+      "count": 125
+    },
+    {
+      "name": "2017年4月",
+      "count": 122
+    },
+    {
+      "name": "泡面",
+      "count": 105
+    },
+    {
+      "name": "游戏改",
+      "count": 88
+    },
+    {
+      "name": "TV",
+      "count": 87
+    },
+    {
+      "name": "偶像",
+      "count": 79
+    },
+    {
+      "name": "2017",
+      "count": 69
+    },
+    {
+      "name": "GATHERING",
+      "count": 55
+    },
+    {
+      "name": "百合",
+      "count": 38
+    },
+    {
+      "name": "漫画改",
+      "count": 26
+    },
+    {
+      "name": "IM@S",
+      "count": 25
+    },
+    {
+      "name": "搞笑",
+      "count": 19
+    },
+    {
+      "name": "WEB",
+      "count": 15
+    },
+    {
+      "name": "漫改",
+      "count": 13
+    },
+    {
+      "name": "万球",
+      "count": 8
+    },
+    {
+      "name": "ギャザリング",
+      "count": 6
+    },
+    {
+      "name": "まんきゅう",
+      "count": 4
+    },
+    {
+      "name": "萌",
+      "count": 3
+    },
+    {
+      "name": "福原绫香",
+      "count": 3
+    },
+    {
+      "name": "Q版",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 3
+    },
+    {
+      "name": "游戏改编",
+      "count": 3
+    },
+    {
+      "name": "日本",
+      "count": 3
+    },
+    {
+      "name": "动画",
+      "count": 2
+    },
+    {
+      "name": "剧场版",
+      "count": 2
+    },
+    {
+      "name": "季番",
+      "count": 2
+    },
+    {
+      "name": "喜剧",
+      "count": 2
+    },
+    {
+      "name": "番外",
+      "count": 2
+    },
+    {
+      "name": "音乐",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

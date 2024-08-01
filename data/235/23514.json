@@ -1,0 +1,45 @@
+{
+  "id": 23514,
+  "name": "フジログ シーズン2",
+  "name_cn": "富士日记 第2季",
+  "summary": "",
+  "date": "2011-10-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/0a/74/23514_Tct6k.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/0a/74/23514_Tct6k.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "草尾毅",
+      "count": 4
+    },
+    {
+      "name": "2011年10月",
+      "count": 4
+    },
+    {
+      "name": "空",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

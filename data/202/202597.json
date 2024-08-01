@@ -1,0 +1,85 @@
+{
+  "id": 202597,
+  "name": "ドリフェス！R",
+  "name_cn": "梦之祭 第二季",
+  "summary": "",
+  "date": "2017-08-23",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/81/80/202597_44xGd.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/81/80/202597_44xGd.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 0,
+    "total": 15,
+    "count": {
+      "1": 0,
+      "2": 2,
+      "3": 1,
+      "4": 1,
+      "5": 1,
+      "6": 3,
+      "7": 3,
+      "8": 4,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.8
+  },
+  "tags": [
+    {
+      "name": "2017",
+      "count": 6
+    },
+    {
+      "name": "偶像番",
+      "count": 3
+    },
+    {
+      "name": "BNPictures",
+      "count": 3
+    },
+    {
+      "name": "TV",
+      "count": 3
+    },
+    {
+      "name": "WEB",
+      "count": 2
+    },
+    {
+      "name": "2017年7月",
+      "count": 2
+    },
+    {
+      "name": "201707",
+      "count": 1
+    },
+    {
+      "name": "偶像",
+      "count": 1
+    },
+    {
+      "name": "村野佑太",
+      "count": 1
+    },
+    {
+      "name": "2017年8月",
+      "count": 1
+    },
+    {
+      "name": "アニメ",
+      "count": 1
+    },
+    {
+      "name": "加藤陽一",
+      "count": 1
+    },
+    {
+      "name": "SUNRISE",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

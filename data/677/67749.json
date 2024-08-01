@@ -1,0 +1,153 @@
+{
+  "id": 67749,
+  "name": "テニスの王子様 ANOTHER STORY II～アノトキノボクラ",
+  "name_cn": "网球王子 那时的我们",
+  "summary": "",
+  "date": "2011-08-26",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/aa/56/67749_rN9PU.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/aa/56/67749_rN9PU.jpg"
+  },
+  "eps": 4,
+  "rating": {
+    "rank": 3844,
+    "total": 85,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 2,
+      "5": 11,
+      "6": 31,
+      "7": 26,
+      "8": 10,
+      "9": 1,
+      "10": 3
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 35
+    },
+    {
+      "name": "2011",
+      "count": 21
+    },
+    {
+      "name": "网球王子",
+      "count": 14
+    },
+    {
+      "name": "Production.I.G",
+      "count": 10
+    },
+    {
+      "name": "ProductionI.G",
+      "count": 10
+    },
+    {
+      "name": "漫改",
+      "count": 8
+    },
+    {
+      "name": "运动",
+      "count": 7
+    },
+    {
+      "name": "热血",
+      "count": 7
+    },
+    {
+      "name": "多田俊介",
+      "count": 7
+    },
+    {
+      "name": "テニスの王子様",
+      "count": 5
+    },
+    {
+      "name": "体育",
+      "count": 4
+    },
+    {
+      "name": "2011年",
+      "count": 2
+    },
+    {
+      "name": "漫画改",
+      "count": 2
+    },
+    {
+      "name": "平成26年~令和元年（平成31年）",
+      "count": 1
+    },
+    {
+      "name": "オリジナル・ビデオ・アニメ",
+      "count": 1
+    },
+    {
+      "name": "屹青",
+      "count": 1
+    },
+    {
+      "name": "続篇",
+      "count": 1
+    },
+    {
+      "name": "OVA-01",
+      "count": 1
+    },
+    {
+      "name": "エム・エス・シー",
+      "count": 1
+    },
+    {
+      "name": "渡部チェル",
+      "count": 1
+    },
+    {
+      "name": "剧场版‧OVA‧OAD",
+      "count": 1
+    },
+    {
+      "name": "平光琢也",
+      "count": 1
+    },
+    {
+      "name": "広田光毅",
+      "count": 1
+    },
+    {
+      "name": "7JA",
+      "count": 1
+    },
+    {
+      "name": "超越物理",
+      "count": 1
+    },
+    {
+      "name": "奇幻",
+      "count": 1
+    },
+    {
+      "name": "Production_I.G",
+      "count": 1
+    },
+    {
+      "name": "日本",
+      "count": 1
+    },
+    {
+      "name": "TV",
+      "count": 1
+    },
+    {
+      "name": "动画",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

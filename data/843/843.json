@@ -1,0 +1,153 @@
+{
+  "id": 843,
+  "name": "妄想代理人",
+  "name_cn": "妄想代理人",
+  "summary": "著名的設計師鷺月子在一天夜裏突然遭到神秘少年襲擊。在此之後接連出現新的受害者，城中一度陷入恐慌。事件的真相究竟是……",
+  "date": "2004-02-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/3d/8e/843_6wj9L.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/3d/8e/843_6wj9L.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 194,
+    "total": 3774,
+    "count": {
+      "1": 7,
+      "2": 3,
+      "3": 11,
+      "4": 16,
+      "5": 53,
+      "6": 206,
+      "7": 694,
+      "8": 1448,
+      "9": 988,
+      "10": 348
+    },
+    "score": 8.1
+  },
+  "tags": [
+    {
+      "name": "今敏",
+      "count": 1736
+    },
+    {
+      "name": "MADHouse",
+      "count": 1048
+    },
+    {
+      "name": "TV",
+      "count": 696
+    },
+    {
+      "name": "超现实",
+      "count": 533
+    },
+    {
+      "name": "2004",
+      "count": 499
+    },
+    {
+      "name": "妄想代理人",
+      "count": 492
+    },
+    {
+      "name": "原创",
+      "count": 468
+    },
+    {
+      "name": "奇幻",
+      "count": 328
+    },
+    {
+      "name": "能登麻美子",
+      "count": 207
+    },
+    {
+      "name": "妄想",
+      "count": 180
+    },
+    {
+      "name": "2004年2月",
+      "count": 150
+    },
+    {
+      "name": "神作",
+      "count": 134
+    },
+    {
+      "name": "幻想",
+      "count": 96
+    },
+    {
+      "name": "悬疑",
+      "count": 86
+    },
+    {
+      "name": "小众",
+      "count": 66
+    },
+    {
+      "name": "烂尾",
+      "count": 36
+    },
+    {
+      "name": "2004年",
+      "count": 23
+    },
+    {
+      "name": "2004年1月",
+      "count": 18
+    },
+    {
+      "name": "平沢進",
+      "count": 17
+    },
+    {
+      "name": "平泽进",
+      "count": 17
+    },
+    {
+      "name": "安藤雅司",
+      "count": 17
+    },
+    {
+      "name": "日本",
+      "count": 17
+    },
+    {
+      "name": "心理",
+      "count": 16
+    },
+    {
+      "name": "杯具",
+      "count": 15
+    },
+    {
+      "name": "TVA",
+      "count": 14
+    },
+    {
+      "name": "水上清資",
+      "count": 13
+    },
+    {
+      "name": "动画",
+      "count": 13
+    },
+    {
+      "name": "剧情",
+      "count": 11
+    },
+    {
+      "name": "水上清资",
+      "count": 9
+    },
+    {
+      "name": "社会",
+      "count": 8
+    }
+  ],
+  "locked": false
+}

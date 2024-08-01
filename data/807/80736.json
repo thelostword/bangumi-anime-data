@@ -1,0 +1,109 @@
+{
+  "id": 80736,
+  "name": "テンカイナイト",
+  "name_cn": "展开骑士",
+  "summary": "《展开骑士》是日本著名动画制作会社BONES在2013年推出的动画作品，官网于2013年6月20日公开。根据官网信息，这是一部面向海外的机器人动画作品。主要投资商为Spin Master Ltd. ，这是一家著名的儿童玩具公司。",
+  "date": "2014-04-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/97/af/80736_v2QEc.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/97/af/80736_v2QEc.jpg"
+  },
+  "eps": 51,
+  "rating": {
+    "rank": 0,
+    "total": 11,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 2,
+      "7": 6,
+      "8": 2,
+      "9": 1,
+      "10": 0
+    },
+    "score": 7.2
+  },
+  "tags": [
+    {
+      "name": "BONES",
+      "count": 14
+    },
+    {
+      "name": "骨头社",
+      "count": 6
+    },
+    {
+      "name": "展开骑士",
+      "count": 6
+    },
+    {
+      "name": "TV",
+      "count": 5
+    },
+    {
+      "name": "正太",
+      "count": 3
+    },
+    {
+      "name": "2013",
+      "count": 3
+    },
+    {
+      "name": "子供大法好好好",
+      "count": 3
+    },
+    {
+      "name": "高橋直純",
+      "count": 1
+    },
+    {
+      "name": "加納田陣",
+      "count": 1
+    },
+    {
+      "name": "¬",
+      "count": 1
+    },
+    {
+      "name": "Knights",
+      "count": 1
+    },
+    {
+      "name": "Tenkai_Knights",
+      "count": 1
+    },
+    {
+      "name": "大野木寛",
+      "count": 1
+    },
+    {
+      "name": "神田朱未",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "本郷みつる",
+      "count": 1
+    },
+    {
+      "name": "Tenkai",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

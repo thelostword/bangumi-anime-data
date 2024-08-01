@@ -1,0 +1,153 @@
+{
+  "id": 1965,
+  "name": "英國戀物語エマ 第二幕",
+  "name_cn": "英国恋物语艾玛 第二幕",
+  "summary": "艾玛独自坐上了往异乡的火车，企图逃避掉自己对威廉的感情。在新主人莫德尔斯家又遇到了新的麻烦……艾玛能否最终突破重重阻碍与威廉在一起呢？",
+  "date": "2007-04-16",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/d4/6e/1965_Te92h.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/d4/6e/1965_Te92h.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 1677,
+    "total": 186,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 2,
+      "5": 7,
+      "6": 35,
+      "7": 60,
+      "8": 64,
+      "9": 10,
+      "10": 7
+    },
+    "score": 7.2
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 47
+    },
+    {
+      "name": "2007",
+      "count": 40
+    },
+    {
+      "name": "女仆",
+      "count": 37
+    },
+    {
+      "name": "StudioPierrot",
+      "count": 28
+    },
+    {
+      "name": "恋爱",
+      "count": 25
+    },
+    {
+      "name": "艾玛",
+      "count": 21
+    },
+    {
+      "name": "梁邦彦",
+      "count": 18
+    },
+    {
+      "name": "维多利亚时代",
+      "count": 17
+    },
+    {
+      "name": "2007年4月",
+      "count": 15
+    },
+    {
+      "name": "维多利亚风格",
+      "count": 9
+    },
+    {
+      "name": "漫画改",
+      "count": 8
+    },
+    {
+      "name": "純愛",
+      "count": 6
+    },
+    {
+      "name": "漫改",
+      "count": 5
+    },
+    {
+      "name": "英伦",
+      "count": 5
+    },
+    {
+      "name": "小林常夫",
+      "count": 5
+    },
+    {
+      "name": "爱情",
+      "count": 5
+    },
+    {
+      "name": "森薰",
+      "count": 4
+    },
+    {
+      "name": "亜細亜堂",
+      "count": 4
+    },
+    {
+      "name": "亚细亚堂",
+      "count": 4
+    },
+    {
+      "name": "朴素",
+      "count": 4
+    },
+    {
+      "name": "少女",
+      "count": 3
+    },
+    {
+      "name": "森薫",
+      "count": 3
+    },
+    {
+      "name": "补番",
+      "count": 2
+    },
+    {
+      "name": "英国恋物语",
+      "count": 2
+    },
+    {
+      "name": "2007年",
+      "count": 2
+    },
+    {
+      "name": "硬设定",
+      "count": 2
+    },
+    {
+      "name": "续作",
+      "count": 2
+    },
+    {
+      "name": "季番",
+      "count": 2
+    },
+    {
+      "name": "治愈",
+      "count": 2
+    },
+    {
+      "name": "纯爱",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

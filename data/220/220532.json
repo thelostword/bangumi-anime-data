@@ -1,0 +1,77 @@
+{
+  "id": 220532,
+  "name": "ゲームセンターあらし",
+  "name_cn": "电子神童",
+  "summary": "",
+  "date": "1982-04-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/1a/02/220532_nvHBt.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/1a/02/220532_nvHBt.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 1,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "1982",
+      "count": 3
+    },
+    {
+      "name": "SF",
+      "count": 2
+    },
+    {
+      "name": "間嶋里美",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "山田栄子",
+      "count": 2
+    },
+    {
+      "name": "TVA",
+      "count": 2
+    },
+    {
+      "name": "小華和ためお",
+      "count": 2
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "SHIN-EI动画",
+      "count": 1
+    },
+    {
+      "name": "SHIN-EI",
+      "count": 1
+    },
+    {
+      "name": "シンエイ動画",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

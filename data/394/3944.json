@@ -1,0 +1,153 @@
+{
+  "id": 3944,
+  "name": "舞-乙HiME Zwei",
+  "name_cn": "舞-乙HiME Zwei",
+  "summary": "　　Zwei的舞台是TV动画完结时一年之后。\r\n　　爱莉卡虽然已经成为了Meister，但显然还不“合格”，必须继续接受玛利亚女士的指导。而另一方面，透过不断的学习，真白也更像一个女王了。\r\n　　某天，新建成的天文台侦测到将有陨石从天而降，万一坠落的话，风花王国及邻近的国家将会无一幸免，Meister们要携手对抗这陨石！然而，这只是新的物语开启的序章，行星エアル有史以来最大危机于焉开幕！",
+  "date": "2006-11-24",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/f9/fe/3944_0V879.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/f9/fe/3944_0V879.jpg"
+  },
+  "eps": 4,
+  "rating": {
+    "rank": 3190,
+    "total": 412,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 2,
+      "4": 4,
+      "5": 30,
+      "6": 112,
+      "7": 171,
+      "8": 73,
+      "9": 11,
+      "10": 8
+    },
+    "score": 6.8
+  },
+  "tags": [
+    {
+      "name": "百合",
+      "count": 85
+    },
+    {
+      "name": "OVA",
+      "count": 83
+    },
+    {
+      "name": "SUNRISE",
+      "count": 81
+    },
+    {
+      "name": "梶浦由記",
+      "count": 65
+    },
+    {
+      "name": "乙HiME",
+      "count": 55
+    },
+    {
+      "name": "2006",
+      "count": 47
+    },
+    {
+      "name": "Zwei",
+      "count": 21
+    },
+    {
+      "name": "原创",
+      "count": 20
+    },
+    {
+      "name": "日升",
+      "count": 18
+    },
+    {
+      "name": "吉野弘幸",
+      "count": 15
+    },
+    {
+      "name": "少女高达",
+      "count": 12
+    },
+    {
+      "name": "变身",
+      "count": 11
+    },
+    {
+      "name": "梶浦由记",
+      "count": 11
+    },
+    {
+      "name": "久行宏和",
+      "count": 10
+    },
+    {
+      "name": "娘战士",
+      "count": 9
+    },
+    {
+      "name": "战斗",
+      "count": 9
+    },
+    {
+      "name": "小原正和",
+      "count": 8
+    },
+    {
+      "name": "拯救世界",
+      "count": 7
+    },
+    {
+      "name": "Zhime",
+      "count": 6
+    },
+    {
+      "name": "奇幻",
+      "count": 4
+    },
+    {
+      "name": "舞乙HIME",
+      "count": 4
+    },
+    {
+      "name": "科幻",
+      "count": 4
+    },
+    {
+      "name": "舞-乙HiME",
+      "count": 3
+    },
+    {
+      "name": "サンライズ",
+      "count": 3
+    },
+    {
+      "name": "舞-HiME",
+      "count": 2
+    },
+    {
+      "name": "ゆかな",
+      "count": 2
+    },
+    {
+      "name": "能登麻美子",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 2
+    },
+    {
+      "name": "妹子刚大木",
+      "count": 2
+    },
+    {
+      "name": "校园",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

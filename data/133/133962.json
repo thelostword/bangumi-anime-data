@@ -1,0 +1,141 @@
+{
+  "id": 133962,
+  "name": "怪獣酒場カンパーイ！",
+  "name_cn": "怪兽酒场 干杯！",
+  "summary": "以川崎市川崎区站前的娱乐居酒屋「怪兽酒场」为背景，讲述一个怪兽们聚集在酒场说着缓解一天中的疲劳与压力的醉话的脱力系故事。",
+  "date": "2015-07-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/6f/9c/133962_n909h.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/6f/9c/133962_n909h.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 5986,
+    "total": 111,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 11,
+      "5": 26,
+      "6": 43,
+      "7": 23,
+      "8": 7,
+      "9": 0,
+      "10": 1
+    },
+    "score": 5.9
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 32
+    },
+    {
+      "name": "2015年7月",
+      "count": 25
+    },
+    {
+      "name": "原创",
+      "count": 16
+    },
+    {
+      "name": "TV",
+      "count": 15
+    },
+    {
+      "name": "DLE",
+      "count": 13
+    },
+    {
+      "name": "搞笑",
+      "count": 12
+    },
+    {
+      "name": "怪兽酒场",
+      "count": 9
+    },
+    {
+      "name": "2015",
+      "count": 9
+    },
+    {
+      "name": "泡面",
+      "count": 5
+    },
+    {
+      "name": "2015年",
+      "count": 4
+    },
+    {
+      "name": "201507",
+      "count": 1
+    },
+    {
+      "name": "中野守",
+      "count": 1
+    },
+    {
+      "name": "动画",
+      "count": 1
+    },
+    {
+      "name": "冨坂良",
+      "count": 1
+    },
+    {
+      "name": "大岗新一",
+      "count": 1
+    },
+    {
+      "name": "おおかわら",
+      "count": 1
+    },
+    {
+      "name": "河崎实",
+      "count": 1
+    },
+    {
+      "name": "松原秀",
+      "count": 1
+    },
+    {
+      "name": "日本",
+      "count": 1
+    },
+    {
+      "name": "完结",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "アニメ",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "其它",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "特摄改",
+      "count": 1
+    },
+    {
+      "name": "2015年七月番",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

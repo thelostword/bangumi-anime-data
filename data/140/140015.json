@@ -1,0 +1,61 @@
+{
+  "id": 140015,
+  "name": "Peeping Life×怪獣酒場 かいじゅうたちがいるところ",
+  "name_cn": "Peeping Life×怪兽酒场 怪兽们的所在之处",
+  "summary": "",
+  "date": "2015-07-10",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/d4/c9/140015_PQF2s.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/d4/c9/140015_PQF2s.jpg"
+  },
+  "eps": 10,
+  "rating": {
+    "rank": 0,
+    "total": 13,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 4,
+      "6": 8,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.5
+  },
+  "tags": [
+    {
+      "name": "2015年7月",
+      "count": 5
+    },
+    {
+      "name": "2015年",
+      "count": 3
+    },
+    {
+      "name": "泡面番",
+      "count": 3
+    },
+    {
+      "name": "OVA",
+      "count": 2
+    },
+    {
+      "name": "2015",
+      "count": 2
+    },
+    {
+      "name": "OVA-01",
+      "count": 1
+    },
+    {
+      "name": "2015年七月番",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,133 @@
+{
+  "id": 65284,
+  "name": "侍ジャイアンツ",
+  "name_cn": "魔投手",
+  "summary": "描述以打倒宿敵巨人為目標的巨人王牌速球投手、番場蠻活躍的棒球作品。",
+  "date": "1973-10-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ce/7d/65284_B8Sus.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ce/7d/65284_B8Sus.jpg"
+  },
+  "eps": 46,
+  "rating": {
+    "rank": 0,
+    "total": 11,
+    "count": {
+      "1": 0,
+      "2": 1,
+      "3": 0,
+      "4": 1,
+      "5": 2,
+      "6": 3,
+      "7": 3,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.7
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 13
+    },
+    {
+      "name": "1973",
+      "count": 6
+    },
+    {
+      "name": "棒球",
+      "count": 5
+    },
+    {
+      "name": "漫画改",
+      "count": 5
+    },
+    {
+      "name": "長浜忠夫",
+      "count": 4
+    },
+    {
+      "name": "梶原一騎",
+      "count": 4
+    },
+    {
+      "name": "出﨑哲",
+      "count": 3
+    },
+    {
+      "name": "运动",
+      "count": 3
+    },
+    {
+      "name": "東京ムービー",
+      "count": 3
+    },
+    {
+      "name": "納谷六朗",
+      "count": 2
+    },
+    {
+      "name": "富山敬",
+      "count": 2
+    },
+    {
+      "name": "出崎哲",
+      "count": 2
+    },
+    {
+      "name": "长滨忠夫",
+      "count": 2
+    },
+    {
+      "name": "东京movie",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "东京电影",
+      "count": 1
+    },
+    {
+      "name": "赛璐珞",
+      "count": 1
+    },
+    {
+      "name": "大冢伸治",
+      "count": 1
+    },
+    {
+      "name": "梶原一骑",
+      "count": 1
+    },
+    {
+      "name": "70s",
+      "count": 1
+    },
+    {
+      "name": "体育",
+      "count": 1
+    },
+    {
+      "name": "童年",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "石黒昇",
+      "count": 1
+    },
+    {
+      "name": "1973年10月",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

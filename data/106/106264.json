@@ -1,0 +1,149 @@
+{
+  "id": 106264,
+  "name": "The Powerpuff Girls (2016 TV series)",
+  "name_cn": "飞天小女警2016",
+  "summary": "Made from sugar, spice, everything nice and Chemical X by the Professor; Blossom, Bubbles, and Buttercup now use their superpowers and super cuteness to save the world (or at least Townsville) from evil villains and all things icky.",
+  "date": "2016-04-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/cc/50/106264_fI5YO.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/cc/50/106264_fI5YO.jpg"
+  },
+  "eps": 39,
+  "rating": {
+    "rank": 0,
+    "total": 33,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 1,
+      "5": 5,
+      "6": 5,
+      "7": 8,
+      "8": 8,
+      "9": 3,
+      "10": 2
+    },
+    "score": 6.9
+  },
+  "tags": [
+    {
+      "name": "欧美",
+      "count": 20
+    },
+    {
+      "name": "美国",
+      "count": 17
+    },
+    {
+      "name": "2016",
+      "count": 13
+    },
+    {
+      "name": "TV",
+      "count": 10
+    },
+    {
+      "name": "童年",
+      "count": 9
+    },
+    {
+      "name": "原创",
+      "count": 7
+    },
+    {
+      "name": "幼女向",
+      "count": 5
+    },
+    {
+      "name": "2016年4月",
+      "count": 4
+    },
+    {
+      "name": "CARTOONNETWORK",
+      "count": 3
+    },
+    {
+      "name": "歐美",
+      "count": 3
+    },
+    {
+      "name": "吐槽向",
+      "count": 3
+    },
+    {
+      "name": "搞笑",
+      "count": 2
+    },
+    {
+      "name": "2016年",
+      "count": 2
+    },
+    {
+      "name": "▷未欣赏",
+      "count": 1
+    },
+    {
+      "name": "时事热点",
+      "count": 1
+    },
+    {
+      "name": "全",
+      "count": 1
+    },
+    {
+      "name": "□欧美",
+      "count": 1
+    },
+    {
+      "name": "较低龄",
+      "count": 1
+    },
+    {
+      "name": "◇子供向",
+      "count": 1
+    },
+    {
+      "name": "Cartoon_Network_Studios",
+      "count": 1
+    },
+    {
+      "name": "cartoon",
+      "count": 1
+    },
+    {
+      "name": "幼女",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "战斗",
+      "count": 1
+    },
+    {
+      "name": "10",
+      "count": 1
+    },
+    {
+      "name": "科幻",
+      "count": 1
+    },
+    {
+      "name": "部",
+      "count": 1
+    },
+    {
+      "name": "network",
+      "count": 1
+    },
+    {
+      "name": "美产",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

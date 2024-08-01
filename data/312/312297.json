@@ -1,0 +1,153 @@
+{
+  "id": 312297,
+  "name": "龙族",
+  "name_cn": "",
+  "summary": "欢迎来到真实的世界！这一段拥有龙的历史，这里记载了一代代人的努力和牺牲。少年踏上属于他的成王之路，友情、爱情、成长……",
+  "date": "2022-08-19",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/26/d5/312297_X3i3i.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/26/d5/312297_X3i3i.jpg"
+  },
+  "eps": 17,
+  "rating": {
+    "rank": 8166,
+    "total": 464,
+    "count": {
+      "1": 14,
+      "2": 19,
+      "3": 34,
+      "4": 70,
+      "5": 110,
+      "6": 128,
+      "7": 58,
+      "8": 21,
+      "9": 4,
+      "10": 6
+    },
+    "score": 5.2
+  },
+  "tags": [
+    {
+      "name": "国产",
+      "count": 158
+    },
+    {
+      "name": "小说改",
+      "count": 116
+    },
+    {
+      "name": "江南",
+      "count": 87
+    },
+    {
+      "name": "龙族",
+      "count": 82
+    },
+    {
+      "name": "奇幻",
+      "count": 76
+    },
+    {
+      "name": "2022年7月",
+      "count": 67
+    },
+    {
+      "name": "战斗",
+      "count": 57
+    },
+    {
+      "name": "国漫",
+      "count": 48
+    },
+    {
+      "name": "2022",
+      "count": 43
+    },
+    {
+      "name": "泽野弘之",
+      "count": 35
+    },
+    {
+      "name": "热血",
+      "count": 34
+    },
+    {
+      "name": "WEB",
+      "count": 24
+    },
+    {
+      "name": "洛水花原",
+      "count": 22
+    },
+    {
+      "name": "中国",
+      "count": 16
+    },
+    {
+      "name": "恋爱",
+      "count": 12
+    },
+    {
+      "name": "TV",
+      "count": 7
+    },
+    {
+      "name": "王昕",
+      "count": 4
+    },
+    {
+      "name": "网文改",
+      "count": 4
+    },
+    {
+      "name": "国产动画",
+      "count": 3
+    },
+    {
+      "name": "2022年8月",
+      "count": 3
+    },
+    {
+      "name": "2022年",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 2
+    },
+    {
+      "name": "国创",
+      "count": 2
+    },
+    {
+      "name": "2D",
+      "count": 2
+    },
+    {
+      "name": "没看过原作",
+      "count": 2
+    },
+    {
+      "name": "轻改",
+      "count": 2
+    },
+    {
+      "name": "答辩",
+      "count": 1
+    },
+    {
+      "name": "s1",
+      "count": 1
+    },
+    {
+      "name": "未定档",
+      "count": 1
+    },
+    {
+      "name": "動畫片",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

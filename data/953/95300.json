@@ -1,0 +1,101 @@
+{
+  "id": 95300,
+  "name": "ワンダーモモ",
+  "name_cn": "神奇桃子",
+  "summary": "2014年1月に製作が発表された。日本国内では同年2月6日よりよりニコニコ生放送で配信。ベースとなっているのは2012年より連載されているウェブコミックと2014年版リメイクゲーム『Wonder Momo』。",
+  "date": "2014-02-06",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/68/fb/95300_xedqT.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/68/fb/95300_xedqT.jpg"
+  },
+  "eps": 5,
+  "rating": {
+    "rank": 0,
+    "total": 23,
+    "count": {
+      "1": 0,
+      "2": 4,
+      "3": 6,
+      "4": 8,
+      "5": 4,
+      "6": 1,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 3.7
+  },
+  "tags": [
+    {
+      "name": "2014",
+      "count": 9
+    },
+    {
+      "name": "泡面番",
+      "count": 9
+    },
+    {
+      "name": "游戏改",
+      "count": 7
+    },
+    {
+      "name": "魔法少女",
+      "count": 5
+    },
+    {
+      "name": "Graphinica",
+      "count": 4
+    },
+    {
+      "name": "ONA",
+      "count": 3
+    },
+    {
+      "name": "神奇桃子",
+      "count": 3
+    },
+    {
+      "name": "OVA",
+      "count": 3
+    },
+    {
+      "name": "短片",
+      "count": 2
+    },
+    {
+      "name": "独立ova",
+      "count": 2
+    },
+    {
+      "name": "原神",
+      "count": 1
+    },
+    {
+      "name": "5-100",
+      "count": 1
+    },
+    {
+      "name": "没地下",
+      "count": 1
+    },
+    {
+      "name": "泡面",
+      "count": 1
+    },
+    {
+      "name": "奇幻",
+      "count": 1
+    },
+    {
+      "name": "WEB",
+      "count": 1
+    },
+    {
+      "name": "日本",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

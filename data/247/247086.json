@@ -1,0 +1,121 @@
+{
+  "id": 247086,
+  "name": "アグレッシブ烈子",
+  "name_cn": "职场小烈",
+  "summary": "小熊猫烈子苦于吃力不讨好的工作，只有通过下班后唱死亡金属卡拉 OK 来应对自己的日常困境。",
+  "date": "2018-04-20",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/d1/93/247086_8nJFT.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/d1/93/247086_8nJFT.jpg"
+  },
+  "eps": 10,
+  "rating": {
+    "rank": 1829,
+    "total": 111,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 3,
+      "6": 23,
+      "7": 44,
+      "8": 33,
+      "9": 5,
+      "10": 3
+    },
+    "score": 7.2
+  },
+  "tags": [
+    {
+      "name": "Netflix",
+      "count": 28
+    },
+    {
+      "name": "职场",
+      "count": 21
+    },
+    {
+      "name": "WEB",
+      "count": 19
+    },
+    {
+      "name": "原创",
+      "count": 15
+    },
+    {
+      "name": "2018",
+      "count": 12
+    },
+    {
+      "name": "2018年4月",
+      "count": 8
+    },
+    {
+      "name": "ファンワークス",
+      "count": 6
+    },
+    {
+      "name": "动物",
+      "count": 4
+    },
+    {
+      "name": "TV",
+      "count": 3
+    },
+    {
+      "name": "搞笑",
+      "count": 3
+    },
+    {
+      "name": "泡面番",
+      "count": 3
+    },
+    {
+      "name": "社会人",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "日常",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "ラレコ",
+      "count": 2
+    },
+    {
+      "name": "18春",
+      "count": 1
+    },
+    {
+      "name": "一口气看完xx",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "2015",
+      "count": 1
+    },
+    {
+      "name": "动画",
+      "count": 1
+    },
+    {
+      "name": "番剧",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

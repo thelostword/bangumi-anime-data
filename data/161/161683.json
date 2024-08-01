@@ -1,0 +1,73 @@
+{
+  "id": 161683,
+  "name": "忍たま乱太郎 5期",
+  "name_cn": "忍者乱太郎 5期",
+  "summary": "",
+  "date": "1997-10-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/46/39/161683_v43Tb.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/46/39/161683_v43Tb.jpg"
+  },
+  "eps": 100,
+  "rating": {
+    "rank": 0,
+    "total": 5,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 1,
+      "7": 3,
+      "8": 0,
+      "9": 1,
+      "10": 0
+    },
+    "score": 7.2
+  },
+  "tags": [
+    {
+      "name": "1997",
+      "count": 4
+    },
+    {
+      "name": "亜細亜堂",
+      "count": 2
+    },
+    {
+      "name": "华视",
+      "count": 1
+    },
+    {
+      "name": "河内日出夫",
+      "count": 1
+    },
+    {
+      "name": "芝山努",
+      "count": 1
+    },
+    {
+      "name": "高山みなみ",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "田中真弓",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

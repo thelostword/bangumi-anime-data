@@ -1,0 +1,153 @@
+{
+  "id": 5109,
+  "name": "灼眼のシャナたん",
+  "name_cn": "灼眼的夏娜炭",
+  "summary": "各话从属的主线如下：\r\nep1~3：灼眼のシャナ\r\nep4~6：劇場版 灼眼のシャナ\r\nep7~9：灼眼のシャナII -Second- \r\nep10~13：灼眼のシャナS\r\nep14~15：灼眼のシャナIII -Final-",
+  "date": "2006-01-25",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/7a/0c/5109_PpP9Q.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/7a/0c/5109_PpP9Q.jpg"
+  },
+  "eps": 15,
+  "rating": {
+    "rank": 2689,
+    "total": 1374,
+    "count": {
+      "1": 2,
+      "2": 3,
+      "3": 6,
+      "4": 17,
+      "5": 83,
+      "6": 317,
+      "7": 558,
+      "8": 300,
+      "9": 47,
+      "10": 41
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "J.C.STAFF",
+      "count": 228
+    },
+    {
+      "name": "OVA",
+      "count": 217
+    },
+    {
+      "name": "灼眼的夏娜炭",
+      "count": 210
+    },
+    {
+      "name": "钉宫理惠",
+      "count": 149
+    },
+    {
+      "name": "灼眼のシャナたん",
+      "count": 149
+    },
+    {
+      "name": "卖萌",
+      "count": 132
+    },
+    {
+      "name": "2006",
+      "count": 106
+    },
+    {
+      "name": "不要跑到人家的作品里来！",
+      "count": 91
+    },
+    {
+      "name": "钉宫",
+      "count": 63
+    },
+    {
+      "name": "夏娜酱",
+      "count": 60
+    },
+    {
+      "name": "无鹿寨无鹿寨！！",
+      "count": 47
+    },
+    {
+      "name": "夏娜",
+      "count": 32
+    },
+    {
+      "name": "搞笑",
+      "count": 24
+    },
+    {
+      "name": "轻小说改",
+      "count": 24
+    },
+    {
+      "name": "奇幻",
+      "count": 16
+    },
+    {
+      "name": "2006年1月",
+      "count": 16
+    },
+    {
+      "name": "萌",
+      "count": 15
+    },
+    {
+      "name": "SP",
+      "count": 12
+    },
+    {
+      "name": "灼眼的夏娜",
+      "count": 11
+    },
+    {
+      "name": "2006年",
+      "count": 11
+    },
+    {
+      "name": "轻改",
+      "count": 10
+    },
+    {
+      "name": "傲娇",
+      "count": 8
+    },
+    {
+      "name": "泡面番",
+      "count": 8
+    },
+    {
+      "name": "战斗",
+      "count": 7
+    },
+    {
+      "name": "日本",
+      "count": 7
+    },
+    {
+      "name": "恋爱",
+      "count": 6
+    },
+    {
+      "name": "校园",
+      "count": 6
+    },
+    {
+      "name": "TV",
+      "count": 6
+    },
+    {
+      "name": "小说改",
+      "count": 6
+    },
+    {
+      "name": "动画",
+      "count": 5
+    }
+  ],
+  "locked": false
+}

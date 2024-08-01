@@ -1,0 +1,85 @@
+{
+  "id": 263322,
+  "name": "愛玩怪獣",
+  "name_cn": "爱玩怪兽",
+  "summary": "本作是modern pets品牌旗下的设计组脑洞大开，设计出的形形色色怪兽为蓝本制作出的短篇动画，正体不明的怪兽们将在3分钟的时间里大闹特闹，供你寻开心~~",
+  "date": "2018-10-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/72/97/263322_wEMzJ.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/72/97/263322_wEMzJ.jpg"
+  },
+  "eps": 50,
+  "rating": {
+    "rank": 0,
+    "total": 38,
+    "count": {
+      "1": 1,
+      "2": 2,
+      "3": 2,
+      "4": 4,
+      "5": 9,
+      "6": 10,
+      "7": 5,
+      "8": 3,
+      "9": 0,
+      "10": 2
+    },
+    "score": 5.6
+  },
+  "tags": [
+    {
+      "name": "泡面",
+      "count": 9
+    },
+    {
+      "name": "意义不明",
+      "count": 7
+    },
+    {
+      "name": "原创改",
+      "count": 4
+    },
+    {
+      "name": "2018",
+      "count": 4
+    },
+    {
+      "name": "泡面番",
+      "count": 4
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "TV",
+      "count": 2
+    },
+    {
+      "name": "2018年10月",
+      "count": 1
+    },
+    {
+      "name": "Simogumi",
+      "count": 1
+    },
+    {
+      "name": "日本动漫",
+      "count": 1
+    },
+    {
+      "name": "原创",
+      "count": 1
+    },
+    {
+      "name": "7",
+      "count": 1
+    },
+    {
+      "name": "1分",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

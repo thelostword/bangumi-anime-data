@@ -1,0 +1,153 @@
+{
+  "id": 20547,
+  "name": "WORKING'!!",
+  "name_cn": "迷糊餐厅 第二季",
+  "summary": "wagnaria，2011年10月，再开业！\r\n官网地址：http://www.wagnaria.com/",
+  "date": "2011-10-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/59/2b/20547_Fqawr.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/59/2b/20547_Fqawr.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 672,
+    "total": 5030,
+    "count": {
+      "1": 4,
+      "2": 3,
+      "3": 4,
+      "4": 16,
+      "5": 71,
+      "6": 376,
+      "7": 1637,
+      "8": 2353,
+      "9": 430,
+      "10": 136
+    },
+    "score": 7.6
+  },
+  "tags": [
+    {
+      "name": "WORKING",
+      "count": 797
+    },
+    {
+      "name": "搞笑",
+      "count": 731
+    },
+    {
+      "name": "轻喜剧",
+      "count": 656
+    },
+    {
+      "name": "2011年10月",
+      "count": 575
+    },
+    {
+      "name": "A-1Pictures",
+      "count": 544
+    },
+    {
+      "name": "TV",
+      "count": 390
+    },
+    {
+      "name": "福山润",
+      "count": 387
+    },
+    {
+      "name": "神谷浩史",
+      "count": 269
+    },
+    {
+      "name": "2011",
+      "count": 255
+    },
+    {
+      "name": "亚麻大",
+      "count": 228
+    },
+    {
+      "name": "漫画改",
+      "count": 218
+    },
+    {
+      "name": "日常",
+      "count": 197
+    },
+    {
+      "name": "男性恐惧症",
+      "count": 163
+    },
+    {
+      "name": "没有萨满汪汪",
+      "count": 147
+    },
+    {
+      "name": "萝莉控",
+      "count": 113
+    },
+    {
+      "name": "漫改",
+      "count": 98
+    },
+    {
+      "name": "恋爱",
+      "count": 76
+    },
+    {
+      "name": "打工",
+      "count": 65
+    },
+    {
+      "name": "十月番",
+      "count": 47
+    },
+    {
+      "name": "阿澄佳奈",
+      "count": 42
+    },
+    {
+      "name": "大槻敦史",
+      "count": 37
+    },
+    {
+      "name": "小野大辅",
+      "count": 35
+    },
+    {
+      "name": "职场",
+      "count": 30
+    },
+    {
+      "name": "A-1",
+      "count": 26
+    },
+    {
+      "name": "治愈",
+      "count": 26
+    },
+    {
+      "name": "欢乐",
+      "count": 25
+    },
+    {
+      "name": "萌",
+      "count": 25
+    },
+    {
+      "name": "迷糊餐厅",
+      "count": 25
+    },
+    {
+      "name": "中村出现了",
+      "count": 22
+    },
+    {
+      "name": "2011年",
+      "count": 18
+    }
+  ],
+  "locked": false
+}

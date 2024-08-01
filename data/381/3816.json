@@ -1,0 +1,153 @@
+{
+  "id": 3816,
+  "name": "頭文字D Fourth Stage",
+  "name_cn": "头文字D Fourth Stage",
+  "summary": "当积雪完全融化后，关东地区的飚车手之间渐渐流传起了一个传闻，在Internet上出现了一个由群马的飚车手所建立的网站，向整个关东地区征集对手并扬言要达成“关东最速计划”，甚至还十分专业地把赛道等资料罗列出来，该网站也就是那个车队的名字叫做“Project D”！",
+  "date": "2004-04-17",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c9/11/3816_eTotY.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c9/11/3816_eTotY.jpg"
+  },
+  "eps": 24,
+  "rating": {
+    "rank": 999,
+    "total": 942,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 3,
+      "4": 5,
+      "5": 15,
+      "6": 97,
+      "7": 359,
+      "8": 349,
+      "9": 85,
+      "10": 28
+    },
+    "score": 7.5
+  },
+  "tags": [
+    {
+      "name": "头文字D",
+      "count": 162
+    },
+    {
+      "name": "TV",
+      "count": 113
+    },
+    {
+      "name": "2004",
+      "count": 97
+    },
+    {
+      "name": "AE86",
+      "count": 84
+    },
+    {
+      "name": "漫画改",
+      "count": 77
+    },
+    {
+      "name": "赛车",
+      "count": 74
+    },
+    {
+      "name": "頭文字D",
+      "count": 63
+    },
+    {
+      "name": "秋名山",
+      "count": 57
+    },
+    {
+      "name": "热血",
+      "count": 55
+    },
+    {
+      "name": "漫改",
+      "count": 34
+    },
+    {
+      "name": "竞技",
+      "count": 32
+    },
+    {
+      "name": "2004年4月",
+      "count": 26
+    },
+    {
+      "name": "豆腐房",
+      "count": 26
+    },
+    {
+      "name": "公路赛车",
+      "count": 22
+    },
+    {
+      "name": "三木真一郎",
+      "count": 21
+    },
+    {
+      "name": "A・C・G・T",
+      "count": 12
+    },
+    {
+      "name": "关智一",
+      "count": 9
+    },
+    {
+      "name": "子安武人",
+      "count": 8
+    },
+    {
+      "name": "冨永恒雄",
+      "count": 8
+    },
+    {
+      "name": "project",
+      "count": 8
+    },
+    {
+      "name": "A.C.G.T.",
+      "count": 8
+    },
+    {
+      "name": "运动",
+      "count": 7
+    },
+    {
+      "name": "熊猫车",
+      "count": 7
+    },
+    {
+      "name": "TVA",
+      "count": 6
+    },
+    {
+      "name": "燃",
+      "count": 6
+    },
+    {
+      "name": "D",
+      "count": 5
+    },
+    {
+      "name": "2004年",
+      "count": 5
+    },
+    {
+      "name": "富永恒雄",
+      "count": 5
+    },
+    {
+      "name": "日本动画",
+      "count": 5
+    },
+    {
+      "name": "续作",
+      "count": 4
+    }
+  ],
+  "locked": false
+}

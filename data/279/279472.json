@@ -1,0 +1,101 @@
+{
+  "id": 279472,
+  "name": "妖怪ウォッチ！",
+  "name_cn": "妖怪手表！",
+  "summary": "",
+  "date": "2019-04-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c7/07/279472_g7MOx.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c7/07/279472_g7MOx.jpg"
+  },
+  "eps": 36,
+  "rating": {
+    "rank": 0,
+    "total": 9,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 3,
+      "7": 5,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.4
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 5
+    },
+    {
+      "name": "2019",
+      "count": 4
+    },
+    {
+      "name": "OLM",
+      "count": 4
+    },
+    {
+      "name": "OLMTEAMOTA",
+      "count": 2
+    },
+    {
+      "name": "子供向",
+      "count": 2
+    },
+    {
+      "name": "泉保良輔",
+      "count": 2
+    },
+    {
+      "name": "2019年4月",
+      "count": 2
+    },
+    {
+      "name": "补标",
+      "count": 1
+    },
+    {
+      "name": "小桜エツコ",
+      "count": 1
+    },
+    {
+      "name": "加藤陽一",
+      "count": 1
+    },
+    {
+      "name": "関智一",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "原创",
+      "count": 1
+    },
+    {
+      "name": "游戏改",
+      "count": 1
+    },
+    {
+      "name": "年番",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "戸松遥",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

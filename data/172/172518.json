@@ -1,0 +1,153 @@
+{
+  "id": 172518,
+  "name": "魔法使いの嫁 星待つひと",
+  "name_cn": "魔法使的新娘 等待繁星之人",
+  "summary": "单行本第6卷、第7卷和第8卷同捆新作OAD。内容为智世遇到魔法使之前的故事。",
+  "date": "2016-09-10",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/10/c7/172518_3pPVg.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/10/c7/172518_3pPVg.jpg"
+  },
+  "eps": 3,
+  "rating": {
+    "rank": 1643,
+    "total": 1121,
+    "count": {
+      "1": 2,
+      "2": 0,
+      "3": 2,
+      "4": 7,
+      "5": 38,
+      "6": 166,
+      "7": 459,
+      "8": 375,
+      "9": 40,
+      "10": 32
+    },
+    "score": 7.2
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 350
+    },
+    {
+      "name": "WITSTUDIO",
+      "count": 241
+    },
+    {
+      "name": "漫画改",
+      "count": 186
+    },
+    {
+      "name": "奇幻",
+      "count": 162
+    },
+    {
+      "name": "2016",
+      "count": 135
+    },
+    {
+      "name": "魔法使的新娘",
+      "count": 125
+    },
+    {
+      "name": "OAD",
+      "count": 124
+    },
+    {
+      "name": "治愈",
+      "count": 116
+    },
+    {
+      "name": "2016年9月",
+      "count": 109
+    },
+    {
+      "name": "漫改",
+      "count": 90
+    },
+    {
+      "name": "恋爱",
+      "count": 49
+    },
+    {
+      "name": "WIT_STUDIO",
+      "count": 29
+    },
+    {
+      "name": "長沼範裕",
+      "count": 28
+    },
+    {
+      "name": "高羽彩",
+      "count": 20
+    },
+    {
+      "name": "I.G",
+      "count": 9
+    },
+    {
+      "name": "2016年",
+      "count": 8
+    },
+    {
+      "name": "种崎敦美",
+      "count": 7
+    },
+    {
+      "name": "魔法",
+      "count": 7
+    },
+    {
+      "name": "ProductionI.G",
+      "count": 6
+    },
+    {
+      "name": "番外",
+      "count": 5
+    },
+    {
+      "name": "女性向",
+      "count": 5
+    },
+    {
+      "name": "Production",
+      "count": 5
+    },
+    {
+      "name": "種﨑敦美",
+      "count": 4
+    },
+    {
+      "name": "日本动画",
+      "count": 4
+    },
+    {
+      "name": "松本淳一",
+      "count": 4
+    },
+    {
+      "name": "内山昂輝",
+      "count": 4
+    },
+    {
+      "name": "剧情",
+      "count": 3
+    },
+    {
+      "name": "加藤寛崇",
+      "count": 3
+    },
+    {
+      "name": "ヤマザキコレ",
+      "count": 3
+    },
+    {
+      "name": "横田匡史",
+      "count": 3
+    }
+  ],
+  "locked": false
+}

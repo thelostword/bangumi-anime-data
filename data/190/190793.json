@@ -1,0 +1,153 @@
+{
+  "id": 190793,
+  "name": "にゃんぼー！",
+  "name_cn": "喵楞！",
+  "summary": "主角是《四叶妹妹》里的纸箱人“阿楞”猫化之后的产物，日本大人气吉祥物，作为泡面番放送。",
+  "date": "2016-09-27",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/bb/80/190793_1xk9m.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/bb/80/190793_1xk9m.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 3219,
+    "total": 159,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 1,
+      "4": 4,
+      "5": 10,
+      "6": 38,
+      "7": 75,
+      "8": 24,
+      "9": 2,
+      "10": 4
+    },
+    "score": 6.7
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 62
+    },
+    {
+      "name": "2016年10月",
+      "count": 45
+    },
+    {
+      "name": "TV",
+      "count": 25
+    },
+    {
+      "name": "萌",
+      "count": 23
+    },
+    {
+      "name": "2016",
+      "count": 16
+    },
+    {
+      "name": "钉宫理惠",
+      "count": 15
+    },
+    {
+      "name": "喵楞",
+      "count": 15
+    },
+    {
+      "name": "漫改",
+      "count": 15
+    },
+    {
+      "name": "白組",
+      "count": 12
+    },
+    {
+      "name": "漫画改",
+      "count": 12
+    },
+    {
+      "name": "白组",
+      "count": 9
+    },
+    {
+      "name": "泡面",
+      "count": 9
+    },
+    {
+      "name": "朴璐美",
+      "count": 9
+    },
+    {
+      "name": "NHK",
+      "count": 8
+    },
+    {
+      "name": "堀江由衣",
+      "count": 7
+    },
+    {
+      "name": "岩本晶",
+      "count": 5
+    },
+    {
+      "name": "3D",
+      "count": 4
+    },
+    {
+      "name": "三瓶由布子",
+      "count": 3
+    },
+    {
+      "name": "竹内顺子",
+      "count": 3
+    },
+    {
+      "name": "动画",
+      "count": 3
+    },
+    {
+      "name": "2016年十月番",
+      "count": 3
+    },
+    {
+      "name": "猫",
+      "count": 2
+    },
+    {
+      "name": "2017",
+      "count": 2
+    },
+    {
+      "name": "TV动画",
+      "count": 2
+    },
+    {
+      "name": "釘宮理恵",
+      "count": 2
+    },
+    {
+      "name": "短片",
+      "count": 2
+    },
+    {
+      "name": "治愈",
+      "count": 2
+    },
+    {
+      "name": "钉宫",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

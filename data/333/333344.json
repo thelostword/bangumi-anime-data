@@ -1,0 +1,53 @@
+{
+  "id": 333344,
+  "name": "魔法のプリンセス ミンキーモモ 瞳の星座 ミンキーモモSONGスペシャル",
+  "name_cn": "",
+  "summary": "",
+  "date": "1987-01-21",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/36/ea/333344_J4lw2.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/36/ea/333344_J4lw2.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5
+  },
+  "tags": [
+    {
+      "name": "OVA-01",
+      "count": 1
+    },
+    {
+      "name": "1980s",
+      "count": 1
+    },
+    {
+      "name": "1987",
+      "count": 1
+    },
+    {
+      "name": "原创",
+      "count": 1
+    },
+    {
+      "name": "OVA",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

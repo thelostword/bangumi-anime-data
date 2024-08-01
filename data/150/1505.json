@@ -1,0 +1,153 @@
+{
+  "id": 1505,
+  "name": "リストランテ・パラディーゾ",
+  "name_cn": "天堂餐馆",
+  "summary": "故事中位于罗马市区的人气餐厅「熊的小屋」，由于老板娘的个人美学使然，员工们全是戴著老花眼镜的绅士，由于温文儒雅的绅士们带著幽默的谈吐，连带也吸引了一批发中此道的熟女老饕上门。而误闯熟女乐园的年轻女孩「妮可」，在眼镜绅士的呵护围下，似乎即将展开一段恋曲。",
+  "date": "2009-04-08",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/0c/9e/1505_roLXl.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/0c/9e/1505_roLXl.jpg"
+  },
+  "eps": 11,
+  "rating": {
+    "rank": 1833,
+    "total": 518,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 1,
+      "4": 4,
+      "5": 22,
+      "6": 109,
+      "7": 173,
+      "8": 158,
+      "9": 32,
+      "10": 18
+    },
+    "score": 7.2
+  },
+  "tags": [
+    {
+      "name": "治愈",
+      "count": 127
+    },
+    {
+      "name": "大叔",
+      "count": 126
+    },
+    {
+      "name": "大叔控",
+      "count": 100
+    },
+    {
+      "name": "2009年4月",
+      "count": 85
+    },
+    {
+      "name": "TV",
+      "count": 81
+    },
+    {
+      "name": "老花镜",
+      "count": 79
+    },
+    {
+      "name": "2009",
+      "count": 67
+    },
+    {
+      "name": "大叔餐馆",
+      "count": 57
+    },
+    {
+      "name": "意大利!",
+      "count": 43
+    },
+    {
+      "name": "西餐",
+      "count": 35
+    },
+    {
+      "name": "davidproduction",
+      "count": 34
+    },
+    {
+      "name": "天堂餐馆",
+      "count": 32
+    },
+    {
+      "name": "意大利",
+      "count": 27
+    },
+    {
+      "name": "漫画改",
+      "count": 23
+    },
+    {
+      "name": "リストランテ・パラディーゾ",
+      "count": 16
+    },
+    {
+      "name": "我萌大叔",
+      "count": 15
+    },
+    {
+      "name": "漫改",
+      "count": 14
+    },
+    {
+      "name": "小野夏芽",
+      "count": 13
+    },
+    {
+      "name": "叔控",
+      "count": 13
+    },
+    {
+      "name": "加瀬充子",
+      "count": 7
+    },
+    {
+      "name": "生活",
+      "count": 7
+    },
+    {
+      "name": "basso",
+      "count": 6
+    },
+    {
+      "name": "david",
+      "count": 6
+    },
+    {
+      "name": "动画",
+      "count": 6
+    },
+    {
+      "name": "日本",
+      "count": 6
+    },
+    {
+      "name": "美食",
+      "count": 6
+    },
+    {
+      "name": "オノ・ナツメ",
+      "count": 5
+    },
+    {
+      "name": "2009年",
+      "count": 4
+    },
+    {
+      "name": "david_production",
+      "count": 4
+    },
+    {
+      "name": "猪爪慎一",
+      "count": 4
+    }
+  ],
+  "locked": false
+}

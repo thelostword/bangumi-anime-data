@@ -1,0 +1,97 @@
+{
+  "id": 279470,
+  "name": "少年アシベ GO!GO!ゴマちゃん 第4シリーズ",
+  "name_cn": "少年阿贝GO！GO！小芝麻 第四季",
+  "summary": "",
+  "date": "2019-04-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/2c/fb/279470_Ss40J.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/2c/fb/279470_Ss40J.jpg"
+  },
+  "eps": 24,
+  "rating": {
+    "rank": 0,
+    "total": 4,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 2,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "HusioStudio",
+      "count": 1
+    },
+    {
+      "name": "竹内利光",
+      "count": 1
+    },
+    {
+      "name": "BRIDGE",
+      "count": 1
+    },
+    {
+      "name": "2019",
+      "count": 1
+    },
+    {
+      "name": "2019年4月",
+      "count": 1
+    },
+    {
+      "name": "河村梨恵",
+      "count": 1
+    },
+    {
+      "name": "少年阿贝GO！GO！小芝麻",
+      "count": 1
+    },
+    {
+      "name": "近藤信宏",
+      "count": 1
+    },
+    {
+      "name": "東山奈央",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "ブリッジ",
+      "count": 1
+    },
+    {
+      "name": "佐仓绫音",
+      "count": 1
+    },
+    {
+      "name": "泡面番",
+      "count": 1
+    },
+    {
+      "name": "东山奈央",
+      "count": 1
+    },
+    {
+      "name": "漫画改",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

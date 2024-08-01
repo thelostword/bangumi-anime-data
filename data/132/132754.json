@@ -1,0 +1,153 @@
+{
+  "id": 132754,
+  "name": "ハッカドール THE・あにめ～しょん",
+  "name_cn": "骇客娃娃",
+  "summary": "在情报过度发达的现代社会，人们沉溺在铺天盖地的信息海洋中为其所缚，变得不再自由，为了解决这一问题，一位年轻勇敢的科学家站了出来，试图挑战这种压抑状态……",
+  "date": "2015-10-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/70/6d/132754_SwRnc.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/70/6d/132754_SwRnc.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 3653,
+    "total": 1222,
+    "count": {
+      "1": 1,
+      "2": 3,
+      "3": 9,
+      "4": 24,
+      "5": 97,
+      "6": 318,
+      "7": 499,
+      "8": 232,
+      "9": 29,
+      "10": 10
+    },
+    "score": 6.7
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 451
+    },
+    {
+      "name": "搞笑",
+      "count": 289
+    },
+    {
+      "name": "2015年10月",
+      "count": 216
+    },
+    {
+      "name": "TV",
+      "count": 172
+    },
+    {
+      "name": "2015",
+      "count": 134
+    },
+    {
+      "name": "原创",
+      "count": 129
+    },
+    {
+      "name": "CreatersInPack",
+      "count": 111
+    },
+    {
+      "name": "骇客娃娃",
+      "count": 105
+    },
+    {
+      "name": "APP改",
+      "count": 88
+    },
+    {
+      "name": "萌",
+      "count": 63
+    },
+    {
+      "name": "泡面",
+      "count": 62
+    },
+    {
+      "name": "百合",
+      "count": 54
+    },
+    {
+      "name": "奥居久明",
+      "count": 40
+    },
+    {
+      "name": "广告",
+      "count": 31
+    },
+    {
+      "name": "玩梗",
+      "count": 30
+    },
+    {
+      "name": "伪娘",
+      "count": 16
+    },
+    {
+      "name": "CreatorsinPack",
+      "count": 13
+    },
+    {
+      "name": "TRIGGER",
+      "count": 11
+    },
+    {
+      "name": "2015年",
+      "count": 10
+    },
+    {
+      "name": "Creators_in_Pack",
+      "count": 8
+    },
+    {
+      "name": "neta",
+      "count": 7
+    },
+    {
+      "name": "恶搞",
+      "count": 7
+    },
+    {
+      "name": "大地丙太郎",
+      "count": 6
+    },
+    {
+      "name": "日本动画",
+      "count": 5
+    },
+    {
+      "name": "佐藤裕",
+      "count": 5
+    },
+    {
+      "name": "吐槽",
+      "count": 4
+    },
+    {
+      "name": "游戏改",
+      "count": 3
+    },
+    {
+      "name": "上田麗奈",
+      "count": 3
+    },
+    {
+      "name": "2015秋",
+      "count": 3
+    },
+    {
+      "name": "wug",
+      "count": 3
+    }
+  ],
+  "locked": false
+}

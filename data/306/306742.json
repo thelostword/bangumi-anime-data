@@ -1,0 +1,153 @@
+{
+  "id": 306742,
+  "name": "ラブライブ！スーパースター!!",
+  "name_cn": "Love Live! Superstar!!",
+  "summary": "私立结丘女子高级中学，这间位于表参道、原宿、青山三个城市交界的的新学校迎来了第一批学生。\r\n没有历史，没有旧生，甚至校名也毫无知名度，在这间什么都没有的新学校里，以涩谷花音为中心的五名少女邂逅了“学园偶像”。\r\n“我果然很喜欢唱歌！我想用歌声……实现心愿！！”\r\n仍然渺小的几颗星星，她们远大的想法此时开始交错。\r\n这就是从零开始，属于拥有无限可能的她们的“大家一起实现的故事”（学园偶像计划）。展翅翱翔吧，我们的Love Live！",
+  "date": "2021-07-11",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/bf/92/306742_MvLk2.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/bf/92/306742_MvLk2.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 4626,
+    "total": 4685,
+    "count": {
+      "1": 18,
+      "2": 9,
+      "3": 33,
+      "4": 127,
+      "5": 453,
+      "6": 1465,
+      "7": 1826,
+      "8": 615,
+      "9": 63,
+      "10": 76
+    },
+    "score": 6.6
+  },
+  "tags": [
+    {
+      "name": "偶像",
+      "count": 1380
+    },
+    {
+      "name": "原创",
+      "count": 979
+    },
+    {
+      "name": "SUNRISE",
+      "count": 976
+    },
+    {
+      "name": "LoveLive！",
+      "count": 872
+    },
+    {
+      "name": "2021年7月",
+      "count": 725
+    },
+    {
+      "name": "校园",
+      "count": 635
+    },
+    {
+      "name": "TV",
+      "count": 599
+    },
+    {
+      "name": "百合",
+      "count": 555
+    },
+    {
+      "name": "2021",
+      "count": 414
+    },
+    {
+      "name": "音乐",
+      "count": 395
+    },
+    {
+      "name": "花田十輝",
+      "count": 332
+    },
+    {
+      "name": "京極尚彦",
+      "count": 166
+    },
+    {
+      "name": "花田十辉",
+      "count": 159
+    },
+    {
+      "name": "LL",
+      "count": 92
+    },
+    {
+      "name": "日升",
+      "count": 60
+    },
+    {
+      "name": "LoveLive",
+      "count": 46
+    },
+    {
+      "name": "京极尚彦",
+      "count": 32
+    },
+    {
+      "name": "轻百合",
+      "count": 20
+    },
+    {
+      "name": "唐可可",
+      "count": 20
+    },
+    {
+      "name": "青春",
+      "count": 17
+    },
+    {
+      "name": "日常",
+      "count": 11
+    },
+    {
+      "name": "2021年",
+      "count": 11
+    },
+    {
+      "name": "励志",
+      "count": 10
+    },
+    {
+      "name": "サンライズ",
+      "count": 9
+    },
+    {
+      "name": "LoveLive!",
+      "count": 9
+    },
+    {
+      "name": "日本动画",
+      "count": 9
+    },
+    {
+      "name": "TVA",
+      "count": 8
+    },
+    {
+      "name": "日本",
+      "count": 8
+    },
+    {
+      "name": "藤澤慶昌",
+      "count": 7
+    },
+    {
+      "name": "Liyuu",
+      "count": 7
+    }
+  ],
+  "locked": false
+}

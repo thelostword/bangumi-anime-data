@@ -1,0 +1,85 @@
+{
+  "id": 418599,
+  "name": "BEYBLADE X",
+  "name_cn": "战斗陀螺 X",
+  "summary": "プロを目指す風見バードは元チャンピオンの\r\n黒須エクス──『仮面X』と出会いチームを結成。\r\nＸタワーの『頂上』を目指す。\r\nしかし彼らを待ち受けるのは誰も見たことがない\r\n壮絶なバトルだった。\r\nまだ見ぬもの、そして見えないもの──“X”。\r\n最高加速（エクストリーム）したベイブレードが\r\n新時代を駆け抜ける！",
+  "date": "2023-10-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/bf/1d/418599_JepP7.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/bf/1d/418599_JepP7.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 12,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 4,
+      "6": 3,
+      "7": 1,
+      "8": 2,
+      "9": 1,
+      "10": 1
+    },
+    "score": 6.7
+  },
+  "tags": [
+    {
+      "name": "OLM",
+      "count": 12
+    },
+    {
+      "name": "2023",
+      "count": 8
+    },
+    {
+      "name": "TV",
+      "count": 6
+    },
+    {
+      "name": "原创",
+      "count": 5
+    },
+    {
+      "name": "2023年10月",
+      "count": 5
+    },
+    {
+      "name": "2023年",
+      "count": 4
+    },
+    {
+      "name": "子供向",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "寺田素都",
+      "count": 2
+    },
+    {
+      "name": "兵頭一歩",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "BEYBLADE",
+      "count": 1
+    },
+    {
+      "name": "秋山勝仁",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,93 @@
+{
+  "id": 48352,
+  "name": "仮面ライダーSD 怪奇!?クモ男",
+  "name_cn": "假面骑士SD",
+  "summary": "",
+  "date": "1993-01-23",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/b3/e5/48352_66u1T.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/b3/e5/48352_66u1T.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 24,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 1,
+      "5": 4,
+      "6": 11,
+      "7": 4,
+      "8": 1,
+      "9": 1,
+      "10": 1
+    },
+    "score": 6.2
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 9
+    },
+    {
+      "name": "1993",
+      "count": 5
+    },
+    {
+      "name": "假面骑士",
+      "count": 4
+    },
+    {
+      "name": "特摄",
+      "count": 3
+    },
+    {
+      "name": "童年",
+      "count": 2
+    },
+    {
+      "name": "東映",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "时事热点",
+      "count": 1
+    },
+    {
+      "name": "OVA-01",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "東映アニメーション",
+      "count": 1
+    },
+    {
+      "name": "漫画",
+      "count": 1
+    },
+    {
+      "name": "东映",
+      "count": 1
+    },
+    {
+      "name": "独立ova",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

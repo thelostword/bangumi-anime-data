@@ -1,0 +1,153 @@
+{
+  "id": 52787,
+  "name": "ブラック・ジャック OVA",
+  "name_cn": "怪医黑杰克 OVA",
+  "summary": "Black Jack最早动画化的10集OVA。由十个相对独立的故事组成，展现了这个无照外科神医的行医之术以及救人之道。",
+  "date": "1993-12-21",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/67/05/52787_wC3v7.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/67/05/52787_wC3v7.jpg"
+  },
+  "eps": 10,
+  "rating": {
+    "rank": 204,
+    "total": 703,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 2,
+      "5": 7,
+      "6": 21,
+      "7": 125,
+      "8": 314,
+      "9": 185,
+      "10": 48
+    },
+    "score": 8.1
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 268
+    },
+    {
+      "name": "手冢治虫",
+      "count": 192
+    },
+    {
+      "name": "1993",
+      "count": 155
+    },
+    {
+      "name": "出崎统",
+      "count": 122
+    },
+    {
+      "name": "手塚PRODUCTION",
+      "count": 117
+    },
+    {
+      "name": "漫画改",
+      "count": 95
+    },
+    {
+      "name": "黑杰克",
+      "count": 63
+    },
+    {
+      "name": "漫改",
+      "count": 56
+    },
+    {
+      "name": "奇幻",
+      "count": 29
+    },
+    {
+      "name": "90年代",
+      "count": 24
+    },
+    {
+      "name": "杉野昭夫",
+      "count": 21
+    },
+    {
+      "name": "童年系",
+      "count": 19
+    },
+    {
+      "name": "出﨑統",
+      "count": 15
+    },
+    {
+      "name": "怪医黑杰克",
+      "count": 8
+    },
+    {
+      "name": "ブラック・ジャック",
+      "count": 6
+    },
+    {
+      "name": "1993年",
+      "count": 5
+    },
+    {
+      "name": "剧集",
+      "count": 4
+    },
+    {
+      "name": "1993年12月",
+      "count": 4
+    },
+    {
+      "name": "90~94年",
+      "count": 4
+    },
+    {
+      "name": "出崎統",
+      "count": 3
+    },
+    {
+      "name": "医学",
+      "count": 3
+    },
+    {
+      "name": "上世纪",
+      "count": 3
+    },
+    {
+      "name": "手塚プロダクション",
+      "count": 3
+    },
+    {
+      "name": "1990s",
+      "count": 3
+    },
+    {
+      "name": "大塚明夫",
+      "count": 3
+    },
+    {
+      "name": "手冢Production",
+      "count": 3
+    },
+    {
+      "name": "90s",
+      "count": 3
+    },
+    {
+      "name": "高橋宏固",
+      "count": 3
+    },
+    {
+      "name": "其他",
+      "count": 2
+    },
+    {
+      "name": "手塚PRO",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

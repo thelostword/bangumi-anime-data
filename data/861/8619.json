@@ -1,0 +1,41 @@
+{
+  "id": 8619,
+  "name": "ロビンくんと100人のお友達",
+  "name_cn": "罗宾与他的100个朋友",
+  "summary": "",
+  "date": "2010-10-11",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/b6/38/8619_d6ZDq.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/b6/38/8619_d6ZDq.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "WEB",
+      "count": 1
+    },
+    {
+      "name": "空",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

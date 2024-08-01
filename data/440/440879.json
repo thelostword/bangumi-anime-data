@@ -1,0 +1,101 @@
+{
+  "id": 440879,
+  "name": "カードファイト!! ヴァンガード Divinez Season2",
+  "name_cn": "卡片战斗先导者 DivineZ 第二季",
+  "summary": "ヴァンガードで運命大戦に勝利し、妹ヒカリの健康を叶えた明導アキナ。\r\n運命者カードの所有者たちを招集したガブエリウスは、運命大戦の真の目的を明かす。\r\n\r\nそして現れるもう一体のぬいぐるみ、シヴィルト。\r\n\r\n6人の宿命者カードの所有者を引き連れたシヴィルトは、\r\n勝利した者たちが願いを叶えられるという「宿命決戦」の開幕を宣言する。\r\n\r\n運命vs宿命、因縁と思惑が交差する激しい戦いが始まった！",
+  "date": "2024-07-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e1/c0/440879_gC34F.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e1/c0/440879_gC34F.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 10,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 3,
+      "6": 2,
+      "7": 2,
+      "8": 0,
+      "9": 1,
+      "10": 1
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "STUDIOJEMI",
+      "count": 6
+    },
+    {
+      "name": "ぎふとアニメーション",
+      "count": 6
+    },
+    {
+      "name": "2024年7月",
+      "count": 5
+    },
+    {
+      "name": "KINEMACITRUS",
+      "count": 5
+    },
+    {
+      "name": "TV",
+      "count": 4
+    },
+    {
+      "name": "2024",
+      "count": 3
+    },
+    {
+      "name": "TVA",
+      "count": 2
+    },
+    {
+      "name": "宮田俊哉",
+      "count": 2
+    },
+    {
+      "name": "KINEMACITRUS、GiftAnimation、STU",
+      "count": 1
+    },
+    {
+      "name": "TVA-02",
+      "count": 1
+    },
+    {
+      "name": "鈴木龍太郎",
+      "count": 1
+    },
+    {
+      "name": "山田卓",
+      "count": 1
+    },
+    {
+      "name": "原创",
+      "count": 1
+    },
+    {
+      "name": "漫画改",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "夏季",
+      "count": 1
+    },
+    {
+      "name": "森賢",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

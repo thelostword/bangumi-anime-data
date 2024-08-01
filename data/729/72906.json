@@ -1,0 +1,101 @@
+{
+  "id": 72906,
+  "name": "スーパーストリートファイターIV OVA",
+  "name_cn": "超级街头霸王4 OVA",
+  "summary": "在一个公园发生了一起持重型武器歹徒挟持人质案件，而警察却得到上层指示不准插手，原因是这些劫匪为国际大型恐怖组织“SIN”的旧部，“SIN”方面希望自己解决并派出了恐怖的抹杀者。春丽、盖尔和嘉米无法容忍无辜人质的卷入，强行突入。结果在黑暗中发现了让人胆寒的紫色光芒……她到底是什么人？“SIN”又有什么阴谋呢？",
+  "date": "2010-04-28",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/65/cc/72906_ePXhe.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/65/cc/72906_ePXhe.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 27,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 4,
+      "6": 16,
+      "7": 6,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 12
+    },
+    {
+      "name": "2010",
+      "count": 10
+    },
+    {
+      "name": "GONZO",
+      "count": 9
+    },
+    {
+      "name": "游戏改",
+      "count": 9
+    },
+    {
+      "name": "独立ova",
+      "count": 5
+    },
+    {
+      "name": "深泽秀行",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "战斗",
+      "count": 2
+    },
+    {
+      "name": "OVA-01",
+      "count": 1
+    },
+    {
+      "name": "待下",
+      "count": 1
+    },
+    {
+      "name": "2010-2019",
+      "count": 1
+    },
+    {
+      "name": "汝窑",
+      "count": 1
+    },
+    {
+      "name": "木崎文智",
+      "count": 1
+    },
+    {
+      "name": "日本",
+      "count": 1
+    },
+    {
+      "name": "游戏",
+      "count": 1
+    },
+    {
+      "name": "RY",
+      "count": 1
+    },
+    {
+      "name": "其他",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

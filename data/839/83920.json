@@ -1,0 +1,85 @@
+{
+  "id": 83920,
+  "name": "大怪獣ラッシュ ウルトラフロンティア",
+  "name_cn": "大怪兽RUSH",
+  "summary": "总共13话的泡面番,主角是巴尔坦斗士巴雷鲁，卡兹枪手迦鲁姆，玛格玛大师玛古纳组成的猎人小队",
+  "date": "2013-09-18",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/15/ba/83920_2BW4t.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/15/ba/83920_2BW4t.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 0,
+    "total": 29,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 2,
+      "6": 5,
+      "7": 14,
+      "8": 6,
+      "9": 1,
+      "10": 1
+    },
+    "score": 7.1
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 14
+    },
+    {
+      "name": "2013",
+      "count": 5
+    },
+    {
+      "name": "特摄",
+      "count": 4
+    },
+    {
+      "name": "游戏改",
+      "count": 4
+    },
+    {
+      "name": "小怪兽",
+      "count": 3
+    },
+    {
+      "name": "2013年10月",
+      "count": 3
+    },
+    {
+      "name": "TV",
+      "count": 3
+    },
+    {
+      "name": "战斗",
+      "count": 3
+    },
+    {
+      "name": "大怪兽RUSH",
+      "count": 2
+    },
+    {
+      "name": "怪兽",
+      "count": 1
+    },
+    {
+      "name": "WEB",
+      "count": 1
+    },
+    {
+      "name": "2013年",
+      "count": 1
+    },
+    {
+      "name": "泡面",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

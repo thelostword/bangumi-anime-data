@@ -1,0 +1,153 @@
+{
+  "id": 17122,
+  "name": "魔法先生ネギま! ～白き翼 ALA ALBA～",
+  "name_cn": "魔法老师涅吉！～白之翼 ALA ALBA～",
+  "summary": "",
+  "date": "2008-08-12",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/63/1e/17122_02MTN.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/63/1e/17122_02MTN.jpg"
+  },
+  "eps": 3,
+  "rating": {
+    "rank": 3162,
+    "total": 209,
+    "count": {
+      "1": 0,
+      "2": 1,
+      "3": 3,
+      "4": 2,
+      "5": 13,
+      "6": 57,
+      "7": 76,
+      "8": 52,
+      "9": 4,
+      "10": 1
+    },
+    "score": 6.8
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 63
+    },
+    {
+      "name": "魔法老师",
+      "count": 49
+    },
+    {
+      "name": "新房昭之",
+      "count": 46
+    },
+    {
+      "name": "SHAFT",
+      "count": 29
+    },
+    {
+      "name": "后宫",
+      "count": 28
+    },
+    {
+      "name": "2008",
+      "count": 27
+    },
+    {
+      "name": "漫画改",
+      "count": 18
+    },
+    {
+      "name": "OAD",
+      "count": 16
+    },
+    {
+      "name": "涅吉",
+      "count": 16
+    },
+    {
+      "name": "漫改",
+      "count": 10
+    },
+    {
+      "name": "百合",
+      "count": 7
+    },
+    {
+      "name": "魔法",
+      "count": 7
+    },
+    {
+      "name": "2008年",
+      "count": 7
+    },
+    {
+      "name": "板村智幸",
+      "count": 5
+    },
+    {
+      "name": "赤松健",
+      "count": 5
+    },
+    {
+      "name": "富田浩章",
+      "count": 3
+    },
+    {
+      "name": "StudioPastoral",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 3
+    },
+    {
+      "name": "宮本幸裕",
+      "count": 3
+    },
+    {
+      "name": "スタジオパストラル",
+      "count": 2
+    },
+    {
+      "name": "宫本幸裕",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 2
+    },
+    {
+      "name": "佐藤利奈",
+      "count": 2
+    },
+    {
+      "name": "神田朱未",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "2008年OVA·OAD",
+      "count": 1
+    },
+    {
+      "name": "OVA-01",
+      "count": 1
+    },
+    {
+      "name": "沙发套",
+      "count": 1
+    },
+    {
+      "name": "新番记录",
+      "count": 1
+    },
+    {
+      "name": "世纪初",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

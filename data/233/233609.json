@@ -1,0 +1,113 @@
+{
+  "id": 233609,
+  "name": "みっちりねこ",
+  "name_cn": "密奇丽猫咪",
+  "summary": "",
+  "date": "2018-01-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/89/7f/233609_F33qO.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/89/7f/233609_F33qO.jpg"
+  },
+  "eps": 39,
+  "rating": {
+    "rank": 0,
+    "total": 34,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 6,
+      "6": 13,
+      "7": 9,
+      "8": 5,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.3
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 18
+    },
+    {
+      "name": "2018年1月",
+      "count": 9
+    },
+    {
+      "name": "猫片",
+      "count": 8
+    },
+    {
+      "name": "2018",
+      "count": 7
+    },
+    {
+      "name": "神谷浩史",
+      "count": 5
+    },
+    {
+      "name": "游戏改",
+      "count": 4
+    },
+    {
+      "name": "废萌",
+      "count": 4
+    },
+    {
+      "name": "福山润",
+      "count": 3
+    },
+    {
+      "name": "helo.inc",
+      "count": 2
+    },
+    {
+      "name": "早见沙织",
+      "count": 2
+    },
+    {
+      "name": "中村悠一",
+      "count": 2
+    },
+    {
+      "name": "TV",
+      "count": 2
+    },
+    {
+      "name": "密奇丽猫咪",
+      "count": 1
+    },
+    {
+      "name": "みっちりねこ",
+      "count": 1
+    },
+    {
+      "name": "猫咪",
+      "count": 1
+    },
+    {
+      "name": "樱井孝宏",
+      "count": 1
+    },
+    {
+      "name": "福山潤",
+      "count": 1
+    },
+    {
+      "name": "泡面",
+      "count": 1
+    },
+    {
+      "name": "短篇动画",
+      "count": 1
+    },
+    {
+      "name": "2018年",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

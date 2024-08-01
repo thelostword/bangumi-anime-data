@@ -1,0 +1,97 @@
+{
+  "id": 161680,
+  "name": "忍たま乱太郎 2期",
+  "name_cn": "忍者乱太郎 2期",
+  "summary": "",
+  "date": "1994-10-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e1/c7/161680_SZRsN.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e1/c7/161680_SZRsN.jpg"
+  },
+  "eps": 120,
+  "rating": {
+    "rank": 0,
+    "total": 11,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 2,
+      "7": 6,
+      "8": 1,
+      "9": 1,
+      "10": 1
+    },
+    "score": 7.4
+  },
+  "tags": [
+    {
+      "name": "1994",
+      "count": 4
+    },
+    {
+      "name": "搞笑",
+      "count": 4
+    },
+    {
+      "name": "芝山努",
+      "count": 2
+    },
+    {
+      "name": "河内日出夫",
+      "count": 2
+    },
+    {
+      "name": "亜細亜堂",
+      "count": 2
+    },
+    {
+      "name": "华视",
+      "count": 1
+    },
+    {
+      "name": "亜细亜堂",
+      "count": 1
+    },
+    {
+      "name": "1994年10月",
+      "count": 1
+    },
+    {
+      "name": "亚细亚堂",
+      "count": 1
+    },
+    {
+      "name": "高山みなみ",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "田中真弓",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "没看完",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "浦沢義雄",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

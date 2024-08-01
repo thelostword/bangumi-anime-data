@@ -1,0 +1,41 @@
+{
+  "id": 424818,
+  "name": "ゴー！ゴー！びーくるずー",
+  "name_cn": "Go! Go! Vehicle Zoo",
+  "summary": "どうぶつとのりものが暮らす\r\nどこかの世界のとある町\r\n\r\nニコニコ笑顔で\r\nたのしく暮らしているけど\r\n困りこどのひとつやふたつはあるものさ\r\n\r\nだれかのヘルプが届いたら\r\nさぁ、びーくるずー！出動だ！\r\n\r\nおとどけものを届けたり、\r\nお着がえを応援したり\r\nいろんなヘルプがまっているよ\r\n\r\n力をあわせてゴー！ゴー！\r\nいっしょなら、なんとかなるもんさ！",
+  "date": "2023-04-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/29/6c/424818_AG3T9.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/29/6c/424818_AG3T9.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 0,
+    "total": 3,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 1,
+      "10": 0
+    },
+    "score": 5
+  },
+  "tags": [
+    {
+      "name": "OLM、SIGNAL.MD",
+      "count": 1
+    },
+    {
+      "name": "空",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

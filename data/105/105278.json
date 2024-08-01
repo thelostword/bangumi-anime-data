@@ -1,0 +1,153 @@
+{
+  "id": 105278,
+  "name": "たまゆら～もあぐれっしぶ～ OVA",
+  "name_cn": "玉响～more aggressive～ OVA",
+  "summary": "広島県竹原市を舞台に、美しい自然と温かな人々に囲まれた高校生たちの生活を綴る人気アニメ第2期のOVA。TV未放映の第8.5話「一日だけの修学旅行、なので」を収録。",
+  "date": "2014-06-07",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/be/c0/105278_U4EbS.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/be/c0/105278_U4EbS.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 1654,
+    "total": 411,
+    "count": {
+      "1": 0,
+      "2": 1,
+      "3": 0,
+      "4": 3,
+      "5": 15,
+      "6": 67,
+      "7": 172,
+      "8": 117,
+      "9": 14,
+      "10": 22
+    },
+    "score": 7.2
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 200
+    },
+    {
+      "name": "治愈",
+      "count": 111
+    },
+    {
+      "name": "2014",
+      "count": 89
+    },
+    {
+      "name": "原创",
+      "count": 83
+    },
+    {
+      "name": "玉响",
+      "count": 67
+    },
+    {
+      "name": "日常",
+      "count": 51
+    },
+    {
+      "name": "TYOAnimations",
+      "count": 47
+    },
+    {
+      "name": "佐藤顺一",
+      "count": 42
+    },
+    {
+      "name": "2014年6月",
+      "count": 27
+    },
+    {
+      "name": "百合",
+      "count": 21
+    },
+    {
+      "name": "FlyingDOG",
+      "count": 13
+    },
+    {
+      "name": "佐藤順一",
+      "count": 8
+    },
+    {
+      "name": "aggressive～",
+      "count": 8
+    },
+    {
+      "name": "2014年",
+      "count": 7
+    },
+    {
+      "name": "玉响～more",
+      "count": 5
+    },
+    {
+      "name": "阿澄佳奈",
+      "count": 4
+    },
+    {
+      "name": "校园",
+      "count": 4
+    },
+    {
+      "name": "摄影",
+      "count": 4
+    },
+    {
+      "name": "TYO",
+      "count": 3
+    },
+    {
+      "name": "TYOアニメーションズ",
+      "count": 3
+    },
+    {
+      "name": "ゆめ太カンパニー",
+      "count": 3
+    },
+    {
+      "name": "井口裕香",
+      "count": 3
+    },
+    {
+      "name": "日本",
+      "count": 3
+    },
+    {
+      "name": "青春",
+      "count": 3
+    },
+    {
+      "name": "儀武ゆう子",
+      "count": 2
+    },
+    {
+      "name": "大原さやか",
+      "count": 2
+    },
+    {
+      "name": "其他",
+      "count": 2
+    },
+    {
+      "name": "天然",
+      "count": 2
+    },
+    {
+      "name": "萌",
+      "count": 2
+    },
+    {
+      "name": "TYO_Animations",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

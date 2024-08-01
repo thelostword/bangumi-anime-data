@@ -1,0 +1,73 @@
+{
+  "id": 211559,
+  "name": "古代王者 恐竜キング Dキッズ・アドベンチャー 翼龍伝説",
+  "name_cn": "古代王者 恐龙王 翼龙传说",
+  "summary": "",
+  "date": "2008-02-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c8/9e/211559_KqLhN.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c8/9e/211559_KqLhN.jpg"
+  },
+  "eps": 30,
+  "rating": {
+    "rank": 0,
+    "total": 5,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 0,
+      "7": 3,
+      "8": 0,
+      "9": 1,
+      "10": 0
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 2
+    },
+    {
+      "name": "平野靖士",
+      "count": 1
+    },
+    {
+      "name": "菱田正和",
+      "count": 1
+    },
+    {
+      "name": "谷田部勝義",
+      "count": 1
+    },
+    {
+      "name": "空",
+      "count": 1
+    },
+    {
+      "name": "2008",
+      "count": 1
+    },
+    {
+      "name": "今西隆志",
+      "count": 1
+    },
+    {
+      "name": "SUNRISE",
+      "count": 1
+    },
+    {
+      "name": "热血",
+      "count": 1
+    },
+    {
+      "name": "TVB",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

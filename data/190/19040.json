@@ -1,0 +1,117 @@
+{
+  "id": 19040,
+  "name": "ゲートキーパーズ21",
+  "name_cn": "地球守护者21",
+  "summary": "本作では舞台を2001年に移し、前作とはうって変わったリアリティあふれるストーリーが展開している。",
+  "date": "2002-04-24",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/86/ad/19040_OGk86.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/86/ad/19040_OGk86.jpg"
+  },
+  "eps": 6,
+  "rating": {
+    "rank": 0,
+    "total": 35,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 2,
+      "5": 9,
+      "6": 9,
+      "7": 9,
+      "8": 4,
+      "9": 2,
+      "10": 0
+    },
+    "score": 6.3
+  },
+  "tags": [
+    {
+      "name": "GONZO",
+      "count": 19
+    },
+    {
+      "name": "OVA",
+      "count": 18
+    },
+    {
+      "name": "2002",
+      "count": 9
+    },
+    {
+      "name": "原创",
+      "count": 7
+    },
+    {
+      "name": "超能力",
+      "count": 5
+    },
+    {
+      "name": "百合",
+      "count": 5
+    },
+    {
+      "name": "山口宏",
+      "count": 3
+    },
+    {
+      "name": "[Yuri]",
+      "count": 2
+    },
+    {
+      "name": "robo",
+      "count": 2
+    },
+    {
+      "name": "大谷育江",
+      "count": 2
+    },
+    {
+      "name": "[NBG]",
+      "count": 1
+    },
+    {
+      "name": "时事热点",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "OVA-01",
+      "count": 1
+    },
+    {
+      "name": "櫻井孝宏",
+      "count": 1
+    },
+    {
+      "name": "TV",
+      "count": 1
+    },
+    {
+      "name": "机战",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "川澄綾子",
+      "count": 1
+    },
+    {
+      "name": "科幻",
+      "count": 1
+    },
+    {
+      "name": "2002年",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

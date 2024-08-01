@@ -1,0 +1,121 @@
+{
+  "id": 414510,
+  "name": "劇場版アイドリッシュセブン LIVE 4bit BEYOND THE PERiOD",
+  "name_cn": "剧场版IDOLiSH7 LIVE 4bit BEYOND THE PERiOD",
+  "summary": "新しいはじまりを　君と、このステージで！\r\n\r\n「ブラック・オア・ホワイト　ライブショーダウン」を争った\r\n男性アイドル界のトップランナーによる夢のライブが5月に開催！\r\n\r\nIDOLiSH7・TRIGGER・Re:vale・ŹOOĻ\r\nそれぞれ異なる魅力を持つ4組のグループが一堂に会し、\r\n壮大なライブエンタテインメントがいま幕を開ける！\r\n\r\n音楽が　時代を、人々の想いをつなげていく\r\nそしてこのステージが、時を超えて、愛されるものになりますように",
+  "date": "2023-05-20",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/01/89/414510_gOZ6M.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/01/89/414510_gOZ6M.jpg"
+  },
+  "eps": 2,
+  "rating": {
+    "rank": 0,
+    "total": 15,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 2,
+      "5": 0,
+      "6": 2,
+      "7": 3,
+      "8": 2,
+      "9": 2,
+      "10": 3
+    },
+    "score": 7.2
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 17
+    },
+    {
+      "name": "2023",
+      "count": 12
+    },
+    {
+      "name": "偶像",
+      "count": 10
+    },
+    {
+      "name": "orange",
+      "count": 10
+    },
+    {
+      "name": "游戏改",
+      "count": 9
+    },
+    {
+      "name": "IDOLiSH7",
+      "count": 4
+    },
+    {
+      "name": "錦織博",
+      "count": 4
+    },
+    {
+      "name": "山本健介",
+      "count": 4
+    },
+    {
+      "name": "音乐",
+      "count": 3
+    },
+    {
+      "name": "都志見文太",
+      "count": 2
+    },
+    {
+      "name": "2023年春",
+      "count": 1
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1
+    },
+    {
+      "name": "2020-2029",
+      "count": 1
+    },
+    {
+      "name": "待上映",
+      "count": 1
+    },
+    {
+      "name": "オレンジ",
+      "count": 1
+    },
+    {
+      "name": "励志",
+      "count": 1
+    },
+    {
+      "name": "青春",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "佐藤聡美",
+      "count": 1
+    },
+    {
+      "name": "斉藤壮馬",
+      "count": 1
+    },
+    {
+      "name": "小野賢章",
+      "count": 1
+    },
+    {
+      "name": "『剧场版』",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": 87727,
+  "name": "超ゼンマイロボ パトラッシュ",
+  "name_cn": "超发条机器人 帕特拉修",
+  "summary": "世界名作剧场动画《佛兰德的狗》致敬原创动画",
+  "date": "2013-12-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/46/20/87727_0dkKD.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/46/20/87727_0dkKD.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "没见着下载",
+      "count": 1
+    },
+    {
+      "name": "¬",
+      "count": 1
+    },
+    {
+      "name": "2013",
+      "count": 1
+    },
+    {
+      "name": "空",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "TV",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

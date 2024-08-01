@@ -1,0 +1,81 @@
+{
+  "id": 297468,
+  "name": "言霊少女 the Animation -Microphone soul spinners-",
+  "name_cn": "",
+  "summary": "聖ヒエラルキー学園――それは全校生徒がスター候補のエンタメ学園の最高峰。その最下層からラップバトルでのし上がろうとする四人の少女達「Microphone soul spinners(マイクロフォンソウルスピナーズ)」のまばゆい思い出を、余すところなくドラマ化した魂のバイオグラフィーである！",
+  "date": "2020-01-11",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/14/23/297468_X5iKJ.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/14/23/297468_X5iKJ.jpg"
+  },
+  "eps": 24,
+  "rating": {
+    "rank": 0,
+    "total": 9,
+    "count": {
+      "1": 1,
+      "2": 1,
+      "3": 0,
+      "4": 1,
+      "5": 2,
+      "6": 3,
+      "7": 0,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 4.8
+  },
+  "tags": [
+    {
+      "name": "2020年1月",
+      "count": 4
+    },
+    {
+      "name": "WEB",
+      "count": 4
+    },
+    {
+      "name": "剧场版",
+      "count": 3
+    },
+    {
+      "name": "3D",
+      "count": 3
+    },
+    {
+      "name": "TV",
+      "count": 3
+    },
+    {
+      "name": "角色歌",
+      "count": 1
+    },
+    {
+      "name": "東映ツークン研究所",
+      "count": 1
+    },
+    {
+      "name": "筧昌也",
+      "count": 1
+    },
+    {
+      "name": "泡面番",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "大野敏哉",
+      "count": 1
+    },
+    {
+      "name": "2020",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

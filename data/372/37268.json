@@ -1,0 +1,93 @@
+{
+  "id": 37268,
+  "name": "バビル2世",
+  "name_cn": "巴比伦二世 OVA",
+  "summary": "原作の第2部までのストーリーを抜粋し、最終決戦部分はオリジナルストーリーとしている。この作品では、ヨミは平気で部下を使い捨てにするキャラクターとして描かれており、声はTV1作目を担当した大塚周夫の息子、明夫が担当している。",
+  "date": "1992-03-21",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/55/d1/37268_yLJ6y.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/55/d1/37268_yLJ6y.jpg"
+  },
+  "eps": 4,
+  "rating": {
+    "rank": 0,
+    "total": 9,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 4,
+      "6": 5,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.6
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 9
+    },
+    {
+      "name": "草尾毅",
+      "count": 4
+    },
+    {
+      "name": "1992",
+      "count": 3
+    },
+    {
+      "name": "まつもとよしひさ",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "並木敏",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "OVA-01",
+      "count": 1
+    },
+    {
+      "name": "ティーアップ",
+      "count": 1
+    },
+    {
+      "name": "横山光辉",
+      "count": 1
+    },
+    {
+      "name": "三石琴乃",
+      "count": 1
+    },
+    {
+      "name": "robo",
+      "count": 1
+    },
+    {
+      "name": "J.C.STAFF",
+      "count": 1
+    },
+    {
+      "name": "横山光輝",
+      "count": 1
+    },
+    {
+      "name": "独立ova",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

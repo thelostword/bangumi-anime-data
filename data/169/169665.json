@@ -1,0 +1,85 @@
+{
+  "id": 169665,
+  "name": "シンキング アンド ドローイング 日本の新世紀アート・アニメーション",
+  "name_cn": "思考与绘画：日本新世纪艺术动画",
+  "summary": "",
+  "date": "2005-08-25",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/99/d5/169665_R1z4j.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/99/d5/169665_R1z4j.jpg"
+  },
+  "eps": 9,
+  "rating": {
+    "rank": 0,
+    "total": 10,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 3,
+      "6": 4,
+      "7": 2,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 13
+    },
+    {
+      "name": "2005",
+      "count": 9
+    },
+    {
+      "name": "短片",
+      "count": 7
+    },
+    {
+      "name": "原创",
+      "count": 6
+    },
+    {
+      "name": "2005年",
+      "count": 2
+    },
+    {
+      "name": "2000s",
+      "count": 1
+    },
+    {
+      "name": "2005年七月番",
+      "count": 1
+    },
+    {
+      "name": "OVA-01",
+      "count": 1
+    },
+    {
+      "name": "2005年8月",
+      "count": 1
+    },
+    {
+      "name": "动画电影",
+      "count": 1
+    },
+    {
+      "name": "猎奇",
+      "count": 1
+    },
+    {
+      "name": "实验动画",
+      "count": 1
+    },
+    {
+      "name": "00",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

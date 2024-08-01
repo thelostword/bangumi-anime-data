@@ -1,0 +1,153 @@
+{
+  "id": 249245,
+  "name": "KING OF PRISM -Shiny Seven Stars-",
+  "name_cn": "绫镜少男 KING OF PRISM -Shiny Seven Stars",
+  "summary": "エーデルローズからプリズムキングカップに出場し、未来のプリズムスタァの片鱗をのぞかせた一条シンは、この春、華京院学園高等部に入学し、高校1年生となった。Over The Rainbowのコウジ、ヒロ、カヅキはエーデルローズから独立し、新事務所を設立。忙しい日々を送っていた。\r\nそんな中、プリズムキングをヒロに奪われ、エーデルローズを目の敵とするシュワルツローズ・法月仁総帥は、プリズムキングに変わる新たな王を決める「PRISM.1」を提唱。シュワルツローズVSエーデルローズの対抗戦を行うと発表する。",
+  "date": "2019-04-15",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/06/53/249245_wBXfw.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/06/53/249245_wBXfw.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 0,
+    "total": 44,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 4,
+      "6": 10,
+      "7": 13,
+      "8": 11,
+      "9": 0,
+      "10": 5
+    },
+    "score": 7.1
+  },
+  "tags": [
+    {
+      "name": "偶像",
+      "count": 17
+    },
+    {
+      "name": "龙之子",
+      "count": 17
+    },
+    {
+      "name": "TV",
+      "count": 16
+    },
+    {
+      "name": "2019年4月",
+      "count": 12
+    },
+    {
+      "name": "原创",
+      "count": 11
+    },
+    {
+      "name": "2019",
+      "count": 8
+    },
+    {
+      "name": "菱田正和",
+      "count": 8
+    },
+    {
+      "name": "搞笑",
+      "count": 4
+    },
+    {
+      "name": "寺島惇太",
+      "count": 4
+    },
+    {
+      "name": "女性向",
+      "count": 3
+    },
+    {
+      "name": "mmm",
+      "count": 2
+    },
+    {
+      "name": "KING_OF_PRISM",
+      "count": 2
+    },
+    {
+      "name": "タツノコプロ",
+      "count": 2
+    },
+    {
+      "name": "畠中祐",
+      "count": 1
+    },
+    {
+      "name": "プリズムの煌めき",
+      "count": 1
+    },
+    {
+      "name": "55-100",
+      "count": 1
+    },
+    {
+      "name": "KOP",
+      "count": 1
+    },
+    {
+      "name": "可独立观赏",
+      "count": 1
+    },
+    {
+      "name": "表",
+      "count": 1
+    },
+    {
+      "name": "6",
+      "count": 1
+    },
+    {
+      "name": "音乐",
+      "count": 1
+    },
+    {
+      "name": "日本",
+      "count": 1
+    },
+    {
+      "name": "剧场版",
+      "count": 1
+    },
+    {
+      "name": "动画",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "竞技",
+      "count": 1
+    },
+    {
+      "name": "斉藤壮馬",
+      "count": 1
+    },
+    {
+      "name": "京极尚彦",
+      "count": 1
+    },
+    {
+      "name": "补",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,109 @@
+{
+  "id": 66409,
+  "name": "探検ドリランド -1000年の真宝-",
+  "name_cn": "探险托里兰托 1000年的真宝",
+  "summary": "",
+  "date": "2013-04-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/62/cd/66409_mEIoR.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/62/cd/66409_mEIoR.jpg"
+  },
+  "eps": 51,
+  "rating": {
+    "rank": 0,
+    "total": 19,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 3,
+      "6": 7,
+      "7": 8,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.2
+  },
+  "tags": [
+    {
+      "name": "探险托里兰托",
+      "count": 11
+    },
+    {
+      "name": "TV",
+      "count": 9
+    },
+    {
+      "name": "东映",
+      "count": 9
+    },
+    {
+      "name": "2013年4月",
+      "count": 7
+    },
+    {
+      "name": "2013",
+      "count": 6
+    },
+    {
+      "name": "探险Driland",
+      "count": 6
+    },
+    {
+      "name": "子供向",
+      "count": 5
+    },
+    {
+      "name": "新篇",
+      "count": 4
+    },
+    {
+      "name": "奇幻",
+      "count": 4
+    },
+    {
+      "name": "日TV",
+      "count": 2
+    },
+    {
+      "name": "长剧集",
+      "count": 2
+    },
+    {
+      "name": "优先观看",
+      "count": 1
+    },
+    {
+      "name": "别名:",
+      "count": 1
+    },
+    {
+      "name": "星期日",
+      "count": 1
+    },
+    {
+      "name": "原创",
+      "count": 1
+    },
+    {
+      "name": "四月番",
+      "count": 1
+    },
+    {
+      "name": "ゆかな",
+      "count": 1
+    },
+    {
+      "name": "续作",
+      "count": 1
+    },
+    {
+      "name": "东映动画",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

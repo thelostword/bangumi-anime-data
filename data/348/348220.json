@@ -1,0 +1,153 @@
+{
+  "id": 348220,
+  "name": "アンダーニンジャ",
+  "name_cn": "地下忍者",
+  "summary": "忍者现在也存在于日本。其数量约为20万。\r\n被称为“NIN（National Intelligence of NINJA）”的忍者组织不受国家文官统制，那些精锐们秘密地从事暗杀和破坏活动。\r\n然而，还有一个与“NIN”敌对的另一个忍者组织“UN”。\r\n忍者和忍者——暗斗的最后将会是什么结局？\r\n然后，被投入战斗最前线的云隐九郎等下忍的命运是？",
+  "date": "2023-10-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c1/4c/348220_OwnzX.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c1/4c/348220_OwnzX.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 4466,
+    "total": 1318,
+    "count": {
+      "1": 4,
+      "2": 6,
+      "3": 12,
+      "4": 41,
+      "5": 108,
+      "6": 388,
+      "7": 534,
+      "8": 189,
+      "9": 25,
+      "10": 11
+    },
+    "score": 6.6
+  },
+  "tags": [
+    {
+      "name": "2023年10月",
+      "count": 326
+    },
+    {
+      "name": "搞笑",
+      "count": 273
+    },
+    {
+      "name": "手塚PRODUCTION",
+      "count": 256
+    },
+    {
+      "name": "漫画改",
+      "count": 232
+    },
+    {
+      "name": "TV",
+      "count": 180
+    },
+    {
+      "name": "战斗",
+      "count": 176
+    },
+    {
+      "name": "忍者",
+      "count": 133
+    },
+    {
+      "name": "2023",
+      "count": 126
+    },
+    {
+      "name": "漫改",
+      "count": 120
+    },
+    {
+      "name": "日常",
+      "count": 76
+    },
+    {
+      "name": "大知慶一郎",
+      "count": 43
+    },
+    {
+      "name": "桑原智",
+      "count": 40
+    },
+    {
+      "name": "地下忍者",
+      "count": 24
+    },
+    {
+      "name": "未确定",
+      "count": 18
+    },
+    {
+      "name": "科幻",
+      "count": 16
+    },
+    {
+      "name": "2023秋",
+      "count": 8
+    },
+    {
+      "name": "血腥",
+      "count": 8
+    },
+    {
+      "name": "猎奇",
+      "count": 7
+    },
+    {
+      "name": "电波",
+      "count": 6
+    },
+    {
+      "name": "悬疑",
+      "count": 5
+    },
+    {
+      "name": "日本动画",
+      "count": 4
+    },
+    {
+      "name": "手冢Production",
+      "count": 4
+    },
+    {
+      "name": "2023年",
+      "count": 4
+    },
+    {
+      "name": "2023年秋",
+      "count": 3
+    },
+    {
+      "name": "花泽健吾",
+      "count": 3
+    },
+    {
+      "name": "热血",
+      "count": 3
+    },
+    {
+      "name": "动画",
+      "count": 3
+    },
+    {
+      "name": "校园",
+      "count": 3
+    },
+    {
+      "name": "日本",
+      "count": 3
+    },
+    {
+      "name": "奇幻",
+      "count": 3
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,137 @@
+{
+  "id": 99809,
+  "name": "召しませロードス島戦記 それっておいしいの？",
+  "name_cn": "享用罗德斯岛战记",
+  "summary": "",
+  "date": "2014-04-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/eb/68/99809_424aq.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/eb/68/99809_424aq.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 0,
+    "total": 50,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 5,
+      "5": 19,
+      "6": 22,
+      "7": 3,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.5
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 22
+    },
+    {
+      "name": "TV",
+      "count": 10
+    },
+    {
+      "name": "2014",
+      "count": 9
+    },
+    {
+      "name": "2014年4月",
+      "count": 6
+    },
+    {
+      "name": "搞笑",
+      "count": 5
+    },
+    {
+      "name": "Studio云雀",
+      "count": 4
+    },
+    {
+      "name": "studiodeen",
+      "count": 4
+    },
+    {
+      "name": "享用罗德斯岛战记",
+      "count": 4
+    },
+    {
+      "name": "泡面",
+      "count": 3
+    },
+    {
+      "name": "草尾毅",
+      "count": 3
+    },
+    {
+      "name": "STUDIODEEN、Studio云雀",
+      "count": 1
+    },
+    {
+      "name": "スタジオ雲雀",
+      "count": 1
+    },
+    {
+      "name": "没地下",
+      "count": 1
+    },
+    {
+      "name": "三重野瞳",
+      "count": 1
+    },
+    {
+      "name": "情怀",
+      "count": 1
+    },
+    {
+      "name": "铃木行",
+      "count": 1
+    },
+    {
+      "name": "轻改",
+      "count": 1
+    },
+    {
+      "name": "奇幻",
+      "count": 1
+    },
+    {
+      "name": "日本",
+      "count": 1
+    },
+    {
+      "name": "动画",
+      "count": 1
+    },
+    {
+      "name": "原创",
+      "count": 1
+    },
+    {
+      "name": "魔幻",
+      "count": 1
+    },
+    {
+      "name": "日常",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "战斗",
+      "count": 1
+    },
+    {
+      "name": "罗德岛战记",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

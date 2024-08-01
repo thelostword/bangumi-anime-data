@@ -1,0 +1,37 @@
+{
+  "id": 449224,
+  "name": "パタリロ! スターダスト計画",
+  "name_cn": "巴塔利洛 星尘计划",
+  "summary": "1983年7月10日公開作品。単行本第5巻に収録された「スターダスト」を原作にした作品。\r\n",
+  "date": "1983-07-10",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/0d/36/449224_YCa4C.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/0d/36/449224_YCa4C.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "东映动画",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

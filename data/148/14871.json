@@ -1,0 +1,153 @@
+{
+  "id": 14871,
+  "name": "今日から㋮王! R",
+  "name_cn": "今天开始做魔王 OVA",
+  "summary": "",
+  "date": "2007-10-26",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/55/e7/14871_eZ5e5.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/55/e7/14871_eZ5e5.jpg"
+  },
+  "eps": 5,
+  "rating": {
+    "rank": 4327,
+    "total": 122,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 3,
+      "4": 4,
+      "5": 8,
+      "6": 50,
+      "7": 40,
+      "8": 14,
+      "9": 1,
+      "10": 2
+    },
+    "score": 6.4
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 43
+    },
+    {
+      "name": "2007",
+      "count": 24
+    },
+    {
+      "name": "腐向",
+      "count": 22
+    },
+    {
+      "name": "今天開始做魔王",
+      "count": 14
+    },
+    {
+      "name": "櫻井孝宏",
+      "count": 10
+    },
+    {
+      "name": "补番",
+      "count": 9
+    },
+    {
+      "name": "BL",
+      "count": 8
+    },
+    {
+      "name": "studiodeen",
+      "count": 8
+    },
+    {
+      "name": "腐",
+      "count": 7
+    },
+    {
+      "name": "井上和彦",
+      "count": 5
+    },
+    {
+      "name": "奇幻",
+      "count": 5
+    },
+    {
+      "name": "Animation（jp.）",
+      "count": 4
+    },
+    {
+      "name": "石田彰",
+      "count": 3
+    },
+    {
+      "name": "樱井孝宏",
+      "count": 2
+    },
+    {
+      "name": "西村纯二",
+      "count": 2
+    },
+    {
+      "name": "☆OVA",
+      "count": 2
+    },
+    {
+      "name": "面出明美",
+      "count": 2
+    },
+    {
+      "name": "已看",
+      "count": 2
+    },
+    {
+      "name": "スタジオディーン",
+      "count": 2
+    },
+    {
+      "name": "森川智之",
+      "count": 2
+    },
+    {
+      "name": "搞笑",
+      "count": 2
+    },
+    {
+      "name": "轻小说改",
+      "count": 2
+    },
+    {
+      "name": "2007年10月",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 1
+    },
+    {
+      "name": "2009",
+      "count": 1
+    },
+    {
+      "name": "斎賀みつき",
+      "count": 1
+    },
+    {
+      "name": "基",
+      "count": 1
+    },
+    {
+      "name": "Studio",
+      "count": 1
+    },
+    {
+      "name": "工藤裕加",
+      "count": 1
+    },
+    {
+      "name": "ovaoad",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

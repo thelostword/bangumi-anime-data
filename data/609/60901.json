@@ -1,0 +1,153 @@
+{
+  "id": 60901,
+  "name": "蒼穹のファフナー EXODUS",
+  "name_cn": "苍穹之法芙娜 EXODUS",
+  "summary": "故事背景在剧场版《苍穹之法芙娜 HEAVEN AND EARTH》的2年后，由于与来主操的邂逅，龙宫岛获得了与Mir对话的手段，这也给岛带来了可能性。阿尔维斯的孩子们一边进行战斗的准备，一边摸索着理解敌人的方法。2年后的现在，龙宫岛获得了更进一步的进化，理解Festum语言的少女与被Festum所守护的少女，当两人相遇之时，新世界的门将打开…… ",
+  "date": "2015-01-08",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c0/98/60901_X9O9i.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c0/98/60901_X9O9i.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 320,
+    "total": 1301,
+    "count": {
+      "1": 7,
+      "2": 0,
+      "3": 3,
+      "4": 8,
+      "5": 25,
+      "6": 101,
+      "7": 268,
+      "8": 493,
+      "9": 277,
+      "10": 119
+    },
+    "score": 7.9
+  },
+  "tags": [
+    {
+      "name": "冲方丁",
+      "count": 307
+    },
+    {
+      "name": "苍穹之法芙娜",
+      "count": 302
+    },
+    {
+      "name": "XEBEC",
+      "count": 276
+    },
+    {
+      "name": "萝卜",
+      "count": 228
+    },
+    {
+      "name": "TV",
+      "count": 222
+    },
+    {
+      "name": "2015年1月",
+      "count": 212
+    },
+    {
+      "name": "原创",
+      "count": 187
+    },
+    {
+      "name": "机战",
+      "count": 182
+    },
+    {
+      "name": "2015",
+      "count": 139
+    },
+    {
+      "name": "平井臉",
+      "count": 81
+    },
+    {
+      "name": "平井久司",
+      "count": 54
+    },
+    {
+      "name": "神作續章",
+      "count": 40
+    },
+    {
+      "name": "EXODUS",
+      "count": 31
+    },
+    {
+      "name": "科幻",
+      "count": 27
+    },
+    {
+      "name": "基",
+      "count": 25
+    },
+    {
+      "name": "羽原信義",
+      "count": 21
+    },
+    {
+      "name": "能戸隆",
+      "count": 14
+    },
+    {
+      "name": "羽原信义",
+      "count": 12
+    },
+    {
+      "name": "2015年",
+      "count": 10
+    },
+    {
+      "name": "续作",
+      "count": 9
+    },
+    {
+      "name": "战斗",
+      "count": 9
+    },
+    {
+      "name": "XEBECzwei",
+      "count": 7
+    },
+    {
+      "name": "orange",
+      "count": 7
+    },
+    {
+      "name": "2013",
+      "count": 7
+    },
+    {
+      "name": "苍穹的法芙娜",
+      "count": 5
+    },
+    {
+      "name": "能户隆",
+      "count": 4
+    },
+    {
+      "name": "斉藤恒芳",
+      "count": 4
+    },
+    {
+      "name": "季番",
+      "count": 4
+    },
+    {
+      "name": "TVA",
+      "count": 4
+    },
+    {
+      "name": "蒼穹のファフナー",
+      "count": 4
+    }
+  ],
+  "locked": false
+}

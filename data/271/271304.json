@@ -1,0 +1,81 @@
+{
+  "id": 271304,
+  "name": "今日もツノがある",
+  "name_cn": "今天头上也有角",
+  "summary": "ツノの生えた黄色いカエルが仲間たちとワイワイ楽しく過ごす日常を描いた1分アニメでお届けします。",
+  "date": "2019-02-21",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/0a/b1/271304_oOT18.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/0a/b1/271304_oOT18.jpg"
+  },
+  "eps": 50,
+  "rating": {
+    "rank": 0,
+    "total": 2,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 1,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 4.5
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 3
+    },
+    {
+      "name": "尾中たけし",
+      "count": 1
+    },
+    {
+      "name": "沙雕",
+      "count": 1
+    },
+    {
+      "name": "时事热点",
+      "count": 1
+    },
+    {
+      "name": "2019",
+      "count": 1
+    },
+    {
+      "name": "STUDY優作",
+      "count": 1
+    },
+    {
+      "name": "内田雄馬",
+      "count": 1
+    },
+    {
+      "name": "勝鬨スタジオ",
+      "count": 1
+    },
+    {
+      "name": "石川界人",
+      "count": 1
+    },
+    {
+      "name": "斉藤壮馬",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "憋气番",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

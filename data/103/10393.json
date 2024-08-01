@@ -1,0 +1,153 @@
+{
+  "id": 10393,
+  "name": "宇宙戦艦ヤマト",
+  "name_cn": "宇宙战舰大和号",
+  "summary": "宇宙战舰大和号，堪称是日本动画的元祖级作品。原作是日本著名漫画家，松本零士。在日本国内，宇宙战舰大和号，与高达 EVA并称日本动画三大神作。其代表日本动画起步之作。毕竟是1974的TV动画，制作质量和画风都不尽如人意。",
+  "date": "1974-10-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/f8/a8/10393_22dzf.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/f8/a8/10393_22dzf.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 1442,
+    "total": 283,
+    "count": {
+      "1": 2,
+      "2": 1,
+      "3": 3,
+      "4": 4,
+      "5": 6,
+      "6": 34,
+      "7": 108,
+      "8": 86,
+      "9": 26,
+      "10": 13
+    },
+    "score": 7.3
+  },
+  "tags": [
+    {
+      "name": "松本零士",
+      "count": 95
+    },
+    {
+      "name": "科幻",
+      "count": 95
+    },
+    {
+      "name": "1974",
+      "count": 74
+    },
+    {
+      "name": "TV",
+      "count": 67
+    },
+    {
+      "name": "宇宙战舰大和号",
+      "count": 54
+    },
+    {
+      "name": "补旧番",
+      "count": 36
+    },
+    {
+      "name": "原创",
+      "count": 34
+    },
+    {
+      "name": "三大经典",
+      "count": 32
+    },
+    {
+      "name": "经典",
+      "count": 18
+    },
+    {
+      "name": "1974年10月",
+      "count": 17
+    },
+    {
+      "name": "童年向",
+      "count": 17
+    },
+    {
+      "name": "70年代",
+      "count": 13
+    },
+    {
+      "name": "日本",
+      "count": 7
+    },
+    {
+      "name": "动画",
+      "count": 5
+    },
+    {
+      "name": "童年",
+      "count": 5
+    },
+    {
+      "name": "日本动画",
+      "count": 4
+    },
+    {
+      "name": "反战类",
+      "count": 3
+    },
+    {
+      "name": "机战",
+      "count": 3
+    },
+    {
+      "name": "昭和",
+      "count": 3
+    },
+    {
+      "name": "石黒昇",
+      "count": 3
+    },
+    {
+      "name": "AcademyProductions",
+      "count": 2
+    },
+    {
+      "name": "西崎义展",
+      "count": 2
+    },
+    {
+      "name": "童年的经典",
+      "count": 2
+    },
+    {
+      "name": "萝卜",
+      "count": 2
+    },
+    {
+      "name": "1970-1979",
+      "count": 2
+    },
+    {
+      "name": "SF",
+      "count": 2
+    },
+    {
+      "name": "战争",
+      "count": 2
+    },
+    {
+      "name": "7分",
+      "count": 2
+    },
+    {
+      "name": "漫画改",
+      "count": 2
+    },
+    {
+      "name": "TVA",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

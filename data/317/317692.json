@@ -1,0 +1,153 @@
+{
+  "id": 317692,
+  "name": "テルマエ・ロマエ ノヴァエ",
+  "name_cn": "新罗马浴场",
+  "summary": "一名骄傲的古罗马浴场建筑师偶然来到现今的日本浴场，他所看到的浴场新发明让他深受启发。",
+  "date": "2022-03-28",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/64/17/317692_c72WT.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/64/17/317692_c72WT.jpg"
+  },
+  "eps": 11,
+  "rating": {
+    "rank": 5484,
+    "total": 165,
+    "count": {
+      "1": 0,
+      "2": 1,
+      "3": 2,
+      "4": 5,
+      "5": 22,
+      "6": 73,
+      "7": 53,
+      "8": 7,
+      "9": 0,
+      "10": 2
+    },
+    "score": 6.2
+  },
+  "tags": [
+    {
+      "name": "Netflix",
+      "count": 43
+    },
+    {
+      "name": "2022年4月",
+      "count": 42
+    },
+    {
+      "name": "NAZ",
+      "count": 33
+    },
+    {
+      "name": "WEB",
+      "count": 29
+    },
+    {
+      "name": "搞笑",
+      "count": 28
+    },
+    {
+      "name": "2022",
+      "count": 26
+    },
+    {
+      "name": "漫改",
+      "count": 21
+    },
+    {
+      "name": "漫画改",
+      "count": 20
+    },
+    {
+      "name": "罗马浴场",
+      "count": 15
+    },
+    {
+      "name": "津田健次郎",
+      "count": 14
+    },
+    {
+      "name": "TV",
+      "count": 10
+    },
+    {
+      "name": "穿越",
+      "count": 9
+    },
+    {
+      "name": "历史",
+      "count": 8
+    },
+    {
+      "name": "畳谷哲也",
+      "count": 5
+    },
+    {
+      "name": "百瀬祐一郎",
+      "count": 4
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "叠谷哲也",
+      "count": 2
+    },
+    {
+      "name": "樱井孝宏",
+      "count": 2
+    },
+    {
+      "name": "异世界",
+      "count": 2
+    },
+    {
+      "name": "8+",
+      "count": 1
+    },
+    {
+      "name": "2022上",
+      "count": 1
+    },
+    {
+      "name": "山崎麻里",
+      "count": 1
+    },
+    {
+      "name": "魔性",
+      "count": 1
+    },
+    {
+      "name": "20年代",
+      "count": 1
+    },
+    {
+      "name": "2022春",
+      "count": 1
+    },
+    {
+      "name": "NOVAE",
+      "count": 1
+    },
+    {
+      "name": "四等",
+      "count": 1
+    },
+    {
+      "name": "温泉",
+      "count": 1
+    },
+    {
+      "name": "ONA",
+      "count": 1
+    },
+    {
+      "name": "超现实",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

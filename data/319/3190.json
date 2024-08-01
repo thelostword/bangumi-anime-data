@@ -1,0 +1,153 @@
+{
+  "id": 3190,
+  "name": "First Squad: The Moment Of Truth",
+  "name_cn": "第一小队",
+  "summary": "During WWII a group of Soviet teenage soldiers fight the invading German army and an SS Nazi officer who is attempting to raise a supernatural army of 12th-century crusaders.\r\n",
+  "date": "2009-05-13",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/07/c4/3190_LnooU.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/07/c4/3190_LnooU.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 7500,
+    "total": 239,
+    "count": {
+      "1": 5,
+      "2": 2,
+      "3": 9,
+      "4": 33,
+      "5": 55,
+      "6": 86,
+      "7": 29,
+      "8": 13,
+      "9": 4,
+      "10": 3
+    },
+    "score": 5.6
+  },
+  "tags": [
+    {
+      "name": "Studio4℃",
+      "count": 84
+    },
+    {
+      "name": "剧场版",
+      "count": 69
+    },
+    {
+      "name": "日俄加合作",
+      "count": 50
+    },
+    {
+      "name": "2009",
+      "count": 32
+    },
+    {
+      "name": "俄罗斯",
+      "count": 30
+    },
+    {
+      "name": "第二次世界大战",
+      "count": 30
+    },
+    {
+      "name": "战争",
+      "count": 23
+    },
+    {
+      "name": "红领巾",
+      "count": 20
+    },
+    {
+      "name": "原创",
+      "count": 15
+    },
+    {
+      "name": "穿越",
+      "count": 12
+    },
+    {
+      "name": "奇幻",
+      "count": 12
+    },
+    {
+      "name": "纳粹",
+      "count": 11
+    },
+    {
+      "name": "芦野芳晴",
+      "count": 9
+    },
+    {
+      "name": "真人",
+      "count": 6
+    },
+    {
+      "name": "2009年",
+      "count": 5
+    },
+    {
+      "name": "动画电影",
+      "count": 4
+    },
+    {
+      "name": "科幻",
+      "count": 3
+    },
+    {
+      "name": "电影",
+      "count": 3
+    },
+    {
+      "name": "小说改",
+      "count": 3
+    },
+    {
+      "name": "战斗",
+      "count": 3
+    },
+    {
+      "name": "SS",
+      "count": 3
+    },
+    {
+      "name": "毛子",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 2
+    },
+    {
+      "name": "欧美",
+      "count": 2
+    },
+    {
+      "name": "独立剧场版",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "历史",
+      "count": 2
+    },
+    {
+      "name": "STUDIO.4℃",
+      "count": 2
+    },
+    {
+      "name": "欧洲动画",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

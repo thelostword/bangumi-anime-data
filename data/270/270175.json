@@ -1,0 +1,153 @@
+{
+  "id": 270175,
+  "name": "バトルスピリッツ サーガブレイヴ",
+  "name_cn": "战斗之魂 Saga Brave",
+  "summary": "西暦２６６１年、地球。\r\n人類と魔族の統一政府による統治が続く中、\r\n新たな組織が不穏な胎動を始めていた。\r\n\r\nそのひずみは各地に広がり、\r\nかつて馬神弾と共に世界を救うために戦った\r\n仲間たちにも届きだしていた…。\r\n\r\n馬神弾が地球を救い、光となってから１０年。\r\n果たして〝平和〟はもたらされたのか、それとも。\r\nバトルスピリッツは新たな歴史を刻み始める。",
+  "date": "2019-06-14",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/65/5f/270175_S5w25.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/65/5f/270175_S5w25.jpg"
+  },
+  "eps": 3,
+  "rating": {
+    "rank": 1521,
+    "total": 57,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 0,
+      "6": 9,
+      "7": 20,
+      "8": 20,
+      "9": 6,
+      "10": 1
+    },
+    "score": 7.4
+  },
+  "tags": [
+    {
+      "name": "SUNRISE",
+      "count": 22
+    },
+    {
+      "name": "WEB",
+      "count": 15
+    },
+    {
+      "name": "2019",
+      "count": 13
+    },
+    {
+      "name": "OVA",
+      "count": 12
+    },
+    {
+      "name": "卡牌",
+      "count": 9
+    },
+    {
+      "name": "富冈淳广",
+      "count": 9
+    },
+    {
+      "name": "原创",
+      "count": 8
+    },
+    {
+      "name": "冨岡淳広",
+      "count": 8
+    },
+    {
+      "name": "渡边正树",
+      "count": 6
+    },
+    {
+      "name": "渡辺正樹",
+      "count": 6
+    },
+    {
+      "name": "BattleSpirits",
+      "count": 4
+    },
+    {
+      "name": "BNPictures",
+      "count": 4
+    },
+    {
+      "name": "2019年",
+      "count": 3
+    },
+    {
+      "name": "バトルスピリッツ",
+      "count": 2
+    },
+    {
+      "name": "2010s",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "サンライズ",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "川澄綾子",
+      "count": 1
+    },
+    {
+      "name": "石川てつや",
+      "count": 1
+    },
+    {
+      "name": "异界见闻录",
+      "count": 1
+    },
+    {
+      "name": "2010-2019",
+      "count": 1
+    },
+    {
+      "name": "緒乃冬華",
+      "count": 1
+    },
+    {
+      "name": "BN_Pictures",
+      "count": 1
+    },
+    {
+      "name": "表",
+      "count": 1
+    },
+    {
+      "name": "打牌",
+      "count": 1
+    },
+    {
+      "name": "TV",
+      "count": 1
+    },
+    {
+      "name": "动画",
+      "count": 1
+    },
+    {
+      "name": "日本",
+      "count": 1
+    },
+    {
+      "name": "大长篇",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

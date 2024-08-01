@@ -1,0 +1,69 @@
+{
+  "id": 291842,
+  "name": "耐え子の日常",
+  "name_cn": "",
+  "summary": "",
+  "date": "2019-10-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/95/69/291842_VBlUp.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/95/69/291842_VBlUp.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 0,
+    "total": 5,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 1,
+      "5": 1,
+      "6": 0,
+      "7": 2,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.2
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 3
+    },
+    {
+      "name": "2019",
+      "count": 3
+    },
+    {
+      "name": "搞笑",
+      "count": 2
+    },
+    {
+      "name": "愛美",
+      "count": 2
+    },
+    {
+      "name": "DLE",
+      "count": 2
+    },
+    {
+      "name": "田中さん",
+      "count": 1
+    },
+    {
+      "name": "そろそろ谷川",
+      "count": 1
+    },
+    {
+      "name": "短篇",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

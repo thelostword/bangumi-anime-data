@@ -1,0 +1,93 @@
+{
+  "id": 65280,
+  "name": "一発貫太くん",
+  "name_cn": "棒球少年贯太",
+  "summary": "戸馳（とばせ）一家（飼い犬の野球十兵衛含む）が結成した草野球チーム「ホーマーズ」の活躍を描く。",
+  "date": "1977-09-18",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/b5/78/65280_M9PpE.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/b5/78/65280_M9PpE.jpg"
+  },
+  "eps": 53,
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 1
+  },
+  "tags": [
+    {
+      "name": "太田淑子",
+      "count": 1
+    },
+    {
+      "name": "70s",
+      "count": 1
+    },
+    {
+      "name": "笹川ひろし",
+      "count": 1
+    },
+    {
+      "name": "赛璐珞",
+      "count": 1
+    },
+    {
+      "name": "秋元千賀子",
+      "count": 1
+    },
+    {
+      "name": "麻生美代子",
+      "count": 1
+    },
+    {
+      "name": "1978",
+      "count": 1
+    },
+    {
+      "name": "タツノコプロ",
+      "count": 1
+    },
+    {
+      "name": "龙之子",
+      "count": 1
+    },
+    {
+      "name": "运动",
+      "count": 1
+    },
+    {
+      "name": "棒球",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "童年",
+      "count": 1
+    },
+    {
+      "name": "TV",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

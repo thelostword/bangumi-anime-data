@@ -1,0 +1,153 @@
+{
+  "id": 255550,
+  "name": "おこしやす、ちとせちゃん",
+  "name_cn": "欢迎光临千岁酱",
+  "summary": "",
+  "date": "2018-10-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/62/b4/255550_jljxB.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/62/b4/255550_jljxB.jpg"
+  },
+  "eps": 24,
+  "rating": {
+    "rank": 5679,
+    "total": 87,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 3,
+      "4": 5,
+      "5": 24,
+      "6": 27,
+      "7": 19,
+      "8": 8,
+      "9": 0,
+      "10": 1
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 37
+    },
+    {
+      "name": "2018年10月",
+      "count": 28
+    },
+    {
+      "name": "GATHERING",
+      "count": 25
+    },
+    {
+      "name": "TV",
+      "count": 20
+    },
+    {
+      "name": "漫画改",
+      "count": 19
+    },
+    {
+      "name": "2018",
+      "count": 13
+    },
+    {
+      "name": "美食",
+      "count": 6
+    },
+    {
+      "name": "漫改",
+      "count": 5
+    },
+    {
+      "name": "京都",
+      "count": 4
+    },
+    {
+      "name": "矢立恭",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "a.Anime",
+      "count": 1
+    },
+    {
+      "name": "矢立きょう",
+      "count": 1
+    },
+    {
+      "name": "KBS京都",
+      "count": 1
+    },
+    {
+      "name": "7+",
+      "count": 1
+    },
+    {
+      "name": "京都巡礼",
+      "count": 1
+    },
+    {
+      "name": "d.短片",
+      "count": 1
+    },
+    {
+      "name": "f.日本",
+      "count": 1
+    },
+    {
+      "name": "m.一集弃",
+      "count": 1
+    },
+    {
+      "name": "18年",
+      "count": 1
+    },
+    {
+      "name": "2018年",
+      "count": 1
+    },
+    {
+      "name": "泡面",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "anime",
+      "count": 1
+    },
+    {
+      "name": "可爱",
+      "count": 1
+    },
+    {
+      "name": "动画",
+      "count": 1
+    },
+    {
+      "name": "漫画改编",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    },
+    {
+      "name": "ギャザリング",
+      "count": 1
+    },
+    {
+      "name": "日常",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

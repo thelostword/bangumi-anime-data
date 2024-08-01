@@ -1,0 +1,153 @@
+{
+  "id": 174584,
+  "name": "フリップフラッパーズ",
+  "name_cn": "轻拍翻转小魔女",
+  "summary": "对你而言，世界是怎样的呢——。\r\n获得了打开大门的钥匙的两位女主人公，帕皮卡和可可娜。\r\n少女与少女相遇，开始了在不同的时间、相异的空间“Pure Illusion”的冒险。\r\n在寻找着据说能实现愿望的神秘结晶体“耳之碎片”而游历Pure Illusion的两人面前，\r\n出现了各种各样的困难。\r\n当两人陷入危机之时，“耳之碎片”发出光芒，而她们也因此变身了。",
+  "date": "2016-10-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/a4/cb/174584_7tQO4.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/a4/cb/174584_7tQO4.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 839,
+    "total": 3095,
+    "count": {
+      "1": 13,
+      "2": 7,
+      "3": 5,
+      "4": 21,
+      "5": 74,
+      "6": 278,
+      "7": 979,
+      "8": 1267,
+      "9": 354,
+      "10": 97
+    },
+    "score": 7.5
+  },
+  "tags": [
+    {
+      "name": "原创",
+      "count": 1054
+    },
+    {
+      "name": "百合",
+      "count": 938
+    },
+    {
+      "name": "Studio3Hz",
+      "count": 698
+    },
+    {
+      "name": "TV",
+      "count": 616
+    },
+    {
+      "name": "2016年10月",
+      "count": 604
+    },
+    {
+      "name": "押山清高",
+      "count": 519
+    },
+    {
+      "name": "奇幻",
+      "count": 449
+    },
+    {
+      "name": "2016",
+      "count": 377
+    },
+    {
+      "name": "Flip_Flappers",
+      "count": 187
+    },
+    {
+      "name": "电波",
+      "count": 147
+    },
+    {
+      "name": "小岛崇史",
+      "count": 140
+    },
+    {
+      "name": "战斗",
+      "count": 120
+    },
+    {
+      "name": "M・A・O",
+      "count": 103
+    },
+    {
+      "name": "高桥未奈美",
+      "count": 47
+    },
+    {
+      "name": "Studio_3Hz",
+      "count": 29
+    },
+    {
+      "name": "作画",
+      "count": 25
+    },
+    {
+      "name": "魔法少女",
+      "count": 23
+    },
+    {
+      "name": "轻百合",
+      "count": 18
+    },
+    {
+      "name": "2016年",
+      "count": 18
+    },
+    {
+      "name": "冒险",
+      "count": 17
+    },
+    {
+      "name": "久弥直树",
+      "count": 15
+    },
+    {
+      "name": "綾奈ゆにこ",
+      "count": 14
+    },
+    {
+      "name": "萌",
+      "count": 11
+    },
+    {
+      "name": "季番",
+      "count": 11
+    },
+    {
+      "name": "科幻",
+      "count": 10
+    },
+    {
+      "name": "小島崇史",
+      "count": 9
+    },
+    {
+      "name": "绫奈由仁子",
+      "count": 8
+    },
+    {
+      "name": "幻想",
+      "count": 8
+    },
+    {
+      "name": "久弥直樹",
+      "count": 7
+    },
+    {
+      "name": "TVA",
+      "count": 7
+    }
+  ],
+  "locked": false
+}

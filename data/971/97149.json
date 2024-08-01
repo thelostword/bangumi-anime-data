@@ -1,0 +1,81 @@
+{
+  "id": 97149,
+  "name": "メダロット魂",
+  "name_cn": "徽章战士魂",
+  "summary": "ロボット・バトル・アクション！\r\n\r\nルール無用のデスメダロットたちと新型ボディのメダロットのメタピーが闘う「メダロット」の続編。",
+  "date": "2000-07-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/21/40/97149_8a40f.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/21/40/97149_8a40f.jpg"
+  },
+  "eps": 39,
+  "rating": {
+    "rank": 0,
+    "total": 10,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 2,
+      "6": 5,
+      "7": 2,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.8
+  },
+  "tags": [
+    {
+      "name": "TVB",
+      "count": 6
+    },
+    {
+      "name": "2000",
+      "count": 3
+    },
+    {
+      "name": "robo",
+      "count": 2
+    },
+    {
+      "name": "山崎みちる",
+      "count": 1
+    },
+    {
+      "name": "中川陽介",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "TRANSARTS、ProductionI.G",
+      "count": 1
+    },
+    {
+      "name": "竹内順子",
+      "count": 1
+    },
+    {
+      "name": "トランス・アーツ",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "荒川真嗣",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

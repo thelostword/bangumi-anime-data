@@ -1,0 +1,153 @@
+{
+  "id": 91946,
+  "name": "FAIRY TAIL 第2期",
+  "name_cn": "妖精的尾巴 第二季",
+  "summary": "",
+  "date": "2014-04-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/65/f5/91946_qTQpV.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/65/f5/91946_qTQpV.jpg"
+  },
+  "eps": 102,
+  "rating": {
+    "rank": 2457,
+    "total": 1216,
+    "count": {
+      "1": 5,
+      "2": 3,
+      "3": 8,
+      "4": 18,
+      "5": 60,
+      "6": 251,
+      "7": 509,
+      "8": 249,
+      "9": 57,
+      "10": 56
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "热血",
+      "count": 287
+    },
+    {
+      "name": "妖精的尾巴",
+      "count": 278
+    },
+    {
+      "name": "2014年4月",
+      "count": 178
+    },
+    {
+      "name": "A-1Pictures",
+      "count": 146
+    },
+    {
+      "name": "TV",
+      "count": 142
+    },
+    {
+      "name": "魔法",
+      "count": 113
+    },
+    {
+      "name": "漫画改",
+      "count": 95
+    },
+    {
+      "name": "2014",
+      "count": 81
+    },
+    {
+      "name": "战斗",
+      "count": 68
+    },
+    {
+      "name": "平野绫",
+      "count": 64
+    },
+    {
+      "name": "少年漫",
+      "count": 54
+    },
+    {
+      "name": "二期",
+      "count": 52
+    },
+    {
+      "name": "妖尾",
+      "count": 36
+    },
+    {
+      "name": "柿原徹也",
+      "count": 31
+    },
+    {
+      "name": "漫改",
+      "count": 26
+    },
+    {
+      "name": "中村悠一",
+      "count": 26
+    },
+    {
+      "name": "奇幻",
+      "count": 23
+    },
+    {
+      "name": "妖精尾巴",
+      "count": 13
+    },
+    {
+      "name": "长篇",
+      "count": 8
+    },
+    {
+      "name": "续作",
+      "count": 7
+    },
+    {
+      "name": "搞笑",
+      "count": 6
+    },
+    {
+      "name": "钉宫理惠",
+      "count": 6
+    },
+    {
+      "name": "燃",
+      "count": 6
+    },
+    {
+      "name": "石平信司",
+      "count": 6
+    },
+    {
+      "name": "2014年",
+      "count": 6
+    },
+    {
+      "name": "童年",
+      "count": 5
+    },
+    {
+      "name": "JUMP",
+      "count": 5
+    },
+    {
+      "name": "日本",
+      "count": 5
+    },
+    {
+      "name": "BRIDGE",
+      "count": 5
+    },
+    {
+      "name": "A-1",
+      "count": 4
+    }
+  ],
+  "locked": false
+}

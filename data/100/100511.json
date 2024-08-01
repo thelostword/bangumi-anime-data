@@ -1,0 +1,153 @@
+{
+  "id": 100511,
+  "name": "黒執事 Book of Murder",
+  "name_cn": "黑执事 幽鬼城杀人事件篇",
+  "summary": "「黒執事」“幽鬼城殺人事件編”OVA制作決定!!\r\n2014年秋より劇場先行上映開始!  ",
+  "date": "2015-01-28",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c8/f7/100511_leZfU.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c8/f7/100511_leZfU.jpg"
+  },
+  "eps": 2,
+  "rating": {
+    "rank": 2290,
+    "total": 590,
+    "count": {
+      "1": 2,
+      "2": 0,
+      "3": 1,
+      "4": 6,
+      "5": 25,
+      "6": 107,
+      "7": 278,
+      "8": 133,
+      "9": 22,
+      "10": 16
+    },
+    "score": 7.1
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 232
+    },
+    {
+      "name": "黑执事",
+      "count": 171
+    },
+    {
+      "name": "A-1Pictures",
+      "count": 109
+    },
+    {
+      "name": "漫画改",
+      "count": 75
+    },
+    {
+      "name": "2015年1月",
+      "count": 74
+    },
+    {
+      "name": "2015",
+      "count": 71
+    },
+    {
+      "name": "剧场版",
+      "count": 52
+    },
+    {
+      "name": "漫改",
+      "count": 47
+    },
+    {
+      "name": "小野大辅",
+      "count": 43
+    },
+    {
+      "name": "奇幻",
+      "count": 30
+    },
+    {
+      "name": "木村良平",
+      "count": 24
+    },
+    {
+      "name": "悬疑",
+      "count": 23
+    },
+    {
+      "name": "哥特",
+      "count": 22
+    },
+    {
+      "name": "番外",
+      "count": 21
+    },
+    {
+      "name": "2014年10月",
+      "count": 16
+    },
+    {
+      "name": "推理",
+      "count": 12
+    },
+    {
+      "name": "坂本真绫",
+      "count": 10
+    },
+    {
+      "name": "阿部記之",
+      "count": 9
+    },
+    {
+      "name": "吉野弘幸",
+      "count": 8
+    },
+    {
+      "name": "漫畫改",
+      "count": 8
+    },
+    {
+      "name": "2014",
+      "count": 7
+    },
+    {
+      "name": "阿部记之",
+      "count": 6
+    },
+    {
+      "name": "光田康典",
+      "count": 6
+    },
+    {
+      "name": "黒執事",
+      "count": 5
+    },
+    {
+      "name": "续作",
+      "count": 5
+    },
+    {
+      "name": "384",
+      "count": 4
+    },
+    {
+      "name": "小野大輔",
+      "count": 4
+    },
+    {
+      "name": "基",
+      "count": 4
+    },
+    {
+      "name": "战斗",
+      "count": 4
+    },
+    {
+      "name": "日本",
+      "count": 4
+    }
+  ],
+  "locked": false
+}

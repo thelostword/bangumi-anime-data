@@ -1,0 +1,93 @@
+{
+  "id": 37221,
+  "name": "UFO戦士ダイアポロン",
+  "name_cn": "UFO战士大阿波罗",
+  "summary": "　　アポロン星王子ダイアポロン因ダザーン軍団的侵略而国破家亡，年幼的ダイアポロン被随从带往地球并化名タケシ隐姓埋名。但不久ダザーン軍団又来侵略地球，タケシ在得知了自己的身世后为了保护地球而操纵UFO战士ダイアポロン挺身而战。",
+  "date": "1976-04-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/53/0b/37221_IIIJP.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/53/0b/37221_IIIJP.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 0,
+    "total": 4,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 0,
+      "6": 1,
+      "7": 0,
+      "8": 1,
+      "9": 0,
+      "10": 1
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "1976",
+      "count": 3
+    },
+    {
+      "name": "エイケン",
+      "count": 2
+    },
+    {
+      "name": "TV",
+      "count": 2
+    },
+    {
+      "name": "1976年四月番",
+      "count": 2
+    },
+    {
+      "name": "小野辰雄",
+      "count": 1
+    },
+    {
+      "name": "Eiken",
+      "count": 1
+    },
+    {
+      "name": "山下啓介",
+      "count": 1
+    },
+    {
+      "name": "村山明",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "1976年4月",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "りんたろう",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "1976年",
+      "count": 1
+    },
+    {
+      "name": "robo",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

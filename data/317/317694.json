@@ -1,0 +1,101 @@
+{
+  "id": 317694,
+  "name": "リラックマと遊園地",
+  "name_cn": "轻松小熊：主题乐园大冒险",
+  "summary": "在一座即将永久关闭的甜点主题游乐园，软萌的轻松小熊度过了充满冒险、欢乐和友谊的一天。",
+  "date": "2022-08-25",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/02/64/317694_95H85.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/02/64/317694_95H85.jpg"
+  },
+  "eps": 8,
+  "rating": {
+    "rank": 0,
+    "total": 15,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 6,
+      "7": 8,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "WEB",
+      "count": 6
+    },
+    {
+      "name": "Netflix",
+      "count": 5
+    },
+    {
+      "name": "2022",
+      "count": 4
+    },
+    {
+      "name": "定格动画",
+      "count": 3
+    },
+    {
+      "name": "轻松熊",
+      "count": 2
+    },
+    {
+      "name": "リラックマ",
+      "count": 2
+    },
+    {
+      "name": "dwarfstudios",
+      "count": 1
+    },
+    {
+      "name": "DwarfStudio、TYOInc.",
+      "count": 1
+    },
+    {
+      "name": "时事热点",
+      "count": 1
+    },
+    {
+      "name": "サンエックス",
+      "count": 1
+    },
+    {
+      "name": "多部未華子",
+      "count": 1
+    },
+    {
+      "name": "游乐园",
+      "count": 1
+    },
+    {
+      "name": "萌",
+      "count": 1
+    },
+    {
+      "name": "未确定",
+      "count": 1
+    },
+    {
+      "name": "治愈",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "小林雅仁",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

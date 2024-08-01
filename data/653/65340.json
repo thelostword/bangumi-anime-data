@@ -1,0 +1,105 @@
+{
+  "id": 65340,
+  "name": "陽あたり良好！ KA・SU・MI 夢の中に君がいた",
+  "name_cn": "阳光普照！ 霞的梦中有你在",
+  "summary": "『陽あたり良好! KA・SU・MI 夢の中に君がいた』は、1988年10月1日に公開された。監督は小熊公晴。\r\nTVアニメ終了後に、後日談（但し夢オチ）が映画化。ビデオソフト化もなされている。",
+  "date": "1988-10-01",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/43/b8/65340_4hI1T.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/43/b8/65340_4hI1T.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 11,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 2,
+      "6": 4,
+      "7": 4,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.4
+  },
+  "tags": [
+    {
+      "name": "安达充",
+      "count": 3
+    },
+    {
+      "name": "恋爱",
+      "count": 3
+    },
+    {
+      "name": "日常",
+      "count": 2
+    },
+    {
+      "name": "1988",
+      "count": 2
+    },
+    {
+      "name": "漫画改",
+      "count": 2
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1
+    },
+    {
+      "name": "並木敏",
+      "count": 1
+    },
+    {
+      "name": "伊藤さやか",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "小熊公晴",
+      "count": 1
+    },
+    {
+      "name": "萩田寛子",
+      "count": 1
+    },
+    {
+      "name": "GroupTac",
+      "count": 1
+    },
+    {
+      "name": "漫画改编",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "校园",
+      "count": 1
+    },
+    {
+      "name": "剧场版",
+      "count": 1
+    },
+    {
+      "name": "グループ・タック",
+      "count": 1
+    },
+    {
+      "name": "¬",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

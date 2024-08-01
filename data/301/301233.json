@@ -1,0 +1,153 @@
+{
+  "id": 301233,
+  "name": "One Room サードシーズン",
+  "name_cn": "One Room 第三季",
+  "summary": "主人公はあなた———『てーきゅう』シリーズ、『ヤマノススメ』シリーズを手がけるスマイラル・アニメーションの“バーチャルアニメ”最新作。あなた（One）の部屋（Room）ではぐくむ女の子たちとの物語。",
+  "date": "2020-10-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/40/5b/301233_mq8zr.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/40/5b/301233_mq8zr.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 2402,
+    "total": 2846,
+    "count": {
+      "1": 1,
+      "2": 2,
+      "3": 6,
+      "4": 21,
+      "5": 106,
+      "6": 575,
+      "7": 1364,
+      "8": 630,
+      "9": 69,
+      "10": 72
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 938
+    },
+    {
+      "name": "恋爱",
+      "count": 744
+    },
+    {
+      "name": "原创",
+      "count": 642
+    },
+    {
+      "name": "第一视角",
+      "count": 570
+    },
+    {
+      "name": "2020年10月",
+      "count": 481
+    },
+    {
+      "name": "TV",
+      "count": 326
+    },
+    {
+      "name": "2020",
+      "count": 264
+    },
+    {
+      "name": "ZERO-G",
+      "count": 258
+    },
+    {
+      "name": "日常",
+      "count": 180
+    },
+    {
+      "name": "OneRoom",
+      "count": 157
+    },
+    {
+      "name": "治愈",
+      "count": 149
+    },
+    {
+      "name": "续作",
+      "count": 102
+    },
+    {
+      "name": "泡面",
+      "count": 95
+    },
+    {
+      "name": "カントク",
+      "count": 29
+    },
+    {
+      "name": "日本",
+      "count": 20
+    },
+    {
+      "name": "2020年",
+      "count": 9
+    },
+    {
+      "name": "萌",
+      "count": 8
+    },
+    {
+      "name": "M・A・O",
+      "count": 7
+    },
+    {
+      "name": "ゼロジー",
+      "count": 6
+    },
+    {
+      "name": "高橋李依",
+      "count": 6
+    },
+    {
+      "name": "上田慎一郎",
+      "count": 6
+    },
+    {
+      "name": "霜井蒼星",
+      "count": 5
+    },
+    {
+      "name": "村川梨衣",
+      "count": 4
+    },
+    {
+      "name": "花守ゆみり",
+      "count": 4
+    },
+    {
+      "name": "纯爱",
+      "count": 4
+    },
+    {
+      "name": "2021",
+      "count": 4
+    },
+    {
+      "name": "短片",
+      "count": 4
+    },
+    {
+      "name": "日本动画",
+      "count": 4
+    },
+    {
+      "name": "One_Room",
+      "count": 3
+    },
+    {
+      "name": "富田美忧",
+      "count": 3
+    }
+  ],
+  "locked": false
+}

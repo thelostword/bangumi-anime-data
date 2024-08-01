@@ -1,0 +1,89 @@
+{
+  "id": 237762,
+  "name": "おしえて魔法のペンデュラム～リルリルフェアリル～",
+  "name_cn": "告诉我魔法之摆～莉露莉露妖精莉露～",
+  "summary": "女の子って悩みがいっぱい！どんな悩みでも“妖精（フェアリル）”に聞いてみて！必ず解決へのヒントがらえるよ♪",
+  "date": "2018-07-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/59/f7/237762_ZXxnZ.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/59/f7/237762_ZXxnZ.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 0,
+    "total": 13,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 2,
+      "6": 7,
+      "7": 1,
+      "8": 2,
+      "9": 1,
+      "10": 0
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "studiodeen",
+      "count": 7
+    },
+    {
+      "name": "幼女向",
+      "count": 5
+    },
+    {
+      "name": "TV",
+      "count": 5
+    },
+    {
+      "name": "Sanrio三丽鸥",
+      "count": 4
+    },
+    {
+      "name": "2018",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "EP18IN",
+      "count": 2
+    },
+    {
+      "name": "2018年7月",
+      "count": 2
+    },
+    {
+      "name": "前田地生",
+      "count": 1
+    },
+    {
+      "name": "面出明美",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "スタジオディーン",
+      "count": 1
+    },
+    {
+      "name": "日高里菜",
+      "count": 1
+    },
+    {
+      "name": "花守ゆみり",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

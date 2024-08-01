@@ -1,0 +1,153 @@
+{
+  "id": 198395,
+  "name": "One Room",
+  "name_cn": "",
+  "summary": "《One Room》是由台风Graphics制作的第一人称视角的原创短篇动画作品，于2017年1月11日播出。男性角色版本《Room Mate》于同年4月播放。 ",
+  "date": "2017-01-11",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/40/69/198395_zRIuN.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/40/69/198395_zRIuN.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 4121,
+    "total": 4658,
+    "count": {
+      "1": 8,
+      "2": 7,
+      "3": 21,
+      "4": 65,
+      "5": 382,
+      "6": 1445,
+      "7": 1963,
+      "8": 628,
+      "9": 66,
+      "10": 73
+    },
+    "score": 6.7
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 1578
+    },
+    {
+      "name": "第一视角",
+      "count": 1069
+    },
+    {
+      "name": "原创",
+      "count": 963
+    },
+    {
+      "name": "恋爱",
+      "count": 932
+    },
+    {
+      "name": "2017年1月",
+      "count": 769
+    },
+    {
+      "name": "TV",
+      "count": 518
+    },
+    {
+      "name": "2017",
+      "count": 403
+    },
+    {
+      "name": "萌",
+      "count": 306
+    },
+    {
+      "name": "OneRoom",
+      "count": 263
+    },
+    {
+      "name": "日常",
+      "count": 217
+    },
+    {
+      "name": "颱風グラフィックス",
+      "count": 216
+    },
+    {
+      "name": "泡面",
+      "count": 160
+    },
+    {
+      "name": "监督",
+      "count": 115
+    },
+    {
+      "name": "カントク",
+      "count": 91
+    },
+    {
+      "name": "治愈",
+      "count": 43
+    },
+    {
+      "name": "台风Graphics",
+      "count": 35
+    },
+    {
+      "name": "原创动画",
+      "count": 34
+    },
+    {
+      "name": "2017年",
+      "count": 21
+    },
+    {
+      "name": "ZERO-G",
+      "count": 15
+    },
+    {
+      "name": "村川梨衣",
+      "count": 12
+    },
+    {
+      "name": "M・A・O",
+      "count": 12
+    },
+    {
+      "name": "佐久间贵史",
+      "count": 8
+    },
+    {
+      "name": "佐久間貴史",
+      "count": 7
+    },
+    {
+      "name": "One_Room",
+      "count": 6
+    },
+    {
+      "name": "undefined",
+      "count": 6
+    },
+    {
+      "name": "福利",
+      "count": 6
+    },
+    {
+      "name": "三森すずこ",
+      "count": 6
+    },
+    {
+      "name": "日本",
+      "count": 6
+    },
+    {
+      "name": "霜井蒼星",
+      "count": 5
+    },
+    {
+      "name": "1月",
+      "count": 5
+    }
+  ],
+  "locked": false
+}

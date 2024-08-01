@@ -1,0 +1,153 @@
+{
+  "id": 55144,
+  "name": "バトルスピリッツ 少年突破バシン",
+  "name_cn": "战斗之魂 少年突破马神",
+  "summary": "主人公马神突破是个超喜欢卡片游戏的小学六年级学生。\r\n马神就读的小学也十分流行世界上人气旺盛的卡片游戏『战斗之魂(Battle Spirits)』。\r\n一天他偶然遇见了战魂全国大赛的冠军天才少年J并向他发起挑战。\r\n两人相遇的时候，马神的吊坠所蕴含的不可思议的力量被唤醒了！",
+  "date": "2008-09-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/f4/d0/55144_9TRgf.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/f4/d0/55144_9TRgf.jpg"
+  },
+  "eps": 50,
+  "rating": {
+    "rank": 0,
+    "total": 40,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 3,
+      "5": 2,
+      "6": 9,
+      "7": 18,
+      "8": 6,
+      "9": 1,
+      "10": 1
+    },
+    "score": 6.7
+  },
+  "tags": [
+    {
+      "name": "SUNRISE",
+      "count": 21
+    },
+    {
+      "name": "TV",
+      "count": 21
+    },
+    {
+      "name": "2008",
+      "count": 19
+    },
+    {
+      "name": "BattleSpirits",
+      "count": 17
+    },
+    {
+      "name": "子供向",
+      "count": 15
+    },
+    {
+      "name": "战斗之魂",
+      "count": 15
+    },
+    {
+      "name": "卡牌",
+      "count": 13
+    },
+    {
+      "name": "少年突破",
+      "count": 9
+    },
+    {
+      "name": "本郷みつる",
+      "count": 8
+    },
+    {
+      "name": "原创",
+      "count": 7
+    },
+    {
+      "name": "2008年",
+      "count": 5
+    },
+    {
+      "name": "2008年9月",
+      "count": 3
+    },
+    {
+      "name": "サンライズ",
+      "count": 3
+    },
+    {
+      "name": "佐藤大",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "TVA",
+      "count": 2
+    },
+    {
+      "name": "年番&大长篇",
+      "count": 1
+    },
+    {
+      "name": "三宅華也",
+      "count": 1
+    },
+    {
+      "name": "打牌",
+      "count": 1
+    },
+    {
+      "name": "バトルスピリッツ",
+      "count": 1
+    },
+    {
+      "name": "2008年十月番",
+      "count": 1
+    },
+    {
+      "name": "本乡满",
+      "count": 1
+    },
+    {
+      "name": "¬",
+      "count": 1
+    },
+    {
+      "name": "系列",
+      "count": 1
+    },
+    {
+      "name": "年番",
+      "count": 1
+    },
+    {
+      "name": "校园",
+      "count": 1
+    },
+    {
+      "name": "2008年10月",
+      "count": 1
+    },
+    {
+      "name": "高垣彩陽",
+      "count": 1
+    },
+    {
+      "name": "儿童向",
+      "count": 1
+    },
+    {
+      "name": "田村睦心",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

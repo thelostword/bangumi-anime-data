@@ -1,0 +1,149 @@
+{
+  "id": 2453,
+  "name": "ブラック★ロックシューター",
+  "name_cn": "黑岩射手",
+  "summary": "一位看似平凡的少女黑衣麻陶，於新一年展開其豐富璀璨的中學生活。這時，一位名為小鳥遊優美的同班同學吸引了她的注意。起初的交往尚算順利，但後來不知甚麼原因，使小鳥遊在二年級開始疏遠、甚至失蹤……",
+  "date": "2010-07-24",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/8c/9f/2453_D8D33.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/8c/9f/2453_D8D33.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 5087,
+    "total": 3447,
+    "count": {
+      "1": 9,
+      "2": 19,
+      "3": 57,
+      "4": 151,
+      "5": 384,
+      "6": 1106,
+      "7": 1096,
+      "8": 437,
+      "9": 104,
+      "10": 84
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 629
+    },
+    {
+      "name": "BLACK★ROCK",
+      "count": 545
+    },
+    {
+      "name": "百合",
+      "count": 525
+    },
+    {
+      "name": "黑岩",
+      "count": 403
+    },
+    {
+      "name": "BRS",
+      "count": 359
+    },
+    {
+      "name": "Black★RockShooter",
+      "count": 309
+    },
+    {
+      "name": "山本宽",
+      "count": 286
+    },
+    {
+      "name": "2010",
+      "count": 280
+    },
+    {
+      "name": "香菜",
+      "count": 162
+    },
+    {
+      "name": "Ordet",
+      "count": 151
+    },
+    {
+      "name": "huke",
+      "count": 144
+    },
+    {
+      "name": "原创",
+      "count": 134
+    },
+    {
+      "name": "supercell",
+      "count": 129
+    },
+    {
+      "name": "ryo",
+      "count": 96
+    },
+    {
+      "name": "小鳥游",
+      "count": 70
+    },
+    {
+      "name": "初音",
+      "count": 58
+    },
+    {
+      "name": "战斗",
+      "count": 54
+    },
+    {
+      "name": "B★RS",
+      "count": 41
+    },
+    {
+      "name": "花泽香菜",
+      "count": 34
+    },
+    {
+      "name": "2010年7月",
+      "count": 33
+    },
+    {
+      "name": "宽叔",
+      "count": 32
+    },
+    {
+      "name": "吉岡忍",
+      "count": 27
+    },
+    {
+      "name": "奇幻",
+      "count": 27
+    },
+    {
+      "name": "2010年",
+      "count": 24
+    },
+    {
+      "name": "黑岩射手",
+      "count": 21
+    },
+    {
+      "name": "谷川流",
+      "count": 17
+    },
+    {
+      "name": "吉冈忍",
+      "count": 15
+    },
+    {
+      "name": "SHOOTER",
+      "count": 14
+    },
+    {
+      "name": "校园",
+      "count": 13
+    }
+  ],
+  "locked": false
+}

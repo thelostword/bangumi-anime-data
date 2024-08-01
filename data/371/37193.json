@@ -1,0 +1,153 @@
+{
+  "id": 37193,
+  "name": "宇宙の騎士テッカマン",
+  "name_cn": "宇宙骑士铁甲人",
+  "summary": "宇宙骑士原作\r\n\r\n21世纪的地球因污染而即将灭亡，急于向宇宙移民的地球人却遭到了悪党星団ワルダスター的攻击。而能与之对抗的只有借助テックセットシステム而诞生的强化超人テッカマン了。",
+  "date": "1975-07-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/44/61/37193_SeeMY.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/44/61/37193_SeeMY.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 0,
+    "total": 42,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 2,
+      "5": 6,
+      "6": 16,
+      "7": 9,
+      "8": 5,
+      "9": 1,
+      "10": 2
+    },
+    "score": 6.4
+  },
+  "tags": [
+    {
+      "name": "龙之子",
+      "count": 14
+    },
+    {
+      "name": "TV",
+      "count": 13
+    },
+    {
+      "name": "萝卜",
+      "count": 10
+    },
+    {
+      "name": "宇宙骑士",
+      "count": 9
+    },
+    {
+      "name": "1975",
+      "count": 8
+    },
+    {
+      "name": "科幻",
+      "count": 5
+    },
+    {
+      "name": "原创",
+      "count": 4
+    },
+    {
+      "name": "笹川ひろし",
+      "count": 4
+    },
+    {
+      "name": "童年系",
+      "count": 3
+    },
+    {
+      "name": "铁加曼",
+      "count": 2
+    },
+    {
+      "name": "森功至",
+      "count": 2
+    },
+    {
+      "name": "水木一郎",
+      "count": 2
+    },
+    {
+      "name": "山田康雄",
+      "count": 2
+    },
+    {
+      "name": "鳥海永行",
+      "count": 2
+    },
+    {
+      "name": "タツノコプロ",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 1
+    },
+    {
+      "name": "2クール",
+      "count": 1
+    },
+    {
+      "name": "KnigtOfSpace",
+      "count": 1
+    },
+    {
+      "name": "百卡斯·匹诺曹",
+      "count": 1
+    },
+    {
+      "name": "日本",
+      "count": 1
+    },
+    {
+      "name": "笹川浩",
+      "count": 1
+    },
+    {
+      "name": "鸟海永行",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "待補1",
+      "count": 1
+    },
+    {
+      "name": "1970.80",
+      "count": 1
+    },
+    {
+      "name": "ロボットアニメ",
+      "count": 1
+    },
+    {
+      "name": "上田みゆき",
+      "count": 1
+    },
+    {
+      "name": "星辰大海",
+      "count": 1
+    },
+    {
+      "name": "1970s",
+      "count": 1
+    },
+    {
+      "name": "70年代",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

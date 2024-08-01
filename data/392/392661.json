@@ -1,0 +1,105 @@
+{
+  "id": 392661,
+  "name": "Obey Me! The Anime Season 2",
+  "name_cn": "Obey Me! 第二季",
+  "summary": "Second season of Obey Me!",
+  "date": "2022-07-22",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/38/91/392661_gvDd3.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/38/91/392661_gvDd3.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 4,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 1,
+      "10": 1
+    },
+    "score": 6.3
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 3
+    },
+    {
+      "name": "WEB",
+      "count": 3
+    },
+    {
+      "name": "中日合作",
+      "count": 3
+    },
+    {
+      "name": "女性向",
+      "count": 2
+    },
+    {
+      "name": "2022年7月",
+      "count": 2
+    },
+    {
+      "name": "屹青",
+      "count": 1
+    },
+    {
+      "name": "ColoredPencilAnimationJapan",
+      "count": 1
+    },
+    {
+      "name": "彩色铅笔",
+      "count": 1
+    },
+    {
+      "name": "日本原作改编",
+      "count": 1
+    },
+    {
+      "name": "動畫片",
+      "count": 1
+    },
+    {
+      "name": "2022",
+      "count": 1
+    },
+    {
+      "name": "中国",
+      "count": 1
+    },
+    {
+      "name": "日本",
+      "count": 1
+    },
+    {
+      "name": "动画",
+      "count": 1
+    },
+    {
+      "name": "少女向",
+      "count": 1
+    },
+    {
+      "name": "游戏改",
+      "count": 1
+    },
+    {
+      "name": "日常",
+      "count": 1
+    },
+    {
+      "name": "搞笑",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

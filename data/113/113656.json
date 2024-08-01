@@ -1,0 +1,89 @@
+{
+  "id": 113656,
+  "name": "なりヒロwww",
+  "name_cn": "成为英雄www",
+  "summary": "充满个性的梵家三姐妹的小妹爱丽丝偶然捡到了一只不可思议的小猫，姐妹们却遭到自称”black.inc“的男性袭击。TV版的剧情延续其后的发展，”black.inc“组织的先头部队DT再次向三姐妹袭来。然后三姐妹向梦中见到的小猫的请求化为了现实，顺势的决意下巨大的身影觉醒了。",
+  "date": "2014-10-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ec/c6/113656_O73CB.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ec/c6/113656_O73CB.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 0,
+    "total": 26,
+    "count": {
+      "1": 9,
+      "2": 0,
+      "3": 2,
+      "4": 2,
+      "5": 3,
+      "6": 3,
+      "7": 5,
+      "8": 2,
+      "9": 0,
+      "10": 0
+    },
+    "score": 4.1
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 11
+    },
+    {
+      "name": "TV",
+      "count": 6
+    },
+    {
+      "name": "原创",
+      "count": 5
+    },
+    {
+      "name": "MMD",
+      "count": 5
+    },
+    {
+      "name": "菅原そうた",
+      "count": 4
+    },
+    {
+      "name": "2014年10月",
+      "count": 3
+    },
+    {
+      "name": "3D",
+      "count": 3
+    },
+    {
+      "name": "6次元アニメーション",
+      "count": 1
+    },
+    {
+      "name": "6DAnimationInc.",
+      "count": 1
+    },
+    {
+      "name": "升本琢也",
+      "count": 1
+    },
+    {
+      "name": "1话",
+      "count": 1
+    },
+    {
+      "name": "环保",
+      "count": 1
+    },
+    {
+      "name": "2014",
+      "count": 1
+    },
+    {
+      "name": "菅原壮太",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,105 @@
+{
+  "id": 26314,
+  "name": "ソニックX",
+  "name_cn": "索尼克X",
+  "summary": "邪恶的机器狂博士指使强大的机器兵团侵占了美丽和平的惑星王国, 并将善良的人们变成了他的奴隶, 就连索尼敬爱的查克叔叔也不幸变成了机器人。 索尼利用叔叔留下的机器将自己改造成为\"音速小子“……。",
+  "date": "2003-04-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/2b/21/26314_64wdT.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/2b/21/26314_64wdT.jpg"
+  },
+  "eps": 78,
+  "rating": {
+    "rank": 0,
+    "total": 47,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 6,
+      "6": 14,
+      "7": 17,
+      "8": 7,
+      "9": 2,
+      "10": 1
+    },
+    "score": 6.7
+  },
+  "tags": [
+    {
+      "name": "索尼克",
+      "count": 21
+    },
+    {
+      "name": "童年",
+      "count": 21
+    },
+    {
+      "name": "TVB",
+      "count": 14
+    },
+    {
+      "name": "游戏改",
+      "count": 8
+    },
+    {
+      "name": "2003",
+      "count": 7
+    },
+    {
+      "name": "TV",
+      "count": 7
+    },
+    {
+      "name": "原创",
+      "count": 5
+    },
+    {
+      "name": "没看完",
+      "count": 4
+    },
+    {
+      "name": "补番",
+      "count": 4
+    },
+    {
+      "name": "沒看全",
+      "count": 3
+    },
+    {
+      "name": "索尼克X",
+      "count": 1
+    },
+    {
+      "name": "刺猬",
+      "count": 1
+    },
+    {
+      "name": "JasonGriffith",
+      "count": 1
+    },
+    {
+      "name": "TV（集数50-99）",
+      "count": 1
+    },
+    {
+      "name": "幼儿园",
+      "count": 1
+    },
+    {
+      "name": "游戏",
+      "count": 1
+    },
+    {
+      "name": "TMSEntertainment",
+      "count": 1
+    },
+    {
+      "name": "2003年",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

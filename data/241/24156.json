@@ -1,0 +1,77 @@
+{
+  "id": 24156,
+  "name": "名犬ジョリィ",
+  "name_cn": "灵犬雪莉",
+  "summary": "動畫《靈犬雪麗》是改編自法國女作家所寫的小說《Belle et Sébastien》，主要描寫了一個小男孩和一隻狗之間真摯動人的友情。\r\n\r\n",
+  "date": "1981-04-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/9d/c6/24156_3b2Dn.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/9d/c6/24156_3b2Dn.jpg"
+  },
+  "eps": 52,
+  "rating": {
+    "rank": 0,
+    "total": 3,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 1,
+      "7": 1,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 3
+    },
+    {
+      "name": "童年系",
+      "count": 2
+    },
+    {
+      "name": "ayuan",
+      "count": 2
+    },
+    {
+      "name": "1981",
+      "count": 2
+    },
+    {
+      "name": "补番",
+      "count": 1
+    },
+    {
+      "name": "童年",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "押井守",
+      "count": 1
+    },
+    {
+      "name": "必補",
+      "count": 1
+    },
+    {
+      "name": "东宝、ビジュアル80",
+      "count": 1
+    },
+    {
+      "name": "80年代",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

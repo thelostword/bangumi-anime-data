@@ -1,0 +1,85 @@
+{
+  "id": 249249,
+  "name": "KING OF PRISM -Shiny Seven Stars- IV ルヰ×シン×Unknown",
+  "name_cn": "KING OF PRISM -Shiny Seven Stars- Ⅳ 琉依×新×Unknown",
+  "summary": "人気アニメ「KING OF PRISM」シリーズ第3弾で、シリーズ初のテレビアニメとして描かれる「KING OF PRISM Shiny Seven Stars」の劇場編集版第4章。全12話のテレビアニメのうち、第10～12話の3話で構成されるほか、テレビ放映にはない特別映像が週替わりで上映される。",
+  "date": "2019-05-04",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/b5/b8/249249_aitO9.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/b5/b8/249249_aitO9.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 3,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 3,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5
+  },
+  "tags": [
+    {
+      "name": "2019",
+      "count": 2
+    },
+    {
+      "name": "剧场版",
+      "count": 2
+    },
+    {
+      "name": "斉藤壮馬",
+      "count": 1
+    },
+    {
+      "name": "畠中祐",
+      "count": 1
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1
+    },
+    {
+      "name": "寺島惇太",
+      "count": 1
+    },
+    {
+      "name": "菱田正和",
+      "count": 1
+    },
+    {
+      "name": "タツノコプロ",
+      "count": 1
+    },
+    {
+      "name": "原创",
+      "count": 1
+    },
+    {
+      "name": "音乐",
+      "count": 1
+    },
+    {
+      "name": "偶像",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "总集篇",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": 83796,
+  "name": "なめこ家の一族",
+  "name_cn": "蘑菇家的一族",
+  "summary": "「なめこのPV 2013」プロジェクトとして制作され、\r\nYouTubeで驚異の150万回再生を突破した\r\nショートムービー「なめこ家の一族」が大好評につき、ついにアニメ化! ",
+  "date": "2013-12-20",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/a8/be/83796_buzWo.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/a8/be/83796_buzWo.jpg"
+  },
+  "eps": 3,
+  "rating": {
+    "rank": 0,
+    "total": 9,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 2,
+      "7": 3,
+      "8": 1,
+      "9": 1,
+      "10": 1
+    },
+    "score": 7.2
+  },
+  "tags": [
+    {
+      "name": "菇菇方吉",
+      "count": 4
+    },
+    {
+      "name": "2013年12月",
+      "count": 2
+    },
+    {
+      "name": "OVA-01",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

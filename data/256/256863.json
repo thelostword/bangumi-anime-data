@@ -1,0 +1,125 @@
+{
+  "id": 256863,
+  "name": "蒼天の拳 REGENESIS 第2期",
+  "name_cn": "苍天之拳 REGENESIS 第二季",
+  "summary": "『蒼天の拳』は、北斗1800年の歴史上、\r\n最も奔放苛烈で最強と呼ばれた\r\n”第62代北斗神拳伝承者・霞拳志郎\"の物語。\r\nそんな『蒼天の拳』が、原作者・原哲夫監修の元、\r\n新たにTVアニメで蘇る！\r\nその名は『蒼天の拳 REGENESIS』！！\r\n最強の北斗神拳伝承者・霞拳志郎の生き様を、目撃せよ！！",
+  "date": "2018-10-08",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/0c/e8/256863_3zVwI.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/0c/e8/256863_3zVwI.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 5811,
+    "total": 57,
+    "count": {
+      "1": 2,
+      "2": 2,
+      "3": 1,
+      "4": 4,
+      "5": 8,
+      "6": 25,
+      "7": 11,
+      "8": 4,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.7
+  },
+  "tags": [
+    {
+      "name": "漫画改",
+      "count": 14
+    },
+    {
+      "name": "TV",
+      "count": 11
+    },
+    {
+      "name": "2018年10月",
+      "count": 11
+    },
+    {
+      "name": "3D",
+      "count": 10
+    },
+    {
+      "name": "2018",
+      "count": 10
+    },
+    {
+      "name": "PolygonPictures",
+      "count": 8
+    },
+    {
+      "name": "战斗",
+      "count": 7
+    },
+    {
+      "name": "苍天之拳",
+      "count": 6
+    },
+    {
+      "name": "鹿住朗生",
+      "count": 3
+    },
+    {
+      "name": "续作",
+      "count": 2
+    },
+    {
+      "name": "尾崎悟史",
+      "count": 1
+    },
+    {
+      "name": "二〇一八年",
+      "count": 1
+    },
+    {
+      "name": "观看史",
+      "count": 1
+    },
+    {
+      "name": "印度尼西亚",
+      "count": 1
+    },
+    {
+      "name": "REGENESIS",
+      "count": 1
+    },
+    {
+      "name": "上坂すみれ",
+      "count": 1
+    },
+    {
+      "name": "山寺宏一",
+      "count": 1
+    },
+    {
+      "name": "日本",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "动画",
+      "count": 1
+    },
+    {
+      "name": "漫改",
+      "count": 1
+    },
+    {
+      "name": "ポリゴン・ピクチュアズ",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

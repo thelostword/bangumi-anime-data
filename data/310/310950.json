@@ -1,0 +1,153 @@
+{
+  "id": 310950,
+  "name": "ワールドウィッチーズ 発進しますっ！",
+  "name_cn": "世界魔女 起飞！",
+  "summary": "",
+  "date": "2021-01-12",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/56/d9/310950_8zmbK.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/56/d9/310950_8zmbK.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 5547,
+    "total": 293,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 3,
+      "4": 5,
+      "5": 49,
+      "6": 119,
+      "7": 85,
+      "8": 25,
+      "9": 3,
+      "10": 3
+    },
+    "score": 6.3
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 97
+    },
+    {
+      "name": "2021年1月",
+      "count": 81
+    },
+    {
+      "name": "TV",
+      "count": 58
+    },
+    {
+      "name": "戏画Production",
+      "count": 55
+    },
+    {
+      "name": "百合",
+      "count": 52
+    },
+    {
+      "name": "漫画改",
+      "count": 52
+    },
+    {
+      "name": "2021",
+      "count": 47
+    },
+    {
+      "name": "强袭魔女",
+      "count": 43
+    },
+    {
+      "name": "Accaeffe",
+      "count": 33
+    },
+    {
+      "name": "搞笑",
+      "count": 31
+    },
+    {
+      "name": "伊藤史夫",
+      "count": 14
+    },
+    {
+      "name": "漫改",
+      "count": 13
+    },
+    {
+      "name": "泡面",
+      "count": 10
+    },
+    {
+      "name": "日常",
+      "count": 5
+    },
+    {
+      "name": "戯画プロダクション",
+      "count": 4
+    },
+    {
+      "name": "Acca_effe",
+      "count": 3
+    },
+    {
+      "name": "福圓美里",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "科幻",
+      "count": 2
+    },
+    {
+      "name": "军事",
+      "count": 2
+    },
+    {
+      "name": "原创",
+      "count": 2
+    },
+    {
+      "name": "世戸さおり",
+      "count": 2
+    },
+    {
+      "name": "4分",
+      "count": 1
+    },
+    {
+      "name": "[NBG]",
+      "count": 1
+    },
+    {
+      "name": "30",
+      "count": 1
+    },
+    {
+      "name": "兽耳娘",
+      "count": 1
+    },
+    {
+      "name": "未确定",
+      "count": 1
+    },
+    {
+      "name": "12min",
+      "count": 1
+    },
+    {
+      "name": "特定人群向",
+      "count": 1
+    },
+    {
+      "name": "中推",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

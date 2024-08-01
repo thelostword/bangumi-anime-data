@@ -1,0 +1,153 @@
+{
+  "id": 268510,
+  "name": "川柳少女",
+  "name_cn": "川柳少女",
+  "summary": "将想要说的话以“五七五的川柳”来表达的女孩子·雪白七七子，与外表可怕但内心善良的文艺社学生·毒岛英二。\r\n由短短17个音节而编织成的两人的日常，无论何时都充满幸福！",
+  "date": "2019-04-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/b4/fb/268510_XKKrF.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/b4/fb/268510_XKKrF.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 4706,
+    "total": 3179,
+    "count": {
+      "1": 5,
+      "2": 5,
+      "3": 14,
+      "4": 44,
+      "5": 314,
+      "6": 1098,
+      "7": 1263,
+      "8": 359,
+      "9": 37,
+      "10": 40
+    },
+    "score": 6.6
+  },
+  "tags": [
+    {
+      "name": "恋爱",
+      "count": 877
+    },
+    {
+      "name": "2019年4月",
+      "count": 566
+    },
+    {
+      "name": "泡面番",
+      "count": 518
+    },
+    {
+      "name": "校园",
+      "count": 490
+    },
+    {
+      "name": "漫画改",
+      "count": 485
+    },
+    {
+      "name": "日常",
+      "count": 418
+    },
+    {
+      "name": "CONNECT",
+      "count": 356
+    },
+    {
+      "name": "TV",
+      "count": 321
+    },
+    {
+      "name": "花泽香菜",
+      "count": 270
+    },
+    {
+      "name": "2019",
+      "count": 239
+    },
+    {
+      "name": "漫改",
+      "count": 220
+    },
+    {
+      "name": "川柳少女",
+      "count": 106
+    },
+    {
+      "name": "搞笑",
+      "count": 105
+    },
+    {
+      "name": "神保昌登",
+      "count": 59
+    },
+    {
+      "name": "花澤香菜",
+      "count": 41
+    },
+    {
+      "name": "狗粮",
+      "count": 20
+    },
+    {
+      "name": "泡面",
+      "count": 20
+    },
+    {
+      "name": "治愈",
+      "count": 17
+    },
+    {
+      "name": "2019年",
+      "count": 11
+    },
+    {
+      "name": "川柳",
+      "count": 11
+    },
+    {
+      "name": "青春",
+      "count": 11
+    },
+    {
+      "name": "日本动画",
+      "count": 7
+    },
+    {
+      "name": "日本",
+      "count": 6
+    },
+    {
+      "name": "SILVERLINK.",
+      "count": 5
+    },
+    {
+      "name": "立山秋航",
+      "count": 5
+    },
+    {
+      "name": "畠中祐",
+      "count": 5
+    },
+    {
+      "name": "逢田梨香子",
+      "count": 5
+    },
+    {
+      "name": "动画",
+      "count": 5
+    },
+    {
+      "name": "纯爱",
+      "count": 5
+    },
+    {
+      "name": "久野美咲",
+      "count": 4
+    }
+  ],
+  "locked": false
+}

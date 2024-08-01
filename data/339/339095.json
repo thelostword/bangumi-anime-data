@@ -1,0 +1,153 @@
+{
+  "id": 339095,
+  "name": "ガンダムブレイカー バトローグ",
+  "name_cn": "高达破坏者 对战记录",
+  "summary": "ゲームとガンプラをよりリンクさせるために、本プロジェクトオリジナルの機体が活躍する全6話のショートフィルム『ガンダムブレイカー バトローグ』を、株式会社サンライズが制作します。\r\nスマートフォン向けアプリゲーム「ガンダムブレイカーモバイル」、PlayStation®4／PlayStation®Vita専用ソフト「ガンダムブレイカー3」のキャラクター達が登場します。",
+  "date": "2021-10-19",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/7d/67/339095_QTc8t.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/7d/67/339095_QTc8t.jpg"
+  },
+  "eps": 6,
+  "rating": {
+    "rank": 7873,
+    "total": 136,
+    "count": {
+      "1": 1,
+      "2": 2,
+      "3": 8,
+      "4": 23,
+      "5": 52,
+      "6": 42,
+      "7": 6,
+      "8": 1,
+      "9": 0,
+      "10": 1
+    },
+    "score": 5.1
+  },
+  "tags": [
+    {
+      "name": "SUNRISE",
+      "count": 44
+    },
+    {
+      "name": "WEB",
+      "count": 37
+    },
+    {
+      "name": "高达",
+      "count": 30
+    },
+    {
+      "name": "原创",
+      "count": 20
+    },
+    {
+      "name": "2021",
+      "count": 16
+    },
+    {
+      "name": "2021年10月",
+      "count": 16
+    },
+    {
+      "name": "萝卜",
+      "count": 16
+    },
+    {
+      "name": "大张正己",
+      "count": 12
+    },
+    {
+      "name": "游戏改",
+      "count": 9
+    },
+    {
+      "name": "机战",
+      "count": 9
+    },
+    {
+      "name": "TV",
+      "count": 8
+    },
+    {
+      "name": "大張正己",
+      "count": 6
+    },
+    {
+      "name": "GUNDAM",
+      "count": 5
+    },
+    {
+      "name": "小野賢章",
+      "count": 4
+    },
+    {
+      "name": "科幻",
+      "count": 2
+    },
+    {
+      "name": "robo",
+      "count": 2
+    },
+    {
+      "name": "サンライズ",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 2
+    },
+    {
+      "name": "2020s",
+      "count": 1
+    },
+    {
+      "name": "北岡雄一朗",
+      "count": 1
+    },
+    {
+      "name": "2020-2029",
+      "count": 1
+    },
+    {
+      "name": "2021年",
+      "count": 1
+    },
+    {
+      "name": "2110机",
+      "count": 1
+    },
+    {
+      "name": "日昇动画",
+      "count": 1
+    },
+    {
+      "name": "高达Game",
+      "count": 1
+    },
+    {
+      "name": "对战记录",
+      "count": 1
+    },
+    {
+      "name": "高达破坏者",
+      "count": 1
+    },
+    {
+      "name": "Fall_2021",
+      "count": 1
+    },
+    {
+      "name": "2021y",
+      "count": 1
+    },
+    {
+      "name": "真弓創",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

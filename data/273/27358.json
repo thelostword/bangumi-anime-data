@@ -1,0 +1,137 @@
+{
+  "id": 27358,
+  "name": "メイクアップ！ セーラー戦士",
+  "name_cn": "变身！水手战士",
+  "summary": "故事主要回忆太阳系内部战士以及Sailor Moon的觉醒背景。",
+  "date": "1993-12-05",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e9/de/27358_NinXx.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e9/de/27358_NinXx.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 49,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 12,
+      "6": 14,
+      "7": 14,
+      "8": 2,
+      "9": 2,
+      "10": 5
+    },
+    "score": 6.7
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 15
+    },
+    {
+      "name": "1993",
+      "count": 12
+    },
+    {
+      "name": "美少女战士",
+      "count": 11
+    },
+    {
+      "name": "东映",
+      "count": 6
+    },
+    {
+      "name": "童年",
+      "count": 4
+    },
+    {
+      "name": "東映アニメーション",
+      "count": 3
+    },
+    {
+      "name": "SP",
+      "count": 3
+    },
+    {
+      "name": "漫画改",
+      "count": 3
+    },
+    {
+      "name": "魔法少女",
+      "count": 2
+    },
+    {
+      "name": "童年系列",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "古谷徹",
+      "count": 1
+    },
+    {
+      "name": "1993年",
+      "count": 1
+    },
+    {
+      "name": "富田祐弘",
+      "count": 1
+    },
+    {
+      "name": "衍生",
+      "count": 1
+    },
+    {
+      "name": "小坂春女",
+      "count": 1
+    },
+    {
+      "name": "童年回忆",
+      "count": 1
+    },
+    {
+      "name": "~~",
+      "count": 1
+    },
+    {
+      "name": "短片",
+      "count": 1
+    },
+    {
+      "name": "漫画",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    },
+    {
+      "name": "大爱",
+      "count": 1
+    },
+    {
+      "name": "TVB",
+      "count": 1
+    },
+    {
+      "name": "久川綾",
+      "count": 1
+    },
+    {
+      "name": "水手服",
+      "count": 1
+    },
+    {
+      "name": "三石琴乃",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

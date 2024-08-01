@@ -1,0 +1,153 @@
+{
+  "id": 305059,
+  "name": "BanG Dream! ぽっぴん'どりーむ！",
+  "name_cn": "剧场版 BanG Dream! Poppin'Dream！",
+  "summary": "バンドは…いつだって夢を見させてくれる。\r\n\r\n武道館ライブを成功させたPoppin'Party、Roselia、RAISE A SUILEN。\r\n\r\n夢の舞台に立った余韻が残る香澄たちの前に謎の女性が現れる――。\r\n次のステージは、なんと海外!?\r\n\r\nPoppin'Partyの音楽〈ユメ〉は、まだまだ止まらない！",
+  "date": "2022-01-01",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/77/45/305059_mMUdd.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/77/45/305059_mMUdd.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 2630,
+    "total": 437,
+    "count": {
+      "1": 2,
+      "2": 0,
+      "3": 5,
+      "4": 2,
+      "5": 21,
+      "6": 83,
+      "7": 218,
+      "8": 80,
+      "9": 12,
+      "10": 14
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 213
+    },
+    {
+      "name": "BanGDream",
+      "count": 134
+    },
+    {
+      "name": "2022",
+      "count": 104
+    },
+    {
+      "name": "音乐",
+      "count": 92
+    },
+    {
+      "name": "乐队",
+      "count": 79
+    },
+    {
+      "name": "原创",
+      "count": 79
+    },
+    {
+      "name": "SANZIGEN",
+      "count": 59
+    },
+    {
+      "name": "百合",
+      "count": 45
+    },
+    {
+      "name": "偶像",
+      "count": 41
+    },
+    {
+      "name": "三次元",
+      "count": 33
+    },
+    {
+      "name": "植高正典",
+      "count": 21
+    },
+    {
+      "name": "3D",
+      "count": 17
+    },
+    {
+      "name": "2022年1月",
+      "count": 16
+    },
+    {
+      "name": "柿本広大",
+      "count": 14
+    },
+    {
+      "name": "サンジゲン",
+      "count": 6
+    },
+    {
+      "name": "ブシロード",
+      "count": 5
+    },
+    {
+      "name": "日常",
+      "count": 5
+    },
+    {
+      "name": "2022年",
+      "count": 5
+    },
+    {
+      "name": "柿本广大",
+      "count": 5
+    },
+    {
+      "name": "未来会看",
+      "count": 4
+    },
+    {
+      "name": "BanG_Dream!",
+      "count": 4
+    },
+    {
+      "name": "邦邦",
+      "count": 4
+    },
+    {
+      "name": "綾奈ゆにこ",
+      "count": 4
+    },
+    {
+      "name": "轻百合",
+      "count": 3
+    },
+    {
+      "name": "Bushiroad",
+      "count": 3
+    },
+    {
+      "name": "青春",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "动画电影",
+      "count": 2
+    },
+    {
+      "name": "粉丝向",
+      "count": 2
+    }
+  ],
+  "locked": false
+}

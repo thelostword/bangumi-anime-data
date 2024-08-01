@@ -1,0 +1,89 @@
+{
+  "id": 53936,
+  "name": "超音戦士ボーグマン2 -新世紀2058-",
+  "name_cn": "超音战士Borgman2 -新世纪2058-",
+  "summary": "",
+  "date": "1993-10-01",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/f8/f1/53936_HHA5c.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/f8/f1/53936_HHA5c.jpg"
+  },
+  "eps": 3,
+  "rating": {
+    "rank": 0,
+    "total": 12,
+    "count": {
+      "1": 0,
+      "2": 2,
+      "3": 0,
+      "4": 4,
+      "5": 3,
+      "6": 1,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 4.8
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 8
+    },
+    {
+      "name": "苇PRODUCTION",
+      "count": 4
+    },
+    {
+      "name": "机战",
+      "count": 2
+    },
+    {
+      "name": "1993",
+      "count": 2
+    },
+    {
+      "name": "村山靖",
+      "count": 1
+    },
+    {
+      "name": "金丸淳一",
+      "count": 1
+    },
+    {
+      "name": "OVA-01",
+      "count": 1
+    },
+    {
+      "name": "时事热点",
+      "count": 1
+    },
+    {
+      "name": "葦プロダクション",
+      "count": 1
+    },
+    {
+      "name": "SF",
+      "count": 1
+    },
+    {
+      "name": "井上和彦",
+      "count": 1
+    },
+    {
+      "name": "续集",
+      "count": 1
+    },
+    {
+      "name": "中村大樹",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

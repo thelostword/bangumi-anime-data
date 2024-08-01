@@ -1,0 +1,153 @@
+{
+  "id": 331164,
+  "name": "半妖の夜叉姫 弐の章",
+  "name_cn": "半妖的夜叉姬 第二季",
+  "summary": "戦国の世で、夜叉姫たちが再び暴れまわる!!　夜叉姫たちは一番守りたいモノを守り切れるのか——",
+  "date": "2021-10-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/95/7d/331164_U8mdS.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/95/7d/331164_U8mdS.jpg"
+  },
+  "eps": 24,
+  "rating": {
+    "rank": 8054,
+    "total": 174,
+    "count": {
+      "1": 3,
+      "2": 3,
+      "3": 14,
+      "4": 32,
+      "5": 58,
+      "6": 47,
+      "7": 10,
+      "8": 6,
+      "9": 0,
+      "10": 1
+    },
+    "score": 5.1
+  },
+  "tags": [
+    {
+      "name": "2021年10月",
+      "count": 51
+    },
+    {
+      "name": "TV",
+      "count": 42
+    },
+    {
+      "name": "原创",
+      "count": 41
+    },
+    {
+      "name": "SUNRISE",
+      "count": 27
+    },
+    {
+      "name": "2021",
+      "count": 24
+    },
+    {
+      "name": "战斗",
+      "count": 18
+    },
+    {
+      "name": "半妖的夜叉姬",
+      "count": 17
+    },
+    {
+      "name": "奇幻",
+      "count": 10
+    },
+    {
+      "name": "犬夜叉",
+      "count": 9
+    },
+    {
+      "name": "佐藤照雄",
+      "count": 8
+    },
+    {
+      "name": "无人能预测的原创舞台",
+      "count": 8
+    },
+    {
+      "name": "小松未可子",
+      "count": 4
+    },
+    {
+      "name": "百合",
+      "count": 4
+    },
+    {
+      "name": "TVA",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "サンライズ",
+      "count": 2
+    },
+    {
+      "name": "隅沢克之",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "令和",
+      "count": 1
+    },
+    {
+      "name": "毁经典",
+      "count": 1
+    },
+    {
+      "name": "SallyGo",
+      "count": 1
+    },
+    {
+      "name": "中篇动画",
+      "count": 1
+    },
+    {
+      "name": "松本沙羅",
+      "count": 1
+    },
+    {
+      "name": "日昇动画",
+      "count": 1
+    },
+    {
+      "name": "屹青",
+      "count": 1
+    },
+    {
+      "name": "Fall_2021",
+      "count": 1
+    },
+    {
+      "name": "folklore",
+      "count": 1
+    },
+    {
+      "name": "中学涉猎",
+      "count": 1
+    },
+    {
+      "name": "异态",
+      "count": 1
+    },
+    {
+      "name": "漫画原案",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": 238309,
+  "name": "スーラジ ザ・ライジングスター",
+  "name_cn": "",
+  "summary": "",
+  "date": "2012-12-23",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/db/44/238309_ObbfL.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/db/44/238309_ObbfL.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 1
+  },
+  "tags": [
+    {
+      "name": "印度",
+      "count": 1
+    },
+    {
+      "name": "空",
+      "count": 1
+    },
+    {
+      "name": "2012",
+      "count": 1
+    },
+    {
+      "name": "TV",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

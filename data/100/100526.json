@@ -1,0 +1,153 @@
+{
+  "id": 100526,
+  "name": "黒執事 Book of Circus",
+  "name_cn": "黑执事 马戏团篇",
+  "summary": "街を賑わすサーカス団。\r\nしかし、彼らの移動とリンクするように街では子どもたちが消えていた。\r\n調査のためサーカス団に団員として潜入した、セバスチャンとシエル。\r\nそこで思いがけない人物…に遭遇する。\r\nサーカス団の隠された目的とは！？",
+  "date": "2014-07-10",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/38/ae/100526_Q0BET.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/38/ae/100526_Q0BET.jpg"
+  },
+  "eps": 10,
+  "rating": {
+    "rank": 2101,
+    "total": 1330,
+    "count": {
+      "1": 5,
+      "2": 2,
+      "3": 3,
+      "4": 17,
+      "5": 58,
+      "6": 244,
+      "7": 542,
+      "8": 366,
+      "9": 48,
+      "10": 45
+    },
+    "score": 7.1
+  },
+  "tags": [
+    {
+      "name": "2014年7月",
+      "count": 296
+    },
+    {
+      "name": "黑执事",
+      "count": 272
+    },
+    {
+      "name": "A-1Pictures",
+      "count": 199
+    },
+    {
+      "name": "漫画改",
+      "count": 191
+    },
+    {
+      "name": "TV",
+      "count": 152
+    },
+    {
+      "name": "小野大辅",
+      "count": 147
+    },
+    {
+      "name": "2014",
+      "count": 116
+    },
+    {
+      "name": "坂本真绫",
+      "count": 111
+    },
+    {
+      "name": "基",
+      "count": 81
+    },
+    {
+      "name": "有生之年",
+      "count": 67
+    },
+    {
+      "name": "漫改",
+      "count": 55
+    },
+    {
+      "name": "奇幻",
+      "count": 41
+    },
+    {
+      "name": "大河内一楼",
+      "count": 34
+    },
+    {
+      "name": "不可错过",
+      "count": 22
+    },
+    {
+      "name": "木村良平",
+      "count": 20
+    },
+    {
+      "name": "宫野真守",
+      "count": 17
+    },
+    {
+      "name": "腐",
+      "count": 16
+    },
+    {
+      "name": "吉野弘幸",
+      "count": 12
+    },
+    {
+      "name": "续作",
+      "count": 12
+    },
+    {
+      "name": "阿部記之",
+      "count": 12
+    },
+    {
+      "name": "耽美",
+      "count": 12
+    },
+    {
+      "name": "福山润",
+      "count": 9
+    },
+    {
+      "name": "悬疑",
+      "count": 8
+    },
+    {
+      "name": "阿部记之",
+      "count": 8
+    },
+    {
+      "name": "战斗",
+      "count": 8
+    },
+    {
+      "name": "黑暗",
+      "count": 7
+    },
+    {
+      "name": "光田康典",
+      "count": 7
+    },
+    {
+      "name": "哥特",
+      "count": 6
+    },
+    {
+      "name": "2014年",
+      "count": 6
+    },
+    {
+      "name": "小野大輔",
+      "count": 6
+    }
+  ],
+  "locked": false
+}

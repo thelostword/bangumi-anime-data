@@ -1,0 +1,153 @@
+{
+  "id": 47576,
+  "name": "銀魂' 延長戦",
+  "name_cn": "银魂' 延长战",
+  "summary": "内容是冷饭“よりぬき銀魂さん”精选集重播加新作动画。\r\n",
+  "date": "2012-10-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/5a/dc/47576_5gU11.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/5a/dc/47576_5gU11.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 102,
+    "total": 3763,
+    "count": {
+      "1": 31,
+      "2": 6,
+      "3": 11,
+      "4": 16,
+      "5": 56,
+      "6": 183,
+      "7": 584,
+      "8": 1214,
+      "9": 835,
+      "10": 827
+    },
+    "score": 8.3
+  },
+  "tags": [
+    {
+      "name": "银魂",
+      "count": 830
+    },
+    {
+      "name": "2012年10月",
+      "count": 466
+    },
+    {
+      "name": "银他妈",
+      "count": 450
+    },
+    {
+      "name": "吐槽",
+      "count": 420
+    },
+    {
+      "name": "SUNRISE",
+      "count": 418
+    },
+    {
+      "name": "杉田智和",
+      "count": 354
+    },
+    {
+      "name": "TV",
+      "count": 290
+    },
+    {
+      "name": "碎节操",
+      "count": 255
+    },
+    {
+      "name": "JUMP",
+      "count": 249
+    },
+    {
+      "name": "搞笑",
+      "count": 198
+    },
+    {
+      "name": "猩猩你不是又耍我们吧",
+      "count": 196
+    },
+    {
+      "name": "人生的意义",
+      "count": 182
+    },
+    {
+      "name": "2012",
+      "count": 162
+    },
+    {
+      "name": "漫画改",
+      "count": 92
+    },
+    {
+      "name": "中村悠一",
+      "count": 79
+    },
+    {
+      "name": "漫改",
+      "count": 51
+    },
+    {
+      "name": "热血",
+      "count": 45
+    },
+    {
+      "name": "战斗",
+      "count": 25
+    },
+    {
+      "name": "空知秋明",
+      "count": 22
+    },
+    {
+      "name": "钉宫理惠",
+      "count": 22
+    },
+    {
+      "name": "猩猩",
+      "count": 21
+    },
+    {
+      "name": "銀魂",
+      "count": 16
+    },
+    {
+      "name": "藤田阳一",
+      "count": 16
+    },
+    {
+      "name": "日常",
+      "count": 15
+    },
+    {
+      "name": "石田彰",
+      "count": 14
+    },
+    {
+      "name": "阪口大助",
+      "count": 13
+    },
+    {
+      "name": "吐糟",
+      "count": 13
+    },
+    {
+      "name": "藤田陽一",
+      "count": 12
+    },
+    {
+      "name": "GINTAMA",
+      "count": 11
+    },
+    {
+      "name": "节操",
+      "count": 10
+    }
+  ],
+  "locked": false
+}

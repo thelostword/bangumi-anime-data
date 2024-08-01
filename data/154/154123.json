@@ -1,0 +1,77 @@
+{
+  "id": 154123,
+  "name": "バケツでごはん",
+  "name_cn": "企鹅掌门人",
+  "summary": "",
+  "date": "1996-01-08",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/b6/99/154123_P01x0.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/b6/99/154123_P01x0.jpg"
+  },
+  "eps": 20,
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5
+  },
+  "tags": [
+    {
+      "name": "難波圭一",
+      "count": 1
+    },
+    {
+      "name": "マジックバス",
+      "count": 1
+    },
+    {
+      "name": "長沢直美",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "出崎哲",
+      "count": 1
+    },
+    {
+      "name": "MagicBus",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "伊藤美紀",
+      "count": 1
+    },
+    {
+      "name": "1996",
+      "count": 1
+    },
+    {
+      "name": "中瀬理香",
+      "count": 1
+    },
+    {
+      "name": "日本动画",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

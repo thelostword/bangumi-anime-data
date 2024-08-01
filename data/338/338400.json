@@ -1,0 +1,153 @@
+{
+  "id": 338400,
+  "name": "BanG Dream! ガルパ☆ピコ ふぃーばー！",
+  "name_cn": "BanG Dream! 少女乐团派对！☆PICO FEVER！",
+  "summary": "",
+  "date": "2021-10-07",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/41/77/338400_00Nhy.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/41/77/338400_00Nhy.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 1809,
+    "total": 799,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 3,
+      "4": 0,
+      "5": 25,
+      "6": 128,
+      "7": 394,
+      "8": 186,
+      "9": 35,
+      "10": 28
+    },
+    "score": 7.2
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 281
+    },
+    {
+      "name": "搞笑",
+      "count": 184
+    },
+    {
+      "name": "BanGDream",
+      "count": 169
+    },
+    {
+      "name": "原创",
+      "count": 133
+    },
+    {
+      "name": "2021年10月",
+      "count": 127
+    },
+    {
+      "name": "2021",
+      "count": 99
+    },
+    {
+      "name": "乐队",
+      "count": 87
+    },
+    {
+      "name": "偶像",
+      "count": 78
+    },
+    {
+      "name": "小剧场",
+      "count": 71
+    },
+    {
+      "name": "WEB",
+      "count": 66
+    },
+    {
+      "name": "沙雕",
+      "count": 62
+    },
+    {
+      "name": "音乐",
+      "count": 56
+    },
+    {
+      "name": "百合",
+      "count": 47
+    },
+    {
+      "name": "W-toonStudio",
+      "count": 38
+    },
+    {
+      "name": "TV",
+      "count": 34
+    },
+    {
+      "name": "Q版",
+      "count": 11
+    },
+    {
+      "name": "日常",
+      "count": 8
+    },
+    {
+      "name": "ダブトゥーンスタジオ",
+      "count": 8
+    },
+    {
+      "name": "宮嶋星矢",
+      "count": 7
+    },
+    {
+      "name": "BanG_Dream!",
+      "count": 6
+    },
+    {
+      "name": "宫岛星矢",
+      "count": 5
+    },
+    {
+      "name": "2021年",
+      "count": 5
+    },
+    {
+      "name": "邦邦",
+      "count": 5
+    },
+    {
+      "name": "DMM.futureworks",
+      "count": 5
+    },
+    {
+      "name": "日本",
+      "count": 4
+    },
+    {
+      "name": "Bushiroad",
+      "count": 3
+    },
+    {
+      "name": "W-Toon_Studio",
+      "count": 3
+    },
+    {
+      "name": "泡面",
+      "count": 3
+    },
+    {
+      "name": "SP",
+      "count": 3
+    },
+    {
+      "name": "游戏改",
+      "count": 3
+    }
+  ],
+  "locked": false
+}

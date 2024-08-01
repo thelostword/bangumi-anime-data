@@ -1,0 +1,153 @@
+{
+  "id": 114062,
+  "name": "ミス・モノクローム -The Animation- 「MANAGER」",
+  "name_cn": "黑白小姐 「经纪人」",
+  "summary": "私だけの物語【初回限定盤OVA】。",
+  "date": "2014-09-24",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/4f/62/114062_2oD62.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/4f/62/114062_2oD62.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 6447,
+    "total": 294,
+    "count": {
+      "1": 0,
+      "2": 3,
+      "3": 5,
+      "4": 10,
+      "5": 52,
+      "6": 141,
+      "7": 67,
+      "8": 12,
+      "9": 2,
+      "10": 2
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 130
+    },
+    {
+      "name": "泡面番",
+      "count": 77
+    },
+    {
+      "name": "堀江由衣",
+      "count": 47
+    },
+    {
+      "name": "2014",
+      "count": 41
+    },
+    {
+      "name": "黑白小姐",
+      "count": 38
+    },
+    {
+      "name": "原创",
+      "count": 31
+    },
+    {
+      "name": "LIDENFILMS",
+      "count": 23
+    },
+    {
+      "name": "井上喜久子",
+      "count": 18
+    },
+    {
+      "name": "偶像",
+      "count": 18
+    },
+    {
+      "name": "2014年9月",
+      "count": 11
+    },
+    {
+      "name": "SANZIGEN",
+      "count": 10
+    },
+    {
+      "name": "岩崎良明",
+      "count": 7
+    },
+    {
+      "name": "搞笑",
+      "count": 6
+    },
+    {
+      "name": "泡面",
+      "count": 6
+    },
+    {
+      "name": "神田朱未",
+      "count": 4
+    },
+    {
+      "name": "藤原启治",
+      "count": 4
+    },
+    {
+      "name": "三次元",
+      "count": 4
+    },
+    {
+      "name": "ミス・モノクローム",
+      "count": 3
+    },
+    {
+      "name": "2014年",
+      "count": 3
+    },
+    {
+      "name": "机器人",
+      "count": 3
+    },
+    {
+      "name": "WEB",
+      "count": 2
+    },
+    {
+      "name": "日常",
+      "count": 2
+    },
+    {
+      "name": "サンジゲン",
+      "count": 2
+    },
+    {
+      "name": "大川茂伸",
+      "count": 2
+    },
+    {
+      "name": "OAD",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "9月",
+      "count": 1
+    },
+    {
+      "name": "『OVA』",
+      "count": 1
+    },
+    {
+      "name": "オリジナル",
+      "count": 1
+    },
+    {
+      "name": "笔安一幸",
+      "count": 1
+    }
+  ],
+  "locked": false
+}
