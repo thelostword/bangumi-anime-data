@@ -1,0 +1,89 @@
+{
+  "id": 425994,
+  "name": "攻殻機動隊 SAC_2045 最後の人間",
+  "name_cn": "攻壳机动队SAC_2045 最后的人类",
+  "summary": "2021年11月に劇場公開された『攻殻機動隊 SAC_2045 持続可能戦争』に続き、\r\nシーズン２を再構成した劇場版パート２（仮題）が、2023年に劇場公開されることを発表いたしました!!\r\n\r\n発表に際して、本作ティザービジュアルも公開!!\r\n\r\nティザービジュアルはキャラクターデザインを手掛けるイリヤ・クブシノブ描き下ろし。\r\n\r\n本日3月25日（土）より東京・ビッグサイトにて開催されているAnimeJapan 2023バンダイナムコグループブースにおいて初公開されました。\r\n\r\n今後も情報を公開して参りますので、続報をご期待ください!!",
+  "date": "2023-11-23",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/92/76/425994_3firC.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/92/76/425994_3firC.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 8,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 1,
+      "6": 2,
+      "7": 1,
+      "8": 3,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 8
+    },
+    {
+      "name": "2023",
+      "count": 6
+    },
+    {
+      "name": "SOLADIGITALARTS",
+      "count": 4
+    },
+    {
+      "name": "Production.I.G",
+      "count": 3
+    },
+    {
+      "name": "攻壳机动队",
+      "count": 3
+    },
+    {
+      "name": "总集篇",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "ProductionI.G",
+      "count": 2
+    },
+    {
+      "name": "神山健治",
+      "count": 1
+    },
+    {
+      "name": "ProductionI.G、SOLADIGITALARTS",
+      "count": 1
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1
+    },
+    {
+      "name": "SF",
+      "count": 1
+    },
+    {
+      "name": "婆罗门",
+      "count": 1
+    },
+    {
+      "name": "科幻",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

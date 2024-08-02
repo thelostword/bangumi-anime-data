@@ -1,0 +1,121 @@
+{
+  "id": 67779,
+  "name": "魔法の妖精ペルシャ",
+  "name_cn": "魔法妖精贝露莎",
+  "summary": "在非洲长大的天真烂漫的少女贝露莎利用妖精传授给她的魔法，能够变身成为各种各样的女性专家。她为了拯救妖精之国Lovely Dream而收集爱的力量而展开了一系列故事。\r\n\r\n本作是Studio Pierrot制作的《Pierrot魔法少女》系列第2作为奔放的主人公贝露莎配音的富永美衣奈的优秀表演，以及通过细致的演出描绘出角色心理的动画后半部分剧情也得到了很高的评价。",
+  "date": "1984-07-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/21/9c/67779_H6pei.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/21/9c/67779_H6pei.jpg"
+  },
+  "eps": 48,
+  "rating": {
+    "rank": 0,
+    "total": 18,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 2,
+      "6": 5,
+      "7": 8,
+      "8": 3,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.7
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 12
+    },
+    {
+      "name": "StudioPierrot",
+      "count": 10
+    },
+    {
+      "name": "1984",
+      "count": 8
+    },
+    {
+      "name": "魔法少女",
+      "count": 6
+    },
+    {
+      "name": "安浓高志",
+      "count": 5
+    },
+    {
+      "name": "原创",
+      "count": 3
+    },
+    {
+      "name": "ぴえろ",
+      "count": 3
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "赛璐珞",
+      "count": 1
+    },
+    {
+      "name": "4クール",
+      "count": 1
+    },
+    {
+      "name": "難波圭一",
+      "count": 1
+    },
+    {
+      "name": "小丑社魔法少女",
+      "count": 1
+    },
+    {
+      "name": "待補1",
+      "count": 1
+    },
+    {
+      "name": "¬",
+      "count": 1
+    },
+    {
+      "name": "旧物",
+      "count": 1
+    },
+    {
+      "name": "安濃高志",
+      "count": 1
+    },
+    {
+      "name": "富田祐弘",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "冨永みーな",
+      "count": 1
+    },
+    {
+      "name": "水島裕",
+      "count": 1
+    },
+    {
+      "name": "80s",
+      "count": 1
+    },
+    {
+      "name": "1980s",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -71,5 +71,3 @@ export const mergeAndSaveData = async () => {
     console.error('Error:', err);
   }
 }
-
-mergeAndSaveData();

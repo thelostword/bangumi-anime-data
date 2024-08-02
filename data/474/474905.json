@@ -1,0 +1,49 @@
+{
+  "id": 474905,
+  "name": "あたしンちNEXT",
+  "name_cn": "我们这一家NEXT",
+  "summary": "あたしンち連載30周年を迎える2024年、新作アニメの制作が決定しました！\r\n\r\nタチバナ家の日常を、再びアニメーションでお楽しみいただけます！\r\nYouTube等での配信を予定しています。公開時期などの詳細は続報をお待ちください。",
+  "date": "2024-06-05",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/de/1c/474905_NF1w6.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/de/1c/474905_NF1w6.jpg"
+  },
+  "eps": 5,
+  "rating": {
+    "rank": 0,
+    "total": 5,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 2,
+      "7": 2,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 7.2
+  },
+  "tags": [
+    {
+      "name": "2024",
+      "count": 1
+    },
+    {
+      "name": "WEB",
+      "count": 1
+    },
+    {
+      "name": "SHIN-EI",
+      "count": 1
+    },
+    {
+      "name": "子供向",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

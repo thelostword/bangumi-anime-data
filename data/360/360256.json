@@ -1,0 +1,153 @@
+{
+  "id": 360256,
+  "name": "鬼太郎誕生 ゲゲゲの謎",
+  "name_cn": "鬼太郎诞生 咯咯咯之谜",
+  "summary": "昭和を舞台にした”鬼太郎の誕生”を描く本作を楽しみにお待ちください。",
+  "date": "2023-11-17",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/60/98/360256_r1BC8.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/60/98/360256_r1BC8.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 2172,
+    "total": 213,
+    "count": {
+      "1": 1,
+      "2": 1,
+      "3": 0,
+      "4": 7,
+      "5": 10,
+      "6": 36,
+      "7": 68,
+      "8": 75,
+      "9": 13,
+      "10": 2
+    },
+    "score": 7.1
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 73
+    },
+    {
+      "name": "2023",
+      "count": 55
+    },
+    {
+      "name": "东映动画",
+      "count": 40
+    },
+    {
+      "name": "古贺豪",
+      "count": 26
+    },
+    {
+      "name": "原创",
+      "count": 23
+    },
+    {
+      "name": "東映アニメーション",
+      "count": 19
+    },
+    {
+      "name": "吉野弘幸",
+      "count": 18
+    },
+    {
+      "name": "东映",
+      "count": 12
+    },
+    {
+      "name": "奇幻",
+      "count": 11
+    },
+    {
+      "name": "日本动画",
+      "count": 8
+    },
+    {
+      "name": "鬼太郎",
+      "count": 7
+    },
+    {
+      "name": "野沢雅子",
+      "count": 6
+    },
+    {
+      "name": "古賀豪",
+      "count": 4
+    },
+    {
+      "name": "沢城みゆき",
+      "count": 4
+    },
+    {
+      "name": "日本",
+      "count": 3
+    },
+    {
+      "name": "2023年秋",
+      "count": 3
+    },
+    {
+      "name": "2022",
+      "count": 3
+    },
+    {
+      "name": "水木しげる",
+      "count": 2
+    },
+    {
+      "name": "关俊彦",
+      "count": 2
+    },
+    {
+      "name": "空",
+      "count": 2
+    },
+    {
+      "name": "战斗",
+      "count": 2
+    },
+    {
+      "name": "搞笑",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 2
+    },
+    {
+      "name": "漫画改",
+      "count": 2
+    },
+    {
+      "name": "Theater",
+      "count": 1
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1
+    },
+    {
+      "name": "中山龙",
+      "count": 1
+    },
+    {
+      "name": "腐",
+      "count": 1
+    },
+    {
+      "name": "川井宪次",
+      "count": 1
+    },
+    {
+      "name": "『剧场版』",
+      "count": 1
+    }
+  ],
+  "locked": false
+}
