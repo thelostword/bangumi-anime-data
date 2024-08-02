@@ -1,7 +1,7 @@
-import Data from './data';
+import type { DataItem } from './data';
 
-declare type DataByYear = {
-  [year: string]: Data
+declare const dataByYear: {
+  [year: string]: DataItem[]
 };
 
-export default DataByYear;
+export default dataByYear;

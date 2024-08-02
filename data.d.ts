@@ -29,5 +29,5 @@ export declare type DataItem = {
   locked: boolean;
 }
 
-declare type Data = DataItem[];
-export default Data;
+declare const data: DataItem[];
+export default data;

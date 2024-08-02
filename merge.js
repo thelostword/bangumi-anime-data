@@ -3,7 +3,7 @@ import { join, extname } from 'node:path';
 import { sortBy, prop } from 'ramda';
 import { format } from 'date-fns';
 
-/** @typedef {import('./data').default} Data */
+/** @typedef {import('./data').DataItem[]} Data */
 
 /**
  * 合并json文件
