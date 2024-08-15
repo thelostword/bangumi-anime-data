@@ -2,14 +2,13 @@ name: Update anime data
 
 on:
   schedule:
-    - cron: '0 12 * * 5'
+    - cron: '0 17 */14 * 5'
+  workflow_dispatch:
 
 jobs:
   run-and-push:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Setup environment
       - uses: actions/checkout@v4
       - uses: oven-sh/setup-bun@v2
         with:
@@ -28,3 +27,5 @@ jobs:
           git add .
           git commit -m "update: Auto-update by GitHub Actions"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
