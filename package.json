@@ -19,11 +19,11 @@
     "@types/bun": "latest"
   },
   "peerDependencies": {
-    "typescript": "^5.0.0"
+    "typescript": "^5.5.4"
   },
   "dependencies": {
     "bangumi-data": "^0.3.147",
-    "cheerio": "^1.0.0-rc.12",
+    "cheerio": "^1.0.0",
     "date-fns": "^3.6.0",
     "ramda": "^0.30.1"
   }

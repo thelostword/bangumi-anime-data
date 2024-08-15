@@ -1,0 +1,30 @@
+name: Update anime data
+
+on:
+  schedule:
+    - cron: '0 12 * * 5'
+
+jobs:
+  run-and-push:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Setup environment
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+      - run: bun update
+
+      - name: Run update script
+        env:
+          BGM_COOKIE: ${{ env.BGM_COOKIE }}
+        run: bun index.js
+
+      - name: Commit changes
+        run: |
+          git config user.name "thelostword"
+          git config user.email "moe.losting@gmail.com"
+          git add .
+          git commit -m "update: Auto-update by GitHub Actions"
+          git push
