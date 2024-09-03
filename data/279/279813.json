@@ -1,0 +1,133 @@
+{
+  "id": 279813,
+  "name": "ちょこっとアニメ けものフレンズ3",
+  "name_cn": "一点点动画 兽娘动物园3",
+  "summary": "けものフレンズプロジェクトのゲーム最新作『けものフレンズ３』 \r\n事前登録数5万件達成のため新作アニメ「ちょこっとアニメ けものフレンズ３」制作決定！",
+  "date": "2019-04-02",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/f5/ce/279813_z99za.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/f5/ce/279813_z99za.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 25,
+    "count": {
+      "1": 0,
+      "2": 3,
+      "3": 6,
+      "4": 3,
+      "5": 6,
+      "6": 5,
+      "7": 1,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 4.4
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 14
+    },
+    {
+      "name": "2019",
+      "count": 12
+    },
+    {
+      "name": "WEB",
+      "count": 9
+    },
+    {
+      "name": "尾崎由香",
+      "count": 4
+    },
+    {
+      "name": "角川爆破",
+      "count": 4
+    },
+    {
+      "name": "萌",
+      "count": 3
+    },
+    {
+      "name": "日本",
+      "count": 3
+    },
+    {
+      "name": "Tomason",
+      "count": 2
+    },
+    {
+      "name": "2019年",
+      "count": 2
+    },
+    {
+      "name": "日本动画",
+      "count": 2
+    },
+    {
+      "name": "ギャラクシーグラフィックス",
+      "count": 1
+    },
+    {
+      "name": "ますもとたくや",
+      "count": 1
+    },
+    {
+      "name": "独",
+      "count": 1
+    },
+    {
+      "name": "内田彩",
+      "count": 1
+    },
+    {
+      "name": "けものフレンズ",
+      "count": 1
+    },
+    {
+      "name": "兽耳",
+      "count": 1
+    },
+    {
+      "name": "萝莉",
+      "count": 1
+    },
+    {
+      "name": "TV",
+      "count": 1
+    },
+    {
+      "name": "短片",
+      "count": 1
+    },
+    {
+      "name": "奇幻",
+      "count": 1
+    },
+    {
+      "name": "sega",
+      "count": 1
+    },
+    {
+      "name": "6",
+      "count": 1
+    },
+    {
+      "name": "SP",
+      "count": 1
+    },
+    {
+      "name": "日常",
+      "count": 1
+    },
+    {
+      "name": "木村隆一",
+      "count": 1
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,153 @@
+{
+  "id": 212084,
+  "name": "Aチャンネル 鍋を食べよう",
+  "name_cn": "A频道 来吃火锅吧",
+  "summary": "A频道Blu-ray Disc BOX收录的新作OVA。",
+  "date": "2017-09-27",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/06/35/212084_HJebP.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/06/35/212084_HJebP.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 2546,
+    "total": 326,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 14,
+      "6": 71,
+      "7": 162,
+      "8": 59,
+      "9": 7,
+      "10": 11
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 151
+    },
+    {
+      "name": "百合",
+      "count": 99
+    },
+    {
+      "name": "芳文社",
+      "count": 95
+    },
+    {
+      "name": "日常",
+      "count": 85
+    },
+    {
+      "name": "2017",
+      "count": 64
+    },
+    {
+      "name": "Studio五組",
+      "count": 54
+    },
+    {
+      "name": "治愈",
+      "count": 49
+    },
+    {
+      "name": "漫画改",
+      "count": 41
+    },
+    {
+      "name": "Studio五组",
+      "count": 38
+    },
+    {
+      "name": "小野学",
+      "count": 25
+    },
+    {
+      "name": "漫改",
+      "count": 23
+    },
+    {
+      "name": "校园",
+      "count": 20
+    },
+    {
+      "name": "搞笑",
+      "count": 16
+    },
+    {
+      "name": "2017年10月",
+      "count": 16
+    },
+    {
+      "name": "神前晓",
+      "count": 9
+    },
+    {
+      "name": "萌",
+      "count": 7
+    },
+    {
+      "name": "轻百合",
+      "count": 5
+    },
+    {
+      "name": "悠木碧",
+      "count": 5
+    },
+    {
+      "name": "萝莉",
+      "count": 4
+    },
+    {
+      "name": "日本",
+      "count": 3
+    },
+    {
+      "name": "2017年",
+      "count": 3
+    },
+    {
+      "name": "神前暁",
+      "count": 2
+    },
+    {
+      "name": "OVA&OAD",
+      "count": 2
+    },
+    {
+      "name": "きらら",
+      "count": 2
+    },
+    {
+      "name": "喜剧或日常系",
+      "count": 2
+    },
+    {
+      "name": "空气系",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 2
+    },
+    {
+      "name": "废萌",
+      "count": 2
+    },
+    {
+      "name": "轻百",
+      "count": 2
+    },
+    {
+      "name": "福原香織",
+      "count": 2
+    }
+  ],
+  "locked": false
+}
