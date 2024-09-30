@@ -1,0 +1,81 @@
+{
+  "id": 480716,
+  "name": "科学×冒険サバイバル！",
+  "name_cn": "科学×冒险与生存！",
+  "summary": "",
+  "date": "2024-10-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/30/a5/480716_BoJTu.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/30/a5/480716_BoJTu.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 10
+  },
+  "tags": [
+    {
+      "name": "2024年10月",
+      "count": 12
+    },
+    {
+      "name": "2024",
+      "count": 5
+    },
+    {
+      "name": "TV",
+      "count": 4
+    },
+    {
+      "name": "ぎゃろっぷ",
+      "count": 4
+    },
+    {
+      "name": "科普",
+      "count": 4
+    },
+    {
+      "name": "漫画改",
+      "count": 4
+    },
+    {
+      "name": "細田雅弘",
+      "count": 3
+    },
+    {
+      "name": "漫改",
+      "count": 3
+    },
+    {
+      "name": "以后给孩子看",
+      "count": 1
+    },
+    {
+      "name": "秋季",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "TVA-02",
+      "count": 1
+    }
+  ],
+  "locked": false
+}
