@@ -1,0 +1,143 @@
+{
+  "id": 347863,
+  "name": "Thunderbolt Fantasy 東離劍遊紀 4",
+  "name_cn": "Thunderbolt Fantasy 东离剑游纪 4",
+  "summary": "消失在黑暗里的吟唱……\r\n殇不患藉由万世神伏的威力，让刑亥的野心随著无界阁一同埋葬入地底深处。然而，自崩落土石中逃脱出的一行人里，却少了红衣吟游诗人的身影。\r\n红衣吟游诗人──浪巫谣为了向母亲的仇人、同时亦是自己生父的阿尔贝卢法复仇，进入了魔界。\r\n魔界里，魔宫贵族间出现了内斗的迹象，就连祸世螟蝗也派出麾下法师前往魔界探索。 在局势混沌的魔界中，一场阴谋算计正等待著满心复仇的浪巫谣！",
+  "date": "2024-10-05",
+  "platform": "电视剧",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/80/5e/347863_ij83D.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/80/5e/347863_ij83D.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 1149,
+    "total": 27,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 3,
+      "7": 11,
+      "8": 10,
+      "9": 1,
+      "10": 1
+    },
+    "score": 7.4
+  },
+  "tags": [
+    {
+      "name": "布袋戏",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年10月",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "虚渊玄",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "武侠",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "霹雳布袋戏",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "动作",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "电视剧",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "古装",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "东离剑游记",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "国产",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2024秋",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "续",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "特摄",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "泽野弘之",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "澤野弘之",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "东离剑游纪",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false
+}

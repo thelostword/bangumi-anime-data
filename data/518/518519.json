@@ -1,0 +1,183 @@
+{
+  "id": 518519,
+  "name": "ONE PIECE FAN LETTER",
+  "name_cn": "航海王：粉丝来信",
+  "summary": "故事讲述了顶上战争两年后的香波迪群岛上，娜美的小迷妹展开的一场小小冒险…… 本作改编自航海王官方外传小说《航海王 novel 草帽故事集》，小说描述了以一般人的角度来看待草帽海贼团成员们的短篇故事。",
+  "date": "2024-10-20",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/be/42/518519_DMDo8.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/be/42/518519_DMDo8.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 55,
+    "total": 911,
+    "count": {
+      "1": 1,
+      "2": 2,
+      "3": 1,
+      "4": 6,
+      "5": 9,
+      "6": 13,
+      "7": 83,
+      "8": 306,
+      "9": 326,
+      "10": 164
+    },
+    "score": 8.5
+  },
+  "tags": [
+    {
+      "name": "海贼王",
+      "count": 199,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 158,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 139,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 132,
+      "total_cont": 0
+    },
+    {
+      "name": "东映动画",
+      "count": 126,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 122,
+      "total_cont": 0
+    },
+    {
+      "name": "番外",
+      "count": 115,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 83,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 77,
+      "total_cont": 0
+    },
+    {
+      "name": "石谷惠",
+      "count": 62,
+      "total_cont": 0
+    },
+    {
+      "name": "东映",
+      "count": 55,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年10月",
+      "count": 48,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 28,
+      "total_cont": 0
+    },
+    {
+      "name": "轻小说改",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "森佳祐",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "東映アニメーション",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "石谷恵",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "TVSP",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "SP",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "治愈",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "豊田百香",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "神中神",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "冒险",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2020s",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false
+}

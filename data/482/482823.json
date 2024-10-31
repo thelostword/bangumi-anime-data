@@ -1,0 +1,168 @@
+{
+  "id": 482823,
+  "name": "Duel Masters LOST ～追憶の水晶～",
+  "name_cn": "决斗大师 LOST ～追忆的水晶～",
+  "summary": "ある日突然人の姿が消える怪事件が多発する東京・新宿。\r\n半年前、この街で目覚めた斬札ウィンはあらゆる記憶を失っていた。\r\n\r\n成り行きで通い始めた高校やアルバイトでは周りと馴染めず、\r\nクラスメイトのニイカや仲間たちと夜の公園でたむろする鬱屈した日々。\r\n\r\nそんな日常は「ウィンのすべてを知る」という謎の転校生・クリスタの登場によって変貌する。\r\nウィンと結婚を約束した仲だという彼女。その背後には怪しげな影がうごめいていた。\r\n\r\n頻発する怪事件の真相とは。\r\n突如現れたクリスタの目的とは。\r\nそしてウィンの隠された過去とは。\r\n\r\n失われた記憶を取り戻す、新たな物語が始まる。",
+  "date": "2024-10-04",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/6c/35/482823_r82Zd.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/6c/35/482823_r82Zd.jpg"
+  },
+  "eps": 4,
+  "rating": {
+    "rank": 0,
+    "total": 47,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 8,
+      "7": 16,
+      "8": 19,
+      "9": 2,
+      "10": 2
+    },
+    "score": 7.4
+  },
+  "tags": [
+    {
+      "name": "2024年10月",
+      "count": 37,
+      "total_cont": 0
+    },
+    {
+      "name": "J.C.STAFF",
+      "count": 28,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "卡牌",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "福島利規",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "橋詰力",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "秋季",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "无法预测的命运之舞台",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2024.10",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "24秋",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "鵜澤正太郎",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "ONA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "党争",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "表",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "加藤陽一",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "福岛利规",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false
+}

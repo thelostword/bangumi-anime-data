@@ -1,0 +1,133 @@
+{
+  "id": 5233,
+  "name": "ロックマンエグゼBEAST+",
+  "name_cn": "洛克人EXE BEAST+",
+  "summary": "『ロックマンエグゼBEAST+』（ロックマンエグゼ ビーストプラス）は、『ロックマンエグゼBEAST』の続編として2006年4月8日から2006年9月30日まで放送されたテレビアニメである。\r\n\r\n『ロックマンエグゼBEAST』の放送終了後、同時間帯の番組となった『おはコロシアム』内で10分の短編アニメとして放送された。全26話。 この次は流星のロックマンが放送されたため、ロックマンエグゼのアニメの最後の作品に当たる。\r\n\r\nベースは『ロックマンエグゼ6』、および『ロックマンエグゼ トランスミッション』、『ロックマンエグゼ ファントム オブ ネットワーク』。ビヨンダードから帰還した熱斗達は、再び平穏な日常をすごしていた。しかし、ほどなくして植物状のデータが実体化し始める。獣化ウイルスも実体化をはじめ、熱斗とロックマンはクロスフュージョンしウイルス達を退けるが、そこへ一体のナビらしき人影が現れる。",
+  "date": "2006-04-08",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/26/b5/5233_47S30.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/26/b5/5233_47S30.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 0,
+    "total": 31,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 2,
+      "6": 11,
+      "7": 16,
+      "8": 2,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.6
+  },
+  "tags": [
+    {
+      "name": "洛克人",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "XEBEC",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "2006",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "少年",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "木村亜希子",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TVB",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "水橋かおり",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "华视",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "EXE",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "荒木憲一",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "加戸誉夫",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "子供向",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改编",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "SF",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "童年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "比嘉久美子",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false
+}

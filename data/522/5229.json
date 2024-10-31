@@ -1,0 +1,163 @@
+{
+  "id": 5229,
+  "name": "劇場版ロックマンエグゼ 光と闇の遺産",
+  "name_cn": "洛克人EXE剧场版 光与暗的遗产",
+  "summary": "電脳世界の邪悪な電脳生命体「ネビュラグレイ」が動き出す。ネビュラグレイによって、現実世界では、世界の彼方此方で建物や人々が電子データに分解されては消えていくという、大規模な非物質化現象が起こる。この現象の起きた地区を宇宙から見ると、それは巨大な回路図を描いていた。これを見た光熱斗の父・光祐一郎は何かを思い当たると、近くにいた息子でありネットセイバーでもある熱斗に、「ヒカリタダシプログラム」をデリートするよう命じる。それは熱斗の祖父の光正が作り出したプログラムであり、現在はトリニティブレイン社にあるという。そして、非物質化現象はデンサンシティでも起こり始める。\r\n冒頭、熱斗はアミューズメントパークのプレオープンで行われたネットバトル大会に参加しているが、同プレオープンではデュエル・マスターズのデュエル大会も同時に開かれていて、同時上映の『デュエル・マスターズ』の主人公の切札勝舞がデュエルしている姿を熱斗が観戦しているという、ちょっとした共演も見られる。 ",
+  "date": "2005-03-12",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/08/0a/5229_YfvuJ.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/08/0a/5229_YfvuJ.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 33,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 5,
+      "6": 10,
+      "7": 12,
+      "8": 6,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.6
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "洛克人",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "2005",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "XEBEC",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "EXE",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "好基友",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改编",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "Forte",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "动画电影",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "水橋かおり",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "加戸誉夫",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "荒木憲一",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "木村亜希子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "正",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "少年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "SF",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "子供向",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVB",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "正太",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "比嘉久美子",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,118 @@
+{
+  "id": 78049,
+  "name": "バリバリ伝説",
+  "name_cn": "赛车传奇",
+  "summary": "バイク好きの高校生グン（巨摩郡）は、奥多摩街道の峠バトルでヒデヨシ（聖秀吉）の駆るカタナに敗れた。その後、ヒデヨシが関西の高校からグンのクラスへと転校。グンは雪辱を晴らすためヒデヨシに再戦を挑むが、そこでグンとヒデヨシを軽々と追い抜いていくライダーに遭遇する……。週刊少年マガジンで連載され、リアルなバイク描写からバイクファンの熱狂的な支持を受けた、しげの秀一の青春バイクマンガをOVA化。ヒロイン、歩惟（あい）の声と主題歌を荻野目洋子が担当したことでも話題を呼び、同年にはPartIとPartIIをまとめて劇場版としても公開されている。",
+  "date": "1986-10-05",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/5f/54/78049_o04GO.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/5f/54/78049_o04GO.jpg"
+  },
+  "eps": 2,
+  "rating": {
+    "rank": 0,
+    "total": 7,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 5,
+      "7": 1,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.4
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "1986",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "田中秀幸",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "独立ova",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "荻野目洋子",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "上村修",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "StudioPierrot",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA-02",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA-01",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "运动",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "池上誉優",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "ぴえろ",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false
+}

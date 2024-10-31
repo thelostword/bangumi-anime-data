@@ -1,0 +1,63 @@
+{
+  "id": 513939,
+  "name": "ばなにゃ あらうんど ざ わーるど",
+  "name_cn": "香蕉喵游世界",
+  "summary": "空から飛んでくる、不思議な光の球がありました。\r\n光の球がピカっと光ると、\r\nばなにゃの目の前に小さいばなにゃ「ベイビースイート」が現われました。\r\n\r\nすぐに仲良しになったばなにゃとベイビースイートは、\r\n一緒にいろんな世界へ出かけていくことに！\r\n\r\nバナナの中にひそむ不思議なにゃんこ「ばなにゃ」の大冒険が始まります！",
+  "date": "2024-10-21",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e9/a2/513939_L1en9.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e9/a2/513939_L1en9.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 0,
+    "total": 3,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 2,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.7
+  },
+  "tags": [
+    {
+      "name": "2024",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年10月",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false
+}
