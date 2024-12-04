@@ -20,7 +20,7 @@ jobs:
 
       - name: Run update script
         env:
-          BGM_COOKIE: ${{ env.BGM_COOKIE }}
+          BGM_COOKIE: ${{ vars.BGM_COOKIE }}
         run: bun index.js
 
       - name: Commit changes
