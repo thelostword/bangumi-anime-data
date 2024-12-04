@@ -17,7 +17,7 @@ const differenceIds = difference(bangumiIds, completedIds);
 
 
 const fetchAndSave = async () => {
-  const speed = 6000;
+  const speed = 3000;
   let currentIndex = 0;
   return new Promise((resolve, reject) => {
     const intervalId = setInterval(async () => {

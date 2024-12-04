@@ -10,18 +10,18 @@ import { items } from 'bangumi-data';
  */
 const extractInfoByHtml = async (id) => {
   try {
-    const ulr = `https://bgm.tv/subject/${id}`;
+    const url = `https://bgm.tv/subject/${id}`;
 
     const controller = new AbortController();
     setTimeout(() => {
       controller.abort();
     }, 5000);
-    const response = await fetch(ulr, {
+    const response = await fetch(url, {
       signal: controller.signal,
       credentials: 'include',
       // @ts-ignore
       headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0',
         Cookie: import.meta.env.BGM_COOKIE
       }
     });
@@ -83,7 +83,8 @@ const extractInfoByHtml = async (id) => {
       tags,
       locked
     }
-  } catch {
+  } catch (err) {
+    console.error(err);
     return null;
   }
 }
@@ -94,13 +95,13 @@ const extractInfoByHtml = async (id) => {
  */
 const extractInfoByApi = async (id) => {
   try {
-    const ulr = `https://api.bgm.tv/v0/subjects/${id}`;
+    const url = `https://api.bgm.tv/v0/subjects/${id}`;
 
     const controller = new AbortController();
     setTimeout(() => {
       controller.abort();
     }, 3000);
-    const response = await fetch(ulr);
+    const response = await fetch(url);
 
     if (!response.ok) return null;
     const data = await response.json();
@@ -123,7 +124,8 @@ const extractInfoByApi = async (id) => {
       tags,
       locked
     }
-  } catch {
+  } catch (err) {
+    console.error(err);
     return null;
   }
 }
