@@ -25,7 +25,7 @@ const extractInfoByHtml = async (id) => {
         Cookie: import.meta.env.BGM_COOKIE
       }
     });
-    console.log('BGM_COOKIE:', import.meta.env.BGM_COOKIE);
+    console.log('BGM_COOKIE:', import.meta.env.BGM_COOKIE, process.env.BGM_COOKIE);
 
     if (!response.ok) return null;
     const html = await response.text();
