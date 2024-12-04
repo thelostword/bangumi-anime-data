@@ -1,0 +1,123 @@
+{
+  "id": 420442,
+  "name": "KUROMI'S PRETTY JOURNEY",
+  "name_cn": "",
+  "summary": "笑いあり涙ありなんでもありの\r\nクロミと仲間たちによるドキドキ大冒険が\r\nついにスタート！世界を股にかけて活躍\r\nするクロミを応援してね！",
+  "date": "2023-02-17",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/69/28/420442_bmc5R.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/69/28/420442_bmc5R.jpg"
+  },
+  "eps": 21,
+  "rating": {
+    "rank": 0,
+    "total": 24,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 3,
+      "6": 12,
+      "7": 7,
+      "8": 2,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.3
+  },
+  "tags": [
+    {
+      "name": "WEB",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "2023",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "SANRIO",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2023年春",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "Qzil.la",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "KUROMI",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2023年4月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "三浦沙智",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "IMAGICA_DIGITALSCAPE",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Qzil.la、IMAGICADIGITALSCAPE",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1刷",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "子供向",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2023冬",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false
+}

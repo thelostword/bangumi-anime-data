@@ -1,0 +1,98 @@
+{
+  "id": 497924,
+  "name": "Tokyo Override",
+  "name_cn": "东京暗递",
+  "summary": "「Tokyo Override」はAIが暮らしに溶け込み、都市生活のすべてが自動化された100年後の東京が舞台。表向きは“理想的な社会”であるはずの街に潜む巨悪の存在を、はみ出しものの主人公たちが暴いていくバイクアクションSFアニメ",
+  "date": "2024-11-21",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/0a/2c/497924_r8t1p.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/0a/2c/497924_r8t1p.jpg"
+  },
+  "eps": 6,
+  "rating": {
+    "rank": 0,
+    "total": 5,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 2,
+      "7": 2,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.2
+  },
+  "tags": [
+    {
+      "name": "WEB",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "RiFFStudio",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "ファイルーズあい",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年10月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "深田祐辅",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "深田祐輔",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "ヴィーラパトラ・ジナナヴィン",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "竹内良太",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "SF",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false
+}

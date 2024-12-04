@@ -1,0 +1,138 @@
+{
+  "id": 289945,
+  "name": "魔道祖师Q",
+  "name_cn": "魔道祖师Q",
+  "summary": "《魔道祖师Q》以魏无羡少年期、成年期、以及陨灭重回后三个时期为主题，挑选其中可爱、温馨、治愈人心的部分进行编绘，希望热爱《魔道祖师》系列动画，但被正剧的苦闷情节“伤害”的观众朋友们可以得到治愈。",
+  "date": "2020-07-31",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/72/8d/289945_7cy4A.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/72/8d/289945_7cy4A.jpg"
+  },
+  "eps": 30,
+  "rating": {
+    "rank": 0,
+    "total": 30,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 2,
+      "5": 6,
+      "6": 9,
+      "7": 9,
+      "8": 3,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "国产",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "2020",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "国漫",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2020年7月",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "BL",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "视美动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "中国",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "魔道祖师",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "耽美",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "网文改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "朱珂",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "梁莎",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "视美影业",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "中国动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "立花慎之介",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "木村良平",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "『ONA』",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false
+}

@@ -1,0 +1,133 @@
+{
+  "id": 518603,
+  "name": "ONE PIECE 魚人島編",
+  "name_cn": "航海王：鱼人岛篇特别编辑版",
+  "summary": "在未来故事中具有重要意义的鱼人岛篇经过重新剪辑，将以比以往更高的画质呈现。讲述了顶上战争2年后的草帽海贼团重新团聚，前往鱼人岛冒险，并挫败了新鱼人海贼团阴谋的故事。",
+  "date": "2024-11-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e3/37/518603_AdqjY.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e3/37/518603_AdqjY.jpg"
+  },
+  "eps": 21,
+  "rating": {
+    "rank": 0,
+    "total": 20,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 5,
+      "7": 12,
+      "8": 2,
+      "9": 1,
+      "10": 0
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "海贼王",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年10月",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "冒险",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "東映アニメーション",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "半年番",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "ONEPIECE",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "东映动画",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "少年向",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "中年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "东映",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "重制",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "民工漫",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "重制版",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false
+}
