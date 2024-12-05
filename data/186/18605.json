@@ -149,5 +149,42 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "1/1vopmg6vm19rsni",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "18605"
+    },
+    {
+      "site": "nicovideo",
+      "id": "tamayura-tv",
+      "begin": "2012-03-11T11:15:00.000Z"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrgjc7u9",
+      "begin": "2014-01-14T08:10:29.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "514",
+      "begin": "2011-10-02T16:00:00.000Z",
+      "broadcast": "R/2012-08-22T12:13:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0013565",
+      "begin": "2015-05-28T05:15:00.000Z",
+      "broadcast": "R/2015-05-28T05:15:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "hitotose|福光|玉響"
+    }
+  ]
 }

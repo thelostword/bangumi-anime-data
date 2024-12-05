@@ -149,5 +149,22 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "k/kd7sd8mpyq2j2nn",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "4482"
+    },
+    {
+      "site": "unext",
+      "id": "SID0012889",
+      "begin": "2008-10-23T06:00:00.000Z",
+      "broadcast": "R/2008-10-23T06:00:00.000Z/P7D"
+    }
+  ]
 }

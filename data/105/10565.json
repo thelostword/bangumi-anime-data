@@ -149,5 +149,15 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "10565"
+    },
+    {
+      "site": "dmhy",
+      "id": "聖痕煉金士II"
+    }
+  ]
 }

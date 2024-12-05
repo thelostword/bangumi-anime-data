@@ -149,5 +149,71 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "mgtv",
+      "id": "109729",
+      "begin": ""
+    },
+    {
+      "site": "youku",
+      "id": "4d028dc407e411e48b3f",
+      "begin": "2015-01-10T21:00:00.000Z"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhay4z1",
+      "begin": "2015-01-10T21:00:00.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "3/3th0scjmjz8bz8i",
+      "begin": "2015-01-10T21:00:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "1626",
+      "begin": "2015-01-10T21:00:00.000Z",
+      "broadcast": "R/2015-01-10T21:00:00.000Z/P7D",
+      "comment": "OVA: 3444"
+    },
+    {
+      "site": "bangumi",
+      "id": "104949"
+    },
+    {
+      "site": "netflix",
+      "id": "80063153",
+      "begin": "2022-09-14T16:00:00.000Z",
+      "broadcast": "R/2022-09-14T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "70228",
+      "begin": "2023-02-17T04:00:00.000Z",
+      "broadcast": "R/2023-02-17T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0017797",
+      "begin": "2022-04-01T15:00:00.000Z",
+      "broadcast": "R/2022-04-01T15:00:00.000Z/P7D",
+      "comment": "OVA: SID0013549"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "70228",
+      "begin": "2023-02-17T04:00:00.000Z",
+      "broadcast": "R/2023-02-17T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "的籃"
+    },
+    {
+      "site": "mikan",
+      "id": "457"
+    }
+  ]
 }

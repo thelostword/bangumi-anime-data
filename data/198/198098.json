@@ -149,5 +149,59 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "198098"
+    },
+    {
+      "site": "nicovideo",
+      "id": "citrus-anime",
+      "begin": "2018-01-14T14:30:00.000Z",
+      "broadcast": "R/2018-01-14T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jg4IP_nznPuJptBvNyXhZsc",
+      "begin": "2021-03-07T16:00:00.000Z",
+      "broadcast": "R/2021-03-07T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtQRkgqAdoS8XotMEa4r96A4",
+      "begin": "2022-07-31T16:00:00.000Z",
+      "broadcast": "R/2022-07-31T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0032811",
+      "begin": "2019-04-25T03:00:00.000Z",
+      "broadcast": "R/2019-04-25T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "86010",
+      "begin": "2024-05-24T04:00:00.000Z",
+      "broadcast": "R/2024-05-24T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "86010",
+      "begin": "2024-05-24T04:00:00.000Z",
+      "broadcast": "R/2024-05-24T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "citrus"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5a43140c17d48cbd4a962608"
+    },
+    {
+      "site": "mikan",
+      "id": "1488"
+    }
+  ]
 }

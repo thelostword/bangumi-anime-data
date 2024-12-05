@@ -149,5 +149,28 @@
       "count": 46
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "1671"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ch330",
+      "begin": "2011-01-03T09:30:00.000Z"
+    },
+    {
+      "site": "abema",
+      "id": "26-2mzbynr-cph",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0002286",
+      "begin": "2018-11-06T03:00:00.000Z",
+      "broadcast": "R/2018-11-06T03:00:00.000Z/P7D"
+    }
+  ]
 }

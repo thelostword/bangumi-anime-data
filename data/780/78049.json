@@ -114,5 +114,18 @@
       "total_cont": 0
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "78049"
+    },
+    {
+      "site": "unext",
+      "id": "SID0158136",
+      "begin": "2024-10-10T15:00:00.000Z",
+      "broadcast": "R/2024-10-10T15:00:00.000Z/P7D",
+      "comment": "PART I 筑波篇, PART II 鈴鹿篇: SID0158137"
+    }
+  ]
 }

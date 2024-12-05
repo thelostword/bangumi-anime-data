@@ -149,5 +149,22 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "3013"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ninomiyakun",
+      "begin": "2019-12-13T06:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0042778",
+      "begin": "2019-10-30T03:00:00.000Z",
+      "broadcast": "R/2019-10-30T03:00:00.000Z/P7D"
+    }
+  ]
 }

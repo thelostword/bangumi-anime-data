@@ -149,5 +149,57 @@
       "count": 10
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "243916"
+    },
+    {
+      "site": "bilibili",
+      "id": "5267750",
+      "begin": "2019-01-10T17:25:00.000Z",
+      "broadcast": "R/2019-01-09T15:00:00.000Z/P7D",
+      "comment": "粤配版: 28236461"
+    },
+    {
+      "site": "nicovideo",
+      "id": "neverland-anime",
+      "begin": "2019-01-11T03:00:00.000Z",
+      "broadcast": "R/2019-01-11T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "viu",
+      "id": "447277",
+      "begin": "2022-05-26T16:00:00.000Z",
+      "broadcast": "R/2022-05-26T16:00:00.000Z/P7D",
+      "comment": "粵語版: 447294"
+    },
+    {
+      "site": "gamer",
+      "id": "97790",
+      "begin": "2019-08-01T09:00:00.000Z",
+      "broadcast": "R/2019-08-01T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0039149",
+      "begin": "2019-01-11T03:00:00.000Z",
+      "broadcast": "R/2019-01-11T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "97790",
+      "begin": "2019-08-01T09:00:00.000Z",
+      "broadcast": "R/2019-08-01T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5c2b731496ff38314480b5fc"
+    },
+    {
+      "site": "mikan",
+      "id": "1848"
+    }
+  ]
 }

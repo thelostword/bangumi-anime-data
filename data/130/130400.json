@@ -133,5 +133,29 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "130400"
+    },
+    {
+      "site": "nicovideo",
+      "id": "duelmastersvsr",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "28221005",
+      "begin": "2015-04-04T16:00:00.000Z",
+      "broadcast": "R/2019-05-15T08:15:21.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0062171",
+      "begin": "2024-04-01T03:00:00.000Z",
+      "broadcast": "R/2024-04-01T03:00:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,53 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "302875"
+    },
+    {
+      "site": "nicovideo",
+      "id": "magireco_2nd",
+      "begin": "2021-08-03T15:30:00.000Z",
+      "broadcast": "R/2021-08-03T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "118042",
+      "begin": "2021-07-31T16:30:00.000Z",
+      "broadcast": "R/2021-07-31T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28234642",
+      "begin": "2021-08-28T16:30:01.000Z",
+      "broadcast": "R/2021-08-28T16:30:01.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0068003",
+      "begin": "2022-04-30T15:00:00.000Z",
+      "broadcast": "R/2022-04-30T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "118042",
+      "begin": "2021-07-31T16:30:00.000Z",
+      "broadcast": "R/2021-07-31T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "小圓外傳 S02|前夜"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "60de5dba06c78696e4d11634"
+    },
+    {
+      "site": "mikan",
+      "id": "2511"
+    }
+  ]
 }

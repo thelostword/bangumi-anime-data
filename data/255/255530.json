@@ -149,5 +149,45 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "255530"
+    },
+    {
+      "site": "gamer",
+      "id": "119155",
+      "begin": "2022-02-25T08:00:00.000Z",
+      "broadcast": "R/2022-02-25T08:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "20145263",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "nicovideo",
+      "id": "movie-fgo-2pa",
+      "begin": "2022-04-20T03:00:00.000Z",
+      "broadcast": "R/2022-04-20T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0067491",
+      "begin": "2022-03-20T03:00:00.000Z",
+      "broadcast": "R/2022-03-20T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "119155",
+      "begin": "2022-02-25T08:00:00.000Z",
+      "broadcast": "R/2022-02-25T08:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "2590"
+    }
+  ]
 }

@@ -149,5 +149,38 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhc0ovh",
+      "begin": "2014-09-04T05:33:03.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "66410"
+    },
+    {
+      "site": "nicovideo",
+      "id": "leviathan",
+      "begin": "2013-04-08T15:00:00.000Z",
+      "broadcast": "R/2013-04-08T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "2656",
+      "begin": "2013-04-05T16:00:00.000Z",
+      "broadcast": "R/2015-08-13T02:44:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002238",
+      "begin": "2015-02-17T06:00:00.000Z",
+      "broadcast": "R/2015-02-17T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "利维坦"
+    }
+  ]
 }

@@ -149,5 +149,53 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "306559"
+    },
+    {
+      "site": "gamer",
+      "id": "111339",
+      "begin": "2022-01-07T17:30:00.000Z",
+      "broadcast": "R/2022-01-07T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "end-harem-anime",
+      "begin": "2022-01-14T16:30:00.000Z",
+      "broadcast": "R/2022-01-14T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "終末的後宮"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "615bb927d7f73dd4ed5c442f"
+    },
+    {
+      "site": "mikan",
+      "id": "2559"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "111339",
+      "begin": "2022-01-07T17:30:00.000Z",
+      "broadcast": "R/2022-01-07T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0061670",
+      "begin": "2021-09-27T03:00:00.000Z",
+      "broadcast": "R/2021-09-27T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "11-43",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

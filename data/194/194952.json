@@ -149,5 +149,17 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "194952"
+    },
+    {
+      "site": "nicovideo",
+      "id": "tetra",
+      "begin": "2016-10-14T07:56:48.000Z",
+      "broadcast": "R/2016-10-14T07:56:48.000Z/P7D"
+    }
+  ]
 }

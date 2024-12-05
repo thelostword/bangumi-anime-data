@@ -149,5 +149,27 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhb1b39",
+      "begin": "2015-08-14T16:07:37.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "25602"
+    },
+    {
+      "site": "nicovideo",
+      "id": "nube",
+      "begin": "2015-01-14T15:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0003503",
+      "begin": "2019-11-19T03:00:00.000Z",
+      "broadcast": "R/2019-11-19T03:00:00.000Z/P7D"
+    }
+  ]
 }

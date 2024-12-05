@@ -149,5 +149,31 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "354414"
+    },
+    {
+      "site": "nicovideo",
+      "id": "anime_shinepost",
+      "begin": "2022-07-15T15:00:00.000Z",
+      "broadcast": "R/2022-07-15T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0069679",
+      "begin": "2022-07-15T15:00:00.000Z",
+      "broadcast": "R/2022-07-15T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "SHINE POST"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "62c125aa2fc3ee0d0016bf40"
+    }
+  ]
 }

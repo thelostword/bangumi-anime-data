@@ -149,5 +149,15 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "29075"
+    },
+    {
+      "site": "dmhy",
+      "id": "Campione|弑神者"
+    }
+  ]
 }

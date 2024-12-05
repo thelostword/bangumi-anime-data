@@ -149,5 +149,59 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "339969"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JjmsVmFRjMFgquw0gsde2pR",
+      "begin": "2021-10-11T16:00:00.000Z",
+      "broadcast": "R/2021-10-11T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28235140",
+      "begin": "2022-03-18T12:00:00.000Z",
+      "broadcast": "R/2022-03-18T12:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "118371",
+      "begin": "2021-10-12T16:30:00.000Z",
+      "broadcast": "R/2021-10-12T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "deepinsanity-anime",
+      "begin": "2021-10-19T15:30:00.000Z",
+      "broadcast": "R/2021-10-19T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0061686",
+      "begin": "2021-10-19T15:30:00.000Z",
+      "broadcast": "R/2021-10-19T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "118371",
+      "begin": "2021-10-12T16:30:00.000Z",
+      "broadcast": "R/2021-10-12T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "狂熱深淵"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "615bb922d7f73dd4ed5c4419"
+    },
+    {
+      "site": "mikan",
+      "id": "2577"
+    }
+  ]
 }

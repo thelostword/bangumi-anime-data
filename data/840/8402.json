@@ -149,5 +149,33 @@
       "count": 15
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "8402"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ch635",
+      "begin": "2011-06-09T15:00:00.000Z",
+      "broadcast": "R/2011-06-09T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0042780",
+      "begin": "2019-10-16T03:00:00.000Z",
+      "broadcast": "R/2019-10-16T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-7",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "panty+stocking"
+    }
+  ]
 }

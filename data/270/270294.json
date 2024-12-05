@@ -149,5 +149,21 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "270294"
+    },
+    {
+      "site": "nicovideo",
+      "id": "mirutights",
+      "begin": "2019-05-18T13:00:00.000Z",
+      "broadcast": "R/2019-05-18T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "1952"
+    }
+  ]
 }

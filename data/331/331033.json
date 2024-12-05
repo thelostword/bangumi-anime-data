@@ -149,5 +149,65 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "331033"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28234723",
+      "begin": "2021-07-01T16:00:01.000Z",
+      "broadcast": "R/2021-07-01T16:00:01.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "higurashianime_202107",
+      "begin": "2021-07-08T15:00:00.000Z",
+      "broadcast": "R/2021-07-08T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jh7yn1GT-SfcTUqt5B_A7wf",
+      "begin": "2021-06-21T16:00:00.000Z",
+      "broadcast": "R/2021-06-21T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtTfqUyx6aMLtrwa3vkrC_qD",
+      "begin": "2022-08-04T16:00:00.000Z",
+      "broadcast": "R/2022-08-04T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "116770",
+      "begin": "2021-07-01T15:30:00.000Z",
+      "broadcast": "R/2021-07-01T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0058447",
+      "begin": "2021-07-08T15:00:00.000Z",
+      "broadcast": "R/2021-07-08T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "116770",
+      "begin": "2021-07-01T15:30:00.000Z",
+      "broadcast": "R/2021-07-01T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "蟬 鳴 時 卒"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "60de5da706c78696e4d11618"
+    },
+    {
+      "site": "mikan",
+      "id": "2499"
+    }
+  ]
 }

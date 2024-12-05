@@ -149,5 +149,59 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "395378"
+    },
+    {
+      "site": "nicovideo",
+      "id": "delicious-in-dungeon",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0096083",
+      "begin": "2024-01-04T13:30:00.000Z",
+      "broadcast": "R/2024-01-04T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81564899",
+      "begin": "2024-01-03T16:00:00.000Z",
+      "broadcast": "R/2024-01-03T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-253",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "21174614",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "disneyplus",
+      "id": "2jIp8QbnjKy7",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "迷宮飯"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "659142a7b885a81efda115e2"
+    },
+    {
+      "site": "mikan",
+      "id": "3240"
+    }
+  ]
 }

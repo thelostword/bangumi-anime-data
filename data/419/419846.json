@@ -149,5 +149,71 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "419846"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "21093797",
+      "begin": "2023-10-04T14:30:00.000Z",
+      "broadcast": "R/2023-10-04T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "130538",
+      "begin": "2023-10-04T14:30:00.000Z",
+      "broadcast": "R/2023-10-04T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtQGlyMs9SVOYp2lP-myamDL",
+      "begin": "2023-10-04T14:30:00.000Z",
+      "broadcast": "R/2023-10-04T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "shadow-garden2",
+      "begin": "2023-10-11T14:00:00.000Z",
+      "broadcast": "R/2023-10-11T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-221",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0091728",
+      "begin": "2023-10-11T14:00:00.000Z",
+      "broadcast": "R/2023-10-11T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "5I6JkWfEmf0M",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "130538",
+      "begin": "2023-10-04T14:30:00.000Z",
+      "broadcast": "R/2023-10-04T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "影 強者|實力者 S2|二季"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "65186f7e4c90aa63daeaa207"
+    },
+    {
+      "site": "mikan",
+      "id": "3146"
+    }
+  ]
 }

@@ -89,5 +89,33 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "341168"
+    },
+    {
+      "site": "unext",
+      "id": "SID0061711",
+      "begin": "2021-10-09T01:00:00.000Z",
+      "broadcast": "R/2021-10-09T01:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "168-34",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "615bb91dd7f73dd4ed5c43f7"
+    },
+    {
+      "site": "nicovideo",
+      "id": "gunmachan",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

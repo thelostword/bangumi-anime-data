@@ -149,5 +149,63 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "259790"
+    },
+    {
+      "site": "bilibili",
+      "id": "28222625",
+      "begin": "2019-10-02T18:11:00.000Z",
+      "broadcast": "R/2019-10-02T18:11:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "saikoro-club",
+      "begin": "2019-10-06T15:00:00.000Z",
+      "broadcast": "R/2019-10-06T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhyyont",
+      "begin": "2019-10-02T18:10:06.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "feddb8b330944aff896f",
+      "begin": "2019-10-02T18:09:03.000Z"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jj3WjKVfQMssxMY-FNYEf7t",
+      "begin": "2019-11-24T16:00:00.000Z",
+      "broadcast": "R/2019-11-24T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28222866",
+      "begin": "2019-10-02T18:15:00.000Z",
+      "broadcast": "R/2019-10-02T18:15:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0043350",
+      "begin": "2019-10-07T03:00:00.000Z",
+      "broadcast": "R/2019-10-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "桌遊"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5d9392bd4e9c003faceb5c7a"
+    },
+    {
+      "site": "mikan",
+      "id": "2040"
+    }
+  ]
 }

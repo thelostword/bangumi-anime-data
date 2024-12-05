@@ -149,5 +149,73 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "371546"
+    },
+    {
+      "site": "gamer",
+      "id": "122954",
+      "begin": "2022-07-04T13:00:00.000Z",
+      "broadcast": "R/2022-07-04T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "viu",
+      "id": "443581",
+      "begin": "2022-07-03T16:00:00.000Z",
+      "broadcast": "R/2022-07-03T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28338550",
+      "begin": "2022-07-04T13:00:00.000Z",
+      "broadcast": "R/2022-07-04T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "6tGY0LGgFeWE",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UcixtDlo2G336DXiBoABiflg",
+      "begin": "2023-11-11T16:00:00.000Z",
+      "broadcast": "R/2023-11-11T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "you-zitsu2",
+      "begin": "2022-07-11T13:00:00.000Z",
+      "broadcast": "R/2022-07-11T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-73",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0069674",
+      "begin": "2022-07-11T13:00:00.000Z",
+      "broadcast": "R/2022-07-11T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "122954",
+      "begin": "2022-07-04T13:00:00.000Z",
+      "broadcast": "R/2022-07-04T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "實力至上 2季|二季|2期|二期|S02|S2|2nd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "62c125a72fc3ee0d0016bf32"
+    }
+  ]
 }

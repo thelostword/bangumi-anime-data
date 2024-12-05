@@ -149,5 +149,33 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "40651"
+    },
+    {
+      "site": "nicovideo",
+      "id": "sukinayo",
+      "begin": "2012-10-12T16:30:00.000Z",
+      "broadcast": "R/2012-10-12T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "735",
+      "begin": "2012-10-05T16:00:00.000Z",
+      "broadcast": "R/2012-10-05T19:11:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002655",
+      "begin": "2018-07-31T03:00:00.000Z",
+      "broadcast": "R/2018-07-31T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "愛我"
+    }
+  ]
 }

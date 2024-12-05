@@ -149,5 +149,94 @@
       "count": 11
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "2576",
+      "begin": "2015-07-07T15:00:00.000Z",
+      "broadcast": "R/2015-07-07T17:19:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "64aa68201afd11e5b432",
+      "begin": "2015-07-07T15:00:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "112146"
+    },
+    {
+      "site": "nicovideo",
+      "id": "overlord-anime",
+      "begin": "2015-07-16T17:00:00.000Z",
+      "broadcast": "R/2015-07-16T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JiIura5SogPzrVGaujqXYsc",
+      "begin": "2021-07-04T16:00:00.000Z",
+      "broadcast": "R/2021-07-04T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtR4OFp6jDP90a8a94eqGosU",
+      "begin": "2022-09-26T16:00:00.000Z",
+      "broadcast": "R/2022-09-26T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "5CNwVLpigBya",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28221659",
+      "begin": "2019-08-06T03:40:26.000Z",
+      "broadcast": "R/2019-08-06T03:40:26.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "80132110",
+      "begin": "2023-07-13T16:00:00.000Z",
+      "broadcast": "R/2023-07-13T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-6",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0018994",
+      "begin": "2017-09-14T03:00:00.000Z",
+      "broadcast": "R/2017-09-14T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "72438",
+      "begin": "2024-06-07T04:00:00.000Z",
+      "broadcast": "R/2024-06-07T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "OVERLORD"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "55954b7ca0b788232ee35298"
+    },
+    {
+      "site": "mikan",
+      "id": "558"
+    },
+    {
+      "site": "gamer",
+      "id": "72438",
+      "begin": "2024-06-07T04:00:00.000Z",
+      "broadcast": "R/2024-06-07T04:00:00.000Z/P7D"
+    }
+  ]
 }

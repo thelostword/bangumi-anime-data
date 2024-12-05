@@ -149,5 +149,73 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "383631"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28339666",
+      "begin": "2022-10-02T14:00:00.000Z",
+      "broadcast": "R/2022-10-02T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28339712",
+      "begin": "2022-10-23T14:00:01.000Z",
+      "broadcast": "R/2022-10-23T14:00:01.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "124956",
+      "begin": "2022-10-02T14:00:00.000Z",
+      "broadcast": "R/2022-10-02T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UcjATceMbYHsvVzj8F7JpYw4",
+      "begin": "2022-10-02T14:00:00.000Z",
+      "broadcast": "R/2022-10-02T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "beasttamer",
+      "begin": "2022-10-08T13:00:00.000Z",
+      "broadcast": "R/2022-10-08T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "564-2",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0073161",
+      "begin": "2022-10-08T13:00:00.000Z",
+      "broadcast": "R/2022-10-08T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "開除 貓耳"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "632762c12eaf6e578875f7b8"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "124956",
+      "begin": "2022-10-02T14:00:00.000Z",
+      "broadcast": "R/2022-10-02T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "mytv",
+      "id": "beasttamer0003_141604",
+      "begin": "2024-09-05T16:00:00.000Z",
+      "broadcast": "R/2024-09-05T16:00:00.000Z/P7D"
+    }
+  ]
 }

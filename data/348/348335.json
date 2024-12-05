@@ -149,5 +149,31 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "348335"
+    },
+    {
+      "site": "bilibili",
+      "id": "28235039",
+      "begin": "2021-09-15T15:00:01.000Z",
+      "broadcast": "R/2021-09-15T15:00:01.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0063381",
+      "begin": "2022-01-13T03:00:00.000Z",
+      "broadcast": "R/2022-01-13T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "61605cf72525b0000763a9a0"
+    },
+    {
+      "site": "mikan",
+      "id": "2543"
+    }
+  ]
 }

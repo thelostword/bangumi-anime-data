@@ -149,5 +149,27 @@
       "count": 12
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "46011"
+    },
+    {
+      "site": "nicovideo",
+      "id": "haganai2",
+      "begin": "2013-07-25T15:00:00.000Z",
+      "broadcast": "R/2013-07-25T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0017665",
+      "begin": "2018-08-15T03:00:00.000Z",
+      "broadcast": "R/2018-08-15T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "友+少"
+    }
+  ]
 }

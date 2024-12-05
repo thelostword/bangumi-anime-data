@@ -149,5 +149,27 @@
       "count": 10
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "c/cngva81rdw5b2sw",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "928"
+    },
+    {
+      "site": "nicovideo",
+      "id": "genshiken",
+      "begin": "2013-08-08T15:00:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "517",
+      "begin": "2004-10-09T16:00:00.000Z",
+      "broadcast": "R/2010-12-10T20:21:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,34 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "226190"
+    },
+    {
+      "site": "nicovideo",
+      "id": "fullmeta-movie",
+      "begin": "2020-03-20T06:00:00.000Z",
+      "broadcast": "R/2020-03-20T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "qq",
+      "id": "3/3hrtkoz5j352udw",
+      "begin": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "100772",
+      "begin": "2017-11-24T16:00:00.000Z",
+      "broadcast": "R/2018-06-12T09:35:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0047063",
+      "begin": "2020-03-13T03:00:00.000Z",
+      "broadcast": "R/2020-03-13T03:00:00.000Z/P7D"
+    }
+  ]
 }

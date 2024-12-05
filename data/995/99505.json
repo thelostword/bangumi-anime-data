@@ -149,5 +149,39 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrgif3ql",
+      "begin": "2014-07-03T14:30:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "99505"
+    },
+    {
+      "site": "nicovideo",
+      "id": "glasslip",
+      "begin": "2014-07-05T13:30:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0014648",
+      "begin": "2018-01-01T03:00:00.000Z",
+      "broadcast": "R/2018-01-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "GLASSLIP|璃之"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "54a55a5eff362c965be014c5"
+    },
+    {
+      "site": "mikan",
+      "id": "335"
+    }
+  ]
 }

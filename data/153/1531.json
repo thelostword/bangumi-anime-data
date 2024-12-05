@@ -149,5 +149,29 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "1531"
+    },
+    {
+      "site": "bilibili",
+      "id": "1406",
+      "begin": "2006-10-02T16:00:00.000Z",
+      "broadcast": "R/2011-03-19T06:20:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ghosthunt",
+      "begin": "2020-06-19T15:00:00.000Z",
+      "broadcast": "R/2020-06-19T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002579",
+      "begin": "2019-05-26T03:00:00.000Z",
+      "broadcast": "R/2019-05-26T03:00:00.000Z/P7D"
+    }
+  ]
 }

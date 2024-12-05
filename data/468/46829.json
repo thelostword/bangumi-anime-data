@@ -149,5 +149,38 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrgi9sa9",
+      "begin": "2014-09-12T06:35:09.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "46829"
+    },
+    {
+      "site": "nicovideo",
+      "id": "cdinaba",
+      "begin": "2013-01-11T16:00:00.000Z",
+      "broadcast": "R/2013-01-11T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "628",
+      "begin": "2013-01-03T16:00:00.000Z",
+      "broadcast": "R/2015-05-08T06:23:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0004300",
+      "begin": "2015-03-19T05:30:00.000Z",
+      "broadcast": "R/2015-03-19T05:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Q弟|Cuticle"
+    }
+  ]
 }

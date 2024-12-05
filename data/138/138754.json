@@ -149,5 +149,46 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "249bdf53795911e6b16e",
+      "begin": "2016-10-01T16:28:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "138754"
+    },
+    {
+      "site": "nicovideo",
+      "id": "UTAPRI-LS",
+      "begin": "2016-10-09T03:00:00.000Z",
+      "broadcast": "R/2016-10-09T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UcgiPBchlRn3LgdDfZMfQ10b",
+      "begin": "2019-11-10T16:00:00.000Z",
+      "broadcast": "R/2019-11-10T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0026815",
+      "begin": "2016-10-09T03:00:00.000Z",
+      "broadcast": "R/2016-10-09T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "歌之 STAR"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "57efc24fac5b9d0762d174f2"
+    },
+    {
+      "site": "mikan",
+      "id": "825"
+    }
+  ]
 }

@@ -129,5 +129,40 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "276051"
+    },
+    {
+      "site": "bilibili",
+      "id": "28222732",
+      "begin": "2019-10-02T11:30:00.000Z",
+      "broadcast": "R/2019-10-02T11:30:00.000Z/P7D"
+    },
+    {
+      "site": "qq",
+      "id": "l/l9g8xglsgi97ajj",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0042852",
+      "begin": "2019-10-03T03:00:00.000Z",
+      "broadcast": "R/2019-10-03T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Radiant S02|S2"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5d9392bf4e9c003faceb5c80"
+    },
+    {
+      "site": "mikan",
+      "id": "2052"
+    }
+  ]
 }

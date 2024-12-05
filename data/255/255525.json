@@ -149,5 +149,45 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "255525"
+    },
+    {
+      "site": "nicovideo",
+      "id": "movie-fgo-1wa",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "104702",
+      "begin": "2021-06-11T04:00:00.000Z",
+      "broadcast": "R/2021-06-11T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "20145109",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0057821",
+      "begin": "2021-05-01T03:00:00.000Z",
+      "broadcast": "R/2021-05-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "104702",
+      "begin": "2021-06-11T04:00:00.000Z",
+      "broadcast": "R/2021-06-11T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "2466"
+    }
+  ]
 }

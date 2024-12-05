@@ -149,5 +149,47 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5993",
+      "begin": "2017-04-07T13:30:00.000Z",
+      "broadcast": "R/2017-04-07T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "190907"
+    },
+    {
+      "site": "nicovideo",
+      "id": "hinakonote",
+      "begin": "2017-04-14T16:00:00.000Z",
+      "broadcast": "R/2017-04-14T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JgxwFThB5rk1sXCgsiWhHr6",
+      "begin": "2020-05-04T16:00:00.000Z",
+      "broadcast": "R/2020-05-04T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0028967",
+      "begin": "2019-09-28T03:00:00.000Z",
+      "broadcast": "R/2019-09-28T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "雛子"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "58df7d2279c3a0541f4b61e9"
+    },
+    {
+      "site": "mikan",
+      "id": "1233"
+    }
+  ]
 }

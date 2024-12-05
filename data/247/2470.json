@@ -149,5 +149,22 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "2470"
+    },
+    {
+      "site": "nicovideo",
+      "id": "manabi_straight",
+      "begin": "2017-10-01T03:00:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "1315",
+      "begin": "2007-01-06T16:00:00.000Z",
+      "broadcast": "R/2013-11-15T12:21:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,41 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5955",
+      "begin": "2017-04-15T03:00:00.000Z",
+      "broadcast": "R/2017-04-15T02:56:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "186220"
+    },
+    {
+      "site": "nicovideo",
+      "id": "twinangel-break",
+      "begin": "2017-04-17T15:30:00.000Z",
+      "broadcast": "R/2017-04-17T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0028968",
+      "begin": "2020-12-21T03:00:00.000Z",
+      "broadcast": "R/2020-12-21T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "快盜+break"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "58df7d6479c3a0541f4b61ed"
+    },
+    {
+      "site": "mikan",
+      "id": "1281"
+    }
+  ]
 }

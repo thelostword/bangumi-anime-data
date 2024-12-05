@@ -149,5 +149,28 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "w/wc73ikus18i9wm7",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "3444"
+    },
+    {
+      "site": "nicovideo",
+      "id": "okami",
+      "begin": "2012-09-05T06:00:00.000Z",
+      "broadcast": "R/2012-09-05T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0017675",
+      "begin": "2018-10-04T03:00:00.000Z",
+      "broadcast": "R/2018-10-04T03:00:00.000Z/P7D"
+    }
+  ]
 }

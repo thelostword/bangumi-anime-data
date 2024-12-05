@@ -149,5 +149,28 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "3183"
+    },
+    {
+      "site": "nicovideo",
+      "id": "bungakushoujo",
+      "begin": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "73292",
+      "begin": "2010-04-30T16:00:01.000Z",
+      "broadcast": "R/2016-04-13T03:12:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0013386",
+      "begin": "2020-03-06T03:00:00.000Z",
+      "broadcast": "R/2020-03-06T03:00:00.000Z/P7D"
+    }
+  ]
 }

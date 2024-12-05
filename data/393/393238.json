@@ -149,5 +149,79 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "393238"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28480899",
+      "begin": "2023-01-10T16:00:00.000Z",
+      "broadcast": "R/2023-01-10T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "mytv",
+      "id": "campfirecookinginanotherworldwithmyabsurdskill_137670",
+      "begin": "2023-01-10T16:00:00.000Z",
+      "broadcast": "R/2023-01-10T16:00:00.000Z/P7D",
+      "comment": "Animax版: campfirecookinginanotherworldwithmyabsurdskillani_138133"
+    },
+    {
+      "site": "netflix",
+      "id": "81672787",
+      "begin": "2023-02-11T16:00:00.000Z",
+      "broadcast": "R/2023-02-11T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "128538",
+      "begin": "2023-01-10T16:00:00.000Z",
+      "broadcast": "R/2023-01-10T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "20137870",
+      "begin": "2023-04-30T10:30:01.000Z",
+      "broadcast": "R/2023-04-30T10:30:01.000Z/P7D",
+      "comment": "中配: 21175371"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UcifrLPNwGRSBBAcvrNEPDrF",
+      "begin": "2023-10-30T14:24:03.391Z",
+      "broadcast": "R/2023-10-30T14:24:03.391Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0100101",
+      "begin": "2024-04-01T03:00:00.000Z",
+      "broadcast": "R/2024-04-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "536-6",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "128538",
+      "begin": "2023-01-10T16:00:00.000Z",
+      "broadcast": "R/2023-01-10T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "異世界 美食家"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "63b58c43441dff2ff8927e6b"
+    },
+    {
+      "site": "mikan",
+      "id": "2926"
+    }
+  ]
 }

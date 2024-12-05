@@ -149,5 +149,74 @@
       "count": 12
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "317613"
+    },
+    {
+      "site": "bilibili_tw",
+      "id": "28237179",
+      "begin": "2022-04-08T16:30:00.000Z",
+      "broadcast": "R/2022-04-08T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo",
+      "id": "28237259",
+      "begin": "2022-04-22T16:30:00.000Z",
+      "broadcast": "R/2022-04-22T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "114310",
+      "begin": "2022-04-08T16:30:00.000Z",
+      "broadcast": "R/2022-04-08T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "590ZZCGEwHyV",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "28237120",
+      "begin": "2022-04-28T16:00:01.000Z",
+      "broadcast": "R/2022-04-28T16:00:01.000Z/P7D",
+      "comment": "中配版: 20317229"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kaguya_love3",
+      "begin": "2022-04-11T03:00:00.000Z",
+      "broadcast": "R/2022-04-11T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "26-66",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "114310",
+      "begin": "2022-04-08T16:30:00.000Z",
+      "broadcast": "R/2022-04-08T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "輝夜姬 浪漫|3季|三季|3期|三期|S03|S3|3nd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "624774a670e8f89b23a18568"
+    },
+    {
+      "site": "unext",
+      "id": "SID0066874",
+      "begin": "2024-08-01T03:00:00.000Z",
+      "broadcast": "R/2024-08-01T03:00:00.000Z/P7D"
+    }
+  ]
 }

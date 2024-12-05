@@ -65,5 +65,28 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrjz44hh",
+      "begin": "2012-06-07T09:16:44.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "125562"
+    },
+    {
+      "site": "unext",
+      "id": "SID0003126",
+      "begin": "2019-06-25T03:00:00.000Z",
+      "broadcast": "R/2019-06-25T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "42466",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

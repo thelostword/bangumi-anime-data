@@ -149,5 +149,53 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "204855"
+    },
+    {
+      "site": "bilibili",
+      "id": "6301",
+      "begin": "2017-07-01T16:30:00.000Z",
+      "broadcast": "R/2017-07-01T16:30:03.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "80180849",
+      "begin": "2017-11-07T08:00:00.000Z",
+      "broadcast": "R/2017-12-01T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "fate-apocrypha",
+      "begin": "2022-02-18T03:00:00.000Z",
+      "broadcast": "R/2022-02-18T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "26-212",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0066389",
+      "begin": "2022-02-18T03:00:00.000Z",
+      "broadcast": "R/2022-02-18T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Apocrypha"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "59568274cc40e0d626c23504"
+    },
+    {
+      "site": "mikan",
+      "id": "1346"
+    }
+  ]
 }

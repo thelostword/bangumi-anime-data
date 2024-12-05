@@ -61,5 +61,17 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "141187"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kosys",
+      "begin": "2013-11-24T08:28:42.000Z",
+      "broadcast": "R/2013-11-24T08:28:42.000Z/P7D"
+    }
+  ]
 }

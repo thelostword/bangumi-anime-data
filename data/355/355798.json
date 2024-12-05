@@ -149,5 +149,41 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "355798"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "20197349",
+      "begin": "2023-04-07T17:05:01.000Z",
+      "broadcast": "R/2023-04-07T17:05:01.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "20266559",
+      "begin": "2023-06-05T12:00:00.000Z",
+      "broadcast": "R/2023-06-05T12:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0079941",
+      "begin": "2023-04-08T03:00:00.000Z",
+      "broadcast": "R/2023-04-08T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "總之 可愛 2季|二季|2期|二期|S02|S2|2nd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6425d64855eb4cdc768e399c"
+    },
+    {
+      "site": "mikan",
+      "id": "2999"
+    }
+  ]
 }

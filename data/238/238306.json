@@ -37,5 +37,17 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "238306"
+    },
+    {
+      "site": "nicovideo",
+      "id": "momonsandwitch",
+      "begin": "2014-03-08T05:01:15.000Z",
+      "broadcast": "R/2014-03-08T05:01:15.000Z/P7D"
+    }
+  ]
 }

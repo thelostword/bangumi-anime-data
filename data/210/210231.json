@@ -149,5 +149,64 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "210231"
+    },
+    {
+      "site": "bilibili",
+      "id": "6341",
+      "begin": "2017-07-14T16:30:00.000Z",
+      "broadcast": "R/2017-07-14T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh86w5p",
+      "begin": "2017-07-14T16:30:00.000Z"
+    },
+    {
+      "site": "nicovideo",
+      "id": "jigokushoujo",
+      "begin": "2017-07-17T03:00:00.000Z",
+      "broadcast": "R/2017-07-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "qq",
+      "id": "2/2zadx6oomc9dvpu",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "87677",
+      "begin": "2023-08-14T04:00:00.000Z",
+      "broadcast": "R/2023-08-14T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0030171",
+      "begin": "2019-03-07T03:00:00.000Z",
+      "broadcast": "R/2019-03-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "87677",
+      "begin": "2023-08-14T04:00:00.000Z",
+      "broadcast": "R/2023-08-14T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "地獄少女+宵伽"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5956824ccc40e0d626c234fc"
+    },
+    {
+      "site": "mikan",
+      "id": "1352"
+    }
+  ]
 }

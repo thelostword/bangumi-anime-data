@@ -149,5 +149,61 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "305621"
+    },
+    {
+      "site": "nicovideo",
+      "id": "anime-kings-raid",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "28229889",
+      "begin": "2020-10-02T17:23:01.000Z",
+      "broadcast": "R/2020-10-02T17:23:01.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "fbde1d02f143484baac5",
+      "begin": "2020-10-02T17:23:00.000Z",
+      "broadcast": "R/2020-10-02T17:23:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_1rfl8eqv7bx",
+      "begin": "2020-10-02T17:23:00.000Z",
+      "broadcast": "R/2020-10-02T17:23:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "113501",
+      "begin": "2020-10-02T17:23:00.000Z",
+      "broadcast": "R/2020-10-02T17:23:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0050930",
+      "begin": "2020-10-06T03:00:00.000Z",
+      "broadcast": "R/2020-10-06T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "113501",
+      "begin": "2020-10-02T17:23:00.000Z",
+      "broadcast": "R/2020-10-02T17:23:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5f75680b4b840abcfc63b1c2"
+    },
+    {
+      "site": "mikan",
+      "id": "2307"
+    }
+  ]
 }

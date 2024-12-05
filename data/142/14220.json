@@ -149,5 +149,31 @@
       "count": 14
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "14220"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kimiboku",
+      "begin": "2011-10-06T18:30:00.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "e18d679c61ad11e0bea1",
+      "begin": "2011-10-07T03:46:54.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0014520",
+      "begin": "2023-05-07T03:00:00.000Z",
+      "broadcast": "R/2023-05-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "年同|君と僕"
+    }
+  ]
 }

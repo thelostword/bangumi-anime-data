@@ -113,5 +113,31 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "319894"
+    },
+    {
+      "site": "nicovideo",
+      "id": "jimihen",
+      "begin": "2021-01-03T16:00:00.000Z",
+      "broadcast": "R/2021-01-03T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ff0433884202e4c2e99e1b4"
+    },
+    {
+      "site": "mikan",
+      "id": "2378"
+    },
+    {
+      "site": "unext",
+      "id": "SID0053464",
+      "begin": "2024-11-12T03:00:00.000Z",
+      "broadcast": "R/2024-11-12T03:00:00.000Z/P7D"
+    }
+  ]
 }

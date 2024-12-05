@@ -149,5 +149,35 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "194261"
+    },
+    {
+      "site": "nicovideo",
+      "id": "tenshi-no-3p",
+      "begin": "2017-07-17T15:00:00.000Z",
+      "broadcast": "R/2017-07-17T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0030226",
+      "begin": "2019-11-29T03:00:00.000Z",
+      "broadcast": "R/2019-11-29T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "天使的3P"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "59568169cc40e0d626c234c8"
+    },
+    {
+      "site": "mikan",
+      "id": "1353"
+    }
+  ]
 }

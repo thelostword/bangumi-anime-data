@@ -179,5 +179,53 @@
       "total_cont": 0
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "454630"
+    },
+    {
+      "site": "nicovideo",
+      "id": "miburoanime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0157083",
+      "begin": "2024-10-23T09:00:00.000Z",
+      "broadcast": "R/2024-10-23T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66fb601f89c3a6ce864cbcef"
+    },
+    {
+      "site": "mikan",
+      "id": "3493"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "135523",
+      "begin": "2024-10-19T10:00:00.000Z",
+      "broadcast": "R/2024-10-19T10:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "135523",
+      "begin": "2024-10-19T10:00:00.000Z",
+      "broadcast": "R/2024-10-19T10:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "19-205",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "青之壬生浪"
+    }
+  ]
 }

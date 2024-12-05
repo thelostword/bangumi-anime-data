@@ -149,5 +149,25 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "1715",
+      "begin": "2014-10-23T20:00:00.000Z",
+      "broadcast": "R/2011-06-29T02:14:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "106207"
+    },
+    {
+      "site": "dmhy",
+      "id": "蟲師+續"
+    },
+    {
+      "site": "mikan",
+      "id": "400"
+    }
+  ]
 }

@@ -28,5 +28,17 @@
     "score": 0
   },
   "tags": [],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "445008"
+    },
+    {
+      "site": "unext",
+      "id": "SID0003265",
+      "begin": "2014-10-29T06:00:00.000Z",
+      "broadcast": "R/2014-10-29T06:00:00.000Z/P7D"
+    }
+  ]
 }

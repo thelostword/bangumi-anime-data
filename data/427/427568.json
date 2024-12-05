@@ -149,5 +149,61 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "427568"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtRhFhprT0thU4VIhUPkvlSa",
+      "begin": "2023-10-05T15:30:00.000Z",
+      "broadcast": "R/2023-10-05T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jhose3mPurcK_gM8Dm1mQFZ",
+      "begin": "2023-10-05T15:30:00.000Z",
+      "broadcast": "R/2023-10-05T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "131472",
+      "begin": "2023-10-05T15:30:00.000Z",
+      "broadcast": "R/2023-10-05T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "168-54",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0091748",
+      "begin": "2023-10-05T15:00:00.000Z",
+      "broadcast": "R/2023-10-05T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "131472",
+      "begin": "2023-10-05T15:30:00.000Z",
+      "broadcast": "R/2023-10-05T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "65186f824c90aa63daeaa219"
+    },
+    {
+      "site": "mikan",
+      "id": "3175"
+    },
+    {
+      "site": "nicovideo",
+      "id": "anime-bikkuri-men",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

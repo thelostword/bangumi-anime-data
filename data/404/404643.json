@@ -93,5 +93,25 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "404643"
+    },
+    {
+      "site": "nicovideo",
+      "id": "fufukokan",
+      "begin": "2023-07-02T16:00:00.000Z",
+      "broadcast": "R/2023-07-02T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "64a6e82a3fcfea0007ab365f"
+    },
+    {
+      "site": "mikan",
+      "id": "3059"
+    }
+  ]
 }

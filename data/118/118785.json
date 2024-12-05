@@ -149,5 +149,44 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "mgtv",
+      "id": "157292",
+      "begin": ""
+    },
+    {
+      "site": "youku",
+      "id": "8f02e3561a5611e5b5ce",
+      "begin": "2015-07-02T17:30:00.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "a/a3xvy009de4vael",
+      "begin": "2015-07-02T17:30:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "118785"
+    },
+    {
+      "site": "unext",
+      "id": "SID0018892",
+      "begin": "2020-11-30T03:00:00.000Z",
+      "broadcast": "R/2020-11-30T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "亂步|Laplace"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5581291ca0b788232ee3508f"
+    },
+    {
+      "site": "mikan",
+      "id": "529"
+    }
+  ]
 }

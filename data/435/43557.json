@@ -149,5 +149,45 @@
       "count": 12
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "43557"
+    },
+    {
+      "site": "nicovideo",
+      "id": "oreshura",
+      "begin": "2013-01-10T15:30:00.000Z",
+      "broadcast": "R/2013-01-10T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "2667",
+      "begin": "2013-01-04T16:00:00.000Z",
+      "broadcast": "R/2014-08-01T11:21:00.000Z/P7D"
+    },
+    {
+      "site": "qq",
+      "id": "n/nhfc4stp0vrn3x7",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0002173",
+      "begin": "2013-01-31T06:00:00.000Z",
+      "broadcast": "R/2013-01-31T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "174-6",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "修羅場|shura"
+    }
+  ]
 }

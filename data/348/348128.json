@@ -149,5 +149,49 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "348128"
+    },
+    {
+      "site": "bilibili",
+      "id": "28339716",
+      "begin": "2022-12-18T11:00:00.000Z",
+      "broadcast": "R/2022-12-18T11:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtRtNNaDxSAwnfpJit_19WGf",
+      "begin": "2022-10-23T10:00:00.000Z",
+      "broadcast": "R/2022-10-23T10:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JglYLsUPMeExu8Yjn5hGYyn",
+      "begin": "2022-10-23T10:00:00.000Z",
+      "broadcast": "R/2022-10-23T10:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28340156",
+      "begin": "2022-10-24T10:00:01.000Z",
+      "broadcast": "R/2022-10-24T10:00:01.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0073162",
+      "begin": "2022-10-24T03:00:00.000Z",
+      "broadcast": "R/2022-10-24T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "不滅的你"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "632762c02eaf6e578875f7b4"
+    }
+  ]
 }

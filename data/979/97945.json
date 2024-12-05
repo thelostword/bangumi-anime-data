@@ -149,5 +149,30 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhb274p",
+      "begin": "2015-08-14T17:07:17.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "97945"
+    },
+    {
+      "site": "nicovideo",
+      "id": "matsutaro",
+      "begin": "2014-05-15T03:00:00.000Z",
+      "broadcast": "R/2014-05-15T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "松太|Matsutaro"
+    },
+    {
+      "site": "mikan",
+      "id": "319"
+    }
+  ]
 }

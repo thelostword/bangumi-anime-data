@@ -77,5 +77,16 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "82726"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhb54vl",
+      "begin": "2015-08-04T01:02:58.000Z"
+    }
+  ]
 }

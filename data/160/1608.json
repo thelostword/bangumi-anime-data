@@ -149,5 +149,46 @@
       "count": 22
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhb244t",
+      "begin": "2015-11-28T11:19:28.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "1608"
+    },
+    {
+      "site": "nicovideo",
+      "id": "SLAM_DUNK",
+      "begin": "2017-11-06T03:00:00.000Z"
+    },
+    {
+      "site": "viu",
+      "id": "6979",
+      "begin": "2015-12-17T16:00:00.000Z",
+      "broadcast": "R/2015-12-17T16:00:00.000Z/P7D",
+      "comment": "粵語版:126198"
+    },
+    {
+      "site": "abema",
+      "id": "5-33",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0002236",
+      "begin": "2017-04-20T03:00:00.000Z",
+      "broadcast": "R/2017-04-20T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "70024218",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

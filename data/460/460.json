@@ -149,5 +149,33 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "460"
+    },
+    {
+      "site": "qq",
+      "id": "z/z8alyhrvkd3jp2y",
+      "begin": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "2565",
+      "begin": "1998-03-06T16:00:00.000Z"
+    },
+    {
+      "site": "abema",
+      "id": "35-46",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0099863",
+      "begin": "2024-03-05T03:00:00.000Z",
+      "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+    }
+  ]
 }

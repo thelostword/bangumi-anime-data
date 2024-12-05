@@ -149,5 +149,60 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "28228420",
+      "begin": "2020-04-10T16:00:00.000Z",
+      "broadcast": "R/2020-04-10T18:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "294202"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UciCjc3y1gSBcZDLN602_sBG",
+      "begin": "2020-04-16T16:00:00.000Z",
+      "broadcast": "R/2020-04-16T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "108566",
+      "begin": "2020-04-10T18:00:00.000Z",
+      "broadcast": "R/2020-04-10T18:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_tw",
+      "id": "28228486",
+      "begin": "2020-04-10T18:00:00.000Z",
+      "broadcast": "R/2020-04-10T18:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0047165",
+      "begin": "2020-04-10T16:55:00.000Z",
+      "broadcast": "R/2020-04-10T16:55:00.000Z/P7D",
+      "comment": "AFTER / ANOTHER STORY: SID0047573"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "108566",
+      "begin": "2020-04-10T18:00:00.000Z",
+      "broadcast": "R/2020-04-10T18:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "ARGONAVIS"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5e82288a657e22f4195cc7a0"
+    },
+    {
+      "site": "mikan",
+      "id": "2218"
+    }
+  ]
 }

@@ -149,5 +149,39 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "424892"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtR75lvJrBUlZHQaGd0J8yBV",
+      "begin": "2023-10-09T16:00:00.000Z",
+      "broadcast": "R/2023-10-09T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JjmVgbQEBya4XiwhlfvjXlI",
+      "begin": "2023-10-09T16:00:00.000Z",
+      "broadcast": "R/2023-10-09T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "128617",
+      "begin": "2023-10-09T16:00:00.000Z",
+      "broadcast": "R/2023-10-09T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "5XUijmc2pLy9",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "65186f7a4c90aa63daeaa1ef"
+    }
+  ]
 }

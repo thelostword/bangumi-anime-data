@@ -105,5 +105,23 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "341513"
+    },
+    {
+      "site": "unext",
+      "id": "SID0058454",
+      "begin": "2021-07-16T08:00:00.000Z",
+      "broadcast": "R/2021-07-16T08:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "obeyme",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

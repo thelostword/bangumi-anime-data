@@ -149,5 +149,35 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrgif9il",
+      "begin": "2014-07-06T14:00:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "100501"
+    },
+    {
+      "site": "youku",
+      "id": "35ac94d0eebc11e3b8b7",
+      "begin": "2014-07-10T03:24:38.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0015370",
+      "begin": "2023-09-01T03:00:00.000Z",
+      "broadcast": "R/2023-09-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "space+dandy"
+    },
+    {
+      "site": "mikan",
+      "id": "340"
+    }
+  ]
 }

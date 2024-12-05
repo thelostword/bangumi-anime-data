@@ -149,5 +149,23 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "4371"
+    },
+    {
+      "site": "unext",
+      "id": "SID0058299",
+      "begin": "2021-06-14T03:00:00.000Z",
+      "broadcast": "R/2021-06-14T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "tenten-anime",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

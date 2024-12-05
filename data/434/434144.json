@@ -149,5 +149,71 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "434144"
+    },
+    {
+      "site": "unext",
+      "id": "SID0100082",
+      "begin": "2024-04-07T15:00:00.000Z",
+      "broadcast": "R/2024-04-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "420-65",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Ji3p2oPXSaDlUtzRI0be2_d",
+      "begin": "2024-04-07T15:00:07.000Z",
+      "broadcast": "R/2024-04-07T15:00:07.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtTpPAmFL_w5IByhmBv8C_9Y",
+      "begin": "2024-04-07T15:00:07.000Z",
+      "broadcast": "R/2024-04-07T15:00:07.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "132297",
+      "begin": "2024-04-07T15:00:00.000Z",
+      "broadcast": "R/2024-04-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "132297",
+      "begin": "2024-04-07T15:00:00.000Z",
+      "broadcast": "R/2024-04-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "貴族 鑑定"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66097bb616e6bbcc806d3402"
+    },
+    {
+      "site": "mikan",
+      "id": "3292"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kanteiskill",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "netflix",
+      "id": "81769856",
+      "begin": "2024-10-24T00:00:00.000Z",
+      "broadcast": "R/2024-10-24T00:00:00.000Z/P7D"
+    }
+  ]
 }

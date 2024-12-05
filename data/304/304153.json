@@ -61,5 +61,23 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "304153"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_2bzis94fbt9",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "28232323",
+      "begin": "2020-12-29T05:23:00.000Z",
+      "broadcast": "R/2020-12-29T05:23:00.000Z/P7D"
+    }
+  ]
 }

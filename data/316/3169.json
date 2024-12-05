@@ -149,5 +149,24 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "3169"
+    },
+    {
+      "site": "unext",
+      "id": "SID0016938",
+      "begin": "2022-07-31T15:00:00.000Z",
+      "broadcast": "R/2022-07-31T15:00:00.000Z/P7D",
+      "comment": "TV未放映話: SID0016939"
+    },
+    {
+      "site": "disneyplus",
+      "id": "6VTFnLWm3vOs",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

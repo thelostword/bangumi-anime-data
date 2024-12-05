@@ -149,5 +149,32 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "59117"
+    },
+    {
+      "site": "nicovideo",
+      "id": "makai-ouji",
+      "begin": "2013-07-08T14:00:00.000Z",
+      "broadcast": "R/2013-07-08T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "f0ab2acccfe011e296ac",
+      "begin": "2013-07-05T10:39:22.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0016933",
+      "begin": "2016-10-13T03:00:00.000Z",
+      "broadcast": "R/2016-10-13T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "界王"
+    }
+  ]
 }

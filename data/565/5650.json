@@ -149,5 +149,33 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "5650"
+    },
+    {
+      "site": "nicovideo",
+      "id": "campanella",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "4642",
+      "begin": "2010-07-01T16:00:01.000Z",
+      "broadcast": "R/2017-02-03T06:44:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002222",
+      "begin": "2019-05-12T03:00:00.000Z",
+      "broadcast": "R/2019-05-12T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "祝福+鐘"
+    }
+  ]
 }

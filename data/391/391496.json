@@ -149,5 +149,35 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "391496"
+    },
+    {
+      "site": "unext",
+      "id": "SID0104146",
+      "begin": "2024-07-12T15:00:00.000Z",
+      "broadcast": "R/2024-07-12T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6681471b57ba1568dc1b07de"
+    },
+    {
+      "site": "mikan",
+      "id": "3379"
+    },
+    {
+      "site": "abema",
+      "id": "25-267",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "異世界失格"
+    }
+  ]
 }

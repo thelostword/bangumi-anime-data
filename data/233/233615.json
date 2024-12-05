@@ -97,5 +97,33 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "233615"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh0cu8d",
+      "begin": "2018-03-02T02:03:06.000Z"
+    },
+    {
+      "site": "mgtv",
+      "id": "321908",
+      "begin": "2018-02-23T02:00:00.000Z"
+    },
+    {
+      "site": "nicovideo",
+      "id": "spiritpact2",
+      "begin": "2018-02-24T13:00:00.000Z",
+      "broadcast": "R/2018-02-24T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0033619",
+      "begin": "2018-02-25T03:00:00.000Z",
+      "broadcast": "R/2018-02-25T03:00:00.000Z/P7D"
+    }
+  ]
 }

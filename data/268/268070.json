@@ -149,5 +149,43 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "268070"
+    },
+    {
+      "site": "nicovideo",
+      "id": "araoto-anime",
+      "begin": "2019-07-08T17:55:00.000Z",
+      "broadcast": "R/2019-07-08T17:55:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_tw",
+      "id": "28221421",
+      "begin": "2019-07-05T18:55:00.000Z",
+      "broadcast": "R/2019-07-05T18:55:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0041951",
+      "begin": "2019-07-09T03:00:00.000Z",
+      "broadcast": "R/2019-07-09T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "194-10",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5d1b8391e0dc4c3cbb5c92f6"
+    },
+    {
+      "site": "mikan",
+      "id": "1988"
+    }
+  ]
 }

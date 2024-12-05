@@ -149,5 +149,49 @@
       "count": 17
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "4255"
+    },
+    {
+      "site": "nicovideo",
+      "id": "working",
+      "begin": "2011-09-24T11:00:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "866",
+      "begin": "2010-04-04T14:00:00.000Z",
+      "broadcast": "R/2017-11-14T23:02:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "f448df9c61ad11e0bea1",
+      "begin": "2011-09-14T17:06:07.000Z"
+    },
+    {
+      "site": "gamer",
+      "id": "30413",
+      "begin": "2020-12-01T02:50:00.000Z",
+      "broadcast": "R/2020-12-01T02:50:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002364",
+      "begin": "2021-01-07T03:00:00.000Z",
+      "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "30413",
+      "begin": "2020-12-01T02:50:00.000Z",
+      "broadcast": "R/2020-12-01T02:50:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "working|糊餐"
+    }
+  ]
 }

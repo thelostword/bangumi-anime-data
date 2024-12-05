@@ -149,5 +149,47 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "28228368",
+      "begin": "2020-04-03T18:25:00.000Z",
+      "broadcast": "R/2020-04-04T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "292359"
+    },
+    {
+      "site": "nicovideo",
+      "id": "namiyo-anime",
+      "begin": "2020-03-23T08:00:00.000Z",
+      "broadcast": "R/2020-03-23T08:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28228488",
+      "begin": "2020-04-04T16:30:00.000Z",
+      "broadcast": "R/2020-04-04T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0047158",
+      "begin": "2020-04-03T17:55:00.000Z",
+      "broadcast": "R/2020-04-03T17:55:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "聽 電波"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5e822882657e22f4195cc796"
+    },
+    {
+      "site": "mikan",
+      "id": "2208"
+    }
+  ]
 }

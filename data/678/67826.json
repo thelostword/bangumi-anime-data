@@ -149,5 +149,34 @@
       "count": 12
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "67826"
+    },
+    {
+      "site": "nicovideo",
+      "id": "strike-the-blood",
+      "begin": "2013-10-10T14:30:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0015336",
+      "begin": "2018-05-03T03:00:00.000Z",
+      "broadcast": "R/2018-05-03T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "血狂"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5c220ea0de4560f455f83ec1"
+    },
+    {
+      "site": "mikan",
+      "id": "198"
+    }
+  ]
 }

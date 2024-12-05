@@ -149,5 +149,33 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "285759"
+    },
+    {
+      "site": "abema",
+      "id": "35-46",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0099893",
+      "begin": "2024-03-05T03:00:00.000Z",
+      "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81403503",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "2403"
+    }
+  ]
 }

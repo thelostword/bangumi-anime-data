@@ -149,5 +149,23 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "348376"
+    },
+    {
+      "site": "nicovideo",
+      "id": "otoboku3",
+      "begin": "2022-10-28T03:00:00.000Z",
+      "broadcast": "R/2022-10-28T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0073859",
+      "begin": "2022-10-28T03:00:00.000Z",
+      "broadcast": "R/2022-10-28T03:00:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,67 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "354146"
+    },
+    {
+      "site": "gamer",
+      "id": "120292",
+      "begin": "2022-07-18T09:30:00.000Z",
+      "broadcast": "R/2022-07-18T09:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28338742",
+      "begin": "2022-07-18T09:30:00.000Z",
+      "broadcast": "R/2022-07-18T09:30:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UcjGNzDSO4-eIB0w9-Z9_InA",
+      "begin": "2022-07-18T09:30:00.000Z",
+      "broadcast": "R/2022-07-18T09:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28338505",
+      "begin": "2023-04-05T12:00:01.000Z",
+      "broadcast": "R/2023-04-05T12:00:01.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "13-151",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0069692",
+      "begin": "2022-07-19T10:00:00.000Z",
+      "broadcast": "R/2022-07-19T10:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "120292",
+      "begin": "2022-07-18T09:30:00.000Z",
+      "broadcast": "R/2022-07-18T09:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Love Live Superstar 二季|二期|S02"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "62c125a42fc3ee0d0016bf22"
+    },
+    {
+      "site": "nicovideo",
+      "id": "lovelive_yuigaoka",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

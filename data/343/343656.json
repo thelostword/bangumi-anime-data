@@ -149,5 +149,44 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "343656"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28237167",
+      "begin": "2022-04-01T17:25:00.000Z",
+      "broadcast": "R/2022-04-01T17:25:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28234872",
+      "begin": "2022-04-01T17:25:00.000Z",
+      "broadcast": "R/2022-04-01T17:25:00.000Z/P7D",
+      "comment": "中配版: 28338774"
+    },
+    {
+      "site": "nicovideo",
+      "id": "aharen",
+      "begin": "2022-04-08T03:00:00.000Z",
+      "broadcast": "R/2022-04-08T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0066841",
+      "begin": "2022-04-08T03:00:00.000Z",
+      "broadcast": "R/2022-04-08T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "阿波連"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "624774a870e8f89b23a18572"
+    }
+  ]
 }

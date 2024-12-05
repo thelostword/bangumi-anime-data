@@ -149,5 +149,41 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "8ada428acdbb11e3a705",
+      "begin": "2014-07-04T17:15:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "91420"
+    },
+    {
+      "site": "nicovideo",
+      "id": "railwars",
+      "begin": "2014-07-15T03:00:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "131872",
+      "begin": "2014-07-02T16:00:00.000Z",
+      "broadcast": "R/2018-09-07T11:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0011841",
+      "begin": "2023-09-15T03:00:00.000Z",
+      "broadcast": "R/2023-09-15T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "有鐵|RAIL+WARS"
+    },
+    {
+      "site": "mikan",
+      "id": "337"
+    }
+  ]
 }

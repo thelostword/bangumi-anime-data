@@ -149,5 +149,53 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "455835"
+    },
+    {
+      "site": "unext",
+      "id": "SID0100043",
+      "begin": "2024-04-07T13:00:00.000Z",
+      "broadcast": "R/2024-04-07T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtSacsDArfrWz-5jDT6iC9e5",
+      "begin": "2024-04-07T14:00:07.000Z",
+      "broadcast": "R/2024-04-07T14:00:07.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "21241720",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "135744",
+      "begin": "2024-04-07T14:00:00.000Z",
+      "broadcast": "R/2024-04-07T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "135744",
+      "begin": "2024-04-07T14:00:00.000Z",
+      "broadcast": "R/2024-04-07T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "死神 女僕 3季|三季|3期|三期|S03|S3|3rd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66097bb616e6bbcc806d33fe"
+    },
+    {
+      "site": "mikan",
+      "id": "3331"
+    }
+  ]
 }

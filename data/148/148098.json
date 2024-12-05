@@ -149,5 +149,22 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "148098"
+    },
+    {
+      "site": "unext",
+      "id": "SID0060099",
+      "begin": "2021-08-24T03:00:00.000Z",
+      "broadcast": "R/2021-08-24T03:00:00.000Z/P7D",
+      "comment": "弐ノ皿　OVA: SID0060100, 餐ノ皿　OVA: SID0060101"
+    },
+    {
+      "site": "mikan",
+      "id": "1328"
+    }
+  ]
 }

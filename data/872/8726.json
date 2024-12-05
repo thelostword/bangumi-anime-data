@@ -149,5 +149,23 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "8726"
+    },
+    {
+      "site": "gamer",
+      "id": "29758",
+      "begin": "2021-05-06T11:30:00.000Z",
+      "broadcast": "R/2021-05-06T11:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0052375",
+      "begin": "2020-12-15T03:00:00.000Z",
+      "broadcast": "R/2020-12-15T03:00:00.000Z/P7D"
+    }
+  ]
 }

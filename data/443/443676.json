@@ -149,5 +149,29 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "443676"
+    },
+    {
+      "site": "unext",
+      "id": "SID0157072",
+      "begin": "2024-10-10T15:00:00.000Z",
+      "broadcast": "R/2024-10-10T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66fb601489c3a6ce864cbca7"
+    },
+    {
+      "site": "mikan",
+      "id": "3439"
+    },
+    {
+      "site": "dmhy",
+      "id": "夏目友人帳 7季|七季|7期|七期|S07|S7|7th|柒|漆"
+    }
+  ]
 }

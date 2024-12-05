@@ -149,5 +149,32 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "351712"
+    },
+    {
+      "site": "netflix",
+      "id": "81313291",
+      "begin": "2023-01-31T16:00:00.000Z",
+      "broadcast": "R/2023-01-31T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "20144567",
+      "begin": "2023-04-01T12:00:01.000Z",
+      "broadcast": "R/2023-04-01T12:00:01.000Z/P7D",
+      "comment": "中配: 20144639"
+    },
+    {
+      "site": "dmhy",
+      "id": "犯澤"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "632762c62eaf6e578875f7c8"
+    }
+  ]
 }

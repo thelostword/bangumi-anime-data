@@ -149,5 +149,23 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "1415"
+    },
+    {
+      "site": "unext",
+      "id": "SID0052801",
+      "begin": "2020-11-12T03:00:00.000Z",
+      "broadcast": "R/2020-11-12T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ichigo100",
+      "begin": "2020-08-31T15:00:00.000Z",
+      "broadcast": "R/2020-08-31T15:00:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,28 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "j/j9j0tgpss02qg39",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "3175"
+    },
+    {
+      "site": "unext",
+      "id": "SID0016941",
+      "begin": "2019-12-02T03:00:00.000Z",
+      "broadcast": "R/2019-12-02T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "3LASMOXob8Fi",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

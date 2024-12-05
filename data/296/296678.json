@@ -149,5 +149,23 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "296678"
+    },
+    {
+      "site": "nicovideo",
+      "id": "maruruku",
+      "begin": "2022-07-20T16:00:00.000Z",
+      "broadcast": "R/2022-07-20T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0071308",
+      "begin": "2022-07-20T16:00:00.000Z",
+      "broadcast": "R/2022-07-20T16:00:00.000Z/P7D"
+    }
+  ]
 }

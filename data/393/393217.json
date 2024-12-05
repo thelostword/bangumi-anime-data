@@ -149,5 +149,41 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "393217"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28435387",
+      "begin": "2023-01-07T18:00:00.000Z",
+      "broadcast": "R/2023-01-07T18:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "roukin8-anime",
+      "begin": "2023-01-12T17:30:00.000Z",
+      "broadcast": "R/2023-01-12T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0076898",
+      "begin": "2023-01-12T17:30:00.000Z",
+      "broadcast": "R/2023-01-12T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "八萬金"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "63b58c57441dff2ff8927eb1"
+    },
+    {
+      "site": "mikan",
+      "id": "2897"
+    }
+  ]
 }

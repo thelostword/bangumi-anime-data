@@ -149,5 +149,41 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "217249"
+    },
+    {
+      "site": "bilibili",
+      "id": "77812",
+      "begin": "2018-04-05T15:00:00.000Z",
+      "broadcast": "R/2018-04-05T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "comic-girls",
+      "begin": "2018-04-08T15:00:00.000Z",
+      "broadcast": "R/2018-04-08T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0034193",
+      "begin": "2018-04-09T03:00:00.000Z",
+      "broadcast": "R/2018-04-09T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Comic+Girls"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ac0aa96395e2a122f10f04f"
+    },
+    {
+      "site": "mikan",
+      "id": "1596"
+    }
+  ]
 }

@@ -149,5 +149,40 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "8fd33520055d11e3a705",
+      "begin": "2013-10-06T07:48:34.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "n/nvaj06cswye3rv0",
+      "begin": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "460",
+      "begin": "2013-10-04T16:00:00.000Z",
+      "broadcast": "R/2016-02-16T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "79467"
+    },
+    {
+      "site": "nicovideo",
+      "id": "voicetorm7_anime",
+      "begin": "2013-10-11T15:00:00.000Z"
+    },
+    {
+      "site": "dmhy",
+      "id": "優戰"
+    },
+    {
+      "site": "mikan",
+      "id": "215"
+    }
+  ]
 }

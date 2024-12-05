@@ -149,5 +149,29 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "192906"
+    },
+    {
+      "site": "nicovideo",
+      "id": "berserk-anime",
+      "begin": "2016-07-24T03:00:00.000Z",
+      "broadcast": "R/2016-07-24T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "烙印|剑風|berserk"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "58df7daf79c3a0541f4b61ef"
+    },
+    {
+      "site": "mikan",
+      "id": "1301"
+    }
+  ]
 }

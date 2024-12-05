@@ -149,5 +149,20 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "7882"
+    },
+    {
+      "site": "youku",
+      "id": "fd5a8b8061ad11e0bea1",
+      "begin": "2012-11-27T08:09:03.000Z"
+    },
+    {
+      "site": "dmhy",
+      "id": "信蜂"
+    }
+  ]
 }

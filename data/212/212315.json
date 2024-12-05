@@ -149,5 +149,29 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "212315"
+    },
+    {
+      "site": "bilibili",
+      "id": "6454",
+      "begin": "2017-10-07T11:00:00.000Z",
+      "broadcast": "R/2017-10-07T11:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Classica+Loid"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "59d0cb74fb34aac154710bb1"
+    },
+    {
+      "site": "mikan",
+      "id": "1432"
+    }
+  ]
 }

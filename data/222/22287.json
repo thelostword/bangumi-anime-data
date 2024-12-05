@@ -149,5 +149,37 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "22287"
+    },
+    {
+      "site": "nicovideo",
+      "id": "milky-holmes2",
+      "begin": "2012-01-08T17:30:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "1692",
+      "begin": "2012-01-04T16:00:00.000Z",
+      "broadcast": "R/2012-01-02T12:30:00.000Z/P7D"
+    },
+    {
+      "site": "qq",
+      "id": "2/25oote9dps8lvmb",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0017793",
+      "begin": "2024-01-31T15:00:00.000Z",
+      "broadcast": "R/2024-01-31T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "歌劇+第二|s2"
+    }
+  ]
 }

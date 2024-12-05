@@ -149,5 +149,36 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "228898"
+    },
+    {
+      "site": "nicovideo",
+      "id": "himotehouse_anime",
+      "begin": "2018-10-11T15:00:00.000Z",
+      "broadcast": "R/2018-10-11T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "9fd74b2316b7497496d5",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0037597",
+      "begin": "2018-10-19T03:00:00.000Z",
+      "broadcast": "R/2018-10-19T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5bb19cd29b9493607ff72671"
+    },
+    {
+      "site": "mikan",
+      "id": "1786"
+    }
+  ]
 }

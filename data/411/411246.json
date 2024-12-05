@@ -149,5 +149,17 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "411246"
+    },
+    {
+      "site": "abema",
+      "id": "2-14",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

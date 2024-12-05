@@ -89,5 +89,37 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "240592"
+    },
+    {
+      "site": "nicovideo",
+      "id": "youkai-watch-ss",
+      "begin": "2018-04-20T03:00:00.000Z",
+      "broadcast": "R/2018-04-20T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mgtv",
+      "id": "328224",
+      "begin": ""
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrgypix1",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0035200",
+      "begin": "2018-05-25T03:00:00.000Z",
+      "broadcast": "R/2018-05-25T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ac0aaa5395e2a122f10f06d"
+    }
+  ]
 }

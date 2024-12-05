@@ -149,5 +149,41 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "260736"
+    },
+    {
+      "site": "nicovideo",
+      "id": "koipro-anime",
+      "begin": "2020-07-18T03:00:00.000Z",
+      "broadcast": "R/2020-07-18T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0049165",
+      "begin": "2020-07-15T15:00:00.000Z",
+      "broadcast": "R/2020-07-15T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "481-4",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "戀與製作人"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5efff2fcc4be624128fcd34c"
+    },
+    {
+      "site": "mikan",
+      "id": "2256"
+    }
+  ]
 }

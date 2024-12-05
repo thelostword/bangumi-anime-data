@@ -149,5 +149,29 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "143558"
+    },
+    {
+      "site": "unext",
+      "id": "SID0023537",
+      "begin": "2019-08-01T03:00:00.000Z",
+      "broadcast": "R/2019-08-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "星異+Rev"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "56fd5b85c6dbe72e14a0d368"
+    },
+    {
+      "site": "mikan",
+      "id": "689"
+    }
+  ]
 }

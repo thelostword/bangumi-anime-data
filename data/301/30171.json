@@ -125,5 +125,16 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "30171"
+    },
+    {
+      "site": "bilibili",
+      "id": "2475",
+      "begin": "1975-10-04T16:00:00.000Z"
+    }
+  ]
 }

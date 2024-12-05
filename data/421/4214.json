@@ -149,5 +149,23 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "4214"
+    },
+    {
+      "site": "nicovideo",
+      "id": "mariasama",
+      "begin": "2019-10-16T15:00:00.000Z",
+      "broadcast": "R/2019-10-16T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002883",
+      "begin": "2019-10-20T03:00:00.000Z",
+      "broadcast": "R/2019-10-20T03:00:00.000Z/P7D"
+    }
+  ]
 }

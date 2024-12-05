@@ -149,5 +149,35 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "136336"
+    },
+    {
+      "site": "nicovideo",
+      "id": "utawarerumono02",
+      "begin": "2015-10-09T15:00:00.000Z",
+      "broadcast": "R/2015-10-09T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0020390",
+      "begin": "2015-10-10T03:00:00.000Z",
+      "broadcast": "R/2015-10-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "頌+面"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "560d113e9286e15329cf9508"
+    },
+    {
+      "site": "mikan",
+      "id": "587"
+    }
+  ]
 }

@@ -129,5 +129,21 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "207664"
+    },
+    {
+      "site": "unext",
+      "id": "SID0035476",
+      "begin": "2020-07-06T03:00:00.000Z",
+      "broadcast": "R/2020-07-06T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "1573"
+    }
+  ]
 }

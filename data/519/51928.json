@@ -149,5 +149,56 @@
       "count": 34
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrjwiwi1",
+      "begin": "2013-04-13T02:08:44.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "51928"
+    },
+    {
+      "site": "nicovideo",
+      "id": "railgun-s",
+      "begin": "2013-04-19T14:00:00.000Z",
+      "broadcast": "R/2013-04-19T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "427",
+      "begin": "2013-04-11T16:00:00.000Z",
+      "broadcast": "R/2015-10-01T05:24:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UchL8hhmBeb-W17GFGnEhbQS",
+      "begin": "2019-07-17T16:00:00.000Z",
+      "broadcast": "R/2019-07-17T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "58442",
+      "begin": "2018-06-27T06:30:00.000Z",
+      "broadcast": "R/2018-06-27T06:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0015839",
+      "begin": "2018-05-05T03:00:00.000Z",
+      "broadcast": "R/2018-05-05T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "58442",
+      "begin": "2018-06-27T06:30:00.000Z",
+      "broadcast": "R/2018-06-27T06:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "超電磁"
+    }
+  ]
 }

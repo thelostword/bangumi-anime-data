@@ -149,5 +149,32 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "38070"
+    },
+    {
+      "site": "nicovideo",
+      "id": "movie-ao-ex",
+      "begin": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "3543",
+      "begin": "2012-12-27T16:00:01.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "32de0234013e11e1a046",
+      "begin": "2013-07-02T08:59:44.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0055825",
+      "begin": "2021-02-26T03:00:00.000Z",
+      "broadcast": "R/2021-02-26T03:00:00.000Z/P7D"
+    }
+  ]
 }

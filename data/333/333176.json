@@ -149,5 +149,67 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "333176"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28237194",
+      "begin": "2022-04-10T12:00:00.000Z",
+      "broadcast": "R/2022-04-10T12:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "116930",
+      "begin": "2022-04-10T12:00:00.000Z",
+      "broadcast": "R/2022-04-10T12:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Ji_dqdq_OJX1NNW2ER9u6Tt",
+      "begin": "2022-04-09T14:00:00.000Z",
+      "broadcast": "R/2022-04-09T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "viu",
+      "id": "431920",
+      "begin": "2022-04-09T16:00:00.000Z",
+      "broadcast": "R/2022-04-09T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28237266",
+      "begin": "2022-04-24T12:00:01.000Z",
+      "broadcast": "R/2022-04-24T12:00:01.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kono-healer-anime",
+      "begin": "2022-04-17T12:30:00.000Z",
+      "broadcast": "R/2022-04-17T12:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0066879",
+      "begin": "2022-04-17T12:30:00.000Z",
+      "broadcast": "R/2022-04-17T12:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "116930",
+      "begin": "2022-04-10T12:00:00.000Z",
+      "broadcast": "R/2022-04-10T12:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "僧侶 煩"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6247749b70e8f89b23a1852c"
+    }
+  ]
 }

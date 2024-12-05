@@ -149,5 +149,35 @@
       "count": 21
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "2790"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kiminitodoke01",
+      "begin": "2014-04-15T06:00:00.000Z",
+      "broadcast": "R/2014-04-15T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "80236253",
+      "begin": "2022-10-31T00:00:00.000Z",
+      "broadcast": "R/2022-10-31T00:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002538",
+      "begin": "2020-06-29T03:00:00.000Z",
+      "broadcast": "R/2020-06-29T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "143-43",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

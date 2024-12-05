@@ -149,5 +149,23 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "312314"
+    },
+    {
+      "site": "nicovideo",
+      "id": "banseigai",
+      "begin": "2022-11-11T15:30:00.000Z",
+      "broadcast": "R/2022-11-11T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "26-176",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

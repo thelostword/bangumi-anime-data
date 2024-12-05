@@ -149,5 +149,17 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "4185"
+    },
+    {
+      "site": "nicovideo",
+      "id": "mezzo",
+      "begin": "2014-03-21T03:00:00.000Z",
+      "broadcast": "R/2014-03-21T03:00:00.000Z/P7D"
+    }
+  ]
 }

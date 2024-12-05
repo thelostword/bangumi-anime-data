@@ -149,5 +149,53 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "326867"
+    },
+    {
+      "site": "gamer",
+      "id": "115682",
+      "begin": "2023-10-06T13:30:00.000Z",
+      "broadcast": "R/2023-10-06T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "viu",
+      "id": "2251141",
+      "begin": "2023-10-05T16:00:00.000Z",
+      "broadcast": "R/2023-10-05T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "goblinslayer2",
+      "begin": "2023-10-09T15:00:00.000Z",
+      "broadcast": "R/2023-10-09T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "174-10",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0092057",
+      "begin": "2023-10-09T15:00:00.000Z",
+      "broadcast": "R/2023-10-09T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "哥布林殺手 二季|II"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "65186f854c90aa63daeaa229"
+    },
+    {
+      "site": "mikan",
+      "id": "3164"
+    }
+  ]
 }

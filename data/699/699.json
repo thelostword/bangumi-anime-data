@@ -149,5 +149,30 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "699"
+    },
+    {
+      "site": "bilibili",
+      "id": "5382",
+      "begin": "2008-04-04T16:00:00.000Z",
+      "broadcast": "R/2016-07-26T09:24:00.000Z/P7D",
+      "comment": "中文: 1250"
+    },
+    {
+      "site": "nicovideo",
+      "id": "blassreiter",
+      "begin": "2019-08-04T15:00:00.000Z",
+      "broadcast": "R/2019-08-04T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002839",
+      "begin": "2015-02-16T15:00:00.000Z",
+      "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+    }
+  ]
 }

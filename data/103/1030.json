@@ -149,5 +149,28 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "1030"
+    },
+    {
+      "site": "nicovideo",
+      "id": "rahxephon",
+      "begin": "2012-05-02T06:00:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "2079",
+      "begin": "2002-01-20T16:00:00.000Z",
+      "broadcast": "R/2016-05-04T08:38:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0017327",
+      "begin": "2019-09-30T03:00:00.000Z",
+      "broadcast": "R/2019-09-30T03:00:00.000Z/P7D"
+    }
+  ]
 }

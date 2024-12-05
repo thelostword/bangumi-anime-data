@@ -149,5 +149,36 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "6e3c74d250ba11e3b8b7",
+      "begin": "2014-01-09T20:30:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "80838"
+    },
+    {
+      "site": "nicovideo",
+      "id": "sakuratrick",
+      "begin": "2014-01-21T15:00:00.000Z",
+      "broadcast": "R/2014-01-21T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0003213",
+      "begin": "2022-04-27T03:00:00.000Z",
+      "broadcast": "R/2022-04-27T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "櫻+Trick"
+    },
+    {
+      "site": "mikan",
+      "id": "244"
+    }
+  ]
 }

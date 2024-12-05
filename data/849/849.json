@@ -149,5 +149,29 @@
       "count": 11
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "849"
+    },
+    {
+      "site": "nicovideo",
+      "id": "to-love-ru",
+      "begin": "2012-10-17T06:00:00.000Z",
+      "broadcast": "R/2012-10-17T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "19-179",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0011505",
+      "begin": "2019-12-08T03:00:00.000Z",
+      "broadcast": "R/2019-12-08T03:00:00.000Z/P7D"
+    }
+  ]
 }

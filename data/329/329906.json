@@ -149,5 +149,94 @@
       "count": 15
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "329906"
+    },
+    {
+      "site": "bilibili",
+      "id": "28237119",
+      "begin": "2022-04-30T13:00:01.000Z",
+      "broadcast": "R/2022-04-30T13:00:01.000Z/P7D",
+      "comment": "中配版: 28340196, 粤配版: 28339619"
+    },
+    {
+      "site": "gamer",
+      "id": "120396",
+      "begin": "2022-04-09T15:00:00.000Z",
+      "broadcast": "R/2022-04-09T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28237178",
+      "begin": "2022-04-09T15:00:00.000Z",
+      "broadcast": "R/2022-04-09T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Uci5zu1j1yepRZKLSGN_4zQn",
+      "begin": "2022-08-14T16:00:00.000Z",
+      "broadcast": "R/2022-08-14T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "viu",
+      "id": "453825",
+      "begin": "2022-09-27T16:00:00.000Z",
+      "broadcast": "R/2022-09-27T16:00:00.000Z/P7D",
+      "comment": "粵語版: 454328"
+    },
+    {
+      "site": "netflix",
+      "id": "81511410",
+      "begin": "2022-04-09T15:00:00.000Z",
+      "broadcast": "R/2022-04-09T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "fet1h9jqmrAM",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili_hk_mo",
+      "id": "28338796",
+      "begin": "2022-09-30T10:00:01.000Z",
+      "broadcast": "R/2022-09-30T10:00:01.000Z/P7D",
+      "comment": "粵配版"
+    },
+    {
+      "site": "abema",
+      "id": "19-86",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0066846",
+      "begin": "2022-04-09T14:30:00.000Z",
+      "broadcast": "R/2022-04-09T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "120396",
+      "begin": "2022-04-09T15:00:00.000Z",
+      "broadcast": "R/2022-04-09T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "間諜 FAMILY"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "624774aa70e8f89b23a1857e"
+    },
+    {
+      "site": "nicovideo",
+      "id": "spy-family",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

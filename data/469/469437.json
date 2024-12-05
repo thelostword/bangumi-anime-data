@@ -117,5 +117,31 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "469437"
+    },
+    {
+      "site": "unext",
+      "id": "SID0096698",
+      "begin": "2024-01-17T14:30:00.000Z",
+      "broadcast": "R/2024-01-17T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "216-20",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6591429db885a81efda115b6"
+    },
+    {
+      "site": "mikan",
+      "id": "3238"
+    }
+  ]
 }

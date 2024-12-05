@@ -149,5 +149,26 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "11058"
+    },
+    {
+      "site": "nicovideo",
+      "id": "majikoi",
+      "begin": "2011-10-08T14:30:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0003333",
+      "begin": "2019-09-01T03:00:00.000Z",
+      "broadcast": "R/2019-09-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "真+戀愛"
+    }
+  ]
 }

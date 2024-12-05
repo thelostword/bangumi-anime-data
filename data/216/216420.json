@@ -81,5 +81,22 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "216420"
+    },
+    {
+      "site": "nicovideo",
+      "id": "midnight-crazy-trail",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0036424",
+      "begin": "2018-08-17T03:00:00.000Z",
+      "broadcast": "R/2018-08-17T03:00:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,33 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "10799"
+    },
+    {
+      "site": "nicovideo",
+      "id": "hagaren-milos",
+      "begin": ""
+    },
+    {
+      "site": "youku",
+      "id": "f695e34ab2b511e0a046",
+      "begin": "2012-03-16T15:37:24.000Z"
+    },
+    {
+      "site": "gamer",
+      "id": "38232",
+      "begin": "2020-12-31T16:00:00.000Z",
+      "broadcast": "R/2020-12-31T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0011591",
+      "begin": "2021-01-07T03:00:00.000Z",
+      "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
+    }
+  ]
 }

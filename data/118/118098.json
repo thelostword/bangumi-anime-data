@@ -149,5 +149,22 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "118098"
+    },
+    {
+      "site": "nicovideo",
+      "id": "movie-sidonia",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0042917",
+      "begin": "2019-09-10T03:00:00.000Z",
+      "broadcast": "R/2019-09-10T03:00:00.000Z/P7D"
+    }
+  ]
 }

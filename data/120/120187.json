@@ -149,5 +149,79 @@
       "count": 11
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "mgtv",
+      "id": "291320",
+      "begin": ""
+    },
+    {
+      "site": "youku",
+      "id": "c4d8c0401afb11e5b5ce",
+      "begin": "2015-07-08T19:14:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "2580",
+      "begin": "2015-07-08T19:14:00.000Z",
+      "broadcast": "R/2015-07-08T19:14:00.000Z/P7D",
+      "comment": "中配版: 28234567, 粤配版: 28236459"
+    },
+    {
+      "site": "qq",
+      "id": "3/3lriily11h16j01",
+      "begin": "2015-07-08T19:14:00.000Z"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhb5bo5",
+      "begin": "2015-07-08T19:14:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "120187"
+    },
+    {
+      "site": "acfun",
+      "id": "5025415",
+      "begin": "2019-09-03T07:39:20.000Z"
+    },
+    {
+      "site": "gamer",
+      "id": "74560",
+      "begin": "2021-03-05T03:00:00.000Z",
+      "broadcast": "R/2021-03-05T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0019009",
+      "begin": "2019-12-24T03:00:00.000Z",
+      "broadcast": "R/2019-12-24T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "74560",
+      "begin": "2021-03-05T03:00:00.000Z",
+      "broadcast": "R/2021-03-05T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "物妹|小埋"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "557b9d19a0b788232ee35009"
+    },
+    {
+      "site": "mikan",
+      "id": "565"
+    },
+    {
+      "site": "nicovideo",
+      "id": "umaru-anime",
+      "begin": "2015-07-20T13:00:00.000Z",
+      "broadcast": "R/2015-07-20T13:00:00.000Z/P7D"
+    }
+  ]
 }

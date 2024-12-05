@@ -149,5 +149,46 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "69494"
+    },
+    {
+      "site": "nicovideo",
+      "id": "gatchaman-crowds",
+      "begin": "2015-06-28T15:30:00.000Z",
+      "broadcast": "R/2015-06-28T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "520",
+      "begin": "2013-07-11T16:00:00.000Z",
+      "broadcast": "R/2013-07-13T02:54:00.000Z/P7D",
+      "comment": "SP: 5421"
+    },
+    {
+      "site": "gamer",
+      "id": "61305",
+      "begin": "2020-02-27T03:00:00.000Z",
+      "broadcast": "R/2020-02-27T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002523",
+      "begin": "2019-08-26T03:00:00.000Z",
+      "broadcast": "R/2019-08-26T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "CROWDS"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "61305",
+      "begin": "2020-02-27T03:00:00.000Z",
+      "broadcast": "R/2020-02-27T03:00:00.000Z/P7D"
+    }
+  ]
 }

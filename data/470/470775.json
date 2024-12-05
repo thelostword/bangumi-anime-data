@@ -28,5 +28,56 @@
     "score": 10
   },
   "tags": [],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "470775"
+    },
+    {
+      "site": "unext",
+      "id": "SID0157079",
+      "begin": "2024-10-02T14:30:00.000Z",
+      "broadcast": "R/2024-10-02T14:30:00.000Z/P7D",
+      "comment": "オーディオコメンタリー: SID0158739"
+    },
+    {
+      "site": "abema",
+      "id": "168-69",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66fb601589c3a6ce864cbcaf"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "137916",
+      "begin": "2024-09-29T15:30:00.000Z",
+      "broadcast": "R/2024-09-29T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Ucj22Vu3BkP9EUDGY58fFvtW",
+      "begin": "2024-09-29T15:30:21.000Z",
+      "broadcast": "R/2024-09-29T15:30:21.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "137916",
+      "begin": "2024-09-29T15:30:00.000Z",
+      "broadcast": "R/2024-09-29T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "nageki-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "亡靈 隱退"
+    }
+  ]
 }

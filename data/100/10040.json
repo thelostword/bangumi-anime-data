@@ -149,5 +149,26 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "10040"
+    },
+    {
+      "site": "nicovideo",
+      "id": "freezing",
+      "begin": "2013-09-09T06:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0011713",
+      "begin": "2020-12-21T03:00:00.000Z",
+      "broadcast": "R/2020-12-21T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "freezing|零度戰姬|結界女王"
+    }
+  ]
 }

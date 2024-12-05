@@ -149,5 +149,36 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "78542"
+    },
+    {
+      "site": "nicovideo",
+      "id": "tokyo-ravens",
+      "begin": "2013-10-16T16:00:00.000Z"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28221536",
+      "begin": "2019-07-08T07:07:25.000Z",
+      "broadcast": "R/2019-07-08T07:07:25.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0015880",
+      "begin": "2020-02-19T03:00:00.000Z",
+      "broadcast": "R/2020-02-19T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "京+鴉"
+    },
+    {
+      "site": "mikan",
+      "id": "197"
+    }
+  ]
 }

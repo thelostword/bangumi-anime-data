@@ -149,5 +149,63 @@
       "count": 20
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh92469",
+      "begin": "2017-01-17T01:00:16.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "3365",
+      "begin": "2013-10-01T16:00:00.000Z",
+      "broadcast": "R/2016-02-25T02:58:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "49278"
+    },
+    {
+      "site": "nicovideo",
+      "id": "anime-kyokai",
+      "begin": ""
+    },
+    {
+      "site": "qq",
+      "id": "f/fqmeepfzguwa0yh",
+      "begin": ""
+    },
+    {
+      "site": "youku",
+      "id": "28326c66ff2b11e28b3f",
+      "begin": "2020-02-17T09:32:57.000Z"
+    },
+    {
+      "site": "gamer",
+      "id": "61095",
+      "begin": "2021-04-01T02:00:00.000Z",
+      "broadcast": "R/2021-04-01T02:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0003203",
+      "begin": "2022-04-01T03:00:00.000Z",
+      "broadcast": "R/2022-04-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "viu",
+      "id": "2306268",
+      "begin": "2024-02-09T09:00:17.000Z",
+      "broadcast": "R/2024-02-09T09:00:17.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "境界的"
+    },
+    {
+      "site": "mikan",
+      "id": "203"
+    }
+  ]
 }

@@ -149,5 +149,23 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "339998"
+    },
+    {
+      "site": "nicovideo",
+      "id": "magireco_3rd",
+      "begin": "2022-04-06T03:00:00.000Z",
+      "broadcast": "R/2022-04-06T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0068004",
+      "begin": "2022-04-06T03:00:00.000Z",
+      "broadcast": "R/2022-04-06T03:00:00.000Z/P7D"
+    }
+  ]
 }

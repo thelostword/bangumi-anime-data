@@ -149,5 +149,46 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "211936"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh8319h",
+      "begin": "2017-07-09T14:30:00.000Z"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jh56pZmXUN4hXRLtCx_0r3r",
+      "begin": "2021-08-21T16:00:00.000Z",
+      "broadcast": "R/2021-08-21T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0029975",
+      "begin": "2017-10-01T03:00:00.000Z",
+      "broadcast": "R/2017-10-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Princess+Principal"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "595682c9cc40e0d626c2351c"
+    },
+    {
+      "site": "mikan",
+      "id": "1347"
+    },
+    {
+      "site": "nicovideo",
+      "id": "pripri-anime",
+      "begin": "2017-07-12T03:00:00.000Z",
+      "broadcast": "R/2017-07-12T03:00:00.000Z/P7D"
+    }
+  ]
 }

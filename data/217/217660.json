@@ -149,5 +149,73 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "217660"
+    },
+    {
+      "site": "bilibili",
+      "id": "4316482",
+      "begin": "2019-01-02T15:00:00.000Z",
+      "broadcast": "R/2019-01-02T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "shieldhero-anime",
+      "begin": "2019-01-16T15:00:00.000Z",
+      "broadcast": "R/2019-01-16T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JjUjfr2UrjZKrFVcLXLZFrE",
+      "begin": "2022-04-13T16:00:00.000Z",
+      "broadcast": "R/2022-04-13T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "4lgHH2jdAefe",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "89735",
+      "begin": "2022-04-26T03:00:00.000Z",
+      "broadcast": "R/2022-04-26T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81058649",
+      "begin": "2022-09-19T16:00:00.000Z",
+      "broadcast": "R/2022-09-19T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-109",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0039229",
+      "begin": "2019-01-17T03:00:00.000Z",
+      "broadcast": "R/2019-01-17T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "89735",
+      "begin": "2022-04-26T03:00:00.000Z",
+      "broadcast": "R/2022-04-26T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5c2b730d96ff38314480b5ec"
+    },
+    {
+      "site": "mikan",
+      "id": "1838"
+    }
+  ]
 }

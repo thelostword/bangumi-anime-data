@@ -149,5 +149,63 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "217629"
+    },
+    {
+      "site": "bilibili",
+      "id": "13092",
+      "begin": "2018-01-08T18:05:00.000Z",
+      "broadcast": "R/2018-01-08T18:05:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh1qfh9",
+      "begin": "2018-01-08T18:05:00.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "efbfbd65efbfbd53efbf",
+      "begin": "2018-01-08T18:05:00.000Z"
+    },
+    {
+      "site": "netflix",
+      "id": "80061943",
+      "begin": "2021-01-30T16:00:00.000Z",
+      "broadcast": "R/2021-01-30T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "90103",
+      "begin": "2021-01-28T03:00:00.000Z",
+      "broadcast": "R/2021-01-28T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0032895",
+      "begin": "2018-01-12T03:00:00.000Z",
+      "broadcast": "R/2018-01-12T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "90103",
+      "begin": "2021-01-28T03:00:00.000Z",
+      "broadcast": "R/2021-01-28T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "飆速+Glory+Line"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5a4313f117d48cbd4a9625c4"
+    },
+    {
+      "site": "mikan",
+      "id": "1510"
+    }
+  ]
 }

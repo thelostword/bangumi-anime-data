@@ -149,5 +149,41 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "2744",
+      "begin": "2015-10-04T14:00:00.000Z",
+      "broadcast": "R/2015-10-04T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "138205"
+    },
+    {
+      "site": "nicovideo",
+      "id": "komori-anime",
+      "begin": "2015-10-11T13:00:00.000Z",
+      "broadcast": "R/2015-10-11T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0042775",
+      "begin": "2019-10-24T03:00:00.000Z",
+      "broadcast": "R/2019-10-24T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "森拒"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "560d12b99286e15329cf951c"
+    },
+    {
+      "site": "mikan",
+      "id": "600"
+    }
+  ]
 }

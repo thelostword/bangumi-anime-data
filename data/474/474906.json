@@ -149,5 +149,71 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "474906"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6681472957ba1568dc1b0820"
+    },
+    {
+      "site": "abema",
+      "id": "12-25",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtS092epDz2jxQkCRT67XfSd",
+      "begin": "2024-07-06T18:00:00.000Z",
+      "broadcast": "R/2024-07-06T18:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JiywGHdQ_PsbRUNdj5f7h8H",
+      "begin": "2024-07-06T18:00:00.000Z",
+      "broadcast": "R/2024-07-06T18:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "137326",
+      "begin": "2024-07-06T18:00:00.000Z",
+      "broadcast": "R/2024-07-06T18:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "137326",
+      "begin": "2024-07-06T18:00:00.000Z",
+      "broadcast": "R/2024-07-06T18:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0104528",
+      "begin": "2024-07-11T15:00:00.000Z",
+      "broadcast": "R/2024-07-11T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "22097697",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "小市民"
+    },
+    {
+      "site": "mikan",
+      "id": "3392"
+    },
+    {
+      "site": "netflix",
+      "id": "81566407",
+      "begin": "2024-10-31T00:00:00.000Z",
+      "broadcast": "R/2024-10-31T00:00:00.000Z/P7D"
+    }
+  ]
 }

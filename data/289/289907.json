@@ -149,5 +149,73 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "289907"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "21095909",
+      "begin": "2023-10-06T12:00:00.000Z",
+      "broadcast": "R/2023-10-06T12:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtSoMtcbwQJQijWBKQTKhuaB",
+      "begin": "2023-10-06T12:00:00.000Z",
+      "broadcast": "R/2023-10-06T12:00:00.000Z/P7D"
+    },
+    {
+      "site": "mytv",
+      "id": "therisingoftheshieldheros3_139656",
+      "begin": "2023-10-06T12:00:00.000Z",
+      "broadcast": "R/2023-10-06T12:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "107525",
+      "begin": "2023-10-06T12:00:00.000Z",
+      "broadcast": "R/2023-10-06T12:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "shieldhero-anime3",
+      "begin": "2023-10-11T13:00:00.000Z",
+      "broadcast": "R/2023-10-11T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-109",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "21086581",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0091730",
+      "begin": "2023-10-11T13:00:00.000Z",
+      "broadcast": "R/2023-10-11T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "107525",
+      "begin": "2023-10-06T12:00:00.000Z",
+      "broadcast": "R/2023-10-06T12:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "65186f854c90aa63daeaa227"
+    },
+    {
+      "site": "mikan",
+      "id": "3173"
+    }
+  ]
 }

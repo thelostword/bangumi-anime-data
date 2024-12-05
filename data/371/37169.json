@@ -141,5 +141,24 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "37169"
+    },
+    {
+      "site": "bilibili",
+      "id": "2432",
+      "begin": "1983-10-01T16:00:00.000Z",
+      "broadcast": "R/2013-12-02T13:16:32.000Z/P7D",
+      "comment": "OVA: 4056"
+    },
+    {
+      "site": "unext",
+      "id": "SID0003358",
+      "begin": "2019-08-30T03:00:00.000Z",
+      "broadcast": "R/2019-08-30T03:00:00.000Z/P7D"
+    }
+  ]
 }

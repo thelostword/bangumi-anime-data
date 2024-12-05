@@ -149,5 +149,28 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "292861"
+    },
+    {
+      "site": "qq",
+      "id": "m/mzc00200ury37vc",
+      "begin": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "龍神丸"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5e822e50306f1a0007d2d488"
+    },
+    {
+      "site": "mikan",
+      "id": "2231"
+    }
+  ]
 }

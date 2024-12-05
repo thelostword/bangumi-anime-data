@@ -149,5 +149,59 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "263771"
+    },
+    {
+      "site": "bilibili",
+      "id": "28222731",
+      "begin": "2019-10-13T15:30:00.000Z",
+      "broadcast": "R/2019-10-13T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UchrysSXGQFkgY52Mc2HNyzO",
+      "begin": "2019-10-12T16:00:00.000Z",
+      "broadcast": "R/2019-10-12T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "101997",
+      "begin": "2019-10-13T15:30:00.000Z",
+      "broadcast": "R/2019-10-13T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_tw",
+      "id": "28222858",
+      "begin": "2019-10-13T15:30:00.000Z",
+      "broadcast": "R/2019-10-13T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "射擊部"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5d9392b84e9c003faceb5c68"
+    },
+    {
+      "site": "mikan",
+      "id": "2038"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "101997",
+      "begin": "2019-10-13T15:30:00.000Z",
+      "broadcast": "R/2019-10-13T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "chidori-high-school",
+      "begin": "2019-10-17T03:00:00.000Z",
+      "broadcast": "R/2019-10-17T03:00:00.000Z/P7D"
+    }
+  ]
 }

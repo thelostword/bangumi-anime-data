@@ -149,5 +149,77 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "444046"
+    },
+    {
+      "site": "unext",
+      "id": "SID0104340",
+      "begin": "2024-07-05T16:00:00.000Z",
+      "broadcast": "R/2024-07-05T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtSu33eEhyzEdYnZque0kolc",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jh3bhDq-EYeXx6Seif0sN2m",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "viu",
+      "id": "2378673",
+      "begin": "2024-06-27T07:01:18.000Z",
+      "broadcast": "R/2024-06-27T07:01:18.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "133834",
+      "begin": "2024-06-27T07:01:00.000Z",
+      "broadcast": "R/2024-06-27T07:01:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "133834",
+      "begin": "2024-06-27T07:01:00.000Z",
+      "broadcast": "R/2024-06-27T07:01:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3355"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6681472457ba1568dc1b0804"
+    },
+    {
+      "site": "abema",
+      "id": "199-58",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "22097224",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "異世界自殺"
+    },
+    {
+      "site": "netflix",
+      "id": "81767643",
+      "begin": "2024-10-31T00:00:00.000Z",
+      "broadcast": "R/2024-10-31T00:00:00.000Z/P7D"
+    }
+  ]
 }

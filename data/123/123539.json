@@ -149,5 +149,34 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "961bfe7c197d11e5b5ce",
+      "begin": "2015-07-06T17:30:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "123539"
+    },
+    {
+      "site": "nicovideo",
+      "id": "jitsuwata",
+      "begin": "2015-07-13T03:00:00.000Z",
+      "broadcast": "R/2015-07-13T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "實我"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5591635da0b788232ee35204"
+    },
+    {
+      "site": "mikan",
+      "id": "554"
+    }
+  ]
 }

@@ -149,5 +149,53 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "408896"
+    },
+    {
+      "site": "nicovideo",
+      "id": "acrotrip-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0157092",
+      "begin": "2024-10-02T13:00:00.000Z",
+      "broadcast": "R/2024-10-02T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "115-115",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3435"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66fb601789c3a6ce864cbcb7"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "128903",
+      "begin": "2024-10-02T12:30:00.000Z",
+      "broadcast": "R/2024-10-02T12:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "128903",
+      "begin": "2024-10-02T12:30:00.000Z",
+      "broadcast": "R/2024-10-02T12:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "頂尖惡路"
+    }
+  ]
 }

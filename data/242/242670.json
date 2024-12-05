@@ -149,5 +149,31 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "242670"
+    },
+    {
+      "site": "nicovideo",
+      "id": "uzamaid",
+      "begin": "2018-10-13T15:30:00.000Z",
+      "broadcast": "R/2018-10-13T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0037563",
+      "begin": "2018-10-14T03:00:00.000Z",
+      "broadcast": "R/2018-10-14T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5bb19cbe9b9493607ff72647"
+    },
+    {
+      "site": "mikan",
+      "id": "1769"
+    }
+  ]
 }

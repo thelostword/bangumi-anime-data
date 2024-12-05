@@ -149,5 +149,53 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "451119"
+    },
+    {
+      "site": "nicovideo",
+      "id": "maousama-anime_R",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "abema",
+      "id": "656-2",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3421"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66fb602089c3a6ce864cbcf3"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "135037",
+      "begin": "2024-09-28T14:00:00.000Z",
+      "broadcast": "R/2024-09-28T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "135037",
+      "begin": "2024-09-28T14:00:00.000Z",
+      "broadcast": "R/2024-09-28T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "22951781",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "魔王陛下 RETRY|重來吧"
+    }
+  ]
 }

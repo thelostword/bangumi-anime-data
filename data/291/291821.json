@@ -149,5 +149,53 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "291821"
+    },
+    {
+      "site": "nicovideo",
+      "id": "anime-seton",
+      "begin": "2020-01-09T15:30:00.000Z",
+      "broadcast": "R/2020-01-09T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JiazRuzo7l7hCx6ul7r8Oxc",
+      "begin": "2020-01-17T16:00:00.000Z",
+      "broadcast": "R/2020-01-17T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "108032",
+      "begin": "2020-01-21T09:00:00.000Z",
+      "broadcast": "R/2020-01-21T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0045139",
+      "begin": "2020-01-10T03:00:00.000Z",
+      "broadcast": "R/2020-01-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "108032",
+      "begin": "2020-01-21T09:00:00.000Z",
+      "broadcast": "R/2020-01-21T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "西頓"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5e1b4efc4f7a796559d914c3"
+    },
+    {
+      "site": "mikan",
+      "id": "2142"
+    }
+  ]
 }

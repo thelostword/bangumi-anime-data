@@ -149,5 +149,58 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "355004"
+    },
+    {
+      "site": "gamer",
+      "id": "120406",
+      "begin": "2023-06-23T16:00:00.000Z",
+      "broadcast": "R/2023-06-23T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81710851",
+      "begin": "2023-08-13T16:00:00.000Z",
+      "broadcast": "R/2023-08-13T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "sao-movie3",
+      "begin": "2023-05-24T03:00:00.000Z",
+      "broadcast": "R/2023-05-24T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0085867",
+      "begin": "2023-05-24T03:00:00.000Z",
+      "broadcast": "R/2023-05-24T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-256",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "120406",
+      "begin": "2023-06-23T16:00:00.000Z",
+      "broadcast": "R/2023-06-23T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3012"
+    },
+    {
+      "site": "disneyplus",
+      "id": "4zysvjugo59f",
+      "url": "https://www.disneyplus.com/movies/sword-art-online-the-movie-progressive-scherzo-of-deep-night/4zysvjugo59f",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

@@ -149,5 +149,28 @@
       "count": 15
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "58949"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kotonohanoniwa",
+      "begin": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "2546",
+      "begin": "2013-05-30T16:00:00.000Z",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0003809",
+      "begin": "2013-09-06T06:00:00.000Z",
+      "broadcast": "R/2013-09-06T06:00:00.000Z/P7D"
+    }
+  ]
 }

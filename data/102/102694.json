@@ -149,5 +149,35 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrgif06l",
+      "begin": "2014-07-09T18:00:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "102694"
+    },
+    {
+      "site": "nicovideo",
+      "id": "anime-rurumo",
+      "begin": "2014-07-12T15:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0012312",
+      "begin": "2021-01-07T03:00:00.000Z",
+      "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "璐萌"
+    },
+    {
+      "site": "mikan",
+      "id": "355"
+    }
+  ]
 }

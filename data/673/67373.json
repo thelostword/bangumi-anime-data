@@ -149,5 +149,54 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "mgtv",
+      "id": "292456",
+      "begin": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "323",
+      "begin": "2014-10-08T16:30:00.000Z",
+      "broadcast": "R/2014-10-22T15:58:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "8ea489d03d8611e4a080",
+      "begin": "2014-10-08T16:30:00.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "w/w9galx5d4dm0udo",
+      "begin": "2014-10-08T16:30:00.000Z"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhbzby1",
+      "begin": "2014-10-08T16:30:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "67373"
+    },
+    {
+      "site": "nicovideo",
+      "id": "daito-anime",
+      "begin": "2014-10-08T16:00:00.000Z"
+    },
+    {
+      "site": "dmhy",
+      "id": "牧羊"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "548f0bccf892774b140ac66c"
+    },
+    {
+      "site": "mikan",
+      "id": "423"
+    }
+  ]
 }

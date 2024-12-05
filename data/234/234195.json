@@ -149,5 +149,31 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "234195"
+    },
+    {
+      "site": "nicovideo",
+      "id": "iyapan-anime",
+      "begin": "2018-07-21T09:30:00.000Z",
+      "broadcast": "R/2018-07-14T09:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5b4a09ff24dd68674f5335dd"
+    },
+    {
+      "site": "mikan",
+      "id": "1725"
+    },
+    {
+      "site": "unext",
+      "id": "SID0041254",
+      "begin": "2024-11-12T03:00:00.000Z",
+      "broadcast": "R/2024-11-12T03:00:00.000Z/P7D"
+    }
+  ]
 }

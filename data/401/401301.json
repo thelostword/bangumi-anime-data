@@ -149,5 +149,29 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "401301"
+    },
+    {
+      "site": "disneyplus",
+      "id": "6Wyhb8bQ9XDr",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "SYNDUALITY Noir"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "649efebc68e7233aec4c96c5"
+    },
+    {
+      "site": "mikan",
+      "id": "3070"
+    }
+  ]
 }

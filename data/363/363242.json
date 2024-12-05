@@ -149,5 +149,25 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "363242"
+    },
+    {
+      "site": "netflix",
+      "id": "81228573",
+      "begin": "2021-10-21T00:00:00.000Z",
+      "broadcast": "R/2021-10-21T00:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "古見 2期|2季|S2|S02|Ⅱ"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "624774a270e8f89b23a18554"
+    }
+  ]
 }

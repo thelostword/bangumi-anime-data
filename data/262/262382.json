@@ -149,5 +149,28 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "262382"
+    },
+    {
+      "site": "bilibili",
+      "id": "5581418",
+      "begin": "2018-12-30T17:00:00.000Z",
+      "broadcast": ""
+    },
+    {
+      "site": "nicovideo",
+      "id": "p5a_DarkSun",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0038973",
+      "begin": "2021-09-30T15:00:00.000Z",
+      "broadcast": "R/2021-09-30T15:00:00.000Z/P7D"
+    }
+  ]
 }

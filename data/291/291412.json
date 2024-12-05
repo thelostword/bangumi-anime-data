@@ -149,5 +149,77 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "291412"
+    },
+    {
+      "site": "nicovideo",
+      "id": "danmachi3",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "qq",
+      "id": "m/mzc00200aiuq8s4",
+      "begin": "2020-10-02T17:00:01.000Z",
+      "broadcast": "R/2020-10-02T17:00:01.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28229869",
+      "begin": "2020-10-02T17:00:01.000Z",
+      "broadcast": "R/2020-10-02T17:00:01.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "107955",
+      "begin": "2020-10-02T17:00:00.000Z",
+      "broadcast": "R/2020-10-02T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "4SmyP0TNItuI",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0047353",
+      "begin": "2020-10-04T15:00:00.000Z",
+      "broadcast": "R/2020-10-04T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UcjJRtW-6ARI19jYmjSNC028",
+      "begin": "2024-04-08T16:00:00.000Z",
+      "broadcast": "R/2024-04-08T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "107955",
+      "begin": "2020-10-02T17:00:00.000Z",
+      "broadcast": "R/2020-10-02T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "地下城 3季|三季|3期|三期|S03|S3|3rd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5f7568074b840abcfc63b1bc"
+    },
+    {
+      "site": "mikan",
+      "id": "2322"
+    },
+    {
+      "site": "abema",
+      "id": "174-3",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

@@ -149,5 +149,59 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "304827"
+    },
+    {
+      "site": "bilibili",
+      "id": "28231844",
+      "begin": "2021-01-07T16:00:00.000Z",
+      "broadcast": "R/2021-01-07T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "tendebu_",
+      "begin": "2022-05-01T03:00:00.000Z",
+      "broadcast": "R/2022-05-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Ucgq0vFuXPczkpUQubnlCnKG",
+      "begin": "2021-01-13T16:00:00.000Z",
+      "broadcast": "R/2021-01-13T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "111006",
+      "begin": "2021-01-07T16:00:00.000Z",
+      "broadcast": "R/2021-01-07T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0052928",
+      "begin": "2021-01-10T03:00:00.000Z",
+      "broadcast": "R/2021-01-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "111006",
+      "begin": "2021-01-07T16:00:00.000Z",
+      "broadcast": "R/2021-01-07T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "設計部"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ff0435c84202e4c2e99e1ec"
+    },
+    {
+      "site": "mikan",
+      "id": "2357"
+    }
+  ]
 }

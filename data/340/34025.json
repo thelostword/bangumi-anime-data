@@ -149,5 +149,33 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "34025"
+    },
+    {
+      "site": "nicovideo",
+      "id": "toshokan",
+      "begin": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "3805",
+      "begin": "2012-06-15T16:00:01.000Z",
+      "broadcast": ""
+    },
+    {
+      "site": "qq",
+      "id": "m/mzc00200z3lzano",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0015921",
+      "begin": "2019-11-29T03:00:00.000Z",
+      "broadcast": "R/2019-11-29T03:00:00.000Z/P7D"
+    }
+  ]
 }

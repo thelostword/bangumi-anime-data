@@ -149,5 +149,73 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "341163"
+    },
+    {
+      "site": "bilibili",
+      "id": "28339713",
+      "begin": "2022-10-08T17:00:01.000Z",
+      "broadcast": "R/2022-10-08T17:00:01.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "119140",
+      "begin": "2022-10-08T17:00:00.000Z",
+      "broadcast": "R/2022-10-08T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jj17JiCvrOBjnjPjb930O2g",
+      "begin": "2022-10-08T17:00:00.000Z",
+      "broadcast": "R/2022-10-08T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81640753",
+      "begin": "2022-10-07T16:00:00.000Z",
+      "broadcast": "R/2022-10-07T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28339740",
+      "begin": "2022-10-08T17:00:01.000Z",
+      "broadcast": "R/2022-10-08T17:00:01.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "420-57",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0073159",
+      "begin": "2022-10-08T17:00:00.000Z",
+      "broadcast": "R/2022-10-08T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "藍色監獄"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "632762da2eaf6e578875f80e"
+    },
+    {
+      "site": "nicovideo",
+      "id": "bluelock",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "disneyplus",
+      "id": "6SsOy9HQ2imE",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

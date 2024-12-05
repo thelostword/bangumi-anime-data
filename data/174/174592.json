@@ -149,5 +149,69 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5797",
+      "begin": "2017-01-10T17:00:00.000Z",
+      "broadcast": "R/2017-01-10T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh91oh1",
+      "begin": "2017-01-10T17:00:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "174592"
+    },
+    {
+      "site": "nicovideo",
+      "id": "project-hs",
+      "begin": "2017-01-18T15:30:00.000Z",
+      "broadcast": "R/2017-01-18T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "qq",
+      "id": "m/mzc00200kzm5l04",
+      "begin": ""
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UcgZaXNngPvKiDT0b_b0ul7R",
+      "begin": "2021-02-25T16:00:00.000Z",
+      "broadcast": "R/2021-02-25T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "82670",
+      "begin": "2017-01-10T17:00:00.000Z",
+      "broadcast": "R/2017-01-10T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0027974",
+      "begin": "2019-09-03T03:00:00.000Z",
+      "broadcast": "R/2019-09-03T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Hand+Shakers"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5869a828efe56b1860c8f808"
+    },
+    {
+      "site": "mikan",
+      "id": "1187"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "82670",
+      "begin": "2017-01-10T17:00:00.000Z",
+      "broadcast": "R/2017-01-10T17:00:00.000Z/P7D"
+    }
+  ]
 }

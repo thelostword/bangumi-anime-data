@@ -149,5 +149,59 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "280380"
+    },
+    {
+      "site": "bilibili",
+      "id": "28222700",
+      "begin": "2019-10-09T10:00:00.000Z",
+      "broadcast": "R/2019-10-09T10:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_tw",
+      "id": "28222992",
+      "begin": "2019-10-23T10:02:41.000Z",
+      "broadcast": "R/2019-10-23T10:02:41.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0043789",
+      "begin": "2019-10-14T13:00:00.000Z",
+      "broadcast": "R/2019-10-14T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "七大罪 逆鱗"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5d9392be4e9c003faceb5c7e"
+    },
+    {
+      "site": "mikan",
+      "id": "2060"
+    },
+    {
+      "site": "nicovideo",
+      "id": "7-taizai-kamigaminogekirin",
+      "begin": "2019-10-09T13:00:00.000Z",
+      "broadcast": "R/2019-10-09T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "105050",
+      "begin": "2024-11-01T03:00:00.000Z",
+      "broadcast": "R/2024-11-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "105050",
+      "begin": "2024-11-01T03:00:00.000Z",
+      "broadcast": "R/2024-11-01T03:00:00.000Z/P7D"
+    }
+  ]
 }

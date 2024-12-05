@@ -149,5 +149,39 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rr95thbo",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "108438"
+    },
+    {
+      "site": "nicovideo",
+      "id": "dbz-Revival-of-F",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0019859",
+      "begin": "2019-06-05T03:00:00.000Z",
+      "broadcast": "R/2019-06-05T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "551035b71fe5c31a190a06c6"
+    },
+    {
+      "site": "abema",
+      "id": "184-152",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

@@ -149,5 +149,31 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "186570"
+    },
+    {
+      "site": "nicovideo",
+      "id": "movie-trinity-7",
+      "begin": ""
+    },
+    {
+      "site": "youku",
+      "id": "d08b10cad89e11e6967c",
+      "begin": "2017-03-17T02:58:05.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0028804",
+      "begin": "2017-03-24T03:00:00.000Z",
+      "broadcast": "R/2017-03-24T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "1229"
+    }
+  ]
 }

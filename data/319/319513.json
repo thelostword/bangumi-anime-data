@@ -149,5 +149,65 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "319513"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UcjVW-uvuxJdfBiIaX9uMdLt",
+      "begin": "2021-07-03T18:55:00.000Z",
+      "broadcast": "R/2021-07-03T18:55:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28234732",
+      "begin": "2021-07-02T18:55:01.000Z",
+      "broadcast": "R/2021-07-02T18:55:01.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kanokano-anime",
+      "begin": "2021-07-10T13:00:00.000Z",
+      "broadcast": "R/2021-07-10T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "114623",
+      "begin": "2021-07-02T18:55:00.000Z",
+      "broadcast": "R/2021-07-02T18:55:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "11-38",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0058457",
+      "begin": "2021-07-09T18:30:00.000Z",
+      "broadcast": "R/2021-07-09T18:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "114623",
+      "begin": "2021-07-02T18:55:00.000Z",
+      "broadcast": "R/2021-07-02T18:55:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "女友成|女朋友and"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "60de5db506c78696e4d1162a"
+    },
+    {
+      "site": "mikan",
+      "id": "2527"
+    }
+  ]
 }

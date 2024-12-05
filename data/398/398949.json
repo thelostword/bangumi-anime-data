@@ -149,5 +149,59 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "398949"
+    },
+    {
+      "site": "gamer",
+      "id": "127294",
+      "begin": "2023-10-06T17:28:00.000Z",
+      "broadcast": "R/2023-10-06T17:28:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Ucgc0-9Xq-GJxJP5drIaGdrf",
+      "begin": "2023-10-05T17:23:00.000Z",
+      "broadcast": "R/2023-10-05T17:23:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kanokano-anime2",
+      "begin": "2023-10-12T17:23:00.000Z",
+      "broadcast": "R/2023-10-12T17:23:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "11-38",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0091734",
+      "begin": "2023-10-12T17:23:00.000Z",
+      "broadcast": "R/2023-10-12T17:23:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "127294",
+      "begin": "2023-10-06T17:28:00.000Z",
+      "broadcast": "R/2023-10-06T17:28:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "女 友 成|and S2|S02|第2"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "65186f884c90aa63daeaa237"
+    },
+    {
+      "site": "mikan",
+      "id": "3206"
+    }
+  ]
 }

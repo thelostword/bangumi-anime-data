@@ -149,5 +149,21 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "338270"
+    },
+    {
+      "site": "nicovideo",
+      "id": "vanitas-anime",
+      "begin": "2021-07-06T03:00:00.000Z",
+      "broadcast": "R/2021-07-06T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "61d722066e31a0815abf5431"
+    }
+  ]
 }

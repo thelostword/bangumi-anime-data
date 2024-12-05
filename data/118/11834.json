@@ -149,5 +149,33 @@
       "count": 28
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "11834"
+    },
+    {
+      "site": "bilibili",
+      "id": "28233840",
+      "begin": "2021-03-31T10:00:00.000Z",
+      "broadcast": "R/2021-03-31T10:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "13-47",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0014603",
+      "begin": "2019-05-01T03:00:00.000Z",
+      "broadcast": "R/2019-05-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "銀魂"
+    }
+  ]
 }

@@ -149,5 +149,31 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "257",
+      "begin": "2014-01-15T17:30:00.000Z",
+      "broadcast": "R/2014-01-15T17:29:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "56116"
+    },
+    {
+      "site": "unext",
+      "id": "SID0027684",
+      "begin": "2016-12-22T03:00:00.000Z",
+      "broadcast": "R/2016-12-22T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "愛入|荷恋"
+    },
+    {
+      "site": "mikan",
+      "id": "252"
+    }
+  ]
 }

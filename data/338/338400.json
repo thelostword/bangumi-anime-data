@@ -149,5 +149,27 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "338400"
+    },
+    {
+      "site": "nicovideo",
+      "id": "bang-dream-pico-fever",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0061694",
+      "begin": "2021-10-07T14:00:00.000Z",
+      "broadcast": "R/2021-10-07T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "2602"
+    }
+  ]
 }

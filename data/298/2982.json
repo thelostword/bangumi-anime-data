@@ -149,5 +149,33 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrk78019",
+      "begin": "2012-09-01T10:01:59.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "2982"
+    },
+    {
+      "site": "bilibili",
+      "id": "1332",
+      "begin": "2007-10-07T15:00:00.000Z",
+      "broadcast": "R/2010-12-04T05:28:00.000Z/P7D"
+    },
+    {
+      "site": "qq",
+      "id": "j/j84ah43s7s9xglz",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0043043",
+      "begin": "2019-11-26T03:00:00.000Z",
+      "broadcast": "R/2019-11-26T03:00:00.000Z/P7D"
+    }
+  ]
 }

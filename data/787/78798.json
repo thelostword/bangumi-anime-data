@@ -149,5 +149,48 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "502",
+      "begin": "2013-10-04T16:00:00.000Z",
+      "broadcast": "R/2015-12-23T02:54:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "78798"
+    },
+    {
+      "site": "qq",
+      "id": "x/xse1vkbmedn5tg8",
+      "begin": ""
+    },
+    {
+      "site": "gamer",
+      "id": "63135",
+      "begin": "2023-03-10T04:40:00.000Z",
+      "broadcast": "R/2023-03-10T04:40:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002786",
+      "begin": "2013-10-18T06:00:00.000Z",
+      "broadcast": "R/2013-10-18T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "80995578",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "一神拳"
+    },
+    {
+      "site": "mikan",
+      "id": "216"
+    }
+  ]
 }

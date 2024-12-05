@@ -149,5 +149,65 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "356413"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28480912",
+      "begin": "2023-01-04T14:00:01.000Z",
+      "broadcast": "R/2023-01-04T14:00:01.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28386017",
+      "begin": "2023-02-22T14:00:00.000Z",
+      "broadcast": "R/2023-02-22T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "127810",
+      "begin": "2023-08-25T03:00:00.000Z",
+      "broadcast": "R/2023-08-25T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "bungosd4",
+      "begin": "2023-01-11T14:00:00.000Z",
+      "broadcast": "R/2023-01-11T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0076918",
+      "begin": "2023-01-11T14:00:00.000Z",
+      "broadcast": "R/2023-01-11T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "vQSFkhzJS0jX",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "127810",
+      "begin": "2023-08-25T03:00:00.000Z",
+      "broadcast": "R/2023-08-25T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "文豪野犬 4季|四季|4期|四期|S04|S4|4th"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "63b58c45441dff2ff8927e75"
+    },
+    {
+      "site": "mikan",
+      "id": "2944"
+    }
+  ]
 }

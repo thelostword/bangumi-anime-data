@@ -149,5 +149,30 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "269545"
+    },
+    {
+      "site": "nicovideo",
+      "id": "hyakuyoufu",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "abema",
+      "id": "19-188",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0072223",
+      "begin": "2022-08-31T15:00:00.000Z",
+      "broadcast": "R/2022-08-31T15:00:00.000Z/P7D",
+      "comment": "日本語吹替版: SID0097416"
+    }
+  ]
 }

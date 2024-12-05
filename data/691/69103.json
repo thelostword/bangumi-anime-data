@@ -149,5 +149,36 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "b302b478144711e38b3f",
+      "begin": "2014-01-05T21:15:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "69103"
+    },
+    {
+      "site": "nicovideo",
+      "id": "t-sekikun",
+      "begin": "2014-01-12T15:00:00.000Z",
+      "broadcast": "R/2014-01-12T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002985",
+      "begin": "2016-02-18T15:00:00.000Z",
+      "broadcast": "R/2016-02-18T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "小動作|怪咖"
+    },
+    {
+      "site": "mikan",
+      "id": "272"
+    }
+  ]
 }

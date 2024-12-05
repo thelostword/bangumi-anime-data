@@ -149,5 +149,47 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "256649"
+    },
+    {
+      "site": "nicovideo",
+      "id": "pipecat-kabukicho",
+      "begin": "2019-10-19T04:00:00.000Z",
+      "broadcast": "R/2019-10-19T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28222845",
+      "begin": "2019-10-11T18:10:00.000Z",
+      "broadcast": "R/2019-10-11T18:10:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0043573",
+      "begin": "2019-10-19T04:00:00.000Z",
+      "broadcast": "R/2019-10-19T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-124",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "歌舞伎町夏洛克"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5d9392c44e9c003faceb5c96"
+    },
+    {
+      "site": "mikan",
+      "id": "2055"
+    }
+  ]
 }

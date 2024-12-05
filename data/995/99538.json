@@ -149,5 +149,44 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "358dbc7007e611e4a705",
+      "begin": "2014-10-06T18:05:00.000Z"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhc0yyx",
+      "begin": "2014-10-06T18:05:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "99538"
+    },
+    {
+      "site": "nicovideo",
+      "id": "inou-anime",
+      "begin": "2014-10-09T14:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002999",
+      "begin": "2014-10-26T03:00:00.000Z",
+      "broadcast": "R/2014-10-26T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "異能戰鬥"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "548f9214f892774b140ac69e"
+    },
+    {
+      "site": "mikan",
+      "id": "421"
+    }
+  ]
 }

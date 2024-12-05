@@ -149,5 +149,22 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "17792"
+    },
+    {
+      "site": "nicovideo",
+      "id": "hayate-movie",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0002804",
+      "begin": "2020-01-21T03:00:00.000Z",
+      "broadcast": "R/2020-01-21T03:00:00.000Z/P7D"
+    }
+  ]
 }

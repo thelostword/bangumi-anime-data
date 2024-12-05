@@ -149,5 +149,37 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "392973"
+    },
+    {
+      "site": "nicovideo",
+      "id": "jihanki-anime",
+      "begin": "2023-07-12T12:00:00.000Z",
+      "broadcast": "R/2023-07-12T12:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "54-83",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0087158",
+      "begin": "2023-07-08T13:00:00.000Z",
+      "broadcast": "R/2023-07-08T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "649efec068e7233aec4c96cf"
+    },
+    {
+      "site": "mikan",
+      "id": "3075"
+    }
+  ]
 }

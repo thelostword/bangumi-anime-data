@@ -149,5 +149,18 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "161710"
+    },
+    {
+      "site": "unext",
+      "id": "SID0053410",
+      "begin": "2023-10-31T15:00:00.000Z",
+      "broadcast": "R/2023-10-31T15:00:00.000Z/P7D",
+      "comment": "後編: SID0053411"
+    }
+  ]
 }

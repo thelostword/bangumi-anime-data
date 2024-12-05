@@ -149,5 +149,55 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "377125"
+    },
+    {
+      "site": "netflix",
+      "id": "81564905",
+      "begin": "2023-07-04T16:00:00.000Z",
+      "broadcast": "R/2023-07-04T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "20289658",
+      "begin": "2023-08-09T13:00:01.000Z",
+      "broadcast": "R/2023-08-09T13:00:01.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "watakon-anime",
+      "begin": "2023-07-05T14:30:00.000Z",
+      "broadcast": "R/2023-07-05T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-244",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0087610",
+      "begin": "2023-07-05T14:30:00.000Z",
+      "broadcast": "R/2023-07-05T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "5Ak7v8mQSOtT",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "649efec168e7233aec4c96d3"
+    },
+    {
+      "site": "mikan",
+      "id": "3046"
+    }
+  ]
 }

@@ -149,5 +149,22 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "90367"
+    },
+    {
+      "site": "youku",
+      "id": "5b0b791e66b611e3a705",
+      "begin": "2015-11-08T15:40:57.000Z"
+    },
+    {
+      "site": "netflix",
+      "id": "80036398",
+      "begin": "2020-03-30T16:00:00.000Z",
+      "broadcast": "R/2020-03-30T16:00:00.000Z/P7D"
+    }
+  ]
 }

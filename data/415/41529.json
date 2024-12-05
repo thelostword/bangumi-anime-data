@@ -149,5 +149,27 @@
       "count": 10
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "41529"
+    },
+    {
+      "site": "nicovideo",
+      "id": "btooom",
+      "begin": "2012-10-08T13:30:00.000Z",
+      "broadcast": "R/2012-10-08T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002837",
+      "begin": "2019-11-30T03:00:00.000Z",
+      "broadcast": "R/2019-11-30T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "BTOOOM"
+    }
+  ]
 }

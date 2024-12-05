@@ -149,5 +149,81 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh9f4qt",
+      "begin": "2017-04-14T17:00:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "172155"
+    },
+    {
+      "site": "nicovideo",
+      "id": "danmachi_gaiden",
+      "begin": "2017-04-18T03:00:00.000Z",
+      "broadcast": "R/2017-04-18T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "qq",
+      "id": "m/mzc00200yho3rg6",
+      "begin": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "28228037",
+      "begin": "2017-04-13T16:00:00.000Z",
+      "broadcast": "R/2020-02-28T07:40:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UcjjOJ9nWXXro1Y9rQv04c2C",
+      "begin": "2020-04-10T16:00:00.000Z",
+      "broadcast": "R/2020-04-10T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "82306",
+      "begin": "2017-04-14T17:21:00.000Z",
+      "broadcast": "R/2017-04-14T17:21:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "2Mj3DLJdrkpa",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0028848",
+      "begin": "2017-04-18T03:00:00.000Z",
+      "broadcast": "R/2017-04-18T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "82306",
+      "begin": "2017-04-14T17:21:00.000Z",
+      "broadcast": "R/2017-04-14T17:21:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "劍姬神聖"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "58df7e6979c3a0541f4b61f9"
+    },
+    {
+      "site": "mikan",
+      "id": "1263"
+    },
+    {
+      "site": "abema",
+      "id": "174-7",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

@@ -149,5 +149,36 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "f/f840je4tjtjnwio",
+      "begin": "2014-04-09T17:35:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "85303"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "6333",
+      "begin": "2017-06-21T07:40:57.000Z",
+      "broadcast": "R/2017-06-21T07:40:57.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0027697",
+      "begin": "2017-02-02T03:00:00.000Z",
+      "broadcast": "R/2017-02-02T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "棺姬"
+    },
+    {
+      "site": "mikan",
+      "id": "299"
+    }
+  ]
 }

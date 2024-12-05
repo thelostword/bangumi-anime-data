@@ -149,5 +149,29 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "3170"
+    },
+    {
+      "site": "bilibili",
+      "id": "3566",
+      "begin": "2002-12-20T16:00:01.000Z",
+      "broadcast": "R/2016-04-11T06:53:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0016940",
+      "begin": "2019-12-02T03:00:00.000Z",
+      "broadcast": "R/2019-12-02T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "139EDhB0DcxJ",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

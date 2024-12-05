@@ -149,5 +149,47 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "264356"
+    },
+    {
+      "site": "bilibili",
+      "id": "28222619",
+      "begin": "2019-10-10T15:00:00.000Z",
+      "broadcast": "R/2019-10-10T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "assassinspride-anime",
+      "begin": "2020-03-27T06:00:00.000Z",
+      "broadcast": "R/2020-03-27T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28222840",
+      "begin": "2019-10-10T15:00:00.000Z",
+      "broadcast": "R/2019-10-10T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0043523",
+      "begin": "2019-10-10T15:00:00.000Z",
+      "broadcast": "R/2019-10-10T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "刺客守則"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5d9392c04e9c003faceb5c84"
+    },
+    {
+      "site": "mikan",
+      "id": "2043"
+    }
+  ]
 }

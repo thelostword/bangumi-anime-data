@@ -149,5 +149,36 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "o/ox39rizb1w9cbv1",
+      "begin": "2013-10-02T13:00:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "485",
+      "begin": "2013-10-01T16:00:00.000Z",
+      "broadcast": "R/2013-10-02T13:34:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "10463"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002599",
+      "begin": "2018-07-31T03:00:00.000Z",
+      "broadcast": "R/2018-07-31T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "核爆|coppelion"
+    },
+    {
+      "site": "mikan",
+      "id": "192"
+    }
+  ]
 }

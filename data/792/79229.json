@@ -149,5 +149,79 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhc0xbh",
+      "begin": "2014-10-04T14:30:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "291",
+      "begin": "2014-10-04T14:30:00.000Z",
+      "broadcast": "R/2014-10-04T14:30:00.000Z/P7D",
+      "comment": "SP 堤格尔君与战姬亲: 3482"
+    },
+    {
+      "site": "youku",
+      "id": "17369f303d6511e4b2ad",
+      "begin": "2014-10-04T14:30:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "79229"
+    },
+    {
+      "site": "nicovideo",
+      "id": "madan-anime",
+      "begin": "2014-10-09T17:00:00.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "d/duxh98szf8d1rl8",
+      "begin": ""
+    },
+    {
+      "site": "acfun",
+      "id": "6003942",
+      "begin": ""
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jjqnrf4PJ0NWxsLLn42Rt_v",
+      "begin": "2020-05-26T16:00:00.000Z",
+      "broadcast": "R/2020-05-26T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0017701",
+      "begin": "2019-10-06T03:00:00.000Z",
+      "broadcast": "R/2019-10-06T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "63309",
+      "begin": "2024-06-03T01:40:00.000Z",
+      "broadcast": "R/2024-06-03T01:40:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "魔彈"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "548ef74e5af0fb402813b57f"
+    },
+    {
+      "site": "mikan",
+      "id": "404"
+    },
+    {
+      "site": "gamer",
+      "id": "63309",
+      "begin": "2024-06-03T01:40:00.000Z",
+      "broadcast": "R/2024-06-03T01:40:00.000Z/P7D"
+    }
+  ]
 }

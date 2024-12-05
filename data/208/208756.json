@@ -97,5 +97,32 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "4fefbfbdefbfbd7816ef",
+      "begin": "2017-04-03T16:30:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "208756"
+    },
+    {
+      "site": "netflix",
+      "id": "81018295",
+      "begin": "2022-11-30T00:00:00.000Z",
+      "broadcast": "R/2022-11-30T00:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0029252",
+      "begin": "2017-04-11T03:00:00.000Z",
+      "broadcast": "R/2017-04-11T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "58df782379c3a0541f4b61ab"
+    }
+  ]
 }

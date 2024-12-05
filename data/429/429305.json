@@ -149,5 +149,47 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "429305"
+    },
+    {
+      "site": "unext",
+      "id": "SID0157047",
+      "begin": "2024-10-03T15:30:00.000Z",
+      "broadcast": "R/2024-10-03T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66fb601a89c3a6ce864cbccb"
+    },
+    {
+      "site": "abema",
+      "id": "189-74",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3468"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "133934",
+      "begin": "2024-10-03T15:30:00.000Z",
+      "broadcast": "R/2024-10-03T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "133934",
+      "begin": "2024-10-03T15:30:00.000Z",
+      "broadcast": "R/2024-10-03T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "聽說|真的 要結婚"
+    }
+  ]
 }

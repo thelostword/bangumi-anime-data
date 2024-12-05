@@ -101,5 +101,17 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "61955"
+    },
+    {
+      "site": "gamer",
+      "id": "54299",
+      "begin": "2020-10-31T16:00:00.000Z",
+      "broadcast": "R/2020-10-31T16:00:00.000Z/P7D"
+    }
+  ]
 }

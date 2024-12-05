@@ -149,5 +149,34 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "105191"
+    },
+    {
+      "site": "nicovideo",
+      "id": "hozukino-reitetsu-oad",
+      "begin": "2020-10-15T03:00:00.000Z",
+      "broadcast": "R/2020-10-15T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "115-7yjdnebupe-",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0032300",
+      "begin": "2017-12-28T03:00:00.000Z",
+      "broadcast": "R/2017-12-28T03:00:00.000Z/P7D",
+      "comment": "花咲前線/三者三様の男: SID0050894"
+    },
+    {
+      "site": "mikan",
+      "id": "1650"
+    }
+  ]
 }

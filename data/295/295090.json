@@ -149,5 +149,33 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "295090"
+    },
+    {
+      "site": "bilibili",
+      "id": "28234980",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "nicovideo",
+      "id": "planetarian-snow-globe",
+      "begin": "2022-02-24T15:00:00.000Z",
+      "broadcast": "R/2022-02-24T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0066473",
+      "begin": "2022-02-25T03:00:00.000Z",
+      "broadcast": "R/2022-02-25T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "2416"
+    }
+  ]
 }

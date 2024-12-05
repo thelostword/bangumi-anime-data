@@ -121,5 +121,50 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "425638"
+    },
+    {
+      "site": "viu",
+      "id": "2247795",
+      "begin": "2023-09-30T16:00:00.000Z",
+      "broadcast": "R/2023-09-30T16:00:00.000Z/P7D",
+      "comment": "粵語版: 2516774"
+    },
+    {
+      "site": "gamer",
+      "id": "131113",
+      "begin": "2023-10-01T09:30:00.000Z",
+      "broadcast": "R/2023-10-01T09:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "397-28",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0091747",
+      "begin": "2023-10-04T09:00:00.000Z",
+      "broadcast": "R/2023-10-04T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "21173161",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "65186f754c90aa63daeaa1d9"
+    },
+    {
+      "site": "mikan",
+      "id": "3197"
+    }
+  ]
 }

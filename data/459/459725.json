@@ -149,5 +149,59 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "459725"
+    },
+    {
+      "site": "nicovideo",
+      "id": "lv2-cheat",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0100081",
+      "begin": "2024-04-08T14:30:00.000Z",
+      "broadcast": "R/2024-04-08T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "54-90",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Uci8k-Vk-nfc8UdonLY8JDnS",
+      "begin": "2024-04-08T14:00:06.000Z",
+      "broadcast": "R/2024-04-08T14:00:06.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "136038",
+      "begin": "2024-04-08T14:00:00.000Z",
+      "broadcast": "R/2024-04-08T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "136038",
+      "begin": "2024-04-08T14:00:00.000Z",
+      "broadcast": "R/2024-04-08T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Lv2 勇者"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66097bba16e6bbcc806d3412"
+    },
+    {
+      "site": "mikan",
+      "id": "3302"
+    }
+  ]
 }

@@ -149,5 +149,28 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "85005"
+    },
+    {
+      "site": "youku",
+      "id": "8b569fec527d11e3b8b7",
+      "begin": "2013-11-22T03:30:17.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "3956",
+      "begin": "2013-11-14T16:00:00.000Z",
+      "broadcast": "R/2016-05-04T07:06:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0052704",
+      "begin": "2020-11-20T03:00:00.000Z",
+      "broadcast": "R/2020-11-20T03:00:00.000Z/P7D"
+    }
+  ]
 }

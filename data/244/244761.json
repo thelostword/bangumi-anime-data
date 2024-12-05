@@ -149,5 +149,27 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "244761"
+    },
+    {
+      "site": "nicovideo",
+      "id": "movie-shirobako",
+      "begin": "2021-02-07T15:00:00.000Z",
+      "broadcast": "R/2021-02-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0053489",
+      "begin": "2021-02-07T15:00:00.000Z",
+      "broadcast": "R/2021-02-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "2338"
+    }
+  ]
 }

@@ -149,5 +149,47 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "467641"
+    },
+    {
+      "site": "nicovideo",
+      "id": "magilumiere",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0157082",
+      "begin": "2024-10-06T16:00:00.000Z",
+      "broadcast": "R/2024-10-06T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66fb601d89c3a6ce864cbcdf"
+    },
+    {
+      "site": "mikan",
+      "id": "3429"
+    },
+    {
+      "site": "disneyplus",
+      "id": "43zlOAXbOjkn",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "abema",
+      "id": "19-204",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "魔法|魔女 股份有限公司"
+    }
+  ]
 }

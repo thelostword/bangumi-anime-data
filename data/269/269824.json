@@ -109,5 +109,31 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "269824"
+    },
+    {
+      "site": "nicovideo",
+      "id": "BAKUMATSU2",
+      "begin": "2019-04-12T15:00:00.000Z",
+      "broadcast": "R/2019-03-14T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0040432",
+      "begin": "2019-04-09T03:00:00.000Z",
+      "broadcast": "R/2019-04-09T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ca206a6d8405d2d2e62b941"
+    },
+    {
+      "site": "mikan",
+      "id": "1939"
+    }
+  ]
 }

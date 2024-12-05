@@ -149,5 +149,37 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "375531"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28338478",
+      "begin": "2022-07-03T14:00:00.000Z",
+      "broadcast": "R/2022-07-03T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28338678",
+      "begin": "2022-10-12T13:00:01.000Z",
+      "broadcast": "R/2022-10-12T13:00:01.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "RWBY 冰雪"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "62c125a52fc3ee0d0016bf2a"
+    },
+    {
+      "site": "nicovideo",
+      "id": "rwby",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

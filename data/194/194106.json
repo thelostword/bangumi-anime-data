@@ -149,5 +149,34 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "d1aa3e01c28111e68ce4",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "194106"
+    },
+    {
+      "site": "nicovideo",
+      "id": "tanteidanneo",
+      "begin": "2017-01-02T12:55:00.000Z",
+      "broadcast": "R/2017-01-02T12:55:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "偵探團+NEO"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5869a7a3efe56b1860c8f7f8"
+    },
+    {
+      "site": "mikan",
+      "id": "1170"
+    }
+  ]
 }

@@ -149,5 +149,26 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "195713"
+    },
+    {
+      "site": "qq",
+      "id": "k/kr796tro7q6n72s",
+      "begin": "2017-10-10T02:00:00.000Z"
+    },
+    {
+      "site": "nicovideo",
+      "id": "EVIL_OR_LIVE",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "59d0cb50fb34aac154710b6d"
+    }
+  ]
 }

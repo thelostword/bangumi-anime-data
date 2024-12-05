@@ -149,5 +149,23 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "2000"
+    },
+    {
+      "site": "unext",
+      "id": "SID0012958",
+      "begin": "2019-07-01T03:00:00.000Z",
+      "broadcast": "R/2019-07-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "80998780",
+      "begin": "2024-02-13T16:00:00.000Z",
+      "broadcast": "R/2024-02-13T16:00:00.000Z/P7D"
+    }
+  ]
 }

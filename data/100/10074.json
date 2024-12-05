@@ -149,5 +149,20 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "10074"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ch246",
+      "begin": "2011-01-07T15:00:00.000Z"
+    },
+    {
+      "site": "dmhy",
+      "id": "rio+rainbow+gate"
+    }
+  ]
 }

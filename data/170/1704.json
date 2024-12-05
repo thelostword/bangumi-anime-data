@@ -149,5 +149,22 @@
       "count": 15
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "1704"
+    },
+    {
+      "site": "nicovideo",
+      "id": "hunterhunter",
+      "begin": "2014-06-05T06:00:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "877",
+      "begin": "1999-10-15T16:00:00.000Z",
+      "broadcast": "R/2010-10-27T14:31:00.000Z/P7D"
+    }
+  ]
 }

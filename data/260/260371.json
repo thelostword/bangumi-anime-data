@@ -149,5 +149,31 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "260371"
+    },
+    {
+      "site": "nicovideo",
+      "id": "joshikau-anime",
+      "begin": "2019-04-08T15:30:00.000Z",
+      "broadcast": "R/2019-04-08T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0040184",
+      "begin": "2019-04-08T03:00:00.000Z",
+      "broadcast": "R/2019-04-08T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ca206b2d8405d2d2e62b95b"
+    },
+    {
+      "site": "mikan",
+      "id": "1922"
+    }
+  ]
 }

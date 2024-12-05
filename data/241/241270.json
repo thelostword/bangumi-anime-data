@@ -149,5 +149,27 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "241270"
+    },
+    {
+      "site": "nicovideo",
+      "id": "fagirl-movie",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0044953",
+      "begin": "2019-12-25T03:00:00.000Z",
+      "broadcast": "R/2019-12-25T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "2028"
+    }
+  ]
 }

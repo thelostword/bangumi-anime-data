@@ -149,5 +149,29 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "211142"
+    },
+    {
+      "site": "nicovideo",
+      "id": "donten-anime",
+      "begin": "2017-12-15T15:00:00.000Z",
+      "broadcast": "R/2017-12-15T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "8712",
+      "begin": "2017-12-01T16:00:00.000Z",
+      "broadcast": "R/2017-12-02T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0031957",
+      "begin": "2019-09-01T03:00:00.000Z",
+      "broadcast": "R/2019-09-01T03:00:00.000Z/P7D"
+    }
+  ]
 }

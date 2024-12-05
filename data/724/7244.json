@@ -149,5 +149,28 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "j/j034ol3oyjdwt80",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "7244"
+    },
+    {
+      "site": "bilibili",
+      "id": "1255",
+      "begin": "2008-04-06T16:00:00.000Z",
+      "broadcast": "R/2010-12-31T16:01:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0019451",
+      "begin": "2017-04-20T03:00:00.000Z",
+      "broadcast": "R/2017-04-20T03:00:00.000Z/P7D"
+    }
+  ]
 }

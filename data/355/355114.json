@@ -149,5 +149,31 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "355114"
+    },
+    {
+      "site": "unext",
+      "id": "SID0063697",
+      "begin": "2022-01-04T16:05:00.000Z",
+      "broadcast": "R/2022-01-04T16:05:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Irodori Midori"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "61d5f9392525b00007b9fa3e"
+    },
+    {
+      "site": "nicovideo",
+      "id": "irodorimidori-anime",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

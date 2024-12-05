@@ -149,5 +149,91 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "369304"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtTNzLA36L1lhjkYs9OHMW18",
+      "begin": "2023-07-06T15:56:00.000Z",
+      "broadcast": "R/2023-07-06T15:56:00.000Z/P7D",
+      "comment": "粵語版: PLC18xlbCdwtTtprYgPjWKNg0DyeCvapAM"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JjIe81K3Qd0l7PVaIiPi64r",
+      "begin": "2023-07-06T15:56:00.000Z",
+      "broadcast": "R/2023-07-06T15:56:00.000Z/P7D"
+    },
+    {
+      "site": "viu",
+      "id": "2204613",
+      "begin": "2023-07-06T15:56:00.000Z",
+      "broadcast": "R/2023-07-06T15:56:00.000Z/P7D",
+      "comment": "粵語版: 2292124"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "20310415",
+      "begin": "2023-07-06T15:56:00.000Z",
+      "broadcast": "R/2023-07-06T15:56:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "122778",
+      "begin": "2023-07-06T15:56:00.000Z",
+      "broadcast": "R/2023-07-06T15:56:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81278456",
+      "begin": "2023-07-06T15:56:00.000Z",
+      "broadcast": "R/2023-07-06T15:56:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "20310848",
+      "begin": "2023-08-24T12:00:00.000Z",
+      "broadcast": "R/2023-08-24T12:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "jujutsukaisen2",
+      "begin": "2023-07-06T15:30:00.000Z",
+      "broadcast": "R/2023-07-06T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "536-1",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0087615",
+      "begin": "2023-07-06T15:30:00.000Z",
+      "broadcast": "R/2023-07-06T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "122778",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "咒術|呪術"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "649efec468e7233aec4c96df"
+    },
+    {
+      "site": "mikan",
+      "id": "3074"
+    }
+  ]
 }

@@ -149,5 +149,53 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "295195"
+    },
+    {
+      "site": "nicovideo",
+      "id": "showbyrock-m",
+      "begin": "2020-01-12T15:00:00.000Z",
+      "broadcast": "R/2020-01-12T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jik2vpUVcSQhgVnuPJ2h4xm",
+      "begin": "2020-01-15T16:00:00.000Z",
+      "broadcast": "R/2020-01-15T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "108889",
+      "begin": "2020-01-09T14:30:00.000Z",
+      "broadcast": "R/2020-01-09T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0045123",
+      "begin": "2020-01-13T03:00:00.000Z",
+      "broadcast": "R/2020-01-13T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "108889",
+      "begin": "2020-01-09T14:30:00.000Z",
+      "broadcast": "R/2020-01-09T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "SHOW BY ROCK 3季|三季|3期|三期|S03|S3|3rd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5e1b4f074f7a796559d914e4"
+    },
+    {
+      "site": "mikan",
+      "id": "2126"
+    }
+  ]
 }

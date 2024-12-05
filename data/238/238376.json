@@ -49,5 +49,28 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "238376"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ponque",
+      "begin": "2016-01-13T11:00:00.000Z"
+    },
+    {
+      "site": "abema",
+      "id": "143-1",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0025822",
+      "begin": "2019-07-09T03:00:00.000Z",
+      "broadcast": "R/2019-07-09T03:00:00.000Z/P7D"
+    }
+  ]
 }

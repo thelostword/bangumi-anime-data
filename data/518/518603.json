@@ -129,5 +129,29 @@
       "total_cont": 0
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "518603"
+    },
+    {
+      "site": "viu",
+      "id": "2520927",
+      "begin": "2024-11-03T06:00:41.000Z",
+      "broadcast": "R/2024-11-03T06:00:41.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0158126",
+      "begin": "2024-11-07T03:00:00.000Z",
+      "broadcast": "R/2024-11-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "5-71",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

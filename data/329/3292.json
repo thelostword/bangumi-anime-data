@@ -149,5 +149,22 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "3292"
+    },
+    {
+      "site": "acfun",
+      "id": "5025009",
+      "begin": "2019-07-16T06:51:45.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "2092",
+      "begin": "2015-02-15T08:26:00.000Z",
+      "broadcast": "R/2015-02-15T08:26:00.000Z/P7D"
+    }
+  ]
 }

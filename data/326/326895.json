@@ -149,5 +149,37 @@
       "count": 11
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "326895"
+    },
+    {
+      "site": "disneyplus",
+      "id": "3AHbeFV7Lqvn",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "28237126",
+      "begin": "2022-05-13T04:00:01.000Z",
+      "broadcast": "R/2022-05-13T04:00:01.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0075204",
+      "begin": "2022-11-15T03:00:00.000Z",
+      "broadcast": "R/2022-11-15T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "夏日重現"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "624774a470e8f89b23a1855e"
+    }
+  ]
 }

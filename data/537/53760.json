@@ -49,5 +49,22 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "53760"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ganso-bakabon",
+      "begin": "2011-09-22T12:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0038630",
+      "begin": "2018-12-11T03:00:00.000Z",
+      "broadcast": "R/2018-12-11T03:00:00.000Z/P7D"
+    }
+  ]
 }

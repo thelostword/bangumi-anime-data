@@ -149,5 +149,82 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "6390"
+    },
+    {
+      "site": "nicovideo",
+      "id": "yugioh2000",
+      "begin": "2014-08-20T06:00:00.000Z"
+    },
+    {
+      "site": "netflix",
+      "id": "70177034",
+      "begin": "2017-02-08T08:00:00.000Z",
+      "broadcast": "R/2022-11-17T00:00:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh7h4st",
+      "begin": "2018-08-09T16:00:14.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "3054",
+      "begin": "2000-04-17T16:00:00.000Z",
+      "broadcast": "R/2018-08-09T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "cc0083ba962411de83b1",
+      "begin": "2013-01-09T15:42:42.000Z"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JihZHNlz6_55KAlFrVfWclz",
+      "begin": "2022-06-07T16:00:00.000Z",
+      "broadcast": "R/2022-06-07T16:00:00.000Z/P7D",
+      "comment": "#52-#97: PLxSscENEp7JhOYEpedisG-L_pllsytJQe, #98-#121: PLxSscENEp7Jinb7O6q2JWNVJ4zAPBcJ0L, #122-#144: PLxSscENEp7JgrfrrrjtDBTt8UXrSv5p-X, #145-#184: PLxSscENEp7JjUs3YZW3c_VIWf15JKqsus, #185-#198: PLxSscENEp7Jg5DgWKsdk172w43rMtfFQ9 #199-#224: PLxSscENEp7Jj9X28LGA4-E3CQtra58L3J"
+    },
+    {
+      "site": "mytv",
+      "id": "yugiohduelmonster_131582",
+      "begin": "2021-04-01T16:00:00.000Z",
+      "broadcast": "R/2021-04-01T16:00:00.000Z/P7D",
+      "comment": "#52-97: yugiohduelmonstersii_134988"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28229412",
+      "begin": "2020-07-14T03:10:00.000Z",
+      "broadcast": "R/2020-07-14T03:10:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0011816",
+      "begin": "2020-03-12T03:00:00.000Z",
+      "broadcast": "R/2020-03-12T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "20292",
+      "begin": "2024-03-29T04:00:00.000Z",
+      "broadcast": "R/2024-03-29T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "20292",
+      "begin": "2024-03-29T04:00:00.000Z",
+      "broadcast": "R/2024-03-29T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtTTYTc2sl_lh72ZaUqoOTor",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

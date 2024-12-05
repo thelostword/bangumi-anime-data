@@ -149,5 +149,16 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "126606"
+    },
+    {
+      "site": "acfun",
+      "id": "6001569",
+      "begin": "2020-03-06T10:16:08.000Z"
+    }
+  ]
 }

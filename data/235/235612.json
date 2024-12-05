@@ -149,5 +149,56 @@
       "count": 12
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "235612"
+    },
+    {
+      "site": "bilibili",
+      "id": "102392",
+      "begin": "2018-07-07T16:30:00.000Z",
+      "broadcast": "R/2018-07-07T16:30:00.000Z/P7D",
+      "comment": "中配版: 28233568"
+    },
+    {
+      "site": "nicovideo",
+      "id": "hataraku-saibou",
+      "begin": "2018-07-09T03:00:00.000Z",
+      "broadcast": "R/2018-07-09T02:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "93488",
+      "begin": "2018-07-07T16:30:00.000Z",
+      "broadcast": "R/2018-07-07T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0035450",
+      "begin": "2018-07-09T03:00:00.000Z",
+      "broadcast": "R/2018-07-09T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "93488",
+      "begin": "2018-07-07T16:30:00.000Z",
+      "broadcast": "R/2018-07-07T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5b38d015f1a82c8443d7fc85"
+    },
+    {
+      "site": "mikan",
+      "id": "1672"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UcgvfcKCjEGIfn8C96DM0Oa3",
+      "begin": "2024-10-27T12:30:00.000Z",
+      "broadcast": "R/2024-10-27T12:30:00.000Z/P7D"
+    }
+  ]
 }

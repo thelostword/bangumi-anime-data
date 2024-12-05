@@ -149,5 +149,57 @@
       "count": 13
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "148099"
+    },
+    {
+      "site": "nicovideo",
+      "id": "sao-movie",
+      "begin": ""
+    },
+    {
+      "site": "gamer",
+      "id": "79961",
+      "begin": "2019-01-16T06:30:00.000Z",
+      "broadcast": "R/2019-01-16T06:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-90",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "15132",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0032241",
+      "begin": "2017-12-20T03:00:00.000Z",
+      "broadcast": "R/2017-12-20T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "79961",
+      "begin": "2019-01-16T06:30:00.000Z",
+      "broadcast": "R/2019-01-16T06:30:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "4bJ80OEt6odH",
+      "url": "https://www.disneyplus.com/movies/sword-art-online-the-movie-ordinal-scale/4bJ80OEt6odH",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "1384"
+    }
+  ]
 }

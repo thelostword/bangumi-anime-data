@@ -149,5 +149,76 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "326869"
+    },
+    {
+      "site": "gamer",
+      "id": "119723",
+      "begin": "2022-07-04T12:00:00.000Z",
+      "broadcast": "R/2022-07-04T12:00:00.000Z/P7D",
+      "comment": "首周播出两集"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JjK9g9OFhHzcZwAQDYFqVYU",
+      "begin": "2022-07-04T16:00:00.000Z",
+      "broadcast": "R/2022-07-04T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28338451",
+      "begin": "2022-07-04T12:00:00.000Z",
+      "broadcast": "R/2022-07-04T12:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtTc61wuDviNoKmNUAVFT50D",
+      "begin": "2022-11-04T16:00:00.000Z",
+      "broadcast": "R/2022-11-04T16:00:00.000Z/P7D",
+      "comment": "粵語版: PLC18xlbCdwtQHRRa5ljwp-XhnDeaKJXsQ"
+    },
+    {
+      "site": "mytv",
+      "id": "myisekailifeigainedasecondcharacterclassandbecamethestrongestsageintheworld_135932",
+      "begin": "2022-07-04T12:00:00.000Z",
+      "broadcast": "R/2022-07-04T12:00:00.000Z/P7D",
+      "comment": "Animax版: myisekailifeigainedasecondcharacterclassandbecamethestrongestsageintheworld0001_137335"
+    },
+    {
+      "site": "netflix",
+      "id": "81617959",
+      "begin": "2023-07-30T16:00:00.000Z",
+      "broadcast": "R/2023-07-30T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "tenseikenja",
+      "begin": "2022-07-08T15:00:00.000Z",
+      "broadcast": "R/2022-07-08T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0069695",
+      "begin": "2022-07-08T15:00:00.000Z",
+      "broadcast": "R/2022-07-08T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "119723",
+      "begin": "2022-07-04T12:00:00.000Z",
+      "broadcast": "R/2022-07-04T12:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "轉生賢者"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "62c125a62fc3ee0d0016bf30"
+    }
+  ]
 }

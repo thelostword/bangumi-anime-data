@@ -85,5 +85,23 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "387818"
+    },
+    {
+      "site": "nicovideo",
+      "id": "500000000button",
+      "begin": "2022-07-17T15:30:00.000Z",
+      "broadcast": "R/2022-07-17T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0070107",
+      "begin": "2022-07-17T15:30:00.000Z",
+      "broadcast": "R/2022-07-17T15:30:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,72 @@
       "count": 15
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "28228367",
+      "begin": "2020-04-11T16:00:00.000Z",
+      "broadcast": "R/2020-04-11T16:00:00.000Z/P7D",
+      "comment": "中配版: 28236257"
+    },
+    {
+      "site": "bangumi",
+      "id": "293049"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kaguya_love_anime",
+      "begin": "2020-04-14T03:00:00.000Z",
+      "broadcast": "R/2020-04-14T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "7VWbQFPZdlml",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "108265",
+      "begin": "2020-04-11T16:00:00.000Z",
+      "broadcast": "R/2020-04-11T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_tw",
+      "id": "28228478",
+      "begin": "2020-04-11T16:00:03.000Z",
+      "broadcast": "R/2020-04-11T16:00:03.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "26-66",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "108265",
+      "begin": "2020-04-11T16:00:00.000Z",
+      "broadcast": "R/2020-04-11T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "輝夜 告白 2季|二季|2期|二期|S02|S2|2nd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5e822890657e22f4195cc7a6"
+    },
+    {
+      "site": "mikan",
+      "id": "2187"
+    },
+    {
+      "site": "unext",
+      "id": "SID0047138",
+      "begin": "2020-04-10T03:00:00.000Z",
+      "broadcast": "R/2020-04-10T03:00:00.000Z/P7D"
+    }
+  ]
 }

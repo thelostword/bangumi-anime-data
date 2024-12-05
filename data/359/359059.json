@@ -105,5 +105,35 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "359059"
+    },
+    {
+      "site": "nicovideo",
+      "id": "showtime2",
+      "begin": "2023-01-08T16:00:00.000Z",
+      "broadcast": "R/2023-01-08T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Showtime 2季|二季|2期|二期|S02|S2|2nd|！2"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "63b58c3d441dff2ff8927e55"
+    },
+    {
+      "site": "mikan",
+      "id": "2879"
+    },
+    {
+      "site": "unext",
+      "id": "SID0076907",
+      "begin": "2024-11-12T03:00:00.000Z",
+      "broadcast": "R/2024-11-12T03:00:00.000Z/P7D"
+    }
+  ]
 }

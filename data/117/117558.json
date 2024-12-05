@@ -149,5 +149,47 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "f5e8534ed35711e4b692",
+      "begin": "2015-04-09T15:00:00.000Z",
+      "broadcast": "R/2015-04-09T09:56:01.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhazgvh",
+      "begin": "2015-04-09T15:00:00.000Z",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "117558"
+    },
+    {
+      "site": "nicovideo",
+      "id": "etotama",
+      "begin": "2015-04-11T15:00:00.000Z",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0012710",
+      "begin": "2019-09-01T03:00:00.000Z",
+      "broadcast": "R/2019-09-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "支魂|Etotama"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5517c63836cc53397d02a9a6"
+    },
+    {
+      "site": "mikan",
+      "id": "513"
+    }
+  ]
 }

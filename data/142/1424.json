@@ -149,5 +149,40 @@
       "count": 60
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "1424"
+    },
+    {
+      "site": "nicovideo",
+      "id": "k-on_anime",
+      "begin": "2018-12-27T15:00:00.000Z",
+      "broadcast": "R/2018-12-27T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28220978",
+      "begin": "2019-05-13T04:00:00.000Z",
+      "broadcast": "R/2019-05-13T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0003205",
+      "begin": "2019-11-29T03:00:00.000Z",
+      "broadcast": "R/2019-11-29T03:00:00.000Z/P7D",
+      "comment": "番外編 ｢ライブハウス！｣: SID0013555, 番外編 ｢冬の日！｣： SID0003426"
+    },
+    {
+      "site": "abema",
+      "id": "19-183",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "K-ON"
+    }
+  ]
 }

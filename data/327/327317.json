@@ -149,5 +149,55 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "327317"
+    },
+    {
+      "site": "gamer",
+      "id": "115759",
+      "begin": "2021-04-04T16:30:00.000Z",
+      "broadcast": "R/2021-04-04T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UcivLSgm5i_gPfjLWrOZRdg9",
+      "begin": "2021-04-04T16:30:00.000Z",
+      "broadcast": "R/2021-04-04T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28234125",
+      "begin": "2021-04-04T16:30:01.000Z",
+      "broadcast": "R/2021-04-04T16:30:01.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0056134",
+      "begin": "2021-04-04T15:30:00.000Z",
+      "broadcast": "R/2021-04-04T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6065f090eaf504d0216b777d"
+    },
+    {
+      "site": "mikan",
+      "id": "2453"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "115759",
+      "begin": "2021-04-04T16:30:00.000Z",
+      "broadcast": "R/2021-04-04T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "sevenknights-anime",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

@@ -149,5 +149,63 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrgi8tfh",
+      "begin": "2014-04-06T22:45:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "63927"
+    },
+    {
+      "site": "nicovideo",
+      "id": "gaworare-anime",
+      "begin": "2014-04-10T03:00:00.000Z",
+      "broadcast": "R/2014-04-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "4201",
+      "begin": "2014-04-05T16:00:01.000Z",
+      "broadcast": "R/2017-05-01T12:07:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "df8f46d6d0d211e29748",
+      "begin": "2017-04-12T10:27:23.000Z"
+    },
+    {
+      "site": "acfun",
+      "id": "6000098",
+      "begin": "2019-09-12T09:12:06.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "x/xucrpun6vso961a",
+      "begin": ""
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JjrbLIuWBShGhPX_H9TGXcV",
+      "begin": "2022-06-10T16:00:00.000Z",
+      "broadcast": "R/2022-06-10T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002176",
+      "begin": "2019-11-21T03:00:00.000Z",
+      "broadcast": "R/2019-11-21T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "如+旗"
+    },
+    {
+      "site": "mikan",
+      "id": "311"
+    }
+  ]
 }

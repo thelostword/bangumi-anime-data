@@ -149,5 +149,25 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "425969"
+    },
+    {
+      "site": "nicovideo",
+      "id": "shadowverse_f_anime",
+      "begin": "2022-04-02T01:30:00.000Z",
+      "broadcast": "R/2022-04-02T01:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "649efecc68e7233aec4c96f7"
+    },
+    {
+      "site": "mikan",
+      "id": "3123"
+    }
+  ]
 }

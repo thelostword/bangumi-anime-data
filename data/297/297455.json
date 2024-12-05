@@ -77,5 +77,22 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "297455"
+    },
+    {
+      "site": "nicovideo",
+      "id": "youkai-watch2020",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0045119",
+      "begin": "2020-01-03T03:00:00.000Z",
+      "broadcast": "R/2020-01-03T03:00:00.000Z/P7D"
+    }
+  ]
 }

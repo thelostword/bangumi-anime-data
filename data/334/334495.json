@@ -149,5 +149,35 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "334495"
+    },
+    {
+      "site": "nicovideo",
+      "id": "180-kimimimi",
+      "begin": "2022-02-03T15:00:00.000Z",
+      "broadcast": "R/2022-02-03T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0061710",
+      "begin": "2021-10-15T15:00:00.000Z",
+      "broadcast": "R/2021-10-15T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "耳朵幸福"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "615bb926d7f73dd4ed5c442b"
+    },
+    {
+      "site": "mikan",
+      "id": "2581"
+    }
+  ]
 }

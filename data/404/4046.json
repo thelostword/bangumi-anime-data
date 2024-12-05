@@ -149,5 +149,24 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "4046"
+    },
+    {
+      "site": "bilibili",
+      "id": "2249",
+      "begin": "1998-10-04T16:00:00.000Z",
+      "broadcast": "R/2013-08-09T14:48:00.000Z/P7D",
+      "comment": "不同UP主: 5381"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002871",
+      "begin": "2022-06-14T03:00:00.000Z",
+      "broadcast": "R/2022-06-14T03:00:00.000Z/P7D"
+    }
+  ]
 }

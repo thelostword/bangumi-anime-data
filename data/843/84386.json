@@ -149,5 +149,34 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "84386"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kancolle-anime",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0026814",
+      "begin": "2018-06-28T03:00:00.000Z",
+      "broadcast": "R/2018-06-28T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "隊收|艦隊Collection"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "549fe0d730bcfc225bf9e603"
+    },
+    {
+      "site": "mikan",
+      "id": "439"
+    }
+  ]
 }

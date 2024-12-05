@@ -149,5 +149,43 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "329285"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28237191",
+      "begin": "2022-04-06T13:30:00.000Z",
+      "broadcast": "R/2022-04-06T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28237267",
+      "begin": "2022-04-06T13:30:00.000Z",
+      "broadcast": "R/2022-04-06T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "rpg-rs",
+      "begin": "2022-04-13T13:00:00.000Z",
+      "broadcast": "R/2022-04-13T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0066882",
+      "begin": "2022-04-13T13:00:00.000Z",
+      "broadcast": "R/2022-04-13T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "不動產"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "624774a170e8f89b23a1854e"
+    }
+  ]
 }

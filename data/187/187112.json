@@ -149,5 +149,70 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5552",
+      "begin": "2016-10-04T15:30:10.000Z",
+      "broadcast": "R/2016-10-04T15:30:00.000Z/P7D",
+      "comment": "OVA: 6083"
+    },
+    {
+      "site": "youku",
+      "id": "658471587fa211e6bdbb",
+      "begin": "2016-10-08T09:15:09.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "187112"
+    },
+    {
+      "site": "nicovideo",
+      "id": "matoi-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "qq",
+      "id": "m/mdp5slz8yh5nk4e",
+      "begin": ""
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UcgLdE6znVjefzpQ72G0ZNhL",
+      "begin": "2020-08-19T16:00:00.000Z",
+      "broadcast": "R/2020-08-19T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "84296",
+      "begin": "2016-10-04T15:40:00.000Z",
+      "broadcast": "R/2016-10-04T15:40:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0026726",
+      "begin": "2024-01-31T15:00:00.000Z",
+      "broadcast": "R/2024-01-31T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "神裝少|装神少"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "57efb775ac5b9d0762d174b4"
+    },
+    {
+      "site": "mikan",
+      "id": "846"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "84296",
+      "begin": "2016-10-04T15:40:00.000Z",
+      "broadcast": "R/2016-10-04T15:40:00.000Z/P7D"
+    }
+  ]
 }

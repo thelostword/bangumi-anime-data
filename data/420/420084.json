@@ -149,5 +149,41 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "420084"
+    },
+    {
+      "site": "disneyplus",
+      "id": "hQ0p1WPHHQmZ",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "21176277",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "異修羅"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "659142a4b885a81efda115d8"
+    },
+    {
+      "site": "mikan",
+      "id": "3261"
+    },
+    {
+      "site": "unext",
+      "id": "SID0148747",
+      "begin": "2024-09-30T15:00:00.000Z",
+      "broadcast": "R/2024-09-30T15:00:00.000Z/P7D"
+    }
+  ]
 }

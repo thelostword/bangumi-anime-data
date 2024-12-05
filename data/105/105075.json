@@ -149,5 +149,65 @@
       "count": 9
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "mgtv",
+      "id": "109727",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "youku",
+      "id": "3f3c69e0d37b11e4b692",
+      "begin": "2015-04-04T18:30:00.000Z",
+      "broadcast": "R/2015-04-04T14:10:49.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhay9bt",
+      "begin": "2015-04-04T18:30:00.000Z",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "1553",
+      "begin": "2015-04-04T18:30:00.000Z",
+      "broadcast": "R/2015-04-04T18:30:06.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "105075"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kekkaisensen",
+      "begin": "2015-04-07T15:30:00.000Z",
+      "broadcast": ""
+    },
+    {
+      "site": "qq",
+      "id": "o/o3ujve87s5wfxj1",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0012729",
+      "begin": "2019-11-01T03:00:00.000Z",
+      "broadcast": "R/2019-11-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "血界"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "552aa3c7dd3d5c0b4e82f09d"
+    },
+    {
+      "site": "mikan",
+      "id": "493"
+    }
+  ]
 }

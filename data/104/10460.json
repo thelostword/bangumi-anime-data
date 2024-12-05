@@ -149,5 +149,26 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "10460"
+    },
+    {
+      "site": "nicovideo",
+      "id": "itsu-ten",
+      "begin": "2011-07-15T17:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0042773",
+      "begin": "2019-10-14T03:00:00.000Z",
+      "broadcast": "R/2019-10-14T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "天魔|Itsuka+黑兔|Tenma"
+    }
+  ]
 }

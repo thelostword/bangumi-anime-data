@@ -149,5 +149,35 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "376703"
+    },
+    {
+      "site": "unext",
+      "id": "SID0079602",
+      "begin": "2023-04-08T15:00:00.000Z",
+      "broadcast": "R/2023-04-08T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "U149"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6425d63f55eb4cdc768e3984"
+    },
+    {
+      "site": "mikan",
+      "id": "3028"
+    },
+    {
+      "site": "nicovideo",
+      "id": "cinderella-u149",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

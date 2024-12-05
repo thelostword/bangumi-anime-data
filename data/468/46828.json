@@ -149,5 +149,32 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrjxlrwx",
+      "begin": "2013-04-09T19:30:48.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "46828"
+    },
+    {
+      "site": "nicovideo",
+      "id": "yuyushiki",
+      "begin": "2013-04-11T15:30:00.000Z",
+      "broadcast": "R/2013-04-11T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002348",
+      "begin": "2020-05-02T03:00:00.000Z",
+      "broadcast": "R/2020-05-02T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "悠悠|yuyu"
+    }
+  ]
 }

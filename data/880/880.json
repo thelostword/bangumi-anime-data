@@ -149,5 +149,26 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "880"
+    },
+    {
+      "site": "youku",
+      "id": "cc00778a962411de83b1",
+      "begin": "2011-10-12T10:25:24.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002854",
+      "begin": "2017-08-03T03:00:00.000Z",
+      "broadcast": "R/2017-08-03T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ca206acd8405d2d2e62b94f"
+    }
+  ]
 }

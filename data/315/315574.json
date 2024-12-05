@@ -149,5 +149,49 @@
       "count": 12
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "315574"
+    },
+    {
+      "site": "bilibili",
+      "id": "28232238",
+      "begin": "2021-01-04T15:00:00.000Z",
+      "broadcast": "R/2021-01-04T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "19-71",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0053831",
+      "begin": "2021-01-05T03:00:00.000Z",
+      "broadcast": "R/2021-01-05T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ff0433d84202e4c2e99e1c0"
+    },
+    {
+      "site": "mikan",
+      "id": "2377"
+    },
+    {
+      "site": "nicovideo",
+      "id": "anime-umamusume2",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtTx4vdmdWY6dbb1-escsuGS",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

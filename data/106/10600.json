@@ -149,5 +149,26 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "10600"
+    },
+    {
+      "site": "bilibili",
+      "id": "944",
+      "begin": "2011-03-31T16:00:00.000Z",
+      "broadcast": "R/2012-02-08T19:00:22.000Z/P7D"
+    },
+    {
+      "site": "qq",
+      "id": "4/47g5ytgl5rfww1v",
+      "begin": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "x-men"
+    }
+  ]
 }

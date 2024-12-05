@@ -149,5 +149,25 @@
       "count": 9
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "b/buifm97guxf51ld",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "9801"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ch319",
+      "begin": "2011-01-11T17:00:00.000Z"
+    },
+    {
+      "site": "dmhy",
+      "id": "腹黑妹|不喜歡"
+    }
+  ]
 }

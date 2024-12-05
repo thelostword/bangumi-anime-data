@@ -149,5 +149,41 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "257991"
+    },
+    {
+      "site": "nicovideo",
+      "id": "sakugan-anime",
+      "begin": "2021-10-10T14:30:00.000Z",
+      "broadcast": "R/2021-10-10T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28235174",
+      "begin": "2021-10-07T14:30:01.000Z",
+      "broadcast": "R/2021-10-07T14:30:01.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0061709",
+      "begin": "2021-10-10T14:30:00.000Z",
+      "broadcast": "R/2021-10-10T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "SAKUGAN"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "615bb925d7f73dd4ed5c4427"
+    },
+    {
+      "site": "mikan",
+      "id": "2566"
+    }
+  ]
 }

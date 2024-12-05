@@ -149,5 +149,51 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5539",
+      "begin": "2016-10-03T17:35:00.000Z",
+      "broadcast": "R/2016-10-03T17:35:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh9uell",
+      "begin": "2016-10-03T17:35:00.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "cfec86ce7f0011e6bdbb",
+      "begin": "2016-10-03T17:35:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "175536"
+    },
+    {
+      "site": "nicovideo",
+      "id": "syakunetsu",
+      "begin": "2016-10-07T03:00:00.000Z",
+      "broadcast": "R/2016-10-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0026859",
+      "begin": "2023-04-07T03:00:00.000Z",
+      "broadcast": "R/2023-04-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "灼熱+娘"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "57efb6fbac5b9d0762d174ae"
+    },
+    {
+      "site": "mikan",
+      "id": "843"
+    }
+  ]
 }

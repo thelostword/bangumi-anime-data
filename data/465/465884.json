@@ -149,5 +149,53 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "465884"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6681471b57ba1568dc1b07da"
+    },
+    {
+      "site": "gamer",
+      "id": "136527",
+      "begin": "2024-07-09T15:06:00.000Z",
+      "broadcast": "R/2024-07-09T15:06:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "136527",
+      "begin": "2024-07-09T15:06:00.000Z",
+      "broadcast": "R/2024-07-09T15:06:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0104170",
+      "begin": "2024-07-11T14:45:00.000Z",
+      "broadcast": "R/2024-07-11T14:45:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "168-64",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "21827779",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "魔法少女 與惡|和邪惡"
+    },
+    {
+      "site": "mikan",
+      "id": "3366"
+    }
+  ]
 }

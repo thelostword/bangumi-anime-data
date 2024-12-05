@@ -109,5 +109,27 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "333033"
+    },
+    {
+      "site": "nicovideo",
+      "id": "youkai-watch2021",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0056144",
+      "begin": "2021-04-16T03:00:00.000Z",
+      "broadcast": "R/2021-04-16T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6065f09aeaf504d0216b77b3"
+    }
+  ]
 }

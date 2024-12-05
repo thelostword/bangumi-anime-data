@@ -149,5 +149,30 @@
       "count": 9
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhay589",
+      "begin": "2015-01-15T16:00:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "107835"
+    },
+    {
+      "site": "bilibili",
+      "id": "28228770",
+      "begin": "2015-01-09T16:00:00.000Z",
+      "broadcast": "R/2020-05-08T10:58:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "ALDNOAH"
+    },
+    {
+      "site": "mikan",
+      "id": "454"
+    }
+  ]
 }

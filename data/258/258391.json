@@ -41,5 +41,22 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "258391"
+    },
+    {
+      "site": "nicovideo",
+      "id": "rerere-tensaibakabon",
+      "begin": "2018-07-06T15:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002941",
+      "begin": "2018-07-12T03:00:00.000Z",
+      "broadcast": "R/2018-07-12T03:00:00.000Z/P7D"
+    }
+  ]
 }

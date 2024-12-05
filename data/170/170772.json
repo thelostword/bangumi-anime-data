@@ -149,5 +149,40 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "170772"
+    },
+    {
+      "site": "nicovideo",
+      "id": "bbkbrnkebg",
+      "begin": "2016-10-12T15:30:00.000Z",
+      "broadcast": "R/2016-10-12T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "37afa92378c911e6b9bb",
+      "begin": "2016-10-08T08:21:30.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0026760",
+      "begin": "2019-09-03T03:00:00.000Z",
+      "broadcast": "R/2019-09-03T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "武器+星"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "57efc05eac5b9d0762d174e8"
+    },
+    {
+      "site": "mikan",
+      "id": "820"
+    }
+  ]
 }

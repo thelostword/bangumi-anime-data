@@ -149,5 +149,21 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "12655"
+    },
+    {
+      "site": "bilibili",
+      "id": "775",
+      "begin": "2012-04-02T16:00:00.000Z",
+      "broadcast": "R/2012-04-02T18:14:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "希望宅邸"
+    }
+  ]
 }

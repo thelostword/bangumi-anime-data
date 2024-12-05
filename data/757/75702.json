@@ -149,5 +149,27 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "75702"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kitakubu",
+      "begin": "2014-05-22T06:00:00.000Z",
+      "broadcast": "R/2014-05-22T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "3135",
+      "begin": "2013-07-03T16:00:00.000Z",
+      "broadcast": "R/2015-12-09T09:57:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "歸宅"
+    }
+  ]
 }

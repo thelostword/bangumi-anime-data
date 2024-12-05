@@ -149,5 +149,15 @@
       "count": 14
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "5653"
+    },
+    {
+      "site": "dmhy",
+      "id": "屍鬼"
+    }
+  ]
 }

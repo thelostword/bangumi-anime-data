@@ -149,5 +149,41 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "j/jscsr92k16z03ta",
+      "begin": ""
+    },
+    {
+      "site": "youku",
+      "id": "88a13c1aa51311e3a705",
+      "begin": "2014-04-11T00:46:44.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "110",
+      "begin": "2014-04-09T16:00:00.000Z",
+      "broadcast": "R/2014-04-11T01:10:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "93509"
+    },
+    {
+      "site": "nicovideo",
+      "id": "anime_inuneko",
+      "begin": "2014-04-15T12:00:00.000Z",
+      "broadcast": "R/2014-04-15T12:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "犬神+貓"
+    },
+    {
+      "site": "mikan",
+      "id": "331"
+    }
+  ]
 }

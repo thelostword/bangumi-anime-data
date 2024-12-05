@@ -149,5 +149,34 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "298451"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhwmdmd",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0047141",
+      "begin": "2021-05-30T15:00:00.000Z",
+      "broadcast": "R/2021-05-30T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "數碼 冒險 ：|2020"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5e82284e657e22f4195cc760"
+    },
+    {
+      "site": "mikan",
+      "id": "2212"
+    }
+  ]
 }

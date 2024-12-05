@@ -117,5 +117,59 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "484981"
+    },
+    {
+      "site": "nicovideo",
+      "id": "dragonlife-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0157058",
+      "begin": "2024-10-10T17:00:00.000Z",
+      "broadcast": "R/2024-10-10T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66fb601c89c3a6ce864cbcd9"
+    },
+    {
+      "site": "abema",
+      "id": "194-42",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "138350",
+      "begin": "2024-10-03T17:00:00.000Z",
+      "broadcast": "R/2024-10-03T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3442"
+    },
+    {
+      "site": "gamer",
+      "id": "138350",
+      "begin": "2024-10-03T17:00:00.000Z",
+      "broadcast": "R/2024-10-03T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "22927587",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "再見龍生"
+    }
+  ]
 }

@@ -149,5 +149,20 @@
       "count": 12
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "32318"
+    },
+    {
+      "site": "youku",
+      "id": "22c8f4047fa511e18195",
+      "begin": "2012-04-09T13:38:48.000Z"
+    },
+    {
+      "site": "dmhy",
+      "id": "白熊咖啡"
+    }
+  ]
 }

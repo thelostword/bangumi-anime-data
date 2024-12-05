@@ -149,5 +149,71 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "29e2a70ad2c011e4b8e3",
+      "begin": "2015-04-13T00:00:00.000Z",
+      "broadcast": "R/2015-04-28T12:20:42.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "118906"
+    },
+    {
+      "site": "nicovideo",
+      "id": "yamajo",
+      "begin": "2015-04-17T03:00:00.000Z",
+      "broadcast": ""
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JjskJ0TWP1V9KqH-szrYbpi",
+      "begin": "2020-07-08T16:00:00.000Z",
+      "broadcast": "R/2020-07-08T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtTrCbpl4-iKjN0rHItx94Qy",
+      "begin": "2022-06-27T16:00:00.000Z",
+      "broadcast": "R/2022-06-27T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0013567",
+      "begin": "2017-02-16T03:00:00.000Z",
+      "broadcast": "R/2017-02-16T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "117-8",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "74323",
+      "begin": "2024-06-03T01:40:00.000Z",
+      "broadcast": "R/2024-06-03T01:40:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "山田+魔女"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5517c7d736cc53397d02a9b6"
+    },
+    {
+      "site": "mikan",
+      "id": "521"
+    },
+    {
+      "site": "gamer",
+      "id": "74323",
+      "begin": "2024-06-03T01:40:00.000Z",
+      "broadcast": "R/2024-06-03T01:40:00.000Z/P7D"
+    }
+  ]
 }

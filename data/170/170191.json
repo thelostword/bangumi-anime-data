@@ -149,5 +149,34 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "2c1e303055f011e5a080",
+      "begin": "2016-10-02T08:00:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "170191"
+    },
+    {
+      "site": "bilibili",
+      "id": "4310082",
+      "begin": "2016-10-02T08:00:00.000Z",
+      "broadcast": "R/2018-11-16T10:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "機動+鐵血"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "57efc781ac5b9d0762d17508"
+    },
+    {
+      "site": "mikan",
+      "id": "830"
+    }
+  ]
 }

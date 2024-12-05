@@ -149,5 +149,59 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "144357"
+    },
+    {
+      "site": "nicovideo",
+      "id": "bungo-stray-dogs",
+      "begin": "2016-04-15T14:30:00.000Z",
+      "broadcast": "R/2016-04-15T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "80132126",
+      "begin": "2022-02-27T16:00:00.000Z",
+      "broadcast": "R/2022-02-27T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "79112",
+      "begin": "2023-04-14T02:30:00.000Z",
+      "broadcast": "R/2023-04-14T02:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0023831",
+      "begin": "2018-04-12T03:00:00.000Z",
+      "broadcast": "R/2018-04-12T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "vQSFkhzJS0jX",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "79112",
+      "begin": "2023-04-14T02:30:00.000Z",
+      "broadcast": "R/2023-04-14T02:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "文豪"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "56fd5932c6dbe72e14a0d350"
+    },
+    {
+      "site": "mikan",
+      "id": "717"
+    }
+  ]
 }

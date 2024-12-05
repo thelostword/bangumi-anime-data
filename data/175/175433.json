@@ -121,5 +121,33 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "175433"
+    },
+    {
+      "site": "nicovideo",
+      "id": "duelmastersvsrf",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "13287272",
+      "begin": "2016-04-02T16:00:00.000Z",
+      "broadcast": "R/2019-01-30T07:59:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0062172",
+      "begin": "2024-04-01T03:00:00.000Z",
+      "broadcast": "R/2024-04-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "56fd5d3bc6dbe72e14a0d390"
+    }
+  ]
 }

@@ -125,5 +125,59 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "491151"
+    },
+    {
+      "site": "nicovideo",
+      "id": "wajutsushi-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "abema",
+      "id": "54-95",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "viu",
+      "id": "2433197",
+      "begin": "2024-09-30T15:00:57.000Z",
+      "broadcast": "R/2024-09-30T15:00:57.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "138933",
+      "begin": "2024-09-30T15:00:00.000Z",
+      "broadcast": "R/2024-09-30T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3417"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66fb601489c3a6ce864cbca5"
+    },
+    {
+      "site": "gamer",
+      "id": "138933",
+      "begin": "2024-09-30T15:00:00.000Z",
+      "broadcast": "R/2024-09-30T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "22878145",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "話術士"
+    }
+  ]
 }

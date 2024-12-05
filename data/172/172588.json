@@ -149,5 +149,41 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "3478",
+      "begin": "2016-04-06T15:20:01.000Z",
+      "broadcast": "R/2016-04-06T15:20:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "172588"
+    },
+    {
+      "site": "nicovideo",
+      "id": "cranegale",
+      "begin": "2016-04-08T15:00:00.000Z",
+      "broadcast": "R/2016-04-08T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0023869",
+      "begin": "2016-04-16T03:00:00.000Z",
+      "broadcast": "R/2016-04-16T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Crane+Game"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "56fd58b6c6dbe72e14a0d34a"
+    },
+    {
+      "site": "mikan",
+      "id": "714"
+    }
+  ]
 }

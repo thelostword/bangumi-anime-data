@@ -149,5 +149,40 @@
       "count": 16
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "88433"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kiseiju",
+      "begin": "2014-10-09T14:30:00.000Z"
+    },
+    {
+      "site": "netflix",
+      "id": "80191008",
+      "begin": "2022-11-30T00:00:00.000Z",
+      "broadcast": "R/2022-11-30T00:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0011863",
+      "begin": "2018-06-14T03:00:00.000Z",
+      "broadcast": "R/2018-06-14T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "寄生獸"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "548f12e0f892774b140ac684"
+    },
+    {
+      "site": "mikan",
+      "id": "385"
+    }
+  ]
 }

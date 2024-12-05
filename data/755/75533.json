@@ -149,5 +149,22 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "r/rfgkivnu2k0ylyb",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "75533"
+    },
+    {
+      "site": "nicovideo",
+      "id": "karanokyoukai",
+      "begin": "2013-07-05T15:30:00.000Z",
+      "broadcast": "R/2018-07-19T09:00:00.000Z/P7D"
+    }
+  ]
 }

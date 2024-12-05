@@ -149,5 +149,46 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "800f827f7ef211e69c81",
+      "begin": "2016-10-08T08:47:24.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "146754"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh92rat",
+      "begin": "2018-10-18T16:00:12.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "10645046",
+      "begin": "2019-01-17T03:30:00.000Z",
+      "broadcast": "R/2019-01-17T03:30:00.000Z/P7D",
+      "comment": "第二季"
+    },
+    {
+      "site": "unext",
+      "id": "SID0026763",
+      "begin": "2019-11-21T03:00:00.000Z",
+      "broadcast": "R/2019-11-21T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "獵人+Ride"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "57efc748ac5b9d0762d17506"
+    },
+    {
+      "site": "mikan",
+      "id": "828"
+    }
+  ]
 }

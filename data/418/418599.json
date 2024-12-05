@@ -81,5 +81,37 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "418599"
+    },
+    {
+      "site": "mytv",
+      "id": "beybladex_139812",
+      "begin": "2023-11-19T12:30:00.000Z",
+      "broadcast": "R/2023-11-19T12:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0091758",
+      "begin": "2023-10-06T10:00:00.000Z",
+      "broadcast": "R/2023-10-06T10:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "65186f844c90aa63daeaa225"
+    },
+    {
+      "site": "mikan",
+      "id": "3171"
+    },
+    {
+      "site": "netflix",
+      "id": "81924739",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

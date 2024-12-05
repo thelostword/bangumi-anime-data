@@ -149,5 +149,23 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "1942"
+    },
+    {
+      "site": "bilibili",
+      "id": "3860",
+      "begin": "2000-07-14T16:00:01.000Z",
+      "broadcast": "R/2020-12-21T07:15:00.000Z/P7D"
+    },
+    {
+      "site": "qq",
+      "id": "m/mzc00200naxyf8g",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

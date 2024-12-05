@@ -129,5 +129,27 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "219759"
+    },
+    {
+      "site": "bilibili",
+      "id": "6476",
+      "begin": "2017-10-04T15:25:00.000Z",
+      "broadcast": "R/2017-10-04T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "rainycocoa4",
+      "begin": "2017-10-08T03:00:00.000Z",
+      "broadcast": "R/2017-10-08T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "59d0cb54fb34aac154710b75"
+    }
+  ]
 }

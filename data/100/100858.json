@@ -149,5 +149,46 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "3530",
+      "begin": "2016-04-04T10:02:24.000Z",
+      "broadcast": "R/2016-04-04T10:02:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "100858"
+    },
+    {
+      "site": "youku",
+      "id": "fb2f77c4e59911e5b522",
+      "begin": "2016-04-04T06:31:21.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0021390",
+      "begin": "2022-07-31T15:00:00.000Z",
+      "broadcast": "R/2022-07-31T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "2ZKHXDYwL2uk",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "超時空要塞+Δ"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "56fd5ddfc6dbe72e14a0d396"
+    },
+    {
+      "site": "mikan",
+      "id": "698"
+    }
+  ]
 }

@@ -149,5 +149,31 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "404284"
+    },
+    {
+      "site": "nicovideo",
+      "id": "railromanesque2",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0091793",
+      "begin": "2023-12-28T16:05:00.000Z",
+      "broadcast": "R/2023-12-28T16:05:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "65186f834c90aa63daeaa21f"
+    },
+    {
+      "site": "mikan",
+      "id": "3160"
+    }
+  ]
 }

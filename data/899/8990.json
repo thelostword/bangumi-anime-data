@@ -149,5 +149,27 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "8990"
+    },
+    {
+      "site": "bilibili",
+      "id": "865",
+      "begin": "2011-01-05T16:00:00.000Z",
+      "broadcast": "R/2011-04-10T17:10:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0003271",
+      "begin": "2022-04-27T03:00:00.000Z",
+      "broadcast": "R/2022-04-27T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Yumekui Merry|食夢者瑪莉|食夢者瑪利"
+    }
+  ]
 }

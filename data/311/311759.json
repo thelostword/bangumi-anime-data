@@ -149,5 +149,41 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "311759"
+    },
+    {
+      "site": "nicovideo",
+      "id": "daimankai",
+      "begin": "2021-10-01T17:55:00.000Z",
+      "broadcast": "R/2021-10-01T17:55:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28235178",
+      "begin": "2021-10-01T18:25:01.000Z",
+      "broadcast": "R/2021-10-01T18:25:01.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0061684",
+      "begin": "2021-10-01T17:55:00.000Z",
+      "broadcast": "R/2021-10-01T17:55:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "結城友奈 滿開"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "615bb92ad7f73dd4ed5c4442"
+    },
+    {
+      "site": "mikan",
+      "id": "2560"
+    }
+  ]
 }

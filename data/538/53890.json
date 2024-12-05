@@ -149,5 +149,33 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "53890"
+    },
+    {
+      "site": "nicovideo",
+      "id": "aimaimi",
+      "begin": "2013-01-03T16:00:00.000Z",
+      "broadcast": "R/2013-01-03T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "7",
+      "begin": "2013-01-02T16:00:00.000Z",
+      "broadcast": "R/2013-01-11T03:32:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0013666",
+      "begin": "2019-12-20T03:00:00.000Z",
+      "broadcast": "R/2019-12-20T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "漫研部"
+    }
+  ]
 }

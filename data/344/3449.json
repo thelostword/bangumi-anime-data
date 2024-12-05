@@ -149,5 +149,23 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "3449"
+    },
+    {
+      "site": "nicovideo",
+      "id": "omamorihimari",
+      "begin": "2020-03-13T06:00:00.000Z",
+      "broadcast": "R/2020-03-13T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0042777",
+      "begin": "2019-10-30T03:00:00.000Z",
+      "broadcast": "R/2019-10-30T03:00:00.000Z/P7D"
+    }
+  ]
 }

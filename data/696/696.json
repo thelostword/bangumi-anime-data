@@ -149,5 +149,28 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "696"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kenpudenki-berserk-anime",
+      "begin": "2016-07-27T06:00:00.000Z"
+    },
+    {
+      "site": "netflix",
+      "id": "80243876",
+      "begin": "2022-11-30T00:00:00.000Z",
+      "broadcast": "R/2022-11-30T00:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002206",
+      "begin": "2019-06-28T03:00:00.000Z",
+      "broadcast": "R/2019-06-28T03:00:00.000Z/P7D"
+    }
+  ]
 }

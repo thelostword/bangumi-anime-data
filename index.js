@@ -6,9 +6,18 @@ import { fetchData } from './utils/spider';
 import { intervalToDuration  } from 'date-fns';
 import { mergeAndSaveData } from './merge';
 
+
+/** @typedef {import('bangumi-data/data').Site[]} Sites */
+/**
+ * @type {Object.<string, Sites>}
+ */
+const siteIdMap = {};
+
 const bangumiIds = items.map((item) => {
   const site = item.sites.find((site) => site.site === 'bangumi');
-  return site?.id ?? '';
+  const bgmId = site?.id ?? '';
+  siteIdMap[bgmId] = item.sites;
+  return bgmId;
 });
 
 const completedIdsStr = await readFile(join(__dirname, 'completed_ids'), { encoding: 'utf8' });
@@ -30,11 +39,16 @@ const fetchAndSave = async () => {
       try {
         const id = differenceIds[currentIndex++];
         if (!id) return;
-        const data = await fetchData(+id);
+        const aniData = await fetchData(+id);
 
-        if (data === null) {
+        if (aniData === null) {
           console.log(`Failed: ${id}`);
           return;
+        }
+
+        const data = {
+          ...aniData,
+          sites: siteIdMap[id]
         }
 
         const dirPath = join(__dirname, 'data', id.slice(0, 3).padEnd(3, '0'));

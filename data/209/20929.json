@@ -149,5 +149,28 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "20929"
+    },
+    {
+      "site": "bilibili",
+      "id": "2291",
+      "begin": "1997-12-17T16:00:00.000Z",
+      "broadcast": "R/2013-09-03T12:22:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "sakura-taisen-ova",
+      "begin": "2020-04-11T03:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0047107",
+      "begin": "2020-04-02T03:00:00.000Z",
+      "broadcast": "R/2020-04-02T03:00:00.000Z/P7D"
+    }
+  ]
 }

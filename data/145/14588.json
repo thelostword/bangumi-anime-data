@@ -149,5 +149,32 @@
       "count": 14
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "14588"
+    },
+    {
+      "site": "nicovideo",
+      "id": "yuruyuri",
+      "begin": "2011-07-11T15:30:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0018612",
+      "begin": "2015-07-02T06:00:00.000Z",
+      "broadcast": "R/2015-07-02T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "149-28i9ircg5g9",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "搖曳|輕鬆+百合"
+    }
+  ]
 }

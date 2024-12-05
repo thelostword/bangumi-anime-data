@@ -149,5 +149,33 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "10761"
+    },
+    {
+      "site": "nicovideo",
+      "id": "twin-angel",
+      "begin": "2011-07-08T16:00:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "28220970",
+      "begin": "2011-07-03T16:00:00.000Z",
+      "broadcast": "R/2019-05-11T10:37:00.000Z/P7D",
+      "comment": "字幕組版: 906"
+    },
+    {
+      "site": "unext",
+      "id": "SID0096727",
+      "begin": "2024-01-10T03:00:00.000Z",
+      "broadcast": "R/2024-01-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "盜天使"
+    }
+  ]
 }

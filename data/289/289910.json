@@ -149,5 +149,71 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "289910"
+    },
+    {
+      "site": "nicovideo",
+      "id": "galkyo",
+      "begin": "2020-03-31T07:00:00.000Z",
+      "broadcast": "R/2020-03-31T07:00:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhlz9k5",
+      "begin": ""
+    },
+    {
+      "site": "qq",
+      "id": "m/mzc00200aemagk4",
+      "begin": ""
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Ucjl51ygO__WeHCzcMKSEu_a",
+      "begin": "2020-04-03T16:00:00.000Z",
+      "broadcast": "R/2020-04-03T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "107537",
+      "begin": "2020-04-04T17:30:00.000Z",
+      "broadcast": "R/2020-04-04T17:30:00.000Z/P7D",
+      "comment": "真人版: 111499"
+    },
+    {
+      "site": "bilibili_tw",
+      "id": "28228505",
+      "begin": "2020-04-04T17:30:00.000Z",
+      "broadcast": "R/2020-04-04T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0047116",
+      "begin": "2020-04-04T16:00:00.000Z",
+      "broadcast": "R/2020-04-04T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "辣妹 恐龍"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5e82288e657e22f4195cc7a4"
+    },
+    {
+      "site": "mikan",
+      "id": "2215"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "107537",
+      "begin": "2020-04-04T17:30:00.000Z",
+      "broadcast": "R/2020-04-04T17:30:00.000Z/P7D",
+      "comment": "真人版: 111499"
+    }
+  ]
 }

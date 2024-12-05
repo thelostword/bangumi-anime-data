@@ -149,5 +149,36 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "292382"
+    },
+    {
+      "site": "netflix",
+      "id": "80993018",
+      "begin": "2020-07-08T16:00:00.000Z",
+      "broadcast": "R/2020-07-08T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "acfun",
+      "id": "6002684",
+      "begin": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5f13d7c732f14c000704bb1a"
+    },
+    {
+      "site": "mikan",
+      "id": "2273"
+    },
+    {
+      "site": "nicovideo",
+      "id": "japansinks2020",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

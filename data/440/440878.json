@@ -149,5 +149,33 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "440878"
+    },
+    {
+      "site": "nicovideo",
+      "id": "cf-vanguard_divinez",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0096699",
+      "begin": "2024-01-12T23:30:00.000Z",
+      "broadcast": "R/2024-01-12T23:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "283-24",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3243"
+    }
+  ]
 }

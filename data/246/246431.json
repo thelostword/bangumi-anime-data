@@ -149,5 +149,37 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "246431"
+    },
+    {
+      "site": "nicovideo",
+      "id": "girls-band-party-pico",
+      "begin": "2018-08-23T11:00:00.000Z",
+      "broadcast": "R/2018-08-23T11:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "135252",
+      "begin": "2018-07-06T13:45:00.000Z",
+      "broadcast": "R/2018-07-05T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0039308",
+      "begin": "2021-05-14T03:00:00.000Z",
+      "broadcast": "R/2021-05-14T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5b38c4b8b3d4e8ef387d7ee1"
+    },
+    {
+      "site": "mikan",
+      "id": "1705"
+    }
+  ]
 }

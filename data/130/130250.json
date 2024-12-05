@@ -149,5 +149,41 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "2722",
+      "begin": "2015-10-03T13:00:00.000Z",
+      "broadcast": "R/2015-10-03T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "130250"
+    },
+    {
+      "site": "nicovideo",
+      "id": "asterisk-war",
+      "begin": "2015-10-08T03:00:00.000Z",
+      "broadcast": "R/2015-10-08T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0019861",
+      "begin": "2019-02-21T03:00:00.000Z",
+      "broadcast": "R/2019-02-21T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "戰都"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "560d10dc9286e15329cf9502"
+    },
+    {
+      "site": "mikan",
+      "id": "590"
+    }
+  ]
 }

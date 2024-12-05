@@ -149,5 +149,29 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "289102"
+    },
+    {
+      "site": "unext",
+      "id": "SID0096001",
+      "begin": "2024-01-10T03:00:00.000Z",
+      "broadcast": "R/2024-01-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "26-144",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "nicovideo",
+      "id": "tgcf-anime2",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

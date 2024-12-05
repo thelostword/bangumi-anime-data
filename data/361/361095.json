@@ -149,5 +149,31 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "361095"
+    },
+    {
+      "site": "unext",
+      "id": "SID0073131",
+      "begin": "2022-10-24T14:00:00.000Z",
+      "broadcast": "R/2022-10-24T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "黃金神威"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "632762c52eaf6e578875f7c4"
+    },
+    {
+      "site": "abema",
+      "id": "11-61",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

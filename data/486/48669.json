@@ -149,5 +149,21 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "48669"
+    },
+    {
+      "site": "nicovideo",
+      "id": "senyu",
+      "begin": "2013-01-08T17:10:00.000Z",
+      "broadcast": "R/2013-01-08T17:10:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "戰勇"
+    }
+  ]
 }

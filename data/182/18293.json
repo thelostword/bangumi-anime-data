@@ -33,5 +33,16 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "18293"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kayochu",
+      "begin": "2011-10-07T06:00:00.000Z"
+    }
+  ]
 }

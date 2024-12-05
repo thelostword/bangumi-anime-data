@@ -149,5 +149,55 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "347887"
+    },
+    {
+      "site": "bilibili",
+      "id": "28235860",
+      "begin": "2022-01-07T17:30:00.000Z",
+      "broadcast": "R/2022-01-14T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "viu",
+      "id": "418264",
+      "begin": "2022-01-06T16:00:00.000Z",
+      "broadcast": "R/2022-01-06T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UchoubY9j9znAPdWQLn5IhjM",
+      "begin": "2022-01-01T16:00:00.000Z",
+      "broadcast": "R/2022-01-01T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "119466",
+      "begin": "2022-01-07T17:30:00.000Z",
+      "broadcast": "R/2022-01-07T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0063359",
+      "begin": "2022-01-12T15:00:00.000Z",
+      "broadcast": "R/2022-01-12T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "119466",
+      "begin": "2022-01-07T17:30:00.000Z",
+      "broadcast": "R/2022-01-07T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "高木同學 3季|三季|3期|三期|S03|S3|3rd|高木同學3"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "61d722076e31a0815abf5435"
+    }
+  ]
 }

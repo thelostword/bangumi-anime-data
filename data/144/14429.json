@@ -149,5 +149,22 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "14429"
+    },
+    {
+      "site": "nicovideo",
+      "id": "oyashirosama04",
+      "begin": "2017-06-16T15:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002300",
+      "begin": "2015-02-16T15:00:00.000Z",
+      "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+    }
+  ]
 }

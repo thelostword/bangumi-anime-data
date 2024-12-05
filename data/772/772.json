@@ -149,5 +149,43 @@
       "count": 16
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "772"
+    },
+    {
+      "site": "qq",
+      "id": "t/tr5q6ohz06g4tzx",
+      "begin": ""
+    },
+    {
+      "site": "nicovideo",
+      "id": "evangelion_new_movie_jo",
+      "begin": ""
+    },
+    {
+      "site": "acfun",
+      "id": "5023298",
+      "begin": "2019-01-09T11:47:13.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "ef277d8e61ad11e0bea1",
+      "begin": "2020-04-26T08:15:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "10332",
+      "begin": "2017-10-06T13:36:00.000Z",
+      "broadcast": "R/2017-10-06T13:36:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0038838",
+      "begin": "2019-11-30T15:00:00.000Z",
+      "broadcast": "R/2019-11-30T15:00:00.000Z/P7D"
+    }
+  ]
 }

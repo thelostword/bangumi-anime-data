@@ -149,5 +149,35 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "106212"
+    },
+    {
+      "site": "nicovideo",
+      "id": "haremking3",
+      "begin": "2015-04-16T16:30:00.000Z",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0034427",
+      "begin": "2018-04-18T03:00:00.000Z",
+      "broadcast": "R/2018-04-18T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "High+BorN"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "550fd9651fe5c31a190a0687"
+    },
+    {
+      "site": "mikan",
+      "id": "487"
+    }
+  ]
 }

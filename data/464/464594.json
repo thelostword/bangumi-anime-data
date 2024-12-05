@@ -179,5 +179,21 @@
       "total_cont": 0
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "464594"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66fb601589c3a6ce864cbcab"
+    },
+    {
+      "site": "abema",
+      "id": "19-175",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

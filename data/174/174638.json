@@ -149,5 +149,75 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5550",
+      "begin": "2016-10-04T19:00:00.000Z",
+      "broadcast": "R/2016-10-04T19:00:00.000Z/P7D",
+      "comment": "特别篇: 8512"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh9toi9",
+      "begin": "2016-10-04T19:00:00.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "g/gyf3u5vx0m42531",
+      "begin": "2016-10-04T19:00:00.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "156d1c7a7b1611e69e06",
+      "begin": "2016-10-04T19:00:00.000Z"
+    },
+    {
+      "site": "mgtv",
+      "id": "301218",
+      "begin": "2016-10-04T19:00:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "174638"
+    },
+    {
+      "site": "nicovideo",
+      "id": "natsume5",
+      "begin": "2016-10-05T03:00:00.000Z",
+      "broadcast": "R/2016-10-05T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "82696",
+      "begin": "2016-10-04T19:00:00.000Z",
+      "broadcast": "R/2016-10-04T19:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0026769",
+      "begin": "2016-10-10T03:00:00.000Z",
+      "broadcast": "R/2016-10-10T03:00:00.000Z/P7D",
+      "comment": "特別編: SID0043386"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "82696",
+      "begin": "2016-10-04T19:00:00.000Z",
+      "broadcast": "R/2016-10-04T19:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "夏目 伍|5季"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "57efb827ac5b9d0762d174b6"
+    },
+    {
+      "site": "mikan",
+      "id": "847"
+    }
+  ]
 }

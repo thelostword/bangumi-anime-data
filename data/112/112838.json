@@ -149,5 +149,27 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "112838"
+    },
+    {
+      "site": "nicovideo",
+      "id": "tesabu",
+      "begin": "2013-10-05T17:50:00.000Z",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0012711",
+      "begin": "2023-02-01T03:00:00.000Z",
+      "broadcast": "R/2023-02-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "摸索|Tesagure"
+    }
+  ]
 }

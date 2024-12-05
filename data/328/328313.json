@@ -149,5 +149,71 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "328313"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ansatsu-kizoku",
+      "begin": "2021-10-13T14:30:00.000Z",
+      "broadcast": "R/2021-10-13T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28235173",
+      "begin": "2021-10-06T15:00:01.000Z",
+      "broadcast": "R/2021-10-06T15:00:01.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Ucj8VqxRDxA349ZNl9zu-s8i",
+      "begin": "2022-04-19T16:00:00.000Z",
+      "broadcast": "R/2022-04-19T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81511191",
+      "begin": "2022-07-30T16:00:00.000Z",
+      "broadcast": "R/2022-07-30T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "115874",
+      "begin": "2021-10-06T15:00:00.000Z",
+      "broadcast": "R/2021-10-06T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0058466",
+      "begin": "2021-10-13T14:30:00.000Z",
+      "broadcast": "R/2021-10-13T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "115874",
+      "begin": "2021-10-06T15:00:00.000Z",
+      "broadcast": "R/2021-10-06T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "暗殺 貴族"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "615bb924d7f73dd4ed5c441f"
+    },
+    {
+      "site": "mikan",
+      "id": "2568"
+    },
+    {
+      "site": "mytv",
+      "id": "theworldsfinestassassingetsreincarnatedinanotherworldasanaristocrat0002_141235",
+      "begin": "2024-07-01T02:00:00.000Z",
+      "broadcast": "R/2024-07-01T02:00:00.000Z/P7D"
+    }
+  ]
 }

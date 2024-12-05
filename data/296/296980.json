@@ -149,5 +149,68 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "296980"
+    },
+    {
+      "site": "bilibili",
+      "id": "28229894",
+      "begin": "2020-10-03T01:30:01.000Z",
+      "broadcast": "R/2020-10-03T01:30:01.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "fcdca66a34874e9288f4",
+      "begin": "2020-10-03T01:30:00.000Z",
+      "broadcast": "R/2020-10-03T01:30:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_18481af6vfd",
+      "begin": "2020-10-03T01:30:00.000Z",
+      "broadcast": "R/2020-10-03T01:30:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81374392",
+      "begin": "2022-04-28T16:00:00.000Z",
+      "broadcast": "R/2022-04-28T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "mytv",
+      "id": "dragonquestdaisgreatadventure_137316",
+      "begin": "2022-12-24T05:45:00.000Z",
+      "broadcast": "R/2022-12-24T05:45:00.000Z/P7D",
+      "comment": "dragonquestdaisgreatadventure0001_141019"
+    },
+    {
+      "site": "gamer",
+      "id": "113532",
+      "begin": "2020-10-03T02:00:00.000Z",
+      "broadcast": "R/2020-10-03T02:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0050918",
+      "begin": "2020-10-04T00:30:00.000Z",
+      "broadcast": "R/2020-10-04T00:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5f7568114b840abcfc63b1ca"
+    },
+    {
+      "site": "mikan",
+      "id": "2317"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "113532",
+      "begin": "2020-10-03T02:00:00.000Z",
+      "broadcast": "R/2020-10-03T02:00:00.000Z/P7D"
+    }
+  ]
 }

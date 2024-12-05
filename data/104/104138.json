@@ -149,5 +149,61 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "311",
+      "begin": "2014-10-06T15:01:00.000Z",
+      "broadcast": "R/2014-10-06T15:01:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhc0z1p",
+      "begin": "2014-10-06T15:01:00.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "v/vkvksohhix5upx7",
+      "begin": "2014-10-06T15:01:00.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "49e9085a3d6a11e4b522",
+      "begin": "2014-10-06T15:01:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "104138"
+    },
+    {
+      "site": "nicovideo",
+      "id": "orefuro",
+      "begin": "2014-10-07T13:00:00.000Z"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JhNq_UWtlzKWYmyvjEz4UzG",
+      "begin": "2022-01-29T16:00:00.000Z",
+      "broadcast": "R/2022-01-29T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0017691",
+      "begin": "2022-06-07T03:00:00.000Z",
+      "broadcast": "R/2022-06-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "家浴"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "548f9306f892774b140ac6a2"
+    },
+    {
+      "site": "mikan",
+      "id": "393"
+    }
+  ]
 }

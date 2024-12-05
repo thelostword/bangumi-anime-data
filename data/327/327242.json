@@ -85,5 +85,21 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "327242"
+    },
+    {
+      "site": "unext",
+      "id": "SID0056822",
+      "begin": "2021-04-08T03:00:00.000Z",
+      "broadcast": "R/2021-04-08T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6065f08deaf504d0216b776d"
+    }
+  ]
 }

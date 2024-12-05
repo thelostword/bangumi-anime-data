@@ -149,5 +149,43 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "302128"
+    },
+    {
+      "site": "bilibili",
+      "id": "28237141",
+      "begin": "2022-04-08T13:30:01.000Z",
+      "broadcast": "R/2022-04-08T13:30:01.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28237190",
+      "begin": "2022-04-08T14:00:00.000Z",
+      "broadcast": "R/2022-04-08T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "date-a-live4",
+      "begin": "2022-04-15T14:00:00.000Z",
+      "broadcast": "R/2022-04-15T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0061688",
+      "begin": "2022-04-15T14:00:00.000Z",
+      "broadcast": "R/2022-04-15T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "約會大作戰 4季|四季|4期|四期|S04|S4|4th"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "624774a570e8f89b23a18566"
+    }
+  ]
 }

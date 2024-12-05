@@ -149,5 +149,49 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "260407"
+    },
+    {
+      "site": "bilibili",
+      "id": "28221401",
+      "begin": "2019-07-03T16:00:00.000Z",
+      "broadcast": "R/2019-07-03T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "maousama-anime",
+      "begin": "2019-07-10T15:00:00.000Z",
+      "broadcast": "R/2019-07-10T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28221482",
+      "begin": "2019-07-03T16:00:03.000Z",
+      "broadcast": "R/2019-07-03T16:00:03.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "189-14",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0042014",
+      "begin": "2019-07-10T15:00:00.000Z",
+      "broadcast": "R/2019-07-10T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5d1b8387e0dc4c3cbb5c92dc"
+    },
+    {
+      "site": "mikan",
+      "id": "1982"
+    }
+  ]
 }

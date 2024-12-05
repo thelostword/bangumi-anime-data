@@ -149,5 +149,59 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "460306"
+    },
+    {
+      "site": "nicovideo",
+      "id": "aonohako-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0157094",
+      "begin": "2024-10-03T15:30:00.000Z",
+      "broadcast": "R/2024-10-03T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66fb601a89c3a6ce864cbccd"
+    },
+    {
+      "site": "abema",
+      "id": "172-59",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "netflix",
+      "id": "81663323",
+      "begin": "2024-10-02T16:00:00.000Z",
+      "broadcast": "R/2024-10-02T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "1fQluA99odSx",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3443"
+    },
+    {
+      "site": "bilibili",
+      "id": "22953943",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "青春之箱|青之箱|藍箱|青箱"
+    }
+  ]
 }

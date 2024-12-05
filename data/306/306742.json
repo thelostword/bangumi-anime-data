@@ -149,5 +149,65 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "306742"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UchxEhmHdYIzu9Xwtv5cCLN2",
+      "begin": "2021-07-12T09:30:00.000Z",
+      "broadcast": "R/2021-07-12T09:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "111403",
+      "begin": "2021-07-12T09:30:00.000Z",
+      "broadcast": "R/2021-07-12T09:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28234693",
+      "begin": "2021-08-28T12:00:00.000Z",
+      "broadcast": "R/2021-08-28T12:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "13-151",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0058486",
+      "begin": "2021-07-13T03:00:00.000Z",
+      "broadcast": "R/2021-07-13T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "111403",
+      "begin": "2021-07-12T09:30:00.000Z",
+      "broadcast": "R/2021-07-12T09:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Love Live Superstar"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "60de5d9506c78696e4d115f4"
+    },
+    {
+      "site": "mikan",
+      "id": "2509"
+    },
+    {
+      "site": "nicovideo",
+      "id": "yuigaoka",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

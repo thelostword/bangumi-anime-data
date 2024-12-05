@@ -149,5 +149,28 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "88473"
+    },
+    {
+      "site": "nicovideo",
+      "id": "mushishi-tokubetsuhen01",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrgje811",
+      "begin": "2014-01-04T19:15:09.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0054848",
+      "begin": "2021-01-29T03:00:00.000Z",
+      "broadcast": "R/2021-01-29T03:00:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,97 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "394623"
+    },
+    {
+      "site": "unext",
+      "id": "SID0100076",
+      "begin": "2024-04-13T14:30:00.000Z",
+      "broadcast": "R/2024-04-13T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtQCkDYNQJpV5LLelEpkPkrF",
+      "begin": "",
+      "broadcast": "",
+      "comment": "粵語配音: LC18xlbCdwtSwni0-hf6b_tg94iRzUkPN"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JjuZzkRdh_qKWYuEk26B1Ib",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "viu",
+      "id": "2341874",
+      "begin": "2024-04-13T15:00:33.000Z",
+      "broadcast": "R/2024-04-13T15:00:33.000Z/P7D",
+      "comment": "粵語版: 2381847"
+    },
+    {
+      "site": "netflix",
+      "id": "81759290",
+      "begin": "2024-04-12T16:00:00.000Z",
+      "broadcast": "R/2024-04-12T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "129302",
+      "begin": "2024-04-13T15:00:00.000Z",
+      "broadcast": "R/2024-04-13T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "19-190",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "21231256",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "disneyplus",
+      "id": "4cBkIqrWC0Tb",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "129302",
+      "begin": "2024-04-13T15:00:00.000Z",
+      "broadcast": "R/2024-04-13T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "怪獸8號"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66097bc916e6bbcc806d3456"
+    },
+    {
+      "site": "mikan",
+      "id": "3301"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kaiju-no8",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mytv",
+      "id": "kaijuno8season1_141571",
+      "begin": "2024-09-24T16:00:00.000Z",
+      "broadcast": "R/2024-09-24T16:00:00.000Z/P7D"
+    }
+  ]
 }

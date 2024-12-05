@@ -149,5 +149,35 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5951",
+      "begin": "2017-04-03T15:00:00.000Z",
+      "broadcast": "R/2017-04-03T15:00:02.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "202421"
+    },
+    {
+      "site": "nicovideo",
+      "id": "warau-new",
+      "begin": "2017-04-04T15:00:00.000Z",
+      "broadcast": "R/2017-04-04T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "銷員NEW"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "58df788179c3a0541f4b61af"
+    },
+    {
+      "site": "mikan",
+      "id": "1287"
+    }
+  ]
 }

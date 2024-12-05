@@ -149,5 +149,37 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "228378"
+    },
+    {
+      "site": "bilibili",
+      "id": "139292",
+      "begin": "2018-10-21T17:10:00.000Z",
+      "broadcast": "R/2018-10-21T17:10:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0037861",
+      "begin": "2018-10-31T03:00:00.000Z",
+      "broadcast": "R/2018-10-31T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "3vSk2Lakbd0J",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5bb19cce9b9493607ff72669"
+    },
+    {
+      "site": "mikan",
+      "id": "1791"
+    }
+  ]
 }

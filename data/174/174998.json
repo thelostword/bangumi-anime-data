@@ -149,5 +149,51 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "6b45aa39814e11e6b16e",
+      "begin": "2016-10-05T18:49:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "174998"
+    },
+    {
+      "site": "nicovideo",
+      "id": "yurionice",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "acfun",
+      "id": "6000617",
+      "begin": "2019-11-14T11:52:16.000Z"
+    },
+    {
+      "site": "gamer",
+      "id": "82794",
+      "begin": "2017-01-16T15:00:00.000Z",
+      "broadcast": "R/2017-01-16T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0026844",
+      "begin": "2018-07-14T03:00:00.000Z",
+      "broadcast": "R/2018-07-14T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Yuri+on+Ice"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "57efbbc7ac5b9d0762d174ca"
+    },
+    {
+      "site": "mikan",
+      "id": "860"
+    }
+  ]
 }

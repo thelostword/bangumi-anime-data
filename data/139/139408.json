@@ -149,5 +149,53 @@
       "count": 9
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "bd38b4fa58f711e5b5ce",
+      "begin": "2015-10-05T17:35:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "139408"
+    },
+    {
+      "site": "nicovideo",
+      "id": "osomatsusan",
+      "begin": "2015-10-18T15:30:00.000Z",
+      "broadcast": "R/2015-10-18T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "78260",
+      "begin": "2020-09-14T09:30:00.000Z",
+      "broadcast": "R/2020-09-14T09:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0020090",
+      "begin": "2015-10-19T03:00:00.000Z",
+      "broadcast": "R/2015-10-19T03:00:00.000Z/P7D",
+      "comment": "ショートフィルムシリーズ: SID0028925"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "78260",
+      "begin": "2020-09-14T09:30:00.000Z",
+      "broadcast": "R/2020-09-14T09:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "小松|阿松"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "560d0c9b9286e15329cf94c6"
+    },
+    {
+      "site": "mikan",
+      "id": "606"
+    }
+  ]
 }

@@ -149,5 +149,40 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "36d97dec03e811e38b3f",
+      "begin": ""
+    },
+    {
+      "site": "qq",
+      "id": "v/v3ahv9tmgwosl37",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "80778"
+    },
+    {
+      "site": "nicovideo",
+      "id": "miss-monochrome",
+      "begin": "2013-10-01T16:40:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002886",
+      "begin": "2019-10-10T03:00:00.000Z",
+      "broadcast": "R/2019-10-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "白小|Monochrome"
+    },
+    {
+      "site": "mikan",
+      "id": "218"
+    }
+  ]
 }

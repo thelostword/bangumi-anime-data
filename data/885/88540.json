@@ -137,5 +137,27 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "9/98o6m42is63etn3",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "88540"
+    },
+    {
+      "site": "bilibili",
+      "id": "216",
+      "begin": "2013-12-18T16:00:00.000Z",
+      "broadcast": "R/2013-12-22T09:46:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "1ae7ba7c685111e3b8b7",
+      "begin": "2013-12-23T01:54:20.000Z"
+    }
+  ]
 }

@@ -149,5 +149,46 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "79f5e89ce4da11e5a2a2",
+      "begin": "2016-04-06T01:32:41.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "142812"
+    },
+    {
+      "site": "nicovideo",
+      "id": "jokergame",
+      "begin": "2016-04-21T14:00:00.000Z",
+      "broadcast": "R/2016-04-21T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "5498",
+      "begin": "2016-09-17T08:05:00.000Z",
+      "broadcast": "R/2016-09-17T08:05:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0023826",
+      "begin": "2018-05-17T03:00:00.000Z",
+      "broadcast": "R/2018-05-17T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Joker+Game"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "56fd5726c6dbe72e14a0d342"
+    },
+    {
+      "site": "mikan",
+      "id": "711"
+    }
+  ]
 }

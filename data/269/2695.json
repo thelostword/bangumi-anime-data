@@ -149,5 +149,22 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "2695"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ova-top",
+      "begin": "2016-07-06T06:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0003175",
+      "begin": "2020-02-27T03:00:00.000Z",
+      "broadcast": "R/2020-02-27T03:00:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,25 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "77570"
+    },
+    {
+      "site": "unext",
+      "id": "SID0027696",
+      "begin": "2017-02-23T03:00:00.000Z",
+      "broadcast": "R/2017-02-23T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "脑内"
+    },
+    {
+      "site": "mikan",
+      "id": "195"
+    }
+  ]
 }

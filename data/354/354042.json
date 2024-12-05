@@ -149,5 +149,71 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "354042"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jhkr9k44Isa7FVdZ0UTZOL-",
+      "begin": "2023-01-07T17:00:00.000Z",
+      "broadcast": "R/2023-01-07T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "120293",
+      "begin": "2023-01-07T17:00:00.000Z",
+      "broadcast": "R/2023-01-07T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28480938",
+      "begin": "2023-01-07T17:00:01.000Z",
+      "broadcast": "R/2023-01-07T17:00:01.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "nagatorosan2",
+      "begin": "2023-01-08T03:00:00.000Z",
+      "broadcast": "R/2023-01-08T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "115-91",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0076901",
+      "begin": "2023-01-08T03:00:00.000Z",
+      "broadcast": "R/2023-01-08T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "120293",
+      "begin": "2023-01-07T17:00:00.000Z",
+      "broadcast": "R/2023-01-07T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtTva-d1qwpIAfRwUJtmVVSu",
+      "begin": "2024-05-28T12:30:00.000Z",
+      "broadcast": "R/2024-05-28T12:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "長瀞 2季|二季|2期|二期|S02|S2|2nd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "63b58c55441dff2ff8927eaf"
+    },
+    {
+      "site": "mikan",
+      "id": "2884"
+    }
+  ]
 }

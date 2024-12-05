@@ -121,5 +121,33 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "362997"
+    },
+    {
+      "site": "nicovideo",
+      "id": "yugioh-gorush",
+      "begin": "2022-04-05T03:00:00.000Z",
+      "broadcast": "R/2022-04-05T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "203-7",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0066845",
+      "begin": "2022-04-05T03:00:00.000Z",
+      "broadcast": "R/2022-04-05T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6247749a70e8f89b23a18526"
+    }
+  ]
 }

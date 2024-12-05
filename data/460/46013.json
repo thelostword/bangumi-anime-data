@@ -149,5 +149,36 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrjt5ou5",
+      "begin": "2016-08-17T08:35:44.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "46013"
+    },
+    {
+      "site": "nicovideo",
+      "id": "senran",
+      "begin": "2013-01-10T16:30:00.000Z",
+      "broadcast": "R/2013-01-10T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0017743",
+      "begin": "2014-09-05T06:00:00.000Z",
+      "broadcast": "R/2014-09-05T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Senran|閃亂"
+    },
+    {
+      "site": "mikan",
+      "id": "503"
+    }
+  ]
 }

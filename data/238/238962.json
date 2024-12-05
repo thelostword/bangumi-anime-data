@@ -149,5 +149,53 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "238962"
+    },
+    {
+      "site": "bilibili",
+      "id": "28222622",
+      "begin": "2019-10-07T15:00:00.000Z",
+      "broadcast": "R/2019-10-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28222949",
+      "begin": "2019-10-07T15:00:00.000Z",
+      "broadcast": "R/2019-10-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "168-32",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0043584",
+      "begin": "2022-07-05T03:00:00.000Z",
+      "broadcast": "R/2022-07-05T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "平均值"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5d9392b54e9c003faceb5c5e"
+    },
+    {
+      "site": "mikan",
+      "id": "2036"
+    },
+    {
+      "site": "nicovideo",
+      "id": "noukin-anime",
+      "begin": "2019-10-28T15:00:00.000Z",
+      "broadcast": "R/2019-10-28T15:00:00.000Z/P7D"
+    }
+  ]
 }

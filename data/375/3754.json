@@ -149,5 +149,33 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhb14at",
+      "begin": "2015-08-14T17:07:21.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "3754"
+    },
+    {
+      "site": "nicovideo",
+      "id": "tv-GB",
+      "begin": "2017-05-29T11:30:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0011165",
+      "begin": "2016-06-16T03:00:00.000Z",
+      "broadcast": "R/2016-06-16T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "5-3",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

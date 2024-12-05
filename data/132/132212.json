@@ -149,5 +149,56 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "9/9ecz5xa7658m72d",
+      "begin": "2016-04-06T18:05:00.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "037cd3e6e66611e5b2ad",
+      "begin": "2016-04-06T18:05:00.000Z"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhak5s9",
+      "begin": "2016-04-06T18:00:07.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "132212"
+    },
+    {
+      "site": "nicovideo",
+      "id": "superlovers",
+      "begin": "2017-01-09T06:00:00.000Z",
+      "broadcast": "R/2017-01-09T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JglWiR0yhW9tGY-dt5XVAqX",
+      "begin": "2019-10-29T16:00:00.000Z",
+      "broadcast": "R/2019-10-29T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0023832",
+      "begin": "2018-08-30T03:00:00.000Z",
+      "broadcast": "R/2018-08-30T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "SUPER+LOVERS"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "56fd58bec6dbe72e14a0d34c"
+    },
+    {
+      "site": "mikan",
+      "id": "715"
+    }
+  ]
 }

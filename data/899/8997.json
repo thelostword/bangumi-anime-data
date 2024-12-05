@@ -149,5 +149,38 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "begin": "",
+      "url": "http://www.iqiyi.com/dongman/20130715/afc810555211733d.html"
+    },
+    {
+      "site": "bangumi",
+      "id": "8997"
+    },
+    {
+      "site": "qq",
+      "id": "b/bymafsjpccgo4bw",
+      "begin": ""
+    },
+    {
+      "site": "youku",
+      "id": "f10e3d7261ad11e0bea1",
+      "begin": "2012-11-27T18:11:49.000Z"
+    },
+    {
+      "site": "abema",
+      "id": "35-55",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0099806",
+      "begin": "2024-03-06T03:00:00.000Z",
+      "broadcast": "R/2024-03-06T03:00:00.000Z/P7D"
+    }
+  ]
 }

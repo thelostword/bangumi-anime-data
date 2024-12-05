@@ -149,5 +149,59 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "425591"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtTFWA8or1cuNyJZP7UFRt7J",
+      "begin": "2023-07-05T17:30:00.000Z",
+      "broadcast": "R/2023-07-05T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jgye3e1_USJ1KdATNxP9svZ",
+      "begin": "2023-07-05T17:30:00.000Z",
+      "broadcast": "R/2023-07-05T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "131121",
+      "begin": "2023-07-05T17:25:00.000Z",
+      "broadcast": "R/2023-07-05T17:25:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "undeadgirl",
+      "begin": "2023-07-09T03:00:00.000Z",
+      "broadcast": "R/2023-07-09T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0087155",
+      "begin": "2023-07-06T03:00:00.000Z",
+      "broadcast": "R/2023-07-06T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "131121",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "不死少女"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "649efec368e7233aec4c96d7"
+    },
+    {
+      "site": "mikan",
+      "id": "3085"
+    }
+  ]
 }

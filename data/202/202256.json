@@ -149,5 +149,33 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "202256"
+    },
+    {
+      "site": "nicovideo",
+      "id": "maryflower",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "netflix",
+      "id": "80217130",
+      "begin": "2021-12-30T00:00:00.000Z",
+      "broadcast": "R/2021-12-30T00:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "110672",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "1532"
+    }
+  ]
 }

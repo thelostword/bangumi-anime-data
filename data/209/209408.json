@@ -149,5 +149,40 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "209408"
+    },
+    {
+      "site": "youku",
+      "id": "5f6aefbfbd7a54efbfbd",
+      "begin": "2017-08-03T02:14:27.000Z"
+    },
+    {
+      "site": "netflix",
+      "id": "80175351",
+      "begin": "2018-02-01T08:00:00.000Z",
+      "broadcast": "R/2018-01-31T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "狂賭"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "59568264cc40e0d626c23500"
+    },
+    {
+      "site": "mikan",
+      "id": "1354"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kakegurui-anime",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

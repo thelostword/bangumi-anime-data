@@ -149,5 +149,35 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "197200"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ikemen-sengoku",
+      "begin": "2017-07-12T13:10:00.000Z",
+      "broadcast": "R/2017-07-12T13:10:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0054154",
+      "begin": "2020-12-28T03:00:00.000Z",
+      "broadcast": "R/2020-12-28T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "美男戰國"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "595681e1cc40e0d626c234e0"
+    },
+    {
+      "site": "mikan",
+      "id": "1361"
+    }
+  ]
 }

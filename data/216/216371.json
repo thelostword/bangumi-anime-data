@@ -149,5 +149,38 @@
       "count": 19
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "216371"
+    },
+    {
+      "site": "youku",
+      "id": "fc65ffd3afac444683d1",
+      "begin": ""
+    },
+    {
+      "site": "nicovideo",
+      "id": "liz-bluebird",
+      "begin": "2023-06-04T15:00:00.000Z",
+      "broadcast": "R/2023-06-04T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0047105",
+      "begin": "2020-04-04T03:00:00.000Z",
+      "broadcast": "R/2020-04-04T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "106-3",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "1754"
+    }
+  ]
 }

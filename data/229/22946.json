@@ -149,5 +149,23 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "22946"
+    },
+    {
+      "site": "nicovideo",
+      "id": "konodan",
+      "begin": "2012-04-27T06:00:00.000Z",
+      "broadcast": "R/2012-04-27T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0013574",
+      "begin": "2015-06-04T06:00:00.000Z",
+      "broadcast": "R/2015-06-04T06:00:00.000Z/P7D"
+    }
+  ]
 }

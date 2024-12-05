@@ -149,5 +149,47 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "28228168",
+      "begin": "2020-04-02T12:00:00.000Z",
+      "broadcast": "R/2020-04-02T12:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "269329"
+    },
+    {
+      "site": "nicovideo",
+      "id": "hachinan-anime",
+      "begin": "2020-04-07T14:00:00.000Z",
+      "broadcast": "R/2020-04-07T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28228490",
+      "begin": "2020-04-02T12:00:00.000Z",
+      "broadcast": "R/2020-04-02T12:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0047157",
+      "begin": "2020-03-30T11:00:00.000Z",
+      "broadcast": "R/2020-03-30T11:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "八男"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5e822876657e22f4195cc78e"
+    },
+    {
+      "site": "mikan",
+      "id": "2185"
+    }
+  ]
 }

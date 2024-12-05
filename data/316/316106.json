@@ -105,5 +105,31 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "316106"
+    },
+    {
+      "site": "nicovideo",
+      "id": "eternity-nurechan",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0051165",
+      "begin": "2020-10-05T03:00:00.000Z",
+      "broadcast": "R/2020-10-05T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5f7567de4b840abcfc63b184"
+    },
+    {
+      "site": "mikan",
+      "id": "2333"
+    }
+  ]
 }

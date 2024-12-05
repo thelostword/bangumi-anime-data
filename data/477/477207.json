@@ -149,5 +149,59 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "477207"
+    },
+    {
+      "site": "unext",
+      "id": "SID0104165",
+      "begin": "2024-07-11T13:30:00.000Z",
+      "broadcast": "R/2024-07-11T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6681471957ba1568dc1b07d2"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtQJOwGjf1ZWl-QVG-GTOqIt",
+      "begin": "2024-07-08T13:30:07.000Z",
+      "broadcast": "R/2024-07-08T13:30:07.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JgRtxr6-hzpqOVnKDFFVAEt",
+      "begin": "2024-07-08T13:30:07.000Z",
+      "broadcast": "R/2024-07-08T13:30:07.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "137597",
+      "begin": "2024-07-08T13:30:00.000Z",
+      "broadcast": "R/2024-07-08T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "137597",
+      "begin": "2024-07-08T13:30:00.000Z",
+      "broadcast": "R/2024-07-08T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "54-92",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "深夜 重拳|Punch"
+    },
+    {
+      "site": "mikan",
+      "id": "3372"
+    }
+  ]
 }

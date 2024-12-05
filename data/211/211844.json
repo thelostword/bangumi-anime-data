@@ -149,5 +149,52 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "211844"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh1okt9",
+      "begin": "2018-01-07T15:25:05.000Z"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Ucg0ge0vmv1f-1eDQ5NGkw4H",
+      "begin": "2022-11-24T16:00:00.000Z",
+      "broadcast": "R/2022-11-24T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "88120",
+      "begin": "2018-01-07T15:30:00.000Z",
+      "broadcast": "R/2018-01-07T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "12992",
+      "begin": "2021-05-12T03:27:00.000Z",
+      "broadcast": "R/2021-05-12T03:27:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "88120",
+      "begin": "2018-01-07T15:30:00.000Z",
+      "broadcast": "R/2018-01-07T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "園奶|Babysitters"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5a43141817d48cbd4a962620"
+    },
+    {
+      "site": "mikan",
+      "id": "1514"
+    }
+  ]
 }

@@ -149,5 +149,40 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "202268"
+    },
+    {
+      "site": "youku",
+      "id": "efbfbd3652c6984b11ef",
+      "begin": "2017-10-26T19:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0038407",
+      "begin": "2018-12-29T03:00:00.000Z",
+      "broadcast": "R/2018-12-29T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "犬屋敷"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "59d0cb56fb34aac154710b7b"
+    },
+    {
+      "site": "mikan",
+      "id": "1459"
+    },
+    {
+      "site": "abema",
+      "id": "19-112",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

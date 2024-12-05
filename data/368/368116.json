@@ -149,5 +149,89 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "368116"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28480934",
+      "begin": "2023-01-07T16:30:00.000Z",
+      "broadcast": "R/2023-01-07T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "mytv",
+      "id": "nierautomataver11a_137605",
+      "begin": "2023-01-07T16:30:00.000Z",
+      "broadcast": "R/2023-01-07T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "123022",
+      "begin": "2023-01-07T16:30:00.000Z",
+      "broadcast": "R/2023-01-07T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81680344",
+      "begin": "2023-06-29T16:00:00.000Z",
+      "broadcast": "R/2023-06-29T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28435377",
+      "begin": "2023-08-08T12:00:00.000Z",
+      "broadcast": "R/2023-08-08T12:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "nierautomata-anime",
+      "begin": "2023-01-10T03:00:00.000Z",
+      "broadcast": "R/2023-01-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "26-194",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0076914",
+      "begin": "2023-01-10T03:00:00.000Z",
+      "broadcast": "R/2023-01-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "123022",
+      "begin": "2023-01-07T16:30:00.000Z",
+      "broadcast": "R/2023-01-07T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "1.1a"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "63b58c54441dff2ff8927eab"
+    },
+    {
+      "site": "mikan",
+      "id": "2930"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtROFQBlti4FWEnWaxPh1qqh",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jg6JL_P321MLGTDmB0m3Ki3",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

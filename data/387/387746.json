@@ -149,5 +149,29 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "387746"
+    },
+    {
+      "site": "disneyplus",
+      "id": "5j3KdttxP8Z6",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66fb601189c3a6ce864cbc91"
+    },
+    {
+      "site": "mikan",
+      "id": "3438"
+    },
+    {
+      "site": "dmhy",
+      "id": "村井之戀"
+    }
+  ]
 }

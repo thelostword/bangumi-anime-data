@@ -41,5 +41,16 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "258393"
+    },
+    {
+      "site": "nicovideo",
+      "id": "memetan-anime",
+      "begin": "2016-04-29T01:00:00.000Z"
+    }
+  ]
 }

@@ -149,5 +149,45 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5022",
+      "begin": "2016-07-03T14:30:00.000Z",
+      "broadcast": "R/2016-07-03T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhanqu9",
+      "begin": "2016-07-03T14:30:00.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "z/zb9kc4rtijwlcja",
+      "begin": "2016-07-03T14:30:00.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "8d4e6f8a3e9f11e6b32f",
+      "begin": "2016-07-03T14:30:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "136371"
+    },
+    {
+      "site": "mgtv",
+      "id": "312831",
+      "begin": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "热情|Zestiria"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "57765f06ca607f850f3f9356"
+    }
+  ]
 }

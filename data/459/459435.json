@@ -149,5 +149,49 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "459435"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66fb601d89c3a6ce864cbce1"
+    },
+    {
+      "site": "unext",
+      "id": "SID0157061",
+      "begin": "2024-10-14T15:30:00.000Z",
+      "broadcast": "R/2024-10-14T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "viu",
+      "id": "2440221",
+      "begin": "2024-10-11T16:58:33.000Z",
+      "broadcast": "R/2024-10-11T16:58:33.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3470"
+    },
+    {
+      "site": "disneyplus",
+      "id": "23ijFlbQDk7y",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "netflix",
+      "id": "81943491",
+      "begin": "2024-10-14T00:00:00.000Z",
+      "broadcast": "R/2024-10-14T00:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "5-69",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

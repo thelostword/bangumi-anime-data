@@ -141,5 +141,32 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "f45e2814669111e59e2a",
+      "begin": "2015-10-06T17:35:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "144414"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ddhokuto2",
+      "begin": "2015-10-11T15:00:00.000Z",
+      "broadcast": "R/2015-10-11T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0020211",
+      "begin": "2022-04-27T03:00:00.000Z",
+      "broadcast": "R/2022-04-27T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "DD北+草"
+    }
+  ]
 }

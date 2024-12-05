@@ -149,5 +149,27 @@
       "count": 12
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "10742"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ch60014",
+      "begin": "2011-04-11T14:30:00.000Z",
+      "broadcast": "R/2011-04-11T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002920",
+      "begin": "2018-07-24T03:00:00.000Z",
+      "broadcast": "R/2018-07-24T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "阿薩謝爾|惡魔偵探"
+    }
+  ]
 }

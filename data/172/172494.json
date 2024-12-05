@@ -149,5 +149,38 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "172494"
+    },
+    {
+      "site": "nicovideo",
+      "id": "mahouka_movie",
+      "begin": "2018-04-24T15:00:00.000Z",
+      "broadcast": "R/2018-04-24T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "efbfbdefbfbdceb6efbf",
+      "begin": ""
+    },
+    {
+      "site": "abema",
+      "id": "25-101",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0034206",
+      "begin": "2018-04-25T03:00:00.000Z",
+      "broadcast": "R/2018-04-25T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "1525"
+    }
+  ]
 }

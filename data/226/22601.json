@@ -149,5 +149,28 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "g/g327ynn2eboikof",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "22601"
+    },
+    {
+      "site": "nicovideo",
+      "id": "aquarion-betrayal",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0011350",
+      "begin": "2008-10-16T06:00:00.000Z",
+      "broadcast": "R/2008-10-16T06:00:00.000Z/P7D",
+      "comment": "後編: SID0011351"
+    }
+  ]
 }

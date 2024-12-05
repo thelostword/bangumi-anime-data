@@ -149,5 +149,61 @@
       "count": 21
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrk05utd",
+      "begin": "2012-05-24T07:15:26.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "7/7c9fn2twcli73uz",
+      "begin": ""
+    },
+    {
+      "site": "mgtv",
+      "id": "44660",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "259"
+    },
+    {
+      "site": "nicovideo",
+      "id": "natsume-anime",
+      "begin": "2015-10-01T06:00:00.000Z",
+      "broadcast": "R/2015-10-01T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "1660",
+      "begin": "2008-07-06T16:00:00.000Z",
+      "broadcast": "R/2015-01-22T06:49:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "cc006aec962411de83b1",
+      "begin": "2019-08-08T02:57:13.000Z"
+    },
+    {
+      "site": "gamer",
+      "id": "16376",
+      "begin": "2021-06-01T03:00:00.000Z",
+      "broadcast": "R/2021-06-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002757",
+      "begin": "2009-08-31T15:00:00.000Z",
+      "broadcast": "R/2009-08-31T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81032481",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

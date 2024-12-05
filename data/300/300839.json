@@ -149,5 +149,35 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "28228355",
+      "begin": "2020-04-01T15:30:00.000Z",
+      "broadcast": "R/2020-04-01T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "300839"
+    },
+    {
+      "site": "dmhy",
+      "id": "神之塔"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5e822866657e22f4195cc77e"
+    },
+    {
+      "site": "mikan",
+      "id": "2216"
+    },
+    {
+      "site": "unext",
+      "id": "SID0047127",
+      "begin": "2024-06-30T15:00:00.000Z",
+      "broadcast": "R/2024-06-30T15:00:00.000Z/P7D"
+    }
+  ]
 }

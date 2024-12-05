@@ -149,5 +149,32 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "37138"
+    },
+    {
+      "site": "nicovideo",
+      "id": "utakoi",
+      "begin": "2012-07-24T14:30:00.000Z",
+      "broadcast": "R/2012-07-24T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "c9f533c6baa811e1b52a",
+      "begin": "2012-06-29T21:05:20.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0015701",
+      "begin": "2020-12-28T03:00:00.000Z",
+      "broadcast": "R/2020-12-28T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "超譯+歌"
+    }
+  ]
 }

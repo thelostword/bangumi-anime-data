@@ -149,5 +149,41 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "228026"
+    },
+    {
+      "site": "bilibili",
+      "id": "12592",
+      "begin": "2018-01-07T16:00:00.000Z",
+      "broadcast": "R/2018-01-07T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kokkoku-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0052577",
+      "begin": "2024-02-01T03:00:00.000Z",
+      "broadcast": "R/2024-02-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "刻刻"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5a43141717d48cbd4a96261e"
+    },
+    {
+      "site": "mikan",
+      "id": "1540"
+    }
+  ]
 }

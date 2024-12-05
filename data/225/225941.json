@@ -149,5 +149,65 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "225941"
+    },
+    {
+      "site": "bilibili",
+      "id": "28222672",
+      "begin": "2019-10-08T14:30:00.000Z",
+      "broadcast": "R/2019-10-08T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "zxtcg_reunion",
+      "begin": "2019-10-12T15:00:00.000Z",
+      "broadcast": "R/2019-10-12T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UcjkfpIohlioz0xi0H8ffmQ_",
+      "begin": "2019-10-07T16:00:00.000Z",
+      "broadcast": "R/2019-10-07T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "94006",
+      "begin": "2019-10-08T14:30:00.000Z",
+      "broadcast": "R/2019-10-08T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_tw",
+      "id": "28222991",
+      "begin": "2019-10-08T14:30:00.000Z",
+      "broadcast": "R/2019-10-08T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0043533",
+      "begin": "2021-10-31T03:00:00.000Z",
+      "broadcast": "R/2021-10-31T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Code reunion"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5d9392b94e9c003faceb5c6c"
+    },
+    {
+      "site": "mikan",
+      "id": "2049"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "94006",
+      "begin": "2019-10-08T14:30:00.000Z",
+      "broadcast": "R/2019-10-08T14:30:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,27 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "212221"
+    },
+    {
+      "site": "nicovideo",
+      "id": "chaos-child-silent-sky",
+      "begin": "2022-01-31T15:00:00.000Z",
+      "broadcast": "R/2022-01-31T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0042769",
+      "begin": "2019-09-05T03:00:00.000Z",
+      "broadcast": "R/2019-09-05T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "1439"
+    }
+  ]
 }

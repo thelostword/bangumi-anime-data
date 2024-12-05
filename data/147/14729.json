@@ -149,5 +149,21 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "14729"
+    },
+    {
+      "site": "bilibili",
+      "id": "901",
+      "begin": "2011-07-01T16:00:00.000Z",
+      "broadcast": "R/2011-07-03T08:56:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "sacred+seven"
+    }
+  ]
 }

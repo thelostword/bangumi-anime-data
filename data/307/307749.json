@@ -93,5 +93,31 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "307749"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhlilxp",
+      "begin": ""
+    },
+    {
+      "site": "youku",
+      "id": "aabd40b00f534ff7a706",
+      "begin": "2020-04-16T11:53:05.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "28228437",
+      "begin": "2020-04-15T16:00:00.000Z",
+      "broadcast": "R/2020-04-16T11:53:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5e822872657e22f4195cc78a"
+    }
+  ]
 }

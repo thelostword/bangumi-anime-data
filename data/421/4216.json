@@ -149,5 +149,22 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "4216"
+    },
+    {
+      "site": "nicovideo",
+      "id": "maria_watches_over_us3",
+      "begin": "2019-10-23T15:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0003158",
+      "begin": "2019-10-20T03:00:00.000Z",
+      "broadcast": "R/2019-10-20T03:00:00.000Z/P7D"
+    }
+  ]
 }

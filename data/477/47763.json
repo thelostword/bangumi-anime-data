@@ -149,5 +149,16 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "47763"
+    },
+    {
+      "site": "nicovideo",
+      "id": "captsubaj",
+      "begin": "2012-11-11T12:00:00.000Z"
+    }
+  ]
 }

@@ -149,5 +149,16 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "4390"
+    },
+    {
+      "site": "nicovideo",
+      "id": "yutori-chan",
+      "begin": "2012-07-18T06:00:00.000Z"
+    }
+  ]
 }

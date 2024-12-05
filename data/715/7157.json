@@ -149,5 +149,33 @@
       "count": 25
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "7157"
+    },
+    {
+      "site": "nicovideo",
+      "id": "yosuganosora",
+      "begin": "2014-01-29T15:00:00.000Z",
+      "broadcast": "R/2014-01-29T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "117-5",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "緣+空"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002915",
+      "begin": "2024-11-12T03:00:00.000Z",
+      "broadcast": "R/2024-11-12T03:00:00.000Z/P7D"
+    }
+  ]
 }

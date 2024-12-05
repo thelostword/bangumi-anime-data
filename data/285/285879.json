@@ -149,5 +149,70 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "285879"
+    },
+    {
+      "site": "bilibili",
+      "id": "28229234",
+      "begin": "2020-06-28T11:30:00.000Z",
+      "broadcast": "R/2020-06-28T11:30:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "decadence-anime",
+      "begin": "2020-07-13T15:00:00.000Z",
+      "broadcast": "R/2020-07-13T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhlpm9p",
+      "begin": ""
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Uci0sz86Rwh8b1btAKspLKGA",
+      "begin": "2020-07-14T16:00:00.000Z",
+      "broadcast": "R/2020-07-14T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "106466",
+      "begin": "2020-06-28T11:30:00.000Z",
+      "broadcast": "R/2020-06-28T11:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28229291",
+      "begin": "2020-06-28T11:30:01.000Z",
+      "broadcast": "R/2020-06-28T11:30:01.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0047131",
+      "begin": "2020-07-13T15:00:00.000Z",
+      "broadcast": "R/2020-07-13T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "DECA DENCE"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5efff2fbc4be624128fcd34a"
+    },
+    {
+      "site": "mikan",
+      "id": "2245"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "106466",
+      "begin": "2020-06-28T11:30:00.000Z",
+      "broadcast": "R/2020-06-28T11:30:00.000Z/P7D"
+    }
+  ]
 }

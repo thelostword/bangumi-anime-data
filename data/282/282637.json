@@ -149,5 +149,31 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "282637"
+    },
+    {
+      "site": "nicovideo",
+      "id": "mugen-immortal",
+      "begin": "2019-10-10T15:00:00.000Z",
+      "broadcast": "R/2019-10-10T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0043975",
+      "begin": "2019-10-11T03:00:00.000Z",
+      "broadcast": "R/2019-10-11T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Mugen IMMORTAL"
+    },
+    {
+      "site": "mikan",
+      "id": "2078"
+    }
+  ]
 }

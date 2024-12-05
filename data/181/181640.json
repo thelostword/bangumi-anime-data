@@ -149,5 +149,34 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "58827426852911e6b9bb",
+      "begin": "2016-10-10T03:02:54.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "181640"
+    },
+    {
+      "site": "netflix",
+      "id": "80043576",
+      "begin": "2016-04-12T07:00:00.000Z",
+      "broadcast": "R/2016-04-11T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "亞人"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "57efbf93ac5b9d0762d174e0"
+    },
+    {
+      "site": "mikan",
+      "id": "870"
+    }
+  ]
 }

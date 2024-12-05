@@ -149,5 +149,27 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "q/q9rnef1akt3hnr4",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "771"
+    },
+    {
+      "site": "nicovideo",
+      "id": "persona-ts",
+      "begin": "2012-02-22T06:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002323",
+      "begin": "2019-11-29T03:00:00.000Z",
+      "broadcast": "R/2019-11-29T03:00:00.000Z/P7D"
+    }
+  ]
 }

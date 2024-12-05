@@ -149,5 +149,55 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "348699"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28339667",
+      "begin": "2022-10-08T12:25:00.000Z",
+      "broadcast": "R/2022-10-08T12:25:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28339710",
+      "begin": "2023-03-04T11:00:01.000Z",
+      "broadcast": "R/2023-03-04T11:00:01.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "119657",
+      "begin": "2022-10-08T12:25:00.000Z",
+      "broadcast": "R/2022-10-08T12:25:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UciGSWyAFqSHqO1Kdf1dTQnz",
+      "begin": "2022-10-08T12:25:00.000Z",
+      "broadcast": "R/2022-10-08T12:25:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0073163",
+      "begin": "2022-10-10T03:00:00.000Z",
+      "broadcast": "R/2022-10-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "119657",
+      "begin": "2022-10-08T12:25:00.000Z",
+      "broadcast": "R/2022-10-08T12:25:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "入魔 3季|三季|3期|三期|S03|S3|3nd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "632762d52eaf6e578875f7fc"
+    }
+  ]
 }

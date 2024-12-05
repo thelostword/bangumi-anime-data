@@ -149,5 +149,53 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "399820"
+    },
+    {
+      "site": "viu",
+      "id": "2117547",
+      "begin": "2023-04-06T13:00:00.000Z",
+      "broadcast": "R/2023-04-06T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "126945",
+      "begin": "2023-04-06T14:00:00.000Z",
+      "broadcast": "R/2023-04-06T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "20197734",
+      "begin": "2023-04-06T14:00:01.000Z",
+      "broadcast": "R/2023-04-06T14:00:01.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "20284863",
+      "begin": "2023-07-12T16:00:00.000Z",
+      "broadcast": "R/2023-07-12T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "魔法使 新娘 2季|二季|2期|二期|S02|S2|2nd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6425d64155eb4cdc768e398a"
+    },
+    {
+      "site": "mikan",
+      "id": "3026"
+    },
+    {
+      "site": "unext",
+      "id": "SID0148121",
+      "begin": "2024-07-25T03:00:00.000Z",
+      "broadcast": "R/2024-07-25T03:00:00.000Z/P7D"
+    }
+  ]
 }

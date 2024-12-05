@@ -149,5 +149,41 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "207932"
+    },
+    {
+      "site": "bilibili",
+      "id": "9132",
+      "begin": "2018-01-06T14:30:00.000Z",
+      "broadcast": "R/2018-01-06T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "sdan-anime",
+      "begin": "2018-01-09T14:00:00.000Z",
+      "broadcast": "R/2018-01-09T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0032716",
+      "begin": "2018-01-09T03:00:00.000Z",
+      "broadcast": "R/2018-01-09T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "三麗鷗"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5a43140f17d48cbd4a96260c"
+    },
+    {
+      "site": "mikan",
+      "id": "1512"
+    }
+  ]
 }

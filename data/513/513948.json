@@ -169,5 +169,29 @@
       "total_cont": 0
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "513948"
+    },
+    {
+      "site": "unext",
+      "id": "SID0158539",
+      "begin": "2024-11-08T16:30:00.000Z",
+      "broadcast": "R/2024-11-08T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "of-the-dead",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "abema",
+      "id": "248-22",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

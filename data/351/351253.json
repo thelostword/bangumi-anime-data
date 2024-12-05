@@ -149,5 +149,23 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "351253"
+    },
+    {
+      "site": "nicovideo",
+      "id": "nep-anime-ova2",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0064011",
+      "begin": "2021-12-22T03:00:00.000Z",
+      "broadcast": "R/2021-12-22T03:00:00.000Z/P7D"
+    }
+  ]
 }

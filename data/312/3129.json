@@ -149,5 +149,27 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhb1dp5",
+      "begin": "2015-08-14T17:06:52.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "3129"
+    },
+    {
+      "site": "nicovideo",
+      "id": "digimon-adventure02",
+      "begin": "2015-09-16T06:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0011447",
+      "begin": "2018-05-01T03:00:00.000Z",
+      "broadcast": "R/2018-05-01T03:00:00.000Z/P7D"
+    }
+  ]
 }

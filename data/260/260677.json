@@ -149,5 +149,41 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "260677"
+    },
+    {
+      "site": "bilibili",
+      "id": "28222522",
+      "begin": "2019-10-03T15:00:00.000Z",
+      "broadcast": "R/2019-10-03T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28222839",
+      "begin": "2019-10-03T15:00:00.000Z",
+      "broadcast": "R/2019-10-03T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "碧藍航線"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5d9392c14e9c003faceb5c86"
+    },
+    {
+      "site": "mikan",
+      "id": "2057"
+    },
+    {
+      "site": "nicovideo",
+      "id": "azurlane",
+      "begin": "2019-10-07T03:00:00.000Z",
+      "broadcast": "R/2019-10-07T03:00:00.000Z/P7D"
+    }
+  ]
 }

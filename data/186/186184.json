@@ -149,5 +149,37 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5789",
+      "begin": "2017-01-08T14:30:00.000Z",
+      "broadcast": "R/2017-01-08T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhanqu9",
+      "begin": "2017-01-08T14:30:00.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "8d4e6f8a3e9f11e6b32f",
+      "begin": "2017-01-08T14:30:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "186184"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28221632",
+      "begin": "2019-07-18T05:09:43.000Z",
+      "broadcast": "R/2019-07-18T05:09:43.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "热情|Zestiria"
+    }
+  ]
 }

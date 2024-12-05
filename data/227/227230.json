@@ -41,5 +41,33 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "227230"
+    },
+    {
+      "site": "nicovideo",
+      "id": "inazma-delivery-new",
+      "begin": "2017-08-23T11:00:00.000Z",
+      "broadcast": "R/2017-08-23T11:00:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhcbahx",
+      "begin": "2017-09-30T11:00:05.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "efbfbdefbfbd6d43efbf",
+      "begin": "2017-09-30T10:58:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0028334",
+      "begin": "2017-02-18T03:00:00.000Z",
+      "broadcast": "R/2017-02-18T03:00:00.000Z/P7D"
+    }
+  ]
 }

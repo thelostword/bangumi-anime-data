@@ -149,5 +149,53 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "406251"
+    },
+    {
+      "site": "nicovideo",
+      "id": "madome-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0100061",
+      "begin": "2024-04-11T16:00:00.000Z",
+      "broadcast": "R/2024-04-11T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "194-40",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "128241",
+      "begin": "2024-04-04T16:30:00.000Z",
+      "broadcast": "R/2024-04-04T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "128241",
+      "begin": "2024-04-04T16:30:00.000Z",
+      "broadcast": "R/2024-04-04T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "魔王 精靈 妻"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66097bc316e6bbcc806d343a"
+    },
+    {
+      "site": "mikan",
+      "id": "3338"
+    }
+  ]
 }

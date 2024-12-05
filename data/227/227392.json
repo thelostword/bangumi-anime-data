@@ -149,5 +149,38 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "227392"
+    },
+    {
+      "site": "nicovideo",
+      "id": "natsume-movie",
+      "begin": ""
+    },
+    {
+      "site": "gamer",
+      "id": "91974",
+      "begin": "2019-06-25T02:30:00.000Z",
+      "broadcast": "R/2019-06-25T02:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0042220",
+      "begin": "2019-07-15T03:00:00.000Z",
+      "broadcast": "R/2019-07-15T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "91974",
+      "begin": "2023-10-06T02:10:00.000Z",
+      "broadcast": "R/2023-10-06T02:10:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "1903"
+    }
+  ]
 }

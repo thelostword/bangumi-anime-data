@@ -149,5 +149,41 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "296739"
+    },
+    {
+      "site": "netflix",
+      "id": "81249833",
+      "begin": "2023-01-09T15:30:00.000Z",
+      "broadcast": "R/2023-01-09T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "20286653",
+      "begin": "2023-06-25T13:30:01.000Z",
+      "broadcast": "R/2023-06-25T13:30:01.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "海盜戰記|冰海戰記 2季|二季|2期|二期|S02|S2|2nd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "63b58c3f441dff2ff8927e5f"
+    },
+    {
+      "site": "mikan",
+      "id": "2889"
+    },
+    {
+      "site": "unext",
+      "id": "SID0148119",
+      "begin": "2024-07-25T03:00:00.000Z",
+      "broadcast": "R/2024-07-25T03:00:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,43 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "293008"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28338470",
+      "begin": "2022-07-02T16:30:00.000Z",
+      "broadcast": "R/2022-07-02T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28338489",
+      "begin": "2022-09-03T16:30:01.000Z",
+      "broadcast": "R/2022-09-03T16:30:01.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "utawarerumono_futari",
+      "begin": "2022-07-09T15:00:00.000Z",
+      "broadcast": "R/2022-07-09T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0069696",
+      "begin": "2022-07-09T15:00:00.000Z",
+      "broadcast": "R/2022-07-09T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "傳頌 白皇"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "62c125bb2fc3ee0d0016bf78"
+    }
+  ]
 }

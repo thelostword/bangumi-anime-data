@@ -141,5 +141,22 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "37197"
+    },
+    {
+      "site": "bilibili",
+      "id": "2441",
+      "begin": "1982-07-05T16:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0020284",
+      "begin": "2015-12-17T03:00:00.000Z",
+      "broadcast": "R/2015-12-17T03:00:00.000Z/P7D"
+    }
+  ]
 }

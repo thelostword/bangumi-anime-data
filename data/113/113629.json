@@ -149,5 +149,59 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "7f52b0ce197c11e5a080",
+      "begin": "2015-07-05T14:30:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "2591",
+      "begin": "2015-07-05T14:30:00.000Z",
+      "broadcast": "R/2015-07-12T14:30:00.000Z/P7D",
+      "comment": "SP: 3387"
+    },
+    {
+      "site": "qq",
+      "id": "w/wdp6c3tyxfha0l8",
+      "begin": "2015-07-05T14:30:00.000Z"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhb5by1",
+      "begin": "2015-07-05T14:30:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "113629"
+    },
+    {
+      "site": "nicovideo",
+      "id": "godeater-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "72814",
+      "begin": "2017-01-17T06:00:00.000Z",
+      "broadcast": "R/2017-01-17T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "72814",
+      "begin": "2017-01-17T06:00:00.000Z",
+      "broadcast": "R/2017-01-17T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "噬神"
+    },
+    {
+      "site": "mikan",
+      "id": "549"
+    }
+  ]
 }

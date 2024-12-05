@@ -149,5 +149,26 @@
       "count": 10
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "25444"
+    },
+    {
+      "site": "nicovideo",
+      "id": "papakiki",
+      "begin": "2012-01-16T17:00:00.000Z"
+    },
+    {
+      "site": "dmhy",
+      "id": "聽|聞+爸|父"
+    },
+    {
+      "site": "unext",
+      "id": "SID0016382",
+      "begin": "2024-11-12T03:00:00.000Z",
+      "broadcast": "R/2024-11-12T03:00:00.000Z/P7D"
+    }
+  ]
 }

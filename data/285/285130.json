@@ -149,5 +149,43 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "285130"
+    },
+    {
+      "site": "bilibili",
+      "id": "28222688",
+      "begin": "2019-10-05T17:00:00.000Z",
+      "broadcast": "R/2019-10-05T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "106392",
+      "begin": "2019-10-05T17:00:00.000Z",
+      "broadcast": "R/2019-10-05T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_tw",
+      "id": "28222855",
+      "begin": "2019-10-05T17:02:03.000Z",
+      "broadcast": "R/2019-10-05T17:02:03.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0043195",
+      "begin": "2019-10-07T03:00:00.000Z",
+      "broadcast": "R/2019-10-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "學不來|一起學習 S02|S2|二季"
+    },
+    {
+      "site": "mikan",
+      "id": "2035"
+    }
+  ]
 }

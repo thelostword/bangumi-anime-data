@@ -149,5 +149,34 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "24649"
+    },
+    {
+      "site": "bilibili",
+      "id": "816",
+      "begin": "2012-01-04T16:00:00.000Z",
+      "broadcast": "R/2012-03-30T15:47:00.000Z/P7D",
+      "comment": "SP: 2866"
+    },
+    {
+      "site": "abema",
+      "id": "19-178",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0010851",
+      "begin": "2019-11-29T03:00:00.000Z",
+      "broadcast": "R/2019-11-29T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Amag|誕之+plus"
+    }
+  ]
 }

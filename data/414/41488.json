@@ -149,5 +149,59 @@
       "count": 19
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "687",
+      "begin": "2018-09-09T02:29:00.000Z",
+      "broadcast": "R/2018-09-09T02:29:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "41488"
+    },
+    {
+      "site": "nicovideo",
+      "id": "sakurasou",
+      "begin": "2012-10-15T14:00:00.000Z",
+      "broadcast": "R/2012-10-15T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrgimfh9",
+      "begin": "2018-12-27T07:45:39.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "y/ycyyr0ubvaayanp",
+      "begin": ""
+    },
+    {
+      "site": "gamer",
+      "id": "55309",
+      "begin": "2021-12-01T06:00:00.000Z",
+      "broadcast": "R/2021-12-01T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-24bkfwbcunxt",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0044566",
+      "begin": "2019-12-28T03:00:00.000Z",
+      "broadcast": "R/2019-12-28T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "樱花庄|Sakurasou"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5a5ac2a0e23a236976d99472"
+    }
+  ]
 }

@@ -149,5 +149,21 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "175137"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ninjaslayer_animation",
+      "begin": "2015-04-16T14:15:00.000Z",
+      "broadcast": "R/2015-04-16T14:15:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "693"
+    }
+  ]
 }

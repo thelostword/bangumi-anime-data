@@ -149,5 +149,66 @@
       "count": 15
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrk4v019",
+      "begin": "2012-11-27T03:46:51.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "5/524dazlp04ww8uh",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "18294"
+    },
+    {
+      "site": "nicovideo",
+      "id": "chihayafuru",
+      "begin": "2014-04-01T06:00:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "616",
+      "begin": "2011-10-03T16:00:00.000Z",
+      "broadcast": "R/2011-10-04T21:39:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "47618",
+      "begin": "2019-08-12T08:30:00.000Z",
+      "broadcast": "R/2019-08-12T08:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002708",
+      "begin": "2022-04-24T15:00:00.000Z",
+      "broadcast": "R/2022-04-24T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Ucj3z4IKgRQcyezftxu_xQxm",
+      "begin": "2024-03-06T12:30:06.000Z",
+      "broadcast": "R/2024-03-06T12:30:06.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "143-44",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "47618",
+      "begin": "2019-08-12T08:30:00.000Z",
+      "broadcast": "R/2019-08-12T08:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "牌+緣"
+    }
+  ]
 }

@@ -149,5 +149,58 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5562",
+      "begin": "2016-10-05T18:05:10.000Z",
+      "broadcast": "R/2016-10-05T18:05:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "36c3bfdf815d11e69c81",
+      "begin": "2016-10-05T18:05:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "85338"
+    },
+    {
+      "site": "nicovideo",
+      "id": "w-witch",
+      "begin": "2016-10-20T15:00:00.000Z",
+      "broadcast": "R/2016-10-20T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "82251",
+      "begin": "2023-05-16T06:10:00.000Z",
+      "broadcast": "R/2023-05-16T06:10:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "82251",
+      "begin": "2023-05-16T06:10:00.000Z",
+      "broadcast": "R/2023-05-16T06:10:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0026761",
+      "begin": "2018-08-30T03:00:00.000Z",
+      "broadcast": "R/2018-08-30T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Brave+Witches"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "57efbbbcac5b9d0762d174c8"
+    },
+    {
+      "site": "mikan",
+      "id": "859"
+    }
+  ]
 }

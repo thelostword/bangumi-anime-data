@@ -129,5 +129,24 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "240464"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh5b5nt",
+      "begin": "2018-10-02T10:55:06.000Z"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5bb19ca89b9493607ff7261b"
+    },
+    {
+      "site": "mikan",
+      "id": "1814"
+    }
+  ]
 }

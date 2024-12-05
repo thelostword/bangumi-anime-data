@@ -149,5 +149,69 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "98286"
+    },
+    {
+      "site": "nicovideo",
+      "id": "rokujoma",
+      "begin": "2014-07-15T14:00:00.000Z"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhdtkd1",
+      "begin": "2017-08-10T01:06:43.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "75052",
+      "begin": "2014-07-10T16:00:01.000Z",
+      "broadcast": "R/2018-03-02T02:53:00.000Z/P7D"
+    },
+    {
+      "site": "qq",
+      "id": "q/qn4gf34t0di84ls",
+      "begin": ""
+    },
+    {
+      "site": "acfun",
+      "id": "6003891",
+      "begin": ""
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UcjL1W4onUOwLTX4soRhy2no",
+      "begin": "2022-07-24T16:00:00.000Z",
+      "broadcast": "R/2022-07-24T16:00:00.000Z/P1D"
+    },
+    {
+      "site": "gamer",
+      "id": "40982",
+      "begin": "2015-12-13T16:00:00.000Z",
+      "broadcast": "R/2015-12-13T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0017504",
+      "begin": "2014-07-22T06:00:00.000Z",
+      "broadcast": "R/2014-07-22T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "坪房"
+    },
+    {
+      "site": "mikan",
+      "id": "361"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "40982",
+      "begin": "2015-12-13T16:00:00.000Z",
+      "broadcast": "R/2015-12-13T16:00:00.000Z/P7D"
+    }
+  ]
 }

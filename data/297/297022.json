@@ -149,5 +149,66 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "297022"
+    },
+    {
+      "site": "bilibili",
+      "id": "28229877",
+      "begin": "2020-10-11T15:00:01.000Z",
+      "broadcast": "R/2020-10-11T15:00:01.000Z/P7D",
+      "comment": "后半: 28233936"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UchtU-rMECl3p2BQGbCGe16c",
+      "begin": "2020-10-11T15:00:00.000Z",
+      "broadcast": "R/2020-10-11T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81335206",
+      "begin": "2021-08-25T16:00:00.000Z",
+      "broadcast": "R/2021-08-25T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "109288",
+      "begin": "2020-10-11T15:00:00.000Z",
+      "broadcast": "R/2020-10-11T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "109288",
+      "begin": "2020-10-11T15:00:00.000Z",
+      "broadcast": "R/2020-10-11T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0050932",
+      "begin": "2020-10-11T14:00:00.000Z",
+      "broadcast": "R/2020-10-11T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "憂國"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5f7567d54b840abcfc63b178"
+    },
+    {
+      "site": "mikan",
+      "id": "2301"
+    },
+    {
+      "site": "nicovideo",
+      "id": "moriarty-anime",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

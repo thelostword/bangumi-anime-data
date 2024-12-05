@@ -149,5 +149,28 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "221637"
+    },
+    {
+      "site": "unext",
+      "id": "SID0061276",
+      "begin": "2022-07-31T15:00:00.000Z",
+      "broadcast": "R/2022-07-31T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "e7WHRFTU9pwz",
+      "url": "https://www.disneyplus.com/movies/macross-delta-passionate-walkure/e7WHRFTU9pwz",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "1661"
+    }
+  ]
 }

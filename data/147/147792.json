@@ -93,5 +93,17 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "147792"
+    },
+    {
+      "site": "nicovideo",
+      "id": "longwaynorth",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

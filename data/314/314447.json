@@ -149,5 +149,65 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "314447"
+    },
+    {
+      "site": "bilibili",
+      "id": "28231929",
+      "begin": "2021-01-09T18:00:00.000Z",
+      "broadcast": "R/2021-01-09T18:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ramune-anime",
+      "begin": "2021-01-16T16:30:00.000Z",
+      "broadcast": "R/2021-01-16T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UchVjLOiCYh8s5EC1-Ic0jOl",
+      "begin": "2020-10-15T16:00:00.000Z",
+      "broadcast": "R/2020-10-15T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "114242",
+      "begin": "2021-01-09T18:00:00.000Z",
+      "broadcast": "R/2021-01-09T18:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28233460",
+      "begin": "2021-01-09T18:00:00.000Z",
+      "broadcast": "R/2021-01-09T18:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0052925",
+      "begin": "2021-01-09T16:30:00.000Z",
+      "broadcast": "R/2021-01-09T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "怪病醫"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ff046f35ff4024d23db2bf2"
+    },
+    {
+      "site": "mikan",
+      "id": "2382"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "114242",
+      "begin": "2021-01-09T18:00:00.000Z",
+      "broadcast": "R/2021-01-09T18:00:00.000Z/P7D"
+    }
+  ]
 }

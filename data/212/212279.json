@@ -149,5 +149,43 @@
       "count": 10
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "212279"
+    },
+    {
+      "site": "bilibili",
+      "id": "11712",
+      "begin": "2018-01-06T17:30:00.000Z",
+      "broadcast": "R/2018-01-06T17:30:00.000Z/P7D",
+      "comment": "中配版: 28236717"
+    },
+    {
+      "site": "nicovideo",
+      "id": "hoshiiro",
+      "begin": "2018-01-06T16:30:00.000Z",
+      "broadcast": "R/2018-01-06T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0032713",
+      "begin": "2018-01-07T03:00:00.000Z",
+      "broadcast": "R/2018-01-07T03:00:00.000Z/P7D",
+      "comment": "再放送(リミックス版): SID0061672"
+    },
+    {
+      "site": "dmhy",
+      "id": "POP+TEAM+EPIC"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5a43140c17d48cbd4a962606"
+    },
+    {
+      "site": "mikan",
+      "id": "1507"
+    }
+  ]
 }

@@ -149,5 +149,40 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "278828"
+    },
+    {
+      "site": "acfun",
+      "id": "6000217",
+      "begin": "2019-10-06T16:30:00.000Z"
+    },
+    {
+      "site": "nicovideo",
+      "id": "afusara",
+      "begin": "2019-10-13T16:00:00.000Z",
+      "broadcast": "R/2019-10-13T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0043531",
+      "begin": "2019-10-14T03:00:00.000Z",
+      "broadcast": "R/2019-10-14T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "非洲"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5d9392cd4e9c003faceb5cba"
+    },
+    {
+      "site": "mikan",
+      "id": "2050"
+    }
+  ]
 }

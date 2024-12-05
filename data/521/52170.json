@@ -149,5 +149,27 @@
       "count": 9
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "52170"
+    },
+    {
+      "site": "bilibili",
+      "id": "439",
+      "begin": "2013-01-10T16:00:00.000Z",
+      "broadcast": "R/2013-01-12T02:03:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0027683",
+      "begin": "2016-12-22T03:00:00.000Z",
+      "broadcast": "R/2016-12-22T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "問題兒"
+    }
+  ]
 }

@@ -149,5 +149,48 @@
       "count": 46
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "247"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28229002",
+      "begin": "2020-05-26T13:36:00.000Z",
+      "broadcast": "R/2020-05-26T13:36:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28233839",
+      "begin": "2021-03-19T10:00:00.000Z",
+      "broadcast": "R/2021-03-19T10:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "13-47",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0013600",
+      "begin": "2019-05-01T03:00:00.000Z",
+      "broadcast": "R/2019-05-01T03:00:00.000Z/P7D",
+      "comment": "２年目 #50-99: SID0018477, ３年目 #100-150: SID0018478, ４年目 #151-201: SID0018479"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JjYz_Mr7sak82-ImkZfxLO1",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mytv",
+      "id": "gintamaseason1_141937",
+      "begin": "2024-10-15T16:00:00.000Z",
+      "broadcast": "R/2024-10-15T16:00:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,33 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "13971"
+    },
+    {
+      "site": "nicovideo",
+      "id": "Record_of_Lodoss_War2",
+      "begin": "2018-04-01T03:00:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "163",
+      "begin": "1998-03-31T16:00:00.000Z",
+      "broadcast": "R/2010-10-16T05:41:00.000Z/P7D"
+    },
+    {
+      "site": "qq",
+      "id": "4/4iskjyeeqsnp96t",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0013506",
+      "begin": "2018-05-10T03:00:00.000Z",
+      "broadcast": "R/2018-05-10T03:00:00.000Z/P7D"
+    }
+  ]
 }

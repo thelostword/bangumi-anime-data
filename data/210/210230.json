@@ -149,5 +149,40 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "210230"
+    },
+    {
+      "site": "youku",
+      "id": "67d89910efbfbd5c11ef",
+      "begin": "2018-01-12T18:10:00.000Z"
+    },
+    {
+      "site": "nicovideo",
+      "id": "killingbites-anime",
+      "begin": "2018-02-10T03:00:00.000Z",
+      "broadcast": "R/2018-02-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0041953",
+      "begin": "2019-07-12T03:00:00.000Z",
+      "broadcast": "R/2019-07-12T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "牙鬥"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5a43140317d48cbd4a9625f4"
+    },
+    {
+      "site": "mikan",
+      "id": "1517"
+    }
+  ]
 }

@@ -149,5 +149,39 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "212675"
+    },
+    {
+      "site": "bilibili",
+      "id": "6337",
+      "begin": "2017-07-12T13:40:00.000Z",
+      "broadcast": "R/2017-07-12T13:40:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "te-kyu09",
+      "begin": "2017-07-13T03:00:00.000Z",
+      "broadcast": "R/2017-07-13T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0030189",
+      "begin": "2019-03-31T15:00:00.000Z",
+      "broadcast": "R/2019-03-31T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "158-12",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "庭球|球并|Teekyu"
+    }
+  ]
 }

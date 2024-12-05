@@ -149,5 +149,45 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "228407"
+    },
+    {
+      "site": "nicovideo",
+      "id": "shingeki_movie_season2",
+      "begin": "2018-12-27T03:00:00.000Z",
+      "broadcast": "R/2018-12-27T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "92275",
+      "begin": "2022-08-18T09:00:00.000Z",
+      "broadcast": "R/2022-08-18T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UchkFx6Rl70VbQeT10lIKoL7",
+      "begin": "2023-06-11T13:55:55.059Z",
+      "broadcast": "R/2023-06-11T13:55:55.059Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0039027",
+      "begin": "2018-12-27T03:00:00.000Z",
+      "broadcast": "R/2018-12-27T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "92275",
+      "begin": "2022-08-18T09:00:00.000Z",
+      "broadcast": "R/2022-08-18T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "1655"
+    }
+  ]
 }

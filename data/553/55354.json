@@ -149,5 +149,27 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "55354"
+    },
+    {
+      "site": "nicovideo",
+      "id": "jigokuyouchien",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "684",
+      "begin": "2013-01-10T16:00:00.000Z",
+      "broadcast": "R/2013-01-11T15:07:01.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Youchien|獄幼"
+    }
+  ]
 }

@@ -105,5 +105,30 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "fe815c40309111e3b8b7",
+      "begin": "2013-10-09T04:04:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "66409"
+    },
+    {
+      "site": "unext",
+      "id": "SID0003365",
+      "begin": "2015-02-16T15:00:00.000Z",
+      "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Driland"
+    },
+    {
+      "site": "mikan",
+      "id": "232"
+    }
+  ]
 }

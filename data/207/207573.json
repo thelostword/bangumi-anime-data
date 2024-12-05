@@ -149,5 +149,36 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5989",
+      "begin": "2017-04-06T15:00:00.000Z",
+      "broadcast": "R/2017-04-06T15:00:00.000Z/P7D",
+      "comment": "SP: 10732"
+    },
+    {
+      "site": "bangumi",
+      "id": "207573"
+    },
+    {
+      "site": "unext",
+      "id": "SID0029348",
+      "begin": "2017-05-23T03:00:00.000Z",
+      "broadcast": "R/2017-05-23T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "月色"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "58df7c8d79c3a0541f4b61db"
+    },
+    {
+      "site": "mikan",
+      "id": "1274"
+    }
+  ]
 }

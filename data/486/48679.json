@@ -149,5 +149,18 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "48679"
+    },
+    {
+      "site": "unext",
+      "id": "SID0020056",
+      "begin": "2019-04-04T03:00:00.000Z",
+      "broadcast": "R/2019-04-04T03:00:00.000Z/P7D",
+      "comment": "VOYAGE２: SID0020057, VOYAGE３: SID0020058"
+    }
+  ]
 }

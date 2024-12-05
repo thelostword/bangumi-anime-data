@@ -149,5 +149,23 @@
       "count": 18
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "2617"
+    },
+    {
+      "site": "nicovideo",
+      "id": "soranootoshimono",
+      "begin": "2019-10-14T06:00:00.000Z",
+      "broadcast": "R/2019-10-14T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0013161",
+      "begin": "2018-06-21T03:00:00.000Z",
+      "broadcast": "R/2018-06-21T03:00:00.000Z/P7D"
+    }
+  ]
 }

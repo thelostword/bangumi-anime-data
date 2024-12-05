@@ -149,5 +149,39 @@
       "count": 9
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "33352"
+    },
+    {
+      "site": "nicovideo",
+      "id": "bakuman3",
+      "begin": "2012-10-20T15:00:00.000Z",
+      "broadcast": "R/2012-10-20T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "729",
+      "begin": "2012-10-06T08:30:00.000Z",
+      "broadcast": "R/2012-10-06T12:06:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0016248",
+      "begin": "2020-07-15T03:00:00.000Z",
+      "broadcast": "R/2020-07-15T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "bakuman|爆漫"
+    },
+    {
+      "site": "gamer",
+      "id": "53500",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

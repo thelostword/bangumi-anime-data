@@ -149,5 +149,44 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "2741",
+      "begin": "2015-10-04T14:30:00.000Z",
+      "broadcast": "R/2015-10-04T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "189c428856bb11e5b432",
+      "begin": "2015-10-04T14:30:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "139022"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh82u99",
+      "begin": "2017-06-30T16:02:42.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "a/aal134p96a0g3us",
+      "begin": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "超人幻|Concrete"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "560d132e9286e15329cf9520"
+    },
+    {
+      "site": "mikan",
+      "id": "602"
+    }
+  ]
 }

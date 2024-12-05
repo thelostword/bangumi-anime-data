@@ -149,5 +149,17 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "340837"
+    },
+    {
+      "site": "disneyplus",
+      "id": "5AiiTRJ7OaKg",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

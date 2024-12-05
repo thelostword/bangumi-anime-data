@@ -149,5 +149,22 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "16872"
+    },
+    {
+      "site": "bilibili",
+      "id": "2481",
+      "begin": "1973-07-01T16:00:00.000Z",
+      "broadcast": "R/2011-05-02T05:03:46.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "chargeman-ken",
+      "begin": "2020-10-01T03:00:00.000Z"
+    }
+  ]
 }

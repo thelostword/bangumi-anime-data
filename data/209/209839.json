@@ -149,5 +149,51 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh9f8t5",
+      "begin": "2017-04-07T17:35:00.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "efbfbd7cefbfbd10112f",
+      "begin": "2017-04-07T17:35:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "5965",
+      "begin": "2017-04-07T17:35:00.000Z",
+      "broadcast": "R/2017-04-07T17:35:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "209839"
+    },
+    {
+      "site": "nicovideo",
+      "id": "nobunaga-no-shinobi02",
+      "begin": "2017-04-09T03:00:00.000Z",
+      "broadcast": "R/2017-04-09T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0028921",
+      "begin": "2017-04-07T16:35:00.000Z",
+      "broadcast": "R/2017-04-07T16:35:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "信長的忍者"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "58df7df479c3a0541f4b61f3"
+    },
+    {
+      "site": "mikan",
+      "id": "1278"
+    }
+  ]
 }

@@ -149,5 +149,36 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "p/p9g77zamk0kvlka",
+      "begin": "2015-02-12T20:35:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "115338"
+    },
+    {
+      "site": "nicovideo",
+      "id": "mental-anime",
+      "begin": "2015-02-12T20:00:00.000Z",
+      "broadcast": "R/2015-02-12T20:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0010793",
+      "begin": "2016-02-18T15:00:00.000Z",
+      "broadcast": "R/2016-02-18T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "心療"
+    },
+    {
+      "site": "mikan",
+      "id": "466"
+    }
+  ]
 }

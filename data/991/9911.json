@@ -149,5 +149,28 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "begin": "",
+      "url": "http://www.iqiyi.com/v_19rrk78dhk.html"
+    },
+    {
+      "site": "bangumi",
+      "id": "9911"
+    },
+    {
+      "site": "nicovideo",
+      "id": "hoshi-o-kodomo",
+      "begin": "2020-06-15T15:00:00.000Z",
+      "broadcast": "R/2020-06-15T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0004225",
+      "begin": "2014-10-03T06:00:00.000Z",
+      "broadcast": "R/2014-10-03T06:00:00.000Z/P7D"
+    }
+  ]
 }

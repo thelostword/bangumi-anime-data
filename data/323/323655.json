@@ -149,5 +149,67 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "323655"
+    },
+    {
+      "site": "bilibili",
+      "id": "28235820",
+      "begin": "2022-01-05T15:00:00.000Z",
+      "broadcast": "R/2022-01-05T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JhRe3iHESL39UAKDJNCRNeb",
+      "begin": "2022-01-05T16:00:00.000Z",
+      "broadcast": "R/2022-01-05T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "115200",
+      "begin": "2022-01-05T16:00:00.000Z",
+      "broadcast": "R/2022-01-05T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "397-19",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0064228",
+      "begin": "2022-01-09T15:00:00.000Z",
+      "broadcast": "R/2022-01-09T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "115200",
+      "begin": "2022-01-05T16:00:00.000Z",
+      "broadcast": "R/2022-01-05T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "東方少年"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "61d722036e31a0815abf5423"
+    },
+    {
+      "site": "mytv",
+      "id": "orient_141231",
+      "begin": "2024-07-05T02:00:00.000Z",
+      "broadcast": "R/2024-07-05T02:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "orient-anime",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

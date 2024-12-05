@@ -149,5 +149,31 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "10252",
+      "begin": "2014-04-10T01:00:00.000Z",
+      "broadcast": "R/2014-04-10T01:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "91626"
+    },
+    {
+      "site": "unext",
+      "id": "SID0096725",
+      "begin": "2023-12-28T03:00:00.000Z",
+      "broadcast": "R/2023-12-28T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "雲維"
+    },
+    {
+      "site": "mikan",
+      "id": "300"
+    }
+  ]
 }

@@ -149,5 +149,23 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "26800"
+    },
+    {
+      "site": "nicovideo",
+      "id": "momo-letter",
+      "begin": "2012-10-25T15:00:00.000Z",
+      "broadcast": "R/2012-10-25T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "4544",
+      "begin": "2012-04-20T16:00:01.000Z",
+      "broadcast": "R/2016-06-07T03:07:00.000Z/P7D"
+    }
+  ]
 }

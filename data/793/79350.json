@@ -149,5 +149,39 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "79350"
+    },
+    {
+      "site": "nicovideo",
+      "id": "robot-girlsz",
+      "begin": "2014-02-01T03:00:00.000Z",
+      "broadcast": "R/2014-02-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "218",
+      "begin": "2014-01-03T16:00:00.000Z",
+      "broadcast": "",
+      "comment": "SP: 3801"
+    },
+    {
+      "site": "youku",
+      "id": "516cdbc8f8e311e28b3f",
+      "begin": "2016-01-12T08:19:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0085322",
+      "begin": "2023-05-03T03:00:00.000Z",
+      "broadcast": "R/2023-05-03T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Robot+Girls+Z"
+    }
+  ]
 }

@@ -149,5 +149,49 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "begin": "",
+      "url": "http://www.iqiyi.com/dongman/20130715/839f4bf2c2cbe419.html"
+    },
+    {
+      "site": "bangumi",
+      "id": "8966"
+    },
+    {
+      "site": "qq",
+      "id": "b/bymafsjpccgo4bw",
+      "begin": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "18452",
+      "begin": "1993-07-23T16:00:01.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "f070c1fa61ad11e0bea1",
+      "begin": "2012-11-27T02:56:39.000Z"
+    },
+    {
+      "site": "abema",
+      "id": "35-55",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "197",
+      "begin": "2024-02-01T04:00:00.000Z",
+      "broadcast": "R/2024-02-01T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0010781",
+      "begin": "2024-03-06T03:00:00.000Z",
+      "broadcast": "R/2024-03-06T03:00:00.000Z/P7D"
+    }
+  ]
 }

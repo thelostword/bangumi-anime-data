@@ -105,5 +105,41 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "306993"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kyojinzoku_hana",
+      "begin": "2020-07-05T16:00:00.000Z",
+      "broadcast": "R/2020-07-05T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "巨人族的新娘"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5efff2f8c4be624128fcd33a"
+    },
+    {
+      "site": "mikan",
+      "id": "2270"
+    },
+    {
+      "site": "gamer",
+      "id": "111487",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0049169",
+      "begin": "2024-11-12T03:00:00.000Z",
+      "broadcast": "R/2024-11-12T03:00:00.000Z/P7D"
+    }
+  ]
 }

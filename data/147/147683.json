@@ -149,5 +149,34 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhaj2vd",
+      "begin": "2016-04-04T16:58:31.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "147683"
+    },
+    {
+      "site": "nicovideo",
+      "id": "sailormoon-Crystal3",
+      "begin": "2016-04-15T08:00:00.000Z",
+      "broadcast": "R/2016-04-15T08:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "少女+Crystal"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "56fd541fc6dbe72e14a0d330"
+    },
+    {
+      "site": "mikan",
+      "id": "705"
+    }
+  ]
 }

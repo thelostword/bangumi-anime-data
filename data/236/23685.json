@@ -149,5 +149,62 @@
       "count": 13
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrjt3kop",
+      "begin": "2017-03-08T04:25:25.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "23685"
+    },
+    {
+      "site": "nicovideo",
+      "id": "accel-world",
+      "begin": "2012-04-10T14:00:00.000Z",
+      "broadcast": "R/2012-04-10T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "686",
+      "begin": "2012-04-05T16:00:00.000Z",
+      "broadcast": "R/2015-06-04T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Uch2Aab79VbcxouXmWlefMa1",
+      "begin": "2022-03-25T16:00:00.000Z",
+      "broadcast": "R/2022-03-25T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "viu",
+      "id": "463589",
+      "begin": "2022-10-31T16:00:00.000Z",
+      "broadcast": "R/2022-10-31T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "52205",
+      "begin": "2020-06-19T09:00:00.000Z",
+      "broadcast": "R/2020-06-19T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0012752",
+      "begin": "2019-11-30T03:00:00.000Z",
+      "broadcast": "R/2019-11-30T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "52205",
+      "begin": "2020-06-19T09:00:00.000Z",
+      "broadcast": "R/2020-06-19T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "加速世界"
+    }
+  ]
 }

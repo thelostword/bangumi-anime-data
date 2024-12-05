@@ -149,5 +149,63 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "276788"
+    },
+    {
+      "site": "bilibili",
+      "id": "28222624",
+      "begin": "2019-10-02T16:30:00.000Z",
+      "broadcast": "R/2019-10-02T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "booklove",
+      "begin": "2019-10-09T15:00:00.000Z",
+      "broadcast": "R/2019-10-09T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rri0rsk5",
+      "begin": "2019-10-02T16:25:05.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "cfcf7caaef8b4eab991f",
+      "begin": "2019-10-02T16:28:05.000Z"
+    },
+    {
+      "site": "bilibili_tw",
+      "id": "28222860",
+      "begin": "2019-10-02T17:00:00.000Z",
+      "broadcast": "R/2019-10-02T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0043287",
+      "begin": "2019-10-09T15:00:00.000Z",
+      "broadcast": "R/2019-10-09T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "413-2",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "書癡|書痴"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5d9392bb4e9c003faceb5c72"
+    },
+    {
+      "site": "mikan",
+      "id": "2039"
+    }
+  ]
 }

@@ -149,5 +149,23 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "39118"
+    },
+    {
+      "site": "nicovideo",
+      "id": "seitokai_banngaihen",
+      "begin": "2017-06-14T03:00:00.000Z",
+      "broadcast": "R/2017-06-14T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0015401",
+      "begin": "2018-09-01T03:00:00.000Z",
+      "broadcast": "R/2018-09-01T03:00:00.000Z/P7D"
+    }
+  ]
 }

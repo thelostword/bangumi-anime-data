@@ -149,5 +149,65 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "369784"
+    },
+    {
+      "site": "bilibili",
+      "id": "20289050",
+      "begin": "2023-07-11T17:29:00.000Z",
+      "broadcast": "R/2023-07-11T17:29:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "20290147",
+      "begin": "2023-07-11T17:29:00.000Z",
+      "broadcast": "R/2023-07-11T17:29:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "130209",
+      "begin": "2023-07-18T11:00:00.000Z",
+      "broadcast": "R/2023-07-18T11:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtSow1ByrUAkL12nhNTDDmvx",
+      "begin": "2023-07-25T18:30:00.000Z",
+      "broadcast": "R/2023-07-25T18:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "143-42",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0087616",
+      "begin": "2023-07-16T17:00:00.000Z",
+      "broadcast": "R/2023-07-16T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "130209",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "赫魯庫|Helck"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "649efebf68e7233aec4c96cd"
+    },
+    {
+      "site": "mikan",
+      "id": "3071"
+    }
+  ]
 }

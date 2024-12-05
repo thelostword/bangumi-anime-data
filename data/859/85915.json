@@ -149,5 +149,53 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrgi8ugt",
+      "begin": "2014-04-05T20:20:00.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "cc004620962411de83b1",
+      "begin": "2014-04-05T20:20:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "169",
+      "begin": "2014-04-05T20:20:00.000Z",
+      "broadcast": "R/2017-09-05T10:58:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "85915"
+    },
+    {
+      "site": "nicovideo",
+      "id": "corda_bs",
+      "begin": "2014-04-11T03:00:00.000Z",
+      "broadcast": "R/2014-04-11T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "64107",
+      "begin": "2019-08-12T08:30:00.000Z",
+      "broadcast": "R/2019-08-12T08:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002193",
+      "begin": "2019-08-29T03:00:00.000Z",
+      "broadcast": "R/2019-08-29T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "琴弦"
+    },
+    {
+      "site": "mikan",
+      "id": "283"
+    }
+  ]
 }

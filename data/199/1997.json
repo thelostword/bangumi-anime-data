@@ -149,5 +149,34 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "1997"
+    },
+    {
+      "site": "qq",
+      "id": "x/xf7fiqqipab0lt0",
+      "begin": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "2036",
+      "begin": "2017-03-19T06:40:00.000Z",
+      "broadcast": "R/2017-03-19T06:40:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0015948",
+      "begin": "2022-12-01T03:00:00.000Z",
+      "broadcast": "R/2022-12-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "hack-sign",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

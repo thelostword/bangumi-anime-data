@@ -149,5 +149,27 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "58709"
+    },
+    {
+      "site": "bilibili",
+      "id": "4435",
+      "begin": "2013-04-07T16:00:01.000Z",
+      "broadcast": "R/2017-02-09T04:19:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002803",
+      "begin": "2020-05-02T03:00:00.000Z",
+      "broadcast": "R/2020-05-02T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "风管"
+    }
+  ]
 }

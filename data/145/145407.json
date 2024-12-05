@@ -149,5 +149,74 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "3107",
+      "begin": "2016-01-11T18:30:00.000Z",
+      "broadcast": "R/2016-01-11T18:31:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "389e1aea197e11e5b5ce",
+      "begin": "2016-01-11T18:30:00.000Z"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhb5pv5",
+      "begin": "2016-01-11T18:30:00.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "2/2hndczgdvkpzff5",
+      "begin": "2016-01-11T18:30:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "145407"
+    },
+    {
+      "site": "nicovideo",
+      "id": "clarines-kingdom02",
+      "begin": "2016-01-23T14:00:00.000Z",
+      "broadcast": "R/2016-01-23T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UciTo8QZlu64QPBL7CCeW52D",
+      "begin": "2023-01-02T14:00:00.000Z",
+      "broadcast": "R/2023-01-02T14:00:00.000Z/P1D"
+    },
+    {
+      "site": "gamer",
+      "id": "78467",
+      "begin": "2016-01-11T19:00:00.000Z",
+      "broadcast": "R/2016-01-11T19:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0021368",
+      "begin": "2016-02-01T03:00:00.000Z",
+      "broadcast": "R/2016-02-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "髮白|发白"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "56855a1f2555b5145b45a8c2"
+    },
+    {
+      "site": "mikan",
+      "id": "666"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "78467",
+      "begin": "2016-01-11T19:00:00.000Z",
+      "broadcast": "R/2016-01-11T19:00:00.000Z/P7D"
+    }
+  ]
 }

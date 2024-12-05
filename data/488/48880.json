@@ -149,5 +149,30 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "afa35b76032a11e38b3f",
+      "begin": "2014-01-10T16:53:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "48880"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002158",
+      "begin": "2019-04-12T03:00:00.000Z",
+      "broadcast": "R/2019-04-12T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Wake+Up+Girls"
+    },
+    {
+      "site": "mikan",
+      "id": "269"
+    }
+  ]
 }

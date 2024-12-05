@@ -149,5 +149,59 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "353819"
+    },
+    {
+      "site": "gamer",
+      "id": "120243",
+      "begin": "2023-10-03T05:00:00.000Z",
+      "broadcast": "R/2023-10-03T05:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "seikengakuin",
+      "begin": "2023-10-09T17:00:00.000Z",
+      "broadcast": "R/2023-10-09T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "11-54",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0091735",
+      "begin": "2023-10-02T17:00:00.000Z",
+      "broadcast": "R/2023-10-02T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81758318",
+      "begin": "2024-04-29T16:00:00.000Z",
+      "broadcast": "R/2024-04-29T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "120243",
+      "begin": "2023-10-03T05:00:00.000Z",
+      "broadcast": "R/2023-10-03T05:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "聖劍學院"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "65186f7b4c90aa63daeaa1f7"
+    },
+    {
+      "site": "mikan",
+      "id": "3172"
+    }
+  ]
 }

@@ -149,5 +149,35 @@
       "count": 15
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "77625"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002368",
+      "begin": "2017-12-14T03:00:00.000Z",
+      "broadcast": "R/2017-12-14T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "19-107",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "PSYCHO PASS 2"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "548f00d3f892774b140ac620"
+    },
+    {
+      "site": "mikan",
+      "id": "416"
+    }
+  ]
 }

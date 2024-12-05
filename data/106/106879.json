@@ -149,5 +149,44 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "5d9421503e5011e4b2ad",
+      "begin": "2014-10-12T17:35:00.000Z"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhbz5w5",
+      "begin": "2014-10-12T17:35:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "106879"
+    },
+    {
+      "site": "nicovideo",
+      "id": "girlfriend-kari-anime",
+      "begin": "2014-10-21T03:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002955",
+      "begin": "2023-06-01T03:00:00.000Z",
+      "broadcast": "R/2023-06-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "時女|友伴"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "548f0b2bf892774b140ac668"
+    },
+    {
+      "site": "mikan",
+      "id": "419"
+    }
+  ]
 }

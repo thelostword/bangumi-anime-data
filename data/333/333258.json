@@ -81,5 +81,23 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "333258"
+    },
+    {
+      "site": "gamer",
+      "id": "116954",
+      "begin": "2023-11-24T03:30:00.000Z",
+      "broadcast": "R/2023-11-24T03:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0077724",
+      "begin": "2023-01-25T03:00:00.000Z",
+      "broadcast": "R/2023-01-25T03:00:00.000Z/P7D"
+    }
+  ]
 }

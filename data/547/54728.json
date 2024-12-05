@@ -149,5 +149,27 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "54728"
+    },
+    {
+      "site": "nicovideo",
+      "id": "milky-holmes_alt2",
+      "begin": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "2921",
+      "begin": "2012-08-24T16:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0017795",
+      "begin": "2024-01-31T15:00:00.000Z",
+      "broadcast": "R/2024-01-31T15:00:00.000Z/P7D"
+    }
+  ]
 }

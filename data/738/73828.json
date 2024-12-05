@@ -149,5 +149,41 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "233",
+      "begin": "2014-01-06T13:05:00.000Z",
+      "broadcast": "R/2021-01-13T08:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "73828"
+    },
+    {
+      "site": "nicovideo",
+      "id": "koiuta-tv",
+      "begin": "2014-01-06T13:30:00.000Z",
+      "broadcast": "R/2014-01-06T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "7f9ed630e3db11e29748",
+      "begin": "2014-01-07T01:15:06.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "l/lqfath6f91adcn9",
+      "begin": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "给某"
+    },
+    {
+      "site": "mikan",
+      "id": "241"
+    }
+  ]
 }

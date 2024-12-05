@@ -149,5 +149,32 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh9mhz9",
+      "begin": "2016-08-31T16:02:16.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "86773"
+    },
+    {
+      "site": "bilibili",
+      "id": "1659",
+      "begin": "2012-08-03T16:00:00.000Z",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0013602",
+      "begin": "2015-03-19T15:00:00.000Z",
+      "broadcast": "R/2015-03-19T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "55103d0c1fe5c31a190a06ca"
+    }
+  ]
 }

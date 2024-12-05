@@ -149,5 +149,72 @@
       "count": 20
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrk4bu5x",
+      "begin": "2012-11-28T02:10:29.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "f/f7zblmkldorv3v7",
+      "begin": ""
+    },
+    {
+      "site": "mgtv",
+      "id": "12032",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "23684"
+    },
+    {
+      "site": "bilibili",
+      "id": "1624",
+      "begin": "2012-04-06T16:00:00.000Z",
+      "broadcast": "R/2015-01-20T02:36:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "deefd7280a7b11e1a046",
+      "begin": "2019-08-08T02:49:23.000Z"
+    },
+    {
+      "site": "netflix",
+      "id": "80063153",
+      "begin": "2022-09-14T16:00:00.000Z",
+      "broadcast": "R/2022-09-14T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "52157",
+      "begin": "2023-01-18T02:30:00.000Z",
+      "broadcast": "R/2023-01-18T02:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002560",
+      "begin": "2022-04-01T15:00:00.000Z",
+      "broadcast": "R/2022-04-01T15:00:00.000Z/P7D",
+      "comment": "OVA: SID0013549"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "52157",
+      "begin": "2023-01-18T02:30:00.000Z",
+      "broadcast": "R/2023-01-18T02:30:00.000Z/P7D"
+    },
+    {
+      "site": "mytv",
+      "id": "kurokosbasketball1stseason0002_141948",
+      "begin": "2024-10-09T16:00:00.000Z",
+      "broadcast": "R/2024-10-09T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "黑子的篮球"
+    }
+  ]
 }

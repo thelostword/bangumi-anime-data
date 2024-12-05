@@ -149,5 +149,27 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "58850"
+    },
+    {
+      "site": "nicovideo",
+      "id": "love-lab",
+      "begin": "2013-07-14T14:00:00.000Z",
+      "broadcast": "R/2013-07-14T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0017368",
+      "begin": "2021-01-07T03:00:00.000Z",
+      "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "愛研"
+    }
+  ]
 }

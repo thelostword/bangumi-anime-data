@@ -149,5 +149,39 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhax0et",
+      "begin": "2015-01-08T18:04:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "60901"
+    },
+    {
+      "site": "nicovideo",
+      "id": "fafner-exodus",
+      "begin": "2011-12-02T06:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0003311",
+      "begin": "2017-11-02T03:00:00.000Z",
+      "broadcast": "R/2017-11-02T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "蒼穹+EXODUS"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "549984dcc8b118cf40b274e7"
+    },
+    {
+      "site": "mikan",
+      "id": "447"
+    }
+  ]
 }

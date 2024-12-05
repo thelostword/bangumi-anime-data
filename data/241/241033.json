@@ -149,5 +149,30 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "241033"
+    },
+    {
+      "site": "acfun",
+      "id": "5022158",
+      "begin": "2018-10-01T11:00:00.000Z"
+    },
+    {
+      "site": "nicovideo",
+      "id": "akanesasushojo",
+      "begin": "2018-10-01T10:30:00.000Z",
+      "broadcast": "R/2018-10-01T10:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5bb19c9d9b9493607ff72605"
+    },
+    {
+      "site": "mikan",
+      "id": "1759"
+    }
+  ]
 }

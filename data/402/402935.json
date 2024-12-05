@@ -149,5 +149,35 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "402935"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kawaisugi",
+      "begin": "2023-04-14T15:00:00.000Z",
+      "broadcast": "R/2023-04-14T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0080287",
+      "begin": "2023-04-07T15:00:00.000Z",
+      "broadcast": "R/2023-04-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "可愛過頭大危機"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6425d64655eb4cdc768e3998"
+    },
+    {
+      "site": "mikan",
+      "id": "3024"
+    }
+  ]
 }

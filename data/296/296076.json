@@ -149,5 +149,71 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "296076"
+    },
+    {
+      "site": "acfun",
+      "id": "6002917",
+      "begin": "2020-07-10T18:00:00.000Z"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kanokari",
+      "begin": "2020-07-15T17:00:00.000Z",
+      "broadcast": "R/2020-07-15T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "mytv",
+      "id": "rentagirlfriend2426_141233",
+      "begin": "2022-10-07T19:00:00.000Z",
+      "broadcast": "R/2022-10-07T19:00:00.000Z/P7D",
+      "comment": "粵語: rentagirlfriend0001_136684"
+    },
+    {
+      "site": "gamer",
+      "id": "109203",
+      "begin": "2020-07-10T18:00:00.000Z",
+      "broadcast": "R/2020-07-10T18:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28229298",
+      "begin": "2020-07-10T18:00:01.000Z",
+      "broadcast": "R/2020-07-10T18:00:01.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "194-15",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0047356",
+      "begin": "2020-07-15T17:00:00.000Z",
+      "broadcast": "R/2020-07-15T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "出租|租借 女友"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5efffb4f3d656e43622cacc9"
+    },
+    {
+      "site": "mikan",
+      "id": "2252"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "109203",
+      "begin": "2020-07-10T18:00:00.000Z",
+      "broadcast": "R/2020-07-10T18:00:00.000Z/P7D"
+    }
+  ]
 }

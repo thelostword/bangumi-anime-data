@@ -105,5 +105,37 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "494302"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kinokoinu-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0157069",
+      "begin": "2024-10-08T12:25:00.000Z",
+      "broadcast": "R/2024-10-08T12:25:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66fb601889c3a6ce864cbcc3"
+    },
+    {
+      "site": "mikan",
+      "id": "3447"
+    },
+    {
+      "site": "abema",
+      "id": "247-20",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

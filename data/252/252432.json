@@ -149,5 +149,38 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "252432"
+    },
+    {
+      "site": "bilibili",
+      "id": "24662313",
+      "begin": "2019-03-29T03:00:00.000Z",
+      "broadcast": "R/2019-03-29T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "dbcb0550bf3b4e8699fa",
+      "begin": "2019-03-29T04:24:16.000Z"
+    },
+    {
+      "site": "nicovideo",
+      "id": "movie-trinity-7-hlcl",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0041297",
+      "begin": "2019-04-27T03:00:00.000Z",
+      "broadcast": "R/2019-04-27T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "1936"
+    }
+  ]
 }

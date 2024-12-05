@@ -105,5 +105,21 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "229872"
+    },
+    {
+      "site": "nicovideo",
+      "id": "gdmen",
+      "begin": "2018-01-09T03:00:00.000Z",
+      "broadcast": "R/2018-01-09T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5a4313f217d48cbd4a9625c8"
+    }
+  ]
 }

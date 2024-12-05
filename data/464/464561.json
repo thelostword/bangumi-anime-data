@@ -149,5 +149,41 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "464561"
+    },
+    {
+      "site": "unext",
+      "id": "SID0104153",
+      "begin": "2024-07-12T15:15:00.000Z",
+      "broadcast": "R/2024-07-12T15:15:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6681471757ba1568dc1b07ca"
+    },
+    {
+      "site": "abema",
+      "id": "194-41",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "21854346",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "成花|亦花|草花綻放"
+    },
+    {
+      "site": "mikan",
+      "id": "3388"
+    }
+  ]
 }

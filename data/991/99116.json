@@ -149,5 +149,46 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrgiff91",
+      "begin": "2014-07-02T16:00:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "9",
+      "begin": "2014-07-02T16:00:00.000Z",
+      "broadcast": "R/2014-07-02T16:20:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "a737b9a0df2a11e38b3f",
+      "begin": "2014-07-02T16:00:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "99116"
+    },
+    {
+      "site": "nicovideo",
+      "id": "bakumatsu-maql",
+      "begin": "2014-07-11T15:30:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002285",
+      "begin": "2019-05-12T03:00:00.000Z",
+      "broadcast": "R/2019-05-12T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "幕末rock"
+    },
+    {
+      "site": "mikan",
+      "id": "354"
+    }
+  ]
 }

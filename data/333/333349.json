@@ -149,5 +149,47 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "333349"
+    },
+    {
+      "site": "nicovideo",
+      "id": "jahysama-anime",
+      "begin": "2021-08-05T17:30:00.000Z",
+      "broadcast": "R/2021-08-05T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28234736",
+      "begin": "2021-07-31T18:00:00.000Z",
+      "broadcast": "R/2021-07-31T18:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "194-24",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0058461",
+      "begin": "2021-08-05T17:30:00.000Z",
+      "broadcast": "R/2021-08-05T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "迦希|賈希"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "60de5dbb06c78696e4d1163a"
+    },
+    {
+      "site": "mikan",
+      "id": "2498"
+    }
+  ]
 }

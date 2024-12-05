@@ -149,5 +149,20 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "66338"
+    },
+    {
+      "site": "nicovideo",
+      "id": "saipuu",
+      "begin": "2013-04-18T04:00:00.000Z"
+    },
+    {
+      "site": "dmhy",
+      "id": "saipu"
+    }
+  ]
 }

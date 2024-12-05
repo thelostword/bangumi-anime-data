@@ -149,5 +149,39 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhas5xl",
+      "begin": "2016-07-14T10:16:33.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "107957"
+    },
+    {
+      "site": "youku",
+      "id": "fe042ed2198811e59e2a",
+      "begin": "2016-09-21T02:36:09.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0019023",
+      "begin": "2023-11-25T15:00:00.000Z",
+      "broadcast": "R/2023-11-25T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "GANGSTA"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "55954e09a0b788232ee3529c"
+    },
+    {
+      "site": "mikan",
+      "id": "526"
+    }
+  ]
 }

@@ -149,5 +149,53 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "297954"
+    },
+    {
+      "site": "bilibili",
+      "id": "28233896",
+      "begin": "2021-04-30T11:00:00.000Z",
+      "broadcast": "R/2021-04-30T11:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JgxV0mDkMNtd0TczCCvLb-N",
+      "begin": "2021-04-11T16:00:00.000Z",
+      "broadcast": "R/2021-04-11T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81333467",
+      "begin": "2021-12-05T16:00:00.000Z",
+      "broadcast": "R/2021-12-05T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtT-7Wqrklk75n-w5cxqCOfB",
+      "begin": "2023-01-23T16:00:00.000Z",
+      "broadcast": "R/2023-01-23T16:00:00.000Z/P1D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0050919",
+      "begin": "2021-04-13T03:00:00.000Z",
+      "broadcast": "R/2021-04-13T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "不滅的你"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6065f092eaf504d0216b7785"
+    },
+    {
+      "site": "mikan",
+      "id": "2446"
+    }
+  ]
 }

@@ -149,5 +149,53 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "221127"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh1gx6l",
+      "begin": "2018-04-09T15:25:07.000Z"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kamuy-anime",
+      "begin": "2018-07-14T03:00:00.000Z",
+      "broadcast": "R/2018-07-01T11:00:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UchW3480J4w-RptCG40WEPrN",
+      "begin": "2021-03-09T16:00:00.000Z",
+      "broadcast": "R/2021-03-09T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "11-23",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0035986",
+      "begin": "2018-07-18T03:00:00.000Z",
+      "broadcast": "R/2018-07-18T03:00:00.000Z/P7D",
+      "comment": "オーディオコメンタリー版: SID0056347"
+    },
+    {
+      "site": "dmhy",
+      "id": "神威"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ac0aa79395e2a122f10f01b"
+    },
+    {
+      "site": "mikan",
+      "id": "1620"
+    }
+  ]
 }

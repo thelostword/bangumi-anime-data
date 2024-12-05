@@ -149,5 +149,50 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhawvm1",
+      "begin": "2015-01-07T18:05:00.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "7/70zp9wog1azxki9",
+      "begin": "2015-01-07T18:05:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "100205"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "6286",
+      "begin": "2017-07-11T04:30:07.000Z",
+      "broadcast": "R/2017-07-11T04:30:07.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "anime-shinmaimaou",
+      "begin": "2020-02-14T06:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0035660",
+      "begin": "2019-10-06T03:00:00.000Z",
+      "broadcast": "R/2019-10-06T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "妹魔"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "54a0b59e60cda70b18a38940"
+    },
+    {
+      "site": "mikan",
+      "id": "440"
+    }
+  ]
 }

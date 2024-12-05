@@ -69,5 +69,27 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "284474"
+    },
+    {
+      "site": "bilibili",
+      "id": "28228384",
+      "begin": "2020-03-18T16:00:00.000Z",
+      "broadcast": "R/2020-03-20T10:56:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0056467",
+      "begin": "2021-03-26T03:00:00.000Z",
+      "broadcast": "R/2021-03-26T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "2172"
+    }
+  ]
 }

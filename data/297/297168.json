@@ -149,5 +149,37 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "297168"
+    },
+    {
+      "site": "nicovideo",
+      "id": "azurlane-bisoku",
+      "begin": "2021-01-12T15:00:00.000Z",
+      "broadcast": "R/2021-01-12T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28233172",
+      "begin": "2021-01-11T16:20:01.000Z",
+      "broadcast": "R/2021-01-11T16:20:01.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0052914",
+      "begin": "2021-01-12T15:00:00.000Z",
+      "broadcast": "R/2021-01-12T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ff0433f84202e4c2e99e1c2"
+    },
+    {
+      "site": "mikan",
+      "id": "2342"
+    }
+  ]
 }

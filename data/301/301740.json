@@ -149,5 +149,59 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "301740"
+    },
+    {
+      "site": "bilibili",
+      "id": "28233906",
+      "begin": "2021-05-15T11:00:00.000Z",
+      "broadcast": "R/2021-05-15T11:00:00.000Z/P7D"
+    },
+    {
+      "site": "acfun",
+      "id": "6005303",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "110335",
+      "begin": "2021-04-17T11:00:00.000Z",
+      "broadcast": "R/2021-04-17T11:00:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UcjZ2OmQhdJqxJ1NNDqac_lu",
+      "begin": "2021-04-17T11:00:00.000Z",
+      "broadcast": "R/2021-04-17T11:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0056120",
+      "begin": "2021-04-19T03:00:00.000Z",
+      "broadcast": "R/2021-04-19T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "110335",
+      "begin": "2021-04-17T11:00:00.000Z",
+      "broadcast": "R/2021-04-17T11:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "入魔 2季|二季|2期|二期|S02|S2|2nd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6065f0a0eaf504d0216b77cd"
+    },
+    {
+      "site": "mikan",
+      "id": "2478"
+    }
+  ]
 }

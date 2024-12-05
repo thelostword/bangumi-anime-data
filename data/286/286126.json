@@ -149,5 +149,23 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "286126"
+    },
+    {
+      "site": "unext",
+      "id": "SID0076421",
+      "begin": "2022-12-22T15:00:00.000Z",
+      "broadcast": "R/2022-12-22T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "g-reco-movie4",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

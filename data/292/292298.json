@@ -149,5 +149,69 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "28228277",
+      "begin": "2020-04-07T09:55:00.000Z",
+      "broadcast": "R/2020-04-07T09:55:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "292298"
+    },
+    {
+      "site": "nicovideo",
+      "id": "shadowverse_anime",
+      "begin": "2020-04-08T03:00:00.000Z",
+      "broadcast": "R/2020-04-08T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhlhld9",
+      "begin": ""
+    },
+    {
+      "site": "youku",
+      "id": "ccddef6e11df4aa09e25",
+      "begin": "2020-04-07T09:53:05.000Z"
+    },
+    {
+      "site": "gamer",
+      "id": "108075",
+      "begin": "2020-04-07T10:30:00.000Z",
+      "broadcast": "R/2020-04-07T10:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_tw",
+      "id": "28228476",
+      "begin": "2020-04-07T10:43:51.000Z",
+      "broadcast": "R/2020-04-07T10:43:51.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0047142",
+      "begin": "2020-04-15T03:00:00.000Z",
+      "broadcast": "R/2020-04-15T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "影 詩"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5e822862657e22f4195cc778"
+    },
+    {
+      "site": "mikan",
+      "id": "2210"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "108075",
+      "begin": "2020-04-07T10:30:00.000Z",
+      "broadcast": "R/2020-04-07T10:30:00.000Z/P7D"
+    }
+  ]
 }

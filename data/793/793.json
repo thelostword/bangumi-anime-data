@@ -149,5 +149,46 @@
       "count": 58
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh9mi8h",
+      "begin": "2016-08-31T16:02:46.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "793"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtTKKl4_TB3QHJt8_kYe_v4l",
+      "begin": "2022-07-26T16:00:00.000Z",
+      "broadcast": "R/2022-07-26T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "430",
+      "begin": "2021-08-26T08:00:00.000Z",
+      "broadcast": "R/2021-08-26T08:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002580",
+      "begin": "2008-06-09T01:00:00.000Z",
+      "broadcast": "R/2008-06-09T01:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "430",
+      "begin": "2024-06-03T01:40:00.000Z",
+      "broadcast": "R/2024-06-03T01:40:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "geass-anime",
+      "begin": "2020-03-06T15:00:00.000Z",
+      "broadcast": "R/2020-03-06T15:00:00.000Z/P7D"
+    }
+  ]
 }

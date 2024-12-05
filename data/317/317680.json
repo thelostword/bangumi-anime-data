@@ -149,5 +149,47 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "317680"
+    },
+    {
+      "site": "bilibili",
+      "id": "28234655",
+      "begin": "2021-07-03T16:00:01.000Z",
+      "broadcast": "R/2021-07-03T16:00:01.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28234737",
+      "begin": "2021-07-03T16:00:00.000Z",
+      "broadcast": "R/2021-07-03T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kageki-anime",
+      "begin": "2021-07-06T16:00:00.000Z",
+      "broadcast": "R/2021-07-06T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0058456",
+      "begin": "2021-07-06T16:00:00.000Z",
+      "broadcast": "R/2021-07-06T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "歌劇少女 Shoujo"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "60de5db906c78696e4d11632"
+    },
+    {
+      "site": "mikan",
+      "id": "2522"
+    }
+  ]
 }

@@ -149,5 +149,42 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rradj4sw",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "189660"
+    },
+    {
+      "site": "nicovideo",
+      "id": "aooni-anime",
+      "begin": "2016-10-03T15:00:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "5929",
+      "begin": "2017-02-10T16:00:01.000Z",
+      "broadcast": "R/2017-02-11T12:37:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "8635adbbee8a11e68ce4",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0029754",
+      "begin": "2017-08-02T03:00:00.000Z",
+      "broadcast": "R/2017-08-02T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "青鬼"
+    }
+  ]
 }

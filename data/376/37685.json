@@ -149,5 +149,27 @@
       "count": 28
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "37685"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002212",
+      "begin": "2020-12-13T15:00:00.000Z",
+      "broadcast": "R/2020-12-13T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "19-107",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "PSYCHO PASS"
+    }
+  ]
 }

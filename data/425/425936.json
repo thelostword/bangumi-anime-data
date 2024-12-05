@@ -69,5 +69,23 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "425936"
+    },
+    {
+      "site": "nicovideo",
+      "id": "bakugan_L",
+      "begin": "2023-04-01T03:00:00.000Z",
+      "broadcast": "R/2023-04-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0079836",
+      "begin": "2023-03-31T08:00:00.000Z",
+      "broadcast": "R/2023-03-31T08:00:00.000Z/P7D"
+    }
+  ]
 }

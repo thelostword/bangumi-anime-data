@@ -65,5 +65,22 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "283522"
+    },
+    {
+      "site": "bilibili",
+      "id": "19557847",
+      "begin": "2019-04-10T04:00:00.000Z",
+      "broadcast": "R/2019-04-10T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "acfun",
+      "id": "6000152",
+      "begin": "2019-09-19T07:41:44.000Z"
+    }
+  ]
 }

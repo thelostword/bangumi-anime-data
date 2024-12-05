@@ -129,5 +129,23 @@
       "total_cont": 0
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "5233"
+    },
+    {
+      "site": "abema",
+      "id": "168-67",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0033708",
+      "begin": "2024-10-26T03:00:00.000Z",
+      "broadcast": "R/2024-10-26T03:00:00.000Z/P7D"
+    }
+  ]
 }

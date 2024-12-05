@@ -149,5 +149,25 @@
       "count": 10
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "100443"
+    },
+    {
+      "site": "unext",
+      "id": "SID0011215",
+      "begin": "2021-03-23T03:00:00.000Z",
+      "broadcast": "R/2021-03-23T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "殘響"
+    },
+    {
+      "site": "mikan",
+      "id": "367"
+    }
+  ]
 }

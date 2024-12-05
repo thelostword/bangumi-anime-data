@@ -149,5 +149,33 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "48034"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kotourasan",
+      "begin": "2013-01-12T14:30:00.000Z",
+      "broadcast": "R/2013-01-12T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "417",
+      "begin": "2013-01-09T16:00:00.000Z",
+      "broadcast": "R/2013-01-13T10:15:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002600",
+      "begin": "2019-11-30T03:00:00.000Z",
+      "broadcast": "R/2019-11-30T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "琴浦|Kotoura"
+    }
+  ]
 }

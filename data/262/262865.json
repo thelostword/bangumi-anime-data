@@ -149,5 +149,37 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "262865"
+    },
+    {
+      "site": "nicovideo",
+      "id": "isekai-quartet",
+      "begin": "2019-04-09T15:45:00.000Z",
+      "broadcast": "R/2019-04-09T15:45:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-115",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0040906",
+      "begin": "2019-04-10T03:00:00.000Z",
+      "broadcast": "R/2019-04-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ca20698d8405d2d2e62b91b"
+    },
+    {
+      "site": "mikan",
+      "id": "1911"
+    }
+  ]
 }

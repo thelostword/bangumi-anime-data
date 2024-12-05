@@ -149,5 +149,27 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "59632"
+    },
+    {
+      "site": "nicovideo",
+      "id": "muromisan",
+      "begin": "2013-04-12T16:00:00.000Z",
+      "broadcast": "R/2013-04-12T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002761",
+      "begin": "2017-08-03T03:00:00.000Z",
+      "broadcast": "R/2017-08-03T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Muromi"
+    }
+  ]
 }

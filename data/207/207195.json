@@ -149,5 +149,76 @@
       "count": 17
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "207195"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh1olh1",
+      "begin": "2018-01-04T15:25:06.000Z"
+    },
+    {
+      "site": "nicovideo",
+      "id": "yurucamp",
+      "begin": "2018-01-08T15:00:00.000Z",
+      "broadcast": "R/2018-01-08T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "acfun",
+      "id": "6000991",
+      "begin": "2019-12-31T07:07:55.000Z"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jh5nBsvSq-SCgEhgSYSdNZl",
+      "begin": "2020-12-23T16:00:00.000Z",
+      "broadcast": "R/2020-12-23T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtScQVd3nudOfH4Zh4aT8inV",
+      "begin": "2022-06-28T16:00:00.000Z",
+      "broadcast": "R/2022-06-28T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "89804",
+      "begin": "2021-03-04T09:00:00.000Z",
+      "broadcast": "R/2021-03-04T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "247-5",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0032748",
+      "begin": "2018-01-09T03:00:00.000Z",
+      "broadcast": "R/2018-01-09T03:00:00.000Z/P7D",
+      "comment": "TV未放送: SID0047615"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "89804",
+      "begin": "2024-06-03T01:40:00.000Z",
+      "broadcast": "R/2024-06-03T01:40:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "曳露"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5a4313fc17d48cbd4a9625e0"
+    },
+    {
+      "site": "mikan",
+      "id": "1505"
+    }
+  ]
 }

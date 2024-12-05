@@ -149,5 +149,27 @@
       "count": 9
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "41028"
+    },
+    {
+      "site": "nicovideo",
+      "id": "nakaimo",
+      "begin": "2013-03-29T06:00:00.000Z",
+      "broadcast": "R/2013-03-29T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0017669",
+      "begin": "2018-05-31T03:00:00.000Z",
+      "broadcast": "R/2018-05-31T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "其中1个是妹妹|三人行必有我妹"
+    }
+  ]
 }

@@ -149,5 +149,26 @@
       "count": 25
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "18624"
+    },
+    {
+      "site": "nicovideo",
+      "id": "penguindrum",
+      "begin": "2011-08-11T15:30:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002885",
+      "begin": "2017-09-07T03:00:00.000Z",
+      "broadcast": "R/2017-09-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "轉+企鵝"
+    }
+  ]
 }

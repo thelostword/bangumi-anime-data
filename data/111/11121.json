@@ -105,5 +105,23 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "11121"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kabuto_borg",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0003139",
+      "begin": "2015-02-23T15:00:00.000Z",
+      "broadcast": "R/2015-02-23T15:00:00.000Z/P7D"
+    }
+  ]
 }

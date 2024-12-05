@@ -149,5 +149,32 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "321",
+      "begin": "2014-10-08T14:00:00.000Z",
+      "broadcast": "R/2014-10-08T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "101784"
+    },
+    {
+      "site": "nicovideo",
+      "id": "shg-sega",
+      "begin": "2014-10-11T14:45:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0011914",
+      "begin": "2020-12-28T03:00:00.000Z",
+      "broadcast": "R/2020-12-28T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "548f140cf892774b140ac688"
+    }
+  ]
 }

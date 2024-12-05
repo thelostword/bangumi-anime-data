@@ -149,5 +149,28 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "54338"
+    },
+    {
+      "site": "nicovideo",
+      "id": "saint023",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0038980",
+      "begin": "2019-01-01T03:00:00.000Z",
+      "broadcast": "R/2019-01-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "26-125",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

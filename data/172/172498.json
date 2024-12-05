@@ -149,5 +149,59 @@
       "count": 13
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5997",
+      "begin": "2017-04-08T17:00:00.000Z",
+      "broadcast": "R/2017-04-08T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "172498"
+    },
+    {
+      "site": "nicovideo",
+      "id": "eromanga-sensei",
+      "begin": "2017-04-12T15:00:00.000Z",
+      "broadcast": "R/2017-04-12T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "82419",
+      "begin": "2023-06-02T03:00:00.000Z",
+      "broadcast": "R/2023-06-02T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-59",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0028964",
+      "begin": "2018-07-26T03:00:00.000Z",
+      "broadcast": "R/2018-07-26T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "情色漫|黄漫"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "58dfb5875e559a067cc361ea"
+    },
+    {
+      "site": "mikan",
+      "id": "1272"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "82419",
+      "begin": "2023-06-02T03:00:00.000Z",
+      "broadcast": "R/2023-06-02T03:00:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,37 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "316131"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28338867",
+      "begin": "2022-07-27T10:00:00.000Z",
+      "broadcast": "R/2022-07-27T10:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "jashinchan_X",
+      "begin": "2022-07-06T03:00:00.000Z",
+      "broadcast": "R/2022-07-06T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0069681",
+      "begin": "2022-07-06T03:00:00.000Z",
+      "broadcast": "R/2022-07-06T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "邪神與廚二病少 女X|三季"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "62c125aa2fc3ee0d0016bf42"
+    }
+  ]
 }

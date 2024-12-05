@@ -41,5 +41,29 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "258329"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh5n9sd",
+      "begin": "2018-08-24T09:59:15.000Z"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Uch2nFpGgRSQvgcTHojOsjH3",
+      "begin": "2019-06-10T16:00:00.000Z",
+      "broadcast": "R/2019-06-10T16:00:00.000Z/P7D",
+      "comment": "中文:PLuxqoToY7Uch8tzidPoE3nhhBUFDptjEF"
+    },
+    {
+      "site": "unext",
+      "id": "SID0028313",
+      "begin": "2021-01-31T03:00:00.000Z",
+      "broadcast": "R/2021-01-31T03:00:00.000Z/P7D"
+    }
+  ]
 }

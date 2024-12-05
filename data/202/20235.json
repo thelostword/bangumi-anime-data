@@ -149,5 +149,27 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "20235"
+    },
+    {
+      "site": "nicovideo",
+      "id": "saint_seiya",
+      "begin": ""
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhb4um9",
+      "begin": "2016-02-16T07:22:34.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0011326",
+      "begin": "2022-06-22T03:00:00.000Z",
+      "broadcast": "R/2022-06-22T03:00:00.000Z/P7D"
+    }
+  ]
 }

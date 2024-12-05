@@ -149,5 +149,38 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "215618"
+    },
+    {
+      "site": "bilibili",
+      "id": "16899731",
+      "begin": "2019-02-27T01:00:00.000Z",
+      "broadcast": "R/2019-02-27T01:00:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "97eeedf898794a38bbc3",
+      "begin": ""
+    },
+    {
+      "site": "nicovideo",
+      "id": "nonnontv-movie",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0044524",
+      "begin": "2019-11-24T03:00:00.000Z",
+      "broadcast": "R/2019-11-24T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "1893"
+    }
+  ]
 }

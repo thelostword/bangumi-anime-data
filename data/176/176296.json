@@ -149,5 +149,23 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "176296"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kingsglaive-jp",
+      "begin": "2016-08-29T15:00:00.000Z",
+      "broadcast": "R/2016-08-29T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0026369",
+      "begin": "2021-06-01T03:00:00.000Z",
+      "broadcast": "R/2021-06-01T03:00:00.000Z/P7D"
+    }
+  ]
 }

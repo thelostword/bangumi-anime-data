@@ -149,5 +149,31 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "350771"
+    },
+    {
+      "site": "bilibili",
+      "id": "28234644",
+      "begin": "2022-01-08T17:30:00.000Z",
+      "broadcast": "R/2022-01-08T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "115-99",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "重建記 2季|二季|2期|二期|S02|S2|2nd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "61d722096e31a0815abf5441"
+    }
+  ]
 }

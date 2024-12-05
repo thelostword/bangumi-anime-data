@@ -149,5 +149,49 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "363102"
+    },
+    {
+      "site": "bilibili",
+      "id": "20290697",
+      "begin": "2023-07-20T13:00:01.000Z",
+      "broadcast": "R/2023-07-20T13:00:01.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "121097",
+      "begin": "2023-07-06T17:35:00.000Z",
+      "broadcast": "R/2023-07-06T17:35:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "rurouni-kenshin_anime",
+      "begin": "2023-07-10T03:00:00.000Z",
+      "broadcast": "R/2023-07-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81705252",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "121097",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "神劍闖江湖|劍心"
+    },
+    {
+      "site": "mikan",
+      "id": "3073"
+    }
+  ]
 }

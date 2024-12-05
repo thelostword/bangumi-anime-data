@@ -149,5 +149,26 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "16996"
+    },
+    {
+      "site": "nicovideo",
+      "id": "moritasan",
+      "begin": "2011-07-07T16:30:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "887",
+      "begin": "2011-07-04T16:00:00.000Z",
+      "broadcast": "R/2011-07-05T19:45:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "森田"
+    }
+  ]
 }

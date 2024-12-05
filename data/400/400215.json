@@ -149,5 +149,67 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "400215"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "20290080",
+      "begin": "2023-07-01T18:00:01.000Z",
+      "broadcast": "R/2023-07-01T18:00:01.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "126982",
+      "begin": "2023-07-22T10:20:00.000Z",
+      "broadcast": "R/2023-07-22T10:20:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtT7h-F5gazkHva6OkKyA_5_",
+      "begin": "2023-07-22T10:20:00.000Z",
+      "broadcast": "R/2023-07-22T10:20:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "168-46",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0087598",
+      "begin": "2023-07-01T17:30:00.000Z",
+      "broadcast": "R/2023-07-01T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81759328",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "126982",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "649efed168e7233aec4c9709"
+    },
+    {
+      "site": "mikan",
+      "id": "3056"
+    },
+    {
+      "site": "nicovideo",
+      "id": "jitsuhaoresaikyo-anime",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

@@ -149,5 +149,59 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "323158"
+    },
+    {
+      "site": "nicovideo",
+      "id": "taisho-otome",
+      "begin": "2021-10-12T15:00:00.000Z",
+      "broadcast": "R/2021-10-12T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UcgF1IwTL_cMWqdxAN8fj6c_",
+      "begin": "2021-10-07T16:00:00.000Z",
+      "broadcast": "R/2021-10-07T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28235177",
+      "begin": "2021-10-08T17:53:01.000Z",
+      "broadcast": "R/2021-10-08T17:53:01.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "116661",
+      "begin": "2021-10-08T17:53:00.000Z",
+      "broadcast": "R/2021-10-08T17:53:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0061685",
+      "begin": "2021-10-12T15:00:00.000Z",
+      "broadcast": "R/2021-10-12T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "大正處女御伽話"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "615bb929d7f73dd4ed5c4440"
+    },
+    {
+      "site": "mikan",
+      "id": "2598"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "116661",
+      "begin": "2021-10-08T17:53:00.000Z",
+      "broadcast": "R/2021-10-08T17:53:00.000Z/P7D"
+    }
+  ]
 }

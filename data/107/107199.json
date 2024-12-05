@@ -149,5 +149,41 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "107199"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Ucg911FcLdA8NU1ttLzxtnHO",
+      "begin": "2021-01-31T16:00:00.000Z",
+      "broadcast": "R/2021-01-31T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "71163",
+      "begin": "2020-12-01T03:00:00.000Z",
+      "broadcast": "R/2020-12-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28230704",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0039266",
+      "begin": "2019-01-04T03:00:00.000Z",
+      "broadcast": "R/2019-01-04T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "lovelive-school-idol-movie",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

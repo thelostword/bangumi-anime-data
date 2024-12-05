@@ -149,5 +149,53 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "479921"
+    },
+    {
+      "site": "unext",
+      "id": "SID0100077",
+      "begin": "2024-04-11T03:00:00.000Z",
+      "broadcast": "R/2024-04-11T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kenkadokugaku",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "137811",
+      "begin": "2024-04-10T18:25:00.000Z",
+      "broadcast": "R/2024-04-10T18:25:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "19-193",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "137811",
+      "begin": "2024-04-10T18:25:00.000Z",
+      "broadcast": "R/2024-04-10T18:25:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "格鬥實況"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66097bc116e6bbcc806d3430"
+    },
+    {
+      "site": "mikan",
+      "id": "3337"
+    }
+  ]
 }

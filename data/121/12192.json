@@ -149,5 +149,44 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrjzlgy9",
+      "begin": "2012-07-01T06:24:47.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "y/ycyf0eg8qkroxrp",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "12192"
+    },
+    {
+      "site": "bilibili",
+      "id": "900",
+      "begin": "2011-07-02T16:00:00.000Z",
+      "broadcast": "R/2019-10-16T09:56:00.000Z/P7D",
+      "comment": "中文: 2837"
+    },
+    {
+      "site": "viu",
+      "id": "463155",
+      "begin": "2022-10-31T16:00:00.000Z",
+      "broadcast": "R/2022-10-31T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "42404",
+      "begin": "2021-10-08T06:00:00.000Z",
+      "broadcast": "R/2021-10-08T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "滑頭鬼+二季|千年魔京"
+    }
+  ]
 }

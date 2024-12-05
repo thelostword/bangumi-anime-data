@@ -149,5 +149,65 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "325727"
+    },
+    {
+      "site": "bilibili",
+      "id": "28234637",
+      "begin": "2021-07-11T14:00:01.000Z",
+      "broadcast": "R/2021-07-11T14:00:01.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28234730",
+      "begin": "2021-07-04T14:30:01.000Z",
+      "broadcast": "R/2021-07-04T14:30:01.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "tanmoshi-anime",
+      "begin": "2021-07-09T14:00:00.000Z",
+      "broadcast": "R/2021-07-09T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UchEoeVKVw5mvHfuazuvC9P0",
+      "begin": "2022-06-13T16:00:00.000Z",
+      "broadcast": "R/2022-06-13T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "115484",
+      "begin": "2021-07-04T14:30:00.000Z",
+      "broadcast": "R/2021-07-04T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0058467",
+      "begin": "2021-07-09T14:00:00.000Z",
+      "broadcast": "R/2021-07-09T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "偵探 死"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "60de5d9606c78696e4d115f8"
+    },
+    {
+      "site": "mikan",
+      "id": "2504"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "115484",
+      "begin": "2021-07-04T14:30:00.000Z",
+      "broadcast": "R/2021-07-04T14:30:00.000Z/P7D"
+    }
+  ]
 }

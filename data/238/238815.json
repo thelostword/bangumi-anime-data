@@ -149,5 +149,70 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "238815"
+    },
+    {
+      "site": "bilibili",
+      "id": "28222678",
+      "begin": "2019-10-04T10:44:00.000Z",
+      "broadcast": "R/2019-10-22T18:29:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "chihayafuru3",
+      "begin": "2019-10-23T03:00:00.000Z",
+      "broadcast": "R/2019-10-23T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "qq",
+      "id": "6/6tvsv1vr4a5ehks",
+      "begin": ""
+    },
+    {
+      "site": "gamer",
+      "id": "94113",
+      "begin": "2019-10-22T18:30:00.000Z",
+      "broadcast": "R/2019-10-22T18:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_tw",
+      "id": "28223034",
+      "begin": "2019-10-22T18:29:00.000Z",
+      "broadcast": "R/2019-10-22T18:29:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0043535",
+      "begin": "2022-04-24T15:00:00.000Z",
+      "broadcast": "R/2022-04-24T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Ucj3z4IKgRQcyezftxu_xQxm",
+      "begin": "2024-04-20T12:30:00.000Z",
+      "broadcast": "R/2024-04-20T12:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "94113",
+      "begin": "2019-10-22T18:30:00.000Z",
+      "broadcast": "R/2019-10-22T18:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "花牌 S03|S3"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5d9392b84e9c003faceb5c66"
+    },
+    {
+      "site": "mikan",
+      "id": "2064"
+    }
+  ]
 }

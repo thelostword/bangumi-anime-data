@@ -149,5 +149,80 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "411427"
+    },
+    {
+      "site": "bilibili",
+      "id": "21086686",
+      "begin": "2023-11-11T12:00:01.000Z",
+      "broadcast": "R/2023-11-11T12:00:01.000Z/P7D",
+      "comment": "中配版: 21618488"
+    },
+    {
+      "site": "viu",
+      "id": "2251140",
+      "begin": "2023-10-06T16:00:00.000Z",
+      "broadcast": "R/2023-10-06T16:00:00.000Z/P7D",
+      "comment": "粵語版: 2270009"
+    },
+    {
+      "site": "gamer",
+      "id": "129280",
+      "begin": "2023-10-07T15:00:00.000Z",
+      "broadcast": "R/2023-10-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "mytv",
+      "id": "spyxfamilyseason2_139633",
+      "begin": "2023-10-07T15:00:00.000Z",
+      "broadcast": "R/2023-10-07T15:00:00.000Z/P7D",
+      "comment": "雙語版: spyxfamilyseason20001_139634"
+    },
+    {
+      "site": "netflix",
+      "id": "81511410",
+      "begin": "2023-10-07T14:00:00.000Z",
+      "broadcast": "R/2023-10-07T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "19-86",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0091752",
+      "begin": "2023-10-07T14:30:00.000Z",
+      "broadcast": "R/2023-10-07T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "129280",
+      "begin": "2023-10-07T15:00:00.000Z",
+      "broadcast": "R/2023-10-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "SPY FAMILY"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "65186f8a4c90aa63daeaa245"
+    },
+    {
+      "site": "mikan",
+      "id": "3207"
+    },
+    {
+      "site": "nicovideo",
+      "id": "spy-family_2",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

@@ -149,5 +149,32 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "10261"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ikokumeiro",
+      "begin": "2011-07-19T15:00:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "3433",
+      "begin": "2011-07-02T16:00:01.000Z",
+      "broadcast": "R/2016-03-15T02:13:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0010868",
+      "begin": "2019-11-15T03:00:00.000Z",
+      "broadcast": "R/2019-11-15T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "十字"
+    }
+  ]
 }

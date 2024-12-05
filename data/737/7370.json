@@ -149,5 +149,22 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "g/gam3y5luf0yp8be",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "7370"
+    },
+    {
+      "site": "bilibili",
+      "id": "1466",
+      "begin": "2006-03-31T16:00:00.000Z",
+      "broadcast": "R/2013-02-02T19:03:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,27 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "289101"
+    },
+    {
+      "site": "nicovideo",
+      "id": "tgcf-anime",
+      "begin": "2021-07-07T03:00:00.000Z",
+      "broadcast": "R/2021-07-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0058473",
+      "begin": "2021-07-07T03:00:00.000Z",
+      "broadcast": "R/2021-07-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "2503"
+    }
+  ]
 }

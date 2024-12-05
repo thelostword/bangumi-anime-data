@@ -149,5 +149,27 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "9472"
+    },
+    {
+      "site": "bilibili",
+      "id": "2989",
+      "begin": "2011-04-24T16:00:00.000Z",
+      "broadcast": "R/2015-11-10T20:10:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002346",
+      "begin": "2020-04-15T03:00:00.000Z",
+      "broadcast": "R/2020-04-15T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "如果+杜拉|moshidora"
+    }
+  ]
 }

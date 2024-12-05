@@ -149,5 +149,89 @@
       "count": 12
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "285666"
+    },
+    {
+      "site": "bilibili",
+      "id": "28231940",
+      "begin": "2020-12-07T00:00:00.000Z",
+      "broadcast": "R/2020-12-07T00:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "70299043",
+      "begin": "2020-12-07T00:00:00.000Z",
+      "broadcast": "R/2020-12-07T00:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "巨人 最終|final"
+    },
+    {
+      "site": "nicovideo",
+      "id": "shingeki_final",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "viu",
+      "id": "317442",
+      "begin": "2020-11-30T16:00:00.000Z",
+      "broadcast": "R/2020-11-30T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "106374",
+      "begin": "2020-12-07T00:00:00.000Z",
+      "broadcast": "R/2020-12-07T00:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28233436",
+      "begin": "2021-01-22T03:59:00.000Z",
+      "broadcast": "R/2021-01-22T03:59:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UchkFx6Rl70VbQeT10lIKoL7",
+      "begin": "2023-06-11T13:55:55.059Z",
+      "broadcast": "R/2023-06-11T13:55:55.059Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "5D0Qx5ecSvHm",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "abema",
+      "id": "30-5",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0050923",
+      "begin": "2020-12-07T03:00:00.000Z",
+      "broadcast": "R/2020-12-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "106374",
+      "begin": "2020-12-07T00:00:00.000Z",
+      "broadcast": "R/2020-12-07T00:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5f7567d94b840abcfc63b17e"
+    },
+    {
+      "site": "mikan",
+      "id": "2335"
+    }
+  ]
 }

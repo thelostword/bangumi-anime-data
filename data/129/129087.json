@@ -149,5 +149,46 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "2582",
+      "begin": "2015-07-03T18:25:00.000Z",
+      "broadcast": "R/2015-07-03T18:25:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "698d6ccc1aec11e5b692",
+      "begin": "2015-07-03T18:25:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "129087"
+    },
+    {
+      "site": "nicovideo",
+      "id": "classroom-crisis",
+      "begin": "2015-07-10T03:00:00.000Z",
+      "broadcast": "R/2015-07-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Classroom+Crisis"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "55812d7ba0b788232ee350a4"
+    },
+    {
+      "site": "mikan",
+      "id": "538"
+    },
+    {
+      "site": "unext",
+      "id": "SID0018968",
+      "begin": "2024-10-18T03:00:00.000Z",
+      "broadcast": "R/2024-10-18T03:00:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,41 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5557",
+      "begin": "2016-10-05T15:28:09.000Z",
+      "broadcast": "R/2016-10-05T15:28:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "187556"
+    },
+    {
+      "site": "nicovideo",
+      "id": "nazotokine-anime",
+      "begin": "2016-10-13T06:00:00.000Z",
+      "broadcast": "R/2016-10-13T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0027759",
+      "begin": "2019-12-17T09:00:00.000Z",
+      "broadcast": "R/2019-12-17T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Nazotokine"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "57efba17ac5b9d0762d174be"
+    },
+    {
+      "site": "mikan",
+      "id": "852"
+    }
+  ]
 }

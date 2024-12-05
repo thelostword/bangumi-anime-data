@@ -149,5 +149,35 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "134038"
+    },
+    {
+      "site": "nicovideo",
+      "id": "bikini-warriors",
+      "begin": "2015-07-07T16:35:00.000Z",
+      "broadcast": "R/2015-07-07T16:35:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0018986",
+      "begin": "2019-11-30T03:00:00.000Z",
+      "broadcast": "R/2019-11-30T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "尼戰|尼勇"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "557b98cca0b788232ee35003"
+    },
+    {
+      "site": "mikan",
+      "id": "561"
+    }
+  ]
 }

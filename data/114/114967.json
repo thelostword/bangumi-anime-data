@@ -149,5 +149,68 @@
       "count": 13
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "2c9c7552acd811e38b3f",
+      "begin": "2015-07-04T15:30:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "2595",
+      "begin": "2015-07-04T15:30:00.000Z",
+      "broadcast": "R/2015-07-04T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "qq",
+      "id": "4/4gmobofw9fltve9",
+      "begin": "2015-07-04T15:30:00.000Z"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhb5awh",
+      "begin": "2017-07-01T07:26:57.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "114967"
+    },
+    {
+      "site": "nicovideo",
+      "id": "durarara03",
+      "begin": "2015-07-09T03:00:00.000Z",
+      "broadcast": "R/2015-07-09T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "73149",
+      "begin": "2020-02-07T08:30:00.000Z",
+      "broadcast": "R/2020-02-07T08:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0018995",
+      "begin": "2015-07-23T06:00:00.000Z",
+      "broadcast": "R/2015-07-23T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "士異|Dura 轉|Ten"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "558ec63ba0b788232ee351c9"
+    },
+    {
+      "site": "mikan",
+      "id": "540"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "73149",
+      "begin": "2020-02-07T08:30:00.000Z",
+      "broadcast": "R/2020-02-07T08:30:00.000Z/P7D"
+    }
+  ]
 }

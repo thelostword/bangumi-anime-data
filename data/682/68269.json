@@ -149,5 +149,22 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "h/hibacbz0801byjb",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "68269"
+    },
+    {
+      "site": "gamer",
+      "id": "112894",
+      "begin": "2020-08-11T07:30:00.000Z",
+      "broadcast": "R/2020-08-11T07:30:00.000Z/P7D"
+    }
+  ]
 }

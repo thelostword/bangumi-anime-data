@@ -145,5 +145,35 @@
       "count": 10
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "a/ahsfol4rlzypt3e",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "993"
+    },
+    {
+      "site": "bilibili",
+      "id": "1078",
+      "begin": "2009-01-02T16:00:00.000Z",
+      "broadcast": "R/2019-05-13T09:17:00.000Z/P7D",
+      "comment": "下半篇章: 28220987"
+    },
+    {
+      "site": "gamer",
+      "id": "22845",
+      "begin": "2021-11-05T06:00:00.000Z",
+      "broadcast": "R/2021-11-05T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002867",
+      "begin": "2019-10-25T03:00:00.000Z",
+      "broadcast": "R/2019-10-25T03:00:00.000Z/P7D"
+    }
+  ]
 }

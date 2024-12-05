@@ -149,5 +149,33 @@
       "count": 9
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "5652"
+    },
+    {
+      "site": "nicovideo",
+      "id": "otogi-bank",
+      "begin": "2011-11-30T06:00:00.000Z",
+      "broadcast": "R/2011-11-30T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "981",
+      "begin": "2010-06-30T16:00:00.000Z",
+      "broadcast": "R/2010-07-01T07:50:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0012832",
+      "begin": "2018-07-01T03:00:00.000Z",
+      "broadcast": "R/2018-07-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "大神+七"
+    }
+  ]
 }

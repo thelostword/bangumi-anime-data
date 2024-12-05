@@ -105,5 +105,22 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "89330"
+    },
+    {
+      "site": "nicovideo",
+      "id": "karate",
+      "begin": "2012-02-21T06:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0038233",
+      "begin": "2018-11-20T03:00:00.000Z",
+      "broadcast": "R/2018-11-20T03:00:00.000Z/P7D"
+    }
+  ]
 }

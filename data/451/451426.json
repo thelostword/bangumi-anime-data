@@ -113,5 +113,59 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "451426"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66fb601389c3a6ce864cbc9d"
+    },
+    {
+      "site": "nicovideo",
+      "id": "haigakura",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0157043",
+      "begin": "2024-10-07T13:00:00.000Z",
+      "broadcast": "R/2024-10-07T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UcgUxPaAf0rbqU7QFpSbkRP3",
+      "begin": "2024-10-07T14:00:21.000Z",
+      "broadcast": "R/2024-10-07T14:00:21.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "135082",
+      "begin": "2024-10-07T14:00:00.000Z",
+      "broadcast": "R/2024-10-07T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3460"
+    },
+    {
+      "site": "abema",
+      "id": "117-40",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "135082",
+      "begin": "2024-10-07T14:00:00.000Z",
+      "broadcast": "R/2024-10-07T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "尋神的旅途"
+    }
+  ]
 }

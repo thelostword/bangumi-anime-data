@@ -149,5 +149,43 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "312427"
+    },
+    {
+      "site": "bilibili",
+      "id": "28235976",
+      "begin": "2022-01-09T14:30:00.000Z",
+      "broadcast": "R/2022-01-09T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "121150",
+      "begin": "2022-01-09T14:30:00.000Z",
+      "broadcast": "R/2022-01-09T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "121150",
+      "begin": "2022-01-09T14:30:00.000Z",
+      "broadcast": "R/2022-01-09T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Futsal Boys"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "61d721fd6e31a0815abf5402"
+    },
+    {
+      "site": "nicovideo",
+      "id": "futsalboys",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

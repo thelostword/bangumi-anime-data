@@ -149,5 +149,31 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "193",
+      "begin": "2014-04-10T17:00:00.000Z",
+      "broadcast": "R/2014-04-10T16:53:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "90388"
+    },
+    {
+      "site": "unext",
+      "id": "SID0017418",
+      "begin": "2020-11-30T03:00:00.000Z",
+      "broadcast": "R/2020-11-30T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "七七七"
+    },
+    {
+      "site": "mikan",
+      "id": "328"
+    }
+  ]
 }

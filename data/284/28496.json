@@ -149,5 +149,32 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "28496"
+    },
+    {
+      "site": "youku",
+      "id": "3b285e307fb511e19194",
+      "begin": "2012-04-05T15:32:47.000Z"
+    },
+    {
+      "site": "gamer",
+      "id": "54652",
+      "begin": "2020-08-14T08:00:00.000Z",
+      "broadcast": "R/2020-08-14T08:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "54652",
+      "begin": "2020-08-14T08:00:00.000Z",
+      "broadcast": "R/2020-08-14T08:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "火影忍者+李"
+    }
+  ]
 }

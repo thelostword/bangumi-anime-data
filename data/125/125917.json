@@ -149,5 +149,44 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "b3f16e30197511e5b522",
+      "begin": "2015-07-02T14:30:00.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "s/s8q3rwmi1vcyhuu",
+      "begin": "2015-07-02T14:30:00.000Z"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhb5q85",
+      "begin": "2015-07-02T14:30:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "125917"
+    },
+    {
+      "site": "unext",
+      "id": "SID0018936",
+      "begin": "2019-11-30T03:00:00.000Z",
+      "broadcast": "R/2019-11-30T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "龍戰役"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "558127c3a0b788232ee35087"
+    },
+    {
+      "site": "mikan",
+      "id": "527"
+    }
+  ]
 }

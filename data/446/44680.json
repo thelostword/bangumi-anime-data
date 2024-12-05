@@ -149,5 +149,16 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "44680"
+    },
+    {
+      "site": "nicovideo",
+      "id": "anime-medarot",
+      "begin": "2019-07-01T15:00:00.000Z"
+    }
+  ]
 }

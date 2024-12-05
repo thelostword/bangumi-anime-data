@@ -149,5 +149,26 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrk6f6c9",
+      "begin": "2012-10-15T01:29:39.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "12332"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002704",
+      "begin": "2011-06-23T06:00:00.000Z",
+      "broadcast": "R/2011-06-23T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "紙箱戰機"
+    }
+  ]
 }

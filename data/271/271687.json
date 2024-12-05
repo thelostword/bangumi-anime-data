@@ -149,5 +149,74 @@
       "count": 10
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "271687"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kyokousuiri",
+      "begin": "2020-01-14T17:00:00.000Z",
+      "broadcast": "R/2020-01-14T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28224145",
+      "begin": "2020-01-11T18:00:00.000Z",
+      "broadcast": "R/2020-01-11T18:00:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhz5ush",
+      "begin": ""
+    },
+    {
+      "site": "qq",
+      "id": "m/mzc00200rm3gq63",
+      "begin": ""
+    },
+    {
+      "site": "youku",
+      "id": "fefce819de5446ae8f1c",
+      "begin": "2020-01-11T17:58:05.000Z"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Ucii40_usmDftpeq1PZxofPq",
+      "begin": "2022-01-16T16:00:00.000Z",
+      "broadcast": "R/2022-01-16T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "103427",
+      "begin": "2020-04-10T16:00:00.000Z",
+      "broadcast": "R/2020-04-10T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0045125",
+      "begin": "2020-01-15T03:00:00.000Z",
+      "broadcast": "R/2020-01-15T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "103427",
+      "begin": "2020-04-10T16:00:00.000Z",
+      "broadcast": "R/2020-04-10T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "虛構推理"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5e1b4f2f4f7a796559d91500"
+    },
+    {
+      "site": "mikan",
+      "id": "2136"
+    }
+  ]
 }

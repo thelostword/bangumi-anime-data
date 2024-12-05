@@ -149,5 +149,86 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "328195"
+    },
+    {
+      "site": "viu",
+      "id": "411458",
+      "begin": "2021-12-05T15:45:00.000Z",
+      "broadcast": "R/2021-12-05T15:45:00.000Z/P7D",
+      "comment": "粵語版: 419032"
+    },
+    {
+      "site": "netflix",
+      "id": "81091393",
+      "begin": "2021-12-05T14:15:00.000Z",
+      "broadcast": "R/2021-12-05T14:15:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "1DuIg0wour9D",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "115835",
+      "begin": "2021-12-05T15:45:00.000Z",
+      "broadcast": "R/2021-12-05T15:45:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28235125",
+      "begin": "2022-03-12T12:00:00.000Z",
+      "broadcast": "R/2022-03-12T12:00:00.000Z/P7D",
+      "comment": "中配版: 20316645"
+    },
+    {
+      "site": "mytv",
+      "id": "demonslayerkimetsunoyaibaentertainmentdistrictarc0001_133873",
+      "begin": "2022-01-12T16:00:00.000Z",
+      "broadcast": "R/2022-01-12T16:00:00.000Z/P7D",
+      "comment": "雙語版, 粵語版: demonslayerkimetsunoyaibaentertainmentdistrictarc0004_140918"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kimetsu_yukakuhen",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "abema",
+      "id": "26-75",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0061983",
+      "begin": "2021-12-05T16:00:00.000Z",
+      "broadcast": "R/2021-12-05T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "115835",
+      "begin": "2021-12-05T15:45:00.000Z",
+      "broadcast": "R/2021-12-05T15:45:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "鬼滅之刃 遊郭篇|列車篇"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "615bb91fd7f73dd4ed5c4403"
+    },
+    {
+      "site": "mikan",
+      "id": "2604"
+    }
+  ]
 }

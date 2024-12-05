@@ -149,5 +149,22 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "2427"
+    },
+    {
+      "site": "youku",
+      "id": "cc006d26962411de83b1",
+      "begin": "2012-09-11T00:10:06.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0019449",
+      "begin": "2022-12-18T15:00:00.000Z",
+      "broadcast": "R/2022-12-18T15:00:00.000Z/P7D"
+    }
+  ]
 }

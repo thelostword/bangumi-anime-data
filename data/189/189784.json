@@ -149,5 +149,36 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "189784"
+    },
+    {
+      "site": "nicovideo",
+      "id": "7-sins",
+      "begin": "2017-04-15T03:00:00.000Z",
+      "broadcast": "R/2017-04-15T03:00:00.000Z/P7D",
+      "comment": "懺悔録: 7-sins-zange"
+    },
+    {
+      "site": "unext",
+      "id": "SID0028845",
+      "begin": "2017-04-15T03:00:00.000Z",
+      "broadcast": "R/2017-04-15T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "七+罪"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "58df7e3779c3a0541f4b61f7"
+    },
+    {
+      "site": "mikan",
+      "id": "1305"
+    }
+  ]
 }

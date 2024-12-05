@@ -149,5 +149,23 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "2608"
+    },
+    {
+      "site": "nicovideo",
+      "id": "nogizaka-haruka-pure",
+      "begin": "2011-10-26T06:00:00.000Z",
+      "broadcast": "R/2011-10-26T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0013297",
+      "begin": "2019-12-28T03:00:00.000Z",
+      "broadcast": "R/2019-12-28T03:00:00.000Z/P7D"
+    }
+  ]
 }

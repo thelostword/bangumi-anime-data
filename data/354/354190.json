@@ -149,5 +149,40 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "354190"
+    },
+    {
+      "site": "bilibili",
+      "id": "28339620",
+      "begin": "2022-10-28T16:23:01.000Z",
+      "broadcast": "R/2022-10-28T16:23:01.000Z/P7D",
+      "comment": "中配: 28339621"
+    },
+    {
+      "site": "nicovideo",
+      "id": "arknights-anime",
+      "begin": "2022-10-29T01:00:00.000Z",
+      "broadcast": "R/2022-10-29T01:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "210-9",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0073166",
+      "begin": "2022-10-29T01:00:00.000Z",
+      "broadcast": "R/2022-10-29T01:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "方舟 黎明"
+    }
+  ]
 }

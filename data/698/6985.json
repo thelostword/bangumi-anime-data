@@ -149,5 +149,23 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "6985"
+    },
+    {
+      "site": "nicovideo",
+      "id": "blacklagoon_ova",
+      "begin": "2014-05-15T15:00:00.000Z",
+      "broadcast": "R/2014-05-15T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002314",
+      "begin": "2019-07-18T03:00:00.000Z",
+      "broadcast": "R/2019-07-18T03:00:00.000Z/P7D"
+    }
+  ]
 }

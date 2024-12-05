@@ -149,5 +149,47 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "309331"
+    },
+    {
+      "site": "bilibili",
+      "id": "28233159",
+      "begin": "2021-04-11T13:00:00.000Z",
+      "broadcast": "R/2021-04-11T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "daiundoukai-restart",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28234144",
+      "begin": "2021-04-10T16:30:01.000Z",
+      "broadcast": "R/2021-04-10T16:30:01.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0056113",
+      "begin": "2021-04-17T15:00:00.000Z",
+      "broadcast": "R/2021-04-17T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "大運動會 restart"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6065f0a3eaf504d0216b77df"
+    },
+    {
+      "site": "mikan",
+      "id": "2455"
+    }
+  ]
 }

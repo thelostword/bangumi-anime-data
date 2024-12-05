@@ -137,5 +137,28 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "27541"
+    },
+    {
+      "site": "nicovideo",
+      "id": "whistle",
+      "begin": "2017-01-01T15:00:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "28227080",
+      "begin": "2020-01-09T03:06:00.000Z",
+      "broadcast": "R/2020-01-09T03:06:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0027359",
+      "begin": "2018-09-20T03:00:00.000Z",
+      "broadcast": "R/2018-09-20T03:00:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,27 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "4541"
+    },
+    {
+      "site": "bilibili",
+      "id": "123",
+      "begin": "2010-04-02T16:00:00.000Z",
+      "broadcast": "R/2011-02-25T12:59:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002990",
+      "begin": "2023-01-28T03:00:00.000Z",
+      "broadcast": "R/2023-01-28T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "寶石寵物Tinkle"
+    }
+  ]
 }

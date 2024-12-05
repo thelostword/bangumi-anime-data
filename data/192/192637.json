@@ -149,5 +149,27 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "6069",
+      "begin": "2017-04-14T03:00:00.000Z",
+      "broadcast": "R/2017-04-14T02:53:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "192637"
+    },
+    {
+      "site": "nicovideo",
+      "id": "trinary",
+      "begin": "2017-04-26T15:00:00.000Z",
+      "broadcast": "R/2017-04-26T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "1312"
+    }
+  ]
 }

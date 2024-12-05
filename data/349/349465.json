@@ -149,5 +149,33 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "349465"
+    },
+    {
+      "site": "disneyplus",
+      "id": "6LJhlNWYcdjJ",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0073827",
+      "begin": "2022-10-04T03:00:00.000Z",
+      "broadcast": "R/2022-10-04T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6247749c70e8f89b23a18530"
+    },
+    {
+      "site": "nicovideo",
+      "id": "blackrockshooter-dawnfall",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

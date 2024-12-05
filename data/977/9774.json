@@ -149,5 +149,26 @@
       "count": 12
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "9774"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ch279",
+      "begin": "2011-01-13T13:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0035435",
+      "begin": "2018-07-05T03:00:00.000Z",
+      "broadcast": "R/2018-07-05T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "僵尸|殭屍"
+    }
+  ]
 }

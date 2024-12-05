@@ -149,5 +149,30 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "z/zpvbrqfxv585n4l",
+      "begin": "2014-04-08T15:00:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "89211"
+    },
+    {
+      "site": "unext",
+      "id": "SID0013426",
+      "begin": "2019-08-26T03:00:00.000Z",
+      "broadcast": "R/2019-08-26T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "女大戰"
+    },
+    {
+      "site": "mikan",
+      "id": "296"
+    }
+  ]
 }

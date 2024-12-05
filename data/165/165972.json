@@ -149,5 +149,52 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5540",
+      "begin": "2016-10-03T14:30:09.000Z",
+      "broadcast": "R/2016-10-03T14:30:00.000Z/P7D",
+      "comment": "OVA: 6049"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh9tmut",
+      "begin": "2016-10-03T14:25:13.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "be9804ad7fab11e6b16e",
+      "begin": "2016-10-03T14:28:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "165972"
+    },
+    {
+      "site": "nicovideo",
+      "id": "magicofstella",
+      "begin": "2016-10-07T15:30:00.000Z",
+      "broadcast": "R/2016-10-07T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0026762",
+      "begin": "2019-10-06T03:00:00.000Z",
+      "broadcast": "R/2019-10-06T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "斯特拉的"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "57efb57dac5b9d0762d174a8"
+    },
+    {
+      "site": "mikan",
+      "id": "840"
+    }
+  ]
 }

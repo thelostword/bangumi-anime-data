@@ -149,5 +149,22 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "6998"
+    },
+    {
+      "site": "nicovideo",
+      "id": "saiyuki-gaiden",
+      "begin": "2014-03-24T14:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0003282",
+      "begin": "2015-02-16T15:00:00.000Z",
+      "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+    }
+  ]
 }

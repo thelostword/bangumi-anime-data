@@ -149,5 +149,45 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "mgtv",
+      "id": "292433",
+      "begin": ""
+    },
+    {
+      "site": "youku",
+      "id": "a5fd9966560611e5b522",
+      "begin": "2015-10-12T19:00:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "145129"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ch2614797",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0020094",
+      "begin": "2015-10-13T03:00:00.000Z",
+      "broadcast": "R/2015-10-13T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "鍛|ANITORE|training+EX"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "560d0cba9286e15329cf94ca"
+    },
+    {
+      "site": "mikan",
+      "id": "629"
+    }
+  ]
 }

@@ -37,5 +37,16 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "258395"
+    },
+    {
+      "site": "nicovideo",
+      "id": "madboxzombies",
+      "begin": ""
+    }
+  ]
 }

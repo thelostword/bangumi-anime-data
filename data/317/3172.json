@@ -149,5 +149,30 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "3172"
+    },
+    {
+      "site": "bilibili",
+      "id": "3557",
+      "begin": "2016-04-11T06:12:00.000Z",
+      "broadcast": "R/2016-04-11T06:12:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0015690",
+      "begin": "2019-12-02T03:00:00.000Z",
+      "broadcast": "R/2019-12-02T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "wFw1QF2srJ7o",
+      "url": "https://www.disneyplus.com/movies/the-super-dimension-fortress-macross-do-you-remember-love/wFw1QF2srJ7o",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

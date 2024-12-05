@@ -149,5 +149,69 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "148726"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrheq40t",
+      "begin": "2018-04-30T16:02:04.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "106512",
+      "begin": "2016-01-09T16:00:01.000Z",
+      "broadcast": "R/2018-06-20T06:02:00.000Z/P7D",
+      "comment": "OVA: 106612"
+    },
+    {
+      "site": "youku",
+      "id": "65112faca85511e5b692",
+      "begin": "2016-01-11T12:56:12.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "r/r5506brujcq0nr7",
+      "begin": ""
+    },
+    {
+      "site": "gamer",
+      "id": "80130",
+      "begin": "2019-01-30T09:00:00.000Z",
+      "broadcast": "R/2019-01-30T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0021061",
+      "begin": "2020-05-03T03:00:00.000Z",
+      "broadcast": "R/2020-05-03T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "80130",
+      "begin": "2019-01-30T09:00:00.000Z",
+      "broadcast": "R/2019-01-30T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "19-6",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "灰與"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "56857ffad4d7dbf20b597c5c"
+    },
+    {
+      "site": "mikan",
+      "id": "662"
+    }
+  ]
 }

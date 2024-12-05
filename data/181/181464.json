@@ -149,5 +149,21 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "181464"
+    },
+    {
+      "site": "nicovideo",
+      "id": "k-seven-stories",
+      "begin": "2018-07-07T03:00:00.000Z",
+      "broadcast": "R/2018-07-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "1819"
+    }
+  ]
 }

@@ -149,5 +149,60 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhbarjh",
+      "begin": "2016-12-15T00:49:56.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "9779"
+    },
+    {
+      "site": "qq",
+      "id": "d/dajt5gn3hpincr4",
+      "begin": ""
+    },
+    {
+      "site": "youku",
+      "id": "ff4fd22461ad11e0bea1",
+      "begin": "2011-07-23T01:15:11.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "952",
+      "begin": "2020-05-05T16:00:00.000Z",
+      "broadcast": "R/2020-05-06T09:16:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Ucj7UynUWPF5mMG1HCD_kDAw",
+      "begin": "2022-04-23T16:00:00.000Z",
+      "broadcast": "R/2022-04-23T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "38204",
+      "begin": "2020-03-13T02:00:00.000Z",
+      "broadcast": "R/2020-03-13T02:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0016773",
+      "begin": "2020-09-01T03:00:00.000Z",
+      "broadcast": "R/2020-09-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "38204",
+      "begin": "2020-03-13T02:00:00.000Z",
+      "broadcast": "R/2020-03-13T02:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "惡魔奶爸|魔王的父親|Beelzebub"
+    }
+  ]
 }

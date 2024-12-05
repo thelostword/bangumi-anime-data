@@ -149,5 +149,35 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "112305"
+    },
+    {
+      "site": "nicovideo",
+      "id": "triagex",
+      "begin": "2015-04-24T03:00:00.000Z",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0018374",
+      "begin": "2018-07-12T03:00:00.000Z",
+      "broadcast": "R/2018-07-12T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "命制|Triage"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "552946a6dd3d5c0b4e82f05e"
+    },
+    {
+      "site": "mikan",
+      "id": "510"
+    }
+  ]
 }

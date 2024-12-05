@@ -149,5 +149,27 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "48700"
+    },
+    {
+      "site": "nicovideo",
+      "id": "haremking2",
+      "begin": "2013-07-11T16:30:00.000Z",
+      "broadcast": "R/2013-07-11T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0017746",
+      "begin": "2014-09-19T06:00:00.000Z",
+      "broadcast": "R/2014-09-19T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "DxD"
+    }
+  ]
 }

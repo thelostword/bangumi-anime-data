@@ -149,5 +149,34 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "210458"
+    },
+    {
+      "site": "youku",
+      "id": "efbfbdefbfbd0360efbf",
+      "begin": "2018-01-11T19:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0038889",
+      "begin": "2022-10-14T15:00:00.000Z",
+      "broadcast": "R/2022-10-14T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "雨止|雨過"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5a4313fa17d48cbd4a9625dc"
+    },
+    {
+      "site": "mikan",
+      "id": "1521"
+    }
+  ]
 }

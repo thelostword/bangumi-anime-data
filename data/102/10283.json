@@ -149,5 +149,33 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "10283"
+    },
+    {
+      "site": "nicovideo",
+      "id": "nekogami",
+      "begin": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "904",
+      "begin": "2011-07-08T16:00:00.000Z",
+      "broadcast": "R/2011-12-10T04:11:00.000Z/P7D",
+      "comment": "SP: 5269"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002273",
+      "begin": "2019-05-12T03:00:00.000Z",
+      "broadcast": "R/2019-05-12T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "貓神"
+    }
+  ]
 }

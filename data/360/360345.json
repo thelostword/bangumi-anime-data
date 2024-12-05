@@ -149,5 +149,59 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "360345"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28480898",
+      "begin": "2023-01-09T17:15:00.000Z",
+      "broadcast": "R/2023-01-09T17:15:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UcipGczVZernOCPtMvvqgC-k",
+      "begin": "2023-01-09T17:15:00.000Z",
+      "broadcast": "R/2023-01-09T17:15:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "120838",
+      "begin": "2023-01-09T17:15:00.000Z",
+      "broadcast": "R/2023-01-09T17:15:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "auo",
+      "begin": "2023-01-14T17:15:00.000Z",
+      "broadcast": "R/2023-01-14T17:15:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0076924",
+      "begin": "2023-01-14T17:15:00.000Z",
+      "broadcast": "R/2023-01-14T17:15:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "120838",
+      "begin": "2023-01-09T17:15:00.000Z",
+      "broadcast": "R/2023-01-09T17:15:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "英雄王 轉生"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "63b58c41441dff2ff8927e65"
+    },
+    {
+      "site": "mikan",
+      "id": "2888"
+    }
+  ]
 }

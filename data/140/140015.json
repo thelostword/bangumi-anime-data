@@ -57,5 +57,29 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "140015"
+    },
+    {
+      "site": "nicovideo",
+      "id": "peepingk",
+      "begin": "2015-07-10T06:00:00.000Z",
+      "broadcast": "R/2015-07-10T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "3912",
+      "begin": "2015-07-09T16:00:01.000Z",
+      "broadcast": "R/2016-05-03T06:09:51.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0018825",
+      "begin": "2017-05-08T03:00:00.000Z",
+      "broadcast": "R/2017-05-08T03:00:00.000Z/P7D"
+    }
+  ]
 }

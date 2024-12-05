@@ -149,5 +149,37 @@
       "count": 14
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "183878"
+    },
+    {
+      "site": "bilibili",
+      "id": "8892",
+      "begin": "2018-01-10T16:00:00.000Z",
+      "broadcast": "R/2018-01-10T16:00:00.000Z/P7D",
+      "comment": "中配版: 28234568"
+    },
+    {
+      "site": "netflix",
+      "id": "80182123",
+      "begin": "2018-04-05T07:00:00.000Z",
+      "broadcast": "R/2019-01-30T16:00:00.000Z/P7D",
+      "comment": "ep.4.5: 81208936"
+    },
+    {
+      "site": "dmhy",
+      "id": "紫羅蘭"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5a4313f717d48cbd4a9625d6"
+    },
+    {
+      "site": "mikan",
+      "id": "1501"
+    }
+  ]
 }

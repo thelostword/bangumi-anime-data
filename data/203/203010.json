@@ -149,5 +149,35 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "203010"
+    },
+    {
+      "site": "nicovideo",
+      "id": "7o3x_anime",
+      "begin": "2017-07-05T03:00:00.000Z",
+      "broadcast": "R/2017-07-05T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0030172",
+      "begin": "2023-09-01T03:00:00.000Z",
+      "broadcast": "R/2023-09-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "猜謎王"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5956819dcc40e0d626c234ce"
+    },
+    {
+      "site": "mikan",
+      "id": "1365"
+    }
+  ]
 }

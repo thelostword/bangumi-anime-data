@@ -149,5 +149,75 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "272509"
+    },
+    {
+      "site": "nicovideo",
+      "id": "dendro-anime",
+      "begin": "2020-01-16T14:30:00.000Z",
+      "broadcast": "R/2020-01-16T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28224111",
+      "begin": "2020-01-09T15:00:00.000Z",
+      "broadcast": "R/2020-01-09T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhwqhbx",
+      "begin": "2020-01-09T15:00:12.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "m/mzc00200ipipb3i",
+      "begin": ""
+    },
+    {
+      "site": "gamer",
+      "id": "103611",
+      "begin": "2020-01-09T15:00:00.000Z",
+      "broadcast": "R/2020-01-09T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jgn4Oax3g9Me3eA6QHG_6m-",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0045321",
+      "begin": "2020-01-16T15:00:00.000Z",
+      "broadcast": "R/2020-01-16T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "149-7",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "103611",
+      "begin": "2020-01-09T15:00:00.000Z",
+      "broadcast": "R/2020-01-09T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Dendrogram"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5e1b4f004f7a796559d914dc"
+    },
+    {
+      "site": "mikan",
+      "id": "2123"
+    }
+  ]
 }

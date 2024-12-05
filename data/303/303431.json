@@ -93,5 +93,28 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "303431"
+    },
+    {
+      "site": "bilibili",
+      "id": "28234021",
+      "begin": "2021-03-25T02:00:00.000Z",
+      "broadcast": "R/2021-03-25T02:00:00.000Z/P7D",
+      "comment": "中配版"
+    },
+    {
+      "site": "unext",
+      "id": "SID0047376",
+      "begin": "2020-04-12T01:00:00.000Z",
+      "broadcast": "R/2020-04-12T01:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5e82283c657e22f4195cc74e"
+    }
+  ]
 }

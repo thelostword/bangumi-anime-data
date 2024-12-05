@@ -149,5 +149,23 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "350756"
+    },
+    {
+      "site": "netflix",
+      "id": "81328781",
+      "begin": "2022-09-15T16:00:00.000Z",
+      "broadcast": "R/2022-09-15T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "20139816",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

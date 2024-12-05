@@ -61,5 +61,21 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "324727"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JjzQ-eGW-h4zyWbEhdM2wiJ",
+      "begin": "2022-04-14T16:00:00.000Z",
+      "broadcast": "R/2022-04-14T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6065f092eaf504d0216b7787"
+    }
+  ]
 }

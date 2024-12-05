@@ -149,5 +149,33 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "26825"
+    },
+    {
+      "site": "nicovideo",
+      "id": "natsuiro-kiseki",
+      "begin": "2012-04-13T14:00:00.000Z",
+      "broadcast": "R/2012-04-13T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "787",
+      "begin": "2012-04-04T16:00:00.000Z",
+      "broadcast": "R/2012-03-31T18:38:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "夏色奇"
+    },
+    {
+      "site": "unext",
+      "id": "SID0044788",
+      "begin": "2024-10-11T03:00:00.000Z",
+      "broadcast": "R/2024-10-11T03:00:00.000Z/P7D"
+    }
+  ]
 }

@@ -33,5 +33,23 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "366037"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kintamani_dog",
+      "begin": "2023-04-30T15:00:00.000Z",
+      "broadcast": "R/2023-04-30T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0085328",
+      "begin": "2023-05-17T03:00:00.000Z",
+      "broadcast": "R/2023-05-17T03:00:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,39 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "374947"
+    },
+    {
+      "site": "gamer",
+      "id": "125542",
+      "begin": "2023-11-17T04:00:00.000Z",
+      "broadcast": "R/2023-11-17T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0086630",
+      "begin": "2023-05-17T03:00:00.000Z",
+      "broadcast": "R/2023-05-17T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28403200",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3010"
+    },
+    {
+      "site": "nicovideo",
+      "id": "bokuranoyoake-movie",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

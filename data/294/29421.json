@@ -149,5 +149,32 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "29421"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kimiboku2",
+      "begin": "2012-04-06T14:30:00.000Z",
+      "broadcast": "R/2012-04-06T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "fb8ae1fe0cd111e1a046",
+      "begin": "2012-04-04T14:23:50.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0014521",
+      "begin": "2023-05-07T03:00:00.000Z",
+      "broadcast": "R/2023-05-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "少年同盟"
+    }
+  ]
 }

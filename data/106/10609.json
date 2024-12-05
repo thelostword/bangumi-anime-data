@@ -149,5 +149,33 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "10609"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ch60018",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "919",
+      "begin": "2011-04-10T16:00:00.000Z",
+      "broadcast": "R/2011-04-11T13:16:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002327",
+      "begin": "2019-05-12T03:00:00.000Z",
+      "broadcast": "R/2019-05-12T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "架+星空+橋"
+    }
+  ]
 }

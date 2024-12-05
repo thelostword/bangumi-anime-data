@@ -149,5 +149,59 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "333853"
+    },
+    {
+      "site": "nicovideo",
+      "id": "isekai-shokudo2",
+      "begin": "2021-10-08T17:00:00.000Z",
+      "broadcast": "R/2021-10-08T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "117142",
+      "begin": "2021-10-01T17:38:00.000Z",
+      "broadcast": "R/2021-10-01T17:38:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28235138",
+      "begin": "2022-01-15T03:00:02.000Z",
+      "broadcast": "R/2022-01-15T03:00:02.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "194-25",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0061681",
+      "begin": "2021-10-08T17:00:00.000Z",
+      "broadcast": "R/2021-10-08T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "117142",
+      "begin": "2021-10-01T17:38:00.000Z",
+      "broadcast": "R/2021-10-01T17:38:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "異世界食堂 2季|二季|2期|二期|S02|S2|2nd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "615bb928d7f73dd4ed5c443a"
+    },
+    {
+      "site": "mikan",
+      "id": "2576"
+    }
+  ]
 }

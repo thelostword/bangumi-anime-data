@@ -149,5 +149,45 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "386195"
+    },
+    {
+      "site": "bilibili",
+      "id": "21139535",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili_hk_mo",
+      "id": "21135151",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0096735",
+      "begin": "2023-12-19T15:00:00.000Z",
+      "broadcast": "R/2023-12-19T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "106-4",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "nicovideo",
+      "id": "eupho-ensemble-contest",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3136"
+    }
+  ]
 }

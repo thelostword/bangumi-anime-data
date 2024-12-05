@@ -125,5 +125,22 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "55059"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ch61033",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0003399",
+      "begin": "2016-03-24T03:00:00.000Z",
+      "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+    }
+  ]
 }

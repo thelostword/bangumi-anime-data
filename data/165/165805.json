@@ -149,5 +149,39 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "165805"
+    },
+    {
+      "site": "mgtv",
+      "id": "312408",
+      "begin": ""
+    },
+    {
+      "site": "youku",
+      "id": "dbbd5607c5ca11e68ce4",
+      "begin": "2017-07-07T16:00:00.000Z"
+    },
+    {
+      "site": "nicovideo",
+      "id": "chronosruler",
+      "begin": "2017-07-12T03:00:00.000Z",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "時間支"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5956822bcc40e0d626c234f8"
+    },
+    {
+      "site": "mikan",
+      "id": "1362"
+    }
+  ]
 }

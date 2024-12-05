@@ -149,5 +149,47 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "227231"
+    },
+    {
+      "site": "nicovideo",
+      "id": "doreiku-anime",
+      "begin": "2018-04-20T15:00:00.000Z",
+      "broadcast": "R/2018-04-20T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "91972",
+      "begin": "2021-06-17T07:00:00.000Z",
+      "broadcast": "R/2021-06-17T07:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0043580",
+      "begin": "2019-10-16T03:00:00.000Z",
+      "broadcast": "R/2019-10-16T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "奴隸區"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ac0aa9b395e2a122f10f059"
+    },
+    {
+      "site": "mikan",
+      "id": "1645"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "91972",
+      "begin": "2023-11-20T03:00:00.000Z",
+      "broadcast": "R/2023-11-20T03:00:00.000Z/P7D"
+    }
+  ]
 }

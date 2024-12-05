@@ -149,5 +149,67 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "302286"
+    },
+    {
+      "site": "gamer",
+      "id": "110487",
+      "begin": "2022-10-10T16:30:00.000Z",
+      "broadcast": "R/2022-10-10T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jg3pUga3XbHeMfWLXRMGVQY",
+      "begin": "2021-10-10T16:30:00.000Z",
+      "broadcast": "R/2021-10-10T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28339855",
+      "begin": "2022-10-10T16:30:01.000Z",
+      "broadcast": "R/2022-10-10T16:30:01.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "bleach-anime_sennen",
+      "begin": "2022-10-15T15:00:00.000Z",
+      "broadcast": "R/2022-10-15T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "15-30",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0073149",
+      "begin": "2022-10-11T03:00:00.000Z",
+      "broadcast": "R/2022-10-11T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "4Afet1Q421gy",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "110487",
+      "begin": "2022-10-10T16:30:00.000Z",
+      "broadcast": "R/2022-10-10T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "千年血戰篇"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "632762c52eaf6e578875f7c6"
+    }
+  ]
 }

@@ -149,5 +149,42 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "152092"
+    },
+    {
+      "site": "youku",
+      "id": "006e1befbfbdefbfbd7b",
+      "begin": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "28223435",
+      "begin": "2016-04-22T16:00:00.000Z",
+      "broadcast": "R/2019-11-22T10:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_tw",
+      "id": "5930",
+      "begin": "2017-02-13T08:35:00.000Z",
+      "broadcast": "R/2017-02-13T08:35:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0030986",
+      "begin": "2020-04-04T03:00:00.000Z",
+      "broadcast": "R/2020-04-04T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "上低|悠風|Euphonium"
+    },
+    {
+      "site": "mikan",
+      "id": "1136"
+    }
+  ]
 }

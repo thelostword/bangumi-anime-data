@@ -149,5 +149,63 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5795",
+      "begin": "2017-01-10T14:30:00.000Z",
+      "broadcast": "R/2017-01-10T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh91wpp",
+      "begin": "2017-01-10T14:30:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "183492"
+    },
+    {
+      "site": "qq",
+      "id": "h/hufccfgky4zw98c",
+      "begin": ""
+    },
+    {
+      "site": "gamer",
+      "id": "83565",
+      "begin": "2017-01-10T15:30:00.000Z",
+      "broadcast": "R/2017-01-10T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0027705",
+      "begin": "2024-02-01T03:00:00.000Z",
+      "broadcast": "R/2024-02-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "83565",
+      "begin": "2017-01-10T15:30:00.000Z",
+      "broadcast": "R/2017-01-10T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "ACCA+13"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5869a7fdefe56b1860c8f804"
+    },
+    {
+      "site": "mikan",
+      "id": "1186"
+    },
+    {
+      "site": "nicovideo",
+      "id": "acca-anime",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

@@ -149,5 +149,28 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "894"
+    },
+    {
+      "site": "nicovideo",
+      "id": "mariaholic",
+      "begin": "2012-07-04T06:00:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "920",
+      "begin": "2009-01-03T16:00:00.000Z",
+      "broadcast": "R/2013-01-25T15:03:21.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0017029",
+      "begin": "2018-10-16T03:00:00.000Z",
+      "broadcast": "R/2018-10-16T03:00:00.000Z/P7D"
+    }
+  ]
 }

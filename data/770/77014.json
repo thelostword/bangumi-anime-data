@@ -149,5 +149,29 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "77014"
+    },
+    {
+      "site": "bilibili",
+      "id": "5180",
+      "begin": "2013-06-21T16:00:00.000Z",
+      "broadcast": "R/2016-07-11T09:57:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0014767",
+      "begin": "2020-05-21T03:00:00.000Z",
+      "broadcast": "R/2020-05-21T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kokaku-arise",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

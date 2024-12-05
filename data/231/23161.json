@@ -149,5 +149,32 @@
       "count": 28
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "23161"
+    },
+    {
+      "site": "nicovideo",
+      "id": "nisemonogatari-anime",
+      "begin": "2012-01-14T17:00:00.000Z"
+    },
+    {
+      "site": "abema",
+      "id": "26-2mzbynr-cph",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0002272",
+      "begin": "2018-11-06T03:00:00.000Z",
+      "broadcast": "R/2018-11-06T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "偽物"
+    }
+  ]
 }

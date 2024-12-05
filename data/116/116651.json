@@ -149,5 +149,33 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "9/9wq4zk57yyxkf5l",
+      "begin": "2015-01-09T03:00:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "116651"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ketsuekigata-kun2",
+      "begin": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "血+型"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "54998939c8b118cf40b274ef"
+    },
+    {
+      "site": "mikan",
+      "id": "441"
+    }
+  ]
 }

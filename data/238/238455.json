@@ -73,5 +73,22 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "238455"
+    },
+    {
+      "site": "nicovideo",
+      "id": "mushiking-movie02",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0014777",
+      "begin": "2019-01-31T03:00:00.000Z",
+      "broadcast": "R/2019-01-31T03:00:00.000Z/P7D"
+    }
+  ]
 }

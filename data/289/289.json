@@ -149,5 +149,28 @@
       "count": 34
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "7/70bhsvctwwo7jta",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "289"
+    },
+    {
+      "site": "nicovideo",
+      "id": "oyashirosama",
+      "begin": "2016-08-23T03:00:00.000Z",
+      "broadcast": "R/2016-08-23T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0011653",
+      "begin": "2018-06-28T03:00:00.000Z",
+      "broadcast": "R/2018-06-28T03:00:00.000Z/P7D"
+    }
+  ]
 }

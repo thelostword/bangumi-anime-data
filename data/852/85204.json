@@ -149,5 +149,36 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrgje85d",
+      "begin": "2014-01-04T17:00:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "85204"
+    },
+    {
+      "site": "nicovideo",
+      "id": "seitokai02",
+      "begin": "2014-01-13T14:00:00.000Z",
+      "broadcast": "R/2014-01-13T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002674",
+      "begin": "2017-06-14T03:00:00.000Z",
+      "broadcast": "R/2017-06-14T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "想學"
+    },
+    {
+      "site": "mikan",
+      "id": "251"
+    }
+  ]
 }

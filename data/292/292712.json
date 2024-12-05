@@ -149,5 +149,41 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "292712"
+    },
+    {
+      "site": "nicovideo",
+      "id": "assaultlily-pj",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "28229882",
+      "begin": "2020-10-02T07:00:01.000Z",
+      "broadcast": "R/2020-10-02T07:00:01.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0047351",
+      "begin": "2020-11-19T15:00:00.000Z",
+      "broadcast": "R/2020-11-19T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Bouquet"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5f7567fd4b840abcfc63b1ac"
+    },
+    {
+      "site": "mikan",
+      "id": "2295"
+    }
+  ]
 }

@@ -149,5 +149,29 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "4043"
+    },
+    {
+      "site": "bilibili",
+      "id": "5177",
+      "begin": "2003-10-01T16:00:01.000Z",
+      "broadcast": "R/2016-07-11T09:30:48.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kurokou-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0054028",
+      "begin": "2020-12-21T03:00:00.000Z",
+      "broadcast": "R/2020-12-21T03:00:00.000Z/P7D"
+    }
+  ]
 }

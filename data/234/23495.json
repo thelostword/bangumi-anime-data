@@ -149,5 +149,54 @@
       "count": 12
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrjptx89",
+      "begin": "2013-03-06T01:14:22.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "9/9u9pl7dbnoclzhd",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "23495"
+    },
+    {
+      "site": "nicovideo",
+      "id": "natsume4",
+      "begin": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "1663",
+      "begin": "2012-01-01T16:00:00.000Z",
+      "broadcast": "R/2015-01-22T07:13:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "52001",
+      "begin": "2021-09-10T03:00:00.000Z",
+      "broadcast": "R/2021-09-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0016057",
+      "begin": "2012-02-01T06:00:00.000Z",
+      "broadcast": "R/2012-02-01T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "52001",
+      "begin": "2021-09-10T03:00:00.000Z",
+      "broadcast": "R/2021-09-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "夏目+肆|四|4季"
+    }
+  ]
 }

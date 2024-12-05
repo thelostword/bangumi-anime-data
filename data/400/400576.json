@@ -149,5 +149,59 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "400576"
+    },
+    {
+      "site": "unext",
+      "id": "SID0157063",
+      "begin": "2024-10-17T15:00:00.000Z",
+      "broadcast": "R/2024-10-17T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66fb601389c3a6ce864cbca1"
+    },
+    {
+      "site": "nicovideo",
+      "id": "arifureta_3",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "abema",
+      "id": "149-4",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UchphtU241r8LL186OpEp7R_",
+      "begin": "2024-10-14T15:00:06.000Z",
+      "broadcast": "R/2024-10-14T15:00:06.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "127096",
+      "begin": "2024-10-14T15:00:00.000Z",
+      "broadcast": "R/2024-10-14T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "127096",
+      "begin": "2024-10-14T15:00:00.000Z",
+      "broadcast": "R/2024-10-14T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3433"
+    },
+    {
+      "site": "dmhy",
+      "id": "平凡職業 3季|三季|3期|三期|S03|S3|3rd"
+    }
+  ]
 }

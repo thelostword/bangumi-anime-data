@@ -149,5 +149,29 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "282762"
+    },
+    {
+      "site": "unext",
+      "id": "SID0045121",
+      "begin": "2020-01-08T03:00:00.000Z",
+      "broadcast": "R/2020-01-08T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "八十龜 二冊"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5e1b4efa4f7a796559d914b5"
+    },
+    {
+      "site": "mikan",
+      "id": "2128"
+    }
+  ]
 }

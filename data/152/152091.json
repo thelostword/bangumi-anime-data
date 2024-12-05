@@ -149,5 +149,64 @@
       "count": 20
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "4d8cce35815111e6b16e",
+      "begin": "2016-10-05T15:58:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "152091"
+    },
+    {
+      "site": "nicovideo",
+      "id": "anime-eupho02",
+      "begin": "2016-10-08T15:00:00.000Z",
+      "broadcast": "R/2016-10-08T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28223434",
+      "begin": "2016-10-04T16:00:00.000Z",
+      "broadcast": "R/2019-11-15T10:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_tw",
+      "id": "5551",
+      "begin": "2016-10-05T16:00:10.000Z",
+      "broadcast": "R/2016-10-05T16:00:10.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "106-1zxpewrca-r",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0026753",
+      "begin": "2020-04-04T03:00:00.000Z",
+      "broadcast": "R/2020-04-04T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "3KeTikthDRwH",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "上低|悠風|Euphonium"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "57efba8cac5b9d0762d174c6"
+    },
+    {
+      "site": "mikan",
+      "id": "857"
+    }
+  ]
 }

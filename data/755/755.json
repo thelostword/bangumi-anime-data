@@ -149,5 +149,28 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "begin": "",
+      "url": "http://www.iqiyi.com/dongman/20110816/0c6a020636e4d3dd.html"
+    },
+    {
+      "site": "bangumi",
+      "id": "755"
+    },
+    {
+      "site": "bilibili",
+      "id": "4760",
+      "begin": "2007-07-27T16:00:01.000Z",
+      "broadcast": "R/2016-06-13T09:09:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0028373",
+      "begin": "2017-03-16T03:00:00.000Z",
+      "broadcast": "R/2017-03-16T03:00:00.000Z/P7D"
+    }
+  ]
 }

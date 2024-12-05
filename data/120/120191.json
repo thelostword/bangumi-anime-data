@@ -149,5 +149,33 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "120191"
+    },
+    {
+      "site": "nicovideo",
+      "id": "boruto-movie",
+      "begin": ""
+    },
+    {
+      "site": "youku",
+      "id": "21a8f022f9de11e4b522",
+      "begin": "2016-07-21T03:40:19.000Z"
+    },
+    {
+      "site": "gamer",
+      "id": "74493",
+      "begin": "2021-08-27T09:00:00.000Z",
+      "broadcast": "R/2021-08-27T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0053510",
+      "begin": "2020-12-08T03:00:00.000Z",
+      "broadcast": "R/2020-12-08T03:00:00.000Z/P7D"
+    }
+  ]
 }

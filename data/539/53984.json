@@ -149,5 +149,27 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "53984"
+    },
+    {
+      "site": "nicovideo",
+      "id": "azazel_z",
+      "begin": "2013-04-12T15:45:00.000Z",
+      "broadcast": "R/2013-04-12T15:45:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002921",
+      "begin": "2018-07-24T03:00:00.000Z",
+      "broadcast": "R/2018-07-24T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "萨谢|azazel Z"
+    }
+  ]
 }

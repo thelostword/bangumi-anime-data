@@ -149,5 +149,73 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "330055"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28237170",
+      "begin": "2022-04-06T12:05:00.000Z",
+      "broadcast": "R/2022-04-06T12:05:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "123381",
+      "begin": "2022-04-06T12:05:00.000Z",
+      "broadcast": "R/2022-04-06T12:05:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28237130",
+      "begin": "2022-08-29T13:00:01.000Z",
+      "broadcast": "R/2022-08-29T13:00:01.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UcgsAH4CbibXza4Iup44_5t2",
+      "begin": "2022-04-06T04:05:00.000Z",
+      "broadcast": "R/2022-04-06T04:05:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81598010",
+      "begin": "2023-08-30T16:00:00.000Z",
+      "broadcast": "R/2023-08-30T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "murabito-a-anime",
+      "begin": "2022-04-12T15:00:00.000Z",
+      "broadcast": "R/2022-04-12T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "54-70",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0066849",
+      "begin": "2022-04-12T15:00:00.000Z",
+      "broadcast": "R/2022-04-12T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "大魔王 村民"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "624774a170e8f89b23a1854c"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "123381",
+      "begin": "2022-04-06T12:05:00.000Z",
+      "broadcast": "R/2022-04-06T12:05:00.000Z/P7D"
+    }
+  ]
 }

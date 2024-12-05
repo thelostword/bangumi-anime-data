@@ -149,5 +149,28 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "6858"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ch638",
+      "begin": "2010-10-08T18:45:00.000Z",
+      "broadcast": "R/2010-10-08T18:45:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "fcbf22ee61ad11e0bea1",
+      "begin": "2011-10-29T08:55:41.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0014229",
+      "begin": "2019-02-14T03:00:00.000Z",
+      "broadcast": "R/2019-02-14T03:00:00.000Z/P7D"
+    }
+  ]
 }

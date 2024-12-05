@@ -149,5 +149,35 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "193445"
+    },
+    {
+      "site": "bilibili",
+      "id": "6304",
+      "begin": "2017-07-02T14:30:00.000Z",
+      "broadcast": "R/2017-07-02T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0029974",
+      "begin": "2023-04-15T03:00:00.000Z",
+      "broadcast": "R/2023-04-15T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "騎士+魔法"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "595682a1cc40e0d626c23512"
+    },
+    {
+      "site": "mikan",
+      "id": "1336"
+    }
+  ]
 }

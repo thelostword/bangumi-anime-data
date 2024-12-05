@@ -89,5 +89,22 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "86861"
+    },
+    {
+      "site": "nicovideo",
+      "id": "as",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0013597",
+      "begin": "2009-12-11T06:00:00.000Z",
+      "broadcast": "R/2009-12-11T06:00:00.000Z/P7D"
+    }
+  ]
 }

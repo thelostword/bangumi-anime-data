@@ -105,5 +105,31 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "509169"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66fb601289c3a6ce864cbc99"
+    },
+    {
+      "site": "nicovideo",
+      "id": "taisho-itsuwari-buraidaru",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "abema",
+      "id": "643-7",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3472"
+    }
+  ]
 }

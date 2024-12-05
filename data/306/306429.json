@@ -149,5 +149,59 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "306429"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kamisama-day",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "28229870",
+      "begin": "2020-10-10T16:30:00.000Z",
+      "broadcast": "R/2020-10-10T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "111285",
+      "begin": "2020-10-10T16:30:00.000Z",
+      "broadcast": "R/2020-10-10T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0050928",
+      "begin": "2020-10-13T03:00:00.000Z",
+      "broadcast": "R/2020-10-13T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "成神之日"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5f7568184b840abcfc63b1d4"
+    },
+    {
+      "site": "mikan",
+      "id": "2318"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "111285",
+      "begin": "2020-10-10T16:30:00.000Z",
+      "broadcast": "R/2020-10-10T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "mytv",
+      "id": "thedayibecameagod0002_141934",
+      "begin": "2024-10-09T16:00:00.000Z",
+      "broadcast": "R/2024-10-09T16:00:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,45 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "2729",
+      "begin": "2015-10-04T16:05:00.000Z",
+      "broadcast": "R/2015-10-04T16:05:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhbax91",
+      "begin": "2015-10-04T16:05:00.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "26ba1dc456b911e5b432",
+      "begin": "2015-10-04T16:05:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "138960"
+    },
+    {
+      "site": "nicovideo",
+      "id": "hakone-chan",
+      "begin": "2015-10-09T03:00:00.000Z",
+      "broadcast": "R/2015-10-09T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "幼精"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "560d128b9286e15329cf9518"
+    },
+    {
+      "site": "mikan",
+      "id": "598"
+    }
+  ]
 }

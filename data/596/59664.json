@@ -149,5 +149,33 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "59664"
+    },
+    {
+      "site": "gamer",
+      "id": "59546",
+      "begin": "2020-11-28T06:00:00.000Z",
+      "broadcast": "R/2020-11-28T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0014606",
+      "begin": "2021-11-11T03:00:00.000Z",
+      "broadcast": "R/2021-11-11T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "銀+匙"
+    },
+    {
+      "site": "abema",
+      "id": "19-115",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

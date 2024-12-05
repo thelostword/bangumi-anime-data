@@ -145,5 +145,21 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "66405"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002705",
+      "begin": "2015-05-07T05:30:00.000Z",
+      "broadcast": "R/2015-05-07T05:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "箱战"
+    }
+  ]
 }

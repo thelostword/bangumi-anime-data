@@ -149,5 +149,41 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "311600"
+    },
+    {
+      "site": "nicovideo",
+      "id": "dogeza-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "112783",
+      "begin": "2023-01-09T04:00:00.000Z",
+      "broadcast": "R/2023-01-09T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0051160",
+      "begin": "2020-10-21T14:10:00.000Z",
+      "broadcast": "R/2020-10-21T14:10:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "土下座"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5f7567f14b840abcfc63b19e"
+    },
+    {
+      "site": "mikan",
+      "id": "2308"
+    }
+  ]
 }

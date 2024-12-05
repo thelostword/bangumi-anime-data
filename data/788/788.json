@@ -149,5 +149,27 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "k/kqigw4r6dshzz5n",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "788"
+    },
+    {
+      "site": "nicovideo",
+      "id": "noir-anime",
+      "begin": "2014-01-30T06:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002769",
+      "begin": "2019-07-16T03:00:00.000Z",
+      "broadcast": "R/2019-07-16T03:00:00.000Z/P7D"
+    }
+  ]
 }

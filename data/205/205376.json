@@ -109,5 +109,26 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "205376"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrheijc5",
+      "begin": "2017-10-25T21:41:27.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "6084",
+      "begin": "2017-04-15T01:30:00.000Z",
+      "broadcast": "R/2017-04-15T01:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "58dfb59b5e559a067cc361ec"
+    }
+  ]
 }

@@ -149,5 +149,35 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5517",
+      "begin": "2016-10-09T16:00:00.000Z",
+      "broadcast": "R/2016-11-27T16:15:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "192314"
+    },
+    {
+      "site": "nicovideo",
+      "id": "hagane-orchestra",
+      "begin": "2016-10-09T16:00:00.000Z",
+      "broadcast": "R/2016-10-09T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "鐵交|之管"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "57efca65ac5b9d0762d17518"
+    },
+    {
+      "site": "mikan",
+      "id": "878"
+    }
+  ]
 }

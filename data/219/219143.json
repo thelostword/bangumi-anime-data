@@ -149,5 +149,20 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "219143"
+    },
+    {
+      "site": "qq",
+      "id": "m/maa2g8kqchabbgl",
+      "begin": "2017-07-02T04:00:00.000Z"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5b38c4a2b3d4e8ef387d7ebd"
+    }
+  ]
 }

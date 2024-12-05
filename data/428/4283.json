@@ -149,5 +149,21 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "4283"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002937",
+      "begin": "2022-06-14T03:00:00.000Z",
+      "broadcast": "R/2022-06-14T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "少年犯之七人"
+    }
+  ]
 }

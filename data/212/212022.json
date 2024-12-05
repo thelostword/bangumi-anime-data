@@ -69,5 +69,21 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "212022"
+    },
+    {
+      "site": "nicovideo",
+      "id": "project-algorhythm",
+      "begin": "2017-08-24T03:00:00.000Z"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhd9rlx",
+      "begin": "2017-09-08T06:55:18.000Z"
+    }
+  ]
 }

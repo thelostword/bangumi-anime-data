@@ -149,5 +149,23 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "331946"
+    },
+    {
+      "site": "nicovideo",
+      "id": "penguindrum-movie",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0070839",
+      "begin": "2023-06-01T03:00:00.000Z",
+      "broadcast": "R/2023-06-01T03:00:00.000Z/P7D"
+    }
+  ]
 }

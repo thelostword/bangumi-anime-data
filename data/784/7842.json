@@ -149,5 +149,38 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "7842"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ika-musume-01",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "youku",
+      "id": "fcbf969861ad11e0bea1",
+      "begin": "2018-05-03T03:34:29.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002652",
+      "begin": "2015-12-17T03:00:00.000Z",
+      "broadcast": "R/2015-12-17T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "144-1smeznwkexx",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "侵略+娘"
+    }
+  ]
 }

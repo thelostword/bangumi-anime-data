@@ -149,5 +149,38 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrjxrb1d",
+      "begin": "2013-04-11T20:36:59.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "3307",
+      "begin": "2013-04-11T20:36:59.000Z",
+      "broadcast": "R/2016-01-21T09:34:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "56951"
+    },
+    {
+      "site": "nicovideo",
+      "id": "valvrave",
+      "begin": "2013-04-13T16:00:00.000Z",
+      "broadcast": "R/2013-04-20T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002174",
+      "begin": "2019-04-11T03:00:00.000Z",
+      "broadcast": "R/2019-04-11T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "命机"
+    }
+  ]
 }

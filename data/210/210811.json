@@ -149,5 +149,26 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "m/maa2g8kqchabbgl",
+      "begin": "2017-03-28T02:00:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "6015",
+      "begin": "2017-03-28T02:00:00.000Z",
+      "broadcast": "R/2017-03-28T02:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "210811"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "58df7d2c79c3a0541f4b61eb"
+    }
+  ]
 }

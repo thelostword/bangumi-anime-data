@@ -69,5 +69,16 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "112147"
+    },
+    {
+      "site": "nicovideo",
+      "id": "agukaru",
+      "begin": ""
+    }
+  ]
 }

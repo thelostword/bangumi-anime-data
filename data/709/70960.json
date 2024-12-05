@@ -149,5 +149,29 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "0d2fcdb00a1f11e3a705",
+      "begin": "2013-10-05T03:35:38.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "70960"
+    },
+    {
+      "site": "nicovideo",
+      "id": "gingitsune",
+      "begin": "2013-10-09T15:00:00.000Z"
+    },
+    {
+      "site": "dmhy",
+      "id": "銀狐"
+    },
+    {
+      "site": "mikan",
+      "id": "221"
+    }
+  ]
 }

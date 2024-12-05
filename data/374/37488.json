@@ -97,5 +97,23 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "37488"
+    },
+    {
+      "site": "bilibili",
+      "id": "2156",
+      "begin": "2014-03-14T06:23:00.000Z",
+      "broadcast": "R/2014-03-14T06:23:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0044987",
+      "begin": "2022-04-27T03:00:00.000Z",
+      "broadcast": "R/2022-04-27T03:00:00.000Z/P7D"
+    }
+  ]
 }

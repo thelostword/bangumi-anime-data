@@ -149,5 +149,34 @@
       "count": 9
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhc0zv1",
+      "begin": "2014-10-05T09:00:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "109948"
+    },
+    {
+      "site": "unext",
+      "id": "SID0017625",
+      "begin": "2021-03-08T03:00:00.000Z",
+      "broadcast": "R/2021-03-08T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "龍+輪舞"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "548fdb5bf892774b140ac6dc"
+    },
+    {
+      "site": "mikan",
+      "id": "403"
+    }
+  ]
 }

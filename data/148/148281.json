@@ -149,5 +149,40 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "73e55cbee35c11e5b32f",
+      "begin": "2016-04-09T14:58:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "148281"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kiznaiver",
+      "begin": "2016-04-10T14:00:00.000Z",
+      "broadcast": "R/2016-04-10T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0023663",
+      "begin": "2019-11-22T03:00:00.000Z",
+      "broadcast": "R/2019-11-22T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "制約|kiznaiver"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "56fd5cdec6dbe72e14a0d386"
+    },
+    {
+      "site": "mikan",
+      "id": "730"
+    }
+  ]
 }

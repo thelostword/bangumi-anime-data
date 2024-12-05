@@ -149,5 +149,23 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "1982"
+    },
+    {
+      "site": "nicovideo",
+      "id": "trinity-blood",
+      "begin": "2020-02-14T06:00:00.000Z",
+      "broadcast": "R/2020-02-14T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0035437",
+      "begin": "2020-12-21T03:00:00.000Z",
+      "broadcast": "R/2020-12-21T03:00:00.000Z/P7D"
+    }
+  ]
 }

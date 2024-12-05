@@ -149,5 +149,53 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "364522"
+    },
+    {
+      "site": "nicovideo",
+      "id": "mahouka_3rd",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "abema",
+      "id": "25-2xrwzkrsieb",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "134161",
+      "begin": "2024-04-05T16:00:00.000Z",
+      "broadcast": "R/2024-04-05T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0100058",
+      "begin": "2024-04-10T14:30:00.000Z",
+      "broadcast": "R/2024-04-10T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "134161",
+      "begin": "2024-04-05T16:00:00.000Z",
+      "broadcast": "R/2024-04-05T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "劣等生 3季|三季|3期|三期|S03|S3|3rd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66097bc616e6bbcc806d3444"
+    },
+    {
+      "site": "mikan",
+      "id": "3325"
+    }
+  ]
 }

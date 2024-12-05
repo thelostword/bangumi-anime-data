@@ -149,5 +149,29 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "422699"
+    },
+    {
+      "site": "unext",
+      "id": "SID0101001",
+      "begin": "2024-04-23T15:00:00.000Z",
+      "broadcast": "R/2024-04-23T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "130694",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "abema",
+      "id": "5-67",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

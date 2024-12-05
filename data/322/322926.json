@@ -149,5 +149,47 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "322926"
+    },
+    {
+      "site": "nicovideo",
+      "id": "otonabougu_l",
+      "begin": "2021-01-08T15:00:00.000Z",
+      "broadcast": "R/2021-01-08T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Ucj7x5STu19zDhp4MWFZ1oa2",
+      "begin": "2020-12-31T16:00:00.000Z",
+      "broadcast": "R/2020-12-31T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "115141",
+      "begin": "2021-01-01T16:10:00.000Z",
+      "broadcast": "R/2021-01-01T16:10:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "115141",
+      "begin": "2021-01-01T16:10:00.000Z",
+      "broadcast": "R/2021-01-01T16:10:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "大人 防具 2季|二季|2期|二期|S02|S2|2nd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ff046e55ff4024d23db2be6"
+    },
+    {
+      "site": "mikan",
+      "id": "2381"
+    }
+  ]
 }

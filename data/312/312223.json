@@ -149,5 +149,60 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "312223"
+    },
+    {
+      "site": "bilibili",
+      "id": "28234640",
+      "begin": "2021-07-15T13:40:01.000Z",
+      "broadcast": "R/2021-07-15T13:40:01.000Z/P7D",
+      "comment": "正序版: 28235134"
+    },
+    {
+      "site": "nicovideo",
+      "id": "peachboyriverside",
+      "begin": "2021-07-07T15:00:00.000Z",
+      "broadcast": "R/2021-07-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jh8mDfdlDbC1fVDFoAMiDR4",
+      "begin": "2021-07-14T16:00:00.000Z",
+      "broadcast": "R/2021-07-14T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "112960",
+      "begin": "2021-07-01T13:40:00.000Z",
+      "broadcast": "R/2021-07-01T13:40:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0058475",
+      "begin": "2023-10-01T03:00:00.000Z",
+      "broadcast": "R/2023-10-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "112960",
+      "begin": "2021-07-01T13:40:00.000Z",
+      "broadcast": "R/2021-07-01T13:40:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "桃子男孩"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "60de5da506c78696e4d11614"
+    },
+    {
+      "site": "mikan",
+      "id": "2489"
+    }
+  ]
 }

@@ -149,5 +149,38 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "317042"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28237195",
+      "begin": "2022-04-01T11:00:01.000Z",
+      "broadcast": "R/2022-04-01T11:00:01.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28235419",
+      "begin": "2022-04-01T11:00:01.000Z",
+      "broadcast": "R/2022-04-01T11:00:01.000Z/P7D",
+      "comment": "中配版: 28339549"
+    },
+    {
+      "site": "nicovideo",
+      "id": "rikekoi_sin",
+      "begin": "2022-04-15T16:30:00.000Z",
+      "broadcast": "R/2022-04-15T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "理科生 2季|二季|2期|二期|S02|S2|2nd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "624774a770e8f89b23a1856e"
+    }
+  ]
 }

@@ -149,5 +149,21 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "52485"
+    },
+    {
+      "site": "bilibili",
+      "id": "572",
+      "begin": "2013-04-02T16:00:00.000Z",
+      "broadcast": "R/2015-12-09T02:46:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "狂歡"
+    }
+  ]
 }

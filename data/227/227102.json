@@ -149,5 +149,34 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "227102"
+    },
+    {
+      "site": "youku",
+      "id": "496870efbfbdefbfbd67",
+      "begin": "2018-01-12T17:40:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0045258",
+      "begin": "2020-01-10T03:00:00.000Z",
+      "broadcast": "R/2020-01-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "BEATLESS"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5a43140017d48cbd4a9625ec"
+    },
+    {
+      "site": "mikan",
+      "id": "1494"
+    }
+  ]
 }

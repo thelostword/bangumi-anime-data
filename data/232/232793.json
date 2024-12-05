@@ -97,5 +97,17 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "232793"
+    },
+    {
+      "site": "nicovideo",
+      "id": "tales-of-the-rays-theater",
+      "begin": "2018-07-21T12:00:00.000Z",
+      "broadcast": "R/2018-07-21T12:00:00.000Z/P7D"
+    }
+  ]
 }

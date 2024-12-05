@@ -149,5 +149,58 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "239125"
+    },
+    {
+      "site": "youku",
+      "id": "abddedbc2df84271b13e",
+      "begin": "2019-10-02T10:23:05.000Z"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ahirunosora",
+      "begin": "2019-10-30T09:30:00.000Z",
+      "broadcast": "R/2019-10-30T09:30:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "80245713",
+      "begin": "2022-09-30T16:00:00.000Z",
+      "broadcast": "R/2022-09-30T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "94202",
+      "begin": "2019-10-02T11:00:00.000Z",
+      "broadcast": "R/2019-10-02T11:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0043840",
+      "begin": "2019-10-16T09:30:00.000Z",
+      "broadcast": "R/2019-10-16T09:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "籃球少年王"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5d9392bc4e9c003faceb5c78"
+    },
+    {
+      "site": "mikan",
+      "id": "2044"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "94202",
+      "begin": "2019-10-02T11:00:00.000Z",
+      "broadcast": "R/2019-10-02T11:00:00.000Z/P7D"
+    }
+  ]
 }

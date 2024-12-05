@@ -149,5 +149,30 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrgjanrd",
+      "begin": "2013-10-10T20:35:12.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "70131"
+    },
+    {
+      "site": "unext",
+      "id": "SID0003201",
+      "begin": "2019-04-11T03:00:00.000Z",
+      "broadcast": "R/2019-04-11T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "命機|Valvrave"
+    },
+    {
+      "site": "mikan",
+      "id": "186"
+    }
+  ]
 }

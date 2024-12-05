@@ -149,5 +149,68 @@
       "count": 10
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5793",
+      "begin": "2017-01-09T15:00:00.000Z",
+      "broadcast": "R/2017-01-09T15:00:00.000Z/P7D",
+      "comment": "SP: 6042"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh91prt",
+      "begin": "2017-01-09T15:00:00.000Z"
+    },
+    {
+      "site": "mgtv",
+      "id": "310215",
+      "begin": "2017-01-09T15:00:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "188091"
+    },
+    {
+      "site": "nicovideo",
+      "id": "gabdro",
+      "begin": "2017-01-15T15:30:00.000Z",
+      "broadcast": "R/2017-01-15T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "qq",
+      "id": "r/rb48zfttktfr7sq",
+      "begin": ""
+    },
+    {
+      "site": "youku",
+      "id": "ec93eb2ec1b511e6acec",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0027975",
+      "begin": "2018-08-23T03:00:00.000Z",
+      "broadcast": "R/2018-08-23T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-47",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "加百列"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5869a7a9efe56b1860c8f7fa"
+    },
+    {
+      "site": "mikan",
+      "id": "1159"
+    }
+  ]
 }

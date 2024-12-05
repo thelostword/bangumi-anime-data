@@ -149,5 +149,45 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "364845"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28338480",
+      "begin": "2022-07-02T13:00:00.000Z",
+      "broadcast": "R/2022-07-04T10:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28338635",
+      "begin": "2022-09-03T13:00:01.000Z",
+      "broadcast": "R/2022-09-03T13:00:01.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "teppen-anime",
+      "begin": "2022-07-04T13:00:00.000Z",
+      "broadcast": "R/2022-07-04T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "481-8",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0069666",
+      "begin": "2022-07-04T13:00:00.000Z",
+      "broadcast": "R/2022-07-04T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "62c125b92fc3ee0d0016bf6e"
+    }
+  ]
 }

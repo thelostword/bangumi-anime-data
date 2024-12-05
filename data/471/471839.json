@@ -149,5 +149,59 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "471839"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66fb602189c3a6ce864cbd01"
+    },
+    {
+      "site": "mikan",
+      "id": "3428"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtSoAAueL0Qp3DJr4gkiBoNt",
+      "begin": "2024-10-05T18:00:21.000Z",
+      "broadcast": "R/2024-10-05T18:00:21.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Ji1uCQlEQs2xNsM3drnWtvm",
+      "begin": "2024-10-05T18:00:31.000Z",
+      "broadcast": "R/2024-10-05T18:00:31.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "137068",
+      "begin": "2024-10-05T18:00:00.000Z",
+      "broadcast": "R/2024-10-05T18:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "137068",
+      "begin": "2024-10-05T18:00:00.000Z",
+      "broadcast": "R/2024-10-05T18:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "12-26",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0157088",
+      "begin": "2024-10-10T15:00:00.000Z",
+      "broadcast": "R/2024-10-10T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "女僕冥土"
+    }
+  ]
 }

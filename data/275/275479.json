@@ -81,5 +81,20 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "275479"
+    },
+    {
+      "site": "youku",
+      "id": "aeee2b10d63448628dbb",
+      "begin": "2020-04-05T17:35:03.000Z"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5e823e35306f1a0007d2d597"
+    }
+  ]
 }

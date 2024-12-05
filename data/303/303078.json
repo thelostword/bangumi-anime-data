@@ -97,5 +97,17 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "303078"
+    },
+    {
+      "site": "nicovideo",
+      "id": "asatir",
+      "begin": "2020-04-04T15:00:00.000Z",
+      "broadcast": "R/2020-04-04T15:00:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,50 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "n/ndd165x9imhawbd",
+      "begin": "2015-09-24T16:30:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "124778"
+    },
+    {
+      "site": "nicovideo",
+      "id": "dlmb",
+      "begin": "2015-10-11T03:00:00.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "64d9893a55d011e5b5ce",
+      "begin": "2015-09-25T03:14:31.000Z"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UcjA7aCvdC0Hxot6oJWMcD5j",
+      "begin": "2019-10-17T16:00:00.000Z",
+      "broadcast": "R/2019-10-17T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0020150",
+      "begin": "2017-02-09T03:00:00.000Z",
+      "broadcast": "R/2017-02-09T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "魔鬼+MORE"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "560d0cf79286e15329cf94d0"
+    },
+    {
+      "site": "mikan",
+      "id": "574"
+    }
+  ]
 }

@@ -141,5 +141,21 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "32585"
+    },
+    {
+      "site": "bilibili",
+      "id": "2486",
+      "begin": "1969-10-04T16:00:00.000Z",
+      "broadcast": "R/1969-10-05T09:30:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "1327"
+    }
+  ]
 }

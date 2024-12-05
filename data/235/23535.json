@@ -149,5 +149,15 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "23535"
+    },
+    {
+      "site": "dmhy",
+      "id": "極樂院女子"
+    }
+  ]
 }

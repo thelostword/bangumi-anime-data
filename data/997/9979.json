@@ -149,5 +149,28 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "9979"
+    },
+    {
+      "site": "nicovideo",
+      "id": "PATLABOR_01",
+      "begin": ""
+    },
+    {
+      "site": "gamer",
+      "id": "38221",
+      "begin": "2020-08-06T06:35:00.000Z",
+      "broadcast": "R/2020-08-06T06:35:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0014487",
+      "begin": "2018-06-04T03:00:00.000Z",
+      "broadcast": "R/2018-06-04T03:00:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,23 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "362335"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ssss-movie",
+      "begin": "2023-11-07T15:00:00.000Z",
+      "broadcast": "R/2023-11-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0094644",
+      "begin": "2023-11-07T15:00:00.000Z",
+      "broadcast": "R/2023-11-07T15:00:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,43 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "277518"
+    },
+    {
+      "site": "bilibili_tw",
+      "id": "28221405",
+      "begin": "2019-07-11T19:25:00.000Z",
+      "broadcast": "R/2019-07-11T19:25:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "19-145",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "nicovideo",
+      "id": "given-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0043654",
+      "begin": "2022-10-03T15:00:00.000Z",
+      "broadcast": "R/2022-10-03T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5d1b838be0dc4c3cbb5c92e6"
+    },
+    {
+      "site": "mikan",
+      "id": "1999"
+    }
+  ]
 }

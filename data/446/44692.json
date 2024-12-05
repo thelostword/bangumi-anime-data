@@ -149,5 +149,29 @@
       "count": 11
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "44692"
+    },
+    {
+      "site": "nicovideo",
+      "id": "madoka-magica-movie2",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "28220104",
+      "begin": "2012-10-12T16:00:00.000Z",
+      "broadcast": "R/2019-08-30T10:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0012328",
+      "begin": "2018-11-01T03:00:00.000Z",
+      "broadcast": "R/2018-11-01T03:00:00.000Z/P7D"
+    }
+  ]
 }

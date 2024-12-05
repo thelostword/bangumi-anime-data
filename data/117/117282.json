@@ -149,5 +149,61 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5038",
+      "begin": "2016-07-06T14:30:00.000Z",
+      "broadcast": "R/2016-07-06T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "qq",
+      "id": "f/fh9qxmu1x4631aj",
+      "begin": "2016-07-06T14:30:00.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "9c2736e63d9f11e69e2a",
+      "begin": "2016-07-06T14:30:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "117282"
+    },
+    {
+      "site": "nicovideo",
+      "id": "tsukiani",
+      "begin": "2016-07-20T14:00:00.000Z",
+      "broadcast": "R/2016-07-20T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "mgtv",
+      "id": "294605",
+      "begin": ""
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhf5m79",
+      "begin": "2018-04-30T16:00:43.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0025726",
+      "begin": "2016-07-22T03:00:00.000Z",
+      "broadcast": "R/2016-07-22T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "月歌"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "57765dbbca607f850f3f9324"
+    },
+    {
+      "site": "mikan",
+      "id": "777"
+    }
+  ]
 }

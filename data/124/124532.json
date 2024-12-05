@@ -149,5 +149,29 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "124532"
+    },
+    {
+      "site": "nicovideo",
+      "id": "garakowa",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "3589",
+      "begin": "2016-01-08T16:00:01.000Z",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0022037",
+      "begin": "2021-01-07T03:00:00.000Z",
+      "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,25 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh91o7h",
+      "begin": "2017-01-05T07:00:13.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "184884"
+    },
+    {
+      "site": "youku",
+      "id": "5f0ab5a878c311e69e06",
+      "begin": "2017-01-07T22:28:01.000Z"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "57efc4e9ac5b9d0762d17502"
+    }
+  ]
 }

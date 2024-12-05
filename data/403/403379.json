@@ -149,5 +149,35 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "403379"
+    },
+    {
+      "site": "nicovideo",
+      "id": "revenger",
+      "begin": "2023-01-09T03:00:00.000Z",
+      "broadcast": "R/2023-01-09T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0077291",
+      "begin": "2023-01-09T03:00:00.000Z",
+      "broadcast": "R/2023-01-09T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "REVENGER"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "63b58c49441dff2ff8927e83"
+    },
+    {
+      "site": "mikan",
+      "id": "2894"
+    }
+  ]
 }

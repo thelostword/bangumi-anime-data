@@ -149,5 +149,38 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "s/s04twr7jsk59twc",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "51943"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kami-nai",
+      "begin": "2013-07-26T03:00:00.000Z",
+      "broadcast": "R/2013-07-26T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "3145",
+      "begin": "2013-07-05T16:00:00.000Z",
+      "broadcast": "R/2015-12-10T07:52:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0014374",
+      "begin": "2023-09-15T03:00:00.000Z",
+      "broadcast": "R/2023-09-15T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "期天"
+    }
+  ]
 }

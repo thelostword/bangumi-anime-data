@@ -149,5 +149,33 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "67753"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ashitano-joe",
+      "begin": "2012-02-15T06:00:00.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "0/0r3wk97yhzn2bpe",
+      "begin": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "28234062",
+      "begin": "2021-03-24T06:43:04.000Z",
+      "broadcast": "R/2021-03-24T06:43:04.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0013722",
+      "begin": "2018-02-08T03:00:00.000Z",
+      "broadcast": "R/2018-02-08T03:00:00.000Z/P7D"
+    }
+  ]
 }

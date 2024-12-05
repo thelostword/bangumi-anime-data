@@ -149,5 +149,40 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "209412"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh83c1p",
+      "begin": "2017-07-03T16:00:00.000Z"
+    },
+    {
+      "site": "nicovideo",
+      "id": "koiuso-anime",
+      "begin": "2017-07-04T15:30:00.000Z",
+      "broadcast": "R/2017-07-04T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0029953",
+      "begin": "2017-07-05T03:00:00.000Z",
+      "broadcast": "R/2017-07-05T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "戀愛禁|戀愛與謊言"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "59568154cc40e0d626c234c4"
+    },
+    {
+      "site": "mikan",
+      "id": "1357"
+    }
+  ]
 }

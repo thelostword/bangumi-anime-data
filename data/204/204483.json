@@ -149,5 +149,35 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "204483"
+    },
+    {
+      "site": "nicovideo",
+      "id": "cfru",
+      "begin": "2017-07-06T22:00:00.000Z",
+      "broadcast": "R/2017-07-06T22:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0030145",
+      "begin": "2019-11-29T03:00:00.000Z",
+      "broadcast": "R/2019-11-29T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "動作女"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "59568207cc40e0d626c234ee"
+    },
+    {
+      "site": "mikan",
+      "id": "1369"
+    }
+  ]
 }

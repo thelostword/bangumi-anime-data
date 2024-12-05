@@ -53,5 +53,27 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "285517"
+    },
+    {
+      "site": "unext",
+      "id": "SID0042300",
+      "begin": "2019-07-15T03:00:00.000Z",
+      "broadcast": "R/2019-07-15T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5d1b8399e0dc4c3cbb5c9310"
+    },
+    {
+      "site": "nicovideo",
+      "id": "businessfish",
+      "begin": "2019-08-18T16:00:00.000Z",
+      "broadcast": "R/2019-08-18T16:00:00.000Z/P7D"
+    }
+  ]
 }

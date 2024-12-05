@@ -149,5 +149,59 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "265391"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66fb601e89c3a6ce864cbce9"
+    },
+    {
+      "site": "nicovideo",
+      "id": "mahonare",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0157089",
+      "begin": "2024-10-07T17:30:00.000Z",
+      "broadcast": "R/2024-10-07T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "102169",
+      "begin": "2024-10-04T17:53:00.000Z",
+      "broadcast": "R/2024-10-04T17:53:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3453"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtTubpTVY42MFaLH1wiFAcHO",
+      "begin": "2024-10-11T18:00:06.000Z",
+      "broadcast": "R/2024-10-11T18:00:06.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "102169",
+      "begin": "2024-10-04T17:53:00.000Z",
+      "broadcast": "R/2024-10-04T17:53:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "198-12",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "魔法師 女孩"
+    }
+  ]
 }

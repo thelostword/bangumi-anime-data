@@ -65,5 +65,23 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "334494"
+    },
+    {
+      "site": "nicovideo",
+      "id": "pretty10th",
+      "begin": "2021-06-07T08:00:00.000Z",
+      "broadcast": "R/2021-06-07T08:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0058494",
+      "begin": "2021-06-14T08:00:00.000Z",
+      "broadcast": "R/2021-06-14T08:00:00.000Z/P7D"
+    }
+  ]
 }

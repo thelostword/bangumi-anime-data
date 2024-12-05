@@ -117,5 +117,17 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "271073"
+    },
+    {
+      "site": "nicovideo",
+      "id": "horamimi2",
+      "begin": "2019-04-12T13:30:00.000Z",
+      "broadcast": "R/2019-04-12T13:30:00.000Z/P7D"
+    }
+  ]
 }

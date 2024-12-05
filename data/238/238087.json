@@ -149,5 +149,32 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "238087"
+    },
+    {
+      "site": "bilibili",
+      "id": "103012",
+      "begin": "2018-07-03T14:00:00.000Z",
+      "broadcast": "",
+      "comment": "WEB版: 113212"
+    },
+    {
+      "site": "unext",
+      "id": "SID0035372",
+      "begin": "2021-06-03T03:00:00.000Z",
+      "broadcast": "R/2021-06-03T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5b38c4abb3d4e8ef387d7ecb"
+    },
+    {
+      "site": "mikan",
+      "id": "1674"
+    }
+  ]
 }

@@ -149,5 +149,49 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "335579"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28237201",
+      "begin": "2022-04-02T13:30:00.000Z",
+      "broadcast": "R/2022-04-02T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "117465",
+      "begin": "2022-04-02T13:30:00.000Z",
+      "broadcast": "R/2022-04-02T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UcjAzn_9BRC43kjg-lxJYjM8",
+      "begin": "2022-04-02T13:30:00.000Z",
+      "broadcast": "R/2022-04-02T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0066884",
+      "begin": "2022-04-05T03:00:00.000Z",
+      "broadcast": "R/2022-04-05T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "624774aa70e8f89b23a1857c"
+    },
+    {
+      "site": "dmhy",
+      "id": "虹咲 2季|二季|2期|二期|S02|S2|2nd"
+    },
+    {
+      "site": "nicovideo",
+      "id": "nijigasaki2",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

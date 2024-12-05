@@ -37,5 +37,27 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "258326"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh71jc5",
+      "begin": "2018-07-04T00:00:11.000Z"
+    },
+    {
+      "site": "nicovideo",
+      "id": "inazma-delivery2",
+      "begin": "2018-06-15T06:00:00.000Z",
+      "broadcast": "R/2018-06-15T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "712415662cab4b149550",
+      "begin": ""
+    }
+  ]
 }

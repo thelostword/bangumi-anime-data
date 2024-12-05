@@ -149,5 +149,47 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "415166"
+    },
+    {
+      "site": "unext",
+      "id": "SID0100042",
+      "begin": "2024-04-13T17:00:00.000Z",
+      "broadcast": "R/2024-04-13T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "11-59",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "129623",
+      "begin": "2024-04-13T17:30:00.000Z",
+      "broadcast": "R/2024-04-13T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "129623",
+      "begin": "2024-04-13T17:30:00.000Z",
+      "broadcast": "R/2024-04-13T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "恰如細語|戀語輕唱"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66097bcb16e6bbcc806d3462"
+    },
+    {
+      "site": "mikan",
+      "id": "3317"
+    }
+  ]
 }

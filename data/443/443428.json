@@ -149,5 +149,65 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "443428"
+    },
+    {
+      "site": "unext",
+      "id": "SID0104149",
+      "begin": "2024-07-04T14:00:00.000Z",
+      "broadcast": "R/2024-07-04T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-240",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6681471d57ba1568dc1b07e4"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtSbhgEIZUVRyNXF8TIsj0oh",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JjnfDK89UJui3A9wj9Ib6yF",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "viu",
+      "id": "2381421",
+      "begin": "2024-07-03T15:00:45.000Z",
+      "broadcast": "R/2024-07-03T15:00:45.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81684733",
+      "begin": "2023-04-11T16:00:00.000Z",
+      "broadcast": "R/2023-04-11T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "4xE7VXJDjfbd",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3407"
+    },
+    {
+      "site": "dmhy",
+      "id": "我推"
+    }
+  ]
 }

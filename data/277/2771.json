@@ -149,5 +149,23 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "2771"
+    },
+    {
+      "site": "nicovideo",
+      "id": "blasmi",
+      "begin": "2013-03-17T07:00:00.000Z",
+      "broadcast": "R/2013-03-17T07:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0011318",
+      "begin": "2019-09-26T03:00:00.000Z",
+      "broadcast": "R/2019-09-26T03:00:00.000Z/P7D"
+    }
+  ]
 }

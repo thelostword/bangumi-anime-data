@@ -149,5 +149,27 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "29060"
+    },
+    {
+      "site": "nicovideo",
+      "id": "amnesia-tv",
+      "begin": "2012-04-26T15:00:00.000Z",
+      "broadcast": "R/2012-04-26T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0017752",
+      "begin": "2021-01-07T03:00:00.000Z",
+      "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "黄昏+失忆"
+    }
+  ]
 }

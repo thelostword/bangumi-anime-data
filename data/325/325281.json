@@ -149,5 +149,65 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "325281"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UchI8eLvRPMGGFHxVD7ynzRI",
+      "begin": "2021-07-08T16:30:00.000Z",
+      "broadcast": "R/2021-07-08T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28234647",
+      "begin": "2021-07-08T16:30:01.000Z",
+      "broadcast": "R/2021-07-08T16:30:01.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28234706",
+      "begin": "2021-07-08T16:30:00.000Z",
+      "broadcast": "R/2021-07-08T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "aquatope-anime",
+      "begin": "2021-07-13T15:30:00.000Z",
+      "broadcast": "R/2021-07-13T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "115393",
+      "begin": "2021-07-08T16:30:00.000Z",
+      "broadcast": "R/2021-07-08T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0058462",
+      "begin": "2021-07-13T15:30:00.000Z",
+      "broadcast": "R/2021-07-13T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "白沙|白砂上"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "60de5da906c78696e4d1161a"
+    },
+    {
+      "site": "mikan",
+      "id": "2508"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "115393",
+      "begin": "2021-07-08T16:30:00.000Z",
+      "broadcast": "R/2021-07-08T16:30:00.000Z/P7D"
+    }
+  ]
 }

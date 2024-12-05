@@ -149,5 +149,59 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "337430"
+    },
+    {
+      "site": "nicovideo",
+      "id": "lupin-pt6",
+      "begin": "2021-10-16T15:00:00.000Z",
+      "broadcast": "R/2021-10-16T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JjINA8RUCtiuDnEPsZMduGh",
+      "begin": "2021-10-11T16:00:00.000Z",
+      "broadcast": "R/2021-10-11T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28235160",
+      "begin": "2021-10-16T18:55:01.000Z",
+      "broadcast": "R/2021-10-16T18:55:01.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "117715",
+      "begin": "2021-10-16T18:55:00.000Z",
+      "broadcast": "R/2021-10-16T18:55:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0061675",
+      "begin": "2021-10-09T16:30:00.000Z",
+      "broadcast": "R/2021-10-09T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "117715",
+      "begin": "2021-10-16T18:55:00.000Z",
+      "broadcast": "R/2021-10-16T18:55:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "鲁邦三世 Part 6"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "615bb92cd7f73dd4ed5c444e"
+    },
+    {
+      "site": "mikan",
+      "id": "2601"
+    }
+  ]
 }

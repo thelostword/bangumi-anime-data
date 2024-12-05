@@ -149,5 +149,71 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "407332"
+    },
+    {
+      "site": "gamer",
+      "id": "124277",
+      "begin": "2023-10-04T15:30:00.000Z",
+      "broadcast": "R/2023-10-04T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JhASExBFWxdzJs4ZEruLKun",
+      "begin": "2023-10-04T15:30:00.000Z",
+      "broadcast": "R/2023-10-04T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtQQP6q5h7iVtIKKlk4CWwLk",
+      "begin": "2023-10-04T15:30:00.000Z",
+      "broadcast": "R/2023-10-04T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "19-71",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "21086401",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0093788",
+      "begin": "2023-10-04T15:30:00.000Z",
+      "broadcast": "R/2023-10-04T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "124277",
+      "begin": "2023-10-04T15:30:00.000Z",
+      "broadcast": "R/2023-10-04T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "賽馬 Pretty 第三|Season 第三|3"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "65186f7e4c90aa63daeaa209"
+    },
+    {
+      "site": "mikan",
+      "id": "3195"
+    },
+    {
+      "site": "nicovideo",
+      "id": "anime-umamusume3",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

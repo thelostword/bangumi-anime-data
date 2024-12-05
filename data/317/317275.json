@@ -149,5 +149,71 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "317275"
+    },
+    {
+      "site": "bilibili",
+      "id": "28234623",
+      "begin": "2021-07-07T16:00:01.000Z",
+      "broadcast": "R/2021-07-07T16:00:01.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "tsukimichi",
+      "begin": "2021-07-11T15:00:00.000Z",
+      "broadcast": "R/2021-07-11T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jjz3JEX5tSOiRFK59VGimN5",
+      "begin": "2021-07-06T16:00:01.000Z",
+      "broadcast": "R/2021-07-06T16:00:01.000Z/P7D"
+    },
+    {
+      "site": "mytv",
+      "id": "tsukimichimoonlitfantasy_132541",
+      "begin": "2022-02-28T16:00:00.000Z",
+      "broadcast": "R/2022-02-28T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "117246",
+      "begin": "2021-07-07T15:00:00.000Z",
+      "broadcast": "R/2021-07-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81474718",
+      "begin": "2023-07-30T16:00:00.000Z",
+      "broadcast": "R/2023-07-30T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "54-60",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0058488",
+      "begin": "2021-07-11T15:00:00.000Z",
+      "broadcast": "R/2021-07-11T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "月光 異世界"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "60de5da006c78696e4d1160c"
+    },
+    {
+      "site": "mikan",
+      "id": "2501"
+    }
+  ]
 }

@@ -97,5 +97,27 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhbgwzl",
+      "begin": "2015-12-04T10:03:19.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "5af840e4fe6811e2a705",
+      "begin": "2013-10-05T03:39:47.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "79873"
+    },
+    {
+      "site": "unext",
+      "id": "SID0004802",
+      "begin": "2021-01-07T03:00:00.000Z",
+      "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
+    }
+  ]
 }

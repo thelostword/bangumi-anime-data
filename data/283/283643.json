@@ -149,5 +149,59 @@
       "count": 11
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "283643"
+    },
+    {
+      "site": "nicovideo",
+      "id": "anime-eupho",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "abema",
+      "id": "106-1zxpewrca-r",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0100045",
+      "begin": "2024-04-10T03:00:00.000Z",
+      "broadcast": "R/2024-04-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "21243093",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "21231728",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "disneyplus",
+      "id": "3KeTikthDRwH",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "上低音號 3季|三季|3期|三期|S03|S3|3rd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66097bb516e6bbcc806d33fa"
+    },
+    {
+      "site": "mikan",
+      "id": "3290"
+    }
+  ]
 }

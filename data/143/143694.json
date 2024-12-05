@@ -149,5 +149,64 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "143694"
+    },
+    {
+      "site": "bilibili",
+      "id": "27561630",
+      "begin": "2018-04-02T16:00:00.000Z",
+      "broadcast": "R/2019-04-11T07:39:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "gineiden-anime",
+      "begin": "2018-04-08T03:00:00.000Z",
+      "broadcast": "R/2018-04-08T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "qq",
+      "id": "m/mzc00200b21e6fj",
+      "begin": ""
+    },
+    {
+      "site": "gamer",
+      "id": "67626",
+      "begin": "2022-11-18T06:30:00.000Z",
+      "broadcast": "R/2022-11-18T06:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "78812",
+      "begin": "2018-04-03T13:00:00.000Z",
+      "broadcast": "R/2018-04-03T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0033987",
+      "begin": "2018-04-08T03:00:00.000Z",
+      "broadcast": "R/2018-04-08T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Die+Neue"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ac0aa89395e2a122f10f039"
+    },
+    {
+      "site": "mikan",
+      "id": "1619"
+    },
+    {
+      "site": "abema",
+      "id": "30-13",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

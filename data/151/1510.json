@@ -149,5 +149,27 @@
       "count": 9
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhb1359",
+      "begin": "2015-08-14T17:05:28.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "1510"
+    },
+    {
+      "site": "nicovideo",
+      "id": "sailormoon",
+      "begin": "2014-07-11T15:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002301",
+      "begin": "2019-11-07T03:00:00.000Z",
+      "broadcast": "R/2019-11-07T03:00:00.000Z/P7D"
+    }
+  ]
 }

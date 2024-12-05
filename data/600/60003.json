@@ -149,5 +149,28 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "60003"
+    },
+    {
+      "site": "nicovideo",
+      "id": "k-project-movie",
+      "begin": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "2793",
+      "begin": "2014-07-11T16:00:00.000Z",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0031229",
+      "begin": "2018-04-12T03:00:00.000Z",
+      "broadcast": "R/2018-04-12T03:00:00.000Z/P7D"
+    }
+  ]
 }

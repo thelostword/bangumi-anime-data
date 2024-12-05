@@ -93,5 +93,35 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "339062"
+    },
+    {
+      "site": "nicovideo",
+      "id": "akuyakureijou",
+      "begin": "2022-01-09T16:00:00.000Z",
+      "broadcast": "R/2022-01-09T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "王子 本命"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "61d721fe6e31a0815abf5408"
+    },
+    {
+      "site": "mikan",
+      "id": "2620"
+    },
+    {
+      "site": "unext",
+      "id": "SID0065150",
+      "begin": "2021-12-28T03:00:00.000Z",
+      "broadcast": "R/2021-12-28T03:00:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,33 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "219927"
+    },
+    {
+      "site": "nicovideo",
+      "id": "7-taizai-movie",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "netflix",
+      "id": "81006261",
+      "begin": "2018-12-30T00:00:00.000Z",
+      "broadcast": "R/2018-12-30T00:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0040012",
+      "begin": "2019-02-27T03:00:00.000Z",
+      "broadcast": "R/2019-02-27T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "1870"
+    }
+  ]
 }

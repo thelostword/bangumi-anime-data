@@ -149,5 +149,65 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "444557"
+    },
+    {
+      "site": "viu",
+      "id": "2201268",
+      "begin": "2024-04-07T15:00:00.000Z",
+      "broadcast": "R/2024-04-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "129175",
+      "begin": "2024-04-07T15:00:00.000Z",
+      "broadcast": "R/2024-04-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "80987039",
+      "begin": "2024-04-07T15:00:00.000Z",
+      "broadcast": "R/2024-04-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "149-11",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "nicovideo",
+      "id": "mushokutensei_2",
+      "begin": "2024-04-10T14:00:00.000Z",
+      "broadcast": "R/2024-04-10T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0087601",
+      "begin": "2024-04-10T14:00:00.000Z",
+      "broadcast": "R/2024-04-10T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "5Y5wbhrBl6qZ",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "無職轉生 2季|二季|2期|二期|S02|S2|2nd|II"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66097bb816e6bbcc806d340a"
+    },
+    {
+      "site": "mikan",
+      "id": "3344"
+    }
+  ]
 }

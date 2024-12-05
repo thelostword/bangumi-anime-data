@@ -149,5 +149,65 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "297254"
+    },
+    {
+      "site": "nicovideo",
+      "id": "higehiro-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "112745",
+      "begin": "2021-04-05T15:00:00.000Z",
+      "broadcast": "R/2021-04-05T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UchHiNDYxFn-UaEPsQD-cL1l",
+      "begin": "2021-04-05T15:00:00.000Z",
+      "broadcast": "R/2021-04-05T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28234077",
+      "begin": "2021-04-05T15:00:01.000Z",
+      "broadcast": "R/2021-04-05T15:00:01.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "149-13",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0056115",
+      "begin": "2021-04-10T15:00:00.000Z",
+      "broadcast": "R/2021-04-10T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "112745",
+      "begin": "2021-04-05T15:00:00.000Z",
+      "broadcast": "R/2021-04-05T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "撿 女高"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6065f091eaf504d0216b7783"
+    },
+    {
+      "site": "mikan",
+      "id": "2442"
+    }
+  ]
 }

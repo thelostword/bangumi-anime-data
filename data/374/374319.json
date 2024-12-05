@@ -149,5 +149,72 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "374319"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28480921",
+      "begin": "2023-01-04T15:30:00.000Z",
+      "broadcast": "R/2023-01-04T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JjlMMeX1l1fECfT6cPerSNN",
+      "begin": "2023-01-05T15:30:00.000Z",
+      "broadcast": "R/2023-01-05T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtRjfhGdfoMTibpBK7ib-Tae",
+      "begin": "2023-01-05T15:30:00.000Z",
+      "broadcast": "R/2023-01-05T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "123375",
+      "begin": "2023-01-05T15:30:00.000Z",
+      "broadcast": "R/2023-01-05T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "inuhiro-anime",
+      "begin": "2023-01-12T15:30:00.000Z",
+      "broadcast": "R/2023-01-12T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "115-92",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "123375",
+      "begin": "2023-01-05T15:30:00.000Z",
+      "broadcast": "R/2023-01-05T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "狗 喜歡|幸福"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "63b58c50441dff2ff8927e9b"
+    },
+    {
+      "site": "mikan",
+      "id": "2887"
+    },
+    {
+      "site": "unext",
+      "id": "SID0077102",
+      "begin": "2024-11-12T03:00:00.000Z",
+      "broadcast": "R/2024-11-12T03:00:00.000Z/P7D",
+      "comment": "ワンダフルver"
+    }
+  ]
 }

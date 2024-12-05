@@ -149,5 +149,21 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "186257"
+    },
+    {
+      "site": "bilibili",
+      "id": "28237148",
+      "begin": "2022-03-26T10:00:01.000Z",
+      "broadcast": "R/2022-03-26T10:00:01.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "2093"
+    }
+  ]
 }

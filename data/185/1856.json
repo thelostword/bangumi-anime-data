@@ -149,5 +149,58 @@
       "count": 12
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhc0299",
+      "begin": "2014-11-03T10:06:18.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "1856"
+    },
+    {
+      "site": "qq",
+      "id": "7/7phtjz7q03995kj",
+      "begin": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "2069",
+      "begin": "2002-04-08T16:00:00.000Z",
+      "broadcast": "R/2010-12-31T16:03:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "cc0016be962411de83b1",
+      "begin": "2020-02-11T06:38:57.000Z"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UciotMkNyzHcSp1EJtPF1dY1",
+      "begin": "2022-01-27T16:00:00.000Z",
+      "broadcast": "R/2022-01-27T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "226",
+      "begin": "2021-05-01T00:00:00.000Z",
+      "broadcast": "R/2021-05-01T00:00:00.000Z/P7D",
+      "comment": "40-45: 117488"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002220",
+      "begin": "2023-04-17T03:00:00.000Z",
+      "broadcast": "R/2023-04-17T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "226",
+      "begin": "2021-05-01T00:00:00.000Z",
+      "broadcast": "R/2021-05-01T00:00:00.000Z/P7D",
+      "comment": "40-45: 117488"
+    }
+  ]
 }

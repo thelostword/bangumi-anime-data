@@ -93,5 +93,17 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "135992"
+    },
+    {
+      "site": "nicovideo",
+      "id": "qtransformers",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

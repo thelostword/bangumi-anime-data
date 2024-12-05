@@ -149,5 +149,25 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "296079"
+    },
+    {
+      "site": "nicovideo",
+      "id": "hakumei_no_tsubasa",
+      "begin": "2020-05-27T03:00:00.000Z",
+      "broadcast": "R/2020-05-27T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5e1ffebd306f1a0007c9e87e"
+    },
+    {
+      "site": "mikan",
+      "id": "2163"
+    }
+  ]
 }

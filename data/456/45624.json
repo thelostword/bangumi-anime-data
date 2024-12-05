@@ -149,5 +149,18 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "45624"
+    },
+    {
+      "site": "disneyplus",
+      "id": "1RIumw1eY83Y",
+      "url": "https://www.disneyplus.com/movies/macross-fb7-listen-to-my-song/1RIumw1eY83Y",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

@@ -149,5 +149,45 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhc0add",
+      "begin": "2014-10-27T09:38:08.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "4330"
+    },
+    {
+      "site": "qq",
+      "id": "x/xk9j6a00x1qh2tu",
+      "begin": ""
+    },
+    {
+      "site": "youku",
+      "id": "f975ad2e61ad11e0bea1",
+      "begin": "2012-11-13T03:23:58.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "28228780",
+      "begin": "2020-04-29T16:00:00.000Z",
+      "broadcast": "R/2020-04-30T11:01:00.000Z/P7D",
+      "comment": "中配: 28228792"
+    },
+    {
+      "site": "unext",
+      "id": "SID0100489",
+      "begin": "2024-03-21T15:00:00.000Z",
+      "broadcast": "R/2024-03-21T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "415-7",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

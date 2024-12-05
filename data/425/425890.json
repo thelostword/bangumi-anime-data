@@ -149,5 +149,59 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "425890"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6681472557ba1568dc1b080a"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtRy1tvC-DZVJN3_hnbS6F2w",
+      "begin": "2024-07-05T18:00:07.000Z",
+      "broadcast": "R/2024-07-05T18:00:07.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JiUn54Tck1P3jmylN7bQmSL",
+      "begin": "2024-07-05T18:00:06.000Z",
+      "broadcast": "R/2024-07-05T18:00:06.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "420-67",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "131185",
+      "begin": "2024-07-05T17:53:00.000Z",
+      "broadcast": "R/2024-07-05T17:53:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3374"
+    },
+    {
+      "site": "gamer",
+      "id": "131185",
+      "begin": "2024-07-05T17:53:00.000Z",
+      "broadcast": "R/2024-07-05T17:53:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "世界 漏洞"
+    },
+    {
+      "site": "unext",
+      "id": "SID0157563",
+      "begin": "2024-10-05T03:00:00.000Z",
+      "broadcast": "R/2024-10-05T03:00:00.000Z/P7D"
+    }
+  ]
 }

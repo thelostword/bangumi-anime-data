@@ -149,5 +149,28 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "12071"
+    },
+    {
+      "site": "nicovideo",
+      "id": "uchushow",
+      "begin": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "21952759",
+      "begin": "2019-03-15T05:59:00.000Z",
+      "broadcast": "R/2019-03-15T05:59:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0044766",
+      "begin": "2019-11-29T03:00:00.000Z",
+      "broadcast": "R/2019-11-29T03:00:00.000Z/P7D"
+    }
+  ]
 }

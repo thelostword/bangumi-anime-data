@@ -149,5 +149,23 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "14646"
+    },
+    {
+      "site": "bilibili",
+      "id": "2821",
+      "begin": "2001-03-31T16:00:00.000Z",
+      "broadcast": "R/2015-10-11T10:48:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0055982",
+      "begin": "2021-03-31T03:00:00.000Z",
+      "broadcast": "R/2021-03-31T03:00:00.000Z/P7D"
+    }
+  ]
 }

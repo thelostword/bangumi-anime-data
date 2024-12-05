@@ -149,5 +149,22 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "116370"
+    },
+    {
+      "site": "nicovideo",
+      "id": "animatorexpo",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "youku",
+      "id": "5960a6026e0811e4a080",
+      "begin": "2015-09-11T07:34:26.000Z"
+    }
+  ]
 }

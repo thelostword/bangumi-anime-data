@@ -149,5 +149,26 @@
       "count": 15
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "20851"
+    },
+    {
+      "site": "nicovideo",
+      "id": "Another_anime",
+      "begin": "2016-09-02T06:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0035433",
+      "begin": "2018-07-01T03:00:00.000Z",
+      "broadcast": "R/2018-07-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "【|[+Another"
+    }
+  ]
 }

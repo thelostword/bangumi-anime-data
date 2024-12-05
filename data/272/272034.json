@@ -149,5 +149,40 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "272034"
+    },
+    {
+      "site": "acfun",
+      "id": "6000218",
+      "begin": "2019-10-02T14:00:00.000Z"
+    },
+    {
+      "site": "nicovideo",
+      "id": "hataage-kemonomichi",
+      "begin": "2019-10-09T15:00:00.000Z",
+      "broadcast": "R/2019-10-09T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0043528",
+      "begin": "2019-10-10T03:00:00.000Z",
+      "broadcast": "R/2019-10-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "萌獸"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5d9392bc4e9c003faceb5c76"
+    },
+    {
+      "site": "mikan",
+      "id": "2030"
+    }
+  ]
 }

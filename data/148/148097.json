@@ -149,5 +149,74 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5047",
+      "begin": "2016-07-08T17:35:00.000Z",
+      "broadcast": "R/2016-07-08T17:35:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "8c2ed5803dbe11e69c81",
+      "begin": "2016-07-08T17:35:00.000Z"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhanrc1",
+      "begin": "2016-07-08T17:35:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "148097"
+    },
+    {
+      "site": "nicovideo",
+      "id": "alderamin",
+      "begin": "2016-07-18T15:30:00.000Z",
+      "broadcast": "R/2016-07-18T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "qq",
+      "id": "q/qt5ycz4p8r1umug",
+      "begin": ""
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Uci_hr1cCcnsTuZNiGO2Ytkz",
+      "begin": "2022-09-13T16:00:00.000Z",
+      "broadcast": "R/2022-09-13T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "79938",
+      "begin": "2016-07-08T17:40:00.000Z",
+      "broadcast": "R/2016-07-08T17:40:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0025876",
+      "begin": "2019-11-29T03:00:00.000Z",
+      "broadcast": "R/2019-11-29T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "發條精靈"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "57765e0cca607f850f3f9332"
+    },
+    {
+      "site": "mikan",
+      "id": "788"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "79938",
+      "begin": "2016-07-08T17:40:00.000Z",
+      "broadcast": "R/2016-07-08T17:40:00.000Z/P7D"
+    }
+  ]
 }

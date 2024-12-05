@@ -149,5 +149,20 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "23537"
+    },
+    {
+      "site": "nicovideo",
+      "id": "poyo",
+      "begin": "2012-01-08T04:00:00.000Z"
+    },
+    {
+      "site": "dmhy",
+      "id": "貓+觀"
+    }
+  ]
 }

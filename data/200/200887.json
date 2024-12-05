@@ -149,5 +149,27 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "200887"
+    },
+    {
+      "site": "nicovideo",
+      "id": "seitokai_G",
+      "begin": "2020-03-28T03:00:00.000Z",
+      "broadcast": "R/2020-03-28T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0031377",
+      "begin": "2021-01-12T03:00:00.000Z",
+      "broadcast": "R/2021-01-12T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "1472"
+    }
+  ]
 }

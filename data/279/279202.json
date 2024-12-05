@@ -149,5 +149,66 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "279202"
+    },
+    {
+      "site": "bilibili",
+      "id": "28231852",
+      "begin": "2021-01-06T15:00:00.000Z",
+      "broadcast": "R/2021-01-06T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "neverland-anime2",
+      "begin": "2020-12-28T14:00:00.000Z",
+      "broadcast": "R/2020-12-28T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "viu",
+      "id": "447192",
+      "begin": "2022-05-26T16:00:00.000Z",
+      "broadcast": "R/2022-05-26T16:00:00.000Z/P7D",
+      "comment": "粵語版: 447202"
+    },
+    {
+      "site": "gamer",
+      "id": "104797",
+      "begin": "2021-01-06T15:00:00.000Z",
+      "broadcast": "R/2021-01-06T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28233486",
+      "begin": "2021-01-06T15:00:00.000Z",
+      "broadcast": "R/2021-01-06T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0052902",
+      "begin": "2021-01-08T03:00:00.000Z",
+      "broadcast": "R/2021-01-08T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "104797",
+      "begin": "2021-01-06T15:00:00.000Z",
+      "broadcast": "R/2021-01-06T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "夢幻島 2季|二季|2期|二期|S02|S2|2nd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ff046db5ff4024d23db2bda"
+    },
+    {
+      "site": "mikan",
+      "id": "2383"
+    }
+  ]
 }

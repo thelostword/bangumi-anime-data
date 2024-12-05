@@ -149,5 +149,22 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "67756"
+    },
+    {
+      "site": "nicovideo",
+      "id": "cobra",
+      "begin": "2011-09-20T06:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0011312",
+      "begin": "2016-04-14T03:00:00.000Z",
+      "broadcast": "R/2016-04-14T03:00:00.000Z/P7D"
+    }
+  ]
 }

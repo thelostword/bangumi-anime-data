@@ -149,5 +149,35 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "2720",
+      "begin": "2015-10-02T07:24:00.000Z",
+      "broadcast": "R/2015-10-02T07:24:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "133192"
+    },
+    {
+      "site": "unext",
+      "id": "SID0019858",
+      "begin": "2015-10-02T06:00:00.000Z",
+      "broadcast": "R/2015-10-02T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "青年+黑"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "560d0da59286e15329cf94e2"
+    },
+    {
+      "site": "mikan",
+      "id": "578"
+    }
+  ]
 }

@@ -179,5 +179,37 @@
       "total_cont": 0
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "483362"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "138156",
+      "begin": "2024-10-04T17:00:00.000Z",
+      "broadcast": "R/2024-10-04T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "138156",
+      "begin": "2024-10-04T17:00:00.000Z",
+      "broadcast": "R/2024-10-04T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3476"
+    },
+    {
+      "site": "abema",
+      "id": "13-189",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "SHINY COLORS 2季|二季|2期|二期|S02|S2|2nd"
+    }
+  ]
 }

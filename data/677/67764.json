@@ -149,5 +149,28 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "67764"
+    },
+    {
+      "site": "nicovideo",
+      "id": "lupin-3rd-SP",
+      "begin": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "28234179",
+      "begin": "2021-03-31T15:31:00.000Z",
+      "broadcast": "R/2021-03-31T15:31:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0016224",
+      "begin": "2019-01-03T03:00:00.000Z",
+      "broadcast": "R/2019-01-03T03:00:00.000Z/P7D"
+    }
+  ]
 }

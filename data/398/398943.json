@@ -149,5 +149,37 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "398943"
+    },
+    {
+      "site": "nicovideo",
+      "id": "goddess-cafe",
+      "begin": "2023-04-12T17:55:00.000Z",
+      "broadcast": "R/2023-04-12T17:55:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "632-1",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0079589",
+      "begin": "2023-04-12T17:55:00.000Z",
+      "broadcast": "R/2023-04-12T17:55:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6425d64855eb4cdc768e39a0"
+    },
+    {
+      "site": "mikan",
+      "id": "2967"
+    }
+  ]
 }

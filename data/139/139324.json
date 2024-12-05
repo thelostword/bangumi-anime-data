@@ -149,5 +149,41 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "2c1e303055f011e5a080",
+      "begin": "2015-10-04T10:30:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "4310042",
+      "begin": "2015-10-04T10:30:00.000Z",
+      "broadcast": "R/2018-11-16T10:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "139324"
+    },
+    {
+      "site": "unext",
+      "id": "SID0027096",
+      "begin": "2016-10-23T03:00:00.000Z",
+      "broadcast": "R/2016-10-23T03:00:00.000Z/P7D",
+      "comment": "第26話～: SID0027097"
+    },
+    {
+      "site": "dmhy",
+      "id": "機動+鐵血"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "560d12549286e15329cf9516"
+    },
+    {
+      "site": "mikan",
+      "id": "597"
+    }
+  ]
 }

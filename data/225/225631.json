@@ -149,5 +149,47 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "225631"
+    },
+    {
+      "site": "bilibili",
+      "id": "78352",
+      "begin": "2018-04-06T12:00:00.000Z",
+      "broadcast": "R/2018-04-06T12:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "hina-matsuri",
+      "begin": "2018-04-13T15:30:00.000Z",
+      "broadcast": "R/2018-04-13T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0034240",
+      "begin": "2019-09-14T03:00:00.000Z",
+      "broadcast": "R/2019-09-14T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-94",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "極道超女|超能力女"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ac0aaa1395e2a122f10f065"
+    },
+    {
+      "site": "mikan",
+      "id": "1597"
+    }
+  ]
 }

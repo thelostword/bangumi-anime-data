@@ -149,5 +149,39 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "295778"
+    },
+    {
+      "site": "nicovideo",
+      "id": "joseetora",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "108993",
+      "begin": "2023-10-20T04:00:00.000Z",
+      "broadcast": "R/2023-10-20T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0052703",
+      "begin": "2021-08-25T03:00:00.000Z",
+      "broadcast": "R/2021-08-25T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81508630",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "2517"
+    }
+  ]
 }

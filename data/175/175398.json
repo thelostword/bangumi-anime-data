@@ -149,5 +149,26 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "175398"
+    },
+    {
+      "site": "nicovideo",
+      "id": "flcl_alterna_progre",
+      "begin": "2019-02-01T03:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0038185",
+      "begin": "2019-02-01T03:00:00.000Z",
+      "broadcast": "R/2019-02-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "1738"
+    }
+  ]
 }

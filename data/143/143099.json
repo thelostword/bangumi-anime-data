@@ -149,5 +149,51 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5044",
+      "begin": "2016-07-07T18:35:00.000Z",
+      "broadcast": "R/2016-07-07T19:05:02.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhanrkd",
+      "begin": "2016-07-07T18:35:00.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "8fc3b3903dc011e69c81",
+      "begin": "2016-07-07T18:35:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "143099"
+    },
+    {
+      "site": "nicovideo",
+      "id": "boueibu02",
+      "begin": "2016-07-14T03:00:00.000Z",
+      "broadcast": "R/2016-07-14T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0025893",
+      "begin": "2016-07-14T03:00:00.000Z",
+      "broadcast": "R/2016-07-14T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "男高"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "57765dd1ca607f850f3f932a"
+    },
+    {
+      "site": "mikan",
+      "id": "784"
+    }
+  ]
 }

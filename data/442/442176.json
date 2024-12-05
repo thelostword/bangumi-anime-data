@@ -149,5 +149,37 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "442176"
+    },
+    {
+      "site": "nicovideo",
+      "id": "dekisoko-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0100040",
+      "begin": "2024-04-01T17:00:00.000Z",
+      "broadcast": "R/2024-04-01T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "506-4",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66097bbd16e6bbcc806d341a"
+    },
+    {
+      "site": "mikan",
+      "id": "3308"
+    }
+  ]
 }

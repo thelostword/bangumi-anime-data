@@ -73,5 +73,28 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "120240"
+    },
+    {
+      "site": "nicovideo",
+      "id": "bakavon",
+      "begin": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "5866",
+      "begin": "2015-05-22T16:00:01.000Z",
+      "broadcast": "R/2017-01-08T05:34:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0020403",
+      "begin": "2019-11-30T03:00:00.000Z",
+      "broadcast": "R/2019-11-30T03:00:00.000Z/P7D"
+    }
+  ]
 }

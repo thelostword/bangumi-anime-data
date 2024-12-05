@@ -137,5 +137,22 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "115204"
+    },
+    {
+      "site": "nicovideo",
+      "id": "cf-vanguard-g",
+      "begin": "2014-10-28T10:30:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0058896",
+      "begin": "2021-06-22T03:00:00.000Z",
+      "broadcast": "R/2021-06-22T03:00:00.000Z/P7D"
+    }
+  ]
 }

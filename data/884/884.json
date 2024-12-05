@@ -149,5 +149,34 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "u/unct2s8n0sosuof",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "884"
+    },
+    {
+      "site": "nicovideo",
+      "id": "anime-chaoshead",
+      "begin": "2012-11-03T15:00:00.000Z",
+      "broadcast": "R/2012-11-03T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "1213",
+      "begin": "2010-08-04T09:20:00.000Z",
+      "broadcast": "R/2010-08-04T09:20:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0027849",
+      "begin": "2019-09-05T03:00:00.000Z",
+      "broadcast": "R/2019-09-05T03:00:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,33 @@
       "count": 13
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "263750"
+    },
+    {
+      "site": "bilibili_tw",
+      "id": "26360655",
+      "begin": "2019-04-28T17:40:00.000Z",
+      "broadcast": "R/2019-04-28T17:40:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UchkFx6Rl70VbQeT10lIKoL7",
+      "begin": "2023-06-11T13:55:55.059Z",
+      "broadcast": "R/2023-06-11T13:55:55.059Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "5D0Qx5ecSvHm",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "1948"
+    }
+  ]
 }

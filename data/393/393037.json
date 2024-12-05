@@ -149,5 +149,35 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "393037"
+    },
+    {
+      "site": "unext",
+      "id": "SID0104145",
+      "begin": "2024-07-04T13:00:00.000Z",
+      "broadcast": "R/2024-07-04T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6681471f57ba1568dc1b07ee"
+    },
+    {
+      "site": "mikan",
+      "id": "3387"
+    },
+    {
+      "site": "abema",
+      "id": "25-268",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "義妹生活"
+    }
+  ]
 }

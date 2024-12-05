@@ -149,5 +149,61 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "407697"
+    },
+    {
+      "site": "nicovideo",
+      "id": "saijakutamer-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0096415",
+      "begin": "2023-12-11T03:00:00.000Z",
+      "broadcast": "R/2023-12-11T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtQeRI-LxvIXSW04gJzxMyOs",
+      "begin": "2024-01-12T14:30:07.000Z",
+      "broadcast": "R/2024-01-12T14:30:07.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JgnIq99q08nr7z2jtgY73Y5",
+      "begin": "2024-01-12T14:30:09.000Z",
+      "broadcast": "R/2024-01-12T14:30:09.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "128539",
+      "begin": "2024-01-12T14:30:00.000Z",
+      "broadcast": "R/2024-01-12T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "248-17",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "128539",
+      "begin": "2024-01-12T14:30:00.000Z",
+      "broadcast": "R/2024-01-12T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "659142adb885a81efda115f4"
+    },
+    {
+      "site": "mikan",
+      "id": "3251"
+    }
+  ]
 }

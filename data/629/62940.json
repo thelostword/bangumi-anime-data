@@ -149,5 +149,26 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "62940"
+    },
+    {
+      "site": "youku",
+      "id": "4e8d0932857a11e29498",
+      "begin": "2013-04-07T11:17:41.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0012362",
+      "begin": "2018-05-24T03:00:00.000Z",
+      "broadcast": "R/2018-05-24T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "蟲奉行"
+    }
+  ]
 }

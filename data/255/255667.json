@@ -149,5 +149,53 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "255667"
+    },
+    {
+      "site": "bilibili",
+      "id": "21993464",
+      "begin": "2019-04-07T17:35:00.000Z",
+      "broadcast": "R/2019-04-07T17:35:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "anime-hachinai",
+      "begin": "2019-04-16T03:00:00.000Z",
+      "broadcast": "R/2019-04-16T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhtelyx",
+      "begin": "2019-04-07T17:30:05.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "ffea8e86e41d49448e39",
+      "begin": "2019-04-07T17:33:01.000Z"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "26357482",
+      "begin": "2019-04-07T17:35:00.000Z",
+      "broadcast": "R/2019-04-07T17:35:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0040088",
+      "begin": "2020-07-17T03:00:00.000Z",
+      "broadcast": "R/2020-07-17T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ca206b8d8405d2d2e62b96b"
+    },
+    {
+      "site": "mikan",
+      "id": "1931"
+    }
+  ]
 }

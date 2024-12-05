@@ -149,5 +149,65 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "311615"
+    },
+    {
+      "site": "nicovideo",
+      "id": "yakumo-project",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "28233925",
+      "begin": "2021-04-12T15:30:00.000Z",
+      "broadcast": "R/2021-04-12T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "112786",
+      "begin": "2021-04-05T15:30:00.000Z",
+      "broadcast": "R/2021-04-05T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JitxjngMqmgU7hFC7TOPZwa",
+      "begin": "2021-04-04T16:00:00.000Z",
+      "broadcast": "R/2021-04-04T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28234142",
+      "begin": "2021-04-05T14:30:01.000Z",
+      "broadcast": "R/2021-04-05T14:30:01.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0056122",
+      "begin": "2021-04-09T16:30:00.000Z",
+      "broadcast": "R/2021-04-09T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "112786",
+      "begin": "2021-04-05T15:30:00.000Z",
+      "broadcast": "R/2021-04-05T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "燒窯|燒陶"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6065f09ceaf504d0216b77bb"
+    },
+    {
+      "site": "mikan",
+      "id": "2462"
+    }
+  ]
 }

@@ -149,5 +149,54 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "212775"
+    },
+    {
+      "site": "bilibili",
+      "id": "6446",
+      "begin": "2017-10-08T15:30:00.000Z",
+      "broadcast": "R/2017-10-08T15:30:00.000Z/P7D",
+      "comment": "中配版: 28234585, 粤配版: 28236460"
+    },
+    {
+      "site": "gamer",
+      "id": "88396",
+      "begin": "2021-03-15T08:00:00.000Z",
+      "broadcast": "R/2021-03-15T08:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "10772",
+      "begin": "2017-10-08T16:00:00.000Z",
+      "broadcast": "R/2017-10-08T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0031395",
+      "begin": "2019-12-24T03:00:00.000Z",
+      "broadcast": "R/2019-12-24T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "88396",
+      "begin": "2024-06-03T01:40:00.000Z",
+      "broadcast": "R/2024-06-03T01:40:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "魚乾|乾物"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "59d0cb79fb34aac154710bbb"
+    },
+    {
+      "site": "mikan",
+      "id": "1426"
+    }
+  ]
 }

@@ -149,5 +149,24 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "26987"
+    },
+    {
+      "site": "nicovideo",
+      "id": "yuru",
+      "begin": "2012-04-06T16:10:00.000Z",
+      "broadcast": "R/2012-04-05T12:00:00.000Z/P7D",
+      "comment": "plus: yuruplus"
+    },
+    {
+      "site": "bilibili",
+      "id": "776",
+      "begin": "2012-07-02T16:00:00.000Z",
+      "broadcast": "R/2012-07-02T21:04:13.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,37 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "477204"
+    },
+    {
+      "site": "unext",
+      "id": "SID0124992",
+      "begin": "2024-07-07T17:30:00.000Z",
+      "broadcast": "R/2024-07-07T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81787948",
+      "begin": "2024-07-01T16:00:00.000Z",
+      "broadcast": "R/2024-07-01T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3361"
+    },
+    {
+      "site": "abema",
+      "id": "143-49",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "多數欠"
+    }
+  ]
 }

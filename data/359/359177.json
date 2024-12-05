@@ -149,5 +149,67 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "359177"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28339840",
+      "begin": "2022-10-09T14:00:00.000Z",
+      "broadcast": "R/2022-10-09T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "120724",
+      "begin": "2022-10-09T14:00:00.000Z",
+      "broadcast": "R/2022-10-09T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jjat3PagSY2J_Z2QvqQBANH",
+      "begin": "2022-10-09T14:00:00.000Z",
+      "broadcast": "R/2022-10-09T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtStjt2-GriwPCoL2b0_lQ_B",
+      "begin": "2022-10-09T14:00:00.000Z",
+      "broadcast": "R/2022-10-09T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81643020",
+      "begin": "2023-01-15T16:00:00.000Z",
+      "broadcast": "R/2023-01-15T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "fuukoi-anime",
+      "begin": "2022-10-16T14:00:00.000Z",
+      "broadcast": "R/2022-10-16T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0073145",
+      "begin": "2022-10-16T14:00:00.000Z",
+      "broadcast": "R/2022-10-16T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "120724",
+      "begin": "2022-10-09T14:00:00.000Z",
+      "broadcast": "R/2022-10-09T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "夫婦以上"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "632762c12eaf6e578875f7b6"
+    }
+  ]
 }

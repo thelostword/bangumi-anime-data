@@ -149,5 +149,41 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "221119"
+    },
+    {
+      "site": "bilibili_tw",
+      "id": "10592",
+      "begin": "2017-10-05T16:00:00.000Z",
+      "broadcast": "R/2017-10-05T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kingsgame",
+      "begin": "2017-10-10T15:00:00.000Z",
+      "broadcast": "R/2017-10-10T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0031345",
+      "begin": "2017-10-11T03:00:00.000Z",
+      "broadcast": "R/2017-10-11T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "國王遊戲"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "59d0cb58fb34aac154710b7f"
+    },
+    {
+      "site": "mikan",
+      "id": "1436"
+    }
+  ]
 }

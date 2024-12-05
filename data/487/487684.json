@@ -179,5 +179,71 @@
       "total_cont": 0
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "487684"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66fb601089c3a6ce864cbc8b"
+    },
+    {
+      "site": "nicovideo",
+      "id": "shangrilafrontier_2",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0157059",
+      "begin": "2024-10-13T08:30:00.000Z",
+      "broadcast": "R/2024-10-13T08:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "632-3",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "netflix",
+      "id": "81727242",
+      "begin": "2024-10-13T10:00:00.000Z",
+      "broadcast": "R/2024-10-13T10:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "67NJTGASIVBY",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "138612",
+      "begin": "2024-10-13T08:30:00.000Z",
+      "broadcast": "R/2024-10-13T08:30:00.000Z/P7D"
+    },
+    {
+      "site": "viu",
+      "id": "2441117",
+      "begin": "2024-10-13T08:30:04.000Z",
+      "broadcast": "R/2024-10-13T08:30:04.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "138612",
+      "begin": "2024-10-13T08:30:00.000Z",
+      "broadcast": "R/2024-10-13T08:30:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3495"
+    },
+    {
+      "site": "dmhy",
+      "id": "香格里拉 神作 2季|二季|2期|二期|S02|S2|2nd"
+    }
+  ]
 }

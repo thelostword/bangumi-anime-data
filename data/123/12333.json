@@ -149,5 +149,32 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "12333"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kamisama-anime",
+      "begin": "2011-07-17T15:00:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "898",
+      "begin": "2011-07-04T16:00:00.000Z",
+      "broadcast": "R/2012-06-15T04:05:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0011019",
+      "begin": "2018-08-18T03:00:00.000Z",
+      "broadcast": "R/2018-08-18T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "dolls"
+    }
+  ]
 }

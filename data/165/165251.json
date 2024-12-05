@@ -149,5 +149,25 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "165251"
+    },
+    {
+      "site": "mgtv",
+      "id": "317083",
+      "begin": ""
+    },
+    {
+      "site": "qq",
+      "id": "i/ik13w0qkrtxnmb9",
+      "begin": ""
+    },
+    {
+      "site": "mikan",
+      "id": "1395"
+    }
+  ]
 }

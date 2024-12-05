@@ -149,5 +149,41 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "444339"
+    },
+    {
+      "site": "nicovideo",
+      "id": "the-fable-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0100087",
+      "begin": "2024-04-08T03:00:00.000Z",
+      "broadcast": "R/2024-04-08T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "5lo11H9f2Cg4",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "殺手寓言"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66097bca16e6bbcc806d345c"
+    },
+    {
+      "site": "mikan",
+      "id": "3327"
+    }
+  ]
 }

@@ -149,5 +149,53 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "420628"
+    },
+    {
+      "site": "netflix",
+      "id": "81712068",
+      "begin": "2023-10-21T00:00:00.000Z",
+      "broadcast": "R/2023-10-21T00:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "19-174",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0091755",
+      "begin": "2023-10-21T17:40:00.000Z",
+      "broadcast": "R/2023-10-21T17:40:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "1Mw6AaFMAfzE",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "藥師|藥屋 獨語|呢喃"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "65186f8e4c90aa63daeaa251"
+    },
+    {
+      "site": "mikan",
+      "id": "3203"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kusuriyanohitorigoto",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

@@ -149,5 +149,65 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "mgtv",
+      "id": "150637",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "youku",
+      "id": "851f4dbcd29811e4b692",
+      "begin": "2015-04-05T14:00:00.000Z",
+      "broadcast": "R/2015-04-05T13:19:03.000Z/P7D"
+    },
+    {
+      "site": "qq",
+      "id": "2/2nqzaniq3tunys1",
+      "begin": "2015-04-05T14:00:00.000Z",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "1551",
+      "begin": "2015-04-05T14:00:00.000Z",
+      "broadcast": "R/2015-04-05T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhaybsx",
+      "begin": "2015-04-05T14:00:00.000Z",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "116871"
+    },
+    {
+      "site": "nicovideo",
+      "id": "arslan",
+      "begin": "2015-04-14T16:30:00.000Z",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0004981",
+      "begin": "2019-07-12T03:00:00.000Z",
+      "broadcast": "R/2019-07-12T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "蘭戰|Arslan"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "552aa32bdd3d5c0b4e82f097"
+    },
+    {
+      "site": "mikan",
+      "id": "495"
+    }
+  ]
 }

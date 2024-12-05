@@ -149,5 +149,39 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "172518"
+    },
+    {
+      "site": "nicovideo",
+      "id": "mahoyome-ova",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "youku",
+      "id": "1e186ae3758911e6b16e",
+      "begin": "2016-09-10T14:58:00.000Z"
+    },
+    {
+      "site": "bilibili_tw",
+      "id": "54992",
+      "begin": "2018-01-16T10:23:00.000Z",
+      "broadcast": "R/2018-01-16T10:23:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0045336",
+      "begin": "2020-02-21T03:00:00.000Z",
+      "broadcast": "R/2020-02-21T03:00:00.000Z/P7D",
+      "comment": "中篇: SID0045501, : 後篇: SID0045502"
+    },
+    {
+      "site": "mikan",
+      "id": "1134"
+    }
+  ]
 }

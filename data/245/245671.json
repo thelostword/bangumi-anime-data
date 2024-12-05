@@ -149,5 +149,27 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "245671"
+    },
+    {
+      "site": "nicovideo",
+      "id": "7dayswar",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0052637",
+      "begin": "2020-11-01T15:00:00.000Z",
+      "broadcast": "R/2020-11-01T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "2171"
+    }
+  ]
 }

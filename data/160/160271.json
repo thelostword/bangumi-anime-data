@@ -149,5 +149,40 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "3465",
+      "begin": "2016-04-10T14:30:01.000Z",
+      "broadcast": "R/2016-04-10T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "189c428856bb11e5b432",
+      "begin": "2016-04-10T14:00:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "160271"
+    },
+    {
+      "site": "nicovideo",
+      "id": "concreterevolutio",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "Concrete+Revolutio"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "56fd5dedc6dbe72e14a0d398"
+    },
+    {
+      "site": "mikan",
+      "id": "699"
+    }
+  ]
 }

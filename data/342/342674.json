@@ -149,5 +149,23 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "342674"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UciceC14F8-9VyfN1xuSJt_d",
+      "begin": "2021-12-29T16:00:00.000Z",
+      "broadcast": "R/2021-12-29T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0066035",
+      "begin": "2022-03-30T03:00:00.000Z",
+      "broadcast": "R/2022-03-30T03:00:00.000Z/P7D"
+    }
+  ]
 }

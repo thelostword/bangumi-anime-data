@@ -149,5 +149,34 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "w/wc6mhxbhgqk6ysp",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "1763"
+    },
+    {
+      "site": "nicovideo",
+      "id": "aquarion",
+      "begin": "2011-12-03T03:00:00.000Z",
+      "broadcast": "R/2011-12-03T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "695",
+      "begin": "2005-04-04T16:00:00.000Z",
+      "broadcast": "R/2010-07-25T19:45:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0011349",
+      "begin": "2018-10-04T03:00:00.000Z",
+      "broadcast": "R/2018-10-04T03:00:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,41 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "309807"
+    },
+    {
+      "site": "nicovideo",
+      "id": "idolmaster-millionlive",
+      "begin": "2023-10-08T01:30:00.000Z",
+      "broadcast": "R/2023-10-08T01:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "13-184",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0091738",
+      "begin": "2023-10-12T15:00:00.000Z",
+      "broadcast": "R/2023-10-12T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "偶像大師 百萬"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "65186f734c90aa63daeaa1d1"
+    },
+    {
+      "site": "mikan",
+      "id": "3208"
+    }
+  ]
 }

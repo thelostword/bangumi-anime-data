@@ -149,5 +149,35 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "3ab8310ad2cd11e4b432",
+      "begin": "2015-04-09T15:30:00.000Z",
+      "broadcast": "R/2015-04-27T14:33:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "86517"
+    },
+    {
+      "site": "unext",
+      "id": "SID0018101",
+      "begin": "2020-12-28T03:00:00.000Z",
+      "broadcast": "R/2020-12-28T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "的昴|的昂|Pleiades"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "550fe30f1fe5c31a190a06a2"
+    },
+    {
+      "site": "mikan",
+      "id": "512"
+    }
+  ]
 }

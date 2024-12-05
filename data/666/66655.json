@@ -149,5 +149,27 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "66655"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kiminoirumachi",
+      "begin": "2013-07-14T14:30:00.000Z",
+      "broadcast": "R/2013-07-14T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0011053",
+      "begin": "2020-12-04T15:00:00.000Z",
+      "broadcast": "R/2020-12-04T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "小鎮"
+    }
+  ]
 }

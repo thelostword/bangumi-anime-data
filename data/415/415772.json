@@ -149,5 +149,65 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "415772"
+    },
+    {
+      "site": "unext",
+      "id": "SID0095991",
+      "begin": "2024-01-06T13:00:00.000Z",
+      "broadcast": "R/2024-01-06T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtTY-T0z7AofAJGc9vDt9FaU",
+      "begin": "2024-01-06T13:00:08.000Z",
+      "broadcast": "R/2024-01-06T13:00:08.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JgkXAKRkC3TZ53T9itBSZdQ",
+      "begin": "2024-01-06T13:00:12.000Z",
+      "broadcast": "R/2024-01-06T13:00:12.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "149-22",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "129683",
+      "begin": "2024-01-06T13:00:00.000Z",
+      "broadcast": "R/2024-01-06T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "talesofweddingrings-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "129683",
+      "begin": "2024-01-06T13:00:00.000Z",
+      "broadcast": "R/2024-01-06T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "婚戒"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "659142b0b885a81efda11600"
+    },
+    {
+      "site": "mikan",
+      "id": "3264"
+    }
+  ]
 }

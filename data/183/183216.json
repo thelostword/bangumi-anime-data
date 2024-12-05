@@ -149,5 +149,40 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh9to4d",
+      "begin": "2016-09-30T22:55:09.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "183216"
+    },
+    {
+      "site": "nicovideo",
+      "id": "appmon",
+      "begin": "2016-10-08T04:00:00.000Z",
+      "broadcast": "R/2016-10-08T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0026966",
+      "begin": "2019-11-28T03:00:00.000Z",
+      "broadcast": "R/2019-11-28T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "用怪"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "57efbfc4ac5b9d0762d174e2"
+    },
+    {
+      "site": "mikan",
+      "id": "817"
+    }
+  ]
 }

@@ -149,5 +149,79 @@
       "count": 10
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "298477"
+    },
+    {
+      "site": "gamer",
+      "id": "109617",
+      "begin": "2022-07-06T14:30:00.000Z",
+      "broadcast": "R/2022-07-06T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28338637",
+      "begin": "2022-07-06T14:30:00.000Z",
+      "broadcast": "R/2022-07-06T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "80193163",
+      "begin": "2022-10-30T00:00:00.000Z",
+      "broadcast": "R/2022-10-30T00:00:00.000Z/P7D"
+    },
+    {
+      "site": "mytv",
+      "id": "madeinabyssthegoldencityofthescorchingsun_135904",
+      "begin": "2022-07-06T14:30:00.000Z",
+      "broadcast": "R/2022-07-06T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "prqNPEdSeooI",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Uci9BEW9gFqOac58GVLTCq3o",
+      "begin": "2023-11-30T12:00:00.000Z",
+      "broadcast": "R/2023-11-30T12:00:00.000Z/P1D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "miabyss2",
+      "begin": "2022-07-20T16:00:00.000Z",
+      "broadcast": "R/2022-07-20T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-213",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0070853",
+      "begin": "2022-07-20T16:00:00.000Z",
+      "broadcast": "R/2022-07-20T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "109617",
+      "begin": "2022-07-06T14:30:00.000Z",
+      "broadcast": "R/2022-07-06T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "深淵 黃金鄉"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "62c125ab2fc3ee0d0016bf48"
+    }
+  ]
 }

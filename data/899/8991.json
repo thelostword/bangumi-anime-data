@@ -149,5 +149,55 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "begin": "",
+      "url": "http://www.iqiyi.com/v_19rrifx022.html"
+    },
+    {
+      "site": "bangumi",
+      "id": "8991"
+    },
+    {
+      "site": "mgtv",
+      "id": "49627",
+      "begin": ""
+    },
+    {
+      "site": "qq",
+      "id": "b/bymafsjpccgo4bw",
+      "begin": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "35572",
+      "begin": "2004-04-16T16:00:01.000Z",
+      "broadcast": "R/2018-01-02T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "f10c4a5861ad11e0bea1",
+      "begin": "2013-03-15T11:41:36.000Z"
+    },
+    {
+      "site": "abema",
+      "id": "35-55",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "52586",
+      "begin": "2024-02-01T04:00:00.000Z",
+      "broadcast": "R/2024-02-01T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0010791",
+      "begin": "2024-03-06T03:00:00.000Z",
+      "broadcast": "R/2024-03-06T03:00:00.000Z/P7D"
+    }
+  ]
 }

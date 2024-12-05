@@ -109,5 +109,22 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "84688"
+    },
+    {
+      "site": "nicovideo",
+      "id": "movie-kiddygrade-hanranhen",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0042783",
+      "begin": "2019-11-30T03:00:00.000Z",
+      "broadcast": "R/2019-11-30T03:00:00.000Z/P7D"
+    }
+  ]
 }

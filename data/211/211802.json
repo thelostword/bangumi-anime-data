@@ -149,5 +149,51 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "211802"
+    },
+    {
+      "site": "bilibili",
+      "id": "6308",
+      "begin": "2017-07-03T14:30:00.000Z",
+      "broadcast": "R/2017-07-03T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "mgtv",
+      "id": "316347",
+      "begin": "2017-07-03T14:30:00.000Z"
+    },
+    {
+      "site": "nicovideo",
+      "id": "youapa-anime",
+      "begin": "2017-07-05T03:00:00.000Z",
+      "broadcast": "R/2017-07-05T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "11efbfbd264fefbfbd11",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0030121",
+      "begin": "2017-07-05T03:00:00.000Z",
+      "broadcast": "R/2017-07-05T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "妖怪公寓"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5956814fcc40e0d626c234c2"
+    },
+    {
+      "site": "mikan",
+      "id": "1356"
+    }
+  ]
 }

@@ -149,5 +149,31 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "240828"
+    },
+    {
+      "site": "nicovideo",
+      "id": "happysugarlife",
+      "begin": "2018-10-29T03:00:00.000Z",
+      "broadcast": "R/2018-10-29T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0043095",
+      "begin": "2019-09-30T03:00:00.000Z",
+      "broadcast": "R/2019-09-30T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5b38c4bcb3d4e8ef387d7ee7"
+    },
+    {
+      "site": "mikan",
+      "id": "1677"
+    }
+  ]
 }

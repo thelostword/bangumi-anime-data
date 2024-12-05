@@ -149,5 +149,35 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "163711"
+    },
+    {
+      "site": "nicovideo",
+      "id": "symphogear-axz",
+      "begin": "2017-07-08T03:00:00.000Z",
+      "broadcast": "R/2017-07-08T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0030034",
+      "begin": "2018-11-22T03:00:00.000Z",
+      "broadcast": "R/2018-11-22T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "戰姬+AXZ"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5956827ecc40e0d626c23508"
+    },
+    {
+      "site": "mikan",
+      "id": "1351"
+    }
+  ]
 }

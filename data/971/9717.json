@@ -149,5 +149,32 @@
       "count": 53
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "9717"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ch260",
+      "begin": "2011-01-12T18:00:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "2539",
+      "begin": "2011-01-05T16:00:00.000Z",
+      "broadcast": "R/2014-08-01T11:15:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002875",
+      "begin": "2018-11-01T03:00:00.000Z",
+      "broadcast": "R/2018-11-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "魔法少女+圓|Madoka"
+    }
+  ]
 }

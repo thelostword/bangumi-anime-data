@@ -129,5 +129,24 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5615",
+      "begin": "2016-10-22T00:00:10.000Z",
+      "broadcast": "R/2020-07-03T21:30:00.000Z/P7D",
+      "comment": "2nd: 6041, 3rd: 79392, 4th: 24103847, 5th: 28229379"
+    },
+    {
+      "site": "bangumi",
+      "id": "161845"
+    },
+    {
+      "site": "unext",
+      "id": "SID0023803",
+      "begin": "2016-07-09T03:00:00.000Z",
+      "broadcast": "R/2016-07-09T03:00:00.000Z/P7D"
+    }
+  ]
 }

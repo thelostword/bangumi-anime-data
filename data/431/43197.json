@@ -149,5 +149,43 @@
       "count": 16
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "43197"
+    },
+    {
+      "site": "nicovideo",
+      "id": "maoyu",
+      "begin": "2013-01-11T14:30:00.000Z",
+      "broadcast": "R/2013-01-11T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "444",
+      "begin": "2013-01-03T16:00:00.000Z",
+      "broadcast": "R/2013-01-05T01:09:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhw9b8l",
+      "begin": ""
+    },
+    {
+      "site": "qq",
+      "id": "3/3x5lchfej1g1xrp",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0013411",
+      "begin": "2014-03-31T15:00:00.000Z",
+      "broadcast": "R/2014-03-31T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Maoyu|王勇"
+    }
+  ]
 }

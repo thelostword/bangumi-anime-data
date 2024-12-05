@@ -149,5 +149,33 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "258349"
+    },
+    {
+      "site": "nicovideo",
+      "id": "STAMPEDE",
+      "begin": "2020-03-17T15:00:00.000Z",
+      "broadcast": "R/2020-03-17T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81240764",
+      "begin": "2023-12-14T00:00:00.000Z",
+      "broadcast": "R/2023-12-14T00:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0046128",
+      "begin": "2020-03-18T03:00:00.000Z",
+      "broadcast": "R/2020-03-18T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "2109"
+    }
+  ]
 }

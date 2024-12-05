@@ -149,5 +149,22 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "d/ddqwqkeedkbh94g",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "1271"
+    },
+    {
+      "site": "nicovideo",
+      "id": "akane-iro",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

@@ -149,5 +149,71 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "457991"
+    },
+    {
+      "site": "nicovideo",
+      "id": "goukon-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0157064",
+      "begin": "2024-10-04T17:00:00.000Z",
+      "broadcast": "R/2024-10-04T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "11-63",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3419"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66fb601e89c3a6ce864cbce7"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JiQWCerTH65nEg1Q2UOFF-i",
+      "begin": "2024-10-04T17:30:26.000Z",
+      "broadcast": "R/2024-10-04T17:30:26.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81942652",
+      "begin": "2024-10-03T16:00:00.000Z",
+      "broadcast": "R/2024-10-03T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "135901",
+      "begin": "2024-10-04T17:30:00.000Z",
+      "broadcast": "R/2024-10-04T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtTNvZA3lieK1W5zZaRLy_DN",
+      "begin": "2024-10-04T17:30:26.000Z",
+      "broadcast": "R/2024-10-04T17:30:26.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "135901",
+      "begin": "2024-10-04T17:30:00.000Z",
+      "broadcast": "R/2024-10-04T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "沒有女生"
+    }
+  ]
 }

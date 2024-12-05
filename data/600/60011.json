@@ -149,5 +149,41 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "60011"
+    },
+    {
+      "site": "nicovideo",
+      "id": "drifters",
+      "begin": "2019-04-30T15:00:00.000Z",
+      "broadcast": "R/2019-04-30T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "4308922",
+      "begin": "2018-11-16T06:14:20.000Z",
+      "broadcast": "R/2018-11-16T06:14:20.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0041954",
+      "begin": "2020-12-06T03:00:00.000Z",
+      "broadcast": "R/2020-12-06T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "流武|Drifters"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "57efbe20ac5b9d0762d174dc"
+    },
+    {
+      "site": "mikan",
+      "id": "867"
+    }
+  ]
 }

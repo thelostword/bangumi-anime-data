@@ -93,5 +93,16 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "begin": "",
+      "url": "http://www.iqiyi.com/v_19rrifvb3v.html"
+    },
+    {
+      "site": "bangumi",
+      "id": "39542"
+    }
+  ]
 }

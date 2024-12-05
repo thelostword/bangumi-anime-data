@@ -149,5 +149,49 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "319252"
+    },
+    {
+      "site": "gamer",
+      "id": "116524",
+      "begin": "2021-04-04T15:00:00.000Z",
+      "broadcast": "R/2021-04-04T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "116524",
+      "begin": "2021-04-04T15:00:00.000Z",
+      "broadcast": "R/2021-04-04T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UchtU-rMECl3p2BQGbCGe16c",
+      "begin": "2021-04-04T15:00:00.000Z",
+      "broadcast": "R/2021-04-04T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81335206",
+      "begin": "2021-08-25T16:00:00.000Z",
+      "broadcast": "R/2021-08-25T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6065f08feaf504d0216b7777"
+    },
+    {
+      "site": "mikan",
+      "id": "2424"
+    },
+    {
+      "site": "nicovideo",
+      "id": "moriarty-anime",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

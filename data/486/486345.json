@@ -121,5 +121,53 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "486345"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ao-ex-yukinohatehen",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0157071",
+      "begin": "2024-10-05T16:00:00.000Z",
+      "broadcast": "R/2024-10-05T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66fb602189c3a6ce864cbcfd"
+    },
+    {
+      "site": "abema",
+      "id": "26-230",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3449"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "138507",
+      "begin": "2024-10-05T17:00:00.000Z",
+      "broadcast": "R/2024-10-05T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "138507",
+      "begin": "2024-10-05T17:00:00.000Z",
+      "broadcast": "R/2024-10-05T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "青之驅魔師 雪之盡頭|終夜"
+    }
+  ]
 }

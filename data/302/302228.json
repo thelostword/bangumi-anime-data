@@ -149,5 +149,23 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "302228"
+    },
+    {
+      "site": "gamer",
+      "id": "110501",
+      "begin": "2022-07-21T06:00:00.000Z",
+      "broadcast": "R/2022-07-21T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "110501",
+      "begin": "2022-07-21T06:00:00.000Z",
+      "broadcast": "R/2022-07-21T06:00:00.000Z/P7D"
+    }
+  ]
 }

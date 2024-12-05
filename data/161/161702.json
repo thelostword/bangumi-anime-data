@@ -85,5 +85,28 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "161702"
+    },
+    {
+      "site": "bilibili",
+      "id": "4313382",
+      "begin": "2018-11-29T09:34:32.000Z",
+      "broadcast": "R/2018-11-29T09:34:32.000Z/P7D",
+      "comment": "第三季: 4313402"
+    },
+    {
+      "site": "unext",
+      "id": "SID0016952",
+      "begin": "2019-07-11T03:00:00.000Z",
+      "broadcast": "R/2019-07-11T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5e82283a657e22f4195cc74c"
+    }
+  ]
 }

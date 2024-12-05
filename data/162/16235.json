@@ -149,5 +149,31 @@
       "count": 25
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "8/8d4x210hpoji73w",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "16235"
+    },
+    {
+      "site": "nicovideo",
+      "id": "future-diary",
+      "begin": "2011-10-09T14:30:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0035661",
+      "begin": "2018-08-23T03:00:00.000Z",
+      "broadcast": "R/2018-08-23T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "未來日記"
+    }
+  ]
 }

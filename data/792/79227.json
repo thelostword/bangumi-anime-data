@@ -149,5 +149,88 @@
       "count": 42
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "604f2b5a70f211e38b3f",
+      "begin": "2014-04-09T16:00:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "79227"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ngnl-anime",
+      "begin": "2014-04-11T16:00:00.000Z",
+      "broadcast": "R/2014-04-11T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "184",
+      "begin": "2014-04-08T16:00:00.000Z",
+      "broadcast": "R/2017-04-08T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh8imfx",
+      "begin": "2018-11-28T07:50:43.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "n/naswhw859y20asu",
+      "begin": ""
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JglGq-5PMtbewK96Z_7Au8J",
+      "begin": "2019-12-03T16:00:00.000Z",
+      "broadcast": "R/2019-12-03T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtSicYhwLiINwHrFUJ3yD7dj",
+      "begin": "2022-06-22T16:00:00.000Z",
+      "broadcast": "R/2022-06-22T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "viu",
+      "id": "455873",
+      "begin": "2022-10-06T16:00:00.000Z",
+      "broadcast": "R/2022-10-06T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "63284",
+      "begin": "2017-05-25T09:30:00.000Z",
+      "broadcast": "R/2017-05-25T09:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-10wkyfrkuytx",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0016189",
+      "begin": "2014-07-04T06:00:00.000Z",
+      "broadcast": "R/2014-07-04T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "63284",
+      "begin": "2017-05-25T09:30:00.000Z",
+      "broadcast": "R/2017-05-25T09:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "戲人"
+    },
+    {
+      "site": "mikan",
+      "id": "313"
+    }
+  ]
 }

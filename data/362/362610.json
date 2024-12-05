@@ -97,5 +97,23 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "362610"
+    },
+    {
+      "site": "unext",
+      "id": "SID0065944",
+      "begin": "2022-01-21T03:00:00.000Z",
+      "broadcast": "R/2022-01-21T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "luminaria-tales-fc",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

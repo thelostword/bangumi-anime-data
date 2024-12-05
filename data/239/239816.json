@@ -149,5 +149,101 @@
       "count": 14
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "239816"
+    },
+    {
+      "site": "bilibili",
+      "id": "139252",
+      "begin": "2018-10-01T16:30:00.000Z",
+      "broadcast": "R/2018-10-01T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "qq",
+      "id": "3/3qpalo6ldy0i4bf",
+      "begin": ""
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh707nd",
+      "begin": "2018-10-01T16:25:07.000Z"
+    },
+    {
+      "site": "mgtv",
+      "id": "327848",
+      "begin": ""
+    },
+    {
+      "site": "viu",
+      "id": "108613",
+      "begin": "2018-10-01T16:00:00.000Z",
+      "broadcast": "R/2018-10-01T16:00:00.000Z/P7D",
+      "comment": "粵語版: 420234"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UcgarYXnz38UWOky-pGBX7Ew",
+      "begin": "2022-08-05T16:00:00.000Z",
+      "broadcast": "R/2022-08-05T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81028712",
+      "begin": "2021-09-29T16:00:00.000Z",
+      "broadcast": "R/2021-09-29T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "94601",
+      "begin": "2018-10-01T16:30:00.000Z",
+      "broadcast": "R/2018-10-01T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_tw",
+      "id": "28340513",
+      "begin": "2022-12-02T10:00:01.000Z",
+      "broadcast": "R/2022-12-02T10:00:01.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "5dX5AAqsoaiY",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "abema",
+      "id": "420-11",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0037289",
+      "begin": "2018-10-10T03:00:00.000Z",
+      "broadcast": "R/2018-10-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "94601",
+      "begin": "2018-10-01T16:30:00.000Z",
+      "broadcast": "R/2018-10-01T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5bb19c9c9b9493607ff72603"
+    },
+    {
+      "site": "mikan",
+      "id": "1763"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ten-sura",
+      "begin": "2018-10-03T03:00:00.000Z",
+      "broadcast": "R/2018-10-03T03:00:00.000Z/P7D"
+    }
+  ]
 }

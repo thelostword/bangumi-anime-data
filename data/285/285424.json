@@ -149,5 +149,31 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "285424"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ichigo-animation",
+      "begin": "2021-02-13T15:00:00.000Z",
+      "broadcast": "R/2021-02-13T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0050920",
+      "begin": "2021-02-13T15:00:00.000Z",
+      "broadcast": "R/2021-02-13T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "602dabb432f14c0007448b1c"
+    },
+    {
+      "site": "mikan",
+      "id": "2340"
+    }
+  ]
 }

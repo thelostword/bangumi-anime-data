@@ -149,5 +149,35 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "211059"
+    },
+    {
+      "site": "unext",
+      "id": "SID0031307",
+      "begin": "2017-10-09T03:00:00.000Z",
+      "broadcast": "R/2017-10-09T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "十二大"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "59d0cb4afb34aac154710b61"
+    },
+    {
+      "site": "mikan",
+      "id": "1413"
+    },
+    {
+      "site": "nicovideo",
+      "id": "12taisen",
+      "begin": "2023-10-09T15:00:00.000Z",
+      "broadcast": "R/2023-10-09T15:00:00.000Z/P7D"
+    }
+  ]
 }

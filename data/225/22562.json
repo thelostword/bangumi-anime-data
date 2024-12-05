@@ -149,5 +149,32 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhb0zhx",
+      "begin": "2015-03-30T08:49:08.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "22562"
+    },
+    {
+      "site": "bilibili",
+      "id": "4341",
+      "begin": "2012-10-02T16:00:01.000Z",
+      "broadcast": "R/2017-02-08T06:37:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002802",
+      "begin": "2020-01-21T03:00:00.000Z",
+      "broadcast": "R/2020-01-21T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "旋風管家"
+    }
+  ]
 }

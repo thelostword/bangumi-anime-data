@@ -149,5 +149,41 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrgif2ph",
+      "begin": "2014-07-10T17:49:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "103304"
+    },
+    {
+      "site": "nicovideo",
+      "id": "p4g",
+      "begin": "2014-07-12T16:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0016774",
+      "begin": "2019-11-29T03:00:00.000Z",
+      "broadcast": "R/2019-11-29T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "神異+黄金"
+    },
+    {
+      "site": "mikan",
+      "id": "338"
+    },
+    {
+      "site": "bilibili",
+      "id": "28414246",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

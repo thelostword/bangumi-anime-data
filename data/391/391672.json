@@ -149,5 +149,27 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "391672"
+    },
+    {
+      "site": "nicovideo",
+      "id": "orekun",
+      "begin": "2022-10-12T16:10:00.000Z",
+      "broadcast": "R/2022-10-12T16:10:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0073157",
+      "begin": "2022-10-12T16:10:00.000Z",
+      "broadcast": "R/2022-10-12T16:10:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "632762cb2eaf6e578875f7d8"
+    }
+  ]
 }

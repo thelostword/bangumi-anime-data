@@ -149,5 +149,61 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "302766"
+    },
+    {
+      "site": "bilibili_tw",
+      "id": "28480893",
+      "begin": "2023-01-11T15:30:00.000Z",
+      "broadcast": "R/2023-01-11T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28412511",
+      "begin": "2023-01-11T15:30:00.000Z",
+      "broadcast": "R/2023-01-11T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "viu",
+      "id": "469403",
+      "begin": "2023-01-10T16:00:00.000Z",
+      "broadcast": "R/2023-01-10T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "115289",
+      "begin": "2023-01-11T15:30:00.000Z",
+      "broadcast": "R/2023-01-11T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "bofuri2",
+      "begin": "2023-01-18T15:00:00.000Z",
+      "broadcast": "R/2023-01-18T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "54-79",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0076929",
+      "begin": "2023-01-18T15:00:00.000Z",
+      "broadcast": "R/2023-01-18T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "怕痛 2季|二季|2期|二期|S02|S2|2nd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "63b58c46441dff2ff8927e77"
+    }
+  ]
 }

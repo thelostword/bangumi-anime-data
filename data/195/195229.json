@@ -149,5 +149,45 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh9241x",
+      "begin": "2017-01-06T04:00:00.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "fbb56e7dc26f11e6acec",
+      "begin": "2017-01-06T04:00:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "195229"
+    },
+    {
+      "site": "nicovideo",
+      "id": "seiren_anime",
+      "begin": "2017-01-09T03:00:00.000Z",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0027991",
+      "begin": "2019-11-30T03:00:00.000Z",
+      "broadcast": "R/2019-11-30T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Seiren|清戀"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5869a8b3efe56b1860c8f81a"
+    },
+    {
+      "site": "mikan",
+      "id": "1172"
+    }
+  ]
 }

@@ -149,5 +149,76 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "269918"
+    },
+    {
+      "site": "youku",
+      "id": "bafa149a350a4e9a8b68",
+      "begin": "2020-01-10T17:28:01.000Z"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtRhD6dTgVkSrsOYPIentnEJ",
+      "begin": "2022-10-08T16:00:00.000Z",
+      "broadcast": "R/2022-10-08T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "7iGL15MOs7hZ",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "103114",
+      "begin": "2020-01-22T09:30:00.000Z",
+      "broadcast": "R/2020-01-22T09:30:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JhcDltax70U8SLMixaRLsCE",
+      "begin": "2023-06-14T16:00:00.000Z",
+      "broadcast": "R/2023-06-14T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "19-16",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0045516",
+      "begin": "2020-01-12T03:00:00.000Z",
+      "broadcast": "R/2020-01-12T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "103114",
+      "begin": "2020-01-22T09:30:00.000Z",
+      "broadcast": "R/2020-01-22T09:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "排球少年 4季|四季|4期|四期|S04|S4|4th"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5e1b4f244f7a796559d914fa"
+    },
+    {
+      "site": "mikan",
+      "id": "2152"
+    },
+    {
+      "site": "nicovideo",
+      "id": "haikyu_TO_THE_TOP",
+      "begin": "2020-01-12T03:00:00.000Z",
+      "broadcast": "R/2020-01-12T03:00:00.000Z/P7D"
+    }
+  ]
 }

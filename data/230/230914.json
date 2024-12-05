@@ -149,5 +149,39 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "230914"
+    },
+    {
+      "site": "bilibili",
+      "id": "28230042",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "nicovideo",
+      "id": "miabyss-movie2",
+      "begin": "2021-06-10T15:00:00.000Z",
+      "broadcast": "R/2021-06-10T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "92691",
+      "begin": "2021-09-15T09:00:00.000Z",
+      "broadcast": "R/2021-09-15T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0059039",
+      "begin": "2021-06-11T03:00:00.000Z",
+      "broadcast": "R/2021-06-11T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "2239"
+    }
+  ]
 }

@@ -149,5 +149,35 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "195845"
+    },
+    {
+      "site": "nicovideo",
+      "id": "haremking4",
+      "begin": "2018-04-17T15:30:00.000Z",
+      "broadcast": "R/2018-04-17T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0034227",
+      "begin": "2019-11-30T03:00:00.000Z",
+      "broadcast": "R/2019-11-30T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "DxD+Hero"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ac0aa84395e2a122f10f02f"
+    },
+    {
+      "site": "mikan",
+      "id": "1601"
+    }
+  ]
 }

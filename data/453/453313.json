@@ -149,5 +149,18 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "453313"
+    },
+    {
+      "site": "bilibili",
+      "id": "21128688",
+      "begin": "2023-11-30T11:00:00.000Z",
+      "broadcast": "R/2023-11-30T11:00:00.000Z/P7D",
+      "comment": "中配: 21128787"
+    }
+  ]
 }

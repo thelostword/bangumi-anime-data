@@ -149,5 +149,31 @@
       "count": 21
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "28221545",
+      "begin": "2014-04-10T16:30:00.000Z",
+      "broadcast": "R/2019-07-05T10:46:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "93739"
+    },
+    {
+      "site": "dmhy",
+      "id": "乒乓"
+    },
+    {
+      "site": "mikan",
+      "id": "326"
+    },
+    {
+      "site": "unext",
+      "id": "SID0016554",
+      "begin": "2024-10-01T03:00:00.000Z",
+      "broadcast": "R/2024-10-01T03:00:00.000Z/P7D"
+    }
+  ]
 }

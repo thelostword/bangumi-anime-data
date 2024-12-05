@@ -149,5 +149,46 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "mgtv",
+      "id": "108969",
+      "begin": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "59",
+      "begin": "2014-07-07T19:05:00.000Z",
+      "broadcast": "R/2014-07-07T20:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "92836"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh83pal",
+      "begin": "2017-06-30T16:02:45.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "2/2y2djgevmounvgi",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0012746",
+      "begin": "2023-07-28T03:00:00.000Z",
+      "broadcast": "R/2023-07-28T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "春之旅|爍的"
+    },
+    {
+      "site": "mikan",
+      "id": "358"
+    }
+  ]
 }

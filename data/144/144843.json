@@ -149,5 +149,41 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "144843"
+    },
+    {
+      "site": "nicovideo",
+      "id": "hai-furi",
+      "begin": "2016-04-16T15:00:00.000Z",
+      "broadcast": "R/2016-04-16T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "79260",
+      "begin": "2020-10-16T11:00:00.000Z",
+      "broadcast": "R/2020-10-16T11:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0023666",
+      "begin": "2019-11-01T03:00:00.000Z",
+      "broadcast": "R/2019-11-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "春波|校艦|Haifuri"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "56fd5ce9c6dbe72e14a0d388"
+    },
+    {
+      "site": "mikan",
+      "id": "731"
+    }
+  ]
 }

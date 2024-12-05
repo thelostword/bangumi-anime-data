@@ -149,5 +149,29 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "284524"
+    },
+    {
+      "site": "nicovideo",
+      "id": "inuoh-anime",
+      "begin": "2023-01-13T15:00:00.000Z",
+      "broadcast": "R/2023-01-13T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0076581",
+      "begin": "2022-12-14T03:00:00.000Z",
+      "broadcast": "R/2022-12-14T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28480926",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

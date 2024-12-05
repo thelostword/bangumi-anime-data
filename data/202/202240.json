@@ -149,5 +149,34 @@
       "count": 12
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "202240"
+    },
+    {
+      "site": "bilibili",
+      "id": "7752",
+      "begin": "2017-04-06T16:00:00.000Z",
+      "broadcast": ""
+    },
+    {
+      "site": "disneyplus",
+      "id": "1WJV3xWzxaA8",
+      "url": "https://www.disneyplus.com/movies/night-is-short-walk-on-girl/1WJV3xWzxaA8",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "1442"
+    },
+    {
+      "site": "unext",
+      "id": "SID0034759",
+      "begin": "2024-10-31T15:00:00.000Z",
+      "broadcast": "R/2024-10-31T15:00:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,18 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "190704"
+    },
+    {
+      "site": "unext",
+      "id": "SID0050430",
+      "begin": "2020-08-30T03:00:00.000Z",
+      "broadcast": "R/2020-08-30T03:00:00.000Z/P7D",
+      "comment": "Training of the Dead: SID0050431"
+    }
+  ]
 }

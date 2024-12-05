@@ -149,5 +149,28 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "3769"
+    },
+    {
+      "site": "bilibili",
+      "id": "2150",
+      "begin": "2000-01-04T16:00:00.000Z",
+      "broadcast": "R/2012-10-15T10:38:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "boogiepop-phantom",
+      "begin": "2018-09-21T09:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0037184",
+      "begin": "2018-11-15T03:00:00.000Z",
+      "broadcast": "R/2018-11-15T03:00:00.000Z/P7D"
+    }
+  ]
 }

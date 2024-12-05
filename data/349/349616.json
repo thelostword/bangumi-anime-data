@@ -149,5 +149,43 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "349616"
+    },
+    {
+      "site": "gamer",
+      "id": "119691",
+      "begin": "2021-09-19T22:20:00.000Z",
+      "broadcast": "R/2021-09-19T22:20:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "tawawa-anime",
+      "begin": "2022-05-31T15:00:00.000Z",
+      "broadcast": "R/2022-05-31T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0067617",
+      "begin": "2022-04-11T03:00:00.000Z",
+      "broadcast": "R/2022-04-11T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "tawawa 2季|二季|2期|二期|S02|S2|2nd"
+    },
+    {
+      "site": "mikan",
+      "id": "2545"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "119691",
+      "begin": "2021-09-19T22:20:00.000Z",
+      "broadcast": "R/2021-09-19T22:20:00.000Z/P7D"
+    }
+  ]
 }

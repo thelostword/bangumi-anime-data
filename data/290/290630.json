@@ -149,5 +149,65 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "28228269",
+      "begin": "2020-04-03T14:00:00.000Z",
+      "broadcast": "R/2020-04-03T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "290630"
+    },
+    {
+      "site": "nicovideo",
+      "id": "sakura-taisen-theanimation",
+      "begin": "2020-04-08T15:00:00.000Z",
+      "broadcast": "R/2020-04-08T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JiOdci6TOWOrs1GPxQMGowJ",
+      "begin": "2020-04-02T16:00:00.000Z",
+      "broadcast": "R/2020-04-02T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "107694",
+      "begin": "2020-04-03T14:00:00.000Z",
+      "broadcast": "R/2020-04-03T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28228469",
+      "begin": "2020-04-03T14:00:00.000Z",
+      "broadcast": "R/2020-04-03T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0047123",
+      "begin": "2020-04-08T16:25:00.000Z",
+      "broadcast": "R/2020-04-08T16:25:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "107694",
+      "begin": "2020-04-03T14:00:00.000Z",
+      "broadcast": "R/2020-04-03T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "新櫻"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5e822883657e22f4195cc798"
+    },
+    {
+      "site": "mikan",
+      "id": "2213"
+    }
+  ]
 }

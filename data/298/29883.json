@@ -149,5 +149,33 @@
       "count": 12
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "29883"
+    },
+    {
+      "site": "nicovideo",
+      "id": "shin_eva_movie",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0071609",
+      "begin": "2022-08-13T15:00:00.000Z",
+      "broadcast": "R/2022-08-13T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28371498",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "2540"
+    }
+  ]
 }

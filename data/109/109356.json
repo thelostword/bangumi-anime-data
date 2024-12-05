@@ -149,5 +149,39 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "w/w8yxncfnqnljt6b",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "109356"
+    },
+    {
+      "site": "nicovideo",
+      "id": "militari",
+      "begin": "2015-01-07T12:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0013563",
+      "begin": "2018-12-29T03:00:00.000Z",
+      "broadcast": "R/2018-12-29T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "軍人|Military"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "549fd35e30bcfc225bf9e5fd"
+    },
+    {
+      "site": "mikan",
+      "id": "438"
+    }
+  ]
 }

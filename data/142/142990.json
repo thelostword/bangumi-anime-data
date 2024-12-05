@@ -149,5 +149,64 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "d14f951ca84d11e5b2ad",
+      "begin": "2016-01-10T16:15:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "142990"
+    },
+    {
+      "site": "nicovideo",
+      "id": "rainbow-days",
+      "begin": "2016-01-12T15:00:00.000Z",
+      "broadcast": "R/2016-01-12T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28228557",
+      "begin": "2016-01-09T16:00:00.000Z",
+      "broadcast": "R/2020-04-11T11:50:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Uch_qwCEoVJ0WlEq-3nJoISb",
+      "begin": "2019-10-21T16:00:00.000Z",
+      "broadcast": "R/2019-10-21T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "78897",
+      "begin": "2016-01-10T22:00:00.000Z",
+      "broadcast": "R/2016-01-10T22:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0021401",
+      "begin": "2022-07-19T03:00:00.000Z",
+      "broadcast": "R/2022-07-19T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "虹色"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "56857f8ed4d7dbf20b597c56"
+    },
+    {
+      "site": "mikan",
+      "id": "659"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "78897",
+      "begin": "2016-01-10T22:00:00.000Z",
+      "broadcast": "R/2016-01-10T22:00:00.000Z/P7D"
+    }
+  ]
 }

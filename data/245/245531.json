@@ -149,5 +149,49 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "245531"
+    },
+    {
+      "site": "nicovideo",
+      "id": "conception-anime",
+      "begin": "2018-11-04T15:00:00.000Z",
+      "broadcast": "R/2018-11-04T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "1363308",
+      "begin": "2018-10-30T16:30:00.000Z",
+      "broadcast": "R/2018-10-30T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0037223",
+      "begin": "2018-10-13T03:00:00.000Z",
+      "broadcast": "R/2018-10-13T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5bb19ca59b9493607ff72615"
+    },
+    {
+      "site": "mikan",
+      "id": "1782"
+    },
+    {
+      "site": "gamer",
+      "id": "97499",
+      "begin": "2024-08-14T04:00:00.000Z",
+      "broadcast": "R/2024-08-14T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "97499",
+      "begin": "2024-08-14T04:00:00.000Z",
+      "broadcast": "R/2024-08-14T04:00:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,18 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "187465"
+    },
+    {
+      "site": "netflix",
+      "id": "80057749",
+      "begin": "2017-02-10T08:00:00.000Z",
+      "broadcast": "R/2017-02-09T16:00:00.000Z/P7D",
+      "comment": "原始版本为剧场版但是 Netflix 目前将其做成 14 集 TV 分割形式放送"
+    }
+  ]
 }

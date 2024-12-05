@@ -149,5 +149,33 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "354700"
+    },
+    {
+      "site": "gamer",
+      "id": "120421",
+      "begin": "2023-12-22T08:10:00.000Z",
+      "broadcast": "R/2023-12-22T08:10:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "19-181",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0066847",
+      "begin": "2023-04-10T15:00:00.000Z",
+      "broadcast": "R/2023-04-10T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3288"
+    }
+  ]
 }

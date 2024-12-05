@@ -149,5 +149,29 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "196023"
+    },
+    {
+      "site": "unext",
+      "id": "SID0027703",
+      "begin": "2020-12-28T03:00:00.000Z",
+      "broadcast": "R/2020-12-28T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "SchoolGirl+Strikers"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5869a988efe56b1860c8f826"
+    },
+    {
+      "site": "mikan",
+      "id": "1162"
+    }
+  ]
 }

@@ -149,5 +149,21 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "5648"
+    },
+    {
+      "site": "unext",
+      "id": "SID0003337",
+      "begin": "2019-05-01T03:00:00.000Z",
+      "broadcast": "R/2019-05-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "玩伴貓耳娘"
+    }
+  ]
 }

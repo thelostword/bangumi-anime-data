@@ -149,5 +149,61 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "33702"
+    },
+    {
+      "site": "nicovideo",
+      "id": "arcana",
+      "begin": "2012-07-07T16:00:00.000Z",
+      "broadcast": "R/2012-07-07T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "767",
+      "begin": "2012-06-30T16:00:00.000Z",
+      "broadcast": "R/2012-07-01T19:35:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhx3eip",
+      "begin": ""
+    },
+    {
+      "site": "qq",
+      "id": "m/mzc00200ihqx3ba",
+      "begin": ""
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Ucgn_0heepJDEVUDeYSDOElK",
+      "begin": "2022-12-19T16:00:00.000Z",
+      "broadcast": "R/2022-12-19T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "54244",
+      "begin": "2019-07-04T09:00:00.000Z",
+      "broadcast": "R/2019-07-04T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002451",
+      "begin": "2015-03-19T05:00:00.000Z",
+      "broadcast": "R/2015-03-19T05:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "魔力家族|arcana+famiglia"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "54244",
+      "begin": "2019-07-04T09:00:00.000Z",
+      "broadcast": "R/2019-07-04T09:00:00.000Z/P7D"
+    }
+  ]
 }

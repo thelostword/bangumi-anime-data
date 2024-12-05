@@ -149,5 +149,29 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "148729"
+    },
+    {
+      "site": "netflix",
+      "id": "80190911",
+      "begin": "2022-03-29T16:00:00.000Z",
+      "broadcast": "R/2022-03-29T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0031942",
+      "begin": "2017-11-10T03:00:00.000Z",
+      "broadcast": "R/2017-11-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28237255",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

@@ -179,5 +179,73 @@
       "total_cont": 0
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "470738"
+    },
+    {
+      "site": "unext",
+      "id": "SID0157078",
+      "begin": "2024-10-12T15:30:00.000Z",
+      "broadcast": "R/2024-10-12T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66fb601289c3a6ce864cbc97"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtTy2ZN5QIy4nTCrkf-W-05t",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Ji9pXffd9q_Ha3gcl4XH4tB",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mytv",
+      "id": "mfghost2ndseason_141922",
+      "begin": "2024-10-06T16:00:00.000Z",
+      "broadcast": "R/2024-10-06T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "136988",
+      "begin": "2024-10-06T16:00:00.000Z",
+      "broadcast": "R/2024-10-06T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3489"
+    },
+    {
+      "site": "viu",
+      "id": "2438101",
+      "begin": "2024-10-06T16:00:41.000Z",
+      "broadcast": "R/2024-10-06T16:00:41.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "mfg-anime_2",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "23148723",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "136988",
+      "begin": "2024-10-06T16:00:00.000Z",
+      "broadcast": "R/2024-10-06T16:00:00.000Z/P7D"
+    }
+  ]
 }

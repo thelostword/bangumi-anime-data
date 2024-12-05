@@ -149,5 +149,29 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "24053"
+    },
+    {
+      "site": "nicovideo",
+      "id": "PH9",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "4285",
+      "begin": "2012-10-26T16:00:01.000Z",
+      "broadcast": "R/2016-06-01T03:59:58.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0091387",
+      "begin": "2023-09-01T03:00:00.000Z",
+      "broadcast": "R/2023-09-01T03:00:00.000Z/P7D"
+    }
+  ]
 }

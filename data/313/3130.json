@@ -149,5 +149,27 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhb1df9",
+      "begin": "2015-08-20T03:32:13.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "3130"
+    },
+    {
+      "site": "nicovideo",
+      "id": "digimon_t",
+      "begin": "2016-12-01T06:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0011451",
+      "begin": "2020-06-27T03:00:00.000Z",
+      "broadcast": "R/2020-06-27T03:00:00.000Z/P7D"
+    }
+  ]
 }

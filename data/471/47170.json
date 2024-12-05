@@ -149,5 +149,21 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "47170"
+    },
+    {
+      "site": "bilibili",
+      "id": "1679",
+      "begin": "2012-10-05T16:00:00.000Z",
+      "broadcast": "R/2013-02-14T17:12:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "nanafa|七叶"
+    }
+  ]
 }

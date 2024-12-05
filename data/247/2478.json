@@ -149,5 +149,38 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhabjst",
+      "begin": "2016-01-08T10:38:32.000Z"
+    },
+    {
+      "site": "mgtv",
+      "id": "167651",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "2478"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kobato-anime",
+      "begin": "2019-11-15T06:00:00.000Z",
+      "broadcast": "R/2019-11-15T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "qq",
+      "id": "g/gtj9qxy5nb7i3w9",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0034756",
+      "begin": "2018-05-10T03:00:00.000Z",
+      "broadcast": "R/2018-05-10T03:00:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,48 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "3297",
+      "begin": "2016-01-08T16:00:00.000Z",
+      "broadcast": "R/2016-01-18T02:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "146104"
+    },
+    {
+      "site": "nicovideo",
+      "id": "koyomimonogatari",
+      "begin": "2018-10-31T15:00:00.000Z",
+      "broadcast": "R/2018-10-31T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "d5dcb900b38a11e5b2ad",
+      "begin": "2016-01-11T03:40:05.000Z"
+    },
+    {
+      "site": "abema",
+      "id": "26-2mzbynr-cph",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0037810",
+      "begin": "2018-11-10T03:00:00.000Z",
+      "broadcast": "R/2018-11-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "曆物語"
+    },
+    {
+      "site": "mikan",
+      "id": "658"
+    }
+  ]
 }

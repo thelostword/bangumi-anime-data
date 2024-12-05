@@ -149,5 +149,29 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "149993"
+    },
+    {
+      "site": "unext",
+      "id": "SID0020722",
+      "begin": "2020-12-28T03:00:00.000Z",
+      "broadcast": "R/2020-12-28T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "野進"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5685729624f3d8c309bd4699"
+    },
+    {
+      "site": "mikan",
+      "id": "639"
+    }
+  ]
 }

@@ -149,5 +149,33 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "322349"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kakushigoto-movie",
+      "begin": "2021-08-13T03:00:00.000Z",
+      "broadcast": "R/2021-08-13T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28234687",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0061321",
+      "begin": "2021-09-07T03:00:00.000Z",
+      "broadcast": "R/2021-09-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "2538"
+    }
+  ]
 }

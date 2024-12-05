@@ -149,5 +149,35 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "220848"
+    },
+    {
+      "site": "nicovideo",
+      "id": "twocar",
+      "begin": "2017-10-12T16:00:00.000Z",
+      "broadcast": "R/2017-10-12T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0031347",
+      "begin": "2019-11-29T03:00:00.000Z",
+      "broadcast": "R/2019-11-29T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "側車"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "59d0cb6bfb34aac154710ba3"
+    },
+    {
+      "site": "mikan",
+      "id": "1458"
+    }
+  ]
 }

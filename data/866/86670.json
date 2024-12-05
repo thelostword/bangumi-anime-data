@@ -149,5 +149,52 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "86670"
+    },
+    {
+      "site": "nicovideo",
+      "id": "yamanosusume2nd",
+      "begin": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "102352",
+      "begin": "2014-07-08T16:00:00.000Z",
+      "broadcast": "R/2018-09-27T06:51:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UchMT5iL2ctCE2z7zkrNuicX",
+      "begin": "2020-03-16T16:00:00.000Z",
+      "broadcast": "R/2020-03-16T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28221664",
+      "begin": "2019-08-06T03:26:27.000Z",
+      "broadcast": "R/2019-08-06T03:26:27.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002909",
+      "begin": "2016-02-04T03:00:00.000Z",
+      "broadcast": "R/2016-02-04T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "向山|Susum"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "548f10daf892774b140ac680"
+    },
+    {
+      "site": "mikan",
+      "id": "357"
+    }
+  ]
 }

@@ -149,5 +149,69 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5062",
+      "begin": "2016-07-02T14:00:00.000Z",
+      "broadcast": "R/2016-07-02T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhanr91",
+      "begin": "2016-07-02T14:00:00.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "g/g6jw8dxf8zg5x88",
+      "begin": "2016-07-02T14:00:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "165553"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Ucgz1fty5NBlM1wJsLIwev9X",
+      "begin": "2022-06-22T16:00:00.000Z",
+      "broadcast": "R/2022-06-22T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "75722",
+      "begin": "2022-06-10T03:00:00.000Z",
+      "broadcast": "R/2022-06-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0025669",
+      "begin": "2019-01-04T03:00:00.000Z",
+      "broadcast": "R/2019-01-04T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "75722",
+      "begin": "2022-06-10T03:00:00.000Z",
+      "broadcast": "R/2022-06-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Love+Live+Sunshine"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "57765e60ca607f850f3f9346"
+    },
+    {
+      "site": "mikan",
+      "id": "755"
+    },
+    {
+      "site": "nicovideo",
+      "id": "lovelive-sunshine",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

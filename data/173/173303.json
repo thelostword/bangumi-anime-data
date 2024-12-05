@@ -149,5 +149,41 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5776",
+      "begin": "2017-01-06T04:00:00.000Z",
+      "broadcast": "R/2017-01-06T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "173303"
+    },
+    {
+      "site": "nicovideo",
+      "id": "urara-anime",
+      "begin": "2017-01-12T03:00:00.000Z",
+      "broadcast": "R/2017-01-12T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0027903",
+      "begin": "2017-01-12T03:00:00.000Z",
+      "broadcast": "R/2017-01-12T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "迷路帖"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5869a8aaefe56b1860c8f818"
+    },
+    {
+      "site": "mikan",
+      "id": "1169"
+    }
+  ]
 }

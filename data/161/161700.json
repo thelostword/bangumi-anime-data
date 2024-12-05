@@ -69,5 +69,16 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "161700"
+    },
+    {
+      "site": "youku",
+      "id": "9c164238039711e6b32f",
+      "begin": "2016-05-25T08:48:06.000Z"
+    }
+  ]
 }

@@ -149,5 +149,40 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "c/crrtngniol48xnn",
+      "begin": "2014-10-08T17:35:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "104219"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "6361",
+      "begin": "2017-06-29T06:30:35.000Z",
+      "broadcast": "R/2017-06-29T06:30:35.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0027698",
+      "begin": "2017-02-02T03:00:00.000Z",
+      "broadcast": "R/2017-02-02T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Avenging+Battle"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "548f1524f892774b140ac68c"
+    },
+    {
+      "site": "mikan",
+      "id": "398"
+    }
+  ]
 }

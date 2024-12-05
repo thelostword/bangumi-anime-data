@@ -149,5 +149,37 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "312958"
+    },
+    {
+      "site": "bilibili",
+      "id": "28235857",
+      "begin": "2022-01-10T15:00:00.000Z",
+      "broadcast": "R/2022-01-10T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "priconne-redive_2",
+      "begin": "2022-01-15T15:00:00.000Z",
+      "broadcast": "R/2022-01-15T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0063362",
+      "begin": "2022-01-15T15:00:00.000Z",
+      "broadcast": "R/2022-01-15T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "公主連結 2季|二季|2期|二期|S02|S2|2nd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "61d721ff6e31a0815abf5410"
+    }
+  ]
 }

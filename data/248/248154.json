@@ -149,5 +149,64 @@
       "count": 11
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "248154"
+    },
+    {
+      "site": "bilibili",
+      "id": "139352",
+      "begin": "2018-10-02T17:29:00.000Z",
+      "broadcast": "R/2018-10-02T17:29:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh6z5bd",
+      "begin": "2018-10-02T17:25:06.000Z"
+    },
+    {
+      "site": "mgtv",
+      "id": "326589",
+      "begin": ""
+    },
+    {
+      "site": "qq",
+      "id": "e/esuqz387xcy6vm6",
+      "begin": ""
+    },
+    {
+      "site": "gamer",
+      "id": "98172",
+      "begin": "2019-01-10T12:30:00.000Z",
+      "broadcast": "R/2019-01-10T12:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0037478",
+      "begin": "2018-10-05T03:00:00.000Z",
+      "broadcast": "R/2018-10-05T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "98172",
+      "begin": "2019-01-10T12:30:00.000Z",
+      "broadcast": "R/2019-01-10T12:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5bb19ca49b9493607ff72613"
+    },
+    {
+      "site": "mikan",
+      "id": "1793"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kazetsuyo-anime",
+      "begin": "2018-10-04T15:00:00.000Z",
+      "broadcast": "R/2018-10-04T15:00:00.000Z/P7D"
+    }
+  ]
 }

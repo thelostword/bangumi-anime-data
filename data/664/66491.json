@@ -149,5 +149,26 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "y/yjbdd0x0yl48w89",
+      "begin": "2013-04-10T03:00:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "66491"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ketsuekigata-kun",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "型君"
+    }
+  ]
 }

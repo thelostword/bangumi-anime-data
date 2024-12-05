@@ -149,5 +149,55 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "366250"
+    },
+    {
+      "site": "bilibili",
+      "id": "28386015",
+      "begin": "2023-01-11T17:25:00.000Z",
+      "broadcast": "R/2023-01-11T17:25:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jg4qhWLS3o3fPIBNWGebpIh",
+      "begin": "2023-01-11T17:30:00.000Z",
+      "broadcast": "R/2023-01-11T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28480939",
+      "begin": "2023-01-11T17:25:01.000Z",
+      "broadcast": "R/2023-01-11T17:25:01.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ooyukiumi",
+      "begin": "2023-01-12T03:00:00.000Z",
+      "broadcast": "R/2023-01-12T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "19-170",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0078205",
+      "begin": "2023-01-19T03:00:00.000Z",
+      "broadcast": "R/2023-01-19T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "大雪海"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "63b58c49441dff2ff8927e7f"
+    }
+  ]
 }

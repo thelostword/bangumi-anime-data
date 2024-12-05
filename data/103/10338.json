@@ -149,5 +149,26 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "10338"
+    },
+    {
+      "site": "youku",
+      "id": "ec493cdc877911e0a046",
+      "begin": "2012-05-09T07:57:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0063017",
+      "begin": "2021-11-07T15:00:00.000Z",
+      "broadcast": "R/2021-11-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "sket|學園救援"
+    }
+  ]
 }

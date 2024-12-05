@@ -149,5 +149,41 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "381666"
+    },
+    {
+      "site": "gamer",
+      "id": "128544",
+      "begin": "2023-04-06T14:30:00.000Z",
+      "broadcast": "R/2023-04-06T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "watayuri-anime",
+      "begin": "2023-04-13T03:00:00.000Z",
+      "broadcast": "R/2023-04-13T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "128544",
+      "begin": "2023-04-06T14:30:00.000Z",
+      "broadcast": "R/2023-04-06T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "百合 我的 工作"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6425d64155eb4cdc768e398e"
+    },
+    {
+      "site": "mikan",
+      "id": "3029"
+    }
+  ]
 }

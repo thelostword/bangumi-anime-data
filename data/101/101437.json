@@ -149,5 +149,25 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "101437"
+    },
+    {
+      "site": "unext",
+      "id": "SID0018376",
+      "begin": "2019-11-29T03:00:00.000Z",
+      "broadcast": "R/2019-11-29T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "忍者+殺手"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "550ff3ab1fe5c31a190a06b2"
+    }
+  ]
 }

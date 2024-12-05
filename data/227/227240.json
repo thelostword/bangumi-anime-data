@@ -149,5 +149,27 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "227240"
+    },
+    {
+      "site": "nicovideo",
+      "id": "shinkalion",
+      "begin": "2018-01-06T21:00:00.000Z",
+      "broadcast": "R/2018-01-06T21:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0033001",
+      "begin": "2018-01-08T03:00:00.000Z",
+      "broadcast": "R/2018-01-08T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5a43141117d48cbd4a962612"
+    }
+  ]
 }

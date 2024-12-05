@@ -149,5 +149,65 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "28228413",
+      "begin": "2020-04-05T16:00:00.000Z",
+      "broadcast": "R/2020-04-05T16:00:03.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "295707"
+    },
+    {
+      "site": "nicovideo",
+      "id": "shachibato",
+      "begin": "2020-04-10T15:00:00.000Z",
+      "broadcast": "R/2020-04-10T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "108973",
+      "begin": "2020-04-05T16:00:00.000Z",
+      "broadcast": "R/2020-04-05T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UchGSXMUD4MWW_33vC8RxTxR",
+      "begin": "2023-05-04T16:00:00.000Z",
+      "broadcast": "R/2023-05-04T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_tw",
+      "id": "28228481",
+      "begin": "2020-04-05T16:00:03.000Z",
+      "broadcast": "R/2020-04-05T16:00:03.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0047139",
+      "begin": "2020-04-10T15:00:00.000Z",
+      "broadcast": "R/2020-04-10T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "社長 戰鬥"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5e822848657e22f4195cc75a"
+    },
+    {
+      "site": "mikan",
+      "id": "2203"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "108973",
+      "begin": "2020-04-05T16:00:00.000Z",
+      "broadcast": "R/2020-04-05T16:00:00.000Z/P7D"
+    }
+  ]
 }

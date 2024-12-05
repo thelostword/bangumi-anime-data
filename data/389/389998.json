@@ -149,5 +149,53 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "389998"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtSx76-bUBfr_3I8GCK5J9wc",
+      "begin": "2023-04-07T17:00:00.000Z",
+      "broadcast": "R/2023-04-07T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jj20cgTjpBvhYVT_uWtVQrL",
+      "begin": "2023-04-07T17:00:00.000Z",
+      "broadcast": "R/2023-04-07T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "125428",
+      "begin": "2023-04-07T17:00:00.000Z",
+      "broadcast": "R/2023-04-07T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0079601",
+      "begin": "2023-04-07T17:00:00.000Z",
+      "broadcast": "R/2023-04-07T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "BIRDIE WING 2季|二季|2期|二期|S02|S2|2nd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6425d64855eb4cdc768e399e"
+    },
+    {
+      "site": "mikan",
+      "id": "3035"
+    },
+    {
+      "site": "nicovideo",
+      "id": "BIRDIE_WING_2",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

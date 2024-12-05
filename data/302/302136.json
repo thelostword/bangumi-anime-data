@@ -85,5 +85,21 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "302136"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5e8232f6306f1a0007d2d4d5"
+    },
+    {
+      "site": "netflix",
+      "id": "81567663",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

@@ -149,5 +149,83 @@
       "count": 10
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "262897"
+    },
+    {
+      "site": "acfun",
+      "id": "6004596",
+      "begin": ""
+    },
+    {
+      "site": "nicovideo",
+      "id": "yurucamp_second",
+      "begin": "2021-01-12T15:00:00.000Z",
+      "broadcast": "R/2021-01-12T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JhsFhLkiHzyfMeO5unNiOEc",
+      "begin": "2021-01-06T16:00:00.000Z",
+      "broadcast": "R/2021-01-06T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtQa9h9oyOVgk0Q_KBsKnOW5",
+      "begin": "2022-07-20T16:00:00.000Z",
+      "broadcast": "R/2022-07-20T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "mytv",
+      "id": "yurucampii_136999",
+      "begin": "2022-11-12T08:30:00.000Z",
+      "broadcast": "R/2022-11-12T08:30:00.000Z/P7D",
+      "comment": "yurucampii0001_141397"
+    },
+    {
+      "site": "gamer",
+      "id": "101856",
+      "begin": "2021-01-07T15:00:00.000Z",
+      "broadcast": "R/2021-01-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28233483",
+      "begin": "2021-01-07T15:00:00.000Z",
+      "broadcast": "R/2021-01-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "247-5",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0052922",
+      "begin": "2021-01-12T15:00:00.000Z",
+      "broadcast": "R/2021-01-12T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "101856",
+      "begin": "2021-01-07T15:00:00.000Z",
+      "broadcast": "R/2021-01-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "露營 2季|二季|2期|二期|S02|S2|2nd|SEASON2"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ff0435a84202e4c2e99e1ea"
+    },
+    {
+      "site": "mikan",
+      "id": "2345"
+    }
+  ]
 }

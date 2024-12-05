@@ -149,5 +149,18 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "4400"
+    },
+    {
+      "site": "bilibili",
+      "id": "2254",
+      "begin": "1998-04-02T16:00:00.000Z",
+      "broadcast": "R/2011-01-29T02:43:00.000Z/P7D",
+      "comment": "黑歷史: 2492"
+    }
+  ]
 }

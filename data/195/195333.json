@@ -149,5 +149,24 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "195333"
+    },
+    {
+      "site": "unext",
+      "id": "SID0064799",
+      "begin": "2023-07-05T15:00:00.000Z",
+      "broadcast": "R/2023-07-05T15:00:00.000Z/P7D",
+      "comment": "Glory, Decide: SID0064798"
+    },
+    {
+      "site": "bilibili",
+      "id": "28412314",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

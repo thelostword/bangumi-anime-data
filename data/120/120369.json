@@ -149,5 +149,41 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "2581",
+      "begin": "2015-07-04T04:00:00.000Z",
+      "broadcast": "R/2015-07-09T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "120369"
+    },
+    {
+      "site": "nicovideo",
+      "id": "hetalia-World-Twinkle",
+      "begin": "2015-07-09T15:00:00.000Z",
+      "broadcast": "R/2015-07-09T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0027700",
+      "begin": "2017-01-26T03:00:00.000Z",
+      "broadcast": "R/2017-01-26T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "塔利"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5594ceffa0b788232ee35264"
+    },
+    {
+      "site": "mikan",
+      "id": "532"
+    }
+  ]
 }

@@ -149,5 +149,70 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "f13b345dc27e11e68fae",
+      "begin": "2017-01-06T14:30:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "167655"
+    },
+    {
+      "site": "nicovideo",
+      "id": "youjo-senki",
+      "begin": "2017-01-19T15:00:00.000Z",
+      "broadcast": "R/2017-01-19T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "qq",
+      "id": "t/ty44odmyxqmkg2v",
+      "begin": ""
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JipogV7W74-hbDbYaQx78Oq",
+      "begin": "2020-11-23T16:00:00.000Z",
+      "broadcast": "R/2020-11-23T16:00:00.000Z/P7D",
+      "comment": "含OVA"
+    },
+    {
+      "site": "gamer",
+      "id": "86802",
+      "begin": "2017-01-06T18:40:00.000Z",
+      "broadcast": "R/2017-01-06T18:40:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28221622",
+      "begin": "2019-07-17T03:35:28.000Z",
+      "broadcast": "R/2019-07-17T03:35:28.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0027973",
+      "begin": "2018-07-12T03:00:00.000Z",
+      "broadcast": "R/2018-07-12T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "86802",
+      "begin": "2017-01-06T18:40:00.000Z",
+      "broadcast": "R/2017-01-06T18:40:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "幼女戰記"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5869a8f3efe56b1860c8f822"
+    },
+    {
+      "site": "mikan",
+      "id": "1173"
+    }
+  ]
 }

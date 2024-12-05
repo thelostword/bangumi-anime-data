@@ -149,5 +149,59 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "287488"
+    },
+    {
+      "site": "bilibili",
+      "id": "28233251",
+      "begin": "2021-04-08T15:45:01.000Z",
+      "broadcast": "R/2021-04-08T15:45:01.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "106934",
+      "begin": "2021-04-08T15:45:00.000Z",
+      "broadcast": "R/2021-04-08T15:45:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Uch8ZEfM-EYB6d7DulRBsKle",
+      "begin": "2021-04-08T15:45:00.000Z",
+      "broadcast": "R/2021-04-08T15:45:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0056108",
+      "begin": "2021-04-11T14:30:00.000Z",
+      "broadcast": "R/2021-04-11T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "106934",
+      "begin": "2021-04-08T15:45:00.000Z",
+      "broadcast": "R/2021-04-08T15:45:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "佐賀 revenge|S02"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6065f098eaf504d0216b77a9"
+    },
+    {
+      "site": "mikan",
+      "id": "2445"
+    },
+    {
+      "site": "nicovideo",
+      "id": "zombielandsaga-r",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

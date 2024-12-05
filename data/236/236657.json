@@ -149,5 +149,49 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "236657"
+    },
+    {
+      "site": "gamer",
+      "id": "121103",
+      "begin": "2022-10-01T09:30:00.000Z",
+      "broadcast": "R/2022-10-01T09:30:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "80135674",
+      "begin": "2021-03-28T16:00:00.000Z",
+      "broadcast": "R/2021-03-28T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "viu",
+      "id": "2170062",
+      "begin": "2023-03-31T16:00:00.000Z",
+      "broadcast": "R/2023-03-31T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0073152",
+      "begin": "2022-10-08T09:00:00.000Z",
+      "broadcast": "R/2022-10-08T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "121103",
+      "begin": "2022-10-01T09:30:00.000Z",
+      "broadcast": "R/2022-10-01T09:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "我的英雄學院 六季"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "632762d42eaf6e578875f7fa"
+    }
+  ]
 }

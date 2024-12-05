@@ -149,5 +149,47 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "28c17ee4d20411e4b522",
+      "begin": "2015-04-04T15:30:00.000Z",
+      "broadcast": "R/2015-04-04T13:41:40.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhay9ld",
+      "begin": "2015-04-04T15:30:00.000Z",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "119677"
+    },
+    {
+      "site": "nicovideo",
+      "id": "guns_project",
+      "begin": "2015-04-04T15:00:00.000Z",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0010758",
+      "begin": "2021-01-07T03:00:00.000Z",
+      "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Gunslinger+Stratos"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "550fde6b1fe5c31a190a0696"
+    },
+    {
+      "site": "mikan",
+      "id": "488"
+    }
+  ]
 }

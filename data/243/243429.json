@@ -149,5 +149,39 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "243429"
+    },
+    {
+      "site": "netflix",
+      "id": "81439253",
+      "begin": "2021-06-30T16:00:00.000Z",
+      "broadcast": "R/2021-06-30T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28234742",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0062010",
+      "begin": "2021-10-15T15:00:00.000Z",
+      "broadcast": "R/2021-10-15T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "2486"
+    },
+    {
+      "site": "nicovideo",
+      "id": "gundam-hathaway",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

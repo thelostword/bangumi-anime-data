@@ -149,5 +149,27 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "23056"
+    },
+    {
+      "site": "bilibili",
+      "id": "892",
+      "begin": "2011-10-03T16:00:00.000Z",
+      "broadcast": "R/2011-10-14T13:20:10.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0047505",
+      "begin": "2020-05-21T03:00:00.000Z",
+      "broadcast": "R/2020-05-21T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "戰國+天堂"
+    }
+  ]
 }

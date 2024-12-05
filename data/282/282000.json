@@ -149,5 +149,53 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "282000"
+    },
+    {
+      "site": "bilibili",
+      "id": "28231808",
+      "begin": "2021-01-07T17:28:00.000Z",
+      "broadcast": "R/2021-01-07T17:28:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "5hanayome2",
+      "begin": "2021-01-08T03:00:00.000Z",
+      "broadcast": "R/2021-01-08T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28233487",
+      "begin": "2021-01-07T17:28:00.000Z",
+      "broadcast": "R/2021-01-07T17:28:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "189-11",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0052903",
+      "begin": "2021-01-08T03:00:00.000Z",
+      "broadcast": "R/2021-01-08T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "五等分 2季|二季|2期|二期|S02|S2|2nd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ff046dc5ff4024d23db2bdc"
+    },
+    {
+      "site": "mikan",
+      "id": "2349"
+    }
+  ]
 }

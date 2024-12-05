@@ -149,5 +149,38 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "18004"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ikamusume-02",
+      "begin": "2011-10-03T15:30:00.000Z",
+      "broadcast": "R/2011-10-03T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "e18c485861ad11e0bea1",
+      "begin": "2011-10-04T17:52:43.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002653",
+      "begin": "2015-12-17T03:00:00.000Z",
+      "broadcast": "R/2015-12-17T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "144-2bhztumsijw",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "侵略+娘"
+    }
+  ]
 }

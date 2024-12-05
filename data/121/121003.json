@@ -149,5 +149,37 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "2615",
+      "begin": "2015-07-03T14:20:00.000Z",
+      "broadcast": "R/2015-07-03T14:20:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "121003"
+    },
+    {
+      "site": "nicovideo",
+      "id": "wooser-tv-mugen",
+      "begin": "2015-07-03T14:30:00.000Z",
+      "broadcast": "R/2015-07-03T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0018933",
+      "begin": "2019-05-14T03:00:00.000Z",
+      "broadcast": "R/2019-05-14T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5594d955a0b788232ee35270"
+    },
+    {
+      "site": "mikan",
+      "id": "535"
+    }
+  ]
 }

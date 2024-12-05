@@ -149,5 +149,35 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "445722"
+    },
+    {
+      "site": "unext",
+      "id": "SID0104148",
+      "begin": "2024-07-15T16:00:00.000Z",
+      "broadcast": "R/2024-07-15T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6681471e57ba1568dc1b07e8"
+    },
+    {
+      "site": "abema",
+      "id": "25-265",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "雙生戀情|雙子除盡"
+    },
+    {
+      "site": "mikan",
+      "id": "3382"
+    }
+  ]
 }

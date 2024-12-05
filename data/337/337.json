@@ -149,5 +149,22 @@
       "count": 12
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "337"
+    },
+    {
+      "site": "nicovideo",
+      "id": "fullmetal-panic-secondraid",
+      "begin": "2019-10-14T06:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0013378",
+      "begin": "2018-04-20T03:00:00.000Z",
+      "broadcast": "R/2018-04-20T03:00:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,29 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "320215"
+    },
+    {
+      "site": "unext",
+      "id": "SID0157084",
+      "begin": "2024-10-03T03:00:00.000Z",
+      "broadcast": "R/2024-10-03T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "hyakuyoufu_02",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "abema",
+      "id": "19-188",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

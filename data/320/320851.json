@@ -149,5 +149,47 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "320851"
+    },
+    {
+      "site": "bilibili",
+      "id": "28234625",
+      "begin": "2021-07-05T17:00:01.000Z",
+      "broadcast": "R/2021-07-05T17:00:01.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28234720",
+      "begin": "2021-07-05T17:00:01.000Z",
+      "broadcast": "R/2021-07-05T17:00:01.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "169-116",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0058465",
+      "begin": "2021-07-11T03:00:00.000Z",
+      "broadcast": "R/2021-07-11T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "精靈幻想記"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "60de5d9c06c78696e4d11604"
+    },
+    {
+      "site": "mikan",
+      "id": "2518"
+    }
+  ]
 }

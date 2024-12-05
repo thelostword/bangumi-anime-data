@@ -149,5 +149,41 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "18692"
+    },
+    {
+      "site": "bilibili",
+      "id": "28228115",
+      "begin": "2020-03-07T05:16:00.000Z",
+      "broadcast": "R/2020-03-07T05:16:00.000Z/P7D",
+      "comment": "第二季: 28228116, 第三季: 28228117, 第四季: 28338738"
+    },
+    {
+      "site": "abema",
+      "id": "35-53",
+      "begin": "",
+      "broadcast": "",
+      "comment": "ドラえもん: 87-1084"
+    },
+    {
+      "site": "unext",
+      "id": "SID0076016",
+      "begin": "2022-12-14T15:00:00.000Z",
+      "broadcast": "R/2022-12-14T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "681"
+    },
+    {
+      "site": "gamer",
+      "id": "140603",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

@@ -149,5 +149,16 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "280"
+    },
+    {
+      "site": "nicovideo",
+      "id": "cossette",
+      "begin": "2015-11-06T06:00:00.000Z"
+    }
+  ]
 }

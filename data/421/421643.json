@@ -149,5 +149,37 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "421643"
+    },
+    {
+      "site": "nicovideo",
+      "id": "potion-anime",
+      "begin": "2023-10-10T15:00:00.000Z",
+      "broadcast": "R/2023-10-10T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "189-57",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0091710",
+      "begin": "2023-10-10T15:00:00.000Z",
+      "broadcast": "R/2023-10-10T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "65186f8f4c90aa63daeaa257"
+    },
+    {
+      "site": "mikan",
+      "id": "3150"
+    }
+  ]
 }

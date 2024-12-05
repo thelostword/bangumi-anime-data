@@ -149,5 +149,36 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "8581ce084a9811e3b8b7",
+      "begin": "2014-01-05T16:35:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "87625"
+    },
+    {
+      "site": "nicovideo",
+      "id": "nobunaga",
+      "begin": "2014-01-10T15:30:00.000Z",
+      "broadcast": "R/2014-01-10T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002770",
+      "begin": "2024-01-10T03:00:00.000Z",
+      "broadcast": "R/2024-01-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "者信|Nobunaga"
+    },
+    {
+      "site": "mikan",
+      "id": "266"
+    }
+  ]
 }

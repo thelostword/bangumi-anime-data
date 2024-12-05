@@ -149,5 +149,43 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "363600"
+    },
+    {
+      "site": "bilibili",
+      "id": "28339726",
+      "begin": "2022-10-01T17:00:00.000Z",
+      "broadcast": "R/2022-10-01T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28338857",
+      "begin": "2022-10-01T17:00:01.000Z",
+      "broadcast": "R/2022-10-01T17:00:01.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "hoshiiro-tv2",
+      "begin": "2023-03-18T03:00:00.000Z",
+      "broadcast": "R/2023-03-18T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0073123",
+      "begin": "2023-03-17T15:00:00.000Z",
+      "broadcast": "R/2023-03-17T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "POP TEAM EPIC 2季|二季|2期|二期|S02|S2|2nd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "632762da2eaf6e578875f80c"
+    }
+  ]
 }

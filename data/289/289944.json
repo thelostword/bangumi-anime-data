@@ -149,5 +149,23 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "289944"
+    },
+    {
+      "site": "nicovideo",
+      "id": "mdzs2",
+      "begin": "2023-01-11T03:00:00.000Z",
+      "broadcast": "R/2023-01-11T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0077586",
+      "begin": "2023-01-11T03:00:00.000Z",
+      "broadcast": "R/2023-01-11T03:00:00.000Z/P7D"
+    }
+  ]
 }

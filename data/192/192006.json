@@ -97,5 +97,23 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "192006"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002995",
+      "begin": "2017-10-26T03:00:00.000Z",
+      "broadcast": "R/2017-10-26T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "117-15",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

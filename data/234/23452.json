@@ -149,5 +149,22 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "23452"
+    },
+    {
+      "site": "nicovideo",
+      "id": "makibao-anime",
+      "begin": "2017-03-10T09:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0011793",
+      "begin": "2024-09-30T15:00:00.000Z",
+      "broadcast": "R/2024-09-30T15:00:00.000Z/P7D"
+    }
+  ]
 }

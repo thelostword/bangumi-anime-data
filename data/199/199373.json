@@ -149,5 +149,31 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "199373"
+    },
+    {
+      "site": "netflix",
+      "id": "80204451",
+      "begin": "2018-12-18T00:00:00.000Z",
+      "broadcast": "R/2018-12-18T00:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0042349",
+      "begin": "2019-08-01T03:00:00.000Z",
+      "broadcast": "R/2019-08-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5b38d020f1a82c8443d7fc95"
+    },
+    {
+      "site": "mikan",
+      "id": "1682"
+    }
+  ]
 }

@@ -149,5 +149,32 @@
       "count": 9
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "10278"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ch60022",
+      "begin": "2011-05-20T17:30:00.000Z",
+      "broadcast": "R/2011-05-20T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "1631",
+      "begin": "2011-04-01T16:00:00.000Z",
+      "broadcast": "R/2017-11-02T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "3f9a2eb49b1611e0a046",
+      "begin": "2012-07-18T05:13:40.000Z"
+    },
+    {
+      "site": "dmhy",
+      "id": "DOG+DAYS"
+    }
+  ]
 }

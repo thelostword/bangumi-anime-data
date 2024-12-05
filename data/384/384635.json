@@ -149,5 +149,39 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "384635"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28338457",
+      "begin": "2022-07-06T15:00:00.000Z",
+      "broadcast": "R/2022-07-06T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28338744",
+      "begin": "2022-08-31T15:00:01.000Z",
+      "broadcast": "R/2022-08-31T15:00:01.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "arsnotoria-anime",
+      "begin": "2022-07-10T15:00:00.000Z",
+      "broadcast": "R/2022-07-10T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0069698",
+      "begin": "2022-07-06T15:00:00.000Z",
+      "broadcast": "R/2022-07-06T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "62c125ac2fc3ee0d0016bf4a"
+    }
+  ]
 }

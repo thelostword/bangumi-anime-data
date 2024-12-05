@@ -133,5 +133,27 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "f/feuy7gwbvk0a5p1",
+      "begin": ""
+    },
+    {
+      "site": "mgtv",
+      "id": "49139",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "53938"
+    },
+    {
+      "site": "bilibili",
+      "id": "2415",
+      "begin": "2018-11-13T04:53:00.000Z",
+      "broadcast": "R/2018-11-13T04:53:00.000Z/P7D"
+    }
+  ]
 }

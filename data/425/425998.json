@@ -149,5 +149,59 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "425998"
+    },
+    {
+      "site": "nicovideo",
+      "id": "re-zero-anime_03",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3464"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66fb601789c3a6ce864cbcb9"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "131251",
+      "begin": "2024-10-02T13:25:00.000Z",
+      "broadcast": "R/2024-10-02T13:25:00.000Z/P7D"
+    },
+    {
+      "site": "viu",
+      "id": "2434039",
+      "begin": "2024-10-02T13:25:37.000Z",
+      "broadcast": "R/2024-10-02T13:25:37.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-139",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0157051",
+      "begin": "2024-10-05T14:00:00.000Z",
+      "broadcast": "R/2024-10-05T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "131251",
+      "begin": "2024-10-02T13:25:00.000Z",
+      "broadcast": "R/2024-10-02T13:25:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "從零 3季|三季|3期|三期|S03|S3|3rd"
+    }
+  ]
 }

@@ -149,5 +149,27 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "6933"
+    },
+    {
+      "site": "nicovideo",
+      "id": "hyakka-ryoran",
+      "begin": "2013-03-15T06:00:00.000Z",
+      "broadcast": "R/2013-03-15T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0011675",
+      "begin": "2014-08-29T06:00:00.000Z",
+      "broadcast": "R/2014-08-29T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "百花"
+    }
+  ]
 }

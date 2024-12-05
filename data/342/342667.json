@@ -149,5 +149,71 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "342667"
+    },
+    {
+      "site": "nicovideo",
+      "id": "konosuba_3rd",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0100051",
+      "begin": "2024-04-13T14:00:00.000Z",
+      "broadcast": "R/2024-04-13T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-40xx2hk3u5ai",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtSD95wSkYycIuRqLZUgwbyr",
+      "begin": "2024-04-10T15:00:07.000Z",
+      "broadcast": "R/2024-04-10T15:00:07.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JhqZQW_-rc90fYAIV5dymcF",
+      "begin": "2024-04-10T15:00:08.000Z",
+      "broadcast": "R/2024-04-10T15:00:08.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "118719",
+      "begin": "2024-04-10T15:00:00.000Z",
+      "broadcast": "R/2024-04-10T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "1cDpTZwUiPAV",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "118719",
+      "begin": "2024-04-10T15:00:00.000Z",
+      "broadcast": "R/2024-04-10T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "美好 世界 3季|三季|3期|三期|S03|S3|3rd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66097bc016e6bbcc806d342a"
+    },
+    {
+      "site": "mikan",
+      "id": "3299"
+    }
+  ]
 }

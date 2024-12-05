@@ -149,5 +149,27 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "314366"
+    },
+    {
+      "site": "nicovideo",
+      "id": "shenmue-anime",
+      "begin": "2022-04-07T03:00:00.000Z",
+      "broadcast": "R/2022-04-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0067372",
+      "begin": "2022-04-07T03:00:00.000Z",
+      "broadcast": "R/2022-04-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "62022b5c8937cd000779c6a1"
+    }
+  ]
 }

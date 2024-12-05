@@ -149,5 +149,35 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "c4dde3c0f69111e3b2ad",
+      "begin": "2014-07-07T17:35:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "91222"
+    },
+    {
+      "site": "nicovideo",
+      "id": "hanayamata",
+      "begin": "2014-07-11T14:30:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002796",
+      "begin": "2016-10-27T03:00:00.000Z",
+      "broadcast": "R/2016-10-27T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "舞少"
+    },
+    {
+      "site": "mikan",
+      "id": "373"
+    }
+  ]
 }

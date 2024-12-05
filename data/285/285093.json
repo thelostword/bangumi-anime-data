@@ -149,5 +149,59 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "285093"
+    },
+    {
+      "site": "bilibili",
+      "id": "28224121",
+      "begin": "2020-01-09T16:30:00.000Z",
+      "broadcast": "R/2020-01-09T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UciBWxOuVdi7xaQn9m0cTlLT",
+      "begin": "2020-02-25T16:00:00.000Z",
+      "broadcast": "R/2020-02-25T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "108087",
+      "begin": "2020-01-09T16:30:00.000Z",
+      "broadcast": "R/2020-01-09T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0045496",
+      "begin": "2020-01-12T03:00:00.000Z",
+      "broadcast": "R/2020-01-12T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "謎鑑定"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5e1b4f004f7a796559d914de"
+    },
+    {
+      "site": "mikan",
+      "id": "2124"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "108087",
+      "begin": "2020-01-09T16:30:00.000Z",
+      "broadcast": "R/2020-01-09T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "jeweler-richard",
+      "begin": "2020-01-11T03:00:00.000Z",
+      "broadcast": "R/2020-01-11T03:00:00.000Z/P7D"
+    }
+  ]
 }

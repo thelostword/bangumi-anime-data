@@ -149,5 +149,16 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "45240"
+    },
+    {
+      "site": "nicovideo",
+      "id": "berserkfilm",
+      "begin": "2017-03-03T06:00:00.000Z"
+    }
+  ]
 }

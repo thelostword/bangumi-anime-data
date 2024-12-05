@@ -73,5 +73,24 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "187704"
+    },
+    {
+      "site": "nicovideo",
+      "id": "Tama-anime",
+      "begin": "2017-01-26T15:00:00.000Z",
+      "broadcast": "R/2017-01-26T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0026754",
+      "begin": "2019-11-30T03:00:00.000Z",
+      "broadcast": "R/2019-11-30T03:00:00.000Z/P7D",
+      "comment": "シーズン2: SID0044948"
+    }
+  ]
 }

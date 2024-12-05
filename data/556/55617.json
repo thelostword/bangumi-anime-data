@@ -121,5 +121,16 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "55617"
+    },
+    {
+      "site": "bilibili",
+      "id": "2024",
+      "begin": "2002-07-02T16:00:00.000Z"
+    }
+  ]
 }

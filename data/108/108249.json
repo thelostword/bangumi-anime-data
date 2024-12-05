@@ -121,5 +121,22 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "108249"
+    },
+    {
+      "site": "nicovideo",
+      "id": "bch-jinmenken",
+      "begin": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "4134",
+      "begin": "2014-07-10T16:00:01.000Z",
+      "broadcast": "R/2016-05-27T07:05:02.000Z/P7D"
+    }
+  ]
 }

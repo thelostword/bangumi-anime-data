@@ -149,5 +149,43 @@
       "count": 11
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "339326"
+    },
+    {
+      "site": "netflix",
+      "id": "81499847",
+      "begin": "2022-07-05T16:00:00.000Z",
+      "broadcast": "R/2022-07-05T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28338491",
+      "begin": "2022-08-31T13:00:01.000Z",
+      "broadcast": "R/2022-08-31T13:00:01.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "isekaiojisan",
+      "begin": "2022-07-06T14:30:00.000Z",
+      "broadcast": "R/2022-07-06T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0069672",
+      "begin": "2022-07-06T14:30:00.000Z",
+      "broadcast": "R/2022-07-06T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "異世界 舅舅"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "62c6ce11f248710007e811b1"
+    }
+  ]
 }

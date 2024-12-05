@@ -149,5 +149,39 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhb5shh",
+      "begin": "2015-07-05T03:00:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "132220"
+    },
+    {
+      "site": "viu",
+      "id": "72669",
+      "begin": "2021-05-27T16:00:00.000Z",
+      "broadcast": "R/2021-05-27T16:00:00.000Z/P7D",
+      "comment": "粵語版:363842"
+    },
+    {
+      "site": "unext",
+      "id": "SID0029410",
+      "begin": "2017-08-10T03:00:00.000Z",
+      "broadcast": "R/2017-08-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "珠+超"
+    },
+    {
+      "site": "abema",
+      "id": "5-30",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

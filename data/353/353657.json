@@ -149,5 +149,73 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "353657"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28237181",
+      "begin": "2022-04-05T14:30:00.000Z",
+      "broadcast": "R/2022-04-05T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "120204",
+      "begin": "2022-04-05T14:30:00.000Z",
+      "broadcast": "R/2022-04-05T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jhzv3dEqiEWHhlXoQfWAk0w",
+      "begin": "2022-04-04T15:00:00.000Z",
+      "broadcast": "R/2022-04-04T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "viu",
+      "id": "431397",
+      "begin": "2022-04-04T16:00:00.000Z",
+      "broadcast": "R/2022-04-04T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtQ_5d-HQokIZBsnnsoQ-yVD",
+      "begin": "2022-07-28T16:00:00.000Z",
+      "broadcast": "R/2022-07-28T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81594273",
+      "begin": "2023-07-30T16:00:00.000Z",
+      "broadcast": "R/2023-07-30T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "yuuyame",
+      "begin": "2022-04-12T14:30:00.000Z",
+      "broadcast": "R/2022-04-12T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0066881",
+      "begin": "2022-04-12T14:30:00.000Z",
+      "broadcast": "R/2022-04-12T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "120204",
+      "begin": "2022-04-05T14:30:00.000Z",
+      "broadcast": "R/2022-04-05T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "勇者 辭職"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6247749f70e8f89b23a18540"
+    }
+  ]
 }

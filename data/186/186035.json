@@ -125,5 +125,37 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5555",
+      "begin": "2016-10-05T15:15:09.000Z",
+      "broadcast": "R/2016-10-05T15:15:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "186035"
+    },
+    {
+      "site": "nicovideo",
+      "id": "cranegale-Galaxy",
+      "begin": "2016-10-07T15:00:00.000Z",
+      "broadcast": "R/2016-10-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0027758",
+      "begin": "2019-12-17T09:00:00.000Z",
+      "broadcast": "R/2019-12-17T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "57efb9fcac5b9d0762d174bc"
+    },
+    {
+      "site": "mikan",
+      "id": "851"
+    }
+  ]
 }

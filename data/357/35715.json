@@ -149,5 +149,33 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "35715"
+    },
+    {
+      "site": "nicovideo",
+      "id": "hakuoki_reimeiroku",
+      "begin": "2012-07-12T14:00:00.000Z",
+      "broadcast": "R/2012-07-12T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "763",
+      "begin": "2012-07-08T16:00:00.000Z",
+      "broadcast": "R/2012-07-01T17:48:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002371",
+      "begin": "2015-02-16T15:00:00.000Z",
+      "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "黎明录"
+    }
+  ]
 }

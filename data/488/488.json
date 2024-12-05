@@ -149,5 +149,28 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "488"
+    },
+    {
+      "site": "nicovideo",
+      "id": "d-gray-man",
+      "begin": "2016-04-22T03:00:00.000Z",
+      "broadcast": "R/2016-04-22T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "cc002e92962411de83b1",
+      "begin": "2012-11-01T02:31:32.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0022319",
+      "begin": "2016-03-24T03:00:00.000Z",
+      "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+    }
+  ]
 }

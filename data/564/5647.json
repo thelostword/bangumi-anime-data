@@ -149,5 +149,27 @@
       "count": 19
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "5647"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ch326",
+      "begin": "2010-07-09T03:00:00.000Z",
+      "broadcast": "R/2010-07-09T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002520",
+      "begin": "2018-04-13T03:00:00.000Z",
+      "broadcast": "R/2018-04-13T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "學園默示錄"
+    }
+  ]
 }

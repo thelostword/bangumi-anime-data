@@ -149,5 +149,37 @@
       "count": 16
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "68812"
+    },
+    {
+      "site": "nicovideo",
+      "id": "monogatari-series-2nd",
+      "begin": "2013-07-11T14:00:00.000Z",
+      "broadcast": ""
+    },
+    {
+      "site": "abema",
+      "id": "26-2mzbynr-cph",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0017168",
+      "begin": "2018-11-08T03:00:00.000Z",
+      "broadcast": "R/2018-11-08T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "语系|語系|华+物"
+    },
+    {
+      "site": "mikan",
+      "id": "234"
+    }
+  ]
 }

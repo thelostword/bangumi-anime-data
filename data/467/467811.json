@@ -149,5 +149,53 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "467811"
+    },
+    {
+      "site": "unext",
+      "id": "SID0104166",
+      "begin": "2024-07-07T16:50:00.000Z",
+      "broadcast": "R/2024-07-07T16:50:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6681471857ba1568dc1b07ce"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Ucgl_Oo9xByaEAHH5UPe1fOh",
+      "begin": "2024-07-07T17:20:00.000Z",
+      "broadcast": "R/2024-07-07T17:20:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "136694",
+      "begin": "2024-07-07T16:50:00.000Z",
+      "broadcast": "R/2024-07-07T16:50:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "136694",
+      "begin": "2024-07-07T16:50:00.000Z",
+      "broadcast": "R/2024-07-07T16:50:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "413-12",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "異世界悠閒紀行"
+    },
+    {
+      "site": "mikan",
+      "id": "3378"
+    }
+  ]
 }

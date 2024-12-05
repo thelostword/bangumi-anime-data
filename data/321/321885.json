@@ -149,5 +149,96 @@
       "count": 17
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "321885"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28339623",
+      "begin": "2022-10-11T16:00:00.000Z",
+      "broadcast": "R/2022-10-11T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "110764",
+      "begin": "2022-10-18T16:00:00.000Z",
+      "broadcast": "R/2022-10-18T16:00:00.000Z/P7D",
+      "comment": "因代理授權限制，晚一週更新、限付費會員觀賞"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JhfvHiWN-djJjCOjW8rxA6p",
+      "begin": "2022-10-11T16:00:00.000Z",
+      "broadcast": "R/2022-10-11T16:00:00.000Z/P7D",
+      "comment": "下列地區晚一週更新：孟加拉國、不丹、香港、印度、印度尼西亞、澳門、馬來西亞、馬爾代夫、尼泊爾、巴基斯坦、菲律賓、新加坡、台灣、泰國、越南"
+    },
+    {
+      "site": "netflix",
+      "id": "81215627",
+      "begin": "2022-10-18T00:00:00.000Z",
+      "broadcast": "R/2022-10-18T00:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtRkJuHbcOt7-dSS7vKrjtHz",
+      "begin": "2023-03-09T16:00:00.000Z",
+      "broadcast": "R/2023-03-09T16:00:00.000Z/P7D",
+      "comment": "粵語配音"
+    },
+    {
+      "site": "viu",
+      "id": "2080799",
+      "begin": "2023-02-23T16:00:00.000Z",
+      "broadcast": "R/2023-02-23T16:00:00.000Z/P7D",
+      "comment": "粵語版: 2089454"
+    },
+    {
+      "site": "bilibili_hk_mo",
+      "id": "20136566",
+      "begin": "2023-03-10T10:00:01.000Z",
+      "broadcast": "R/2023-03-10T10:00:01.000Z/P7D",
+      "comment": "粵配版"
+    },
+    {
+      "site": "nicovideo",
+      "id": "chainsawman",
+      "begin": "2022-10-12T16:00:00.000Z",
+      "broadcast": "R/2022-10-12T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "536-3",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0073134",
+      "begin": "2022-10-12T16:00:00.000Z",
+      "broadcast": "R/2022-10-12T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "2gMK1kC3JIEh",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "110764",
+      "begin": "2022-10-18T16:00:00.000Z",
+      "broadcast": "R/2022-10-18T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "鋸人"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "632762c72eaf6e578875f7d2"
+    }
+  ]
 }

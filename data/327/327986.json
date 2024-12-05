@@ -129,5 +129,35 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "327986"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kurogal_cf-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "變身 死黨"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6065f090eaf504d0216b777f"
+    },
+    {
+      "site": "mikan",
+      "id": "2412"
+    },
+    {
+      "site": "unext",
+      "id": "SID0056624",
+      "begin": "2024-11-12T03:00:00.000Z",
+      "broadcast": "R/2024-11-12T03:00:00.000Z/P7D"
+    }
+  ]
 }

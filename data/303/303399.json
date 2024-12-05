@@ -149,5 +149,53 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "303399"
+    },
+    {
+      "site": "gamer",
+      "id": "110755",
+      "begin": "2021-03-27T09:30:00.000Z",
+      "broadcast": "R/2021-03-27T09:30:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "80135674",
+      "begin": "2022-08-30T16:00:00.000Z",
+      "broadcast": "R/2022-08-30T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "1WUo7sgngr1w",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0056118",
+      "begin": "2021-04-03T09:00:00.000Z",
+      "broadcast": "R/2021-04-03T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "110755",
+      "begin": "2021-03-27T09:30:00.000Z",
+      "broadcast": "R/2021-03-27T09:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "英雄學院 5季|五季|5期|五期|S05|S5|5th"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6065f09feaf504d0216b77cb"
+    },
+    {
+      "site": "mikan",
+      "id": "2422"
+    }
+  ]
 }

@@ -133,5 +133,27 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "221018"
+    },
+    {
+      "site": "nicovideo",
+      "id": "cf-vanguard-gz",
+      "begin": "2017-10-10T12:00:00.000Z",
+      "broadcast": "R/2017-10-10T12:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0058900",
+      "begin": "2021-06-22T03:00:00.000Z",
+      "broadcast": "R/2021-06-22T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "59d0cb80fb34aac154710bc5"
+    }
+  ]
 }

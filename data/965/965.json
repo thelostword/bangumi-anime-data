@@ -149,5 +149,45 @@
       "count": 29
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "965"
+    },
+    {
+      "site": "nicovideo",
+      "id": "baccano-anime",
+      "begin": "2017-07-29T15:00:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "1359",
+      "begin": "2007-07-25T16:00:00.000Z",
+      "broadcast": "R/2012-10-15T10:55:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "cc00729e962411de83b1",
+      "begin": "2011-11-03T15:47:00.000Z"
+    },
+    {
+      "site": "gamer",
+      "id": "16779",
+      "begin": "2020-10-31T16:00:00.000Z",
+      "broadcast": "R/2020-10-31T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0016327",
+      "begin": "2018-11-29T03:00:00.000Z",
+      "broadcast": "R/2018-11-29T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "16779",
+      "begin": "2020-10-31T16:00:00.000Z",
+      "broadcast": "R/2020-10-31T16:00:00.000Z/P7D"
+    }
+  ]
 }

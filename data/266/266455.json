@@ -149,5 +149,79 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "266455"
+    },
+    {
+      "site": "bilibili",
+      "id": "21984454",
+      "begin": "2019-04-05T17:23:00.000Z",
+      "broadcast": "R/2019-04-05T17:23:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "fruba",
+      "begin": "2019-04-13T03:00:00.000Z",
+      "broadcast": "R/2019-04-06T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhuwmw1",
+      "begin": "2019-04-05T17:20:04.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "bdfeb430c54f4fdb8e4d",
+      "begin": "2019-04-05T17:21:16.000Z"
+    },
+    {
+      "site": "netflix",
+      "id": "80987063",
+      "begin": "2021-01-28T16:00:00.000Z",
+      "broadcast": "R/2021-01-28T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "102570",
+      "begin": "2019-04-12T17:25:00.000Z",
+      "broadcast": "R/2019-04-12T17:25:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo",
+      "id": "26341584",
+      "begin": "2019-04-05T17:23:00.000Z",
+      "broadcast": "R/2019-04-05T17:23:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "5m4JmjCRX6kH",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0040355",
+      "begin": "2019-04-09T03:00:00.000Z",
+      "broadcast": "R/2019-04-09T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "168-26",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "102570",
+      "begin": "2019-04-12T17:25:00.000Z",
+      "broadcast": "R/2019-04-12T17:25:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "1915"
+    }
+  ]
 }

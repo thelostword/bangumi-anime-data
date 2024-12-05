@@ -149,5 +149,31 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "320857"
+    },
+    {
+      "site": "unext",
+      "id": "SID0089800",
+      "begin": "2023-07-23T03:00:00.000Z",
+      "broadcast": "R/2023-07-23T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ff0433484202e4c2e99e1a8"
+    },
+    {
+      "site": "mikan",
+      "id": "2419"
+    },
+    {
+      "site": "abema",
+      "id": "5-62",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

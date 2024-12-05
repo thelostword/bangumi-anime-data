@@ -149,5 +149,34 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhb26ut",
+      "begin": "2015-09-02T05:50:24.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "91135"
+    },
+    {
+      "site": "nicovideo",
+      "id": "majinbone",
+      "begin": "2014-04-04T03:00:00.000Z",
+      "broadcast": "R/2014-04-04T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "魔+骨"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "548efbd280f39e1639da2442"
+    },
+    {
+      "site": "mikan",
+      "id": "291"
+    }
+  ]
 }

@@ -85,5 +85,27 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "240778"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhtelft",
+      "begin": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "27601888",
+      "begin": "2019-04-11T12:49:00.000Z",
+      "broadcast": "R/2019-04-11T13:09:14.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "ecfa574023c3440fa38b",
+      "begin": ""
+    }
+  ]
 }

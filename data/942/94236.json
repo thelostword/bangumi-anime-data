@@ -149,5 +149,40 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrgif399",
+      "begin": "2014-07-03T20:56:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "4124",
+      "begin": "2014-07-03T20:56:00.000Z",
+      "broadcast": "R/2017-01-23T10:45:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "94236"
+    },
+    {
+      "site": "nicovideo",
+      "id": "locodol",
+      "begin": "2014-07-15T03:00:00.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "b1e710a2e43311e5b2ad",
+      "begin": "2014-09-25T12:29:19.000Z"
+    },
+    {
+      "site": "dmhy",
+      "id": "生要|locodol"
+    },
+    {
+      "site": "mikan",
+      "id": "339"
+    }
+  ]
 }

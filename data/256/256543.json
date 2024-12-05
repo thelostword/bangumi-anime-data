@@ -149,5 +149,32 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "256543"
+    },
+    {
+      "site": "bilibili",
+      "id": "121632",
+      "begin": "2018-08-10T02:00:00.000Z",
+      "broadcast": "R/2018-08-10T02:00:00.000Z/P7D",
+      "comment": "第二季: 28220802, 第三季: 28228449"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh5d28h",
+      "begin": "2018-08-10T02:00:10.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "2b3198dba4224afeb63c",
+      "begin": ""
+    },
+    {
+      "site": "mikan",
+      "id": "1734"
+    }
+  ]
 }

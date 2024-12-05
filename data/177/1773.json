@@ -149,5 +149,35 @@
       "count": 43
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "1773"
+    },
+    {
+      "site": "nicovideo",
+      "id": "deathnote",
+      "begin": "2014-11-11T06:00:00.000Z",
+      "broadcast": "R/2014-11-11T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "70204970",
+      "begin": "2016-10-15T07:00:00.000Z",
+      "broadcast": "R/2023-01-30T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "16535",
+      "begin": "2018-08-09T05:00:00.000Z",
+      "broadcast": "R/2018-08-09T05:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0012022",
+      "begin": "2016-09-22T03:00:00.000Z",
+      "broadcast": "R/2016-09-22T03:00:00.000Z/P7D"
+    }
+  ]
 }

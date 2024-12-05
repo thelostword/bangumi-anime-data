@@ -149,5 +149,71 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "306193"
+    },
+    {
+      "site": "qq",
+      "id": "m/mzc002009b3n1il",
+      "begin": "2020-10-03T10:00:01.000Z",
+      "broadcast": "R/2020-10-03T10:00:01.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28229900",
+      "begin": "2020-10-03T10:00:01.000Z",
+      "broadcast": "R/2020-10-03T10:00:01.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_xnuvg1xks1",
+      "begin": "2020-10-03T10:00:00.000Z",
+      "broadcast": "R/2020-10-03T10:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jjdk5R3iXkWIAGBMZ8Tugot",
+      "begin": "2020-10-02T16:00:00.000Z",
+      "broadcast": "R/2020-10-02T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "111282",
+      "begin": "2020-10-03T10:00:00.000Z",
+      "broadcast": "R/2020-10-03T10:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0050926",
+      "begin": "2020-10-07T15:00:00.000Z",
+      "broadcast": "R/2020-10-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "111282",
+      "begin": "2020-10-03T10:00:00.000Z",
+      "broadcast": "R/2020-10-03T10:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "夜叉姬"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5f7568124b840abcfc63b1cc"
+    },
+    {
+      "site": "mikan",
+      "id": "2314"
+    },
+    {
+      "site": "mytv",
+      "id": "yashahimeprincesshalfdemon2426_141237",
+      "begin": "2024-07-02T02:00:00.000Z",
+      "broadcast": "R/2024-07-02T02:00:00.000Z/P7D"
+    }
+  ]
 }

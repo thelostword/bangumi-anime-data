@@ -149,5 +149,52 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "211934"
+    },
+    {
+      "site": "bilibili",
+      "id": "6425",
+      "begin": "2017-10-04T16:00:00.000Z",
+      "broadcast": "R/2017-10-04T16:00:00.000Z/P7D",
+      "comment": "中配: 126192"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhcafct",
+      "begin": "2017-10-04T16:00:00.000Z"
+    },
+    {
+      "site": "nicovideo",
+      "id": "konohanatei",
+      "begin": "2017-10-07T15:00:00.000Z",
+      "broadcast": "R/2017-10-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "1d78d0b3efbfbd2f11ef",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0031287",
+      "begin": "2019-09-07T03:00:00.000Z",
+      "broadcast": "R/2019-09-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "此花"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "59d0cb52fb34aac154710b71"
+    },
+    {
+      "site": "mikan",
+      "id": "1406"
+    }
+  ]
 }

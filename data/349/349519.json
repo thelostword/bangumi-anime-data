@@ -113,5 +113,30 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "349519"
+    },
+    {
+      "site": "gamer",
+      "id": "118479",
+      "begin": "2021-11-13T04:00:00.000Z",
+      "broadcast": "R/2021-11-13T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0063060",
+      "begin": "2021-11-13T03:00:00.000Z",
+      "broadcast": "R/2021-11-13T03:00:00.000Z/P7D",
+      "comment": "第二章: SID0063061, 第三章: SID0063062"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "118479",
+      "begin": "2021-11-13T04:00:00.000Z",
+      "broadcast": "R/2021-11-13T04:00:00.000Z/P7D"
+    }
+  ]
 }

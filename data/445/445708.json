@@ -149,5 +149,67 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "445708"
+    },
+    {
+      "site": "nicovideo",
+      "id": "cherimaho-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0096011",
+      "begin": "2024-01-11T03:00:00.000Z",
+      "broadcast": "R/2024-01-11T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtTDOqEGppX1fH0zN9svKPP1",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JjiKtlYNYHeWK60QGimR67l",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "134091",
+      "begin": "2024-01-10T16:00:00.000Z",
+      "broadcast": "R/2024-01-10T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "198-10",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "netflix",
+      "id": "81750730",
+      "begin": "2024-04-29T16:00:00.000Z",
+      "broadcast": "R/2024-04-29T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "134091",
+      "begin": "2024-01-10T16:00:00.000Z",
+      "broadcast": "R/2024-01-10T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "659142a5b885a81efda115de"
+    },
+    {
+      "site": "mikan",
+      "id": "3226"
+    }
+  ]
 }

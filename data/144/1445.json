@@ -149,5 +149,23 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "1445"
+    },
+    {
+      "site": "nicovideo",
+      "id": "anime-shangrila",
+      "begin": "2020-06-15T06:00:00.000Z",
+      "broadcast": "R/2020-06-15T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0013062",
+      "begin": "2019-09-21T03:00:00.000Z",
+      "broadcast": "R/2019-09-21T03:00:00.000Z/P7D"
+    }
+  ]
 }

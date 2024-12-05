@@ -149,5 +149,29 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "38766"
+    },
+    {
+      "site": "bilibili",
+      "id": "3919",
+      "begin": "2016-05-03T07:14:00.000Z",
+      "broadcast": "R/2016-05-03T07:14:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0058300",
+      "begin": "2021-06-14T03:00:00.000Z",
+      "broadcast": "R/2021-06-14T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "tenten-anime-uf",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

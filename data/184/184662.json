@@ -53,5 +53,23 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "184662"
+    },
+    {
+      "site": "nicovideo",
+      "id": "nya",
+      "begin": "2012-08-03T10:00:00.000Z",
+      "broadcast": "R/2012-08-03T10:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "5442",
+      "begin": "2013-11-04T16:00:00.000Z",
+      "broadcast": "R/2016-08-12T11:34:00.000Z/P7D"
+    }
+  ]
 }

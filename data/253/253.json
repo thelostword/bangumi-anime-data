@@ -149,5 +149,36 @@
       "count": 29
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "253"
+    },
+    {
+      "site": "netflix",
+      "id": "80001305",
+      "begin": "2021-10-20T00:00:00.000Z",
+      "broadcast": "R/2021-10-20T00:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "5383",
+      "begin": "2016-07-26T09:52:27.000Z",
+      "broadcast": "R/2016-07-26T09:52:27.000Z/P7D",
+      "comment": "SP"
+    },
+    {
+      "site": "unext",
+      "id": "SID0012856",
+      "begin": "2019-02-28T03:00:00.000Z",
+      "broadcast": "R/2019-02-28T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "cowboy-bebop",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

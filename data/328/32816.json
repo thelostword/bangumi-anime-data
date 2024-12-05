@@ -149,5 +149,32 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "32816"
+    },
+    {
+      "site": "nicovideo",
+      "id": "prettyrhythm_dear_n",
+      "begin": "2012-09-28T11:00:00.000Z",
+      "broadcast": "R/2012-09-28T11:00:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "829ee608803711e1a19e",
+      "begin": "2012-04-14T17:59:33.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0041624",
+      "begin": "2019-06-07T03:00:00.000Z",
+      "broadcast": "R/2019-06-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Pretty+Rhythm+Dear"
+    }
+  ]
 }

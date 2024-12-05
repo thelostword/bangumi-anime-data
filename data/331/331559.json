@@ -149,5 +149,48 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "331559"
+    },
+    {
+      "site": "netflix",
+      "id": "81602834",
+      "begin": "2022-09-20T16:00:00.000Z",
+      "broadcast": "R/2022-09-20T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28339655",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "nicovideo",
+      "id": "jujutsukaisen-movie",
+      "begin": "2023-02-23T15:00:00.000Z",
+      "broadcast": "R/2023-02-23T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "536-4",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0078792",
+      "begin": "2023-02-23T15:00:00.000Z",
+      "broadcast": "R/2023-02-23T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "4JOgJLmNQnNr",
+      "url": "https://www.disneyplus.com/movies/jujutsu-kaisen-0/4JOgJLmNQnNr",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

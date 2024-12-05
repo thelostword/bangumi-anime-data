@@ -149,5 +149,49 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "7ff0045e59c011e4b432",
+      "begin": "2015-01-11T17:05:00.000Z"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhay4m1",
+      "begin": "2015-01-11T17:05:00.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "z/zq603skcxexud1x",
+      "begin": "2015-01-11T17:05:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "96600"
+    },
+    {
+      "site": "nicovideo",
+      "id": "warubure-anime",
+      "begin": "2015-01-14T15:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0018872",
+      "begin": "2015-07-01T03:00:00.000Z",
+      "broadcast": "R/2015-07-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "劍使"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "54b41086dfa8524d520c82e2"
+    },
+    {
+      "site": "mikan",
+      "id": "460"
+    }
+  ]
 }

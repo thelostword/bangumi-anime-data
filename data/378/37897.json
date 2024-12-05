@@ -149,5 +149,27 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "37897"
+    },
+    {
+      "site": "nicovideo",
+      "id": "joshiraku",
+      "begin": "2012-07-14T17:00:00.000Z",
+      "broadcast": "R/2012-07-14T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002641",
+      "begin": "2018-08-28T03:00:00.000Z",
+      "broadcast": "R/2018-08-28T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "女子落"
+    }
+  ]
 }

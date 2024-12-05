@@ -149,5 +149,53 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "401960"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Uch3jLcECUp6hmiABnQxS-xZ",
+      "begin": "2023-01-06T13:05:00.000Z",
+      "broadcast": "R/2023-01-06T13:05:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "127393",
+      "begin": "2023-01-06T13:05:00.000Z",
+      "broadcast": "R/2023-01-06T13:05:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0076932",
+      "begin": "2023-01-06T13:00:00.000Z",
+      "broadcast": "R/2023-01-06T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "127393",
+      "begin": "2023-01-06T13:05:00.000Z",
+      "broadcast": "R/2023-01-06T13:05:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "虹 四格|短篇"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "63b58c4d441dff2ff8927e8f"
+    },
+    {
+      "site": "mikan",
+      "id": "2914"
+    },
+    {
+      "site": "nicovideo",
+      "id": "niji4anime",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

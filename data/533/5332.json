@@ -149,5 +149,26 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "8/8xcawqzxvuchjso",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "5332"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ch633",
+      "begin": "2010-10-13T18:15:00.000Z",
+      "broadcast": "R/2010-10-13T18:15:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "狗+血"
+    }
+  ]
 }

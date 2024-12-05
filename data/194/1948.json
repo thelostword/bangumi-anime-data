@@ -149,5 +149,28 @@
       "count": 16
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "1948"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kinonotabi01",
+      "begin": "2017-08-19T15:30:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "2013",
+      "begin": "2003-04-07T16:00:00.000Z",
+      "broadcast": "R/2011-07-02T02:52:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0012905",
+      "begin": "2019-09-12T03:00:00.000Z",
+      "broadcast": "R/2019-09-12T03:00:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,58 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "192252"
+    },
+    {
+      "site": "bilibili",
+      "id": "6310",
+      "begin": "2017-07-03T17:35:00.000Z",
+      "broadcast": "R/2017-07-03T17:35:00.000Z/P7D"
+    },
+    {
+      "site": "mgtv",
+      "id": "319028",
+      "begin": ""
+    },
+    {
+      "site": "gamer",
+      "id": "85035",
+      "begin": "2017-07-03T18:10:00.000Z",
+      "broadcast": "R/2017-07-03T18:10:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "168-13",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0030180",
+      "begin": "2017-07-08T03:00:00.000Z",
+      "broadcast": "R/2017-07-08T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "異世界食堂"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "59568163cc40e0d626c234c6"
+    },
+    {
+      "site": "mikan",
+      "id": "1342"
+    },
+    {
+      "site": "nicovideo",
+      "id": "isekai-shokudo",
+      "begin": "2017-07-29T03:00:00.000Z",
+      "broadcast": "R/2017-07-29T03:00:00.000Z/P7D"
+    }
+  ]
 }

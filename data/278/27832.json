@@ -149,5 +149,39 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrk21ldh",
+      "begin": "2017-03-02T09:20:16.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "d/dm1mifa4wc4jssg",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "27832"
+    },
+    {
+      "site": "bilibili",
+      "id": "497",
+      "begin": "2011-12-31T16:00:00.000Z",
+      "broadcast": "R/2012-11-27T06:12:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002537",
+      "begin": "2013-11-29T06:00:00.000Z",
+      "broadcast": "R/2013-11-29T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "gundam-seed-remaster",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

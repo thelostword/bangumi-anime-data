@@ -149,5 +149,34 @@
       "count": 13
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "292"
+    },
+    {
+      "site": "nicovideo",
+      "id": "dtb",
+      "begin": "2018-03-30T03:00:00.000Z",
+      "broadcast": "R/2018-03-30T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "1064",
+      "begin": "2007-04-04T16:00:00.000Z",
+      "broadcast": "R/2010-09-21T09:36:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "cc00396e962411de83b1",
+      "begin": "2011-11-20T08:11:51.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002693",
+      "begin": "2020-04-29T03:00:00.000Z",
+      "broadcast": "R/2020-04-29T03:00:00.000Z/P7D"
+    }
+  ]
 }

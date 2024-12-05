@@ -149,5 +149,35 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "2794",
+      "begin": "2015-10-08T16:05:00.000Z",
+      "broadcast": "R/2015-10-07T16:05:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "131803"
+    },
+    {
+      "site": "dmhy",
+      "id": "Muco"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "560d10849286e15329cf94fe"
+    },
+    {
+      "site": "mikan",
+      "id": "589"
+    },
+    {
+      "site": "nicovideo",
+      "id": "muco",
+      "begin": "2020-01-31T15:00:00.000Z",
+      "broadcast": "R/2020-01-31T15:00:00.000Z/P7D"
+    }
+  ]
 }

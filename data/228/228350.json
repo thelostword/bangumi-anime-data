@@ -149,5 +149,30 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "228350"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrgytq5h",
+      "begin": "2018-07-06T00:13:01.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0041833",
+      "begin": "2019-06-18T03:00:00.000Z",
+      "broadcast": "R/2019-06-18T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5b38c4b0b3d4e8ef387d7ed5"
+    },
+    {
+      "site": "mikan",
+      "id": "1700"
+    }
+  ]
 }

@@ -149,5 +149,27 @@
       "count": 9
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "40339"
+    },
+    {
+      "site": "nicovideo",
+      "id": "oniai",
+      "begin": "2012-10-18T15:00:00.000Z",
+      "broadcast": "R/2012-10-18T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0017673",
+      "begin": "2014-08-22T06:00:00.000Z",
+      "broadcast": "R/2014-08-22T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "是哥哥"
+    }
+  ]
 }

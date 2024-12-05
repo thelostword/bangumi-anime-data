@@ -93,5 +93,31 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "116867"
+    },
+    {
+      "site": "nicovideo",
+      "id": "pankis",
+      "begin": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "1698",
+      "begin": "2015-01-07T16:00:00.000Z",
+      "broadcast": "R/2015-01-08T22:33:00.000Z/P7D"
+    },
+    {
+      "site": "acfun",
+      "id": "5019947",
+      "begin": "2017-11-13T09:27:29.000Z"
+    },
+    {
+      "site": "mikan",
+      "id": "442"
+    }
+  ]
 }

@@ -149,5 +149,47 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "372010"
+    },
+    {
+      "site": "nicovideo",
+      "id": "spice-and-wolf",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0100059",
+      "begin": "2024-04-04T17:00:00.000Z",
+      "broadcast": "R/2024-04-04T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-259",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "netflix",
+      "id": "81768918",
+      "begin": "2024-04-01T16:00:00.000Z",
+      "broadcast": "R/2024-04-01T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "狼 辛香|香辛 行商|merchant"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66097bbc16e6bbcc806d3418"
+    },
+    {
+      "site": "mikan",
+      "id": "3330"
+    }
+  ]
 }

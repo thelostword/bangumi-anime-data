@@ -85,5 +85,22 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "193065"
+    },
+    {
+      "site": "youku",
+      "id": "75ed8cfa4bfc463483b4",
+      "begin": ""
+    },
+    {
+      "site": "gamer",
+      "id": "120866",
+      "begin": "2021-12-10T05:00:00.000Z",
+      "broadcast": "R/2021-12-10T05:00:00.000Z/P7D"
+    }
+  ]
 }

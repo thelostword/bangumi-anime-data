@@ -149,5 +149,23 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "69321"
+    },
+    {
+      "site": "nicovideo",
+      "id": "street-fighter2-movie",
+      "begin": "2023-05-18T15:00:00.000Z",
+      "broadcast": "R/2023-05-18T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0015344",
+      "begin": "2015-11-05T03:00:00.000Z",
+      "broadcast": "R/2015-11-05T03:00:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,34 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5521",
+      "begin": "2016-10-08T11:00:10.000Z",
+      "broadcast": "R/2016-10-08T11:00:10.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "67c8b987852711e6bdbb",
+      "begin": "2016-10-10T08:51:58.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "139137"
+    },
+    {
+      "site": "dmhy",
+      "id": "Classica+Loid"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "57efc2a5ac5b9d0762d174f6"
+    },
+    {
+      "site": "mikan",
+      "id": "872"
+    }
+  ]
 }

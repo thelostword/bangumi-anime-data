@@ -149,5 +149,71 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "426123"
+    },
+    {
+      "site": "nicovideo",
+      "id": "bluelock_vs_U20JAPAN",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0157091",
+      "begin": "2024-10-05T15:30:00.000Z",
+      "broadcast": "R/2024-10-05T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66fb602089c3a6ce864cbcf7"
+    },
+    {
+      "site": "abema",
+      "id": "420-57",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3437"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtQNpdH94Rb-HrMlO_dvw1As",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JgJMTfV7-vC5k0hW4kYaSAi",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "131301",
+      "begin": "2024-10-05T15:30:00.000Z",
+      "broadcast": "R/2024-10-05T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "131301",
+      "begin": "2024-10-05T15:30:00.000Z",
+      "broadcast": "R/2024-10-05T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81640753",
+      "begin": "2024-10-05T15:30:00.000Z",
+      "broadcast": "R/2024-10-05T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "藍色監獄 U20"
+    }
+  ]
 }

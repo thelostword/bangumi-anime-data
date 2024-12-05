@@ -149,5 +149,23 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "3485"
+    },
+    {
+      "site": "nicovideo",
+      "id": "nanoha-movie",
+      "begin": "2021-12-23T15:00:00.000Z",
+      "broadcast": "R/2021-12-23T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0037672",
+      "begin": "2020-12-30T03:00:00.000Z",
+      "broadcast": "R/2020-12-30T03:00:00.000Z/P7D"
+    }
+  ]
 }

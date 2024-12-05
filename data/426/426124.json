@@ -179,5 +179,40 @@
       "total_cont": 0
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "426124"
+    },
+    {
+      "site": "disneyplus",
+      "id": "65pPeJ1orwsg",
+      "url": "https://www.disneyplus.com/movies/blue-lock-the-movie-episode-nagi/65pPeJ1orwsg",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0157267",
+      "begin": "2024-10-05T15:00:00.000Z",
+      "broadcast": "R/2024-10-05T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "420-70",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3479"
+    },
+    {
+      "site": "netflix",
+      "id": "81940376",
+      "begin": "2024-10-19T00:00:00.000Z",
+      "broadcast": "R/2024-10-19T00:00:00.000Z/P7D"
+    }
+  ]
 }

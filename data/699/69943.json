@@ -149,5 +149,39 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "69943"
+    },
+    {
+      "site": "nicovideo",
+      "id": "te-kyu2",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "18",
+      "begin": "2013-07-06T16:00:00.000Z",
+      "broadcast": "R/2013-07-08T01:41:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0003346",
+      "begin": "2015-02-16T15:00:00.000Z",
+      "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "158-12",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "庭球|球并|Teekyu"
+    }
+  ]
 }

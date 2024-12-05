@@ -149,5 +149,22 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "7991"
+    },
+    {
+      "site": "nicovideo",
+      "id": "grenadier",
+      "begin": "2020-09-01T03:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0011108",
+      "begin": "2020-11-19T15:00:00.000Z",
+      "broadcast": "R/2020-11-19T15:00:00.000Z/P7D"
+    }
+  ]
 }

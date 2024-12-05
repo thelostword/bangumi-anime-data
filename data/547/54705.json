@@ -149,5 +149,27 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "54705"
+    },
+    {
+      "site": "nicovideo",
+      "id": "crimeedge",
+      "begin": "2013-04-10T14:00:00.000Z",
+      "broadcast": "R/2013-04-10T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0054285",
+      "begin": "2021-01-07T03:00:00.000Z",
+      "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Dansai|分离"
+    }
+  ]
 }

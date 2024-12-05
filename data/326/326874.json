@@ -149,5 +149,67 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "326874"
+    },
+    {
+      "site": "gamer",
+      "id": "115681",
+      "begin": "2022-07-21T14:05:00.000Z",
+      "broadcast": "R/2022-07-21T14:05:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_tw",
+      "id": "28338720",
+      "begin": "2022-07-22T02:29:00.000Z",
+      "broadcast": "R/2022-07-22T02:29:00.000Z/P7D"
+    },
+    {
+      "site": "viu",
+      "id": "445552",
+      "begin": "2022-07-20T16:00:00.000Z",
+      "broadcast": "R/2022-07-20T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "4SmyP0TNItuI",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "nicovideo",
+      "id": "danmachi_IV",
+      "begin": "2022-07-26T15:00:00.000Z",
+      "broadcast": "R/2022-07-26T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0069694",
+      "begin": "2022-07-26T15:00:00.000Z",
+      "broadcast": "R/2022-07-26T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UcjJRtW-6ARI19jYmjSNC028",
+      "begin": "2024-04-21T13:00:00.000Z",
+      "broadcast": "R/2024-04-21T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "地下城 4季|四季|4期|四期|S04|S4|4th"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "62c125b42fc3ee0d0016bf62"
+    },
+    {
+      "site": "abema",
+      "id": "174-3",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

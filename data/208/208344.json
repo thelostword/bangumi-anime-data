@@ -28,5 +28,11 @@
     "score": 0
   },
   "tags": [],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "208344"
+    }
+  ]
 }

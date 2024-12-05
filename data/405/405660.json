@@ -149,5 +149,71 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "405660"
+    },
+    {
+      "site": "unext",
+      "id": "SID0100075",
+      "begin": "2024-04-03T15:30:00.000Z",
+      "broadcast": "R/2024-04-03T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "131968",
+      "begin": "2024-04-03T16:00:00.000Z",
+      "broadcast": "R/2024-04-03T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtQb6US78mSi3nXspczmixuN",
+      "begin": "2024-04-03T16:00:07.000Z",
+      "broadcast": "R/2024-04-03T16:00:07.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JjUWYVcTRPtdw13U_Z-Xgfi",
+      "begin": "2024-06-19T16:00:07.000Z",
+      "broadcast": "R/2024-06-19T16:00:07.000Z/P7D"
+    },
+    {
+      "site": "mytv",
+      "id": "bartenderglassofgod_140757",
+      "begin": "2024-04-03T16:00:00.000Z",
+      "broadcast": "R/2024-04-03T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "19-192",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "131968",
+      "begin": "2024-04-03T16:00:00.000Z",
+      "broadcast": "R/2024-04-03T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "王牌酒保 glass"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66097bc116e6bbcc806d342e"
+    },
+    {
+      "site": "mikan",
+      "id": "3322"
+    },
+    {
+      "site": "nicovideo",
+      "id": "bartender-anime",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

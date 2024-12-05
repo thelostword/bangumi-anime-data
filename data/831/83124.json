@@ -149,5 +149,52 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "h/hbccdwvo9t21w4i",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "83124"
+    },
+    {
+      "site": "nicovideo",
+      "id": "youkai-watch",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mgtv",
+      "id": "328216",
+      "begin": ""
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrgibl0h",
+      "begin": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "28234050",
+      "begin": "2021-10-15T10:25:01.000Z",
+      "broadcast": "R/2021-10-15T10:25:01.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0003430",
+      "begin": "2014-01-30T06:00:00.000Z",
+      "broadcast": "R/2014-01-30T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "548f0dbdf892774b140ac670"
+    },
+    {
+      "site": "mikan",
+      "id": "247"
+    }
+  ]
 }

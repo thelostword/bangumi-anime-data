@@ -149,5 +149,42 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "220658"
+    },
+    {
+      "site": "acfun",
+      "id": "5022159",
+      "begin": "2018-10-03T16:00:00.000Z"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "140752",
+      "begin": "2018-10-03T16:00:00.000Z",
+      "broadcast": "R/2018-10-03T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "soraumi-anime",
+      "begin": "2018-10-10T03:00:00.000Z",
+      "broadcast": "R/2018-10-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0037615",
+      "begin": "2018-10-09T03:00:00.000Z",
+      "broadcast": "R/2018-10-09T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5bb19cac9b9493607ff72623"
+    },
+    {
+      "site": "mikan",
+      "id": "1771"
+    }
+  ]
 }

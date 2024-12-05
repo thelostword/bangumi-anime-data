@@ -149,5 +149,26 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhb13eh",
+      "begin": "2015-08-17T03:27:33.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "4631"
+    },
+    {
+      "site": "unext",
+      "id": "SID0011449",
+      "begin": "2020-06-27T03:00:00.000Z",
+      "broadcast": "R/2020-06-27T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "數碼+戰爭"
+    }
+  ]
 }

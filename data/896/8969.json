@@ -149,5 +149,44 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "begin": "",
+      "url": "http://www.iqiyi.com/v_19rrifx03h.html"
+    },
+    {
+      "site": "bangumi",
+      "id": "8969"
+    },
+    {
+      "site": "qq",
+      "id": "b/bymafsjpccgo4bw",
+      "begin": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "51552",
+      "begin": "1995-04-14T16:00:01.000Z",
+      "broadcast": "R/2018-01-11T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "f06dbe4261ad11e0bea1",
+      "begin": "2013-03-15T03:56:18.000Z"
+    },
+    {
+      "site": "abema",
+      "id": "35-55",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0010783",
+      "begin": "2024-03-06T03:00:00.000Z",
+      "broadcast": "R/2024-03-06T03:00:00.000Z/P7D"
+    }
+  ]
 }

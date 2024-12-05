@@ -129,5 +129,35 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "207567"
+    },
+    {
+      "site": "nicovideo",
+      "id": "soryo-w-anime",
+      "begin": "2017-12-22T09:00:00.000Z",
+      "broadcast": "R/2017-12-22T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "僧侶"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "58dfb7ed5e559a067cc361f6"
+    },
+    {
+      "site": "mikan",
+      "id": "1296"
+    },
+    {
+      "site": "unext",
+      "id": "SID0041171",
+      "begin": "2024-11-12T03:00:00.000Z",
+      "broadcast": "R/2024-11-12T03:00:00.000Z/P7D"
+    }
+  ]
 }

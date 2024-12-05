@@ -149,5 +149,41 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "282564"
+    },
+    {
+      "site": "nicovideo",
+      "id": "val-love",
+      "begin": "2019-10-08T15:00:00.000Z",
+      "broadcast": "R/2019-10-08T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28222623",
+      "begin": "2019-10-05T14:30:00.000Z",
+      "broadcast": "R/2019-10-05T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0043687",
+      "begin": "2019-10-09T03:00:00.000Z",
+      "broadcast": "R/2019-10-09T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "戰×戀"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5d9392ca4e9c003faceb5cac"
+    },
+    {
+      "site": "mikan",
+      "id": "2042"
+    }
+  ]
 }

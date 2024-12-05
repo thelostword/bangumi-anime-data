@@ -149,5 +149,46 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "268726"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28340508",
+      "begin": "",
+      "broadcast": "",
+      "comment": "OAD2: 28340509, OAD3: 28340510, OAD4: 28340511, OAD5: 28340512"
+    },
+    {
+      "site": "abema",
+      "id": "420-46",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UcgarYXnz38UWOky-pGBX7Ew",
+      "begin": "2022-08-05T16:00:00.000Z",
+      "broadcast": "R/2022-08-05T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0062106",
+      "begin": "2021-10-11T03:00:00.000Z",
+      "broadcast": "R/2021-10-11T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "2009"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ten-sura-oad",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

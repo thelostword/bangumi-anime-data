@@ -149,5 +149,56 @@
       "count": 23
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhb343l",
+      "begin": "2015-04-23T08:07:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "54433"
+    },
+    {
+      "site": "nicovideo",
+      "id": "oregairu",
+      "begin": "2013-04-14T15:30:00.000Z",
+      "broadcast": "R/2013-04-14T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "1539",
+      "begin": "2013-04-04T16:33:00.000Z",
+      "broadcast": "R/2015-04-23T06:13:00.000Z/P7D"
+    },
+    {
+      "site": "qq",
+      "id": "5/5wiuorx70i3vdqb",
+      "begin": ""
+    },
+    {
+      "site": "gamer",
+      "id": "56805",
+      "begin": "2018-10-29T09:20:00.000Z",
+      "broadcast": "R/2018-10-29T09:20:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0003269",
+      "begin": "2019-11-25T03:00:00.000Z",
+      "broadcast": "R/2019-11-25T03:00:00.000Z/P7D",
+      "comment": "番外編 #13: SID0003349"
+    },
+    {
+      "site": "dmhy",
+      "id": "我的青"
+    },
+    {
+      "site": "abema",
+      "id": "19-77",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

@@ -149,5 +149,40 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "285813"
+    },
+    {
+      "site": "netflix",
+      "id": "81220435",
+      "begin": "2020-08-19T16:00:00.000Z",
+      "broadcast": "R/2020-08-19T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "acfun",
+      "id": "6002662",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0049159",
+      "begin": "2024-03-09T03:00:00.000Z",
+      "broadcast": "R/2024-03-09T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "大欺詐師"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ed5f525306f1a0007da872c"
+    },
+    {
+      "site": "mikan",
+      "id": "2242"
+    }
+  ]
 }

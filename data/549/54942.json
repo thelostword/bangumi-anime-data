@@ -149,5 +149,38 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "f7651dc2599c11e4b522",
+      "begin": "2015-01-15T16:30:00.000Z"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhay55h",
+      "begin": "2015-01-15T16:30:00.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "i/i2pfes4ebq4fapc",
+      "begin": "2015-01-15T16:30:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "54942"
+    },
+    {
+      "site": "dmhy",
+      "id": "DOG+DAYS"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "54b1552dc0a4985d2c95d489"
+    },
+    {
+      "site": "mikan",
+      "id": "455"
+    }
+  ]
 }

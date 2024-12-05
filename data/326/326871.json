@@ -149,5 +149,67 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "326871"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28237196",
+      "begin": "2022-04-01T16:30:00.000Z",
+      "broadcast": "R/2022-04-01T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28237215",
+      "begin": "2022-04-01T16:30:00.000Z",
+      "broadcast": "R/2022-04-01T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "115710",
+      "begin": "2022-04-01T16:30:00.000Z",
+      "broadcast": "R/2022-04-01T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JhOGIH8XICTtcCX3Q3DdX2j",
+      "begin": "2022-04-01T16:30:00.000Z",
+      "broadcast": "R/2022-04-01T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "viu",
+      "id": "431029",
+      "begin": "2022-04-01T16:00:00.000Z",
+      "broadcast": "R/2022-04-01T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "virgin-road",
+      "begin": "2022-04-06T15:00:00.000Z",
+      "broadcast": "R/2022-04-06T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0067483",
+      "begin": "2022-04-06T15:00:00.000Z",
+      "broadcast": "R/2022-04-06T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "115710",
+      "begin": "2022-04-01T16:30:00.000Z",
+      "broadcast": "R/2022-04-01T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "處刑少女"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "624774a670e8f89b23a1856a"
+    }
+  ]
 }

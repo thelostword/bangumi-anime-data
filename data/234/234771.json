@@ -149,5 +149,33 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "234771"
+    },
+    {
+      "site": "nicovideo",
+      "id": "youjo-senki-movie",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "93316",
+      "begin": "2020-06-24T09:00:00.000Z",
+      "broadcast": "R/2020-06-24T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0047060",
+      "begin": "2020-03-13T03:00:00.000Z",
+      "broadcast": "R/2020-03-13T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "1966"
+    }
+  ]
 }

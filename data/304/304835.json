@@ -33,5 +33,23 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "304835"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Ucj4dm20skcKMRAIG4ttibAl",
+      "begin": "2021-04-18T16:00:00.000Z",
+      "broadcast": "R/2021-04-18T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ninjabox",
+      "begin": "2019-11-22T15:00:00.000Z",
+      "broadcast": "R/2019-11-22T15:00:00.000Z/P7D"
+    }
+  ]
 }

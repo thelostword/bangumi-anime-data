@@ -149,5 +149,41 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "404809"
+    },
+    {
+      "site": "nicovideo",
+      "id": "shumatsu-train",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0100055",
+      "begin": "2024-04-06T14:30:00.000Z",
+      "broadcast": "R/2024-04-06T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-260",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "終末|末日 火車|列車"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66097bb916e6bbcc806d340e"
+    },
+    {
+      "site": "mikan",
+      "id": "3305"
+    }
+  ]
 }

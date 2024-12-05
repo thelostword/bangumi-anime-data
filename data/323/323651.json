@@ -149,5 +149,59 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "323651"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Ucg8emDWHuSe1_jiH_MUI_hr",
+      "begin": "2023-04-03T14:00:00.000Z",
+      "broadcast": "R/2023-04-03T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "128431",
+      "begin": "2023-04-03T14:00:00.000Z",
+      "broadcast": "R/2023-04-03T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kumakumakumabear_p",
+      "begin": "2023-04-10T13:30:00.000Z",
+      "broadcast": "R/2023-04-10T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-151",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0079683",
+      "begin": "2023-04-10T13:30:00.000Z",
+      "broadcast": "R/2023-04-10T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "128431",
+      "begin": "2023-04-03T14:00:00.000Z",
+      "broadcast": "R/2023-04-03T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "熊勇闖 punch"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6425d63955eb4cdc768e396e"
+    },
+    {
+      "site": "mikan",
+      "id": "2981"
+    }
+  ]
 }

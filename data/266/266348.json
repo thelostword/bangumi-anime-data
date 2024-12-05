@@ -149,5 +149,43 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "266348"
+    },
+    {
+      "site": "bilibili",
+      "id": "28222659",
+      "begin": "2019-10-06T14:30:00.000Z",
+      "broadcast": "R/2019-10-06T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "actors-anime",
+      "begin": "2019-10-07T03:00:00.000Z",
+      "broadcast": "R/2019-10-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mgtv",
+      "id": "332351",
+      "begin": ""
+    },
+    {
+      "site": "qq",
+      "id": "m/mzc002005x573j5",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0043304",
+      "begin": "2019-10-07T03:00:00.000Z",
+      "broadcast": "R/2019-10-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5d9392cc4e9c003faceb5cb6"
+    }
+  ]
 }

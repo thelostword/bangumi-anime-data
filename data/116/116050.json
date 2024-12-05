@@ -149,5 +149,30 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "116050"
+    },
+    {
+      "site": "youku",
+      "id": "491c16c8a85011e4b522",
+      "begin": "2015-09-11T06:28:31.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "129612",
+      "begin": "2015-01-04T16:00:00.000Z",
+      "broadcast": "R/2018-09-01T10:30:21.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "54998428c8b118cf40b274e3"
+    },
+    {
+      "site": "mikan",
+      "id": "433"
+    }
+  ]
 }

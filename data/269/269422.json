@@ -69,5 +69,17 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "269422"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ch286",
+      "begin": "2009-09-08T02:49:50.000Z",
+      "broadcast": "R/2009-09-08T02:49:50.000Z/P7D"
+    }
+  ]
 }

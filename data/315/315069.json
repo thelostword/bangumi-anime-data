@@ -149,5 +149,72 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "315069"
+    },
+    {
+      "site": "bilibili",
+      "id": "28231840",
+      "begin": "2021-01-09T15:30:00.000Z",
+      "broadcast": "R/2021-01-09T15:30:00.000Z/P7D",
+      "comment": "中配版: 28234566"
+    },
+    {
+      "site": "nicovideo",
+      "id": "horimiya-anime",
+      "begin": "2021-01-14T16:00:00.000Z",
+      "broadcast": "R/2021-01-14T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81020819",
+      "begin": "2021-06-28T16:00:00.000Z",
+      "broadcast": "R/2021-06-28T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "113757",
+      "begin": "2021-01-09T17:00:00.000Z",
+      "broadcast": "R/2021-01-09T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28233458",
+      "begin": "2021-01-09T17:00:00.000Z",
+      "broadcast": "R/2021-01-09T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "26-201",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0052921",
+      "begin": "2020-12-28T03:00:00.000Z",
+      "broadcast": "R/2020-12-28T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "113757",
+      "begin": "2021-01-09T17:00:00.000Z",
+      "broadcast": "R/2021-01-09T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "堀 宮村"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ff046f15ff4024d23db2bf0"
+    },
+    {
+      "site": "mikan",
+      "id": "2352"
+    }
+  ]
 }

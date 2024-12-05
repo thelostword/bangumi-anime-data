@@ -149,5 +149,27 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "322102"
+    },
+    {
+      "site": "gamer",
+      "id": "115784",
+      "begin": "2021-02-08T16:00:00.000Z",
+      "broadcast": "R/2021-02-08T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28234837",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "2406"
+    }
+  ]
 }

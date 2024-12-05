@@ -149,5 +149,54 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "212003"
+    },
+    {
+      "site": "bilibili",
+      "id": "77972",
+      "begin": "2018-04-01T16:00:00.000Z",
+      "broadcast": "R/2018-04-01T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "19-71",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0034344",
+      "begin": "2019-11-30T03:00:00.000Z",
+      "broadcast": "R/2019-11-30T03:00:00.000Z/P7D",
+      "comment": "EXTRA R「BNWの誓い」: SID0094265"
+    },
+    {
+      "site": "dmhy",
+      "id": "馬娘"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ac0aab3395e2a122f10f085"
+    },
+    {
+      "site": "mikan",
+      "id": "1631"
+    },
+    {
+      "site": "nicovideo",
+      "id": "anime-umamusume",
+      "begin": "2020-08-07T03:00:00.000Z",
+      "broadcast": "R/2020-08-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtRADy5WE06tcoQvJmBR70jP",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

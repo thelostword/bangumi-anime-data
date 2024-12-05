@@ -149,5 +149,22 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "1758"
+    },
+    {
+      "site": "nicovideo",
+      "id": "aoihana",
+      "begin": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "1146",
+      "begin": "2009-06-30T16:00:00.000Z",
+      "broadcast": "R/2011-08-25T07:37:00.000Z/P7D"
+    }
+  ]
 }

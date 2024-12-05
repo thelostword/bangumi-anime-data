@@ -93,5 +93,25 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "137894"
+    },
+    {
+      "site": "nicovideo",
+      "id": "cocotama",
+      "begin": "2015-10-08T03:00:00.000Z",
+      "broadcast": "R/2015-10-08T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "560d0d629286e15329cf94dc"
+    },
+    {
+      "site": "mikan",
+      "id": "575"
+    }
+  ]
 }

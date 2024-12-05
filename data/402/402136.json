@@ -149,5 +149,29 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "402136"
+    },
+    {
+      "site": "nicovideo",
+      "id": "tokyo-mew-mew_new",
+      "begin": "2022-07-11T15:00:00.000Z",
+      "broadcast": "R/2022-07-11T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "東京喵喵 2季|二季|2期|二期|S02|S2|2nd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6425d63c55eb4cdc768e397c"
+    },
+    {
+      "site": "mikan",
+      "id": "2976"
+    }
+  ]
 }

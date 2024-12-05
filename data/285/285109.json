@@ -109,5 +109,42 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "285109"
+    },
+    {
+      "site": "mgtv",
+      "id": "332444",
+      "begin": ""
+    },
+    {
+      "site": "acfun",
+      "id": "6000307",
+      "begin": "2019-10-04T10:01:39.000Z"
+    },
+    {
+      "site": "nicovideo",
+      "id": "zoidswild-zero",
+      "begin": "2019-10-05T03:00:00.000Z",
+      "broadcast": "R/2019-10-05T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "edcb461a9ab54a769f6e",
+      "begin": "2019-11-19T15:59:12.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0043952",
+      "begin": "2021-11-01T03:00:00.000Z",
+      "broadcast": "R/2021-11-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5d9392c64e9c003faceb5c9e"
+    }
+  ]
 }

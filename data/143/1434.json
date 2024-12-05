@@ -149,5 +149,23 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "1434"
+    },
+    {
+      "site": "nicovideo",
+      "id": "queensblade01",
+      "begin": "2012-04-11T06:00:00.000Z",
+      "broadcast": "R/2012-04-11T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0014609",
+      "begin": "2014-08-15T06:00:00.000Z",
+      "broadcast": "R/2014-08-15T06:00:00.000Z/P7D"
+    }
+  ]
 }

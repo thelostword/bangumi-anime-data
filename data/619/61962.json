@@ -149,5 +149,40 @@
       "count": 10
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrgjanhh",
+      "begin": "2013-10-07T12:00:09.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "61962"
+    },
+    {
+      "site": "nicovideo",
+      "id": "machine-doll",
+      "begin": "2013-10-10T16:30:00.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "3/38fl6pnhzlfo25d",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0017748",
+      "begin": "2014-09-19T06:00:00.000Z",
+      "broadcast": "R/2014-09-19T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "機巧"
+    },
+    {
+      "site": "mikan",
+      "id": "202"
+    }
+  ]
 }

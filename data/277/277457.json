@@ -89,5 +89,22 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "277457"
+    },
+    {
+      "site": "nicovideo",
+      "id": "eiga-yokai",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0050418",
+      "begin": "2020-08-03T03:00:00.000Z",
+      "broadcast": "R/2020-08-03T03:00:00.000Z/P7D"
+    }
+  ]
 }

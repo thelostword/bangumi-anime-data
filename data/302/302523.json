@@ -149,5 +149,67 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "302523"
+    },
+    {
+      "site": "gamer",
+      "id": "104513",
+      "begin": "2021-01-12T15:30:00.000Z",
+      "broadcast": "R/2021-01-12T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_tw",
+      "id": "28233475",
+      "begin": "2021-01-05T15:30:00.000Z",
+      "broadcast": "R/2021-01-05T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "5dX5AAqsoaiY",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "abema",
+      "id": "420-11",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UcgarYXnz38UWOky-pGBX7Ew",
+      "begin": "2024-02-11T13:00:00.000Z",
+      "broadcast": "R/2024-02-11T13:00:00.000Z/P1D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0052900",
+      "begin": "2021-01-06T03:00:00.000Z",
+      "broadcast": "R/2021-01-06T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "104513",
+      "begin": "2021-01-12T15:30:00.000Z",
+      "broadcast": "R/2021-01-12T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "史萊姆 2季|二季|2期|二期|S02|S2|2nd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "60de5d9c06c78696e4d11606"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ten-sura2",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

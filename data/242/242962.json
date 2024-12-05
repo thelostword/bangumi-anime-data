@@ -149,5 +149,36 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "242962"
+    },
+    {
+      "site": "nicovideo",
+      "id": "isekai-cheat-magician",
+      "begin": "2019-07-17T14:30:00.000Z",
+      "broadcast": "R/2019-07-17T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "qq",
+      "id": "5/5inc5xigj39zzgq",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0041946",
+      "begin": "2019-07-17T15:00:00.000Z",
+      "broadcast": "R/2019-07-17T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5d1b8388e0dc4c3cbb5c92de"
+    },
+    {
+      "site": "mikan",
+      "id": "1981"
+    }
+  ]
 }

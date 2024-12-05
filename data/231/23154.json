@@ -149,5 +149,16 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "23154"
+    },
+    {
+      "site": "bilibili",
+      "id": "5278",
+      "begin": "2001-11-20T16:00:01.000Z"
+    }
+  ]
 }

@@ -149,5 +149,32 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "31413"
+    },
+    {
+      "site": "nicovideo",
+      "id": "odanobuna",
+      "begin": "2012-07-15T15:30:00.000Z",
+      "broadcast": "R/2012-06-27T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "05024d3e10ca11e1a046",
+      "begin": "2018-01-22T07:46:47.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002168",
+      "begin": "2012-07-30T06:00:00.000Z",
+      "broadcast": "R/2012-07-30T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "织田+野望"
+    }
+  ]
 }

@@ -149,5 +149,32 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "5655"
+    },
+    {
+      "site": "nicovideo",
+      "id": "occult-gakuin",
+      "begin": "2012-07-25T06:00:00.000Z",
+      "broadcast": "R/2012-07-25T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "fac6984661ad11e0bea1",
+      "begin": "2012-07-06T22:13:03.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0044958",
+      "begin": "2021-01-07T03:00:00.000Z",
+      "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "世紀末"
+    }
+  ]
 }

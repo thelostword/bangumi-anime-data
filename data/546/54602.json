@@ -149,5 +149,21 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "54602"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ishidatoasakura",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "Ishida to Asakura"
+    }
+  ]
 }

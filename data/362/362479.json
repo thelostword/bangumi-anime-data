@@ -149,5 +149,55 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "362479"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28339851",
+      "begin": "2022-10-01T16:00:00.000Z",
+      "broadcast": "R/2022-10-01T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "121043",
+      "begin": "2022-10-01T16:00:00.000Z",
+      "broadcast": "R/2022-10-01T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81641155",
+      "begin": "2022-12-31T00:00:00.000Z",
+      "broadcast": "R/2022-12-31T00:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kokyu-anime",
+      "begin": "2022-10-04T03:00:00.000Z",
+      "broadcast": "R/2022-10-04T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0073146",
+      "begin": "2022-10-04T03:00:00.000Z",
+      "broadcast": "R/2022-10-04T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "121043",
+      "begin": "2022-10-01T16:00:00.000Z",
+      "broadcast": "R/2022-10-01T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "後宮之烏"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "632762d72eaf6e578875f806"
+    }
+  ]
 }

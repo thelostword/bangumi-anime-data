@@ -149,5 +149,21 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "332467"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "615bb91fd7f73dd4ed5c4401"
+    },
+    {
+      "site": "nicovideo",
+      "id": "teslanote",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

@@ -149,5 +149,59 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "297969"
+    },
+    {
+      "site": "nicovideo",
+      "id": "higurashianime_202010",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jj1KDCcoLBqT6tpeSjzbFN9",
+      "begin": "2020-09-30T16:00:00.000Z",
+      "broadcast": "R/2020-09-30T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtSZtTZA6VoFuiXRMYzxPb_e",
+      "begin": "2022-08-02T16:00:00.000Z",
+      "broadcast": "R/2022-08-02T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "109451",
+      "begin": "2020-10-01T15:30:00.000Z",
+      "broadcast": "R/2020-10-01T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0047355",
+      "begin": "2020-10-09T03:00:00.000Z",
+      "broadcast": "R/2020-10-09T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "109451",
+      "begin": "2020-10-01T15:30:00.000Z",
+      "broadcast": "R/2020-10-01T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "蟬 鳴 時 業|2020|10月新番"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5f7567fc4b840abcfc63b1aa"
+    },
+    {
+      "site": "mikan",
+      "id": "2299"
+    }
+  ]
 }

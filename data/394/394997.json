@@ -149,5 +149,59 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "394997"
+    },
+    {
+      "site": "netflix",
+      "id": "81644043",
+      "begin": "2023-04-13T16:00:00.000Z",
+      "broadcast": "R/2023-04-13T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "126302",
+      "begin": "2023-04-13T17:40:00.000Z",
+      "broadcast": "R/2023-04-13T17:40:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "20140628",
+      "begin": "2023-04-13T17:25:00.000Z",
+      "broadcast": "R/2023-04-13T17:25:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "osama-ranking-treasurechest",
+      "begin": "2023-04-14T03:00:00.000Z",
+      "broadcast": "R/2023-04-14T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0080316",
+      "begin": "2023-04-14T03:00:00.000Z",
+      "broadcast": "R/2023-04-14T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "126302",
+      "begin": "2023-04-13T17:40:00.000Z",
+      "broadcast": "R/2023-04-13T17:40:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "國王排名 勇氣"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6425d64255eb4cdc768e3994"
+    },
+    {
+      "site": "mikan",
+      "id": "2987"
+    }
+  ]
 }

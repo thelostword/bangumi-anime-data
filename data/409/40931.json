@@ -137,5 +137,23 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "40931"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jj8sua9J47dAFfc_s24jT7X",
+      "begin": "2022-11-26T16:00:00.000Z",
+      "broadcast": ""
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtSAEbBd8mgeEwaQgJtzbem6",
+      "begin": "2022-11-15T16:00:00.000Z",
+      "broadcast": ""
+    }
+  ]
 }

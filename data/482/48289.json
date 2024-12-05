@@ -149,5 +149,33 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "48289"
+    },
+    {
+      "site": "nicovideo",
+      "id": "seitokai2",
+      "begin": "2013-11-28T15:00:00.000Z",
+      "broadcast": "R/2013-11-28T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "20508163",
+      "begin": "2012-10-12T16:00:00.000Z",
+      "broadcast": "R/2012-10-20T20:36:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0033996",
+      "begin": "2018-06-07T03:00:00.000Z",
+      "broadcast": "R/2018-06-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "己之見|Ichizon"
+    }
+  ]
 }

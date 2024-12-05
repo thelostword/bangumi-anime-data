@@ -149,5 +149,39 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "320493"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "20140563",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "115814",
+      "begin": "2023-11-10T04:00:00.000Z",
+      "broadcast": "R/2023-11-10T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "watatentv-movie",
+      "begin": "2023-06-30T15:00:00.000Z",
+      "broadcast": "R/2023-06-30T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0079001",
+      "begin": "2023-02-10T03:00:00.000Z",
+      "broadcast": "R/2023-02-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "2932"
+    }
+  ]
 }

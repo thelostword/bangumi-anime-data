@@ -149,5 +149,56 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5525",
+      "begin": "2016-10-08T19:30:10.000Z",
+      "broadcast": "R/2016-10-08T19:30:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh9urth",
+      "begin": "2016-10-08T19:00:06.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "11256a1f852b11e6bdbb",
+      "begin": "2016-10-08T19:28:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "168417"
+    },
+    {
+      "site": "nicovideo",
+      "id": "udonnokuni-anime",
+      "begin": "2016-10-09T03:00:00.000Z",
+      "broadcast": "R/2016-10-09T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mgtv",
+      "id": "310552",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0026640",
+      "begin": "2019-06-28T03:00:00.000Z",
+      "broadcast": "R/2019-06-28T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "麵之國"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "57efc49eac5b9d0762d17500"
+    },
+    {
+      "site": "mikan",
+      "id": "877"
+    }
+  ]
 }

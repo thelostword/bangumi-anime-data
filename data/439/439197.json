@@ -97,5 +97,55 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "439197"
+    },
+    {
+      "site": "nicovideo",
+      "id": "shin-tenipri-u17-wcs",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0157073",
+      "begin": "2024-10-02T15:30:00.000Z",
+      "broadcast": "R/2024-10-02T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3465"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66fb601789c3a6ce864cbcbb"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "133028",
+      "begin": "2024-10-02T16:00:00.000Z",
+      "broadcast": "R/2024-10-02T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "viu",
+      "id": "2434004",
+      "begin": "2024-10-02T16:00:56.000Z",
+      "broadcast": "R/2024-10-02T16:00:56.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "133028",
+      "begin": "2024-10-02T16:00:00.000Z",
+      "broadcast": "R/2024-10-02T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "22995448",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

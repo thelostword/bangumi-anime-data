@@ -149,5 +149,46 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "3551",
+      "begin": "2016-04-08T10:30:00.000Z",
+      "broadcast": "R/2016-04-08T10:17:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "159661"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kuromukuro",
+      "begin": "2017-01-18T06:00:00.000Z",
+      "broadcast": "R/2017-01-18T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "80103318",
+      "begin": "2016-07-04T07:00:00.000Z",
+      "broadcast": "R/2016-07-03T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "1aebfc9ae36511e5b522",
+      "begin": "2016-04-08T08:31:44.000Z"
+    },
+    {
+      "site": "dmhy",
+      "id": "黑+骸"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "56fd5941c6dbe72e14a0d354"
+    },
+    {
+      "site": "mikan",
+      "id": "720"
+    }
+  ]
 }

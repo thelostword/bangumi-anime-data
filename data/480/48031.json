@@ -149,5 +149,44 @@
       "count": 9
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrifty6p",
+      "begin": "2014-09-12T06:30:33.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "637",
+      "begin": "2014-09-12T06:30:33.000Z",
+      "broadcast": "R/2015-05-07T02:53:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "48031"
+    },
+    {
+      "site": "nicovideo",
+      "id": "gj_anime",
+      "begin": "2014-05-16T06:00:00.000Z",
+      "broadcast": "R/2014-05-16T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002553",
+      "begin": "2022-04-26T15:00:00.000Z",
+      "broadcast": "R/2022-04-26T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "143-48",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "GJ部"
+    }
+  ]
 }

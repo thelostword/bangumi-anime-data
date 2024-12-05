@@ -149,5 +149,90 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "369768"
+    },
+    {
+      "site": "viu",
+      "id": "2117626",
+      "begin": "2023-04-09T16:00:00.000Z",
+      "broadcast": "R/2023-04-09T16:00:00.000Z/P7D",
+      "comment": "粵語版: 2164205"
+    },
+    {
+      "site": "gamer",
+      "id": "122787",
+      "begin": "2023-04-09T17:05:00.000Z",
+      "broadcast": "R/2023-04-09T17:05:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "20140389",
+      "begin": "2023-06-10T12:00:01.000Z",
+      "broadcast": "R/2023-06-10T12:00:01.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo",
+      "id": "20245143",
+      "begin": "2023-04-24T04:00:01.000Z",
+      "broadcast": "R/2023-04-24T04:00:01.000Z/P7D"
+    },
+    {
+      "site": "bilibili_tw",
+      "id": "20206368",
+      "begin": "2023-04-10T04:00:00.000Z",
+      "broadcast": "R/2023-04-10T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81091393",
+      "begin": "2023-04-10T04:00:00.000Z",
+      "broadcast": "R/2023-04-10T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kimetsu-katanakajinosatohen",
+      "begin": "2023-04-09T16:00:00.000Z",
+      "broadcast": "R/2023-04-09T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "26-75",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0079686",
+      "begin": "2023-04-09T16:00:00.000Z",
+      "broadcast": "R/2023-04-09T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "rAVSY4gBSACC",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "122787",
+      "begin": "2023-04-09T17:05:00.000Z",
+      "broadcast": "R/2023-04-09T17:05:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "鬼滅 刀 村"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6425d63755eb4cdc768e3962"
+    },
+    {
+      "site": "mikan",
+      "id": "2972"
+    }
+  ]
 }

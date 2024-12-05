@@ -149,5 +149,50 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "70efbfbd5d23144811ef",
+      "begin": "2017-04-04T13:55:00.000Z"
+    },
+    {
+      "site": "mgtv",
+      "id": "314020",
+      "begin": "2017-04-04T13:55:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "5966",
+      "begin": "2017-04-04T13:55:00.000Z",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "195328"
+    },
+    {
+      "site": "qq",
+      "id": "2/2d6emafoseqv8n2",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0029162",
+      "begin": "2021-05-29T03:00:00.000Z",
+      "broadcast": "R/2021-05-29T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "孩劇"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "58df79e979c3a0541f4b61bd"
+    },
+    {
+      "site": "mikan",
+      "id": "1265"
+    }
+  ]
 }

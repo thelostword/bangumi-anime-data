@@ -149,5 +149,39 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "240798"
+    },
+    {
+      "site": "nicovideo",
+      "id": "miabyss-movie",
+      "begin": "2020-03-20T06:00:00.000Z",
+      "broadcast": "R/2020-03-20T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28230043",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "112520",
+      "begin": "2020-07-27T09:00:00.000Z",
+      "broadcast": "R/2020-07-27T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0047058",
+      "begin": "2020-03-13T03:00:00.000Z",
+      "broadcast": "R/2020-03-13T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "2240"
+    }
+  ]
 }

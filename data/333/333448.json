@@ -149,5 +149,73 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "333448"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28237172",
+      "begin": "2022-04-07T15:00:00.000Z",
+      "broadcast": "R/2022-04-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "117023",
+      "begin": "2022-04-07T15:00:00.000Z",
+      "broadcast": "R/2022-04-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28237131",
+      "begin": "2022-04-28T15:00:01.000Z",
+      "broadcast": "R/2022-04-28T15:00:01.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UcgaSXSpLXoBgk6gTplvkJos",
+      "begin": "2022-04-07T15:00:00.000Z",
+      "broadcast": "R/2022-04-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81597507",
+      "begin": "2022-11-26T00:00:00.000Z",
+      "broadcast": "R/2022-11-26T00:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "skeleton-knight",
+      "begin": "2022-04-14T14:30:00.000Z",
+      "broadcast": "R/2022-04-14T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "54-69",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0066850",
+      "begin": "2022-04-14T14:30:00.000Z",
+      "broadcast": "R/2022-04-14T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "117023",
+      "begin": "2022-04-07T15:00:00.000Z",
+      "broadcast": "R/2022-04-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "骸骨騎士"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "624774a470e8f89b23a1855c"
+    }
+  ]
 }

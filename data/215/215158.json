@@ -149,5 +149,42 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "215158"
+    },
+    {
+      "site": "bilibili",
+      "id": "12492",
+      "begin": "2018-01-05T13:30:00.000Z",
+      "broadcast": "R/2018-01-05T13:30:00.000Z/P7D",
+      "comment": "中配: 89152"
+    },
+    {
+      "site": "nicovideo",
+      "id": "tojinomiko",
+      "begin": "2018-01-10T15:00:00.000Z",
+      "broadcast": "R/2018-01-10T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0032894",
+      "begin": "2018-01-11T03:00:00.000Z",
+      "broadcast": "R/2018-01-11T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "刀使"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5a43140117d48cbd4a9625ee"
+    },
+    {
+      "site": "mikan",
+      "id": "1489"
+    }
+  ]
 }

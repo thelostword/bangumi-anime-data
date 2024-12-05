@@ -121,5 +121,65 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "454787"
+    },
+    {
+      "site": "unext",
+      "id": "SID0157053",
+      "begin": "2024-10-06T17:00:00.000Z",
+      "broadcast": "R/2024-10-06T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66fb601c89c3a6ce864cbcdb"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JgWSohUFSUx4uQvvUZCAhj4",
+      "begin": "2024-10-03T17:00:32.000Z",
+      "broadcast": "R/2024-10-03T17:00:32.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "135595",
+      "begin": "2024-10-03T16:28:00.000Z",
+      "broadcast": "R/2024-10-03T16:28:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3458"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtTt5EvVbi-O59QXx6CthIwZ",
+      "begin": "2024-10-03T17:00:25.000Z",
+      "broadcast": "R/2024-10-03T17:00:25.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "135595",
+      "begin": "2024-10-03T16:28:00.000Z",
+      "broadcast": "R/2024-10-03T16:28:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "1JDzOIPINuuK",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "abema",
+      "id": "25-276",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "一兆 遊戲"
+    }
+  ]
 }

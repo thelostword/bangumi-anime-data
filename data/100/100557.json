@@ -149,5 +149,47 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "be6a268cb7e111e3a705",
+      "begin": "2014-07-06T17:35:00.000Z"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrgif6qp",
+      "begin": "2014-07-06T17:35:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "100557"
+    },
+    {
+      "site": "nicovideo",
+      "id": "dmmd-anime",
+      "begin": "2014-07-14T15:30:00.000Z"
+    },
+    {
+      "site": "gamer",
+      "id": "68520",
+      "begin": "2018-02-13T09:00:00.000Z",
+      "broadcast": "R/2018-02-13T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0011507",
+      "begin": "2019-07-25T03:00:00.000Z",
+      "broadcast": "R/2019-07-25T03:00:00.000Z/P7D",
+      "comment": "OVA: SID0087142"
+    },
+    {
+      "site": "dmhy",
+      "id": "DRAMAtical"
+    },
+    {
+      "site": "mikan",
+      "id": "371"
+    }
+  ]
 }

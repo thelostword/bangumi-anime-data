@@ -101,5 +101,16 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "41256"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ch287",
+      "begin": ""
+    }
+  ]
 }

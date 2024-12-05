@@ -149,5 +149,30 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrgi8ta9",
+      "begin": "2014-04-06T15:00:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "3807",
+      "begin": "2014-04-06T15:00:00.000Z",
+      "broadcast": "R/2018-07-05T06:51:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "95618"
+    },
+    {
+      "site": "dmhy",
+      "id": "破刃"
+    },
+    {
+      "site": "mikan",
+      "id": "314"
+    }
+  ]
 }

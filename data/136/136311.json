@@ -149,5 +149,26 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "136311"
+    },
+    {
+      "site": "nicovideo",
+      "id": "nachup",
+      "begin": "2015-08-28T12:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0019604",
+      "begin": "2015-08-28T03:00:00.000Z",
+      "broadcast": "R/2015-08-28T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5596ea9ba0b788232ee352eb"
+    }
+  ]
 }

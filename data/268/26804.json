@@ -149,5 +149,52 @@
       "count": 11
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhatfkd",
+      "begin": "2016-08-15T01:30:14.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "26804"
+    },
+    {
+      "site": "bilibili",
+      "id": "965",
+      "begin": "2013-02-22T16:00:00.000Z",
+      "broadcast": "R/2016-02-21T08:09:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "toaru-index-movie",
+      "begin": "2021-09-01T03:00:00.000Z",
+      "broadcast": "R/2021-09-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UcjyuDiweddsPnMOyjjMItIA",
+      "begin": "2019-07-25T16:00:00.000Z",
+      "broadcast": "R/2019-07-17T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "52207",
+      "begin": "2018-06-27T06:30:00.000Z",
+      "broadcast": "R/2018-06-27T06:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0012955",
+      "begin": "2018-05-02T03:00:00.000Z",
+      "broadcast": "R/2018-05-02T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "52207",
+      "begin": "2018-06-27T06:30:00.000Z",
+      "broadcast": "R/2018-06-27T06:30:00.000Z/P7D"
+    }
+  ]
 }

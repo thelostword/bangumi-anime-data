@@ -97,5 +97,26 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrgiej79",
+      "begin": "2014-06-24T07:52:30.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "55358"
+    },
+    {
+      "site": "unext",
+      "id": "SID0003149",
+      "begin": "2015-02-17T06:00:00.000Z",
+      "broadcast": "R/2015-02-17T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Beast Saga"
+    }
+  ]
 }

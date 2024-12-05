@@ -149,5 +149,76 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5807",
+      "begin": "2017-01-21T14:30:00.000Z",
+      "broadcast": "R/2017-01-21T14:30:00.000Z/P7D",
+      "comment": "OVA: 6398"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh91lud",
+      "begin": "2017-01-21T14:30:00.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "8f5275e0bebe11e68ce4",
+      "begin": "2017-01-21T14:30:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "186515"
+    },
+    {
+      "site": "nicovideo",
+      "id": "bang-dream",
+      "begin": "2020-01-30T04:00:00.000Z",
+      "broadcast": "R/2020-01-30T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UciCvWvVC4M2bEh4o06lvQ-K",
+      "begin": "2020-09-25T16:00:00.000Z",
+      "broadcast": "R/2020-09-25T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "84237",
+      "begin": "2017-01-21T14:30:00.000Z",
+      "broadcast": "R/2017-01-21T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "283-16",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0027988",
+      "begin": "2017-01-29T03:00:00.000Z",
+      "broadcast": "R/2017-01-29T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "84237",
+      "begin": "2017-01-21T14:30:00.000Z",
+      "broadcast": "R/2017-01-21T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "BanG+Dream"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5869a9e8efe56b1860c8f836"
+    },
+    {
+      "site": "mikan",
+      "id": "1166"
+    }
+  ]
 }

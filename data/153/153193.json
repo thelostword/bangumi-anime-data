@@ -149,5 +149,41 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "3377",
+      "begin": "2016-04-05T12:55:01.000Z",
+      "broadcast": "R/2016-04-05T12:55:01.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "153193"
+    },
+    {
+      "site": "nicovideo",
+      "id": "hakuoki-otogi",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0023830",
+      "begin": "2020-01-21T03:00:00.000Z",
+      "broadcast": "R/2020-01-21T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "薄櫻+御伽"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "56fd56e6c6dbe72e14a0d340"
+    },
+    {
+      "site": "mikan",
+      "id": "710"
+    }
+  ]
 }

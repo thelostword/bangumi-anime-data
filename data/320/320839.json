@@ -149,5 +149,59 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "320839"
+    },
+    {
+      "site": "bilibili",
+      "id": "28412512",
+      "begin": "2023-01-08T15:05:00.000Z",
+      "broadcast": "R/2023-01-08T15:05:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28480895",
+      "begin": "2023-01-08T15:05:00.000Z",
+      "broadcast": "R/2023-01-08T15:05:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "114726",
+      "begin": "2023-01-08T15:05:00.000Z",
+      "broadcast": "R/2023-01-08T15:05:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kyokousuiri2",
+      "begin": "2023-01-14T03:00:00.000Z",
+      "broadcast": "R/2023-01-14T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0076923",
+      "begin": "2023-01-14T03:00:00.000Z",
+      "broadcast": "R/2023-01-14T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "114726",
+      "begin": "2023-01-08T15:05:00.000Z",
+      "broadcast": "R/2023-01-08T15:05:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "虛構推理 2季|二季|2期|二期|S02|S2|2nd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "63b58c3d441dff2ff8927e57"
+    },
+    {
+      "site": "mikan",
+      "id": "2902"
+    }
+  ]
 }

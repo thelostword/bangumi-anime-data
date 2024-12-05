@@ -149,5 +149,48 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "411268"
+    },
+    {
+      "site": "bilibili",
+      "id": "21085589",
+      "begin": "2023-10-06T16:23:01.000Z",
+      "broadcast": "R/2023-10-06T16:23:01.000Z/P7D",
+      "comment": "中配: 21085608"
+    },
+    {
+      "site": "nicovideo",
+      "id": "2nd_arknights-anime",
+      "begin": "2023-10-07T01:00:00.000Z",
+      "broadcast": "R/2023-10-07T01:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "210-9",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0093579",
+      "begin": "2023-10-07T01:00:00.000Z",
+      "broadcast": "R/2023-10-07T01:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "冬隱"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "65186f864c90aa63daeaa231"
+    },
+    {
+      "site": "mikan",
+      "id": "3188"
+    }
+  ]
 }

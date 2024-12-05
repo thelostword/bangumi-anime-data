@@ -149,5 +149,71 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "405785"
+    },
+    {
+      "site": "unext",
+      "id": "SID0100063",
+      "begin": "2024-04-09T14:30:00.000Z",
+      "broadcast": "R/2024-04-09T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "yurucamp_third",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "abema",
+      "id": "247-5",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "128167",
+      "begin": "2024-04-04T14:30:00.000Z",
+      "broadcast": "R/2024-04-04T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JgpM3BhpeDhDvAXuIUQjOj6",
+      "begin": "2024-04-04T14:30:07.000Z",
+      "broadcast": "R/2024-04-04T14:30:07.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtS9XXLNeCK883vWIQDZIsn6",
+      "begin": "2024-04-04T14:30:07.000Z",
+      "broadcast": "R/2024-04-04T14:30:07.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "128167",
+      "begin": "2024-04-04T14:30:00.000Z",
+      "broadcast": "R/2024-04-04T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "露營 3季|三季|3期|三期|S03|S3|3rd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66097bc216e6bbcc806d3432"
+    },
+    {
+      "site": "mikan",
+      "id": "3296"
+    },
+    {
+      "site": "bilibili",
+      "id": "21775114",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

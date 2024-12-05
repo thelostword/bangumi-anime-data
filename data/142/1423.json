@@ -145,5 +145,22 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrjzen3l",
+      "begin": "2012-07-01T06:25:22.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "1423"
+    },
+    {
+      "site": "bilibili",
+      "id": "3224",
+      "begin": "2015-12-20T06:33:00.000Z",
+      "broadcast": "R/2015-12-20T06:33:00.000Z/P7D"
+    }
+  ]
 }

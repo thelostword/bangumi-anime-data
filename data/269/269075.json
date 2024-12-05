@@ -149,5 +149,31 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "269075"
+    },
+    {
+      "site": "nicovideo",
+      "id": "nobutsuma-anime",
+      "begin": "2019-04-08T15:30:00.000Z",
+      "broadcast": "R/2019-04-08T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ca206b3d8405d2d2e62b95f"
+    },
+    {
+      "site": "mikan",
+      "id": "1923"
+    },
+    {
+      "site": "unext",
+      "id": "SID0040185",
+      "begin": "2019-03-08T03:00:00.000Z",
+      "broadcast": "R/2019-03-08T03:00:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,67 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "332446"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28237184",
+      "begin": "2022-04-08T14:00:00.000Z",
+      "broadcast": "R/2022-04-08T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28237127",
+      "begin": "2022-04-08T14:00:00.000Z",
+      "broadcast": "R/2022-04-08T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "116799",
+      "begin": "2022-04-08T14:00:00.000Z",
+      "broadcast": "R/2022-04-08T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JiNzLbx2do5nOpObPMy6BGu",
+      "begin": "2022-04-07T14:00:00.000Z",
+      "broadcast": "R/2022-04-07T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "viu",
+      "id": "431943",
+      "begin": "2022-04-07T16:00:00.000Z",
+      "broadcast": "R/2022-04-07T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "koiseka-anime",
+      "begin": "2022-04-08T13:30:00.000Z",
+      "broadcast": "R/2022-04-08T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0066853",
+      "begin": "2022-04-08T13:30:00.000Z",
+      "broadcast": "R/2022-04-08T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "116799",
+      "begin": "2022-04-08T14:00:00.000Z",
+      "broadcast": "R/2022-04-08T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "征服世界後"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "624774a570e8f89b23a18564"
+    }
+  ]
 }

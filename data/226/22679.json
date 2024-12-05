@@ -149,5 +149,64 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrgiebgp",
+      "begin": "2014-06-25T06:23:18.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "v/vugqg7s5mm72ixy",
+      "begin": ""
+    },
+    {
+      "site": "mgtv",
+      "id": "51378",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "22679"
+    },
+    {
+      "site": "nicovideo",
+      "id": "shin-tenipri",
+      "begin": "2012-01-29T16:30:00.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "7cdb3adc0da511e1a046",
+      "begin": "2014-08-19T02:59:37.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "4308962",
+      "begin": "2012-01-03T16:00:00.000Z",
+      "broadcast": "R/2018-11-14T05:55:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0011461",
+      "begin": "2020-12-26T15:00:00.000Z",
+      "broadcast": "R/2020-12-26T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "51108",
+      "begin": "2024-03-08T04:00:00.000Z",
+      "broadcast": "R/2024-03-08T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "51108",
+      "begin": "2024-03-08T04:00:00.000Z",
+      "broadcast": "R/2024-03-08T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "新網球"
+    }
+  ]
 }

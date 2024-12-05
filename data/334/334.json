@@ -149,5 +149,28 @@
       "count": 13
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "334"
+    },
+    {
+      "site": "nicovideo",
+      "id": "fullmetal-panic",
+      "begin": "2019-10-14T06:00:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "22959248",
+      "begin": "2010-07-29T03:55:00.000Z",
+      "broadcast": "R/2010-07-29T03:55:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0013376",
+      "begin": "2018-04-20T03:00:00.000Z",
+      "broadcast": "R/2018-04-20T03:00:00.000Z/P7D"
+    }
+  ]
 }

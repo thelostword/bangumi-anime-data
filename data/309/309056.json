@@ -149,5 +149,71 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "309056"
+    },
+    {
+      "site": "bilibili",
+      "id": "28234614",
+      "begin": "2021-07-02T17:55:00.000Z",
+      "broadcast": "R/2021-07-02T17:55:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UciceC14F8-9VyfN1xuSJt_d",
+      "begin": "2021-10-31T16:00:00.000Z",
+      "broadcast": "R/2021-10-31T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "115336",
+      "begin": "2021-07-02T17:55:00.000Z",
+      "broadcast": "R/2021-07-02T17:55:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28234702",
+      "begin": "2021-07-02T17:55:00.000Z",
+      "broadcast": "R/2021-07-02T17:55:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "169-115",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0058453",
+      "begin": "2021-07-07T17:00:00.000Z",
+      "broadcast": "R/2021-07-07T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "115336",
+      "begin": "2021-07-02T17:55:00.000Z",
+      "broadcast": "R/2021-07-02T17:55:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "女性向遊戲|乙女遊戲|惡役 X"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "60de5db206c78696e4d11626"
+    },
+    {
+      "site": "mikan",
+      "id": "2500"
+    },
+    {
+      "site": "mytv",
+      "id": "mynextlifeasavillainessallroutesleadtodoomx_141950",
+      "begin": "2024-10-15T16:00:00.000Z",
+      "broadcast": "R/2024-10-15T16:00:00.000Z/P7D"
+    }
+  ]
 }

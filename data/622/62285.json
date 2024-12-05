@@ -149,5 +149,32 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "033b8b22863111e2b16f",
+      "begin": "2013-04-09T00:15:26.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "62285"
+    },
+    {
+      "site": "nicovideo",
+      "id": "prettyrhythm_rl",
+      "begin": "2013-04-19T10:30:00.000Z",
+      "broadcast": "R/2013-04-19T10:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002846",
+      "begin": "2019-06-07T03:00:00.000Z",
+      "broadcast": "R/2019-06-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "233"
+    }
+  ]
 }

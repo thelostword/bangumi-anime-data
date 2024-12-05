@@ -149,5 +149,37 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "235130"
+    },
+    {
+      "site": "bilibili",
+      "id": "102312",
+      "begin": "2018-07-13T17:25:00.000Z",
+      "broadcast": "R/2018-07-13T17:45:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "grandblue-anime",
+      "begin": "2018-12-21T03:00:00.000Z",
+      "broadcast": "R/2018-12-21T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0038892",
+      "begin": "2018-12-24T03:00:00.000Z",
+      "broadcast": "R/2018-12-24T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5b38c4bab3d4e8ef387d7ee5"
+    },
+    {
+      "site": "mikan",
+      "id": "1678"
+    }
+  ]
 }

@@ -149,5 +149,37 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "217405"
+    },
+    {
+      "site": "bilibili",
+      "id": "28221282",
+      "begin": "2019-10-04T16:00:00.000Z",
+      "broadcast": "R/2019-10-04T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "dollsfrontline_minianime",
+      "begin": "2019-12-07T12:00:00.000Z",
+      "broadcast": "R/2019-12-07T12:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "108006",
+      "begin": "2019-10-04T16:00:00.000Z",
+      "broadcast": "R/2019-10-04T16:00:00.000Z/P7D",
+      "comment": "狂亂篇: 109326"
+    },
+    {
+      "site": "unext",
+      "id": "SID0068645",
+      "begin": "2022-04-30T15:00:00.000Z",
+      "broadcast": "R/2022-04-30T15:00:00.000Z/P7D",
+      "comment": "狂亂編: SID0068646"
+    }
+  ]
 }

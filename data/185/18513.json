@@ -149,5 +149,20 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "z/z815w0i978vt1bh",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "18513"
+    },
+    {
+      "site": "dmhy",
+      "id": "哈姆太郎"
+    }
+  ]
 }

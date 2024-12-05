@@ -149,5 +149,36 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "89751"
+    },
+    {
+      "site": "nicovideo",
+      "id": "mangakasan",
+      "begin": "2014-04-10T03:00:00.000Z",
+      "broadcast": "R/2014-04-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "qq",
+      "id": "6/6x90bmhf9lnm0fb",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0017039",
+      "begin": "2014-05-01T06:00:00.000Z",
+      "broadcast": "R/2014-05-01T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "與助"
+    },
+    {
+      "site": "mikan",
+      "id": "315"
+    }
+  ]
 }

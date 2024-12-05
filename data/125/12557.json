@@ -149,5 +149,32 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "12557"
+    },
+    {
+      "site": "nicovideo",
+      "id": "mashiro",
+      "begin": "2011-10-05T15:30:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "868",
+      "begin": "2011-10-03T16:00:00.000Z",
+      "broadcast": "R/2011-10-04T21:09:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0003055",
+      "begin": "2014-10-10T06:00:00.000Z",
+      "broadcast": "R/2014-10-10T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "白交"
+    }
+  ]
 }

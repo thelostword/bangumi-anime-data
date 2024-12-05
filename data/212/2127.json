@@ -149,5 +149,23 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "6/6pnj579h402jj1m",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "2127"
+    },
+    {
+      "site": "unext",
+      "id": "SID0003419",
+      "begin": "2022-04-01T03:00:00.000Z",
+      "broadcast": "R/2022-04-01T03:00:00.000Z/P7D",
+      "comment": "後編 あめつち ～universe～: SID0003427"
+    }
+  ]
 }

@@ -179,5 +179,59 @@
       "total_cont": 0
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "472331"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kamonohashiron_2",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0157055",
+      "begin": "2024-10-07T13:30:00.000Z",
+      "broadcast": "R/2024-10-07T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66fb601389c3a6ce864cbc9f"
+    },
+    {
+      "site": "abema",
+      "id": "25-248",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3490"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtSx9wT7Sx3JEBRmiFE3mn5P",
+      "begin": "2024-10-07T13:30:00.000Z",
+      "broadcast": "R/2024-10-07T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JiAloVDlPwhb4Cu2UOjyZwp",
+      "begin": "2024-10-07T13:30:00.000Z",
+      "broadcast": "R/2024-10-07T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "22878448",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "鴨乃橋論 2季|二季|2期|二期|S02|S2|2nd"
+    }
+  ]
 }

@@ -149,5 +149,33 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhaxgld",
+      "begin": "2015-01-03T14:00:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "113631"
+    },
+    {
+      "site": "nicovideo",
+      "id": "milky-holmes04",
+      "begin": "2015-01-07T14:30:00.000Z"
+    },
+    {
+      "site": "dmhy",
+      "id": "歌劇+TD"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "549981d6c8b118cf40b274d7"
+    },
+    {
+      "site": "mikan",
+      "id": "429"
+    }
+  ]
 }

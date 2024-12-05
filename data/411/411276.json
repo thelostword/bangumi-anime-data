@@ -149,5 +149,71 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "411276"
+    },
+    {
+      "site": "nicovideo",
+      "id": "mission-yozakura",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0100044",
+      "begin": "2024-04-10T08:30:00.000Z",
+      "broadcast": "R/2024-04-10T08:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "11-60",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "viu",
+      "id": "2339515",
+      "begin": "2024-04-07T08:30:01.000Z",
+      "broadcast": "R/2024-04-07T08:30:01.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "129301",
+      "begin": "2024-04-07T08:30:00.000Z",
+      "broadcast": "R/2024-04-07T08:30:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81766575",
+      "begin": "2024-04-06T16:00:00.000Z",
+      "broadcast": "R/2024-04-06T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "129301",
+      "begin": "2024-04-07T08:30:00.000Z",
+      "broadcast": "R/2024-04-07T08:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "夜櫻家"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66097bb516e6bbcc806d33fc"
+    },
+    {
+      "site": "mikan",
+      "id": "3304"
+    },
+    {
+      "site": "bilibili",
+      "id": "22134462",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

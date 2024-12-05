@@ -149,5 +149,15 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "46451"
+    },
+    {
+      "site": "dmhy",
+      "id": "荔枝"
+    }
+  ]
 }

@@ -149,5 +149,26 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "46728"
+    },
+    {
+      "site": "nicovideo",
+      "id": "rdg",
+      "begin": "2014-01-05T15:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0012734",
+      "begin": "2017-01-12T03:00:00.000Z",
+      "broadcast": "R/2017-01-12T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "濒危"
+    }
+  ]
 }

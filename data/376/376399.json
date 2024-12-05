@@ -149,5 +149,55 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "376399"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28435373",
+      "begin": "2023-01-13T16:23:00.000Z",
+      "broadcast": "R/2023-01-13T16:23:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28340325",
+      "begin": "2023-01-13T16:23:00.000Z",
+      "broadcast": "R/2023-01-13T16:23:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JiS5_iewJyAhFz7_L_f1Z6X",
+      "begin": "2023-01-13T17:30:00.000Z",
+      "broadcast": "R/2023-01-13T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "127590",
+      "begin": "2023-01-13T17:23:00.000Z",
+      "broadcast": "R/2023-01-13T17:23:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "shinkanomi-anime",
+      "begin": "2023-01-20T15:00:00.000Z",
+      "broadcast": "R/2023-01-20T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0076930",
+      "begin": "2023-01-20T15:00:00.000Z",
+      "broadcast": "R/2023-01-20T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "真 進化 實"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "63b58c4f441dff2ff8927e97"
+    }
+  ]
 }

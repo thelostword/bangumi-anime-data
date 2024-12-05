@@ -149,5 +149,28 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhc0xpd",
+      "begin": "2014-10-03T18:05:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "106314"
+    },
+    {
+      "site": "dmhy",
+      "id": "spread+wixoss"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "548fa282f892774b140ac6b2"
+    },
+    {
+      "site": "mikan",
+      "id": "405"
+    }
+  ]
 }

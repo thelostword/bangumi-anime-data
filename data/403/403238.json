@@ -149,5 +149,55 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "403238"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtSmLNzQrV-qzNZcyKS7pMt8",
+      "begin": "2023-04-09T09:00:00.000Z",
+      "broadcast": "R/2023-04-09T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JgY8RwCgV5CVcJGjCjkLkti",
+      "begin": "2023-04-09T09:00:00.000Z",
+      "broadcast": "R/2023-04-09T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "viu",
+      "id": "2119357",
+      "begin": "2023-04-09T09:00:00.000Z",
+      "broadcast": "R/2023-04-09T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "130372",
+      "begin": "2023-04-09T09:00:00.000Z",
+      "broadcast": "R/2023-04-09T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28339749",
+      "begin": "2023-04-09T09:00:00.000Z",
+      "broadcast": "R/2023-04-09T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81643097",
+      "begin": "2023-04-09T16:00:00.000Z",
+      "broadcast": "R/2023-04-09T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "水星 魔女 2季|二季|2期|二期|S02|S2|2nd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6425d63655eb4cdc768e395c"
+    }
+  ]
 }

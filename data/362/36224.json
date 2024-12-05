@@ -105,5 +105,29 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "36224"
+    },
+    {
+      "site": "nicovideo",
+      "id": "warau",
+      "begin": "2017-03-15T06:00:00.000Z"
+    },
+    {
+      "site": "abema",
+      "id": "35-30",
+      "begin": "",
+      "broadcast": "",
+      "comment": "#53-103 + SP: 35-35"
+    },
+    {
+      "site": "unext",
+      "id": "SID0028595",
+      "begin": "2017-03-15T03:00:00.000Z",
+      "broadcast": "R/2017-03-15T03:00:00.000Z/P7D"
+    }
+  ]
 }

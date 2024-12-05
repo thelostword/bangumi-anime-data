@@ -149,5 +149,47 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "396988"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28480918",
+      "begin": "2023-01-04T16:00:00.000Z",
+      "broadcast": "R/2023-01-04T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28391103",
+      "begin": "2023-06-21T12:00:01.000Z",
+      "broadcast": "R/2023-06-21T12:00:01.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0076905",
+      "begin": "2023-01-06T17:44:00.000Z",
+      "broadcast": "R/2023-01-06T17:44:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "3vSk2Lakbd0J",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "弦音 一箭|一射"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "63b58c46441dff2ff8927e79"
+    },
+    {
+      "site": "mikan",
+      "id": "2892"
+    }
+  ]
 }

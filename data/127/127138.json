@@ -121,5 +121,23 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "0a14b8a862d411e3a705",
+      "begin": "2014-01-11T10:01:38.000Z",
+      "broadcast": "R/2014-01-11T10:01:38.000Z/P7D"
+    },
+    {
+      "site": "qq",
+      "id": "g/gkvdkxuaepreo2m",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "127138"
+    }
+  ]
 }

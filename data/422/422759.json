@@ -149,5 +149,22 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "422759"
+    },
+    {
+      "site": "bilibili_tw",
+      "id": "20161245",
+      "begin": "",
+      "broadcast": "",
+      "comment": "遊郭潛入篇, 遊郭決戰篇: 20203323"
+    },
+    {
+      "site": "mikan",
+      "id": "3034"
+    }
+  ]
 }

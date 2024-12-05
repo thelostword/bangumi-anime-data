@@ -149,5 +149,21 @@
       "count": 11
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "10459"
+    },
+    {
+      "site": "unext",
+      "id": "SID0017026",
+      "begin": "2022-04-27T03:00:00.000Z",
+      "broadcast": "R/2022-04-27T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "迷茫管家"
+    }
+  ]
 }

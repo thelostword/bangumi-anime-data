@@ -149,5 +149,29 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "240835"
+    },
+    {
+      "site": "unext",
+      "id": "SID0062107",
+      "begin": "2021-10-23T03:00:00.000Z",
+      "broadcast": "R/2021-10-23T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "巴比倫 babylon 720p|バビロン"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5d9392b64e9c003faceb5c60"
+    },
+    {
+      "site": "mikan",
+      "id": "2048"
+    }
+  ]
 }

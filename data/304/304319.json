@@ -149,5 +149,71 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "304319"
+    },
+    {
+      "site": "bilibili",
+      "id": "28234644",
+      "begin": "2021-07-03T17:30:00.000Z",
+      "broadcast": "R/2021-07-03T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28234733",
+      "begin": "2021-07-03T17:30:01.000Z",
+      "broadcast": "R/2021-07-03T17:30:01.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "110969",
+      "begin": "2021-07-03T17:30:00.000Z",
+      "broadcast": "R/2021-07-03T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81686608",
+      "begin": "2023-07-13T16:00:00.000Z",
+      "broadcast": "R/2023-07-13T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "genkoku-anime",
+      "begin": "2021-10-20T03:00:00.000Z",
+      "broadcast": "R/2021-10-20T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "115-99",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0058459",
+      "begin": "2021-10-11T03:00:00.000Z",
+      "broadcast": "R/2021-10-11T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "110969",
+      "begin": "2021-07-03T17:30:00.000Z",
+      "broadcast": "R/2021-07-03T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "重建記"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "60de5dba06c78696e4d11636"
+    },
+    {
+      "site": "mikan",
+      "id": "2510"
+    }
+  ]
 }

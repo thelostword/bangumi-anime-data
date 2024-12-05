@@ -105,5 +105,35 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "215726"
+    },
+    {
+      "site": "nicovideo",
+      "id": "skirt-w-anime",
+      "begin": "2017-12-22T09:00:00.000Z",
+      "broadcast": "R/2017-12-22T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "裙+獸"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "595682b5cc40e0d626c23518"
+    },
+    {
+      "site": "mikan",
+      "id": "1363"
+    },
+    {
+      "site": "unext",
+      "id": "SID0041170",
+      "begin": "2024-11-12T03:00:00.000Z",
+      "broadcast": "R/2024-11-12T03:00:00.000Z/P7D"
+    }
+  ]
 }

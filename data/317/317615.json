@@ -149,5 +149,49 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "317615"
+    },
+    {
+      "site": "nicovideo",
+      "id": "hetalia-ws",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "114343",
+      "begin": "2021-03-31T16:05:00.000Z",
+      "broadcast": "R/2021-03-31T16:05:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "114343",
+      "begin": "2021-03-31T16:05:00.000Z",
+      "broadcast": "R/2021-03-31T16:05:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Ucjw-J3kkXs12FL_oKMSK5NI",
+      "begin": "2021-03-31T16:05:00.000Z",
+      "broadcast": "R/2021-03-31T16:05:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0056117",
+      "begin": "2021-03-31T15:00:00.000Z",
+      "broadcast": "R/2021-03-31T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6065f097eaf504d0216b77a3"
+    },
+    {
+      "site": "mikan",
+      "id": "2473"
+    }
+  ]
 }

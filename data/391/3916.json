@@ -149,5 +149,28 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "w/wcuqxhr4knw402g",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "3916"
+    },
+    {
+      "site": "nicovideo",
+      "id": "basilisk",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0002287",
+      "begin": "2015-02-16T15:00:00.000Z",
+      "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+    }
+  ]
 }

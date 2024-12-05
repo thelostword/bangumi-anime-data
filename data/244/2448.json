@@ -149,5 +149,28 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "2/2cxoeduk8id9hlf",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "2448"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kemeko",
+      "begin": "2011-11-09T06:00:00.000Z",
+      "broadcast": "R/2011-11-09T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0012961",
+      "begin": "2019-12-30T03:00:00.000Z",
+      "broadcast": "R/2019-12-30T03:00:00.000Z/P7D"
+    }
+  ]
 }

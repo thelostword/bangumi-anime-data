@@ -149,5 +149,73 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "242170"
+    },
+    {
+      "site": "bilibili",
+      "id": "102252",
+      "begin": "2018-07-10T14:30:00.000Z",
+      "broadcast": "R/2018-07-10T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "overlord-anime3",
+      "begin": "2018-07-17T15:30:00.000Z",
+      "broadcast": "R/2018-07-17T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jj-qPvH9bUUeEKo26qicFm_",
+      "begin": "2021-11-01T16:00:00.000Z",
+      "broadcast": "R/2021-11-01T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtSHMMuketAA0NW7unfaBbMk",
+      "begin": "2022-10-01T16:00:00.000Z",
+      "broadcast": "R/2022-10-01T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "5CNwVLpigBya",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "96391",
+      "begin": "2019-06-06T09:10:00.000Z",
+      "broadcast": "R/2019-06-06T09:10:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-6",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0035904",
+      "begin": "2018-07-18T03:00:00.000Z",
+      "broadcast": "R/2018-07-18T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "96391",
+      "begin": "2019-06-06T09:10:00.000Z",
+      "broadcast": "R/2019-06-06T09:10:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5b38c4a7b3d4e8ef387d7ec5"
+    },
+    {
+      "site": "mikan",
+      "id": "1702"
+    }
+  ]
 }

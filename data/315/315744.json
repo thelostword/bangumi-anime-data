@@ -149,5 +149,37 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "315744"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28339743",
+      "begin": "2022-10-01T14:00:00.000Z",
+      "broadcast": "R/2022-10-01T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "uzakichan2",
+      "begin": "2022-10-08T14:00:00.000Z",
+      "broadcast": "R/2022-10-08T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0073141",
+      "begin": "2022-10-08T14:00:00.000Z",
+      "broadcast": "R/2022-10-08T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "宇崎 ω|2季|二季|2期|二期|S02|S2|2nd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "632762d52eaf6e578875f7fe"
+    }
+  ]
 }

@@ -149,5 +149,49 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrjtiagp",
+      "begin": "2012-12-12T03:29:06.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "a/acfk5vfysdwag2u",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "20926"
+    },
+    {
+      "site": "mgtv",
+      "id": "103475",
+      "begin": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "33232",
+      "begin": "2006-03-23T16:00:01.000Z",
+      "broadcast": "R/2017-12-29T08:08:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "tennipri-ova",
+      "begin": "2019-07-27T15:00:00.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "efc54e4261ad11e0bea1",
+      "begin": "2013-03-06T06:15:28.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0042473",
+      "begin": "2019-08-10T03:00:00.000Z",
+      "broadcast": "R/2019-08-10T03:00:00.000Z/P7D",
+      "comment": "Semifinal: SID0042474, Final: SID0042475"
+    }
+  ]
 }

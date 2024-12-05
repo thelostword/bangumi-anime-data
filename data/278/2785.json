@@ -149,5 +149,29 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "2785"
+    },
+    {
+      "site": "bilibili",
+      "id": "28223352",
+      "begin": "2019-11-01T09:51:00.000Z",
+      "broadcast": "R/2019-11-01T09:51:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0013917",
+      "begin": "2023-12-23T03:00:00.000Z",
+      "broadcast": "R/2023-12-23T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "415-9",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

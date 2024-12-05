@@ -149,5 +149,37 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "436745"
+    },
+    {
+      "site": "nicovideo",
+      "id": "bucchigiri_anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0095995",
+      "begin": "2024-01-14T14:30:00.000Z",
+      "broadcast": "R/2024-01-14T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "536-5",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "659142b0b885a81efda11604"
+    },
+    {
+      "site": "mikan",
+      "id": "3250"
+    }
+  ]
 }

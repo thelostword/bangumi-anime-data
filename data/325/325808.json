@@ -149,5 +149,41 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "325808"
+    },
+    {
+      "site": "netflix",
+      "id": "81574246",
+      "begin": "2023-04-02T16:00:00.000Z",
+      "broadcast": "R/2023-04-02T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "地獄樂"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6425d64c55eb4cdc768e39b2"
+    },
+    {
+      "site": "mikan",
+      "id": "2996"
+    },
+    {
+      "site": "unext",
+      "id": "SID0148138",
+      "begin": "2024-07-25T03:00:00.000Z",
+      "broadcast": "R/2024-07-25T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "560-2",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

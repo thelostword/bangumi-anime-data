@@ -81,5 +81,22 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "f/fataqofbrg3l7y8",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "73010"
+    },
+    {
+      "site": "bilibili",
+      "id": "2094",
+      "begin": "2001-10-03T16:00:00.000Z",
+      "broadcast": "R/2015-01-27T11:23:00.000Z/P7D"
+    }
+  ]
 }

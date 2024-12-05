@@ -133,5 +133,28 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "4/4tohd6zvnip5odc",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "118573"
+    },
+    {
+      "site": "nicovideo",
+      "id": "hokuto-no-ken",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0028276",
+      "begin": "2019-06-13T03:00:00.000Z",
+      "broadcast": "R/2019-06-13T03:00:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,33 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "9726"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ch60017",
+      "begin": "2011-04-22T12:00:00.000Z",
+      "broadcast": "R/2011-04-22T12:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "921",
+      "begin": "2011-04-07T16:00:00.000Z",
+      "broadcast": "R/2011-04-08T10:22:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0017030",
+      "begin": "2018-10-16T03:00:00.000Z",
+      "broadcast": "R/2018-10-16T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "狂熱+alive"
+    }
+  ]
 }

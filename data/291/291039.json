@@ -149,5 +149,81 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "28228434",
+      "begin": "2020-04-06T17:30:00.000Z",
+      "broadcast": "R/2020-04-06T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "291039"
+    },
+    {
+      "site": "nicovideo",
+      "id": "fruba_2",
+      "begin": "2020-04-07T03:00:00.000Z",
+      "broadcast": "R/2020-04-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhlhs01",
+      "begin": ""
+    },
+    {
+      "site": "youku",
+      "id": "fafe56cd23b04fcda3e8",
+      "begin": "2020-04-06T17:28:05.000Z"
+    },
+    {
+      "site": "netflix",
+      "id": "80987063",
+      "begin": "2021-01-28T16:00:00.000Z",
+      "broadcast": "R/2021-01-28T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "104514",
+      "begin": "2020-04-06T17:30:00.000Z",
+      "broadcast": "R/2020-04-06T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_tw",
+      "id": "28228487",
+      "begin": "2020-04-06T17:30:00.000Z",
+      "broadcast": "R/2020-04-06T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "5m4JmjCRX6kH",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0047140",
+      "begin": "2020-04-12T03:00:00.000Z",
+      "broadcast": "R/2020-04-12T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "104514",
+      "begin": "2020-04-06T17:30:00.000Z",
+      "broadcast": "R/2020-04-06T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "水果 2019 2季|二季|2期|二期|S02|S2|2nd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5e82285c657e22f4195cc770"
+    },
+    {
+      "site": "mikan",
+      "id": "2197"
+    }
+  ]
 }

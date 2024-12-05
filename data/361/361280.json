@@ -149,5 +149,27 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "361280"
+    },
+    {
+      "site": "netflix",
+      "id": "81345945",
+      "begin": "2022-04-27T16:00:00.000Z",
+      "broadcast": "R/2022-04-27T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28237357",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6283501c3d5c3100076a12d9"
+    }
+  ]
 }

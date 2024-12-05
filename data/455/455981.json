@@ -149,5 +149,53 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "455981"
+    },
+    {
+      "site": "viu",
+      "id": "2341871",
+      "begin": "2024-04-12T16:00:00.000Z",
+      "broadcast": "R/2024-04-12T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "116223",
+      "begin": "2024-04-12T16:00:00.000Z",
+      "broadcast": "R/2024-04-12T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "maohgakuin2",
+      "begin": "2024-04-12T16:00:00.000Z",
+      "broadcast": "R/2024-04-12T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-147",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0076920",
+      "begin": "2023-01-14T15:30:00.000Z",
+      "broadcast": "R/2023-01-14T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "魔王學院 2季|二季|2期|二期|S02|S2|2nd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66097bc616e6bbcc806d3446"
+    },
+    {
+      "site": "mikan",
+      "id": "3303"
+    }
+  ]
 }

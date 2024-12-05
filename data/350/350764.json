@@ -149,5 +149,85 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "350764"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kimetsu_mugenresshahen",
+      "begin": "2021-10-10T15:00:00.000Z",
+      "broadcast": "R/2021-10-10T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "viu",
+      "id": "398200",
+      "begin": "2021-10-09T16:00:00.000Z",
+      "broadcast": "R/2021-10-09T16:00:00.000Z/P7D",
+      "comment": "粵語版:408018"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28235287",
+      "begin": "2021-10-10T15:45:01.000Z",
+      "broadcast": "R/2021-10-10T15:45:01.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81091393",
+      "begin": "2021-10-24T00:00:00.000Z",
+      "broadcast": "R/2021-10-24T00:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "3ucbeCn14Hfw",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "119873",
+      "begin": "2021-10-10T15:45:00.000Z",
+      "broadcast": "R/2021-10-10T15:45:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo",
+      "id": "28235288",
+      "begin": "2021-10-24T15:45:01.000Z",
+      "broadcast": "R/2021-10-24T15:45:01.000Z/P7D"
+    },
+    {
+      "site": "bilibili_tw",
+      "id": "28235287",
+      "begin": "2021-10-10T15:45:01.000Z",
+      "broadcast": "R/2021-10-10T15:45:01.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28235136",
+      "begin": "2021-11-17T12:00:01.000Z",
+      "broadcast": "R/2021-11-17T12:00:01.000Z/P7D",
+      "comment": "中配版: 28236711"
+    },
+    {
+      "site": "abema",
+      "id": "26-75",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0061982",
+      "begin": "2021-10-10T15:00:00.000Z",
+      "broadcast": "R/2021-10-10T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "119873",
+      "begin": "2021-10-10T15:45:00.000Z",
+      "broadcast": "R/2021-10-10T15:45:00.000Z/P7D"
+    }
+  ]
 }

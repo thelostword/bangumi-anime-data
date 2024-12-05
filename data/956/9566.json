@@ -149,5 +149,29 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhb1d0l",
+      "begin": "2015-12-30T08:59:15.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "9566"
+    },
+    {
+      "site": "abema",
+      "id": "5-31",
+      "begin": "",
+      "broadcast": "",
+      "comment": "悟空外伝！ 勇気の証しは四星球: 5-32"
+    },
+    {
+      "site": "unext",
+      "id": "SID0011499",
+      "begin": "2018-04-27T15:00:00.000Z",
+      "broadcast": "R/2018-04-27T15:00:00.000Z/P7D"
+    }
+  ]
 }

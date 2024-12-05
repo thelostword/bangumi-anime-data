@@ -149,5 +149,23 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "217573"
+    },
+    {
+      "site": "netflix",
+      "id": "80196883",
+      "begin": "2019-04-18T16:00:00.000Z",
+      "broadcast": "R/2019-04-18T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28234203",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

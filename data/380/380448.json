@@ -149,5 +149,33 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "380448"
+    },
+    {
+      "site": "bilibili",
+      "id": "20318803",
+      "begin": "2023-08-05T10:00:01.000Z",
+      "broadcast": "R/2023-08-05T10:00:01.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "umamusume-roadtothetop",
+      "begin": "2023-04-16T12:30:00.000Z",
+      "broadcast": "R/2023-04-16T12:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0079662",
+      "begin": "2023-04-16T12:30:00.000Z",
+      "broadcast": "R/2023-04-16T12:30:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3039"
+    }
+  ]
 }

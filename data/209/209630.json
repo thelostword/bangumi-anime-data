@@ -33,5 +33,35 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "209630"
+    },
+    {
+      "site": "nicovideo",
+      "id": "anime-dayan",
+      "begin": "2017-01-12T15:00:00.000Z",
+      "broadcast": "R/2017-01-12T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh5nc6d",
+      "begin": "2018-08-24T09:59:48.000Z"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Ucj1SBF1569ae2ysB5Z1gPvF",
+      "begin": "2019-06-10T16:00:00.000Z",
+      "broadcast": "R/2019-06-10T16:00:00.000Z/P7D",
+      "comment": "中文: PLuxqoToY7UcheEQ-96r6QKyFy4Oiy2Iwb"
+    },
+    {
+      "site": "unext",
+      "id": "SID0026755",
+      "begin": "2020-12-11T03:00:00.000Z",
+      "broadcast": "R/2020-12-11T03:00:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,27 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "338802"
+    },
+    {
+      "site": "nicovideo",
+      "id": "digicharat-reiwa",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0073127",
+      "begin": "2022-10-07T14:30:00.000Z",
+      "broadcast": "R/2022-10-07T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "632762d32eaf6e578875f7f4"
+    }
+  ]
 }

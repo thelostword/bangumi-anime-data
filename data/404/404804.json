@@ -149,5 +149,41 @@
       "count": 14
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "404804"
+    },
+    {
+      "site": "disneyplus",
+      "id": "7hd7j6bmGOTg",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "nicovideo",
+      "id": "tdm-anime",
+      "begin": "2023-07-07T15:00:00.000Z",
+      "broadcast": "R/2023-07-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0088254",
+      "begin": "2023-07-07T15:00:00.000Z",
+      "broadcast": "R/2023-07-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "天國大魔境"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6425d64c55eb4cdc768e39ae"
+    },
+    {
+      "site": "mikan",
+      "id": "2970"
+    }
+  ]
 }

@@ -145,5 +145,59 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "425991"
+    },
+    {
+      "site": "nicovideo",
+      "id": "2099_world",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66fb602189c3a6ce864cbcfb"
+    },
+    {
+      "site": "abema",
+      "id": "25-274",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "viu",
+      "id": "2440977",
+      "begin": "2024-10-12T16:30:09.000Z",
+      "broadcast": "R/2024-10-12T16:30:09.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "131243",
+      "begin": "2024-10-12T16:30:00.000Z",
+      "broadcast": "R/2024-10-12T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3454"
+    },
+    {
+      "site": "gamer",
+      "id": "131243",
+      "begin": "2024-10-12T16:30:00.000Z",
+      "broadcast": "R/2024-10-12T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0157056",
+      "begin": "2024-10-17T15:00:00.000Z",
+      "broadcast": "R/2024-10-17T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "魔王 2099"
+    }
+  ]
 }

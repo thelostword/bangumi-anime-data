@@ -149,5 +149,29 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "211581"
+    },
+    {
+      "site": "unext",
+      "id": "SID0035552",
+      "begin": "2018-07-01T09:30:00.000Z",
+      "broadcast": "R/2018-07-01T09:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "錢進球場"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ac0aaa4395e2a122f10f06b"
+    },
+    {
+      "site": "mikan",
+      "id": "1637"
+    }
+  ]
 }

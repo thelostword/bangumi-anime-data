@@ -149,5 +149,32 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh9cn1h",
+      "begin": "2017-03-12T08:07:44.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "126185"
+    },
+    {
+      "site": "nicovideo",
+      "id": "popin-q",
+      "begin": "2016-08-31T09:00:00.000Z",
+      "broadcast": "R/2016-08-31T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0027724",
+      "begin": "2021-01-07T03:00:00.000Z",
+      "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "1253"
+    }
+  ]
 }

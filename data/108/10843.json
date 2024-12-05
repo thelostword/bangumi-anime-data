@@ -149,5 +149,33 @@
       "count": 24
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "mgtv",
+      "id": "291730",
+      "begin": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "893",
+      "begin": "2015-08-29T14:02:00.000Z",
+      "broadcast": "R/2015-08-29T14:02:00.000Z/P7D",
+      "comment": "特典: 894"
+    },
+    {
+      "site": "bangumi",
+      "id": "10843"
+    },
+    {
+      "site": "unext",
+      "id": "SID0013980",
+      "begin": "2022-11-02T15:00:00.000Z",
+      "broadcast": "R/2022-11-02T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "兔+糖"
+    }
+  ]
 }

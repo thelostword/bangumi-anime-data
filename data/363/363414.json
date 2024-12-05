@@ -149,5 +149,35 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "363414"
+    },
+    {
+      "site": "gamer",
+      "id": "121172",
+      "begin": "2022-12-02T01:30:00.000Z",
+      "broadcast": "R/2022-12-02T01:30:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "oddtaxi-movie",
+      "begin": "2023-01-24T15:00:00.000Z",
+      "broadcast": "R/2023-01-24T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0070978",
+      "begin": "2023-02-01T03:00:00.000Z",
+      "broadcast": "R/2023-02-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "121172",
+      "begin": "2022-12-02T01:30:00.000Z",
+      "broadcast": "R/2022-12-02T01:30:00.000Z/P7D"
+    }
+  ]
 }

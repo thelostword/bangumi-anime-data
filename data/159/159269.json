@@ -149,5 +149,35 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "159269"
+    },
+    {
+      "site": "nicovideo",
+      "id": "k-pandora",
+      "begin": "2016-01-21T14:00:00.000Z",
+      "broadcast": "R/2016-01-21T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0021371",
+      "begin": "2019-09-21T03:00:00.000Z",
+      "broadcast": "R/2019-09-21T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "紅殻|紅殼"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "56857e54d4d7dbf20b597c40"
+    },
+    {
+      "site": "mikan",
+      "id": "650"
+    }
+  ]
 }

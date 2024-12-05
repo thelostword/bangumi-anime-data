@@ -149,5 +149,34 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "225021"
+    },
+    {
+      "site": "youku",
+      "id": "e0ba5ab762ab4561bafd",
+      "begin": "2018-04-06T17:58:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0040372",
+      "begin": "2019-07-01T03:00:00.000Z",
+      "broadcast": "R/2019-07-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "女網站"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ac0aaa0395e2a122f10f063"
+    },
+    {
+      "site": "mikan",
+      "id": "1598"
+    }
+  ]
 }

@@ -149,5 +149,41 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5791",
+      "begin": "2017-01-09T16:00:00.000Z",
+      "broadcast": "R/2017-01-09T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "195669"
+    },
+    {
+      "site": "nicovideo",
+      "id": "chiruran-anime",
+      "begin": "2017-01-10T03:00:00.000Z",
+      "broadcast": "R/2017-01-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0027994",
+      "begin": "2019-11-30T03:00:00.000Z",
+      "broadcast": "R/2019-11-30T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "組鎮"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5869a7c4efe56b1860c8f7fc"
+    },
+    {
+      "site": "mikan",
+      "id": "1185"
+    }
+  ]
 }

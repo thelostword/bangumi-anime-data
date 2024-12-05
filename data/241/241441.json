@@ -149,5 +149,21 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "241441"
+    },
+    {
+      "site": "netflix",
+      "id": "81143068",
+      "begin": "2019-09-05T16:00:00.000Z",
+      "broadcast": "R/2019-09-05T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "1947"
+    }
+  ]
 }

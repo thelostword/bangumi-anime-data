@@ -149,5 +149,89 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "363101"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtQkrUFepeQOELa13PBFFOPE",
+      "begin": "2023-04-06T14:30:00.000Z",
+      "broadcast": "R/2023-04-06T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JgOJnHWhu4PB9hzHwHgj228",
+      "begin": "2023-04-06T14:30:00.000Z",
+      "broadcast": "R/2023-04-06T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "125702",
+      "begin": "2023-04-06T14:30:00.000Z",
+      "broadcast": "R/2023-04-06T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "20221961",
+      "begin": "2023-04-06T14:30:01.000Z",
+      "broadcast": "R/2023-04-06T14:30:01.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "20140807",
+      "begin": "2023-04-06T14:30:01.000Z",
+      "broadcast": "R/2023-04-06T14:30:01.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81046193",
+      "begin": "2023-04-06T14:30:01.000Z",
+      "broadcast": "R/2023-04-06T14:30:01.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "19-34",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0079594",
+      "begin": "2023-04-06T14:00:00.000Z",
+      "broadcast": "R/2023-04-06T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "2icwhag0ihkG",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "125702",
+      "begin": "2023-04-06T14:30:00.000Z",
+      "broadcast": "R/2023-04-06T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "石紀 3季|三季|3期|三期|S03|S3|3nd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6425d64155eb4cdc768e398c"
+    },
+    {
+      "site": "mikan",
+      "id": "3000"
+    },
+    {
+      "site": "nicovideo",
+      "id": "dr-stone3",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

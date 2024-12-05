@@ -149,5 +149,29 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "328674"
+    },
+    {
+      "site": "bilibili",
+      "id": "28237193",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0078135",
+      "begin": "2023-01-11T03:00:00.000Z",
+      "broadcast": "R/2023-01-11T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "summerghost",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

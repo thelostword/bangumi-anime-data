@@ -149,5 +149,35 @@
       "count": 12
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "174143"
+    },
+    {
+      "site": "abema",
+      "id": "19-164",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0038408",
+      "begin": "2018-12-13T03:00:00.000Z",
+      "broadcast": "R/2018-12-13T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "人渣的本"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5869a8eaefe56b1860c8f820"
+    },
+    {
+      "site": "mikan",
+      "id": "1194"
+    }
+  ]
 }

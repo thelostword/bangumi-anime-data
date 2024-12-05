@@ -149,5 +149,32 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "220458"
+    },
+    {
+      "site": "mgtv",
+      "id": "321321",
+      "begin": "2018-01-10T14:30:00.000Z"
+    },
+    {
+      "site": "nicovideo",
+      "id": "damepri",
+      "begin": "2018-01-17T15:30:00.000Z",
+      "broadcast": "R/2018-01-17T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0032794",
+      "begin": "2023-09-22T03:00:00.000Z",
+      "broadcast": "R/2023-09-22T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5a4313f817d48cbd4a9625d8"
+    }
+  ]
 }

@@ -149,5 +149,35 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "213509"
+    },
+    {
+      "site": "nicovideo",
+      "id": "konbini",
+      "begin": "2017-07-06T21:00:00.000Z",
+      "broadcast": "R/2017-07-06T21:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0030144",
+      "begin": "2019-11-21T03:00:00.000Z",
+      "broadcast": "R/2019-11-21T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "便利+男"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "59568202cc40e0d626c234ec"
+    },
+    {
+      "site": "mikan",
+      "id": "1368"
+    }
+  ]
 }

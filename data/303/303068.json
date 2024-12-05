@@ -149,5 +149,53 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "303068"
+    },
+    {
+      "site": "gamer",
+      "id": "115863",
+      "begin": "2021-02-25T14:00:00.000Z",
+      "broadcast": "R/2021-02-25T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28234143",
+      "begin": "2021-04-22T14:00:01.000Z",
+      "broadcast": "R/2021-04-22T14:00:01.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28233501",
+      "begin": "2021-02-25T14:00:01.000Z",
+      "broadcast": "R/2021-02-25T14:00:01.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0052930",
+      "begin": "2021-11-02T03:00:00.000Z",
+      "broadcast": "R/2021-11-02T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "115863",
+      "begin": "2021-02-25T14:00:00.000Z",
+      "broadcast": "R/2021-02-25T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "舞伎 料理"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "604155c732f14c00074a8753"
+    },
+    {
+      "site": "mikan",
+      "id": "2417"
+    }
+  ]
 }

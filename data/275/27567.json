@@ -149,5 +149,33 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhb2l3l",
+      "begin": "2015-05-06T09:10:10.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "27567"
+    },
+    {
+      "site": "bilibili",
+      "id": "28220473",
+      "begin": "2012-10-01T16:00:00.000Z",
+      "broadcast": "R/2019-04-24T09:42:00.000Z/P7D",
+      "comment": "白戀字幕組版: 744"
+    },
+    {
+      "site": "unext",
+      "id": "SID0015698",
+      "begin": "2019-06-10T03:00:00.000Z",
+      "broadcast": "R/2019-06-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Gyro Zetter"
+    }
+  ]
 }

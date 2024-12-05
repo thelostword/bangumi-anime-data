@@ -149,5 +149,35 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5049",
+      "begin": "2016-07-08T22:30:00.000Z",
+      "broadcast": "R/2016-07-08T22:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "183554"
+    },
+    {
+      "site": "nicovideo",
+      "id": "mariwaka",
+      "begin": "2016-07-11T03:00:00.000Z",
+      "broadcast": "R/2016-07-11T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "旅行少女"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "57765e8fca607f850f3f934e"
+    },
+    {
+      "site": "mikan",
+      "id": "790"
+    }
+  ]
 }

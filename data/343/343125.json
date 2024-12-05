@@ -149,5 +149,23 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "343125"
+    },
+    {
+      "site": "dmhy",
+      "id": "百萬噸級武藏"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "615bb927d7f73dd4ed5c4434"
+    },
+    {
+      "site": "mikan",
+      "id": "2582"
+    }
+  ]
 }

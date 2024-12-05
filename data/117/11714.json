@@ -137,5 +137,21 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "11714"
+    },
+    {
+      "site": "bilibili",
+      "id": "945",
+      "begin": "2011-04-03T16:00:00.000Z",
+      "broadcast": "R/2011-04-03T13:19:43.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "suzy+zoo"
+    }
+  ]
 }

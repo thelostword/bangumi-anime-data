@@ -149,5 +149,53 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "365437"
+    },
+    {
+      "site": "bilibili",
+      "id": "20141015",
+      "begin": "2023-04-10T16:00:01.000Z",
+      "broadcast": "R/2023-04-10T16:00:01.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Uchg1L56CEA1qHdTLbxscWxW",
+      "begin": "2023-05-18T16:00:00.000Z",
+      "broadcast": "R/2023-05-18T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "124900",
+      "begin": "2023-05-18T12:00:00.000Z",
+      "broadcast": "R/2023-05-18T12:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0080285",
+      "begin": "2023-04-15T15:00:00.000Z",
+      "broadcast": "R/2023-04-15T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "124900",
+      "begin": "2023-05-18T12:00:00.000Z",
+      "broadcast": "R/2023-05-18T12:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "放學 失眠"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6425d63a55eb4cdc768e3972"
+    },
+    {
+      "site": "mikan",
+      "id": "2971"
+    }
+  ]
 }

@@ -149,5 +149,26 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhaqhpp",
+      "begin": "2016-07-17T11:15:57.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "183591"
+    },
+    {
+      "site": "unext",
+      "id": "SID0030018",
+      "begin": "2017-07-01T03:00:00.000Z",
+      "broadcast": "R/2017-07-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "799"
+    }
+  ]
 }

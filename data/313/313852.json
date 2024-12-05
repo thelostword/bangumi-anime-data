@@ -149,5 +149,49 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "313852"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28237192",
+      "begin": "2022-04-07T16:28:00.000Z",
+      "broadcast": "R/2022-04-07T16:28:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28237229",
+      "begin": "2022-05-12T17:28:01.000Z",
+      "broadcast": "R/2022-05-12T17:28:01.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "machikado2",
+      "begin": "2022-04-08T03:00:00.000Z",
+      "broadcast": "R/2022-04-08T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0067374",
+      "begin": "2022-04-14T15:00:00.000Z",
+      "broadcast": "R/2022-04-14T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "189-39",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "街角魔族 2丁目|二季"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "624774a470e8f89b23a18560"
+    }
+  ]
 }

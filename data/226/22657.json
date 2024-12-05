@@ -149,5 +149,32 @@
       "count": 9
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "22657"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ichika-ichika",
+      "begin": "2014-06-20T15:00:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "814",
+      "begin": "2012-01-08T16:00:00.000Z",
+      "broadcast": "R/2012-01-09T19:37:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0013761",
+      "begin": "2020-05-02T03:00:00.000Z",
+      "broadcast": "R/2020-05-02T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "盛|彼|那+夏+等"
+    }
+  ]
 }

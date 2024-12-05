@@ -149,5 +149,47 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "308558"
+    },
+    {
+      "site": "nicovideo",
+      "id": "SHAMAN_KING",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "28234037",
+      "begin": "2021-04-08T10:00:01.000Z",
+      "broadcast": "R/2021-04-08T10:00:01.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81239555",
+      "begin": "2021-08-08T16:00:00.000Z",
+      "broadcast": "R/2021-08-08T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0056101",
+      "begin": "2021-04-08T11:00:00.000Z",
+      "broadcast": "R/2021-04-08T11:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "通靈王 2021"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6065f097eaf504d0216b77a1"
+    },
+    {
+      "site": "mikan",
+      "id": "2430"
+    }
+  ]
 }

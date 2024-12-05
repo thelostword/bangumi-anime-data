@@ -149,5 +149,65 @@
       "count": 9
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "416777"
+    },
+    {
+      "site": "unext",
+      "id": "SID0100093",
+      "begin": "2024-04-07T15:15:00.000Z",
+      "broadcast": "R/2024-04-07T15:15:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "210-12",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "nicovideo",
+      "id": "bluearchive-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtTKmIcBFdi6KIzQGtn6Gz7i",
+      "begin": "2024-04-07T15:30:06.000Z",
+      "broadcast": "R/2024-04-07T15:30:06.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JgzVV7Mg2OKYppcCHKtkNcO",
+      "begin": "2024-04-07T15:30:06.000Z",
+      "broadcast": "R/2024-04-07T15:30:06.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "134319",
+      "begin": "2024-04-07T15:30:00.000Z",
+      "broadcast": "R/2024-04-07T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "134319",
+      "begin": "2024-04-07T15:30:00.000Z",
+      "broadcast": "R/2024-04-07T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "蔚藍檔案"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66097bb816e6bbcc806d3408"
+    },
+    {
+      "site": "mikan",
+      "id": "3329"
+    }
+  ]
 }

@@ -149,5 +149,65 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "416534"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jgl97miORNHE_10Ht2buvWi",
+      "begin": "2023-10-01T14:00:00.000Z",
+      "broadcast": "R/2023-10-01T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtRE0CgQa2cdQyTPw9Xpdc6y",
+      "begin": "2023-10-01T14:00:00.000Z",
+      "broadcast": "R/2023-10-01T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "129734",
+      "begin": "2023-10-01T14:00:00.000Z",
+      "broadcast": "R/2023-10-01T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "komaki-motors",
+      "begin": "2023-10-06T14:00:00.000Z",
+      "broadcast": "R/2023-10-06T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-247",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0091726",
+      "begin": "2023-10-06T14:00:00.000Z",
+      "broadcast": "R/2023-10-06T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "129734",
+      "begin": "2023-10-01T14:00:00.000Z",
+      "broadcast": "R/2023-10-01T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "OVERTAKE"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "65186f764c90aa63daeaa1dd"
+    },
+    {
+      "site": "mikan",
+      "id": "3204"
+    }
+  ]
 }

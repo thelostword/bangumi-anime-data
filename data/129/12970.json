@@ -149,5 +149,18 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "12970"
+    },
+    {
+      "site": "unext",
+      "id": "SID0003283",
+      "begin": "2019-12-17T03:00:00.000Z",
+      "broadcast": "R/2019-12-17T03:00:00.000Z/P7D",
+      "comment": "Mission.Extra R&B: SID0003285"
+    }
+  ]
 }

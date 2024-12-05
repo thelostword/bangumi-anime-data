@@ -149,5 +149,38 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "i/iteevv3orfr22it",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "60490"
+    },
+    {
+      "site": "nicovideo",
+      "id": "stella-c3bu",
+      "begin": "2013-07-16T15:30:00.000Z",
+      "broadcast": "R/2013-07-16T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "548",
+      "begin": "2013-07-03T16:00:00.000Z",
+      "broadcast": "R/2013-07-05T02:17:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0003224",
+      "begin": "2019-11-29T03:00:00.000Z",
+      "broadcast": "R/2019-11-29T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "C3部"
+    }
+  ]
 }

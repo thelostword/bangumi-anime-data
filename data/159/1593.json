@@ -149,5 +149,22 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "y/ye76z23ahqk7ro4",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "1593"
+    },
+    {
+      "site": "unext",
+      "id": "SID0013807",
+      "begin": "2020-12-12T03:00:00.000Z",
+      "broadcast": "R/2020-12-12T03:00:00.000Z/P7D"
+    }
+  ]
 }

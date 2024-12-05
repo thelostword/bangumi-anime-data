@@ -149,5 +149,21 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "29259"
+    },
+    {
+      "site": "bilibili",
+      "id": "791",
+      "begin": "2012-04-11T16:00:00.000Z",
+      "broadcast": "R/2012-04-13T17:16:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "交响诗篇AO"
+    }
+  ]
 }

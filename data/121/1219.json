@@ -149,5 +149,21 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "a/a24mcr96k48aeu9",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "1219"
+    },
+    {
+      "site": "nicovideo",
+      "id": "genshiken2",
+      "begin": "2013-08-15T15:00:00.000Z"
+    }
+  ]
 }

@@ -149,5 +149,40 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "271662"
+    },
+    {
+      "site": "bilibili",
+      "id": "28228860",
+      "begin": "2019-07-04T16:00:00.000Z",
+      "broadcast": ""
+    },
+    {
+      "site": "acfun",
+      "id": "6002431",
+      "begin": "2020-05-15T16:00:00.000Z"
+    },
+    {
+      "site": "bilibili_hk_mo",
+      "id": "28228871",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "103432",
+      "begin": "2023-09-15T04:10:00.000Z",
+      "broadcast": "R/2023-09-15T04:10:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0049062",
+      "begin": "2021-02-01T03:00:00.000Z",
+      "broadcast": "R/2021-02-01T03:00:00.000Z/P7D"
+    }
+  ]
 }

@@ -89,5 +89,26 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "240513"
+    },
+    {
+      "site": "nicovideo",
+      "id": "duelmasters_2018",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0044106",
+      "begin": "2021-06-07T03:00:00.000Z",
+      "broadcast": "R/2021-06-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ac0aaba395e2a122f10f093"
+    }
+  ]
 }

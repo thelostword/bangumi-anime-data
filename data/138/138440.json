@@ -149,5 +149,73 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5018",
+      "begin": "2016-07-02T15:30:00.000Z",
+      "broadcast": "R/2016-07-02T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhanqsp",
+      "begin": "2016-07-02T15:30:00.000Z"
+    },
+    {
+      "site": "mgtv",
+      "id": "294422",
+      "begin": "2016-07-02T15:30:00.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "87db18ba3a7a11e69e2a",
+      "begin": "2016-07-02T15:30:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "138440"
+    },
+    {
+      "site": "qq",
+      "id": "u/u3kwskxncklutmx",
+      "begin": ""
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JgURYn1RtR0Owrr3Gu2ukSa",
+      "begin": "2021-06-09T16:00:00.000Z",
+      "broadcast": "R/2021-06-09T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtQvVn1EleHcQajpeewgZjx_",
+      "begin": "2022-06-21T16:00:00.000Z",
+      "broadcast": "R/2022-06-21T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0025655",
+      "begin": "2016-08-18T03:00:00.000Z",
+      "broadcast": "R/2016-08-18T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "戀Monster|戀怪"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "57765e6dca607f850f3f9348"
+    },
+    {
+      "site": "mikan",
+      "id": "756"
+    },
+    {
+      "site": "nicovideo",
+      "id": "anime-hatsukoimonster",
+      "begin": "2020-09-01T15:00:00.000Z",
+      "broadcast": "R/2020-09-01T15:00:00.000Z/P7D"
+    }
+  ]
 }

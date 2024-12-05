@@ -149,5 +149,37 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "146172"
+    },
+    {
+      "site": "nicovideo",
+      "id": "allout-anime",
+      "begin": "2016-10-08T15:00:00.000Z",
+      "broadcast": "R/2016-10-08T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "79618",
+      "begin": "2020-12-21T05:00:00.000Z",
+      "broadcast": "R/2020-12-21T05:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_tw",
+      "id": "4313102",
+      "begin": "2018-11-27T07:22:03.000Z",
+      "broadcast": "R/2018-11-27T07:22:03.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "57efbcceac5b9d0762d174d0"
+    },
+    {
+      "site": "mikan",
+      "id": "863"
+    }
+  ]
 }

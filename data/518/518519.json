@@ -179,5 +179,33 @@
       "total_cont": 0
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "518519"
+    },
+    {
+      "site": "viu",
+      "id": "2445248",
+      "begin": "2024-10-20T06:00:11.000Z",
+      "broadcast": "R/2024-10-20T06:00:11.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0158790",
+      "begin": "2024-10-24T03:00:00.000Z",
+      "broadcast": "R/2024-10-24T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "5-70",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3496"
+    }
+  ]
 }

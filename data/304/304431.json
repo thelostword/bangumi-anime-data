@@ -81,5 +81,31 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "304431"
+    },
+    {
+      "site": "nicovideo",
+      "id": "cf-vanguard-if-",
+      "begin": "2020-05-30T14:30:00.000Z"
+    },
+    {
+      "site": "acfun",
+      "id": "6002672",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0047377",
+      "begin": "2020-05-30T14:30:00.000Z",
+      "broadcast": "R/2020-05-30T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5e82288c657e22f4195cc7a2"
+    }
+  ]
 }

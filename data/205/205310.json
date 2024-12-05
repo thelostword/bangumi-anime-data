@@ -149,5 +149,45 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "205310"
+    },
+    {
+      "site": "bilibili",
+      "id": "79332",
+      "begin": "2018-03-31T07:00:00.000Z",
+      "broadcast": "R/2018-03-31T07:00:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh06bmt",
+      "begin": "2018-03-31T06:55:07.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "df3fecb5465b40759289",
+      "begin": "2018-03-31T06:58:19.000Z"
+    },
+    {
+      "site": "netflix",
+      "id": "80191369",
+      "begin": "2018-10-04T16:00:00.000Z",
+      "broadcast": "R/2018-10-04T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Lost+Song"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ac0aaab395e2a122f10f077"
+    },
+    {
+      "site": "mikan",
+      "id": "1608"
+    }
+  ]
 }

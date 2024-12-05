@@ -149,5 +149,35 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "0995377e0da211e1a046",
+      "begin": "2013-10-07T04:25:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "78408"
+    },
+    {
+      "site": "nicovideo",
+      "id": "sekatsuyo",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0002677",
+      "begin": "2015-02-16T15:00:00.000Z",
+      "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "為世"
+    },
+    {
+      "site": "mikan",
+      "id": "224"
+    }
+  ]
 }

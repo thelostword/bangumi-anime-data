@@ -149,5 +149,31 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "311310"
+    },
+    {
+      "site": "nicovideo",
+      "id": "fena-pirate-princess",
+      "begin": "2022-01-06T15:00:00.000Z",
+      "broadcast": "R/2022-01-06T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0061693",
+      "begin": "2022-01-21T03:00:00.000Z",
+      "broadcast": "R/2022-01-21T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Fena"
+    },
+    {
+      "site": "mikan",
+      "id": "2544"
+    }
+  ]
 }

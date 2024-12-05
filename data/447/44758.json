@@ -149,5 +149,31 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "44758"
+    },
+    {
+      "site": "bilibili",
+      "id": "28234400",
+      "begin": "",
+      "broadcast": "",
+      "comment": "Extra Stage 2: 28234401"
+    },
+    {
+      "site": "abema",
+      "id": "168-50",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0033136",
+      "begin": "2023-04-01T03:00:00.000Z",
+      "broadcast": "R/2023-04-01T03:00:00.000Z/P7D",
+      "comment": "インパクトブルーの彼方に: SID0002970"
+    }
+  ]
 }

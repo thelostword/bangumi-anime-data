@@ -149,5 +149,32 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhb14nh",
+      "begin": "2015-10-09T03:15:46.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "27332"
+    },
+    {
+      "site": "unext",
+      "id": "SID0011714",
+      "begin": "2022-10-08T03:00:00.000Z",
+      "broadcast": "R/2022-10-08T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "smile+precure"
+    },
+    {
+      "site": "abema",
+      "id": "5-53",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

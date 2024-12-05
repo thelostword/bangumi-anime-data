@@ -49,5 +49,23 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "110775"
+    },
+    {
+      "site": "abema",
+      "id": "35-6p-ykmmdmgj",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0002514",
+      "begin": "2016-02-18T15:00:00.000Z",
+      "broadcast": "R/2016-02-18T15:00:00.000Z/P7D"
+    }
+  ]
 }

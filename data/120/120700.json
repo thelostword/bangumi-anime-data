@@ -149,5 +149,33 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "120700"
+    },
+    {
+      "site": "nicovideo",
+      "id": "mushishi-tokubetsuhen02",
+      "begin": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "2648",
+      "begin": "2015-05-15T16:00:00.000Z",
+      "broadcast": "R/2015-08-02T10:15:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "c201251cf9d911e4abda",
+      "begin": "2016-06-28T10:14:32.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0044767",
+      "begin": "2019-11-30T03:00:00.000Z",
+      "broadcast": "R/2019-11-30T03:00:00.000Z/P7D"
+    }
+  ]
 }

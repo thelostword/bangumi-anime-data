@@ -149,5 +149,61 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "326505"
+    },
+    {
+      "site": "nicovideo",
+      "id": "shinkanomi",
+      "begin": "2021-10-11T15:00:00.000Z",
+      "broadcast": "R/2021-10-11T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JjJbln83lUKLrhXMvu57JXk",
+      "begin": "2021-10-03T16:00:00.000Z",
+      "broadcast": "R/2021-10-03T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28235053",
+      "begin": "2021-10-04T17:00:01.000Z",
+      "broadcast": "R/2021-10-04T17:00:01.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "119126",
+      "begin": "2021-10-04T17:00:00.000Z",
+      "broadcast": "R/2021-10-04T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0061708",
+      "begin": "2021-10-11T15:00:00.000Z",
+      "broadcast": "R/2021-10-11T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "54-66",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "119126",
+      "begin": "2021-10-04T17:00:00.000Z",
+      "broadcast": "R/2021-10-04T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "進化果實"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "615bb921d7f73dd4ed5c4413"
+    }
+  ]
 }

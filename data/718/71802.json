@@ -149,5 +149,33 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "71802"
+    },
+    {
+      "site": "nicovideo",
+      "id": "genshiken-2daime",
+      "begin": "2013-07-13T15:30:00.000Z",
+      "broadcast": "R/2013-07-13T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "519",
+      "begin": "2013-07-05T16:00:00.000Z",
+      "broadcast": "R/2015-06-24T07:36:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002577",
+      "begin": "2019-04-08T03:00:00.000Z",
+      "broadcast": "R/2019-04-08T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "視研"
+    }
+  ]
 }

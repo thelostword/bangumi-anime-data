@@ -149,5 +149,51 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "361110"
+    },
+    {
+      "site": "bilibili",
+      "id": "28339722",
+      "begin": "2022-10-10T11:00:00.000Z",
+      "broadcast": "R/2022-10-10T11:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "120936",
+      "begin": "2023-06-16T03:10:00.000Z",
+      "broadcast": "R/2023-06-16T03:10:00.000Z/P7D"
+    },
+    {
+      "site": "mytv",
+      "id": "yowamushipedalv_138855",
+      "begin": "2023-07-15T09:30:00.000Z",
+      "broadcast": "R/2023-07-15T09:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0073154",
+      "begin": "2022-10-10T11:00:00.000Z",
+      "broadcast": "R/2022-10-10T11:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "120936",
+      "begin": "2023-06-16T03:10:00.000Z",
+      "broadcast": "R/2023-06-16T03:10:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "632762d92eaf6e578875f808"
+    },
+    {
+      "site": "nicovideo",
+      "id": "yowapeda_LIMIT_BREAK",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

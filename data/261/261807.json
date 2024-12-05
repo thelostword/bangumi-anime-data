@@ -149,5 +149,30 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "261807"
+    },
+    {
+      "site": "unext",
+      "id": "SID0085139",
+      "begin": "2023-04-30T15:00:00.000Z",
+      "broadcast": "R/2023-04-30T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "6aTa6ZvaabNq",
+      "url": "https://www.disneyplus.com/movies/macross-delta-zettai-live/6aTa6ZvaabNq",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "nicovideo",
+      "id": "macross_delta_movie",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

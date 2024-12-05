@@ -149,5 +149,65 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "294337"
+    },
+    {
+      "site": "nicovideo",
+      "id": "supercub-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "acfun",
+      "id": "6005289",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "108840",
+      "begin": "2021-04-07T15:30:00.000Z",
+      "broadcast": "R/2021-04-07T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UchJtkD2pc0O_W-7bn-jBCHn",
+      "begin": "2021-04-07T15:30:00.000Z",
+      "broadcast": "R/2021-04-07T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28235269",
+      "begin": "2022-09-01T04:00:01.000Z",
+      "broadcast": "R/2022-09-01T04:00:01.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0056103",
+      "begin": "2021-04-13T15:00:00.000Z",
+      "broadcast": "R/2021-04-13T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "本田小狼"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6065f096eaf504d0216b779d"
+    },
+    {
+      "site": "mikan",
+      "id": "2436"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "108840",
+      "begin": "2021-04-07T15:30:00.000Z",
+      "broadcast": "R/2021-04-07T15:30:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,37 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "251547"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh1gx6l",
+      "begin": "2018-10-08T15:30:00.000Z"
+    },
+    {
+      "site": "abema",
+      "id": "11-24",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0038894",
+      "begin": "2019-01-11T03:00:00.000Z",
+      "broadcast": "R/2019-01-11T03:00:00.000Z/P7D",
+      "comment": "オーディオコメンタリー版: SID0056348"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5bb19c9e9b9493607ff72607"
+    },
+    {
+      "site": "mikan",
+      "id": "1770"
+    }
+  ]
 }

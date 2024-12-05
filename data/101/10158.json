@@ -149,5 +149,26 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "10158"
+    },
+    {
+      "site": "nicovideo",
+      "id": "R-15",
+      "begin": "2011-07-19T16:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0096715",
+      "begin": "2023-12-26T03:00:00.000Z",
+      "broadcast": "R/2023-12-26T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "R-15"
+    }
+  ]
 }

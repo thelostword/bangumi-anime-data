@@ -33,5 +33,17 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "238437"
+    },
+    {
+      "site": "nicovideo",
+      "id": "agukaru",
+      "begin": "2014-04-11T08:35:26.000Z",
+      "broadcast": "R/2014-04-11T08:35:26.000Z/P7D"
+    }
+  ]
 }

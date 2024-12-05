@@ -149,5 +149,31 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "248208"
+    },
+    {
+      "site": "nicovideo",
+      "id": "gaf-anime",
+      "begin": "2019-01-16T16:30:00.000Z",
+      "broadcast": "R/2019-01-16T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0039228",
+      "begin": "2019-01-17T03:00:00.000Z",
+      "broadcast": "R/2019-01-17T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5c2b731596ff38314480b5fe"
+    },
+    {
+      "site": "mikan",
+      "id": "1839"
+    }
+  ]
 }

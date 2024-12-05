@@ -149,5 +149,76 @@
       "count": 14
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "203526"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh83bd1",
+      "begin": "2017-07-07T14:00:00.000Z"
+    },
+    {
+      "site": "nicovideo",
+      "id": "miabyss",
+      "begin": "2017-07-14T15:00:00.000Z",
+      "broadcast": "R/2017-07-14T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "80193163",
+      "begin": "2022-10-30T00:00:00.000Z",
+      "broadcast": "R/2022-10-30T00:00:00.000Z/P7D"
+    },
+    {
+      "site": "mytv",
+      "id": "madeinabyss_135905",
+      "begin": "2022-07-05T16:00:00.000Z",
+      "broadcast": "R/2022-07-05T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "prqNPEdSeooI",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "86687",
+      "begin": "2022-07-04T05:00:00.000Z",
+      "broadcast": "R/2022-07-04T05:00:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Uci9BEW9gFqOac58GVLTCq3o",
+      "begin": "2023-11-17T12:00:00.000Z",
+      "broadcast": "R/2023-11-17T12:00:00.000Z/P1D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0030227",
+      "begin": "2018-10-11T03:00:00.000Z",
+      "broadcast": "R/2018-10-11T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "86687",
+      "begin": "2022-07-04T05:00:00.000Z",
+      "broadcast": "R/2022-07-04T05:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "自深淵"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "59568219cc40e0d626c234f2"
+    },
+    {
+      "site": "mikan",
+      "id": "1348"
+    }
+  ]
 }

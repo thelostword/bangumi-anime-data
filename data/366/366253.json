@@ -149,5 +149,25 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "366253"
+    },
+    {
+      "site": "dmhy",
+      "id": "Estab Life"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "624774a270e8f89b23a18556"
+    },
+    {
+      "site": "unext",
+      "id": "SID0070104",
+      "begin": "2024-08-01T03:00:00.000Z",
+      "broadcast": "R/2024-08-01T03:00:00.000Z/P7D"
+    }
+  ]
 }

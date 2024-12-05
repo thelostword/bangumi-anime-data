@@ -149,5 +149,45 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "2594",
+      "begin": "2015-07-17T16:30:00.000Z",
+      "broadcast": "R/2015-07-17T16:30:00.000Z/P7D",
+      "comment": "OVA: 3788"
+    },
+    {
+      "site": "youku",
+      "id": "1e13314abec311e38b3f",
+      "begin": "2015-07-17T16:30:00.000Z"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhay5rp",
+      "begin": "2015-07-17T16:30:00.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "w/wgzklo5zkrgalda",
+      "begin": "2015-07-17T16:30:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "130231"
+    },
+    {
+      "site": "dmhy",
+      "id": "娘女孩|Cinderella"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5593f83ca0b788232ee35244"
+    },
+    {
+      "site": "mikan",
+      "id": "571"
+    }
+  ]
 }

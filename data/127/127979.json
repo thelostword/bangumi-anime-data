@@ -149,5 +149,34 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "8/8yjy00f3wg1tz63",
+      "begin": "2015-07-07T16:30:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "127979"
+    },
+    {
+      "site": "unext",
+      "id": "SID0018974",
+      "begin": "2019-11-30T03:00:00.000Z",
+      "broadcast": "R/2019-11-30T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "物娘"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "55952a91a0b788232ee35288"
+    },
+    {
+      "site": "mikan",
+      "id": "560"
+    }
+  ]
 }

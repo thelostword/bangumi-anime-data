@@ -149,5 +149,39 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhaxopx",
+      "begin": "2015-01-09T20:30:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "116742"
+    },
+    {
+      "site": "nicovideo",
+      "id": "deathparade",
+      "begin": "2015-01-10T15:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002401",
+      "begin": "2019-11-23T03:00:00.000Z",
+      "broadcast": "R/2019-11-23T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "死亡遊行"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "54b1506cc0a4985d2c95d481"
+    },
+    {
+      "site": "mikan",
+      "id": "450"
+    }
+  ]
 }

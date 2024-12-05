@@ -149,5 +149,41 @@
       "count": 12
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "4/4qw8q7lcsf7yh8z",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "2784"
+    },
+    {
+      "site": "gamer",
+      "id": "16603",
+      "begin": "2020-08-20T08:30:00.000Z",
+      "broadcast": "R/2020-08-20T08:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28222083",
+      "begin": "2019-11-01T09:52:00.000Z",
+      "broadcast": "R/2019-11-01T09:52:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0013916",
+      "begin": "2023-12-22T15:00:00.000Z",
+      "broadcast": "R/2023-12-22T15:00:00.000Z/P7D",
+      "comment": "第２期: SID0017810, 第３期: SID0017814, 第４期: SID0017815"
+    },
+    {
+      "site": "abema",
+      "id": "415-9",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

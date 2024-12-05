@@ -149,5 +149,48 @@
       "count": 9
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "274234"
+    },
+    {
+      "site": "bilibili",
+      "id": "28234613",
+      "begin": "2021-12-17T12:00:01.000Z",
+      "broadcast": "R/2021-12-17T12:00:01.000Z/P7D",
+      "comment": "中配版: 28338773"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28234716",
+      "begin": "2021-07-07T16:00:00.000Z",
+      "broadcast": "R/2021-07-07T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "maidragon_S",
+      "begin": "2021-07-10T12:00:00.000Z",
+      "broadcast": "R/2021-07-10T12:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0058496",
+      "begin": "2021-07-10T12:00:00.000Z",
+      "broadcast": "R/2021-07-10T12:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "林家 龍S|女僕S|S2"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "60de5da206c78696e4d11610"
+    },
+    {
+      "site": "mikan",
+      "id": "2497"
+    }
+  ]
 }

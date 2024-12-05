@@ -149,5 +149,27 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "147067"
+    },
+    {
+      "site": "nicovideo",
+      "id": "PERSONA5",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "5482",
+      "begin": "2016-09-02T16:00:01.000Z",
+      "broadcast": "R/2016-09-03T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "811"
+    }
+  ]
 }

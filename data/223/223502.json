@@ -133,5 +133,35 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "223502"
+    },
+    {
+      "site": "nicovideo",
+      "id": "omitsuyo-w-anime",
+      "begin": "2017-10-13T03:00:00.000Z",
+      "broadcast": "R/2017-10-13T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "相親對象"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "59d0cb80fb34aac154710bc3"
+    },
+    {
+      "site": "mikan",
+      "id": "1416"
+    },
+    {
+      "site": "unext",
+      "id": "SID0043089",
+      "begin": "2024-11-12T03:00:00.000Z",
+      "broadcast": "R/2024-11-12T03:00:00.000Z/P7D"
+    }
+  ]
 }

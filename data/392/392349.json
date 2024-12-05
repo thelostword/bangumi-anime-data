@@ -149,5 +149,65 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "392349"
+    },
+    {
+      "site": "bilibili",
+      "id": "28344587",
+      "begin": "2023-01-07T13:00:01.000Z",
+      "broadcast": "R/2023-01-07T13:00:01.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtRdudNagvIMH6PoR8r4HtTF",
+      "begin": "2023-01-07T13:30:00.000Z",
+      "broadcast": "R/2023-01-07T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "125880",
+      "begin": "2023-01-10T04:40:00.000Z",
+      "broadcast": "R/2023-01-10T04:40:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28439664",
+      "begin": "2023-01-07T13:00:00.000Z",
+      "broadcast": "R/2023-01-07T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ankokuheishi-anime",
+      "begin": "2023-01-11T15:00:00.000Z",
+      "broadcast": "R/2023-01-11T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0077288",
+      "begin": "2023-01-11T15:00:00.000Z",
+      "broadcast": "R/2023-01-11T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "125880",
+      "begin": "2023-01-10T04:40:00.000Z",
+      "broadcast": "R/2023-01-10T04:40:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "30 歲 第二"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "63b58c53441dff2ff8927ea1"
+    },
+    {
+      "site": "mikan",
+      "id": "2896"
+    }
+  ]
 }

@@ -149,5 +149,59 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "472673"
+    },
+    {
+      "site": "nicovideo",
+      "id": "sonochiyushi",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66fb602289c3a6ce864cbd03"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JhjvN8nBbvOSLr8SKkzwmkm",
+      "begin": "2024-10-05T18:00:00.000Z",
+      "broadcast": "R/2024-10-05T18:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtR1hzRqvuopPbZ28rqEXXbQ",
+      "begin": "2024-10-05T18:30:27.000Z",
+      "broadcast": "R/2024-10-05T18:30:27.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "137570",
+      "begin": "2024-10-05T18:00:00.000Z",
+      "broadcast": "R/2024-10-05T18:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3451"
+    },
+    {
+      "site": "gamer",
+      "id": "137570",
+      "begin": "2024-10-05T18:00:00.000Z",
+      "broadcast": "R/2024-10-05T18:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "11-62",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "治癒師|治愈师"
+    }
+  ]
 }

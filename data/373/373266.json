@@ -149,5 +149,65 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "373266"
+    },
+    {
+      "site": "nicovideo",
+      "id": "you-zitsu3",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0096084",
+      "begin": "2024-01-08T14:00:00.000Z",
+      "broadcast": "R/2024-01-08T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-73",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "viu",
+      "id": "2288061",
+      "begin": "2024-01-03T13:30:03.000Z",
+      "broadcast": "R/2024-01-03T13:30:03.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UcgJC0ds3yBr7r7PmSCXmmL0",
+      "begin": "2024-01-03T13:30:08.000Z",
+      "broadcast": "R/2024-01-03T13:30:08.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "133633",
+      "begin": "2024-01-03T13:30:00.000Z",
+      "broadcast": "R/2024-01-03T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "133633",
+      "begin": "2024-01-03T13:30:00.000Z",
+      "broadcast": "R/2024-01-03T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "實力至上 3季|三季|3期|三期|S03|S3|3rd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "659142a4b885a81efda115d6"
+    },
+    {
+      "site": "mikan",
+      "id": "3260"
+    }
+  ]
 }

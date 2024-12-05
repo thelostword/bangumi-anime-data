@@ -61,5 +61,18 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "187884"
+    },
+    {
+      "site": "unext",
+      "id": "SID0060666",
+      "begin": "2021-08-23T03:00:00.000Z",
+      "broadcast": "R/2021-08-23T03:00:00.000Z/P7D",
+      "comment": "2: SID0060667, 3:SID0060668, 4: SID0060669"
+    }
+  ]
 }

@@ -113,5 +113,27 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5546",
+      "begin": "2016-11-14T03:00:08.000Z",
+      "broadcast": "R/2016-11-14T03:00:08.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "191390"
+    },
+    {
+      "site": "nicovideo",
+      "id": "garasunokamen3d",
+      "begin": "2016-08-29T23:00:00.000Z",
+      "broadcast": "R/2016-08-29T23:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "57efb551ac5b9d0762d174a6"
+    }
+  ]
 }

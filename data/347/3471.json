@@ -149,5 +149,27 @@
       "count": 11
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "3471"
+    },
+    {
+      "site": "bilibili",
+      "id": "983",
+      "begin": "2010-01-24T16:00:00.000Z",
+      "broadcast": "R/2010-01-28T12:18:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002175",
+      "begin": "2018-12-27T03:00:00.000Z",
+      "broadcast": "R/2018-12-27T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "katanagatari|刀語"
+    }
+  ]
 }

@@ -133,5 +133,21 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "69253"
+    },
+    {
+      "site": "unext",
+      "id": "SID0091483",
+      "begin": "2023-09-02T03:00:00.000Z",
+      "broadcast": "R/2023-09-02T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Line Town"
+    }
+  ]
 }

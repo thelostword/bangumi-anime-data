@@ -149,5 +149,54 @@
       "count": 9
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrgi8f5p",
+      "begin": "2014-04-12T04:30:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "77476"
+    },
+    {
+      "site": "nicovideo",
+      "id": "knightsofsidonia",
+      "begin": "2014-04-14T13:30:00.000Z",
+      "broadcast": "R/2014-04-14T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "1576",
+      "begin": "2014-04-09T16:00:00.000Z",
+      "broadcast": "R/2014-04-11T04:34:37.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "61835",
+      "begin": "2021-07-16T06:00:00.000Z",
+      "broadcast": "R/2021-07-16T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002627",
+      "begin": "2018-07-31T03:00:00.000Z",
+      "broadcast": "R/2018-07-31T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "61835",
+      "begin": "2021-07-16T06:00:00.000Z",
+      "broadcast": "R/2021-07-16T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "德尼|河騎|Sidonia"
+    },
+    {
+      "site": "mikan",
+      "id": "286"
+    }
+  ]
 }

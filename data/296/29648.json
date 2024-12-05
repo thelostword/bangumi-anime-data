@@ -149,5 +149,39 @@
       "count": 27
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "29648"
+    },
+    {
+      "site": "nicovideo",
+      "id": "chu-2",
+      "begin": "2018-01-05T03:00:00.000Z",
+      "broadcast": "R/2018-01-05T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "4340",
+      "begin": "2012-10-02T16:00:01.000Z",
+      "broadcast": "R/2020-06-19T10:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002716",
+      "begin": "2019-11-13T03:00:00.000Z",
+      "broadcast": "R/2019-11-13T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "19-189",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "中二病|Chuunibyou"
+    }
+  ]
 }

@@ -149,5 +149,27 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "28225"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ch60325",
+      "begin": "2013-04-06T13:00:00.000Z",
+      "broadcast": "R/2013-04-06T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0014097",
+      "begin": "2021-03-25T03:00:00.000Z",
+      "broadcast": "R/2021-03-25T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "天闷部"
+    }
+  ]
 }

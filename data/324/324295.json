@@ -149,5 +149,61 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "324295"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28237169",
+      "begin": "2022-04-09T17:30:00.000Z",
+      "broadcast": "R/2022-04-09T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "115202",
+      "begin": "2022-04-09T17:30:00.000Z",
+      "broadcast": "R/2022-04-09T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28237125",
+      "begin": "2022-04-30T17:30:01.000Z",
+      "broadcast": "R/2022-04-30T17:30:01.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UchdhYPkDbRqbGy-fqzrz9k5",
+      "begin": "2022-04-09T17:30:00.000Z",
+      "broadcast": "R/2022-04-09T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "shikimori-anime",
+      "begin": "2022-04-14T17:30:00.000Z",
+      "broadcast": "R/2022-04-14T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0066872",
+      "begin": "2022-04-14T17:30:00.000Z",
+      "broadcast": "R/2022-04-14T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "115202",
+      "begin": "2022-04-09T17:30:00.000Z",
+      "broadcast": "R/2022-04-09T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "不只可愛|不止可愛"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "624774ac70e8f89b23a1858a"
+    }
+  ]
 }

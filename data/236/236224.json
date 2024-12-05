@@ -149,5 +149,70 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "236224"
+    },
+    {
+      "site": "bilibili",
+      "id": "102752",
+      "begin": "2018-07-05T14:00:00.000Z",
+      "broadcast": "R/2018-07-05T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrgytgwd",
+      "begin": "2018-07-05T13:55:11.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "b/bgf0avtujy3yciw",
+      "begin": ""
+    },
+    {
+      "site": "youku",
+      "id": "09b858009cc14850b246",
+      "begin": ""
+    },
+    {
+      "site": "acfun",
+      "id": "6003943",
+      "begin": ""
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JhBK5yhltkjm1Y2Ha5KwcQs",
+      "begin": "2022-02-09T16:00:00.000Z",
+      "broadcast": "R/2022-02-09T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "95582",
+      "begin": "2019-03-15T09:00:00.000Z",
+      "broadcast": "R/2019-03-15T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "168-5",
+      "begin": "",
+      "broadcast": "",
+      "comment": "～マジ魔王Ver～: 168-14"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "95582",
+      "begin": "2019-03-15T09:00:00.000Z",
+      "broadcast": "R/2019-03-15T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5b38c4b6b3d4e8ef387d7edd"
+    },
+    {
+      "site": "mikan",
+      "id": "1670"
+    }
+  ]
 }

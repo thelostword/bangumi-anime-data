@@ -149,5 +149,61 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "349317"
+    },
+    {
+      "site": "bilibili",
+      "id": "28339721",
+      "begin": "2022-10-03T13:00:00.000Z",
+      "broadcast": "R/2022-10-03T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28339742",
+      "begin": "2022-10-03T13:00:00.000Z",
+      "broadcast": "R/2022-10-03T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Ucg4VTcge6pCCAOxzm5bmria",
+      "begin": "2022-10-03T13:00:00.000Z",
+      "broadcast": "R/2022-10-03T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "119782",
+      "begin": "2022-10-03T13:00:00.000Z",
+      "broadcast": "R/2022-10-03T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "shinmai-renkin",
+      "begin": "2022-10-10T13:00:00.000Z",
+      "broadcast": "R/2022-10-10T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0073142",
+      "begin": "2022-10-10T13:00:00.000Z",
+      "broadcast": "R/2022-10-10T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "金術師 店 營"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "632762c52eaf6e578875f7c2"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "119782",
+      "begin": "2022-10-03T13:00:00.000Z",
+      "broadcast": "R/2022-10-03T13:00:00.000Z/P7D"
+    }
+  ]
 }

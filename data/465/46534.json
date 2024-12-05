@@ -117,5 +117,17 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "46534"
+    },
+    {
+      "site": "bilibili",
+      "id": "2347",
+      "begin": "1991-10-17T16:00:00.000Z",
+      "broadcast": "R/2012-08-06T15:47:16.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,34 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "2738",
+      "begin": "2015-10-07T13:05:00.000Z",
+      "broadcast": "R/2015-10-07T13:05:00.000Z/P7D"
+    },
+    {
+      "site": "qq",
+      "id": "g/gmtenlj7zwylo7k",
+      "begin": "2015-10-07T13:05:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "139800"
+    },
+    {
+      "site": "dmhy",
+      "id": "KZ事"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "560d0d069286e15329cf94d2"
+    },
+    {
+      "site": "mikan",
+      "id": "612"
+    }
+  ]
 }

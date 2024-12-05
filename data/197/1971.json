@@ -149,5 +149,28 @@
       "count": 9
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "v/vagq5bv9jy3avyv",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "1971"
+    },
+    {
+      "site": "nicovideo",
+      "id": "vampire-knight2",
+      "begin": "2014-11-12T06:00:00.000Z",
+      "broadcast": "R/2014-11-12T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0003194",
+      "begin": "2009-08-21T06:00:00.000Z",
+      "broadcast": "R/2009-08-21T06:00:00.000Z/P7D"
+    }
+  ]
 }

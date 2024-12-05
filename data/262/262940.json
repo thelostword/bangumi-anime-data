@@ -149,5 +149,47 @@
       "count": 18
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "262940"
+    },
+    {
+      "site": "bilibili",
+      "id": "28224095",
+      "begin": "2020-01-10T16:05:00.000Z",
+      "broadcast": "R/2020-01-10T16:05:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "toaru-railgun-t",
+      "begin": "2020-01-17T03:00:00.000Z",
+      "broadcast": "R/2020-01-17T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28226758",
+      "begin": "2020-01-10T16:05:00.000Z",
+      "broadcast": "R/2020-01-10T16:05:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0045117",
+      "begin": "2020-01-16T03:00:00.000Z",
+      "broadcast": "R/2020-01-16T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "超電磁砲T|超電磁炮T"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5e1b4f224f7a796559d914f8"
+    },
+    {
+      "site": "mikan",
+      "id": "2127"
+    }
+  ]
 }

@@ -149,5 +149,23 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "47761"
+    },
+    {
+      "site": "nicovideo",
+      "id": "let_go_movie",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0002781",
+      "begin": "2021-11-21T03:00:00.000Z",
+      "broadcast": "R/2021-11-21T03:00:00.000Z/P7D"
+    }
+  ]
 }

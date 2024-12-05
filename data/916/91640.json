@@ -149,5 +149,37 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "91640"
+    },
+    {
+      "site": "nicovideo",
+      "id": "penguin-empire",
+      "begin": "2014-04-08T15:30:00.000Z",
+      "broadcast": "R/2014-04-08T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0014749",
+      "begin": "2018-07-19T03:00:00.000Z",
+      "broadcast": "R/2018-07-19T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "全機"
+    },
+    {
+      "site": "mikan",
+      "id": "316"
+    },
+    {
+      "site": "abema",
+      "id": "25-272",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

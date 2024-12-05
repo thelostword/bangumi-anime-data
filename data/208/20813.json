@@ -149,5 +149,21 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "20813"
+    },
+    {
+      "site": "unext",
+      "id": "SID0035236",
+      "begin": "2018-06-21T03:00:00.000Z",
+      "broadcast": "R/2018-06-21T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "一初|Hatsukoi+戀2|2季|二季|Ⅱ|II"
+    }
+  ]
 }

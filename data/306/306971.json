@@ -149,5 +149,41 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "306971"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28237331",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "nicovideo",
+      "id": "prisma-illya-movie-licht",
+      "begin": "2022-04-30T15:00:00.000Z",
+      "broadcast": "R/2022-04-30T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0065326",
+      "begin": "2022-01-31T15:00:00.000Z",
+      "broadcast": "R/2022-01-31T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "115033",
+      "begin": "2024-05-03T04:00:00.000Z",
+      "broadcast": "R/2024-05-03T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "115033",
+      "begin": "2024-05-03T04:00:00.000Z",
+      "broadcast": "R/2024-05-03T04:00:00.000Z/P7D"
+    }
+  ]
 }

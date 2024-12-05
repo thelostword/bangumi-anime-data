@@ -149,5 +149,73 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "344874"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28339672",
+      "begin": "2022-09-30T15:00:00.000Z",
+      "broadcast": "R/2022-09-30T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28339715",
+      "begin": "2022-09-30T15:00:00.000Z",
+      "broadcast": "R/2022-09-30T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "118994",
+      "begin": "2022-09-30T15:00:00.000Z",
+      "broadcast": "R/2022-09-30T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jj54oEa6oCmh1t0dw-goStt",
+      "begin": "2022-09-30T15:00:00.000Z",
+      "broadcast": "R/2022-09-30T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtSfs6qsghA5iopqpp1uv3bO",
+      "begin": "2022-09-30T15:00:00.000Z",
+      "broadcast": "R/2022-09-30T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81643081",
+      "begin": "2023-01-10T16:00:00.000Z",
+      "broadcast": "R/2023-01-10T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "shippona-anime",
+      "begin": "2022-10-03T03:00:00.000Z",
+      "broadcast": "R/2022-10-03T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0073682",
+      "begin": "2022-10-03T03:00:00.000Z",
+      "broadcast": "R/2022-10-03T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "118994",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "師傅 尾巴"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "632762d32eaf6e578875f7f2"
+    }
+  ]
 }

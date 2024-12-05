@@ -149,5 +149,35 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "184059"
+    },
+    {
+      "site": "nicovideo",
+      "id": "atom-tb",
+      "begin": "2017-04-17T06:00:00.000Z",
+      "broadcast": "R/2017-04-17T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0029048",
+      "begin": "2018-07-09T03:00:00.000Z",
+      "broadcast": "R/2018-07-09T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "阿童木+起源"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "58dfb63a5e559a067cc361ee"
+    },
+    {
+      "site": "mikan",
+      "id": "1306"
+    }
+  ]
 }

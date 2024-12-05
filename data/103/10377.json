@@ -149,5 +149,27 @@
       "count": 16
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "10377"
+    },
+    {
+      "site": "bilibili",
+      "id": "846",
+      "begin": "2011-04-13T16:00:00.000Z",
+      "broadcast": "R/2018-09-07T07:31:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002735",
+      "begin": "2022-04-01T03:00:00.000Z",
+      "broadcast": "R/2022-04-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "電波女"
+    }
+  ]
 }

@@ -149,5 +149,57 @@
       "count": 45
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "27364"
+    },
+    {
+      "site": "bilibili",
+      "id": "3398",
+      "begin": "2012-04-22T03:00:00.000Z",
+      "broadcast": "R/2016-03-08T06:18:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kotenbu",
+      "begin": "2017-09-16T03:00:00.000Z",
+      "broadcast": "R/2017-09-16T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UcjiORqMgRYYU6MhBCjYhF3C",
+      "begin": "2019-08-14T16:00:00.000Z",
+      "broadcast": "R/2019-08-14T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "53316",
+      "begin": "2017-08-24T16:00:00.000Z",
+      "broadcast": "R/2017-08-24T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-7krpy-sgurg",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0013355",
+      "begin": "2015-11-26T03:00:00.000Z",
+      "broadcast": "R/2015-11-26T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "53316",
+      "begin": "2017-08-24T16:00:00.000Z",
+      "broadcast": "R/2017-08-24T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "冰果|Hyouka"
+    }
+  ]
 }

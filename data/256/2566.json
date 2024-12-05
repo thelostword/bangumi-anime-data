@@ -149,5 +149,28 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "2/272o2s3pkvl37u8",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "2566"
+    },
+    {
+      "site": "nicovideo",
+      "id": "11eyes",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "4677",
+      "begin": "2009-10-05T16:00:01.000Z",
+      "broadcast": "R/2017-01-17T06:14:00.000Z/P7D"
+    }
+  ]
 }

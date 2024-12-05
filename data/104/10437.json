@@ -149,5 +149,21 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "10437"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ch60011",
+      "begin": "2011-04-17T14:30:00.000Z",
+      "broadcast": "R/2011-04-17T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "dororon"
+    }
+  ]
 }

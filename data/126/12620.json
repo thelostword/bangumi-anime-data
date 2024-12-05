@@ -149,5 +149,32 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "12620"
+    },
+    {
+      "site": "nicovideo",
+      "id": "aqevol",
+      "begin": "2012-01-16T15:00:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "696",
+      "begin": "2012-01-07T16:00:00.000Z",
+      "broadcast": "R/2012-01-16T05:40:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0010835",
+      "begin": "2019-09-03T03:00:00.000Z",
+      "broadcast": "R/2019-09-03T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "創聖+EVOL"
+    }
+  ]
 }

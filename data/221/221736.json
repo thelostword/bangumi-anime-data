@@ -149,5 +149,26 @@
       "count": 9
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "221736"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kimisui-anime",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0038200",
+      "begin": "2018-12-03T03:00:00.000Z",
+      "broadcast": "R/2018-12-03T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "1817"
+    }
+  ]
 }

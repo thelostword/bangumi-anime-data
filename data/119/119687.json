@@ -149,5 +149,46 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5053",
+      "begin": "2016-07-09T18:00:00.000Z",
+      "broadcast": "R/2016-07-09T18:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "119687"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ange-vierge-anime",
+      "begin": "2016-07-22T16:30:00.000Z",
+      "broadcast": "R/2016-07-22T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "f6652b7e3e8311e6b32f",
+      "begin": "2016-07-12T17:57:03.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0025879",
+      "begin": "2019-10-06T03:00:00.000Z",
+      "broadcast": "R/2019-10-06T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "潔天"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "57765eb5ca607f850f3f9352"
+    },
+    {
+      "site": "mikan",
+      "id": "793"
+    }
+  ]
 }

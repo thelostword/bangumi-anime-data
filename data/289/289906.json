@@ -149,5 +149,73 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "289906"
+    },
+    {
+      "site": "bilibili",
+      "id": "28237122",
+      "begin": "2022-04-06T13:00:00.000Z",
+      "broadcast": "R/2022-04-06T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28237180",
+      "begin": "2022-04-06T13:00:00.000Z",
+      "broadcast": "R/2022-04-06T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "107524",
+      "begin": "2022-04-06T13:00:00.000Z",
+      "broadcast": "R/2022-04-06T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JgFgNCOymq2ClIN3CTGC63X",
+      "begin": "2022-03-30T13:00:00.000Z",
+      "broadcast": "R/2022-03-30T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "4lgHH2jdAefe",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "nicovideo",
+      "id": "shieldhero-anime_02",
+      "begin": "2022-04-13T14:30:00.000Z",
+      "broadcast": "R/2022-04-13T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-109",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0066880",
+      "begin": "2022-04-13T14:30:00.000Z",
+      "broadcast": "R/2022-04-13T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "107524",
+      "begin": "2022-04-06T13:00:00.000Z",
+      "broadcast": "R/2022-04-06T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "盾 勇者 2季|二季|2期|二期|S02|S2|2nd|Season2"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "624774a170e8f89b23a18550"
+    }
+  ]
 }

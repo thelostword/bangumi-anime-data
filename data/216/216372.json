@@ -149,5 +149,33 @@
       "count": 14
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "216372"
+    },
+    {
+      "site": "bilibili",
+      "id": "28223448",
+      "begin": "2020-02-25T16:00:00.000Z",
+      "broadcast": ""
+    },
+    {
+      "site": "nicovideo",
+      "id": "anime-eupho-movie",
+      "begin": "2022-02-28T15:00:00.000Z",
+      "broadcast": "R/2022-02-28T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0064267",
+      "begin": "2021-12-01T03:00:00.000Z",
+      "broadcast": "R/2021-12-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "2105"
+    }
+  ]
 }

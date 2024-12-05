@@ -149,5 +149,31 @@
       "count": 11
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "l/lhe85mcrkwpi92f",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "19540"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ben-to",
+      "begin": "2011-10-12T03:30:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "864",
+      "begin": "2011-10-07T16:00:00.000Z",
+      "broadcast": "R/2011-10-08T22:02:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "便·當|便當"
+    }
+  ]
 }

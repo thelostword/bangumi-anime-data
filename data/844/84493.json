@@ -149,5 +149,41 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "33455b5a6dcf11e3a705",
+      "begin": "2014-01-06T01:55:57.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "d/do9n7u9ssryk2t4",
+      "begin": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "1489",
+      "begin": "2014-01-04T16:00:00.000Z",
+      "broadcast": "R/2014-01-06T02:36:40.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "84493"
+    },
+    {
+      "site": "nicovideo",
+      "id": "falgaku-anime",
+      "begin": "2016-10-04T06:00:00.000Z",
+      "broadcast": "R/2016-10-04T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Falcom學"
+    },
+    {
+      "site": "mikan",
+      "id": "277"
+    }
+  ]
 }

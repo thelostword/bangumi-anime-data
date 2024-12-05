@@ -149,5 +149,37 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "226806"
+    },
+    {
+      "site": "bilibili",
+      "id": "5269634",
+      "begin": "2019-01-11T16:30:00.000Z",
+      "broadcast": "R/2019-01-11T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "bpro-anime2",
+      "begin": "2019-01-14T03:00:00.000Z",
+      "broadcast": "R/2019-01-14T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0039132",
+      "begin": "2020-12-30T03:00:00.000Z",
+      "broadcast": "R/2020-12-30T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5c2b731e96ff38314480b612"
+    },
+    {
+      "site": "mikan",
+      "id": "1853"
+    }
+  ]
 }

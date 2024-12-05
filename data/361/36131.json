@@ -81,5 +81,15 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "36131"
+    },
+    {
+      "site": "dmhy",
+      "id": "GON"
+    }
+  ]
 }

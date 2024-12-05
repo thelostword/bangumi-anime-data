@@ -149,5 +149,45 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "163114"
+    },
+    {
+      "site": "nicovideo",
+      "id": "nora-anime",
+      "begin": "2017-07-12T13:45:00.000Z",
+      "broadcast": "R/2017-07-12T13:45:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhv11q5",
+      "begin": "2019-01-15T01:26:25.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "efbfbd3aefbfbd6c5eef",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0030301",
+      "begin": "2019-11-27T03:00:00.000Z",
+      "broadcast": "R/2019-11-27T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "野良+皇女"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "595681e7cc40e0d626c234e2"
+    },
+    {
+      "site": "mikan",
+      "id": "1376"
+    }
+  ]
 }

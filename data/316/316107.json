@@ -65,5 +65,15 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "316107"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5f7568024b840abcfc63b1b2"
+    }
+  ]
 }

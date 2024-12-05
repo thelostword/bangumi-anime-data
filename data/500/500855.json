@@ -149,5 +149,59 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "500855"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kanteiskill_2",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0157614",
+      "begin": "2024-09-29T15:00:00.000Z",
+      "broadcast": "R/2024-09-29T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtQN8ozD6yLrglH7f_m1GcAy",
+      "begin": "2024-10-06T15:00:00.000Z",
+      "broadcast": "R/2024-10-06T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JilqikV6J0zGI6PPnMPkzrx",
+      "begin": "2024-10-06T15:00:00.000Z",
+      "broadcast": "R/2024-10-06T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "140154",
+      "begin": "2024-09-29T15:00:00.000Z",
+      "broadcast": "R/2024-09-29T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "140154",
+      "begin": "2024-09-29T15:00:00.000Z",
+      "broadcast": "R/2024-09-29T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66fb601189c3a6ce864cbc93"
+    },
+    {
+      "site": "mikan",
+      "id": "3426"
+    },
+    {
+      "site": "dmhy",
+      "id": "貴族 鑑定|鉴定 2季|二季|2期|二期|S02|S2|2nd"
+    }
+  ]
 }

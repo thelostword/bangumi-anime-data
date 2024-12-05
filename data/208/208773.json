@@ -149,5 +149,22 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "208773"
+    },
+    {
+      "site": "qq",
+      "id": "7/7iprg7cb998vrwr",
+      "begin": ""
+    },
+    {
+      "site": "nicovideo",
+      "id": "robomasters",
+      "begin": "2018-04-14T12:00:00.000Z",
+      "broadcast": "R/2018-04-14T12:00:00.000Z/P7D"
+    }
+  ]
 }

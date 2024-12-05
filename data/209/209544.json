@@ -101,5 +101,29 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "209544"
+    },
+    {
+      "site": "nicovideo",
+      "id": "peso-game-line-me-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "小比索"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "58df787479c3a0541f4b61ad"
+    },
+    {
+      "site": "mikan",
+      "id": "1311"
+    }
+  ]
 }

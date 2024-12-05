@@ -149,5 +149,31 @@
       "count": 18
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrk52409",
+      "begin": "2012-11-13T01:23:24.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "20582"
+    },
+    {
+      "site": "nicovideo",
+      "id": "inuboku",
+      "begin": "2012-01-22T12:30:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0013915",
+      "begin": "2023-05-07T03:00:00.000Z",
+      "broadcast": "R/2023-05-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "妖+僕"
+    }
+  ]
 }

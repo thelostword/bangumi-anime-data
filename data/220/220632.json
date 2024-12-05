@@ -149,5 +149,31 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "220632"
+    },
+    {
+      "site": "nicovideo",
+      "id": "maerchen-anime",
+      "begin": "2018-01-12T03:00:00.000Z",
+      "broadcast": "R/2018-01-12T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0032841",
+      "begin": "2020-12-06T03:00:00.000Z",
+      "broadcast": "R/2020-12-06T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5a4313f917d48cbd4a9625da"
+    },
+    {
+      "site": "mikan",
+      "id": "1496"
+    }
+  ]
 }

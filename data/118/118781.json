@@ -149,5 +149,41 @@
       "count": 11
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "118781"
+    },
+    {
+      "site": "gamer",
+      "id": "74297",
+      "begin": "2020-03-02T06:30:00.000Z",
+      "broadcast": "R/2020-03-02T06:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0029956",
+      "begin": "2018-09-27T03:00:00.000Z",
+      "broadcast": "R/2018-09-27T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "19-110",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "甲鐵城"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "56fd597cc6dbe72e14a0d35a"
+    },
+    {
+      "site": "mikan",
+      "id": "722"
+    }
+  ]
 }

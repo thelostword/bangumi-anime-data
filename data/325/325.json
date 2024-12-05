@@ -149,5 +149,32 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "e/ekrump5mdasvecx",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "325"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ch325",
+      "begin": "2010-06-26T15:00:00.000Z",
+      "broadcast": "R/2010-06-26T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0037812",
+      "begin": "2023-05-16T03:00:00.000Z",
+      "broadcast": "R/2023-05-16T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "鹡鸰|Pure+Engagement"
+    }
+  ]
 }

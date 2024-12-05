@@ -149,5 +149,21 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "10243"
+    },
+    {
+      "site": "unext",
+      "id": "SID0035235",
+      "begin": "2018-06-21T03:00:00.000Z",
+      "broadcast": "R/2018-06-21T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "世界+一初戀"
+    }
+  ]
 }

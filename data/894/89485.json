@@ -149,5 +149,31 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "89485"
+    },
+    {
+      "site": "nicovideo",
+      "id": "gokukoku",
+      "begin": "2014-04-08T15:00:00.000Z",
+      "broadcast": "R/2014-04-08T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002584",
+      "begin": "2022-04-28T15:00:00.000Z",
+      "broadcast": "R/2022-04-28T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "極黑"
+    },
+    {
+      "site": "mikan",
+      "id": "304"
+    }
+  ]
 }

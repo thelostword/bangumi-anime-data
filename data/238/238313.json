@@ -41,5 +41,17 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "238313"
+    },
+    {
+      "site": "nicovideo",
+      "id": "nom",
+      "begin": "2011-11-28T03:00:00.000Z",
+      "broadcast": "R/2011-11-28T03:00:00.000Z/P7D"
+    }
+  ]
 }

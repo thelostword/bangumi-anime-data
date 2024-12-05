@@ -149,5 +149,56 @@
       "count": 12
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrgif5id",
+      "begin": "2014-07-03T16:00:00.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "d/dxxmvywtpp8nz70",
+      "begin": "2014-07-03T16:00:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "93714"
+    },
+    {
+      "site": "nicovideo",
+      "id": "tokyoghoul",
+      "begin": "2014-07-09T15:30:00.000Z"
+    },
+    {
+      "site": "netflix",
+      "id": "80023687",
+      "begin": "2018-10-19T00:00:00.000Z",
+      "broadcast": "R/2018-10-19T00:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002260",
+      "begin": "2020-06-30T15:00:00.000Z",
+      "broadcast": "R/2020-06-30T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "喰種|食屍"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5630d7903a0b6c55038cb32b"
+    },
+    {
+      "site": "mikan",
+      "id": "363"
+    },
+    {
+      "site": "abema",
+      "id": "171-1",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

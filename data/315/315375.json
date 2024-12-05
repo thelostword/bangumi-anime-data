@@ -149,5 +149,60 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "315375"
+    },
+    {
+      "site": "gamer",
+      "id": "114528",
+      "begin": "2022-08-19T02:00:00.000Z",
+      "broadcast": "R/2022-08-19T02:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "sao-movie2",
+      "begin": "2022-07-07T15:00:00.000Z",
+      "broadcast": "R/2022-07-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28367939",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0071289",
+      "begin": "2022-07-07T15:00:00.000Z",
+      "broadcast": "R/2022-07-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-216",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "114528",
+      "begin": "2022-08-19T02:00:00.000Z",
+      "broadcast": "R/2022-08-19T02:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81768333",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "disneyplus",
+      "id": "4VbZ9wfQsu5c",
+      "url": "https://www.disneyplus.com/movies/sword-art-online-the-movie-progressive-aria-of-a-starless-night/4VbZ9wfQsu5c",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

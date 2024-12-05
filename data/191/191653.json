@@ -149,5 +149,32 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "191653"
+    },
+    {
+      "site": "bilibili",
+      "id": "5572",
+      "begin": "2016-09-30T02:59:09.000Z",
+      "broadcast": "R/2016-09-30T02:59:00.000Z/P7D"
+    },
+    {
+      "site": "qq",
+      "id": "g/g45oolfndk1iuh5",
+      "begin": ""
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh9utkd",
+      "begin": "2016-10-09T03:11:52.000Z"
+    },
+    {
+      "site": "mgtv",
+      "id": "301173",
+      "begin": ""
+    }
+  ]
 }

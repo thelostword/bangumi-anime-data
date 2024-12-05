@@ -149,5 +149,44 @@
       "count": 26
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "y/yvhxapls0zblr3s",
+      "begin": ""
+    },
+    {
+      "site": "mgtv",
+      "id": "291731",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "23119"
+    },
+    {
+      "site": "bilibili",
+      "id": "3467",
+      "begin": "2013-04-19T16:00:01.000Z",
+      "broadcast": ""
+    },
+    {
+      "site": "nicovideo",
+      "id": "steinsgate-movie",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "youku",
+      "id": "56f7d8b4b60311e1b356",
+      "begin": "2016-03-03T08:41:09.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0011992",
+      "begin": "2014-09-12T06:00:00.000Z",
+      "broadcast": "R/2014-09-12T06:00:00.000Z/P7D"
+    }
+  ]
 }

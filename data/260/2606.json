@@ -149,5 +149,23 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "2606"
+    },
+    {
+      "site": "nicovideo",
+      "id": "shinkoihime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0002650",
+      "begin": "2019-05-19T03:00:00.000Z",
+      "broadcast": "R/2019-05-19T03:00:00.000Z/P7D"
+    }
+  ]
 }

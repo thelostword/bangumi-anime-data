@@ -149,5 +149,41 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "394784"
+    },
+    {
+      "site": "gamer",
+      "id": "129165",
+      "begin": "2023-04-01T10:00:00.000Z",
+      "broadcast": "R/2023-04-01T10:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0080261",
+      "begin": "2023-04-04T15:00:00.000Z",
+      "broadcast": "R/2023-04-04T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "MIX 2季|二季|2期|二期|S02|S2|2nd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6425d64b55eb4cdc768e39ac"
+    },
+    {
+      "site": "mikan",
+      "id": "2982"
+    },
+    {
+      "site": "mytv",
+      "id": "mixii_141486",
+      "begin": "2024-08-15T12:50:00.000Z",
+      "broadcast": "R/2024-08-15T12:50:00.000Z/P7D"
+    }
+  ]
 }

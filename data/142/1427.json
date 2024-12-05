@@ -149,5 +149,27 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrgift5l",
+      "begin": "2014-09-12T06:31:25.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "1427"
+    },
+    {
+      "site": "qq",
+      "id": "e/e3u2eiee16p0fqx",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0002293",
+      "begin": "2024-08-01T03:00:00.000Z",
+      "broadcast": "R/2024-08-01T03:00:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,27 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "12433"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ch60012",
+      "begin": "2011-04-11T14:30:00.000Z",
+      "broadcast": "R/2011-04-11T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002864",
+      "begin": "2019-09-10T03:00:00.000Z",
+      "broadcast": "R/2019-09-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "變態生理"
+    }
+  ]
 }

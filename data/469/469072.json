@@ -133,5 +133,37 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "469072"
+    },
+    {
+      "site": "nicovideo",
+      "id": "adamkun",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "abema",
+      "id": "643-3",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6591429fb885a81efda115bc"
+    },
+    {
+      "site": "mikan",
+      "id": "3217"
+    },
+    {
+      "site": "unext",
+      "id": "SID0097523",
+      "begin": "2023-12-26T03:00:00.000Z",
+      "broadcast": "R/2023-12-26T03:00:00.000Z/P7D"
+    }
+  ]
 }

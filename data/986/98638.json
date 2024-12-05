@@ -149,5 +149,35 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "98638"
+    },
+    {
+      "site": "nicovideo",
+      "id": "norn9-nonet",
+      "begin": "2016-01-14T15:00:00.000Z",
+      "broadcast": "R/2016-01-14T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0021366",
+      "begin": "2016-01-22T03:00:00.000Z",
+      "broadcast": "R/2016-01-22T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "九重奏|NORN9"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5685728924f3d8c309bd4695"
+    },
+    {
+      "site": "mikan",
+      "id": "640"
+    }
+  ]
 }

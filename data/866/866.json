@@ -149,5 +149,28 @@
       "count": 11
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "866"
+    },
+    {
+      "site": "nicovideo",
+      "id": "souleater",
+      "begin": "2012-04-18T06:00:00.000Z",
+      "broadcast": "R/2012-04-18T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "cc006cae962411de83b1",
+      "begin": "2012-07-26T07:59:04.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0011353",
+      "begin": "2019-12-21T03:00:00.000Z",
+      "broadcast": "R/2019-12-21T03:00:00.000Z/P7D"
+    }
+  ]
 }

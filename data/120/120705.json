@@ -149,5 +149,40 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "mgtv",
+      "id": "158845",
+      "begin": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "2760",
+      "begin": "2015-10-15T18:00:00.000Z",
+      "broadcast": "R/2015-10-10T18:00:00.000Z/P7D"
+    },
+    {
+      "site": "qq",
+      "id": "u/ux693onqc07q98h",
+      "begin": "2015-10-15T18:00:00.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "7b76708ad29111e49e2a",
+      "begin": "2015-10-15T18:00:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "120705"
+    },
+    {
+      "site": "dmhy",
+      "id": "熾天"
+    },
+    {
+      "site": "mikan",
+      "id": "622"
+    }
+  ]
 }

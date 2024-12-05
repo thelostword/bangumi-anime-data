@@ -149,5 +149,46 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "a2826926df3611e3b8b7",
+      "begin": "2014-10-06T17:35:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "104468"
+    },
+    {
+      "site": "gamer",
+      "id": "69878",
+      "begin": "2020-12-10T06:00:00.000Z",
+      "broadcast": "R/2020-12-10T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0013521",
+      "begin": "2014-10-19T06:00:00.000Z",
+      "broadcast": "R/2014-10-19T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "69878",
+      "begin": "2020-12-10T06:00:00.000Z",
+      "broadcast": "R/2020-12-10T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Grande+Road"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "548f93eef892774b140ac6a6"
+    },
+    {
+      "site": "mikan",
+      "id": "415"
+    }
+  ]
 }

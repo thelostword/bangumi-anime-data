@@ -149,5 +149,66 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "331479"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JgDF8pTd-LOD4yqJY0OEfDz",
+      "begin": "2022-07-10T16:00:00.000Z",
+      "broadcast": "R/2022-07-10T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtSllszc6cnbB_Ceo4f2QJML",
+      "begin": "2022-10-10T16:00:00.000Z",
+      "broadcast": "R/2022-10-10T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "6KduKx72wfWS",
+      "url": "https://www.disneyplus.com/movies/dr-stone-ryusui/6KduKx72wfWS",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "125323",
+      "begin": "2022-07-10T11:00:00.000Z",
+      "broadcast": "R/2022-07-10T11:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28338468",
+      "begin": "2022-10-03T10:00:01.000Z",
+      "broadcast": "R/2022-10-03T10:00:01.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "19-102",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0071180",
+      "begin": "2022-07-10T11:00:00.000Z",
+      "broadcast": "R/2022-07-10T11:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "125323",
+      "begin": "2022-07-10T11:00:00.000Z",
+      "broadcast": "R/2022-07-10T11:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "dr-stone_r",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

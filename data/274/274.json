@@ -149,5 +149,34 @@
       "count": 15
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "8/8ozab44d94v8uod",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "274"
+    },
+    {
+      "site": "bilibili",
+      "id": "1375",
+      "begin": "2002-01-29T16:00:00.000Z",
+      "broadcast": "R/2011-06-23T01:23:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kanon_anime",
+      "begin": "2018-12-27T15:00:00.000Z",
+      "broadcast": "R/2018-12-27T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0003202",
+      "begin": "2019-11-30T03:00:00.000Z",
+      "broadcast": "R/2019-11-30T03:00:00.000Z/P7D"
+    }
+  ]
 }

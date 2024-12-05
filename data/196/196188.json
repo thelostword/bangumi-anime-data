@@ -149,5 +149,46 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "f11596abc8be11e6967c",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "196188"
+    },
+    {
+      "site": "nicovideo",
+      "id": "aimaimi3",
+      "begin": "2017-01-03T03:00:00.000Z",
+      "broadcast": "R/2017-01-03T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "5868",
+      "begin": "2017-01-02T16:00:01.000Z",
+      "broadcast": "R/2017-01-09T07:25:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0027850",
+      "begin": "2019-01-14T03:00:00.000Z",
+      "broadcast": "R/2019-01-14T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Surgical"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5869a7eeefe56b1860c8f802"
+    },
+    {
+      "site": "mikan",
+      "id": "1167"
+    }
+  ]
 }

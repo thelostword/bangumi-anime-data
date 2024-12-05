@@ -149,5 +149,30 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "73440"
+    },
+    {
+      "site": "youku",
+      "id": "e94ebf70058011e3b8b7",
+      "begin": "2013-10-05T03:24:40.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0011859",
+      "begin": "2014-10-24T06:00:00.000Z",
+      "broadcast": "R/2014-10-24T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "者的我"
+    },
+    {
+      "site": "mikan",
+      "id": "196"
+    }
+  ]
 }

@@ -149,5 +149,23 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "3102"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kujian",
+      "begin": "2013-08-22T15:00:00.000Z",
+      "broadcast": "R/2013-08-22T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0017672",
+      "begin": "2023-12-26T03:00:00.000Z",
+      "broadcast": "R/2023-12-26T03:00:00.000Z/P7D"
+    }
+  ]
 }

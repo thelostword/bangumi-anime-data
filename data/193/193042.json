@@ -149,5 +149,46 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "efbfbdefbfbdefbfbd08",
+      "begin": "2017-04-09T13:30:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "193042"
+    },
+    {
+      "site": "nicovideo",
+      "id": "uchoten2-anime",
+      "begin": "2017-04-14T15:00:00.000Z",
+      "broadcast": "R/2017-04-14T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "85200",
+      "begin": "2022-12-02T01:30:00.000Z",
+      "broadcast": "R/2022-12-02T01:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0029150",
+      "begin": "2022-09-01T03:00:00.000Z",
+      "broadcast": "R/2022-09-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "天家"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "58dfb89a5e559a067cc361fa"
+    },
+    {
+      "site": "mikan",
+      "id": "1284"
+    }
+  ]
 }

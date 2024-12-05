@@ -149,5 +149,23 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "376708"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28340355",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0075841",
+      "begin": "2022-11-22T03:00:00.000Z",
+      "broadcast": "R/2022-11-22T03:00:00.000Z/P7D"
+    }
+  ]
 }

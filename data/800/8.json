@@ -149,5 +149,52 @@
       "count": 48
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh9mhxp",
+      "begin": "2016-08-31T16:03:06.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "8"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JhJi1De2SBVmkdPbKKUHZcg",
+      "begin": "2021-02-15T16:00:00.000Z",
+      "broadcast": "R/2021-02-15T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtRuRk-3824ZxvISE1-6_dLf",
+      "begin": "2022-07-27T16:00:00.000Z",
+      "broadcast": "R/2022-07-27T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "15993",
+      "begin": "2021-08-26T08:00:00.000Z",
+      "broadcast": "R/2021-08-26T08:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0013601",
+      "begin": "2015-05-01T15:00:00.000Z",
+      "broadcast": "R/2015-05-01T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "15993",
+      "begin": "2024-06-03T01:40:00.000Z",
+      "broadcast": "R/2024-06-03T01:40:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "geass-r2-anime",
+      "begin": "2020-03-06T15:00:00.000Z",
+      "broadcast": "R/2020-03-06T15:00:00.000Z/P7D"
+    }
+  ]
 }

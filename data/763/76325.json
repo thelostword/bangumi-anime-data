@@ -149,5 +149,37 @@
       "count": 10
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "76325"
+    },
+    {
+      "site": "nicovideo",
+      "id": "date-a-live2",
+      "begin": "2019-01-06T03:00:00.000Z",
+      "broadcast": "R/2019-01-06T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "4187",
+      "begin": "2017-03-30T08:15:36.000Z",
+      "broadcast": "R/2017-03-30T08:15:36.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0018624",
+      "begin": "2017-01-12T03:00:00.000Z",
+      "broadcast": "R/2017-01-12T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "會大"
+    },
+    {
+      "site": "mikan",
+      "id": "298"
+    }
+  ]
 }

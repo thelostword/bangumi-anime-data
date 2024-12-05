@@ -149,5 +149,25 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "456042"
+    },
+    {
+      "site": "disneyplus",
+      "id": "6Wyhb8bQ9XDr",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "659142a1b885a81efda115c6"
+    },
+    {
+      "site": "mikan",
+      "id": "3270"
+    }
+  ]
 }

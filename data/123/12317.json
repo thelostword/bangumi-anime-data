@@ -149,5 +149,33 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "12317"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kaiji2_anime",
+      "begin": "2014-04-01T06:00:00.000Z",
+      "broadcast": "R/2014-04-01T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002541",
+      "begin": "2020-07-06T03:00:00.000Z",
+      "broadcast": "R/2020-07-06T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "143-45",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "賭博|bo+錄|無賴開司"
+    }
+  ]
 }

@@ -89,5 +89,18 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "419847"
+    },
+    {
+      "site": "bilibili",
+      "id": "28481048",
+      "begin": "2023-02-14T04:00:01.000Z",
+      "broadcast": "R/2023-02-14T04:00:01.000Z/P7D",
+      "comment": "中文配音: 28481049"
+    }
+  ]
 }

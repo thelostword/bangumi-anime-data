@@ -149,5 +149,70 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5057",
+      "begin": "2016-07-14T16:00:00.000Z",
+      "broadcast": "R/2016-07-14T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "f90460183db911e6b432",
+      "begin": "2016-07-14T16:00:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "177092"
+    },
+    {
+      "site": "nicovideo",
+      "id": "danganronpa3-zetubouhen",
+      "begin": "2016-08-12T03:00:00.000Z",
+      "broadcast": "R/2016-08-12T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_xnuvg1xb5t",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Uch1-tlqZtf91yfJj60Ew9FK",
+      "begin": "2020-02-19T16:00:00.000Z",
+      "broadcast": "R/2020-02-19T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "82770",
+      "begin": "2016-07-14T16:00:00.000Z",
+      "broadcast": "R/2016-07-14T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0025708",
+      "begin": "2020-05-02T03:00:00.000Z",
+      "broadcast": "R/2020-05-02T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "辯駁|論破 絕望"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "57765e1dca607f850f3f9338"
+    },
+    {
+      "site": "mikan",
+      "id": "797"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "82770",
+      "begin": "2016-07-14T16:00:00.000Z",
+      "broadcast": "R/2016-07-14T16:00:00.000Z/P7D"
+    }
+  ]
 }

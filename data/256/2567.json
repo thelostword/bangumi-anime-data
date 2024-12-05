@@ -149,5 +149,29 @@
       "count": 12
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "2567"
+    },
+    {
+      "site": "nicovideo",
+      "id": "seitokai",
+      "begin": "2012-10-13T15:00:00.000Z",
+      "broadcast": "R/2012-10-13T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "631",
+      "begin": "2012-10-15T15:04:00.000Z",
+      "broadcast": "R/2012-10-15T15:04:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0013126",
+      "begin": "2018-06-07T03:00:00.000Z",
+      "broadcast": "R/2018-06-07T03:00:00.000Z/P7D"
+    }
+  ]
 }

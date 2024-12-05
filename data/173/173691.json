@@ -125,5 +125,21 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "mgtv",
+      "id": "293305",
+      "begin": ""
+    },
+    {
+      "site": "youku",
+      "id": "40654fa2f09511e59e2a",
+      "begin": "2016-03-26T10:00:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "173691"
+    }
+  ]
 }

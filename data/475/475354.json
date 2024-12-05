@@ -149,5 +149,41 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "475354"
+    },
+    {
+      "site": "unext",
+      "id": "SID0125074",
+      "begin": "2024-07-13T13:00:00.000Z",
+      "broadcast": "R/2024-07-13T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "137444",
+      "begin": "2024-07-06T14:30:00.000Z",
+      "broadcast": "R/2024-07-06T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "137444",
+      "begin": "2024-07-06T14:30:00.000Z",
+      "broadcast": "R/2024-07-06T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "669cf974bfe5da00073b109f"
+    },
+    {
+      "site": "dmhy",
+      "id": "物語系列 7月新番|怪物季|第怪季|Monster"
+    },
+    {
+      "site": "mikan",
+      "id": "3380"
+    }
+  ]
 }

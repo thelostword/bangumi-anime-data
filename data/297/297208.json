@@ -149,5 +149,63 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "28228439",
+      "begin": "2020-04-03T17:23:00.000Z",
+      "broadcast": "R/2020-04-04T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "297208"
+    },
+    {
+      "site": "nicovideo",
+      "id": "anime-bungo-alchemist",
+      "begin": "2020-04-04T14:00:00.000Z",
+      "broadcast": "R/2020-04-04T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhlhiv9",
+      "begin": ""
+    },
+    {
+      "site": "youku",
+      "id": "bebfc3293bfd4c44a3fe",
+      "begin": "2020-04-03T17:21:03.000Z"
+    },
+    {
+      "site": "gamer",
+      "id": "109826",
+      "begin": "2020-04-03T17:25:00.000Z",
+      "broadcast": "R/2020-04-03T17:25:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0047152",
+      "begin": "2020-04-07T03:00:00.000Z",
+      "broadcast": "R/2020-04-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "109826",
+      "begin": "2020-04-03T17:25:00.000Z",
+      "broadcast": "R/2020-04-03T17:25:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "文豪 金術師"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5e82287c657e22f4195cc792"
+    },
+    {
+      "site": "mikan",
+      "id": "2201"
+    }
+  ]
 }

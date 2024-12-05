@@ -149,5 +149,55 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "312297"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ryuzoku-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "138047",
+      "begin": "2024-04-06T15:00:00.000Z",
+      "broadcast": "R/2024-04-06T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0100069",
+      "begin": "2024-04-09T03:00:00.000Z",
+      "broadcast": "R/2024-04-09T03:00:00.000Z/P7D",
+      "comment": "日本語字幕版: SID0147781"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtRfAcEuEfIFM00zax8BuR-q",
+      "begin": "2024-04-10T15:00:07.000Z",
+      "broadcast": "R/2024-04-10T15:00:07.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jh9bnM7dAqwoNbJd1FzJ4tx",
+      "begin": "2024-04-10T15:00:08.000Z",
+      "broadcast": "R/2024-04-10T15:00:08.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "26-221",
+      "begin": "",
+      "broadcast": "",
+      "comment": "日本語字幕版: 26-222"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "138047",
+      "begin": "2024-04-06T15:00:00.000Z",
+      "broadcast": "R/2024-04-06T15:00:00.000Z/P7D"
+    }
+  ]
 }

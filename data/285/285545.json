@@ -149,5 +149,24 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "285545"
+    },
+    {
+      "site": "nicovideo",
+      "id": "miniyuri",
+      "begin": "2019-10-25T03:00:00.000Z"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5d9a9acb306f1a0007beb928"
+    },
+    {
+      "site": "mikan",
+      "id": "2029"
+    }
+  ]
 }

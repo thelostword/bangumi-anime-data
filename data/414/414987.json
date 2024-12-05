@@ -149,5 +149,35 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "414987"
+    },
+    {
+      "site": "unext",
+      "id": "SID0100054",
+      "begin": "2024-04-10T14:30:00.000Z",
+      "broadcast": "R/2024-04-10T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-261",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "怪異 少女 神隱"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66097bc016e6bbcc806d3428"
+    },
+    {
+      "site": "mikan",
+      "id": "3280"
+    }
+  ]
 }

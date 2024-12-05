@@ -149,5 +149,28 @@
       "count": 9
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "u/uagxf65tyk7amgm",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "885"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ga-rei-zero",
+      "begin": "2021-09-01T03:00:00.000Z",
+      "broadcast": "R/2021-09-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0012877",
+      "begin": "2018-07-26T03:00:00.000Z",
+      "broadcast": "R/2018-07-26T03:00:00.000Z/P7D"
+    }
+  ]
 }

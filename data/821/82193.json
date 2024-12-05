@@ -149,5 +149,19 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "82193"
+    },
+    {
+      "site": "dmhy",
+      "id": "存遊"
+    },
+    {
+      "site": "mikan",
+      "id": "360"
+    }
+  ]
 }

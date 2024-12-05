@@ -149,5 +149,51 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "150246"
+    },
+    {
+      "site": "bilibili",
+      "id": "78432",
+      "begin": "2018-04-13T13:00:00.000Z",
+      "broadcast": "R/2018-04-13T12:59:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh1sayt",
+      "begin": "2018-04-13T13:35:54.000Z"
+    },
+    {
+      "site": "nicovideo",
+      "id": "fullmeta-iv",
+      "begin": "2018-04-20T16:00:00.000Z",
+      "broadcast": "R/2018-04-20T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "efbfbdefbfbd0e4aefbf",
+      "begin": "2018-04-13T13:00:05.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0034241",
+      "begin": "2018-04-21T03:00:00.000Z",
+      "broadcast": "R/2018-04-21T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "驚爆危機|全金属"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ac0aa9f395e2a122f10f061"
+    },
+    {
+      "site": "mikan",
+      "id": "1593"
+    }
+  ]
 }

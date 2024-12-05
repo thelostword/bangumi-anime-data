@@ -149,5 +149,21 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "61222"
+    },
+    {
+      "site": "bilibili",
+      "id": "586",
+      "begin": "2013-04-02T16:00:00.000Z",
+      "broadcast": "R/2013-04-04T22:53:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "學活"
+    }
+  ]
 }

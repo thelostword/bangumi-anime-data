@@ -149,5 +149,41 @@
       "count": 9
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "295017"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kaiyari",
+      "begin": "2021-01-20T15:00:00.000Z",
+      "broadcast": "R/2021-01-20T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-257",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "回復|回复 術士"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ff0435284202e4c2e99e1dc"
+    },
+    {
+      "site": "mikan",
+      "id": "2385"
+    },
+    {
+      "site": "unext",
+      "id": "SID0052894",
+      "begin": "2021-01-20T15:00:00.000Z",
+      "broadcast": "R/2021-01-20T15:00:00.000Z/P7D"
+    }
+  ]
 }

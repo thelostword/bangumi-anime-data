@@ -149,5 +149,32 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "37672"
+    },
+    {
+      "site": "bilibili",
+      "id": "760",
+      "begin": "2012-07-04T16:00:00.000Z",
+      "broadcast": "R/2021-02-01T10:35:00.000Z/P7D"
+    },
+    {
+      "site": "qq",
+      "id": "x/xobymnwqsv0yas1",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0016060",
+      "begin": "2022-10-24T15:00:00.000Z",
+      "broadcast": "R/2022-10-24T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "夏雪密会"
+    }
+  ]
 }

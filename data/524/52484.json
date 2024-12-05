@@ -149,5 +149,27 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "52484"
+    },
+    {
+      "site": "nicovideo",
+      "id": "unlimited",
+      "begin": "2013-01-12T14:00:00.000Z",
+      "broadcast": "R/2013-01-12T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0015034",
+      "begin": "2020-02-13T03:00:00.000Z",
+      "broadcast": "R/2020-02-13T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "兵部"
+    }
+  ]
 }

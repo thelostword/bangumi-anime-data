@@ -149,5 +149,39 @@
       "count": 81
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "3774"
+    },
+    {
+      "site": "nicovideo",
+      "id": "k-on_anime2",
+      "begin": "2018-12-27T15:00:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "28220984",
+      "begin": "2019-05-13T10:00:00.000Z",
+      "broadcast": "R/2019-05-13T10:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0011113",
+      "begin": "2019-11-29T03:00:00.000Z",
+      "broadcast": "R/2019-11-29T03:00:00.000Z/P7D",
+      "comment": "番外編 ｢企画会議！｣: SID0012239, 番外編 ｢計画！｣: SID0012240, 番外編 ｢訪問！｣: SID0012241"
+    },
+    {
+      "site": "abema",
+      "id": "19-183",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "K-ON"
+    }
+  ]
 }

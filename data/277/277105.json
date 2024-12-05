@@ -149,5 +149,35 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "277105"
+    },
+    {
+      "site": "unext",
+      "id": "SID0049037",
+      "begin": "2020-07-01T03:00:00.000Z",
+      "broadcast": "R/2020-07-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "19-107",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "PSYCHO PASS 3"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5d9392c14e9c003faceb5c88"
+    },
+    {
+      "site": "mikan",
+      "id": "2075"
+    }
+  ]
 }

@@ -149,5 +149,29 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "mgtv",
+      "id": "166526",
+      "begin": ""
+    },
+    {
+      "site": "youku",
+      "id": "ef37dd98560211e5b2ad",
+      "begin": "2015-10-14T12:00:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "133608"
+    },
+    {
+      "site": "dmhy",
+      "id": "Monster+Strike"
+    },
+    {
+      "site": "mikan",
+      "id": "624"
+    }
+  ]
 }

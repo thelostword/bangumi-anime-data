@@ -149,5 +149,34 @@
       "count": 20
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "6/6kqmd0vvva39lba",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "234"
+    },
+    {
+      "site": "bilibili",
+      "id": "1816",
+      "begin": "2005-01-05T16:00:00.000Z",
+      "broadcast": "R/2018-07-21T09:41:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "air_anime",
+      "begin": "2018-12-27T15:00:00.000Z",
+      "broadcast": "R/2018-12-27T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002482",
+      "begin": "2019-11-30T03:00:00.000Z",
+      "broadcast": "R/2019-11-30T03:00:00.000Z/P7D"
+    }
+  ]
 }

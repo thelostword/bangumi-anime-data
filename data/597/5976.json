@@ -149,5 +149,32 @@
       "count": 16
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "5976"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kaminomi1",
+      "begin": "2013-07-09T06:00:00.000Z",
+      "broadcast": "R/2013-07-09T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "fcbec78661ad11e0bea1",
+      "begin": "2011-08-23T17:06:23.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002526",
+      "begin": "2020-02-25T03:00:00.000Z",
+      "broadcast": "R/2020-02-25T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "只有神"
+    }
+  ]
 }

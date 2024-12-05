@@ -149,5 +149,61 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "393038"
+    },
+    {
+      "site": "nicovideo",
+      "id": "sasapi-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0096088",
+      "begin": "2024-01-10T13:00:00.000Z",
+      "broadcast": "R/2024-01-10T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "viu",
+      "id": "2290412",
+      "begin": "2024-01-05T12:30:46.000Z",
+      "broadcast": "R/2024-01-05T12:30:46.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "134321",
+      "begin": "2024-01-05T12:30:00.000Z",
+      "broadcast": "R/2024-01-05T12:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-254",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "134321",
+      "begin": "2024-01-05T12:30:00.000Z",
+      "broadcast": "R/2024-01-05T12:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "659142acb885a81efda115f2"
+    },
+    {
+      "site": "mikan",
+      "id": "3235"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UchRRf2FGMu8TG-68vV6ewWY",
+      "begin": "2024-07-10T13:00:06.000Z",
+      "broadcast": "R/2024-07-10T13:00:06.000Z/P7D"
+    }
+  ]
 }

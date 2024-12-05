@@ -149,5 +149,17 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "3327"
+    },
+    {
+      "site": "unext",
+      "id": "SID0037813",
+      "begin": "2023-05-16T03:00:00.000Z",
+      "broadcast": "R/2023-05-16T03:00:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,32 @@
       "count": 15
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "10739"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kaminomi2",
+      "begin": "2013-07-12T06:00:00.000Z",
+      "broadcast": "R/2013-07-12T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "785910189b1511e0a046",
+      "begin": "2012-11-07T16:18:02.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002527",
+      "begin": "2020-02-25T03:00:00.000Z",
+      "broadcast": "R/2020-02-25T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "更勝|只有神+2|II|二"
+    }
+  ]
 }

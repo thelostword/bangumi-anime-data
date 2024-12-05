@@ -149,5 +149,37 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "140307"
+    },
+    {
+      "site": "mgtv",
+      "id": "322203",
+      "begin": ""
+    },
+    {
+      "site": "youku",
+      "id": "6fefbfbd1cefbfbd4777",
+      "begin": "2018-02-10T01:29:12.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0070844",
+      "begin": "2022-06-21T03:00:00.000Z",
+      "broadcast": "R/2022-06-21T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "70612",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "1149"
+    }
+  ]
 }

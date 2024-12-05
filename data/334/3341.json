@@ -149,5 +149,28 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "3341"
+    },
+    {
+      "site": "nicovideo",
+      "id": "negima-oad02",
+      "begin": "2017-09-07T06:00:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "3773",
+      "begin": "2009-09-16T16:00:01.000Z",
+      "broadcast": "R/2016-04-18T06:13:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0031151",
+      "begin": "2017-09-28T03:00:00.000Z",
+      "broadcast": "R/2017-09-28T03:00:00.000Z/P7D"
+    }
+  ]
 }

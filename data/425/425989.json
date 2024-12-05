@@ -145,5 +145,17 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "425989"
+    },
+    {
+      "site": "netflix",
+      "id": "81186862",
+      "begin": "2023-05-17T16:00:00.000Z",
+      "broadcast": "R/2023-05-17T16:00:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,36 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "68022"
+    },
+    {
+      "site": "nicovideo",
+      "id": "anime-is2",
+      "begin": "2013-10-14T14:30:00.000Z"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UcjWeYHDlP1RLcz3O_SNQQ0X",
+      "begin": "2019-07-17T16:00:00.000Z",
+      "broadcast": "R/2019-07-17T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0013947",
+      "begin": "2023-02-12T03:00:00.000Z",
+      "broadcast": "R/2023-02-12T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Infinite Stratos"
+    },
+    {
+      "site": "mikan",
+      "id": "189"
+    }
+  ]
 }

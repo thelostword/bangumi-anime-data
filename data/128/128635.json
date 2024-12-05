@@ -149,5 +149,46 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "2590",
+      "begin": "2015-07-03T14:25:00.000Z",
+      "broadcast": "R/2020-10-14T06:42:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "5a5b31301a5111e5abda",
+      "begin": "2015-07-03T14:25:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "128635"
+    },
+    {
+      "site": "nicovideo",
+      "id": "wakabagirl",
+      "begin": "2015-07-11T15:00:00.000Z",
+      "broadcast": "R/2015-07-11T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0019042",
+      "begin": "2023-09-29T03:00:00.000Z",
+      "broadcast": "R/2023-09-29T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "葉女|Wakaba"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5594dc83a0b788232ee35274"
+    },
+    {
+      "site": "mikan",
+      "id": "536"
+    }
+  ]
 }

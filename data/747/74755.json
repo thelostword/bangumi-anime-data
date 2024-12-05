@@ -149,5 +149,41 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrgif0kh",
+      "begin": "2014-07-09T17:35:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "74755"
+    },
+    {
+      "site": "nicovideo",
+      "id": "lovestage",
+      "begin": "2016-11-01T06:00:00.000Z"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "11651971",
+      "begin": "2019-01-22T12:43:20.000Z",
+      "broadcast": "R/2019-01-22T12:43:20.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0027685",
+      "begin": "2016-12-15T03:00:00.000Z",
+      "broadcast": "R/2016-12-15T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "love+stage"
+    },
+    {
+      "site": "mikan",
+      "id": "346"
+    }
+  ]
 }

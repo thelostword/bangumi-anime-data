@@ -149,5 +149,28 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "f/fgvzo9c628mdd15",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "38437"
+    },
+    {
+      "site": "netflix",
+      "id": "70014613",
+      "begin": "2021-06-16T16:00:00.000Z",
+      "broadcast": "R/2021-06-16T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0012952",
+      "begin": "2008-10-31T15:00:00.000Z",
+      "broadcast": "R/2008-10-31T15:00:00.000Z/P7D"
+    }
+  ]
 }

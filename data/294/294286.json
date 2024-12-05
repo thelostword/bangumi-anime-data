@@ -125,5 +125,29 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "294286"
+    },
+    {
+      "site": "bilibili",
+      "id": "28393590",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0062110",
+      "begin": "2022-11-30T15:00:00.000Z",
+      "broadcast": "R/2022-11-30T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "journey",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

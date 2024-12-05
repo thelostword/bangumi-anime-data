@@ -117,5 +117,36 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "242737"
+    },
+    {
+      "site": "mgtv",
+      "id": "324710",
+      "begin": ""
+    },
+    {
+      "site": "nicovideo",
+      "id": "aguu-anime",
+      "begin": "2018-07-11T16:00:00.000Z",
+      "broadcast": "R/2018-07-11T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0035550",
+      "begin": "2018-07-10T03:00:00.000Z",
+      "broadcast": "R/2018-07-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5b38c4a3b3d4e8ef387d7ebf"
+    },
+    {
+      "site": "mikan",
+      "id": "1717"
+    }
+  ]
 }

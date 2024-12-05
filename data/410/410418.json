@@ -149,5 +149,29 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "410418"
+    },
+    {
+      "site": "gamer",
+      "id": "129181",
+      "begin": "2024-03-07T04:00:00.000Z",
+      "broadcast": "R/2024-03-07T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0099902",
+      "begin": "2024-03-06T03:00:00.000Z",
+      "broadcast": "R/2024-03-06T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "21102890",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

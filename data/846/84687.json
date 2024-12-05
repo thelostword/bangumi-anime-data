@@ -133,5 +133,29 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "84687"
+    },
+    {
+      "site": "nicovideo",
+      "id": "movie-kiddygrade-kakuseihen",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "4009",
+      "begin": "2016-05-18T06:13:00.000Z",
+      "broadcast": "R/2016-05-18T06:13:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0042782",
+      "begin": "2019-11-30T03:00:00.000Z",
+      "broadcast": "R/2019-11-30T03:00:00.000Z/P7D"
+    }
+  ]
 }

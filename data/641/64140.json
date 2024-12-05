@@ -149,5 +149,51 @@
       "count": 9
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhc0xgd",
+      "begin": "2014-12-16T08:07:07.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "b9229c08e3cb11e29748",
+      "begin": "2013-10-05T18:49:48.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "289",
+      "begin": "2013-10-04T16:00:00.000Z",
+      "broadcast": "R/2014-10-09T03:48:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "64140"
+    },
+    {
+      "site": "nicovideo",
+      "id": "loghorizon",
+      "begin": "2015-05-18T06:00:00.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "7/70479a4k55zq94b",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0002360",
+      "begin": "2020-07-01T03:00:00.000Z",
+      "broadcast": "R/2020-07-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "錄的"
+    },
+    {
+      "site": "mikan",
+      "id": "214"
+    }
+  ]
 }

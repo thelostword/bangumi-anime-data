@@ -149,5 +149,35 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "135816"
+    },
+    {
+      "site": "nicovideo",
+      "id": "divinegate",
+      "begin": "2016-01-09T03:00:00.000Z",
+      "broadcast": "R/2016-01-09T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0021063",
+      "begin": "2016-02-15T03:00:00.000Z",
+      "broadcast": "R/2016-02-15T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "神聖|神賜+之門"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5685733b24f3d8c309bd46a7"
+    },
+    {
+      "site": "mikan",
+      "id": "649"
+    }
+  ]
 }

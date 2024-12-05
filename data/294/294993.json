@@ -149,5 +149,97 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "294993"
+    },
+    {
+      "site": "bilibili",
+      "id": "28229899",
+      "begin": "2020-10-02T17:25:01.000Z",
+      "broadcast": "R/2020-10-02T17:25:01.000Z/P7D",
+      "comment": "粤配版: 28234882"
+    },
+    {
+      "site": "youku",
+      "id": "dfaa9262a41b49a9a7bb",
+      "begin": "2020-10-02T17:25:00.000Z",
+      "broadcast": "R/2020-10-02T17:25:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "jujutsukaisen",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "viu",
+      "id": "449265",
+      "begin": "2022-07-31T16:00:00.000Z",
+      "broadcast": "R/2022-07-31T16:00:00.000Z/P7D",
+      "comment": "粵語版: 449822"
+    },
+    {
+      "site": "netflix",
+      "id": "81278456",
+      "begin": "2021-06-01T16:00:00.000Z",
+      "broadcast": "R/2021-06-01T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "6hF9jj7l8Ipz",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "108886",
+      "begin": "2020-10-16T17:25:00.000Z",
+      "broadcast": "R/2020-10-16T17:25:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtRAWzCX7h-gsJPkej_-0jtd",
+      "begin": "2023-05-31T16:00:00.000Z",
+      "broadcast": "R/2023-05-31T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JisDU6GAJuyNpVwDvCm-f3J",
+      "begin": "2023-05-31T16:00:00.000Z",
+      "broadcast": "R/2023-05-31T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "536-1",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0050925",
+      "begin": "2020-10-02T17:00:00.000Z",
+      "broadcast": "R/2020-10-02T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "108886",
+      "begin": "2020-10-16T17:25:00.000Z",
+      "broadcast": "R/2020-10-16T17:25:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "咒術 戰"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5f75680c4b840abcfc63b1c4"
+    },
+    {
+      "site": "mikan",
+      "id": "2283"
+    }
+  ]
 }

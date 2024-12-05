@@ -149,5 +149,32 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhbcjih",
+      "begin": "2016-02-15T09:09:13.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "156734"
+    },
+    {
+      "site": "nicovideo",
+      "id": "digimon-matome",
+      "begin": "2016-04-01T15:00:00.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "f693fe00924811e59e2a",
+      "begin": "2017-11-22T08:36:59.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0023528",
+      "begin": "2021-05-01T03:00:00.000Z",
+      "broadcast": "R/2021-05-01T03:00:00.000Z/P7D"
+    }
+  ]
 }

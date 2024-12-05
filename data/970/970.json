@@ -149,5 +149,22 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrg3lj4x",
+      "begin": "2014-09-12T06:39:10.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "970"
+    },
+    {
+      "site": "bilibili",
+      "id": "1221",
+      "begin": "2008-10-02T16:00:00.000Z",
+      "broadcast": "R/2010-09-21T16:43:00.000Z/P7D"
+    }
+  ]
 }

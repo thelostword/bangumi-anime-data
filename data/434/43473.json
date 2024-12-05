@@ -125,5 +125,17 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "43473"
+    },
+    {
+      "site": "unext",
+      "id": "SID0014116",
+      "begin": "2020-11-17T15:00:00.000Z",
+      "broadcast": "R/2020-11-17T15:00:00.000Z/P7D"
+    }
+  ]
 }

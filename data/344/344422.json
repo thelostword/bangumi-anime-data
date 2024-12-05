@@ -149,5 +149,55 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "344422"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Uci8Ug-ZleUB1RYBWaU2CmbI",
+      "begin": "2022-01-05T15:30:00.000Z",
+      "broadcast": "R/2022-01-05T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28235961",
+      "begin": "2022-01-05T15:30:00.000Z",
+      "broadcast": "R/2022-01-05T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "118940",
+      "begin": "2022-01-05T15:30:00.000Z",
+      "broadcast": "R/2022-01-05T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "hakozume-anime",
+      "begin": "2022-01-12T15:00:00.000Z",
+      "broadcast": "R/2022-01-12T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0064437",
+      "begin": "2022-01-12T15:00:00.000Z",
+      "broadcast": "R/2022-01-12T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "秘密內幕 女警的反擊"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "61d722026e31a0815abf541f"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "118940",
+      "begin": "2022-01-05T15:30:00.000Z",
+      "broadcast": "R/2022-01-05T15:30:00.000Z/P7D"
+    }
+  ]
 }

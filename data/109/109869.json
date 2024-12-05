@@ -149,5 +149,28 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "109869"
+    },
+    {
+      "site": "bilibili",
+      "id": "2800",
+      "begin": "2015-05-07T16:00:00.000Z",
+      "broadcast": "R/2015-05-01T05:48:50.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0026142",
+      "begin": "2016-08-11T03:00:00.000Z",
+      "broadcast": "R/2016-08-11T03:00:00.000Z/P7D",
+      "comment": "第2部 響-ひびき-: SID0026143, 第3部 憧-あこがれ-: SID0026144, 第4部 朝-あした-: SID0026145"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "551378971fe5c31a190a0724"
+    }
+  ]
 }

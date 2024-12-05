@@ -149,5 +149,91 @@
       "count": 13
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "386809"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jhas5i3D5PMB2HNS6Z6HJF2",
+      "begin": "2023-04-12T15:00:00.000Z",
+      "broadcast": "R/2023-04-12T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtQ4MUqIQ_WXCfYVD_2OJGHp",
+      "begin": "2023-04-12T15:00:00.000Z",
+      "broadcast": "R/2023-04-12T15:00:00.000Z/P7D",
+      "comment": "粵語版: PLC18xlbCdwtSzlUic_X__m871jQes2c-I"
+    },
+    {
+      "site": "viu",
+      "id": "2120482",
+      "begin": "2023-04-12T15:00:00.000Z",
+      "broadcast": "R/2023-04-12T15:00:00.000Z/P7D",
+      "comment": "粵語版: 2252089"
+    },
+    {
+      "site": "netflix",
+      "id": "81684733",
+      "begin": "2023-04-12T15:00:00.000Z",
+      "broadcast": "R/2023-04-12T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "128085",
+      "begin": "2023-04-12T15:00:00.000Z",
+      "broadcast": "R/2023-04-12T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ichigoproduction",
+      "begin": "2023-04-13T14:00:00.000Z",
+      "broadcast": "R/2023-04-13T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-240",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0079682",
+      "begin": "2023-04-13T14:00:00.000Z",
+      "broadcast": "R/2023-04-13T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "4xE7VXJDjfbd",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "128085",
+      "begin": "2023-04-12T15:00:00.000Z",
+      "broadcast": "R/2023-04-12T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "我推的孩子"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6425d63e55eb4cdc768e3980"
+    },
+    {
+      "site": "mikan",
+      "id": "2995"
+    },
+    {
+      "site": "mytv",
+      "id": "oshinoko_141788",
+      "begin": "2024-10-30T16:00:00.000Z",
+      "broadcast": "R/2024-10-30T16:00:00.000Z/P7D"
+    }
+  ]
 }

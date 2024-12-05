@@ -149,5 +149,29 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "335225"
+    },
+    {
+      "site": "netflix",
+      "id": "81228573",
+      "begin": "2021-10-21T00:00:00.000Z",
+      "broadcast": "R/2021-10-21T00:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "古見"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "615bb924d7f73dd4ed5c4423"
+    },
+    {
+      "site": "mikan",
+      "id": "2564"
+    }
+  ]
 }

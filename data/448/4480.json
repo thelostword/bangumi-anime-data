@@ -149,5 +149,28 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "4480"
+    },
+    {
+      "site": "nicovideo",
+      "id": "TOS-anime02",
+      "begin": "2016-07-06T06:00:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "3975",
+      "begin": "2010-03-24T16:00:01.000Z",
+      "broadcast": "R/2016-05-09T07:28:06.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002723",
+      "begin": "2020-02-27T03:00:00.000Z",
+      "broadcast": "R/2020-02-27T03:00:00.000Z/P7D"
+    }
+  ]
 }

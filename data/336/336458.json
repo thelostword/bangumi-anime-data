@@ -149,5 +149,67 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "336458"
+    },
+    {
+      "site": "bilibili",
+      "id": "28236221",
+      "begin": "2022-01-11T15:00:00.000Z",
+      "broadcast": "R/2022-01-11T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "viu",
+      "id": "418911",
+      "begin": "2022-01-10T16:00:00.000Z",
+      "broadcast": "R/2022-01-10T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JizHNDj5kgVbs6qr3Bw95ie",
+      "begin": "2022-01-12T15:30:00.000Z",
+      "broadcast": "R/2022-01-12T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "117557",
+      "begin": "2022-01-11T15:00:00.000Z",
+      "broadcast": "R/2022-01-11T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "fabiniku",
+      "begin": "2022-01-17T15:00:00.000Z",
+      "broadcast": "R/2022-01-17T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0063363",
+      "begin": "2022-01-15T15:00:00.000Z",
+      "broadcast": "R/2022-01-15T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "117557",
+      "begin": "2022-01-11T15:00:00.000Z",
+      "broadcast": "R/2022-01-11T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "美少女 大叔"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "61d722006e31a0815abf5418"
+    },
+    {
+      "site": "mytv",
+      "id": "lifewithanordinaryguywhoreincarnatedintoatotalfantasyknockout0002_141603",
+      "begin": "2024-09-05T16:00:00.000Z",
+      "broadcast": "R/2024-09-05T16:00:00.000Z/P7D"
+    }
+  ]
 }

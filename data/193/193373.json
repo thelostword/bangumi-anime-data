@@ -149,5 +149,51 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "193373"
+    },
+    {
+      "site": "bilibili",
+      "id": "141252",
+      "begin": "2018-01-30T16:00:00.000Z",
+      "broadcast": "R/2018-10-09T10:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "prisma-illya-movie-sekka",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtQkQG0uR6Bh3-G37Y2JxT34",
+      "begin": "2022-12-23T16:00:00.000Z",
+      "broadcast": "R/2022-12-23T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0045257",
+      "begin": "2020-01-10T03:00:00.000Z",
+      "broadcast": "R/2020-01-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "87738",
+      "begin": "2024-05-03T04:00:00.000Z",
+      "broadcast": "R/2024-05-03T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "87738",
+      "begin": "2024-05-03T04:00:00.000Z",
+      "broadcast": "R/2024-05-03T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "1479"
+    }
+  ]
 }

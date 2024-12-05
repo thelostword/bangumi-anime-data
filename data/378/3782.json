@@ -149,5 +149,17 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "3782"
+    },
+    {
+      "site": "bilibili",
+      "id": "5574",
+      "begin": "2016-09-29T04:08:00.000Z",
+      "broadcast": "R/2016-09-29T04:08:00.000Z/P7D"
+    }
+  ]
 }

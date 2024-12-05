@@ -149,5 +149,32 @@
       "count": 11
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "24165"
+    },
+    {
+      "site": "nicovideo",
+      "id": "saki-sidea",
+      "begin": "2012-04-23T16:30:00.000Z",
+      "broadcast": "R/2012-04-04T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "d778354c77e211e196ac",
+      "begin": "2012-04-12T09:27:37.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0003212",
+      "begin": "2019-12-26T03:00:00.000Z",
+      "broadcast": "R/2019-12-26T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "將少|saki"
+    }
+  ]
 }

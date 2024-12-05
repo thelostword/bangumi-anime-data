@@ -149,5 +149,53 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "69484"
+    },
+    {
+      "site": "nicovideo",
+      "id": "litbus-anime-refrain",
+      "begin": "2013-10-06T13:30:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "81292",
+      "begin": "2013-10-04T16:00:01.000Z",
+      "broadcast": "R/2018-04-03T03:49:00.000Z/P7D"
+    },
+    {
+      "site": "qq",
+      "id": "m/mzc00200lwtyc8h",
+      "begin": ""
+    },
+    {
+      "site": "gamer",
+      "id": "61087",
+      "begin": "2020-06-22T04:00:00.000Z",
+      "broadcast": "R/2020-06-22T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0017409",
+      "begin": "2013-10-20T06:00:00.000Z",
+      "broadcast": "R/2013-10-20T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Refrain"
+    },
+    {
+      "site": "mikan",
+      "id": "201"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "61087",
+      "begin": "2020-06-22T04:00:00.000Z",
+      "broadcast": "R/2020-06-22T04:00:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,32 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "42707"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ixion-saga",
+      "begin": "2012-10-15T14:30:00.000Z",
+      "broadcast": "R/2012-10-15T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "b07551dee10811e19013",
+      "begin": "2012-10-06T01:10:15.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0010867",
+      "begin": "2022-09-30T03:00:00.000Z",
+      "broadcast": "R/2022-09-30T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Ixion Saga DT"
+    }
+  ]
 }

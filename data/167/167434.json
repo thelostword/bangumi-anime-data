@@ -149,5 +149,41 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5532",
+      "begin": "2016-10-07T04:00:10.000Z",
+      "broadcast": "R/2016-10-07T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "167434"
+    },
+    {
+      "site": "nicovideo",
+      "id": "gn_anime",
+      "begin": "2016-10-09T03:00:00.000Z",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0026764",
+      "begin": "2020-02-13T03:00:00.000Z",
+      "broadcast": "R/2020-02-13T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "女編"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "57efbd34ac5b9d0762d174d6"
+    },
+    {
+      "site": "mikan",
+      "id": "866"
+    }
+  ]
 }

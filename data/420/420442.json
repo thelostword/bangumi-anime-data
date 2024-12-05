@@ -119,5 +119,17 @@
       "total_cont": 0
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "420442"
+    },
+    {
+      "site": "gamer",
+      "id": "141829",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

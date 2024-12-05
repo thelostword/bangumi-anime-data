@@ -149,5 +149,50 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5515",
+      "begin": "2016-10-02T16:00:10.000Z",
+      "broadcast": "R/2016-10-02T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh9tlph",
+      "begin": "2016-10-02T15:55:16.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "6/6v4gdmsxw4o6rx3",
+      "begin": "2016-10-02T16:00:00.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "2317cca2795811e6bdbb",
+      "begin": "2016-10-02T15:58:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "175525"
+    },
+    {
+      "site": "unext",
+      "id": "SID0026838",
+      "begin": "2019-03-01T03:00:00.000Z",
+      "broadcast": "R/2019-03-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "刀劍亂舞"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "57efc9b4ac5b9d0762d17512"
+    },
+    {
+      "site": "mikan",
+      "id": "834"
+    }
+  ]
 }

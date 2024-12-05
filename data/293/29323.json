@@ -149,5 +149,27 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "29323"
+    },
+    {
+      "site": "nicovideo",
+      "id": "nazokano_x",
+      "begin": "2012-04-13T15:00:00.000Z",
+      "broadcast": "R/2012-03-29T06:50:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002753",
+      "begin": "2018-08-28T03:00:00.000Z",
+      "broadcast": "R/2018-08-28T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "迷|谜之+女X"
+    }
+  ]
 }

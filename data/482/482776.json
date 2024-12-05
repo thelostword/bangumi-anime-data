@@ -149,5 +149,47 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "482776"
+    },
+    {
+      "site": "unext",
+      "id": "SID0104140",
+      "begin": "2024-07-06T14:00:00.000Z",
+      "broadcast": "R/2024-07-06T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "564-11",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "138127",
+      "begin": "2024-06-29T15:00:00.000Z",
+      "broadcast": "R/2024-06-29T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "138127",
+      "begin": "2024-06-29T15:00:00.000Z",
+      "broadcast": "R/2024-06-29T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6681471b57ba1568dc1b07dc"
+    },
+    {
+      "site": "mikan",
+      "id": "3360"
+    },
+    {
+      "site": "dmhy",
+      "id": "妻子 感情"
+    }
+  ]
 }

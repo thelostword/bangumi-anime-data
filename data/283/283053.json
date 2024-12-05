@@ -149,5 +149,35 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "283053"
+    },
+    {
+      "site": "gamer",
+      "id": "105596",
+      "begin": "2021-05-24T08:00:00.000Z",
+      "broadcast": "R/2021-05-24T08:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "105596",
+      "begin": "2021-05-24T08:00:00.000Z",
+      "broadcast": "R/2021-05-24T08:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Fairy Gone"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5d9392cd4e9c003faceb5cb8"
+    },
+    {
+      "site": "mikan",
+      "id": "2074"
+    }
+  ]
 }

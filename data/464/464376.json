@@ -149,5 +149,53 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "464376"
+    },
+    {
+      "site": "unext",
+      "id": "SID0104158",
+      "begin": "2024-07-13T15:30:00.000Z",
+      "broadcast": "R/2024-07-13T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6681472857ba1568dc1b081c"
+    },
+    {
+      "site": "netflix",
+      "id": "81566401",
+      "begin": "2024-07-12T16:00:00.000Z",
+      "broadcast": "R/2024-07-12T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "136968",
+      "begin": "2024-07-13T17:00:00.000Z",
+      "broadcast": "R/2024-07-13T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "136968",
+      "begin": "2024-07-13T17:00:00.000Z",
+      "broadcast": "R/2024-07-13T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "26-224",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "敗北女|敗犬女"
+    },
+    {
+      "site": "mikan",
+      "id": "3391"
+    }
+  ]
 }

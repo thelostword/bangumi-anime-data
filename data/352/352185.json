@@ -149,5 +149,27 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "352185"
+    },
+    {
+      "site": "nicovideo",
+      "id": "rakumajo-movie",
+      "begin": "2023-09-08T15:00:00.000Z",
+      "broadcast": "R/2023-09-08T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0091915",
+      "begin": "2023-09-08T15:00:00.000Z",
+      "broadcast": "R/2023-09-08T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3191"
+    }
+  ]
 }

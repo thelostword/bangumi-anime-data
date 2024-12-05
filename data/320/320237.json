@@ -141,5 +141,23 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "320237"
+    },
+    {
+      "site": "nicovideo",
+      "id": "lhjc_jp",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0096003",
+      "begin": "2024-01-11T03:00:00.000Z",
+      "broadcast": "R/2024-01-11T03:00:00.000Z/P7D"
+    }
+  ]
 }

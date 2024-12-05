@@ -149,5 +149,34 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "231474"
+    },
+    {
+      "site": "youku",
+      "id": "43f4ca5d9d9c4a6f999c",
+      "begin": "2018-04-20T08:51:32.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0037658",
+      "begin": "2018-11-30T03:00:00.000Z",
+      "broadcast": "R/2018-11-30T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Hisone"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ac0aa96395e2a122f10f051"
+    },
+    {
+      "site": "mikan",
+      "id": "1623"
+    }
+  ]
 }

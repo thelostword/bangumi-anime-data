@@ -149,5 +149,43 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "038f718ed35e11e49e2a",
+      "begin": "2015-04-22T13:34:28.000Z",
+      "broadcast": "R/2015-04-22T13:34:28.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "1548",
+      "begin": "2015-04-05T16:00:00.000Z",
+      "broadcast": "R/2015-04-07T00:33:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "119886"
+    },
+    {
+      "site": "nicovideo",
+      "id": "mikagura_gakuen",
+      "begin": "2015-04-07T15:00:00.000Z",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0096731",
+      "begin": "2024-01-23T03:00:00.000Z",
+      "broadcast": "R/2024-01-23T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "御神+學"
+    },
+    {
+      "site": "mikan",
+      "id": "507"
+    }
+  ]
 }

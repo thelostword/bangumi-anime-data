@@ -145,5 +145,32 @@
       "count": 10
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "e/e3h18m27lxftpyo",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "29074"
+    },
+    {
+      "site": "nicovideo",
+      "id": "sasamisan",
+      "begin": "2013-04-01T15:00:00.000Z",
+      "broadcast": "R/2013-04-01T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0003214",
+      "begin": "2022-04-27T03:00:00.000Z",
+      "broadcast": "R/2022-04-27T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "鎖鎖美"
+    }
+  ]
 }

@@ -149,5 +149,21 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "56159"
+    },
+    {
+      "site": "nicovideo",
+      "id": "aiura",
+      "begin": "2013-04-09T16:40:00.000Z",
+      "broadcast": "R/2013-04-09T16:40:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Aiura"
+    }
+  ]
 }

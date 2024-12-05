@@ -149,5 +149,23 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "233319"
+    },
+    {
+      "site": "nicovideo",
+      "id": "lupin-movie",
+      "begin": "2022-04-30T15:00:00.000Z",
+      "broadcast": "R/2022-04-30T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0066801",
+      "begin": "2022-04-01T03:00:00.000Z",
+      "broadcast": "R/2022-04-01T03:00:00.000Z/P7D"
+    }
+  ]
 }

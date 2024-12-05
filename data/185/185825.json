@@ -149,5 +149,31 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5545",
+      "begin": "2016-10-03T11:00:09.000Z",
+      "broadcast": "R/2016-10-03T11:00:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "2be7370c7fad11e69e06",
+      "begin": "2016-10-03T10:58:32.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "185825"
+    },
+    {
+      "site": "qq",
+      "id": "z/zggrxgnh8mh65q9",
+      "begin": ""
+    },
+    {
+      "site": "mikan",
+      "id": "837"
+    }
+  ]
 }

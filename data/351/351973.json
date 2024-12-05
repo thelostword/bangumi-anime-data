@@ -149,5 +149,43 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "351973"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28237202",
+      "begin": "2022-04-09T16:30:00.000Z",
+      "broadcast": "R/2022-04-09T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "120504",
+      "begin": "2022-04-09T16:30:00.000Z",
+      "broadcast": "R/2022-04-09T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "mytv",
+      "id": "intheheartofkunoichitsubaki_135002",
+      "begin": "2022-04-09T16:30:00.000Z",
+      "broadcast": "R/2022-04-09T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "120504",
+      "begin": "2022-04-09T16:30:00.000Z",
+      "broadcast": "R/2022-04-09T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "女忍者椿"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "624774ab70e8f89b23a18584"
+    }
+  ]
 }

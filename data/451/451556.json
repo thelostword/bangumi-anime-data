@@ -113,5 +113,31 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "451556"
+    },
+    {
+      "site": "nicovideo",
+      "id": "secretmission",
+      "begin": "2023-10-01T16:00:00.000Z",
+      "broadcast": "R/2023-10-01T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "65186f774c90aa63daeaa1e3"
+    },
+    {
+      "site": "mikan",
+      "id": "3138"
+    },
+    {
+      "site": "unext",
+      "id": "SID0093568",
+      "begin": "2024-11-12T03:00:00.000Z",
+      "broadcast": "R/2024-11-12T03:00:00.000Z/P7D"
+    }
+  ]
 }

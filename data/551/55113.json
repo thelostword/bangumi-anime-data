@@ -149,5 +149,27 @@
       "count": 16
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "55113"
+    },
+    {
+      "site": "bilibili",
+      "id": "116772",
+      "begin": "2013-01-08T16:00:01.000Z",
+      "broadcast": "R/2018-07-17T09:07:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002701",
+      "begin": "2022-04-01T03:00:00.000Z",
+      "broadcast": "R/2022-04-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "玉+市"
+    }
+  ]
 }

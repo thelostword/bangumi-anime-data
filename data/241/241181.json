@@ -113,5 +113,31 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "241181"
+    },
+    {
+      "site": "nicovideo",
+      "id": "anime_BAKUMATSU",
+      "begin": "2018-10-05T15:00:00.000Z",
+      "broadcast": "R/2018-10-05T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0037281",
+      "begin": "2018-10-09T03:00:00.000Z",
+      "broadcast": "R/2018-10-09T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5bb19cb59b9493607ff72637"
+    },
+    {
+      "site": "mikan",
+      "id": "1798"
+    }
+  ]
 }

@@ -149,5 +149,51 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "296",
+      "begin": "2014-10-05T14:30:00.000Z",
+      "broadcast": "R/2014-10-05T14:30:00.000Z/P7D",
+      "comment": "SP: 5488"
+    },
+    {
+      "site": "bangumi",
+      "id": "100040"
+    },
+    {
+      "site": "nicovideo",
+      "id": "sora-no-method",
+      "begin": ""
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh9jhyx",
+      "begin": "2017-04-04T03:14:10.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "7f0ea2e2bd4511e3a705",
+      "begin": "2014-10-02T22:15:35.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0017696",
+      "begin": "2023-05-31T15:00:00.000Z",
+      "broadcast": "R/2023-05-31T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "天體的|Method"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "548f0434f892774b140ac64c"
+    },
+    {
+      "site": "mikan",
+      "id": "395"
+    }
+  ]
 }

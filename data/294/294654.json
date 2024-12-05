@@ -149,5 +149,47 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "294654"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UcgpnORnaGJAzzB8e2bW8OZe",
+      "begin": "2020-07-03T16:00:00.000Z",
+      "broadcast": "R/2020-07-03T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "108673",
+      "begin": "2020-07-04T11:30:00.000Z",
+      "broadcast": "R/2020-07-04T11:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "108673",
+      "begin": "2020-07-04T11:30:00.000Z",
+      "broadcast": "R/2020-07-04T11:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "魔物娘的醫生"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5efff2f8c4be624128fcd338"
+    },
+    {
+      "site": "mikan",
+      "id": "2254"
+    },
+    {
+      "site": "nicovideo",
+      "id": "mon-isha",
+      "begin": "2020-07-17T03:00:00.000Z",
+      "broadcast": "R/2020-07-17T03:00:00.000Z/P7D"
+    }
+  ]
 }

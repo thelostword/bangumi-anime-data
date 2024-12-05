@@ -149,5 +149,31 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "72946"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "4347",
+      "begin": "2017-06-30T04:16:07.000Z",
+      "broadcast": "R/2017-06-30T04:16:07.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0080308",
+      "begin": "2023-09-15T03:00:00.000Z",
+      "broadcast": "R/2023-09-15T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "具少|劍姬"
+    },
+    {
+      "site": "mikan",
+      "id": "250"
+    }
+  ]
 }

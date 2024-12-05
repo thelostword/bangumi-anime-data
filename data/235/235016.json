@@ -117,5 +117,51 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "235016"
+    },
+    {
+      "site": "bilibili",
+      "id": "79412",
+      "begin": "2018-04-02T10:25:00.000Z",
+      "broadcast": "R/2020-10-04T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrgyp04l",
+      "begin": "2018-04-02T10:20:06.000Z",
+      "broadcast": "R/2020-10-04T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "30c74046e30f487eb6a8",
+      "begin": "2018-04-22T13:31:26.000Z",
+      "broadcast": "R/2020-10-04T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "anime-pad",
+      "begin": "2018-04-05T03:00:00.000Z",
+      "broadcast": "R/2018-04-05T03:00:00.000Z/P7D",
+      "comment": "第2シリーズ: anime-pad2"
+    },
+    {
+      "site": "unext",
+      "id": "SID0034253",
+      "begin": "2018-04-05T03:00:00.000Z",
+      "broadcast": "R/2018-04-05T03:00:00.000Z/P7D",
+      "comment": "#52-103: SID0040831, #104-197: SID0047324, #198-248: SID0067371, #249-300: SID0080548, #301-?: SID0100442"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ac0aa7f395e2a122f10f025"
+    },
+    {
+      "site": "mikan",
+      "id": "1665"
+    }
+  ]
 }

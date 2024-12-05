@@ -149,5 +149,28 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "5941"
+    },
+    {
+      "site": "nicovideo",
+      "id": "hoshizora",
+      "begin": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "3019",
+      "begin": "2006-07-09T16:00:00.000Z",
+      "broadcast": "R/2015-11-16T08:41:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0013618",
+      "begin": "2015-06-11T06:00:00.000Z",
+      "broadcast": "R/2015-06-11T06:00:00.000Z/P7D"
+    }
+  ]
 }

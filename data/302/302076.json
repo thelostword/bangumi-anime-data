@@ -149,5 +149,41 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "302076"
+    },
+    {
+      "site": "bilibili",
+      "id": "28229880",
+      "begin": "2020-10-08T13:00:00.000Z",
+      "broadcast": "R/2020-10-08T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "akudama-drive",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0047347",
+      "begin": "2021-01-15T03:00:00.000Z",
+      "broadcast": "R/2021-01-15T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "全員惡玉"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5f7567fa4b840abcfc63b1a6"
+    },
+    {
+      "site": "mikan",
+      "id": "2287"
+    }
+  ]
 }

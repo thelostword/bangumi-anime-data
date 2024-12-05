@@ -149,5 +149,50 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "357754"
+    },
+    {
+      "site": "gamer",
+      "id": "120625",
+      "begin": "2022-07-02T16:00:00.000Z",
+      "broadcast": "R/2022-07-02T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "viu",
+      "id": "443203",
+      "begin": "2022-07-02T16:00:00.000Z",
+      "broadcast": "R/2022-07-02T16:00:00.000Z/P7D",
+      "comment": "粵語版: 460975"
+    },
+    {
+      "site": "bilibili",
+      "id": "28338645",
+      "begin": "2022-09-03T16:00:01.000Z",
+      "broadcast": "R/2022-09-03T16:00:01.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "shoot-anime",
+      "begin": "2022-07-10T13:00:00.000Z",
+      "broadcast": "R/2022-07-10T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "120625",
+      "begin": "2022-07-02T16:00:00.000Z",
+      "broadcast": "R/2022-07-02T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "足球風雲 future"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "62c125ba2fc3ee0d0016bf74"
+    }
+  ]
 }

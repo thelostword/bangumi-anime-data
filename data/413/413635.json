@@ -149,5 +149,61 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "413635"
+    },
+    {
+      "site": "abema",
+      "id": "19-180",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtRB3v2ricyQUO6H3irpqrdn",
+      "begin": "2024-01-11T17:30:07.000Z",
+      "broadcast": "R/2024-01-11T17:30:07.000Z/P7D"
+    },
+    {
+      "site": "mytv",
+      "id": "uruseiyatsuraseason2_140303",
+      "begin": "2024-01-11T17:30:00.000Z",
+      "broadcast": "R/2024-01-11T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "131157",
+      "begin": "2024-01-11T17:30:00.000Z",
+      "broadcast": "R/2024-01-11T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0097415",
+      "begin": "2024-01-15T03:00:00.000Z",
+      "broadcast": "R/2024-01-15T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "7ZgZAIjAwjsK",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "131157",
+      "begin": "2024-01-11T17:30:00.000Z",
+      "broadcast": "R/2024-01-11T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "659142abb885a81efda115ec"
+    },
+    {
+      "site": "mikan",
+      "id": "3269"
+    }
+  ]
 }

@@ -45,5 +45,11 @@
       "count": 1
     }
   ],
-  "locked": true
+  "locked": true,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "210715"
+    }
+  ]
 }

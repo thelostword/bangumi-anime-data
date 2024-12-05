@@ -117,5 +117,41 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "219377"
+    },
+    {
+      "site": "mgtv",
+      "id": "325000",
+      "begin": ""
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrgx8wv9",
+      "begin": "2018-08-10T07:00:04.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "cebc82baae7a4fb9ad9b",
+      "begin": "2018-04-22T00:59:34.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "105592",
+      "begin": "2018-04-07T16:00:00.000Z",
+      "broadcast": "R/2018-04-08T01:00:00.000Z/P7D",
+      "comment": "中配版: 112832"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ac0ad7cbbbd10573223de8c"
+    },
+    {
+      "site": "mikan",
+      "id": "1729"
+    }
+  ]
 }

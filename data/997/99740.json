@@ -149,5 +149,41 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrgi95ql",
+      "begin": "2014-04-21T17:05:00.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "53e64c72ae7811e3a705",
+      "begin": "2014-04-21T17:05:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "99740"
+    },
+    {
+      "site": "nicovideo",
+      "id": "m3-project",
+      "begin": "2014-04-22T03:00:00.000Z",
+      "broadcast": "R/2014-04-22T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0019456",
+      "begin": "2016-09-29T03:00:00.000Z",
+      "broadcast": "R/2016-09-29T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "M3+鋼"
+    },
+    {
+      "site": "mikan",
+      "id": "325"
+    }
+  ]
 }

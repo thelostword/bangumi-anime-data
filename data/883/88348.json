@@ -149,5 +149,36 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh9v2tp",
+      "begin": "2016-12-05T09:36:28.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "88348"
+    },
+    {
+      "site": "unext",
+      "id": "SID0023848",
+      "begin": "2021-04-27T03:00:00.000Z",
+      "broadcast": "R/2021-04-27T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "charge+光"
+    },
+    {
+      "site": "mikan",
+      "id": "282"
+    },
+    {
+      "site": "abema",
+      "id": "5-55",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

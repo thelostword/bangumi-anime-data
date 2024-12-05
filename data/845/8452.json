@@ -149,5 +149,32 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "h/hsac5f0iqzra0pl",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "8452"
+    },
+    {
+      "site": "nicovideo",
+      "id": "tamayura",
+      "begin": "2012-02-29T15:00:00.000Z"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrgjbxcp",
+      "begin": "2014-01-15T08:57:11.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0013564",
+      "begin": "2015-05-28T06:00:00.000Z",
+      "broadcast": "R/2015-05-28T06:00:00.000Z/P7D"
+    }
+  ]
 }

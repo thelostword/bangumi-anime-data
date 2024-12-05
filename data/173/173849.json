@@ -149,5 +149,78 @@
       "count": 14
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "dfc93fc7852411e6bdbb",
+      "begin": "2016-10-07T18:24:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "173849"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JhJSL_Vr_RAi9iQyPk-gHAO",
+      "begin": "2022-01-04T16:00:00.000Z",
+      "broadcast": "R/2022-01-04T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtRpiIaU4hzwZ39nquH8I9Ms",
+      "begin": "2022-09-21T16:00:00.000Z",
+      "broadcast": "R/2022-09-21T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "7iGL15MOs7hZ",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "82618",
+      "begin": "2021-12-10T05:00:00.000Z",
+      "broadcast": "R/2021-12-10T05:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28221589",
+      "begin": "2019-07-10T07:03:35.000Z",
+      "broadcast": "R/2019-07-10T07:03:35.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "19-16",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0026840",
+      "begin": "2018-04-29T03:00:00.000Z",
+      "broadcast": "R/2018-04-29T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "82618",
+      "begin": "2021-12-10T05:00:00.000Z",
+      "broadcast": "R/2021-12-10T05:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "排球少年"
+    },
+    {
+      "site": "mikan",
+      "id": "869"
+    },
+    {
+      "site": "nicovideo",
+      "id": "j-haikyu",
+      "begin": "2016-10-09T03:00:00.000Z",
+      "broadcast": "R/2016-10-09T03:00:00.000Z/P7D"
+    }
+  ]
 }

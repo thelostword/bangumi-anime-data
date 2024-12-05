@@ -149,5 +149,45 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "101267"
+    },
+    {
+      "site": "nicovideo",
+      "id": "shingeki_movie",
+      "begin": "2018-12-27T03:00:00.000Z",
+      "broadcast": "R/2018-12-27T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "68752",
+      "begin": "2022-08-18T09:00:00.000Z",
+      "broadcast": "R/2022-08-18T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UchkFx6Rl70VbQeT10lIKoL7",
+      "begin": "2023-06-11T13:55:55.059Z",
+      "broadcast": "R/2023-06-11T13:55:55.059Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0022658",
+      "begin": "2018-09-01T03:00:00.000Z",
+      "broadcast": "R/2018-09-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "68752",
+      "begin": "2022-08-18T09:00:00.000Z",
+      "broadcast": "R/2022-08-18T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5511812c1fe5c31a190a06e7"
+    }
+  ]
 }

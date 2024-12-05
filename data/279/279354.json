@@ -69,5 +69,17 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "279354"
+    },
+    {
+      "site": "unext",
+      "id": "SID0014860",
+      "begin": "2019-04-24T03:00:00.000Z",
+      "broadcast": "R/2019-04-24T03:00:00.000Z/P7D"
+    }
+  ]
 }

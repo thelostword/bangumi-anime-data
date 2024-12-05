@@ -149,5 +149,37 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "251666"
+    },
+    {
+      "site": "bilibili",
+      "id": "140332",
+      "begin": "2018-10-01T17:00:00.000Z",
+      "broadcast": "R/2018-10-01T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "tiramisu-anime2",
+      "begin": "2018-11-04T15:00:00.000Z",
+      "broadcast": "R/2018-11-04T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0037168",
+      "begin": "2020-05-03T03:00:00.000Z",
+      "broadcast": "R/2020-05-03T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5bb19ca29b9493607ff7260f"
+    },
+    {
+      "site": "mikan",
+      "id": "1762"
+    }
+  ]
 }

@@ -149,5 +149,36 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "236510"
+    },
+    {
+      "site": "acfun",
+      "id": "5022156",
+      "begin": "2018-10-07T18:30:00.000Z"
+    },
+    {
+      "site": "nicovideo",
+      "id": "releasethespyce",
+      "begin": "2018-10-09T03:00:00.000Z",
+      "broadcast": "R/2018-10-09T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0037206",
+      "begin": "2018-10-09T03:00:00.000Z",
+      "broadcast": "R/2018-10-09T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5bb19cca9b9493607ff7265f"
+    },
+    {
+      "site": "mikan",
+      "id": "1758"
+    }
+  ]
 }

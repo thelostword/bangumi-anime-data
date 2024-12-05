@@ -149,5 +149,26 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "128322"
+    },
+    {
+      "site": "nicovideo",
+      "id": "strike-the-blood-ova",
+      "begin": "2016-11-17T15:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0034628",
+      "begin": "2018-05-03T03:00:00.000Z",
+      "broadcast": "R/2018-05-03T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "2003"
+    }
+  ]
 }

@@ -149,5 +149,59 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "445821"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66fb601d89c3a6ce864cbce3"
+    },
+    {
+      "site": "nicovideo",
+      "id": "gungale-online_2",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0157052",
+      "begin": "2024-09-27T15:00:00.000Z",
+      "broadcast": "R/2024-09-27T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3430"
+    },
+    {
+      "site": "gamer",
+      "id": "134162",
+      "begin": "2024-10-04T16:30:00.000Z",
+      "broadcast": "R/2024-10-04T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "134162",
+      "begin": "2024-10-04T16:30:00.000Z",
+      "broadcast": "R/2024-10-04T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-92",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UcgbowJqjeqtQTk6SmE3IPku",
+      "begin": "2024-10-04T16:30:00.000Z",
+      "broadcast": "R/2024-10-04T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "刀劍 Gun II"
+    }
+  ]
 }

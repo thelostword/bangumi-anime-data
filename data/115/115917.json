@@ -149,5 +149,41 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "2725",
+      "begin": "2015-10-02T18:40:00.000Z",
+      "broadcast": "R/2015-10-02T18:40:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "115917"
+    },
+    {
+      "site": "nicovideo",
+      "id": "k-project02",
+      "begin": "2015-10-07T13:30:00.000Z",
+      "broadcast": "R/2015-10-07T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0020099",
+      "begin": "2017-10-05T03:00:00.000Z",
+      "broadcast": "R/2017-10-05T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "return+of+kings"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "560d0f159286e15329cf94ee"
+    },
+    {
+      "site": "mikan",
+      "id": "584"
+    }
+  ]
 }

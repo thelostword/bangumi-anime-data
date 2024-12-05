@@ -149,5 +149,59 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "476129"
+    },
+    {
+      "site": "nicovideo",
+      "id": "bocchi-kouryaku",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0157045",
+      "begin": "2024-10-03T15:00:00.000Z",
+      "broadcast": "R/2024-10-03T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "189-70",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3414"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66fb601a89c3a6ce864cbccf"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "137491",
+      "begin": "2024-09-26T15:00:00.000Z",
+      "broadcast": "R/2024-09-26T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "viu",
+      "id": "2431565",
+      "begin": "2024-09-26T15:00:23.000Z",
+      "broadcast": "R/2024-09-26T15:00:23.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "137491",
+      "begin": "2024-09-26T15:00:00.000Z",
+      "broadcast": "R/2024-09-26T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "一人 異世界"
+    }
+  ]
 }

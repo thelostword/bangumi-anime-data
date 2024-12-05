@@ -149,5 +149,58 @@
       "count": 42
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrjzlx29",
+      "begin": "2012-07-01T06:25:12.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "10639"
+    },
+    {
+      "site": "nicovideo",
+      "id": "fate-zero",
+      "begin": "2011-10-07T17:00:00.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "1650",
+      "begin": "2011-09-30T16:00:00.000Z",
+      "broadcast": "R/2014-10-10T04:36:20.000Z/P7D",
+      "comment": "第二季: 779"
+    },
+    {
+      "site": "viu",
+      "id": "434569",
+      "begin": "2022-05-01T16:00:00.000Z",
+      "broadcast": "R/2022-05-01T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "42446",
+      "begin": "2020-07-06T07:00:00.000Z",
+      "broadcast": "R/2020-07-06T07:00:00.000Z/P7D",
+      "comment": "後半: 52347"
+    },
+    {
+      "site": "unext",
+      "id": "SID0016588",
+      "begin": "2018-10-25T03:00:00.000Z",
+      "broadcast": "R/2018-10-25T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "42446",
+      "begin": "2020-07-06T07:00:00.000Z",
+      "broadcast": "R/2020-07-06T07:00:00.000Z/P7D",
+      "comment": "後半: 52347"
+    },
+    {
+      "site": "dmhy",
+      "id": "Fate+Zero2"
+    }
+  ]
 }

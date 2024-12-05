@@ -149,5 +149,35 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "168634"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28221512",
+      "begin": "2019-07-03T04:26:07.000Z",
+      "broadcast": "R/2019-07-03T04:26:07.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0026528",
+      "begin": "2020-12-28T03:00:00.000Z",
+      "broadcast": "R/2020-12-28T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "競女"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "57efbc2dac5b9d0762d174ce"
+    },
+    {
+      "site": "mikan",
+      "id": "862"
+    }
+  ]
 }

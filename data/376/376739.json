@@ -149,5 +149,63 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "376739"
+    },
+    {
+      "site": "mytv",
+      "id": "attackontitanthefinalseasonpart31sthalf_138050",
+      "begin": "2023-03-03T18:26:00.000Z",
+      "broadcast": "R/2023-03-03T18:26:00.000Z/P7D"
+    },
+    {
+      "site": "viu",
+      "id": "2086257",
+      "begin": "2023-03-03T16:00:00.000Z",
+      "broadcast": "R/2023-03-03T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "130539",
+      "begin": "2023-03-03T20:00:00.000Z",
+      "broadcast": "R/2023-03-03T20:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28481167",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "netflix",
+      "id": "70299043",
+      "begin": "2023-03-03T20:00:00.000Z",
+      "broadcast": "R/2023-03-03T20:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0095559",
+      "begin": "2023-11-05T03:00:00.000Z",
+      "broadcast": "R/2023-11-05T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "130539",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UchkFx6Rl70VbQeT10lIKoL7",
+      "begin": "2024-06-22T16:00:00.000Z",
+      "broadcast": "R/2024-06-22T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "2954"
+    }
+  ]
 }

@@ -149,5 +149,26 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "14427"
+    },
+    {
+      "site": "nicovideo",
+      "id": "blood-c",
+      "begin": "2011-07-13T18:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002844",
+      "begin": "2017-08-17T03:00:00.000Z",
+      "broadcast": "R/2017-08-17T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "blood+c"
+    }
+  ]
 }

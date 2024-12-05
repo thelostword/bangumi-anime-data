@@ -149,5 +149,42 @@
       "count": 11
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "l/lqq620btdscncwi",
+      "begin": ""
+    },
+    {
+      "site": "mgtv",
+      "id": "291599",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "29426"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhbsm25",
+      "begin": "2017-11-16T07:29:46.000Z"
+    },
+    {
+      "site": "bilibili",
+      "id": "780",
+      "begin": "2012-04-11T16:00:00.000Z",
+      "broadcast": "R/2012-08-29T04:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002385",
+      "begin": "2019-09-02T03:00:00.000Z",
+      "broadcast": "R/2019-09-02T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "道+阿波罗"
+    }
+  ]
 }

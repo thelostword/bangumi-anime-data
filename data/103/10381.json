@@ -149,5 +149,27 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "10381"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ch60013",
+      "begin": "2011-04-23T04:30:30.000Z",
+      "broadcast": "R/2011-04-23T04:30:30.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0013210",
+      "begin": "2018-07-05T03:00:00.000Z",
+      "broadcast": "R/2018-07-05T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "死囚|Deadman"
+    }
+  ]
 }

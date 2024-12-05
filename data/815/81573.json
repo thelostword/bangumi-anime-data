@@ -125,5 +125,22 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "u/uxqnq5iqr3do76d",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "81573"
+    },
+    {
+      "site": "bilibili",
+      "id": "4208955",
+      "begin": "2018-11-11T06:52:01.000Z",
+      "broadcast": "R/2018-11-11T06:52:01.000Z/P7D"
+    }
+  ]
 }

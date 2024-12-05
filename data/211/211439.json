@@ -149,5 +149,17 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "211439"
+    },
+    {
+      "site": "nicovideo",
+      "id": "eurekaseven-movie",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

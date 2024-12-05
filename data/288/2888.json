@@ -149,5 +149,28 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhc3itt",
+      "begin": "2014-12-24T06:18:24.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "2888"
+    },
+    {
+      "site": "gamer",
+      "id": "38848",
+      "begin": "2022-04-01T03:00:00.000Z",
+      "broadcast": "R/2022-04-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002343",
+      "begin": "2023-03-07T15:00:00.000Z",
+      "broadcast": "R/2023-03-07T15:00:00.000Z/P7D"
+    }
+  ]
 }

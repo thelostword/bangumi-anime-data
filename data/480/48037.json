@@ -149,5 +149,29 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "48037"
+    },
+    {
+      "site": "nicovideo",
+      "id": "wooser",
+      "begin": "2012-09-25T03:00:00.000Z",
+      "broadcast": "R/2012-09-25T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "235",
+      "begin": "2012-10-01T16:00:00.000Z",
+      "broadcast": "R/2012-10-03T01:56:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0017595",
+      "begin": "2020-06-01T03:00:00.000Z",
+      "broadcast": "R/2020-06-01T03:00:00.000Z/P7D"
+    }
+  ]
 }

@@ -149,5 +149,46 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "3116",
+      "begin": "2016-01-10T14:00:00.000Z",
+      "broadcast": "R/2016-01-10T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "mgtv",
+      "id": "294216",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "146611"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ooyasan-anime",
+      "begin": "2016-01-11T13:00:00.000Z",
+      "broadcast": "R/2016-01-11T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0042785",
+      "begin": "2019-10-02T03:00:00.000Z",
+      "broadcast": "R/2019-10-02T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "房東+青春"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "56857f95d4d7dbf20b597c58"
+    },
+    {
+      "site": "mikan",
+      "id": "660"
+    }
+  ]
 }

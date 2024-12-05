@@ -149,5 +149,34 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "221295"
+    },
+    {
+      "site": "netflix",
+      "id": "80186926",
+      "begin": "2019-07-19T07:00:00.000Z",
+      "broadcast": "R/2019-07-18T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhvm9ul",
+      "begin": "2019-07-19T07:00:09.000Z"
+    },
+    {
+      "site": "abema",
+      "id": "5-39",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0072547",
+      "begin": "2022-08-19T03:00:00.000Z",
+      "broadcast": "R/2022-08-19T03:00:00.000Z/P7D"
+    }
+  ]
 }

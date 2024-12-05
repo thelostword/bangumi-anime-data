@@ -149,5 +149,35 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhb1465",
+      "begin": "2016-01-04T06:42:53.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "79114"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kyousougiga-tv",
+      "begin": "2013-10-05T14:00:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0043691",
+      "begin": "2019-10-30T03:00:00.000Z",
+      "broadcast": "R/2019-10-30T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "骚戏"
+    },
+    {
+      "site": "mikan",
+      "id": "190"
+    }
+  ]
 }

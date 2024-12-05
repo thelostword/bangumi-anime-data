@@ -149,5 +149,39 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhabc71",
+      "begin": "2016-04-11T04:08:11.000Z"
+    },
+    {
+      "site": "youku",
+      "id": "50360a00a88a11e5b432",
+      "begin": "2016-01-08T17:05:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "147036"
+    },
+    {
+      "site": "gamer",
+      "id": "78466",
+      "begin": "2021-04-16T08:00:00.000Z",
+      "broadcast": "R/2021-04-16T08:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "自衛隊"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5594df73a0b788232ee35278"
+    },
+    {
+      "site": "mikan",
+      "id": "675"
+    }
+  ]
 }

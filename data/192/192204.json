@@ -149,5 +149,28 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "192204"
+    },
+    {
+      "site": "nicovideo",
+      "id": "digimon-adventure-tri06",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "youku",
+      "id": "efbfbd52efbfbd0befbf",
+      "begin": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0035121",
+      "begin": "2021-05-01T03:00:00.000Z",
+      "broadcast": "R/2021-05-01T03:00:00.000Z/P7D"
+    }
+  ]
 }

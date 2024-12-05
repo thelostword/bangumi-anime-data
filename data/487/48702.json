@@ -149,5 +149,28 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhc0nwl",
+      "begin": "2014-09-05T08:25:20.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "48702"
+    },
+    {
+      "site": "nicovideo",
+      "id": "stardriver-movie",
+      "begin": "2014-06-09T06:00:00.000Z",
+      "broadcast": "R/2014-06-09T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0015314",
+      "begin": "2021-01-29T03:00:00.000Z",
+      "broadcast": "R/2021-01-29T03:00:00.000Z/P7D"
+    }
+  ]
 }

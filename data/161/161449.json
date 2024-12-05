@@ -137,5 +137,15 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "161449"
+    },
+    {
+      "site": "mikan",
+      "id": "1139"
+    }
+  ]
 }

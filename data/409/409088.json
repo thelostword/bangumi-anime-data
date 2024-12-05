@@ -149,5 +149,31 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "409088"
+    },
+    {
+      "site": "unext",
+      "id": "SID0079603",
+      "begin": "2023-04-12T14:30:00.000Z",
+      "broadcast": "R/2023-04-12T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6425d63755eb4cdc768e3960"
+    },
+    {
+      "site": "mikan",
+      "id": "2975"
+    },
+    {
+      "site": "nicovideo",
+      "id": "world-dai-star",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

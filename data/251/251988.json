@@ -149,5 +149,33 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "251988"
+    },
+    {
+      "site": "nicovideo",
+      "id": "k-seven-stories",
+      "begin": "2018-07-07T03:00:00.000Z",
+      "broadcast": "R/2018-07-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "113852",
+      "begin": "2018-11-03T16:00:00.000Z",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0035465",
+      "begin": "2018-11-03T03:00:00.000Z",
+      "broadcast": "R/2018-11-03T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "1877"
+    }
+  ]
 }

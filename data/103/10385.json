@@ -149,5 +149,38 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "o/ozq3fih3howyni3",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "10385"
+    },
+    {
+      "site": "netflix",
+      "id": "80039972",
+      "begin": "2017-10-15T07:00:00.000Z",
+      "broadcast": "R/2021-02-26T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0013605",
+      "begin": "2011-04-06T06:00:00.000Z",
+      "broadcast": "R/2011-04-06T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "tiger+bunny"
+    },
+    {
+      "site": "nicovideo",
+      "id": "tigerandbunny",
+      "begin": "2020-05-16T03:00:00.000Z",
+      "broadcast": "R/2020-05-16T03:00:00.000Z/P7D"
+    }
+  ]
 }

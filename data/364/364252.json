@@ -149,5 +149,89 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "364252"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtQFJtzY7g5s5M1AZMF5qE9o",
+      "begin": "2023-09-30T16:00:00.000Z",
+      "broadcast": "R/2023-09-30T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jh4asVGiKSeBUV-E0JucCRv",
+      "begin": "2023-09-30T16:00:00.000Z",
+      "broadcast": "R/2023-09-30T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "viu",
+      "id": "2247897",
+      "begin": "2023-09-29T16:00:00.000Z",
+      "broadcast": "R/2023-09-29T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "mytv",
+      "id": "mfghost_139624",
+      "begin": "2023-09-30T15:00:00.000Z",
+      "broadcast": "R/2023-09-30T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "121227",
+      "begin": "2023-09-30T15:00:00.000Z",
+      "broadcast": "R/2023-09-30T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "168-53",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0091745",
+      "begin": "2023-10-07T15:30:00.000Z",
+      "broadcast": "R/2023-10-07T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81715444",
+      "begin": "2024-01-30T16:00:00.000Z",
+      "broadcast": "R/2024-01-30T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "121227",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "MF GHOST"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "65186f764c90aa63daeaa1e1"
+    },
+    {
+      "site": "mikan",
+      "id": "3194"
+    },
+    {
+      "site": "bilibili",
+      "id": "21775256",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "nicovideo",
+      "id": "mfg-anime",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

@@ -149,5 +149,44 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "06ef4ef059ae11e4b522",
+      "begin": "2015-01-10T17:58:00.000Z"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhay4vl",
+      "begin": "2015-01-10T17:58:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "110600"
+    },
+    {
+      "site": "nicovideo",
+      "id": "rollinggirls",
+      "begin": "2015-01-13T14:30:00.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002390",
+      "begin": "2021-03-26T03:00:00.000Z",
+      "broadcast": "R/2021-03-26T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "The+Rolling+Girls"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "54b25832b52aa5c31a57dd46"
+    },
+    {
+      "site": "mikan",
+      "id": "456"
+    }
+  ]
 }

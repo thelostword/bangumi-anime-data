@@ -149,5 +149,33 @@
       "count": 4
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "253997"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kaijunokodomo",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "28227187",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0045274",
+      "begin": "2023-03-12T03:00:00.000Z",
+      "broadcast": "R/2023-03-12T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "2102"
+    }
+  ]
 }

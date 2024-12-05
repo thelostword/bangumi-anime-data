@@ -149,5 +149,47 @@
       "count": 5
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "5992",
+      "begin": "2017-04-05T16:30:00.000Z",
+      "broadcast": "R/2017-04-05T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "200547"
+    },
+    {
+      "site": "gamer",
+      "id": "86468",
+      "begin": "2021-07-13T08:00:00.000Z",
+      "broadcast": "R/2021-07-13T08:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0029034",
+      "begin": "2022-05-24T15:00:00.000Z",
+      "broadcast": "R/2022-05-24T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "86468",
+      "begin": "2021-07-13T08:00:00.000Z",
+      "broadcast": "R/2021-07-13T08:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "sakura+quest"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "58df7bfb79c3a0541f4b61d3"
+    },
+    {
+      "site": "mikan",
+      "id": "1277"
+    }
+  ]
 }

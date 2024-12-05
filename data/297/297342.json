@@ -149,5 +149,71 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "297342"
+    },
+    {
+      "site": "bilibili",
+      "id": "28229236",
+      "begin": "2020-07-03T16:55:00.000Z",
+      "broadcast": "R/2020-07-03T16:55:01.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "fireforce-anime02",
+      "begin": "2020-07-10T17:30:00.000Z",
+      "broadcast": "R/2020-07-10T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81143589",
+      "begin": "2021-07-29T16:00:00.000Z",
+      "broadcast": "R/2021-07-29T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "viu",
+      "id": "465840",
+      "begin": "2022-12-15T16:00:00.000Z",
+      "broadcast": "R/2022-12-15T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "109386",
+      "begin": "2022-08-05T05:10:00.000Z",
+      "broadcast": "R/2022-08-05T05:10:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28229334",
+      "begin": "2020-07-03T16:55:01.000Z",
+      "broadcast": "R/2020-07-03T16:55:01.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0049156",
+      "begin": "2020-07-03T17:30:00.000Z",
+      "broadcast": "R/2020-07-03T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "炎炎消防隊 2季|二季|2期|二期|S02|S2|2nd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5efffb4f3d656e43622caccf"
+    },
+    {
+      "site": "mikan",
+      "id": "2267"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "109386",
+      "begin": "2022-08-05T05:10:00.000Z",
+      "broadcast": "R/2022-08-05T05:10:00.000Z/P7D"
+    }
+  ]
 }

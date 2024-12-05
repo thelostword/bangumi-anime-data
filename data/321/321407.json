@@ -149,5 +149,54 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "321407"
+    },
+    {
+      "site": "youku",
+      "id": "acea9ca68d7d439aa7a0",
+      "begin": "2021-03-24T14:28:03.000Z",
+      "broadcast": "R/2021-03-24T14:28:03.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "fulldive-rpg",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili_hk_mo",
+      "id": "28234130",
+      "begin": "2021-04-07T14:30:01.000Z",
+      "broadcast": "R/2021-04-07T14:30:01.000Z/P7D"
+    },
+    {
+      "site": "bilibili_tw",
+      "id": "28234133",
+      "begin": "2021-04-07T14:30:01.000Z",
+      "broadcast": "R/2021-04-07T14:30:01.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0056094",
+      "begin": "2021-04-14T14:00:00.000Z",
+      "broadcast": "R/2021-04-14T14:00:00.000Z/P7D",
+      "comment": "キャストオーディオコメンタリー付き: SID0056991"
+    },
+    {
+      "site": "dmhy",
+      "id": "究極進化 RPG"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6065f096eaf504d0216b779b"
+    },
+    {
+      "site": "mikan",
+      "id": "2434"
+    }
+  ]
 }

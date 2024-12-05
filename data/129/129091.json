@@ -149,5 +149,35 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "129091"
+    },
+    {
+      "site": "nicovideo",
+      "id": "valky_ied_ive",
+      "begin": "2015-10-13T15:30:00.000Z",
+      "broadcast": "R/2015-10-13T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0020279",
+      "begin": "2019-09-28T03:00:00.000Z",
+      "broadcast": "R/2019-09-28T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "Valkyrie+Drive"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "560d12029286e15329cf9512"
+    },
+    {
+      "site": "mikan",
+      "id": "623"
+    }
+  ]
 }

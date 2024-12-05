@@ -149,5 +149,27 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "34605"
+    },
+    {
+      "site": "nicovideo",
+      "id": "inuko",
+      "begin": "2012-04-01T13:27:00.000Z",
+      "broadcast": "R/2012-04-01T13:27:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "798",
+      "begin": "2012-03-31T16:00:00.000Z",
+      "broadcast": "R/2012-04-01T15:18:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "柴犬子"
+    }
+  ]
 }

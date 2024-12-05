@@ -149,5 +149,29 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "322967"
+    },
+    {
+      "site": "unext",
+      "id": "SID0061683",
+      "begin": "2021-10-11T09:00:00.000Z",
+      "broadcast": "R/2021-10-11T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "境界觸發者 第三季|第3季"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "615bb92cd7f73dd4ed5c4454"
+    },
+    {
+      "site": "mikan",
+      "id": "2575"
+    }
+  ]
 }

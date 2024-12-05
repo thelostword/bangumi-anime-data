@@ -149,5 +149,37 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "314163"
+    },
+    {
+      "site": "nicovideo",
+      "id": "sayonara-cramer",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "acfun",
+      "id": "6005287",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0056099",
+      "begin": "2023-01-26T03:00:00.000Z",
+      "broadcast": "R/2023-01-26T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6065f090eaf504d0216b777b"
+    },
+    {
+      "site": "mikan",
+      "id": "2460"
+    }
+  ]
 }

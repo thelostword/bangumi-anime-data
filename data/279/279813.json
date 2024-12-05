@@ -129,5 +129,17 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "279813"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kemono-friends3",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

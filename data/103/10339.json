@@ -149,5 +149,73 @@
       "count": 24
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "t/tk8rb24s5sx9p4u",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "10339"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ao-ex",
+      "begin": "2012-08-08T06:00:00.000Z",
+      "broadcast": "R/2012-08-08T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "70304252",
+      "begin": "2017-03-02T07:00:00.000Z",
+      "broadcast": "R/2022-06-29T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "861",
+      "begin": "2011-04-16T16:00:00.000Z",
+      "broadcast": "R/2011-04-17T11:11:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "ff4d5b9861ad11e0bea1",
+      "begin": "2012-11-07T14:27:14.000Z"
+    },
+    {
+      "site": "gamer",
+      "id": "41986",
+      "begin": "2017-02-13T06:00:00.000Z",
+      "broadcast": "R/2017-02-13T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "26-16",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0002426",
+      "begin": "2018-11-15T03:00:00.000Z",
+      "broadcast": "R/2018-11-15T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "41986",
+      "begin": "2017-02-13T06:00:00.000Z",
+      "broadcast": "R/2017-02-13T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "青之|藍色+魔"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Ucgu4puxaBne9KpCiEfc50V1",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

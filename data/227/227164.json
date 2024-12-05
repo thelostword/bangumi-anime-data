@@ -101,5 +101,32 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "227164"
+    },
+    {
+      "site": "bilibili",
+      "id": "7352",
+      "begin": "2017-10-07T11:00:00.000Z",
+      "broadcast": "R/2017-10-09T08:20:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhchrd1",
+      "begin": "2017-10-09T09:56:05.000Z"
+    },
+    {
+      "site": "qq",
+      "id": "v/v3obqqj0prpvpet",
+      "begin": ""
+    },
+    {
+      "site": "youku",
+      "id": "0f0d786befbfbdefbfbd",
+      "begin": "2017-10-10T03:48:57.000Z"
+    }
+  ]
 }

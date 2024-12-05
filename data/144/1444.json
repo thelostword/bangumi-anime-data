@@ -149,5 +149,26 @@
       "count": 13
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "1444"
+    },
+    {
+      "site": "youku",
+      "id": "6a35f680de5c11de97c0",
+      "begin": "2012-03-20T02:55:26.000Z"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002213",
+      "begin": "2020-12-04T15:00:00.000Z",
+      "broadcast": "R/2020-12-04T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "將少|saki"
+    }
+  ]
 }

@@ -149,5 +149,36 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "260467"
+    },
+    {
+      "site": "youku",
+      "id": "4f231cec4d2a4191af96",
+      "begin": "2019-01-14T10:37:54.000Z"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Ucj2EXO0UvWSnPn_PEZl4U3i",
+      "begin": "2020-01-12T16:00:00.000Z",
+      "broadcast": "R/2020-01-12T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5c2b732696ff38314480b620"
+    },
+    {
+      "site": "mikan",
+      "id": "1844"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kotobuki-anime",
+      "begin": "2019-01-19T13:00:00.000Z",
+      "broadcast": "R/2019-01-19T13:00:00.000Z/P7D"
+    }
+  ]
 }

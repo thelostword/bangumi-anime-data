@@ -149,5 +149,53 @@
       "count": 7
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "mgtv",
+      "id": "109630",
+      "begin": "2011-03-30T23:05:26.000Z",
+      "broadcast": "R/2011-03-30T23:05:26.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "1655",
+      "begin": "2015-04-02T17:00:00.000Z",
+      "broadcast": "R/2015-04-02T17:00:01.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "95416adcd1ed11e4a080",
+      "begin": "2015-04-02T17:00:00.000Z",
+      "broadcast": "R/2015-04-22T06:56:07.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "121108"
+    },
+    {
+      "site": "nicovideo",
+      "id": "danna02_anime",
+      "begin": "2015-04-07T12:00:00.000Z",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0012731",
+      "begin": "2018-12-11T03:00:00.000Z",
+      "broadcast": "R/2018-12-11T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "老公|danna"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "551021f51fe5c31a190a06bd"
+    },
+    {
+      "site": "mikan",
+      "id": "474"
+    }
+  ]
 }

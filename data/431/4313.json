@@ -145,5 +145,28 @@
       "count": 11
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "4313"
+    },
+    {
+      "site": "bilibili",
+      "id": "969",
+      "begin": "2010-04-01T16:00:00.000Z",
+      "broadcast": "R/2018-09-06T10:25:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0003199",
+      "begin": "2022-04-01T03:00:00.000Z",
+      "broadcast": "R/2022-04-01T03:00:00.000Z/P7D",
+      "comment": "特別編 ｢おまけだよ｣: SID0003428"
+    },
+    {
+      "site": "dmhy",
+      "id": "會長是女僕"
+    }
+  ]
 }

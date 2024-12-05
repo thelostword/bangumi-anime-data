@@ -149,5 +149,27 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "youku",
+      "id": "12db35ccd50e11e4b522",
+      "begin": "2015-04-22T05:20:27.000Z",
+      "broadcast": "R/2015-04-22T05:20:27.000Z/P7D"
+    },
+    {
+      "site": "bangumi",
+      "id": "129823"
+    },
+    {
+      "site": "unext",
+      "id": "SID0019459",
+      "begin": "2023-01-30T03:00:00.000Z",
+      "broadcast": "R/2023-01-30T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "482"
+    }
+  ]
 }

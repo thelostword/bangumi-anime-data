@@ -149,5 +149,49 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "445836"
+    },
+    {
+      "site": "nicovideo",
+      "id": "momochisan-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0096002",
+      "begin": "2024-01-05T15:00:00.000Z",
+      "broadcast": "R/2024-01-05T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "134166",
+      "begin": "2024-01-05T16:30:00.000Z",
+      "broadcast": "R/2024-01-05T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "26-210",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "659142aeb885a81efda115f6"
+    },
+    {
+      "site": "mikan",
+      "id": "3252"
+    },
+    {
+      "site": "bilibili",
+      "id": "21194726",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

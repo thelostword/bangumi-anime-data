@@ -149,5 +149,33 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "292073"
+    },
+    {
+      "site": "nicovideo",
+      "id": "strike-the-blood4-ova",
+      "begin": "2022-01-31T15:00:00.000Z",
+      "broadcast": "R/2022-01-31T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0066220",
+      "begin": "2022-01-31T15:00:00.000Z",
+      "broadcast": "R/2022-01-31T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "2232"
+    },
+    {
+      "site": "mytv",
+      "id": "strikethebloodfourth_141949",
+      "begin": "2024-10-15T16:00:00.000Z",
+      "broadcast": "R/2024-10-15T16:00:00.000Z/P7D"
+    }
+  ]
 }

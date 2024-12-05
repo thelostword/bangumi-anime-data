@@ -149,5 +149,45 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "2721",
+      "begin": "2015-10-02T15:30:00.000Z",
+      "broadcast": "R/2015-10-02T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "youku",
+      "id": "413610aa569f11e59e2a",
+      "begin": "2015-10-02T15:30:00.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "132754"
+    },
+    {
+      "site": "nicovideo",
+      "id": "hackadoll",
+      "begin": "2015-10-04T16:30:00.000Z",
+      "broadcast": "R/2015-10-04T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrh9i3il",
+      "begin": "2017-04-14T16:02:49.000Z"
+    },
+    {
+      "site": "dmhy",
+      "id": "Hack+Doll"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "560d0e0b9286e15329cf94e6"
+    },
+    {
+      "site": "mikan",
+      "id": "580"
+    }
+  ]
 }

@@ -149,5 +149,23 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "299934"
+    },
+    {
+      "site": "nicovideo",
+      "id": "nep-anime-special",
+      "begin": "2020-07-31T15:00:00.000Z",
+      "broadcast": "R/2020-07-31T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0049295",
+      "begin": "2020-08-01T03:00:00.000Z",
+      "broadcast": "R/2020-08-01T03:00:00.000Z/P7D"
+    }
+  ]
 }

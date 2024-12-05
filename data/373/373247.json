@@ -149,5 +149,73 @@
       "count": 11
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "373247"
+    },
+    {
+      "site": "viu",
+      "id": "2201268",
+      "begin": "2023-07-01T16:00:00.000Z",
+      "broadcast": "R/2023-07-01T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "129175",
+      "begin": "2023-07-02T15:05:00.000Z",
+      "broadcast": "R/2023-07-02T15:05:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "80987039",
+      "begin": "2023-07-01T16:00:00.000Z",
+      "broadcast": "R/2023-07-01T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "mushokutensei_2",
+      "begin": "2023-07-05T15:00:00.000Z",
+      "broadcast": "R/2023-07-05T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "149-11",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0087601",
+      "begin": "2023-07-05T15:00:00.000Z",
+      "broadcast": "R/2023-07-05T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Ucgmfu7qvmeUR2t3bWSWnHWV",
+      "begin": "2024-03-20T13:00:06.000Z",
+      "broadcast": "R/2024-03-20T13:00:06.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "5Y5wbhrBl6qZ",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "129175",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "無職 2期|2季|S2|S02|Ⅱ"
+    },
+    {
+      "site": "mikan",
+      "id": "3060"
+    }
+  ]
 }

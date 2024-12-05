@@ -149,5 +149,16 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "qq",
+      "id": "1/1z6104o1qv6nhbl",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "3422"
+    }
+  ]
 }

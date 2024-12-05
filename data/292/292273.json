@@ -149,5 +149,65 @@
       "count": 3
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "292273"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kimisentv",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "28229872",
+      "begin": "2020-10-07T15:30:00.000Z",
+      "broadcast": "R/2020-10-07T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-154",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0050911",
+      "begin": "2020-10-12T15:00:00.000Z",
+      "broadcast": "R/2020-10-12T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "最後 戰場"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5f7567f24b840abcfc63b1a0"
+    },
+    {
+      "site": "mikan",
+      "id": "2288"
+    },
+    {
+      "site": "gamer",
+      "id": "108267",
+      "begin": "2024-07-08T04:00:00.000Z",
+      "broadcast": "R/2024-07-08T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "108267",
+      "begin": "2024-07-08T04:00:00.000Z",
+      "broadcast": "R/2024-07-08T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "22210277",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

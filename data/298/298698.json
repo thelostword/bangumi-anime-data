@@ -149,5 +149,41 @@
       "count": 2
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "298698"
+    },
+    {
+      "site": "bilibili",
+      "id": "28231741",
+      "begin": "2021-01-13T10:25:00.000Z",
+      "broadcast": "R/2021-01-13T10:25:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28233465",
+      "begin": "2021-01-13T10:25:00.000Z",
+      "broadcast": "R/2021-01-13T10:25:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0052897",
+      "begin": "2021-01-14T03:00:00.000Z",
+      "broadcast": "R/2021-01-14T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "記錄 地平線 3季|三季|3期|三期|S03|S3|3rd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ff0434a84202e4c2e99e1d2"
+    },
+    {
+      "site": "mikan",
+      "id": "2379"
+    }
+  ]
 }

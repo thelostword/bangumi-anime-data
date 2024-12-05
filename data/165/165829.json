@@ -149,5 +149,47 @@
       "count": 11
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bilibili",
+      "id": "3450",
+      "begin": "2016-04-08T03:00:01.000Z",
+      "broadcast": "R/2016-04-08T03:00:00.000Z/P7D",
+      "comment": "中配版: 28236712"
+    },
+    {
+      "site": "mgtv",
+      "id": "292564",
+      "begin": ""
+    },
+    {
+      "site": "bangumi",
+      "id": "165829"
+    },
+    {
+      "site": "nicovideo",
+      "id": "sakamoto-anime",
+      "begin": "2016-04-14T15:00:00.000Z",
+      "broadcast": "R/2016-04-14T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0023805",
+      "begin": "2022-04-01T03:00:00.000Z",
+      "broadcast": "R/2022-04-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "下坂|叫坂|是坂"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "56fd59d3c6dbe72e14a0d35e"
+    },
+    {
+      "site": "mikan",
+      "id": "723"
+    }
+  ]
 }

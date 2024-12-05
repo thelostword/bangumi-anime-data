@@ -149,5 +149,41 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "289915"
+    },
+    {
+      "site": "bilibili",
+      "id": "28229883",
+      "begin": "2020-10-06T13:00:00.000Z",
+      "broadcast": "R/2020-10-06T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "iwgp-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0047134",
+      "begin": "2020-10-20T15:30:00.000Z",
+      "broadcast": "R/2020-10-20T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "池袋西"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5f7567eb4b840abcfc63b196"
+    },
+    {
+      "site": "mikan",
+      "id": "2289"
+    }
+  ]
 }

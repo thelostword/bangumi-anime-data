@@ -149,5 +149,43 @@
       "count": 8
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "389450"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "28339624",
+      "begin": "2022-10-06T15:00:00.000Z",
+      "broadcast": "R/2022-10-06T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "akibamaidwar",
+      "begin": "2022-10-12T15:00:00.000Z",
+      "broadcast": "R/2022-10-12T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "512-7",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0073133",
+      "begin": "2022-10-12T15:00:00.000Z",
+      "broadcast": "R/2022-10-12T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "秋葉原 戰爭"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "632762d22eaf6e578875f7ee"
+    }
+  ]
 }

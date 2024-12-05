@@ -149,5 +149,96 @@
       "count": 6
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "296261"
+    },
+    {
+      "site": "bilibili",
+      "id": "28231817",
+      "begin": "2021-01-14T14:30:00.000Z",
+      "broadcast": "R/2021-01-14T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_1c0l9eb3b6x",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "qq",
+      "id": "m/mzc00200dux4h7o",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jjd9DclPvIJd8fmLnYFiA-c",
+      "begin": "2022-11-19T16:00:00.000Z",
+      "broadcast": "R/2022-11-19T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81046193",
+      "begin": "2020-11-19T00:00:00.000Z",
+      "broadcast": "R/2020-11-19T00:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtRX7IJL7CuQIhZVqH5Y2FxU",
+      "begin": "2022-11-20T16:00:00.000Z",
+      "broadcast": "R/2022-11-20T16:00:00.000Z/P7D",
+      "comment": "粵語版: PLC18xlbCdwtSLdDl18EXEOS124bN2Nu8W"
+    },
+    {
+      "site": "gamer",
+      "id": "112298",
+      "begin": "2021-01-28T14:30:00.000Z",
+      "broadcast": "R/2021-01-28T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "19-34",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0052907",
+      "begin": "2021-01-14T14:00:00.000Z",
+      "broadcast": "R/2021-01-14T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "2icwhag0ihkG",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "112298",
+      "begin": "2021-01-28T14:30:00.000Z",
+      "broadcast": "R/2021-01-28T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "新石紀 2季|二季|2期|二期|S02|S2|2nd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5ff0435884202e4c2e99e1e8"
+    },
+    {
+      "site": "mikan",
+      "id": "2358"
+    },
+    {
+      "site": "nicovideo",
+      "id": "dr-stone2",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }

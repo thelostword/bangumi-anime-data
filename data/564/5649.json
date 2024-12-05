@@ -149,5 +149,32 @@
       "count": 13
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "iqiyi",
+      "id": "a_19rrgiaqht",
+      "begin": "2014-04-09T23:28:46.000Z"
+    },
+    {
+      "site": "bangumi",
+      "id": "5649"
+    },
+    {
+      "site": "nicovideo",
+      "id": "seitokai01",
+      "begin": "2013-12-18T06:00:00.000Z",
+      "broadcast": "R/2013-12-18T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002673",
+      "begin": "2017-06-14T03:00:00.000Z",
+      "broadcast": "R/2017-06-14T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "妄想學生會"
+    }
+  ]
 }

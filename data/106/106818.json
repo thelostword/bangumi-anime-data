@@ -149,5 +149,71 @@
       "count": 13
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "106818"
+    },
+    {
+      "site": "iqiyi",
+      "id": "a_19rrhay5ht",
+      "begin": "2015-04-10T09:20:40.000Z"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Ucib76kq1h8C6T0TTmG-bW9b",
+      "begin": "2021-06-30T16:00:00.000Z",
+      "broadcast": "R/2021-06-30T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "80045948",
+      "begin": "2021-09-29T16:00:00.000Z",
+      "broadcast": "R/2021-09-29T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "viu",
+      "id": "467277",
+      "begin": "2022-12-22T16:00:00.000Z",
+      "broadcast": "R/2022-12-22T16:00:00.000Z/P7D",
+      "comment": "粵語版: 2082597"
+    },
+    {
+      "site": "gamer",
+      "id": "71034",
+      "begin": "2015-12-20T16:00:00.000Z",
+      "broadcast": "R/2015-12-20T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "19-140",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0004917",
+      "begin": "2015-03-13T06:00:00.000Z",
+      "broadcast": "R/2015-03-13T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "71034",
+      "begin": "2015-12-20T16:00:00.000Z",
+      "broadcast": "R/2015-12-20T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "殺教"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "54a56c7dff362c965be014d6"
+    },
+    {
+      "site": "mikan",
+      "id": "451"
+    }
+  ]
 }

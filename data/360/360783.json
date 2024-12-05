@@ -149,5 +149,47 @@
       "count": 1
     }
   ],
-  "locked": false
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "360783"
+    },
+    {
+      "site": "disneyplus",
+      "id": "4HFbN55sAh0i",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "nicovideo",
+      "id": "tokyo-revengers-anime2",
+      "begin": "2023-01-07T18:00:00.000Z",
+      "broadcast": "R/2023-01-07T18:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0077103",
+      "begin": "2023-01-07T18:00:00.000Z",
+      "broadcast": "R/2023-01-07T18:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "東京 復仇者 2季|二季|2期|二期|S02|S2|2nd"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "63b58c57441dff2ff8927eb3"
+    },
+    {
+      "site": "mikan",
+      "id": "2905"
+    },
+    {
+      "site": "abema",
+      "id": "189-47",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
 }
