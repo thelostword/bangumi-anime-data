@@ -1,0 +1,135 @@
+{
+  "id": 133676,
+  "name": "がぁーでぃあんHearts ぱわ〜あっぷ!",
+  "name_cn": "守护之心Power UP！",
+  "summary": "",
+  "date": "2005-01-28",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/1f/8c/133676_t8l88.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/1f/8c/133676_t8l88.jpg"
+  },
+  "eps": 4,
+  "rating": {
+    "rank": 0,
+    "total": 12,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 1,
+      "5": 7,
+      "6": 2,
+      "7": 0,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.2
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "独立ova",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2005",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "Softgarage",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "后宫",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "乳首",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "田中かなた",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "鶴野恭子",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "VENET",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "さかもとたけし",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "福利",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "釘宮理恵",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "櫻井孝宏",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA1",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "杀必死",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "黒田やすひろ",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "133676"
+    },
+    {
+      "site": "danime",
+      "id": "10229",
+      "begin": "2013-09-06T01:00:00.000Z",
+      "broadcast": "R/2013-09-06T01:00:00.000Z/P7D"
+    }
+  ]
+}

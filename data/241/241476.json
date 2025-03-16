@@ -1,0 +1,82 @@
+{
+  "id": 241476,
+  "name": "ポンコツクエスト〜魔王と派遣の魔物たち〜 シーズン4",
+  "name_cn": "",
+  "summary": "",
+  "date": "2017-04-19",
+  "platform": "TV",
+  "images": {
+    "large": "",
+    "common": ""
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 0,
+    "total": 3,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 1,
+      "8": 0,
+      "9": 1,
+      "10": 1
+    },
+    "score": 8.7
+  },
+  "tags": [
+    {
+      "name": "原创",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2017年4月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "241476"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ponque",
+      "begin": "2016-01-13T11:00:00.000Z"
+    },
+    {
+      "site": "abema",
+      "id": "143-1",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0025822",
+      "begin": "2019-07-09T03:00:00.000Z",
+      "broadcast": "R/2019-07-09T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "22186",
+      "begin": "2018-06-15T01:00:00.000Z",
+      "broadcast": "R/2018-06-15T01:00:00.000Z/P7D"
+    }
+  ]
+}

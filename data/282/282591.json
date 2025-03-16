@@ -1,0 +1,150 @@
+{
+  "id": 282591,
+  "name": "FINAL FANTASY XV: EPISODE ARDYN – PROLOGUE",
+  "name_cn": "最终幻想15 艾汀篇 - 序章",
+  "summary": "『FINAL FANTASY XV EPISODE ARDYN』の前日譚\r\n神々から見放された男の「始まりの物語」を描いた\r\n短編アニメーション映像作品。\r\n\r\nルシス王国の歴史から消され、忘れられた聖者の転落。\r\n2000年前、アーデンの身に起きた悲劇とは？\r\n誰も知ることのなかった禁断の過去が今、明らかになる。",
+  "date": "2019-02-17",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/21/61/282591_3pJz4.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/21/61/282591_3pJz4.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 28,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 4,
+      "6": 18,
+      "7": 4,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "游戏改",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "剧场版",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "2019",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "轻小说改",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "最终幻想",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "j.值得且只值得看一遍(3星)",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "d.短片",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "————",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "f.日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "OAD",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "FF15",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "老婆",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "a.Anime",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "282591"
+    },
+    {
+      "site": "crunchyroll",
+      "id": "G65PGDE76",
+      "begin": "2019-02-16T21:00:00.000Z",
+      "broadcast": "R/2019-02-16T21:00:00.000Z/P7D"
+    }
+  ]
+}

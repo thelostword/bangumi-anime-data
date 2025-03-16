@@ -1,0 +1,80 @@
+{
+  "id": 89696,
+  "name": "ハローキティの魔法の森のお姫さま",
+  "name_cn": "Hello Kitty魔法森林公主",
+  "summary": "",
+  "date": "1991-07-20",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/85/b7/89696_cWmcW.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/85/b7/89696_cWmcW.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 4,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 1,
+      "5": 0,
+      "6": 0,
+      "7": 2,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.3
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画电影考察",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "鹿岛典夫",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "波多正美",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "子供向",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "89696"
+    },
+    {
+      "site": "danime",
+      "id": "25562",
+      "begin": "2023-05-01T01:00:00.000Z",
+      "broadcast": "R/2023-05-01T01:00:00.000Z/P7D"
+    }
+  ]
+}

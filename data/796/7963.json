@@ -1,0 +1,195 @@
+{
+  "id": 7963,
+  "name": "いっしょにとれーにんぐ",
+  "name_cn": "一起做运动吧",
+  "summary": "为解决宅男宅女们缺乏运动的问题，Primastea公司于2009年4月24日发行一张动画DVD《いっしょにとれーにんぐ》（Training with Hinako），让你跟随16岁的女孩Hinako一起做运动。\r\nHinako将亲自为你示范深蹲、仰卧起坐等各种适合OTAKU的居家运动，当然，示范影片的角度也是……比较不同的\r\n",
+  "date": "2009-04-24",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/a1/d4/7963_X9tYV.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/a1/d4/7963_X9tYV.jpg"
+  },
+  "eps": 2,
+  "rating": {
+    "rank": 7295,
+    "total": 214,
+    "count": {
+      "1": 4,
+      "2": 3,
+      "3": 8,
+      "4": 18,
+      "5": 57,
+      "6": 72,
+      "7": 26,
+      "8": 16,
+      "9": 4,
+      "10": 6
+    },
+    "score": 5.7
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 79,
+      "total_cont": 0
+    },
+    {
+      "name": "神角度",
+      "count": 41,
+      "total_cont": 0
+    },
+    {
+      "name": "2009",
+      "count": 34,
+      "total_cont": 0
+    },
+    {
+      "name": "卖肉",
+      "count": 31,
+      "total_cont": 0
+    },
+    {
+      "name": "神福利",
+      "count": 28,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 22,
+      "total_cont": 0
+    },
+    {
+      "name": "里番",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "神CV",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "一起做运动吧",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "擦边球",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "神片中片",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "肉",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "神音效",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "神BGM",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "下限",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "スタジオ雲雀",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "肉番",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "鈴木行",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "18禁",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "运动",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "独立ova",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "中川宗成",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "糟糕视角",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "独立OVA、OAD、特番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2009年OVA·OAD",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "云雀工作室",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "7963"
+    },
+    {
+      "site": "danime",
+      "id": "10504",
+      "begin": "2019-12-27T01:00:00.000Z",
+      "broadcast": "R/2019-12-27T01:00:00.000Z/P7D"
+    }
+  ]
+}

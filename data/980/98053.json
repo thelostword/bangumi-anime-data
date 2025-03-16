@@ -1,0 +1,115 @@
+{
+  "id": 98053,
+  "name": "るんは風の中",
+  "name_cn": "风中之露",
+  "summary": "　巨匠・手塚治虫の同題短編を原作としたファンタジックラブストーリー。完成は85年だったが、「手塚治虫アニメーションワールド」のOVAとしての刊行は手塚が没した89年に入ってからであった。\r\n　高校生の少年・豊田明（アキラ）は友だちがいないため孤独な日々を過ごしていた。そんな彼は町で見かけたポスターの写真に映っている美少女に淡い恋情を抱く。名前すらわからなかった美少女に「るん」と名づけ、アキラは彼女との生活を夢想するようになる。やがてポスターに映っている本物の「るん」を探しはじめるアキラだったが。\r\n　本作の製作は手塚プロダクションによるもので、監督も手塚自身が担当。当初は『ライオンブックス』というオムニバス形式のストーリー仕立てによるTVシリーズの一編として放送することを想定していた。",
+  "date": "1989-07-01",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/d5/af/98053_5tqts.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/d5/af/98053_5tqts.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 12,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 8,
+      "6": 2,
+      "7": 1,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.6
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "1985",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "手塚PRODUCTION",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "西村緋禄司",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "手塚治虫",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "独立ova",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "赛璐珞",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1989年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "手冢Production",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "手塚プロダクション",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "98053"
+    },
+    {
+      "site": "danime",
+      "id": "24064",
+      "begin": "2020-07-10T01:00:00.000Z",
+      "broadcast": "R/2020-07-10T01:00:00.000Z/P7D"
+    }
+  ]
+}

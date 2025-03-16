@@ -1,0 +1,126 @@
+{
+  "id": 56995,
+  "name": "がんばれ!キッカーズ",
+  "name_cn": "加油！吉塔斯",
+  "summary": "描述了少年们对于足球运动的狂热喜爱。故事的主线是跟随主角大地翔，由于搬家而转入当地北原小学，参加该校吉塔斯足球队后，在他的感召下，全队奋斗成长的艰辛历程。",
+  "date": "1986-10-15",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/f2/65/56995_hJWLq.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/f2/65/56995_hJWLq.jpg"
+  },
+  "eps": 23,
+  "rating": {
+    "rank": 0,
+    "total": 6,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 2,
+      "7": 3,
+      "8": 0,
+      "9": 1,
+      "10": 0
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "童年",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "1986",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "富田祐弘",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "StudioPierrot",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "水島裕",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "鴫野彰",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "鈴木富子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "伊倉一恵",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "ぴえろ",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "56995"
+    },
+    {
+      "site": "danime",
+      "id": "27263",
+      "begin": "2024-08-18T15:00:00.000Z",
+      "broadcast": "R/2024-08-18T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0156982",
+      "begin": "2024-09-06T03:00:00.000Z",
+      "broadcast": "R/2024-09-06T03:00:00.000Z/P7D"
+    }
+  ]
+}

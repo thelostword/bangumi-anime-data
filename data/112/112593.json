@@ -1,0 +1,100 @@
+{
+  "id": 112593,
+  "name": "緑の猫",
+  "name_cn": "绿猫",
+  "summary": "テレビでのオンエアが決まっていないのに、26本の新作を作ってしまい、それからテレビ局に売り込もうという、危険な冒険をしたライオン・ブックスシリーズの第一弾。趣味も含めてハイクォリティーのものを作ろうと意気込んだ手塚プロの熱意が伝わる作品です。原作は主人公を悪の道へといざなう緑色の猫が、じつは地球征服を企む宇宙生物だった、という侵略テーマSFの傑作です。",
+  "date": "1989-07-01",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/05/e4/112593_10p1x.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/05/e4/112593_10p1x.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 14,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 5,
+      "6": 4,
+      "7": 3,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.9
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "1983",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "手塚PRODUCTION",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "西村緋禄司",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "手塚治虫",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "独立ova",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "112593"
+    },
+    {
+      "site": "danime",
+      "id": "24062",
+      "begin": "2020-07-10T01:00:00.000Z",
+      "broadcast": "R/2020-07-10T01:00:00.000Z/P7D"
+    }
+  ]
+}

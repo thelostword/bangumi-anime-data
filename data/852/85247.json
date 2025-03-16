@@ -1,0 +1,70 @@
+{
+  "id": 85247,
+  "name": "ハローキティ りんごの森のファンタジー",
+  "name_cn": "",
+  "summary": "",
+  "date": "2006-04-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/d2/45/85247_0bqKh.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/d2/45/85247_0bqKh.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 0,
+    "total": 5,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 0,
+      "6": 0,
+      "7": 2,
+      "8": 1,
+      "9": 1,
+      "10": 0
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "童年",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "空",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "85247"
+    },
+    {
+      "site": "danime",
+      "id": "25544",
+      "begin": "2023-01-13T01:00:00.000Z",
+      "broadcast": "R/2023-01-13T01:00:00.000Z/P7D"
+    }
+  ]
+}

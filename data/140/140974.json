@@ -1,0 +1,90 @@
+{
+  "id": 140974,
+  "name": "ジャングルブック・少年モーグリ",
+  "name_cn": "森林王子 少年毛克利",
+  "summary": "《森林王子 少年毛克利》，又译《森林小泰山》为东京电视台播映的日本动画公司制作的日本电视动画作品，改编自英国作家鲁德亚德·吉卜林的作品《森林王子》（The Jungle Book）。自1989年10月09日播至次年1990年10月29日，全52话。",
+  "date": "1989-10-09",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/3a/d7/140974_62uKZ.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/3a/d7/140974_62uKZ.jpg"
+  },
+  "eps": 52,
+  "rating": {
+    "rank": 0,
+    "total": 4,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 0,
+      "5": 0,
+      "6": 2,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.5
+  },
+  "tags": [
+    {
+      "name": "1989年十月番",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "1989",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日系",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1989年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "童年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画公司",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1989年10月",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "140974"
+    },
+    {
+      "site": "danime",
+      "id": "23515",
+      "begin": "2020-04-24T01:00:00.000Z",
+      "broadcast": "R/2020-04-24T01:00:00.000Z/P7D"
+    }
+  ]
+}

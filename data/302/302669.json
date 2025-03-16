@@ -1,0 +1,120 @@
+{
+  "id": 302669,
+  "name": "ランウェイで笑って ミニアニメ",
+  "name_cn": "请在T台上微笑 迷你动画",
+  "summary": "ランウェイで笑って のミニアニメ",
+  "date": "2019-11-05",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c0/e6/302669_okDs8.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c0/e6/302669_okDs8.jpg"
+  },
+  "eps": 50,
+  "rating": {
+    "rank": 0,
+    "total": 8,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 4,
+      "6": 3,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 4.9
+  },
+  "tags": [
+    {
+      "name": "WEB",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "AQUAARIS",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2019",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "よしとも",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "岩佐貴博",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2019年10月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未保存",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "屹青",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "花守ゆみり",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "小剧场",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "SP",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "花江夏樹",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "302669"
+    },
+    {
+      "site": "danime",
+      "id": "23220",
+      "begin": "2020-01-24T01:00:00.000Z",
+      "broadcast": "R/2020-01-24T01:00:00.000Z/P7D"
+    }
+  ]
+}

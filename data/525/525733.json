@@ -1,0 +1,159 @@
+{
+  "id": 525733,
+  "name": "「1分間だけ触れてもいいよ…」シェアハウスの秘密ルール。",
+  "name_cn": "「只能触摸一分钟哦...」合租房的秘密规则。",
+  "summary": "一つ屋根のした、１分間だけ、夢のようなひと時――\n大学進学を機にシェアハウスに入居した遼太。\nそこには超絶美人のシェアメイト・桃香と奏が暮らしていた。\n\n男女3人が暮らしていく中で取り決められる『秘密のルール』\nそれは、“１分間だけ、ぜんぶが許されちゃうタッチポイント”\n\nドキドキとトキメキがとまらない、美味しいシェアライフがはじまった――",
+  "date": "2025-01-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/6c/c9/525733_sZTHx.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/6c/c9/525733_sZTHx.jpg"
+  },
+  "eps": 8,
+  "rating": {
+    "rank": 9033,
+    "total": 87,
+    "score": 2.8,
+    "count": {
+      "1": 9,
+      "2": 40,
+      "3": 18,
+      "4": 13,
+      "5": 1,
+      "6": 3,
+      "7": 0,
+      "8": 0,
+      "9": 1,
+      "10": 2
+    }
+  },
+  "tags": [
+    {
+      "name": "R18",
+      "count": 21
+    },
+    {
+      "name": "TV",
+      "count": 21
+    },
+    {
+      "name": "日本",
+      "count": 16
+    },
+    {
+      "name": "漫画改",
+      "count": 27
+    },
+    {
+      "name": "里番",
+      "count": 45
+    },
+    {
+      "name": "2025",
+      "count": 23
+    },
+    {
+      "name": "2025年1月",
+      "count": 22
+    },
+    {
+      "name": "彗星社",
+      "count": 19
+    },
+    {
+      "name": "泡面番",
+      "count": 16
+    },
+    {
+      "name": "泡面里番",
+      "count": 15
+    },
+    {
+      "name": "漫改",
+      "count": 7
+    },
+    {
+      "name": "僧侣档",
+      "count": 6
+    },
+    {
+      "name": "后宫",
+      "count": 6
+    },
+    {
+      "name": "里",
+      "count": 3
+    },
+    {
+      "name": "泡面",
+      "count": 2
+    },
+    {
+      "name": "动画",
+      "count": 1
+    },
+    {
+      "name": "短片",
+      "count": 1
+    },
+    {
+      "name": "H",
+      "count": 1
+    },
+    {
+      "name": "TVA",
+      "count": 1
+    },
+    {
+      "name": "2D里番",
+      "count": 1
+    },
+    {
+      "name": "日常",
+      "count": 1
+    },
+    {
+      "name": "季番",
+      "count": 1
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "525733"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "677aa08a2f6756712facfc4e"
+    },
+    {
+      "site": "abema",
+      "id": "643-8",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "nicovideo",
+      "id": "ipufure",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3561"
+    },
+    {
+      "site": "danime",
+      "id": "27599",
+      "begin": "2025-01-08T15:00:00.000Z",
+      "broadcast": "R/2025-01-08T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0163354",
+      "begin": "2025-01-08T15:00:00.000Z",
+      "broadcast": "R/2025-01-08T15:00:00.000Z/P7D"
+    }
+  ]
+}

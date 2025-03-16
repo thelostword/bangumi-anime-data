@@ -1,0 +1,95 @@
+{
+  "id": 116754,
+  "name": "手塚治虫のドン・ドラキュラ",
+  "name_cn": "吸血鬼在日本",
+  "summary": "这是一部久违的电视系列动画作品，然而，令人遗憾的是，在第4集播出之后，由于广告代理公司的破产，这部作品的播放被迫中断。在此之前，该作品已完成了八集的制作并在地方电视台播出。一栋位于罗马尼亚的洋房被人买下后，又被整栋地搬迁至东京。而生活在这栋洋房里的则是吸血鬼在日本，以及他的女儿巧克拉和他们的仆人伊果。围绕着这一家人，一系列的幽默恐怖故事逐渐展开。",
+  "date": "1982-04-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/76/47/116754_Kwhq9.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/76/47/116754_Kwhq9.jpg"
+  },
+  "eps": 8,
+  "rating": {
+    "rank": 0,
+    "total": 5,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 3,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "1982",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "赛璐珞",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "80s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "手冢Production",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "SHIN-EI动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "116754"
+    },
+    {
+      "site": "danime",
+      "id": "24081",
+      "begin": "2020-08-28T01:00:00.000Z",
+      "broadcast": "R/2020-08-28T01:00:00.000Z/P7D"
+    }
+  ]
+}

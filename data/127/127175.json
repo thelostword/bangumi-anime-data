@@ -1,0 +1,100 @@
+{
+  "id": 127175,
+  "name": "BAR嫌われ野菜",
+  "name_cn": "BAR 被讨厌的蔬菜",
+  "summary": "《BAR 被讨厌的蔬菜》以受到小孩子们讨厌的蔬菜们为主角，是一部描绘它们在酒吧里互诉苦衷、以乐观地生活下去为目标的短篇动画，通过对蔬菜的描绘反映出现实社会中生活的艰辛。",
+  "date": "2015-04-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/46/8b/127175_HCpVk.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/46/8b/127175_HCpVk.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 8
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2015年4月",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2015",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "萌",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "201504",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2015年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2015年四月番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "GATHERING",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "近藤孝行",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "127175"
+    },
+    {
+      "site": "danime",
+      "id": "20269",
+      "begin": "2015-08-07T01:00:00.000Z",
+      "broadcast": "R/2015-08-07T01:00:00.000Z/P7D"
+    }
+  ]
+}

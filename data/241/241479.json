@@ -1,0 +1,87 @@
+{
+  "id": 241479,
+  "name": "ポンコツクエスト〜魔王と派遣の魔物たち〜 シーズン2",
+  "name_cn": "",
+  "summary": "",
+  "date": "2014-10-01",
+  "platform": "WEB",
+  "images": {
+    "large": "",
+    "common": ""
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 0,
+    "total": 3,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 1,
+      "8": 1,
+      "9": 1,
+      "10": 0
+    },
+    "score": 8
+  },
+  "tags": [
+    {
+      "name": "WEB",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2014年10月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2014",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "241479"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ponque",
+      "begin": "2016-01-13T11:00:00.000Z"
+    },
+    {
+      "site": "abema",
+      "id": "143-1",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0025822",
+      "begin": "2019-07-09T03:00:00.000Z",
+      "broadcast": "R/2019-07-09T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "20579",
+      "begin": "2016-01-29T01:00:00.000Z",
+      "broadcast": "R/2016-01-29T01:00:00.000Z/P7D"
+    }
+  ]
+}

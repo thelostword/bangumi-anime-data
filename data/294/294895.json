@@ -1,0 +1,201 @@
+{
+  "id": 294895,
+  "name": "なつなぐ！",
+  "name_cn": "缘结熊本",
+  "summary": "　　东京大学生榉夏奈为了找寻因熊本地震而失联的朋友踏上了前往熊本的旅程，并与当地的初中生泉及各种不同性格、充满人情味的人们相遇。",
+  "date": "2020-01-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/49/3e/294895_SOQS5.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/49/3e/294895_SOQS5.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 7851,
+    "total": 180,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 6,
+      "4": 25,
+      "5": 57,
+      "6": 66,
+      "7": 23,
+      "8": 3,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.5
+  },
+  "tags": [
+    {
+      "name": "2020年1月",
+      "count": 62,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 59,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 52,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 49,
+      "total_cont": 0
+    },
+    {
+      "name": "2020",
+      "count": 43,
+      "total_cont": 0
+    },
+    {
+      "name": "IMAGICA",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "本多康之",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "どめし",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "山元隼一",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "青山吉能",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "缘结熊本",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "橋本愛",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "治愈",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2020冬",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "f.日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "桥本爱",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "d.短片",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "a.Anime",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "m.一集可弃（或未看完暂时搁置）",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2020泡面番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "tv-s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "不建议观看",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2020年1月番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "待二刷",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2020年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "4分",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "294895"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5e1b4efc4f7a796559d914c1"
+    },
+    {
+      "site": "dmhy",
+      "id": "緣結熊本"
+    },
+    {
+      "site": "mikan",
+      "id": "2161"
+    }
+  ]
+}

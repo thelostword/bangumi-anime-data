@@ -1,0 +1,123 @@
+{
+  "id": 253922,
+  "name": "ているず おぶ HR",
+  "name_cn": "班会传说",
+  "summary": "シグナル・エムディ制作のショートアニメ「ているず おぶ HR（ホームルーム）」は CLIP STUDIO PAINTでデジタル作画（原画・動画）されています。 ",
+  "date": "2018-06-17",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/03/b5/253922_i5BLr.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/03/b5/253922_i5BLr.jpg"
+  },
+  "eps": 10,
+  "rating": {
+    "rank": 0,
+    "total": 29,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 6,
+      "6": 16,
+      "7": 5,
+      "8": 1,
+      "9": 0,
+      "10": 1
+    },
+    "score": 6.2
+  },
+  "tags": [
+    {
+      "name": "WEB",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "2018",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "传说系列",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2018年Web·SP",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2018夏",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2018年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "近藤隆",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "FANS向",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "253922"
+    },
+    {
+      "site": "mikan",
+      "id": "1728"
+    }
+  ]
+}

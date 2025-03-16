@@ -1,0 +1,279 @@
+{
+  "id": 487630,
+  "name": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-",
+  "name_cn": "我独自升级 第二季 -起于暗影-",
+  "summary": "世界的な人気を博している、原作・原案 Chugong、作画 DUBU(REDICE STUDIO)、\r\n脚色 h-goon(D＆C MEDIA 発行)による韓国の小説、漫画作品。\r\n日本でも電子マンガ・ノベルサービス「ピッコマ」にて累計PV数6.5億回を突破している本作が、\r\nついに全世界待望のアニメ化決定。\r\n\r\n舞台は異次元と現世界を結ぶ通路”ゲート”、\r\nそして”ハンター”と呼ばれる特殊能力を持つ人間達が存在する世界。\r\n人類最弱兵器と呼ばれる最低ランクのハンター、\r\n「水篠 旬」はある日突然自分だけが「レベルアップ」する力を手に入れる。\r\n\r\n数多の試練を乗り越え、旬は”最弱”から”最強”へ駆けあがる。\r\n\r\n世界各地に異次元と現世界を結ぶ通路“ゲート”が出現して十数年。\r\n“ハンター”と呼ばれる超人的な力に覚醒した人間たちと、\r\nゲート内のダンジョンに存在するモンスターとの戦いは絶え間なく続いている。\r\n本来、ハンターの能力は覚醒時から成長せず、そのランクも変わることはない。\r\nしかし、人類最弱兵器と呼ばれていた低ランクハンターの水篠旬は、\r\n二重ダンジョンでのレイド中に自分だけが「レベルアップする」力を手に入れ、戦いの中で能力を高めていく。\r\n転職クエストをクリアして、影の兵士を従わせることができる職業『影の君主』を手に入れた旬は、\r\n病気の母を治す可能性のある「命の神水」の素材を求めて新たな戦いに身を投じていくのだった。",
+  "date": "2025-01-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/d8/5d/487630_5YZQ6.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/d8/5d/487630_5YZQ6.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 1112,
+    "total": 2106,
+    "count": {
+      "1": 13,
+      "2": 4,
+      "3": 4,
+      "4": 8,
+      "5": 43,
+      "6": 179,
+      "7": 874,
+      "8": 781,
+      "9": 116,
+      "10": 84
+    },
+    "score": 7.4
+  },
+  "tags": [
+    {
+      "name": "漫画改",
+      "count": 738,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年1月",
+      "count": 706,
+      "total_cont": 0
+    },
+    {
+      "name": "龙傲天",
+      "count": 654,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 644,
+      "total_cont": 0
+    },
+    {
+      "name": "A-1Pictures",
+      "count": 589,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 498,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 477,
+      "total_cont": 0
+    },
+    {
+      "name": "韩国",
+      "count": 373,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 340,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 295,
+      "total_cont": 0
+    },
+    {
+      "name": "韩漫",
+      "count": 263,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 205,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 105,
+      "total_cont": 0
+    },
+    {
+      "name": "日番",
+      "count": 58,
+      "total_cont": 0
+    },
+    {
+      "name": "中重俊祐",
+      "count": 34,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 22,
+      "total_cont": 0
+    },
+    {
+      "name": "坂泰斗",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "爽文",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "我独自升级",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "系统",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "异世界",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "泽野弘之",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "爽",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年10月",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "韩漫改",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "厕纸",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "季番",
+      "count": 4,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "487630"
+    },
+    {
+      "site": "viu",
+      "id": "2555869",
+      "begin": "2025-01-04T16:30:12.000Z",
+      "broadcast": "R/2025-01-04T16:30:12.000Z/P7D"
+    },
+    {
+      "site": "mytv",
+      "id": "sololevelingseason2arisefromtheshadow_142485",
+      "begin": "2025-01-04T16:30:00.000Z",
+      "broadcast": "R/2025-01-04T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "138607",
+      "begin": "2025-01-04T16:30:00.000Z",
+      "broadcast": "R/2025-01-04T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3560"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "677aa0992f6756712facfc96"
+    },
+    {
+      "site": "unext",
+      "id": "SID0163351",
+      "begin": "2025-01-07T03:00:00.000Z",
+      "broadcast": "R/2025-01-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "26-215",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "crunchyroll",
+      "id": "GDKHZEJ0K",
+      "begin": "2024-01-06T15:00:00.000Z",
+      "broadcast": "R/2024-01-06T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "26802",
+      "begin": "2024-01-09T03:00:00.000Z",
+      "broadcast": "R/2024-01-09T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "138607",
+      "begin": "2025-01-04T16:30:00.000Z",
+      "broadcast": "R/2025-01-04T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "24474625",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "nicovideo",
+      "id": "sololeveling-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "netflix",
+      "id": "81749761",
+      "begin": "2024-01-05T16:00:00.000Z",
+      "broadcast": "R/2024-01-05T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "59eo9jEqCGLk",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "prime",
+      "id": "B0D3L2JYQP",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "我獨自升級 起"
+    }
+  ]
+}

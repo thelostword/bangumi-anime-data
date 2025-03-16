@@ -1,0 +1,136 @@
+{
+  "id": 473412,
+  "name": "ヤマトよ永遠に REBEL3199 第二章 赤日の出撃",
+  "name_cn": "永远的大和号 REBEL3199 第二章 赤日的出击",
+  "summary": "名作アニメ「宇宙戦艦ヤマト」のリメイクシリーズの1作で、1980年公開の劇場アニメ「ヤマトよ永遠（とわ）に」に新解釈を加えて再構成した全7章（全26話）のうちの第2章。\r\n\r\nデザリアムの巨大移動要塞グランドリバースが、ついに新都湾岸部に降着した。一夜にして地球を制圧したデザリアム軍の聖総統スカルダートは地球の人々に対し、「われわれはあなたです」と1000年におよぶ歴史について説く。驚くべきことに彼らは敵ではなく、破滅へと向かう地球の未来を変えるために「イスカンダルの欠片」を探していた。一方、旧ヤマト艦隊クルーは、新生・宇宙戦艦ヤマトが待つイカロス天文台に到達。愛する女性・森雪を失った古代進は失意のあまり指揮できる状態にはなかったが、雪はデザリアムのアルフォン少佐によって介抱されていた。\r\n\r\n同リメイクシリーズで脚本やシリーズ構成を手がけてきた小説家の福井晴敏が、総監督・シリーズ構成・脚本を担当。",
+  "date": "2024-11-22",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/fa/3e/473412_M1MJ5.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/fa/3e/473412_M1MJ5.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 12,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 3,
+      "5": 1,
+      "6": 3,
+      "7": 2,
+      "8": 2,
+      "9": 1,
+      "10": 0
+    },
+    "score": 6.2
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "studioMOTHER",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "宇宙战舰大和号",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "福井晴敏",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "战争",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "SF",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "ヤマトナオミチ",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "鈴村健一",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "小野大輔",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "桑島法子",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "473412"
+    },
+    {
+      "site": "nicovideo",
+      "id": "yamato-rebel3199",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0167296",
+      "begin": "2025-01-28T15:00:00.000Z",
+      "broadcast": "R/2025-01-28T15:00:00.000Z/P7D"
+    }
+  ]
+}

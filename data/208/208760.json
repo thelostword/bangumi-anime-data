@@ -1,0 +1,166 @@
+{
+  "id": 208760,
+  "name": "新宝島",
+  "name_cn": "新宝岛",
+  "summary": "1965年全一话的电视动画《新宝島》又名Shin Takarajima，是虫Pro继铁臂阿童木后、森林大帝前独立制作的第二部TV作品，原作为手塚治虫在1947年的漫画作品但关联并不大。",
+  "date": "1965-01-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ff/46/208760_sA1Kk.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ff/46/208760_sA1Kk.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 14,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 5,
+      "6": 2,
+      "7": 5,
+      "8": 1,
+      "9": 0,
+      "10": 1
+    },
+    "score": 6.4
+  },
+  "tags": [
+    {
+      "name": "1965",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "虫Production",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "虫制作",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "剧场版",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "加藤武",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "1965年一月番",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TVSP",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "1965年1月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "赛璐珞",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "若山弦蔵",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "虫プロダクション",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "手塚治虫",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改编",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "改编",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "60年代",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "60s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1965年",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "208760"
+    },
+    {
+      "site": "danime",
+      "id": "24074",
+      "begin": "2020-08-14T01:00:00.000Z",
+      "broadcast": "R/2020-08-14T01:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0003100",
+      "begin": "2015-02-16T15:00:00.000Z",
+      "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+    }
+  ]
+}

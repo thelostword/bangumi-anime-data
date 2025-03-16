@@ -1,0 +1,125 @@
+{
+  "id": 78088,
+  "name": "アイドル・プロジェクト",
+  "name_cn": "偶像计划",
+  "summary": "",
+  "date": "1995-09-22",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/d4/3b/78088_gFx8j.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/d4/3b/78088_gFx8j.jpg"
+  },
+  "eps": 4,
+  "rating": {
+    "rank": 0,
+    "total": 19,
+    "count": {
+      "1": 0,
+      "2": 1,
+      "3": 0,
+      "4": 0,
+      "5": 12,
+      "6": 4,
+      "7": 0,
+      "8": 1,
+      "9": 1,
+      "10": 0
+    },
+    "score": 5.4
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "アイドル・プロジェクト",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "赛璐珞",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "90s",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "1995",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "偶像",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "95-99",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "不到7分",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "电波萌系",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1990s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "90年代",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "其他",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "长冈康史",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "独立ova",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "78088"
+    },
+    {
+      "site": "danime",
+      "id": "10897",
+      "begin": "2013-07-05T01:00:00.000Z",
+      "broadcast": "R/2013-07-05T01:00:00.000Z/P7D"
+    }
+  ]
+}

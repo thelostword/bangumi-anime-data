@@ -1,0 +1,156 @@
+{
+  "id": 220026,
+  "name": "小さなバイキングビッケ",
+  "name_cn": "七海小英雄",
+  "summary": "",
+  "date": "1974-01-31",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/83/e5/220026_1aOM1.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/83/e5/220026_1aOM1.jpg"
+  },
+  "eps": 78,
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "1974",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "1974年一月番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1974年1月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1974年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "瑞鷹",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "丹野雄二",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "在电视上断断续续看过",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "赛璐珞",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "中西妙子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "70s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画公司",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本アニメーション",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "富田耕生",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "经典",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "栗葉子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "斎藤博",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "220026"
+    },
+    {
+      "site": "danime",
+      "id": "10986",
+      "begin": "2013-09-06T01:00:00.000Z",
+      "broadcast": "R/2013-09-06T01:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0067216",
+      "begin": "2022-03-01T03:00:00.000Z",
+      "broadcast": "R/2022-03-01T03:00:00.000Z/P7D"
+    }
+  ]
+}

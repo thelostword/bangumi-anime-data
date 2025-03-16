@@ -1,0 +1,180 @@
+{
+  "id": 365094,
+  "name": "白い砂のアクアトープ みに",
+  "name_cn": "白沙的水族馆 迷你动画",
+  "summary": "于官方推特（@aquatope_anime）连载的迷你动画。",
+  "date": "2021-07-06",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/7b/c0/365094_NXggg.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/7b/c0/365094_NXggg.jpg"
+  },
+  "eps": 29,
+  "rating": {
+    "rank": 0,
+    "total": 36,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 2,
+      "5": 8,
+      "6": 13,
+      "7": 5,
+      "8": 5,
+      "9": 1,
+      "10": 1
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "P.A.WORKS",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "SP",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "2021",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "伊藤美来",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "白沙的水族馆",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "番外",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "逢田梨香子",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2021年",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "小剧场",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "8-9",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "土屋神叶",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "屹青",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "SP系列",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "和气杏未",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2021年7月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "篠原俊哉",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "友情",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "筱原俊哉",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "阿座上洋平",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "柿原優子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Lynn",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "365094"
+    },
+    {
+      "site": "muse_tw",
+      "id": "PL12UaAf_xzfrnzLSshAZclW9HdkfsLjBK",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

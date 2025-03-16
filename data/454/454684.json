@@ -1,0 +1,261 @@
+{
+  "id": 454684,
+  "name": "BanG Dream! Ave Mujica",
+  "name_cn": "",
+  "summary": " 「言ったでしょう？残りの人生、わたくしに下さいと」\r\n\r\n豊川祥子がメンバーを招き入れたバンド・Ave Mujicaは、\r\nライブやメディア露出など、商業的な成功を収めていた。\r\n\r\n運命をともにすると誓った仲間も、生まれ育った家も失った少女。\r\n彼女は何のために他人の一生を背負い、バンドを続けるのか。\r\n\r\n過去も素顔も仮面で覆い隠し、今宵も完璧な箱庭に降り立つ。\r\n\r\n「我说过了吧？请你们将剩余的人生交给我」\r\n\r\n丰川祥子招募组建的乐队・Ave Mujica取得了演唱会和媒体曝光等商业上的成功。\r\n\r\n少女失去了曾发誓命运与共的友人，又失去了自己出生长大的家庭。 她为什么要背负他人的一生，将乐队坚持下去呢？\r\n\r\n将过往与真容都以假面遮掩，今夜亦降临于完美的箱庭。",
+  "date": "2025-01-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/77/c3/454684_ZH5tU.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/77/c3/454684_ZH5tU.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 9025,
+    "total": 8914,
+    "count": {
+      "1": 1792,
+      "2": 729,
+      "3": 971,
+      "4": 1385,
+      "5": 971,
+      "6": 937,
+      "7": 751,
+      "8": 779,
+      "9": 244,
+      "10": 355
+    },
+    "score": 4.4
+  },
+  "tags": [
+    {
+      "name": "BanGDream",
+      "count": 2741,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 2553,
+      "total_cont": 0
+    },
+    {
+      "name": "音乐",
+      "count": 1845,
+      "total_cont": 0
+    },
+    {
+      "name": "无法预测的命运之舞台",
+      "count": 1814,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 1793,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年1月",
+      "count": 1620,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1395,
+      "total_cont": 0
+    },
+    {
+      "name": "扭曲",
+      "count": 1331,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 768,
+      "total_cont": 0
+    },
+    {
+      "name": "偶像",
+      "count": 744,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 522,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 507,
+      "total_cont": 0
+    },
+    {
+      "name": "乐队",
+      "count": 453,
+      "total_cont": 0
+    },
+    {
+      "name": "沉重",
+      "count": 375,
+      "total_cont": 0
+    },
+    {
+      "name": "SANZIGEN",
+      "count": 349,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 156,
+      "total_cont": 0
+    },
+    {
+      "name": "mujica",
+      "count": 127,
+      "total_cont": 0
+    },
+    {
+      "name": "3D",
+      "count": 87,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 48,
+      "total_cont": 0
+    },
+    {
+      "name": "柿本広大",
+      "count": 48,
+      "total_cont": 0
+    },
+    {
+      "name": "三次元",
+      "count": 43,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 33,
+      "total_cont": 0
+    },
+    {
+      "name": "悬疑",
+      "count": 32,
+      "total_cont": 0
+    },
+    {
+      "name": "綾奈ゆにこ",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "恐怖",
+      "count": 24,
+      "total_cont": 0
+    },
+    {
+      "name": "柿本广大",
+      "count": 24,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "サンジゲン",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "轻百合",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "少女乐队",
+      "count": 15,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "454684"
+    },
+    {
+      "site": "nicovideo",
+      "id": "bang-dream_avemujica",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0163369",
+      "begin": "2025-01-02T14:00:00.000Z",
+      "broadcast": "R/2025-01-02T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "283-26",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "danime",
+      "id": "27572",
+      "begin": "2025-01-02T14:00:00.000Z",
+      "broadcast": "R/2025-01-02T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UcgailV895QQWiOgwZ8st8WS",
+      "begin": "2025-01-02T14:00:05.000Z",
+      "broadcast": "R/2025-01-02T14:00:05.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "135594",
+      "begin": "2025-01-02T14:00:00.000Z",
+      "broadcast": "R/2025-01-02T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3518"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "677aa0922f6756712facfc74"
+    },
+    {
+      "site": "gamer",
+      "id": "135594",
+      "begin": "2025-01-02T14:00:00.000Z",
+      "broadcast": "R/2025-01-02T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "23679586",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "muse_tw",
+      "id": "PL12UaAf_xzfo6TAmxIM7rEvrJAB0rzAAO",
+      "begin": "2025-01-16T14:00:06.000Z",
+      "broadcast": "R/2025-01-16T14:00:06.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0DPZWLPHW",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "mujica"
+    }
+  ]
+}

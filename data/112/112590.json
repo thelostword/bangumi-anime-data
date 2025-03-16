@@ -1,0 +1,95 @@
+{
+  "id": 112590,
+  "name": "山太郎かえる",
+  "name_cn": "山太郎回来了",
+  "summary": "　漫画の神様・手塚治虫の同題短編を自身の手でアニメ化した動物ファンタジー。前作「るんは風の中」に続く『ライオンブックス』シリーズの第4弾として製作された。\r\n　両親を亡くした熊の山太郎。人間に飼育される日々を送っていた山太郎は、蒸気機関車C-62の「しい六」と仲良くなる。いつしか汽笛のように力強く吠えることを覚えた山太郎は。「しい六」に励まされて自由への一歩を踏み出そうとするが。\r\n　本作は当初86年に完成をみていたが、OVAという形で89年に刊行。当時の手塚のTVアニメ最新作『青いブリンク』と同じ「手塚治虫アニメーションワールド」のレーベルで発売された。製作は手塚プロダクションによる。",
+  "date": "1989-07-01",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/1f/d2/112590_qwFo6.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/1f/d2/112590_qwFo6.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 9,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 4,
+      "6": 3,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.4
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "1986",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "独立ova",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "手塚PRODUCTION",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "吉村昌輝",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "小熊公晴",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "手塚治虫",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "112590"
+    },
+    {
+      "site": "danime",
+      "id": "24065",
+      "begin": "2020-07-10T01:00:00.000Z",
+      "broadcast": "R/2020-07-10T01:00:00.000Z/P7D"
+    }
+  ]
+}

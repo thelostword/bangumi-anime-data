@@ -1,0 +1,195 @@
+{
+  "id": 406197,
+  "name": "かげじつ！",
+  "name_cn": "影实！",
+  "summary": "シャドウガーデンの幹部たる七陰。彼女たちは日々陰に潜み、陰を狩る存在……のはずが、作戦を無視して大暴れ？！ 圧倒的な美貌と戦闘能力をもった彼女たちの日常を描いたスピンオフショートアニメが登場！　第4話が放送される10月26日（水）24:00（10月27日00:00）よりYoutube「KADOKAWAanime」チャンネル他にて毎週配信スタート！",
+  "date": "2022-10-26",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/1d/ed/406197_UPZHS.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/1d/ed/406197_UPZHS.jpg"
+  },
+  "eps": 17,
+  "rating": {
+    "rank": 5134,
+    "total": 454,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 3,
+      "4": 11,
+      "5": 41,
+      "6": 190,
+      "7": 168,
+      "8": 30,
+      "9": 5,
+      "10": 6
+    },
+    "score": 6.4
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 175,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 126,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 105,
+      "total_cont": 0
+    },
+    {
+      "name": "小剧场",
+      "count": 87,
+      "total_cont": 0
+    },
+    {
+      "name": "2022年10月",
+      "count": 81,
+      "total_cont": 0
+    },
+    {
+      "name": "2022",
+      "count": 71,
+      "total_cont": 0
+    },
+    {
+      "name": "轻小说改",
+      "count": 68,
+      "total_cont": 0
+    },
+    {
+      "name": "番外",
+      "count": 66,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 50,
+      "total_cont": 0
+    },
+    {
+      "name": "STUDIOPUYUKAI",
+      "count": 49,
+      "total_cont": 0
+    },
+    {
+      "name": "异世界",
+      "count": 47,
+      "total_cont": 0
+    },
+    {
+      "name": "轻改",
+      "count": 34,
+      "total_cont": 0
+    },
+    {
+      "name": "SP",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "芦名みのる",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "スタジオぷYUKAI",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "想要成为影之实力者",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2022年",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "芦名稔",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "想要成为影之实力者！",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "7",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "末廣健一郎",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "水濑祈",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "后宫",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "406197"
+    },
+    {
+      "site": "danime",
+      "id": "25895",
+      "begin": "2022-10-26T15:00:00.000Z",
+      "broadcast": "R/2022-10-26T15:00:00.000Z/P7D"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "id": 376448,
+  "name": "RABBITS KINGDOM THE MOVIE",
+  "name_cn": "月歌 剧场版 兔子王国",
+  "summary": "「……啊、这是。\r\n非常令人怀念的、可爱的……不同世界的我们的故事」\r\n\r\n这是、「if-如果-」的、发生在不是此处的某个国家的故事。",
+  "date": "2024-06-14",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/15/65/376448_ih7z3.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/15/65/376448_ih7z3.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 3,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 1,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 3.3
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "偶像",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "女性向",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "StudioSign",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "CSPG",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2020-2029",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2023",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "尾崎正善　",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "逸見龍一郎",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "スタジオ・ザイン",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "尾崎正善",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "高橋ナツコ",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "梶裕貴",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "柿原徹也",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "細谷佳正",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画电影",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未确定",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "376448"
+    },
+    {
+      "site": "unext",
+      "id": "SID0163810",
+      "begin": "2024-12-14T03:00:00.000Z",
+      "broadcast": "R/2024-12-14T03:00:00.000Z/P7D"
+    }
+  ]
+}

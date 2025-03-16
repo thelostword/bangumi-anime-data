@@ -1,0 +1,106 @@
+{
+  "id": 442368,
+  "name": "戦え!超ロボット生命体トランスフォーマー",
+  "name_cn": "战斗吧！超机器人生命体 变形金刚",
+  "summary": "『戦え!超ロボット生命体トランスフォーマー』\r\n米国版『THE TRANSFORMERS』シーズン1–シーズン2に相当する。「ジェネレーション1（G1）」シリーズの第1作目でもある。",
+  "date": "1985-07-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/53/d8/442368_tePee.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/53/d8/442368_tePee.jpg"
+  },
+  "eps": 65,
+  "rating": {
+    "rank": 0,
+    "total": 6,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 0,
+      "6": 1,
+      "7": 2,
+      "8": 0,
+      "9": 0,
+      "10": 2
+    },
+    "score": 7.3
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "变形金刚",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "东映",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "萝卜",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "东映动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "1985年7月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "童年",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "1985",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "442368"
+    },
+    {
+      "site": "danime",
+      "id": "10409",
+      "begin": "2024-09-26T15:00:00.000Z",
+      "broadcast": "R/2024-09-26T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0157896",
+      "begin": "2024-10-25T03:00:00.000Z",
+      "broadcast": "R/2024-10-25T03:00:00.000Z/P7D"
+    }
+  ]
+}

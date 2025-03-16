@@ -1,0 +1,75 @@
+{
+  "id": 211445,
+  "name": "はれときどきぶた",
+  "name_cn": "晴天小猪",
+  "summary": "1988年8月23日公開。製作は学習研究社とオープロダクション。上映時間は74分。",
+  "date": "1988-08-23",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/32/c9/211445_VyqR1.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/32/c9/211445_VyqR1.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 11,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 5,
+      "7": 4,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "经典",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "童年",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "剧场版",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "OH!Production",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "211445"
+    },
+    {
+      "site": "danime",
+      "id": "23724",
+      "begin": "2020-05-22T01:00:00.000Z",
+      "broadcast": "R/2020-05-22T01:00:00.000Z/P7D"
+    }
+  ]
+}

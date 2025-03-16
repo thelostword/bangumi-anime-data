@@ -1,0 +1,197 @@
+{
+  "id": 279541,
+  "name": "少女☆寸劇 オールスタァライト",
+  "name_cn": "少女☆寸剧 All Starlight",
+  "summary": "",
+  "date": "2019-07-05",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/61/50/279541_p8kh4.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/61/50/279541_p8kh4.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 5691,
+    "total": 281,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 10,
+      "5": 45,
+      "6": 119,
+      "7": 79,
+      "8": 19,
+      "9": 1,
+      "10": 7
+    },
+    "score": 6.3
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 124,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 93,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 77,
+      "total_cont": 0
+    },
+    {
+      "name": "2019",
+      "count": 70,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 59,
+      "total_cont": 0
+    },
+    {
+      "name": "2019年7月",
+      "count": 46,
+      "total_cont": 0
+    },
+    {
+      "name": "KINEMACITRUS",
+      "count": 36,
+      "total_cont": 0
+    },
+    {
+      "name": "少女☆寸剧",
+      "count": 30,
+      "total_cont": 0
+    },
+    {
+      "name": "音乐",
+      "count": 28,
+      "total_cont": 0
+    },
+    {
+      "name": "KINEMA_CITRUS",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "IMAGICA",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "山元隼一",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "少女歌剧",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "古川知宏",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2019年",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "偶像",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "番外",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "小山百代",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "少女寸剧",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "沙雕",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "KINEMA.CITRUS",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "Bushiroad",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "IMAGICA_Lab.",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "已下载",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "279541"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5db30e5c306f1a0007c0ae0d"
+    },
+    {
+      "site": "mikan",
+      "id": "2081"
+    }
+  ]
+}

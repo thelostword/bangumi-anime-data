@@ -1,0 +1,237 @@
+{
+  "id": 508588,
+  "name": "アラフォー男の異世界通販",
+  "name_cn": "中年男的异世界网购生活",
+  "summary": "アラフォーの独身男・ケンイチは、突如として異世界に転移してしまう。\r\nわけもわからず危険な森をさまよう中で、\r\n巨大ネット通販サイト「シャングリ・ラ」が使えることに気づく。\r\nそれは異世界のアイテムを換金し、現代日本の商品を購入できる“チート能力”だった！\r\n能力を駆使して商売を始めたケンイチは、瞬く間に商人として頭角を現していく。\r\n「目指すは、異世界でのスローライフ！」\r\n街はずれの森で自由気ままな自給自足の生活を送ろうとするが……。\r\n才気溢れるケンイチに惹かれた少女たちが押し寄せ、\r\nさらには次々とトラブルに巻き込まれ――\r\nアラフォー男は、念願のスローライフを実現できるのか!?\r\n異世界ファンタジーここに開幕！！",
+  "date": "2025-01-09",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/a9/4b/508588_qGDNZ.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/a9/4b/508588_qGDNZ.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 8826,
+    "total": 260,
+    "count": {
+      "1": 11,
+      "2": 14,
+      "3": 31,
+      "4": 48,
+      "5": 71,
+      "6": 63,
+      "7": 14,
+      "8": 4,
+      "9": 2,
+      "10": 2
+    },
+    "score": 4.7
+  },
+  "tags": [
+    {
+      "name": "2025年1月",
+      "count": 103,
+      "total_cont": 0
+    },
+    {
+      "name": "异世界",
+      "count": 99,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 62,
+      "total_cont": 0
+    },
+    {
+      "name": "轻小说改",
+      "count": 58,
+      "total_cont": 0
+    },
+    {
+      "name": "后宫",
+      "count": 49,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 48,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 32,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 30,
+      "total_cont": 0
+    },
+    {
+      "name": "EastFishStudio",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "穿越",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "厕纸",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "轻改",
+      "count": 22,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "本渡楓",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "イーストフィッシュスタジオ",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "赤星政尚",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2025冬",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "经营",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "看的出来经费很紧",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "投影仪观影",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "懒得看",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "中年男的异世界网购生活",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "哈哈哈哈哈厕纸",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "特定人群向",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "不建议观看",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "可独立观赏",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "亵女",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "508588"
+    },
+    {
+      "site": "nicovideo",
+      "id": "arafo-tsuhan",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0163333",
+      "begin": "2025-01-14T13:00:00.000Z",
+      "broadcast": "R/2025-01-14T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-281",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "677aa0922f6756712facfc70"
+    },
+    {
+      "site": "danime",
+      "id": "27637",
+      "begin": "2025-01-09T13:00:00.000Z",
+      "broadcast": "R/2025-01-09T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "crunchyroll",
+      "id": "GVDHX855Q",
+      "begin": "2025-01-09T12:00:00.000Z",
+      "broadcast": "R/2025-01-09T12:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3545"
+    },
+    {
+      "site": "prime",
+      "id": "B0DRSVYW35",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "異世界 網購"
+    }
+  ]
+}

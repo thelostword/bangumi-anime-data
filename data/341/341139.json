@@ -1,0 +1,195 @@
+{
+  "id": 341139,
+  "name": "BEASTARS FINAL SEASON Part1",
+  "name_cn": "动物狂想曲 最终季 第一部分",
+  "summary": "リズとの対決を経て自主退学を選択したレゴシは、コーポ伏獣での一人暮らしを開始。一方、青獣ビースターを辞退し卒業したルイは、父・オグマに向き合う決意を固める。キャンパスライフを謳歌するハルにも悩みは尽きず…。その頃、現役ビースター・ヤフヤは、殺獣に快楽を求める凶悪犯・メロンを追っていた。レゴシとメロン、交わるはずのなかった運命を結びつけたのは、レゴシの家族が秘めたある秘密だった…。",
+  "date": "2024-12-05",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/89/e0/341139_35fGz.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/89/e0/341139_35fGz.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 2537,
+    "total": 465,
+    "count": {
+      "1": 3,
+      "2": 1,
+      "3": 2,
+      "4": 2,
+      "5": 12,
+      "6": 88,
+      "7": 234,
+      "8": 106,
+      "9": 13,
+      "10": 4
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "漫画改",
+      "count": 126,
+      "total_cont": 0
+    },
+    {
+      "name": "orange",
+      "count": 108,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年10月",
+      "count": 103,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 100,
+      "total_cont": 0
+    },
+    {
+      "name": "动物",
+      "count": 74,
+      "total_cont": 0
+    },
+    {
+      "name": "BEASTARS",
+      "count": 71,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 67,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 58,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 58,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 49,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 39,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 36,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 35,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年1月",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年12月",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "オレンジ",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "3D",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "悬疑",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "松见真一",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "剧情",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "松見真一",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2022",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "Netflix",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "24秋",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "千本木彩花",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "20年代",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "341139"
+    },
+    {
+      "site": "netflix",
+      "id": "81054847",
+      "begin": "2024-12-04T16:00:00.000Z",
+      "broadcast": "R/2024-12-04T16:00:00.000Z/P0D"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": 473811,
+  "name": "最強王図鑑 ～The Ultimate Battles～",
+  "name_cn": "最强王图鉴 ～The Ultimate Battles～",
+  "summary": "一番強いのは誰だ!?そこでは最強の中の最強「最強王」の称号をかけ熱きバトルが日々繰り広げられている。「今回のバトルフィールドは～～！」岩場、荒野、森林、氷原、洞窟……いったいどこに!?「超危険なステージで最強の座をかけて戦うのは～？」動物、恐竜、昆虫、絶滅動物といった各種属たちが時空を超えて大激突！",
+  "date": "2024-01-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ba/12/473811_0T9W4.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ba/12/473811_0T9W4.jpg"
+  },
+  "eps": 50,
+  "rating": {
+    "rank": 0,
+    "total": 2,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "OLMDigital",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "岸本真太郎",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "佐藤慎司",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "473811"
+    },
+    {
+      "site": "danime",
+      "id": "26827",
+      "begin": "2024-01-05T23:00:00.000Z",
+      "broadcast": "R/2024-01-05T23:00:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0CPQ6K91Q",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

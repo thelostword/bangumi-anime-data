@@ -1,0 +1,105 @@
+{
+  "id": 41864,
+  "name": "PES: Peace Eco Smile",
+  "name_cn": "驾临地球",
+  "summary": "「PES：Peace Eco Smile」共分为七部小短片，讲述了讲述了外星人PES和生命生物NaSuBi被地球魅力所吸引，了解善良的人们和爱的真谛。",
+  "date": "2012-05-25",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/a3/98/41864_ET4MU.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/a3/98/41864_ET4MU.jpg"
+  },
+  "eps": 7,
+  "rating": {
+    "rank": 0,
+    "total": 10,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 5,
+      "6": 4,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.6
+  },
+  "tags": [
+    {
+      "name": "Studio4℃",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "广告",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "2012",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "林祐一郎",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "其它",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "12春",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2012年5月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Studio_4℃",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "ONA",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "41864"
+    },
+    {
+      "site": "crunchyroll",
+      "id": "GYE5XGK9R",
+      "begin": "2012-07-02T11:00:00.000Z",
+      "broadcast": "R/2012-07-02T11:00:00.000Z/P7D"
+    }
+  ]
+}

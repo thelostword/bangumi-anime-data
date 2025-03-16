@@ -1,0 +1,155 @@
+{
+  "id": 526223,
+  "name": "闇芝居 十四期",
+  "name_cn": "暗芝居 第十四季",
+  "summary": "",
+  "date": "2025-01-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/99/e5/526223_mLhZG.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/99/e5/526223_mLhZG.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 21,
+    "count": {
+      "1": 1,
+      "2": 3,
+      "3": 5,
+      "4": 4,
+      "5": 4,
+      "6": 3,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 4.1
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年1月",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "恐怖",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "闇芝居史上最恐のシリーズになりそうです",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "暗芝居",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "山川典夫",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "船田晃",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "后宫",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "暗芝居“史上最恐怖”的一季",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "续集",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "×",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "喜剧",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "惊悚",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "熊本浩武",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "ppt",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "猎奇",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "526223"
+    },
+    {
+      "site": "unext",
+      "id": "SID0163372",
+      "begin": "2025-01-06T03:00:00.000Z",
+      "broadcast": "R/2025-01-06T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "27566",
+      "begin": "2025-01-06T03:00:00.000Z",
+      "broadcast": "R/2025-01-06T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3565"
+    }
+  ]
+}

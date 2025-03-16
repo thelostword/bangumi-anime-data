@@ -1,0 +1,180 @@
+{
+  "id": 37505,
+  "name": "ARIEL",
+  "name_cn": "",
+  "summary": "根据笹本祐一的小说而改编的OVA。\r\nARIEL VISUAL1 SCEBAI最大の危機（前編）\r\nARIEL VISUAL2 SCEBAI最大の危機（後編）\r\nDELUXE ARIEL 接触編 THE BEGINNING\r\nDELUXE ARIEL 発動編 GREAT FALL \r\n国立科学研究所“SCEBAI”（Science Chemical  Electronics Biochemical and Aerospace Industry，和日语中“色狼”发音相同）的所长岸田博士开发出了女性型巨大机器人兵器“ARIEL”（ALL ROUND INTERCEPT & ESCORT LADY），并任命河合美亜、岸田絢及岸田和美（一个外甥女两个孙女）三名女性担任驾驶员。另一方面，面临倒闭的三流侵略企业ゲドー社为了摆脱危机而从银河帝国手中接下了侵略地球的任务。虽然以ARIEL的性能来说，战胜外星人的科技还是很艰难的，但是由于ゲドー社和银河帝国当初签合同的时候规定“侵略所花费的时间越长报酬就越高”，所以ゲドー社也不急于侵略地球，于是脑残的拉锯战就这么展开了。",
+  "date": "1989-07-21",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/87/d3/37505_6Vb4S.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/87/d3/37505_6Vb4S.jpg"
+  },
+  "eps": 4,
+  "rating": {
+    "rank": 0,
+    "total": 24,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 3,
+      "5": 7,
+      "6": 11,
+      "7": 1,
+      "8": 1,
+      "9": 0,
+      "10": 1
+    },
+    "score": 5.8
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "1989",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "J.C.STAFF",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "AnimateFilm",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "笹本祐一",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "机战",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "渡邊淳一",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "1989年",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "林原めぐみ",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "独立ova",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1980s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "SF",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1989年七月番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "轻小说改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "85-89",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1989年7月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "萝卜",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "水谷優子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "80年代",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "小山茉美",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメイトフィルム",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "其他",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "塩沢兼人",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "37505"
+    },
+    {
+      "site": "danime",
+      "id": "27293",
+      "begin": "2024-09-30T15:00:00.000Z",
+      "broadcast": "R/2024-09-30T15:00:00.000Z/P7D"
+    }
+  ]
+}

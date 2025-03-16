@@ -1,0 +1,70 @@
+{
+  "id": 108417,
+  "name": "学校のコワイうわさ 新・花子さんがきた!! シーズン2",
+  "name_cn": "校园恐怖传说 - 新·花子来了！！第二季",
+  "summary": "",
+  "date": "2014-07-12",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/17/0a/108417_R06G6.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/17/0a/108417_R06G6.jpg"
+  },
+  "eps": 20,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "2014",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "GroupTacCo.",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "没地下",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Ltd.",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "108417"
+    },
+    {
+      "site": "danime",
+      "id": "11363",
+      "begin": "2014-07-11T03:00:00.000Z",
+      "broadcast": "R/2014-07-11T03:00:00.000Z/P7D"
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "id": 454887,
+  "name": "BURN THE WITCH #0.8",
+  "name_cn": "龙与魔女 #0.8",
+  "summary": "久保帯人によるもう一つの尸魂界\r\n2人の魔女の前日譚アニメ化",
+  "date": "2023-12-29",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/d5/44/454887_26bbm.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/d5/44/454887_26bbm.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 2841,
+    "total": 1339,
+    "count": {
+      "1": 0,
+      "2": 4,
+      "3": 1,
+      "4": 20,
+      "5": 53,
+      "6": 267,
+      "7": 710,
+      "8": 236,
+      "9": 29,
+      "10": 19
+    },
+    "score": 6.9
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 360,
+      "total_cont": 0
+    },
+    {
+      "name": "StudioColorido",
+      "count": 284,
+      "total_cont": 0
+    },
+    {
+      "name": "2023",
+      "count": 273,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 244,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 187,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 178,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 138,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年1月",
+      "count": 128,
+      "total_cont": 0
+    },
+    {
+      "name": "久保带人",
+      "count": 98,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 96,
+      "total_cont": 0
+    },
+    {
+      "name": "teamYamahitsuji",
+      "count": 76,
+      "total_cont": 0
+    },
+    {
+      "name": "川野達朗",
+      "count": 49,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 43,
+      "total_cont": 0
+    },
+    {
+      "name": "山田唯菜",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "川野达朗",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "魔法",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "teamヤマヒツヂ",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "田野アサミ",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "TVSP",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "龙与魔女",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "2023年",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "2023年12月",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "2023年10月",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "Colorido",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "スタジオコロリド",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "岸本卓",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "剧场版",
+      "count": 3,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "454887"
+    },
+    {
+      "site": "mikan",
+      "id": "3272"
+    }
+  ]
+}

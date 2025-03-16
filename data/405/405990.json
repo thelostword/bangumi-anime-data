@@ -1,0 +1,193 @@
+{
+  "id": 405990,
+  "name": "LUPIN ZERO",
+  "name_cn": "鲁邦 零",
+  "summary": "少年は、如何にして“ルパン三世”となったのか？\r\n1967年に連載を開始した、モンキー・パンチの人気漫画『ルパン三世』。\r\nその後さまざまなメディアで、世界を股にかけて活躍してきた世紀の大泥棒にも、まだ青い「少年時代」があった……。\r\n\r\n『LUPIN ZERO』は、ベールに包まれた彼のビギニングをついに描き出す。\r\n原作でも描かれている「少年ルパン」編からヒントを得た、懐かしくも新しいオリジナルストーリー。\r\n制作スタジオは、多くの『ルパン三世』シリーズを手掛けるテレコム・アニメーションフィルム！\r\n\r\n半世紀以上、世界を魅了し続けるルパン三世。\r\nこれは、誰もが知っている大泥棒の、誰も知らない「はじまり」の物語。 ",
+  "date": "2022-12-16",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/03/55/405990_R99SD.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/03/55/405990_R99SD.jpg"
+  },
+  "eps": 6,
+  "rating": {
+    "rank": 5885,
+    "total": 142,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 10,
+      "5": 27,
+      "6": 52,
+      "7": 43,
+      "8": 7,
+      "9": 1,
+      "10": 1
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "WEB",
+      "count": 51,
+      "total_cont": 0
+    },
+    {
+      "name": "大河内一楼",
+      "count": 44,
+      "total_cont": 0
+    },
+    {
+      "name": "TelecomAnimationFilm",
+      "count": 43,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 39,
+      "total_cont": 0
+    },
+    {
+      "name": "2022",
+      "count": 38,
+      "total_cont": 0
+    },
+    {
+      "name": "2022年10月",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "鲁邦三世",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "酒向大輔",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "酒向大辅",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "TMS",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "畠中祐",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2022年12月",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2023年1月",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "犯罪",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2020-2029",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "武内駿輔",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "教主+左轮",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "undefined",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "大友良英",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "鲁邦零",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2023冬",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "时年新番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2022秋",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "宮本侑芽",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "405990"
+    },
+    {
+      "site": "mikan",
+      "id": "2880"
+    }
+  ]
+}

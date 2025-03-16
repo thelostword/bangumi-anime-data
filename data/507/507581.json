@@ -1,0 +1,243 @@
+{
+  "id": 507581,
+  "name": "戦隊レッド 異世界で冒険者になる",
+  "name_cn": "战队红战士在异世界当冒险者",
+  "summary": "企图征服世界的邪恶组织『秘密结社绝缘联盟』。有5名战士与野心对抗，他们是用羁绊连接起来的。那个英雄的名字，『绊创战队羁绊五人组』！！\r\n羁绊五人组的5人，终于到与绝缘联盟的最终决战。在壮烈的战斗中受伤的伙伴们。背负其他4人的意志，『羁绊红』只身挑战『绝缘王』。\r\n虽然被认为是失去了生命，但回过神来却发现那里是“未知的世界”！为了拯救在异世界也有困难的人们，鲜红的英雄成为冒险者，今天也要战斗！\r\n『异世界×战队英雄』、羁绊的最强英雄谭！！",
+  "date": "2025-01-12",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/73/c6/507581_Z4sLp.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/73/c6/507581_Z4sLp.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 4230,
+    "total": 857,
+    "count": {
+      "1": 3,
+      "2": 8,
+      "3": 3,
+      "4": 16,
+      "5": 55,
+      "6": 242,
+      "7": 416,
+      "8": 92,
+      "9": 8,
+      "10": 14
+    },
+    "score": 6.6
+  },
+  "tags": [
+    {
+      "name": "异世界",
+      "count": 478,
+      "total_cont": 0
+    },
+    {
+      "name": "特摄",
+      "count": 432,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年1月",
+      "count": 362,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 307,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 304,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 299,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 221,
+      "total_cont": 0
+    },
+    {
+      "name": "Satelight",
+      "count": 189,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 146,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 143,
+      "total_cont": 0
+    },
+    {
+      "name": "战队",
+      "count": 126,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 114,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 99,
+      "total_cont": 0
+    },
+    {
+      "name": "川口敬一郎",
+      "count": 47,
+      "total_cont": 0
+    },
+    {
+      "name": "田中美海",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "穿越",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "2025冬",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "冒险",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "稲垣好",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "富冈淳广",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "战队红战士在异世界当冒险者",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "井藤智哉",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "萝卜",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "冨岡淳広",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "サテライト",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "507581"
+    },
+    {
+      "site": "nicovideo",
+      "id": "isekai-red",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "abema",
+      "id": "25-280",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "677aa0892f6756712facfc48"
+    },
+    {
+      "site": "unext",
+      "id": "SID0163340",
+      "begin": "2025-01-17T15:00:00.000Z",
+      "broadcast": "R/2025-01-17T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "24025020",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "danime",
+      "id": "27623",
+      "begin": "2025-01-12T15:00:00.000Z",
+      "broadcast": "R/2025-01-12T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "crunchyroll",
+      "id": "G8DHV788M",
+      "begin": "2025-01-12T14:30:00.000Z",
+      "broadcast": "R/2025-01-12T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3550"
+    },
+    {
+      "site": "prime",
+      "id": "B0DT35VXPM",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "紅 異世界"
+    }
+  ]
+}

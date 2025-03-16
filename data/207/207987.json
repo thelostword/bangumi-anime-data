@@ -1,0 +1,135 @@
+{
+  "id": 207987,
+  "name": "姿三四郎",
+  "name_cn": "姿三四郎",
+  "summary": "「血と汗と涙で生み出した必殺技“山嵐”、伝説の柔道家・姿三四郎見参！！」富田常雄の原作をモンキー・パンチ＋友永和秀のキャラクターでアニメ化した痛快青春活劇がDVDで登場！世界の黒澤によって実写映画にもなった富田常雄が戦時中に書いた原作を、新鋭のアニメ・スタッフで描いた痛快青春活劇。キャラデザインは「坊っちゃん」に続いてモンキー・パンチ。作監には「カリオストロの城」のカーアクションで定評を得た友永和秀。原画にも作監クラスが集結し、あの「コナン」「カリオストロの城」の大御所・大塚康生も参加!",
+  "date": "1981-06-08",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/8f/29/207987_BiIfK.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/8f/29/207987_BiIfK.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 3,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 2,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.7
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "赛璐珞",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "MonkeyPunch",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "西城秀樹",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "三家本泰美",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "大原清秀",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "神波史男",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "野沢那智",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVSP",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "トムス・エンタテインメント",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "80s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1981",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "东京电影新社",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "207987"
+    },
+    {
+      "site": "danime",
+      "id": "23337",
+      "begin": "2020-03-13T01:00:00.000Z",
+      "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+    }
+  ]
+}

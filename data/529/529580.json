@@ -1,0 +1,62 @@
+{
+  "id": 529580,
+  "name": "ミニミニ minini",
+  "name_cn": "",
+  "summary": "mininiって？\r\n\r\nmininiは、LINE FRIENDSから始まった新しいキャラクターブランドです。 思わず守ってあげたくなるふわふわのちっちゃい体。 中身は好奇心いっぱいで、見た目に反して我が道を行く 図太い性格を併せ持った、 不思議な可愛さが魅力のキャラクターです。",
+  "date": "2025-01-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/9a/e4/529580_333Wq.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/9a/e4/529580_333Wq.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "TVA-04",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "529580"
+    },
+    {
+      "site": "danime",
+      "id": "27667",
+      "begin": "2025-01-24T22:30:00.000Z",
+      "broadcast": "R/2025-01-24T22:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0166286",
+      "begin": "2025-01-24T22:30:00.000Z",
+      "broadcast": "R/2025-01-24T22:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "204-13",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

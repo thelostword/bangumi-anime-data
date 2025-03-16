@@ -1,0 +1,55 @@
+{
+  "id": 316629,
+  "name": "バッドばつ丸のオオカミが来た!",
+  "name_cn": "酷企鹅 狼来了",
+  "summary": "",
+  "date": "2001-07-20",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c0/f7/316629_5xkY0.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c0/f7/316629_5xkY0.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "316629"
+    },
+    {
+      "site": "danime",
+      "id": "25520",
+      "begin": "2023-01-20T01:00:00.000Z",
+      "broadcast": "R/2023-01-20T01:00:00.000Z/P7D"
+    }
+  ]
+}

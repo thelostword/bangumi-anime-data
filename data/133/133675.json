@@ -1,0 +1,160 @@
+{
+  "id": 133675,
+  "name": "がぁーでぃあんHearts",
+  "name_cn": "守护之心",
+  "summary": "",
+  "date": "2003-05-23",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e0/ed/133675_A77uU.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e0/ed/133675_A77uU.jpg"
+  },
+  "eps": 6,
+  "rating": {
+    "rank": 0,
+    "total": 15,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 5,
+      "6": 6,
+      "7": 1,
+      "8": 2,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.9
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "2003",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "后宫",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "福利",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "Softgarage",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "独立ova",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "已下载",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "原画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2003-04",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "乳首",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "鶴野恭子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "さかもとたけし",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "田中かなた",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "VENET",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "RY",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "釘宮理恵",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "短篇",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "卖肉",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "櫻井孝宏",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "黒田やすひろ",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "133675"
+    },
+    {
+      "site": "danime",
+      "id": "10228",
+      "begin": "2013-08-02T01:00:00.000Z",
+      "broadcast": "R/2013-08-02T01:00:00.000Z/P7D"
+    }
+  ]
+}

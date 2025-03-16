@@ -1,0 +1,203 @@
+{
+  "id": 481649,
+  "name": "Übel Blatt～ユーベルブラット～",
+  "name_cn": "魔域英雄传说",
+  "summary": "最凶のダークファンタジー、ついにアニメ化！神託歴3968年、闇の異邦（ヴィシュテヒ）の侵略を封じるため、皇帝は14人の若者たちに使命と聖なる槍を与えて送り出した。3人は旅の途中で命を失い、4人は敵に寝返り皇帝を裏切ったとされ討たれた。だが、それは栄誉を我が物にしようとした7人の仲間の裏切り行為であった。帝都に凱旋した彼らは“七英雄”と称され、帝国の民の尊敬を集め栄華の座に上りつめたが、一方で、武勲を奪われ“裏切りの槍”の汚名を着せられた一人の剣士・アシェリートが、妖精の血肉を食らい生き延びていた。容姿を少年に、名をケインツェルに変え、20年の時を経て、七英雄への復讐の旅が今はじまる──！",
+  "date": "2025-01-10",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ab/e8/481649_rMVIg.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ab/e8/481649_rMVIg.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 8401,
+    "total": 184,
+    "count": {
+      "1": 5,
+      "2": 3,
+      "3": 12,
+      "4": 46,
+      "5": 52,
+      "6": 37,
+      "7": 18,
+      "8": 2,
+      "9": 2,
+      "10": 7
+    },
+    "score": 5.1
+  },
+  "tags": [
+    {
+      "name": "2025年1月",
+      "count": 113,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 90,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 74,
+      "total_cont": 0
+    },
+    {
+      "name": "Satelight",
+      "count": 66,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 59,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 48,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 34,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 33,
+      "total_cont": 0
+    },
+    {
+      "name": "StapleEntertainment",
+      "count": 30,
+      "total_cont": 0
+    },
+    {
+      "name": "异世界",
+      "count": 29,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "复仇",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "広瀬裕也",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "魔域英雄传说",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "直谷たかし",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "惨遭动画化",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "立花日菜",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2025冬",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "ステイプルエンタテインメント",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2025.01",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "衛星社",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "傻逼番，次次都放跑人，次次都在解释，能杀又不杀，把观众当傻子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "直谷隆",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "髙橋龍也",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "特定人群向",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "A级",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "不建议观看",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "481649"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "677aa0972f6756712facfc8a"
+    },
+    {
+      "site": "prime",
+      "id": "B0DSJQW1DW",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3532"
+    }
+  ]
+}

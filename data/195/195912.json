@@ -1,0 +1,86 @@
+{
+  "id": 195912,
+  "name": "ソニック・ザ・ヘッジホッグ",
+  "name_cn": "索尼克 OVA",
+  "summary": "メガドライブで大ヒットしたハイスピード・アクションゲーム『ソニック★ザ★ヘッジホッグ』のキャラクター達を使ったOVA。\r\nエッグマンランドの動力炉が暴走を始めた。時間内に止めないと、大爆発を起こして惑星フリーダムが粉々になってしまうという。それを聞いたソニックは、ティルズとナックルズを連れて、無数の罠とロボット軍団が待ち受けるエッグマンランドへ猛ダッシュ！ ",
+  "date": "1996-05-31",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/4e/0b/195912_879eA.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/4e/0b/195912_879eA.jpg"
+  },
+  "eps": 2,
+  "rating": {
+    "rank": 0,
+    "total": 6,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 1,
+      "7": 1,
+      "8": 1,
+      "9": 1,
+      "10": 1
+    },
+    "score": 7.5
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "小丑社",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "池上和誉",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "1996",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "StudioPierrot",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "195912"
+    },
+    {
+      "site": "danime",
+      "id": "11107",
+      "begin": "2014-02-07T01:00:00.000Z",
+      "broadcast": "R/2014-02-07T01:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "28338020",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "id": 447954,
+  "name": "UniteUp! -Uni:Birth-",
+  "name_cn": "众星齐聚 -Uni:Birth-",
+  "summary": "「俺が、アイドル…？」\r\n歌が大好きな高校生・清瀬明良。\r\n彼の歌は歌い手“KIKUNOYU”として動画配信サイトに公開されていた。\r\nある日、その歌声を聴いた芸能事務所“sMiLeaプロダクション”にスカウトされる。\r\nそこは、突如引退した伝説のアイドル“Anela”がアイドル育成のために立ち上げた事務所だった。\r\n同じくスカウトされた直江万里、五十鈴川千紘とともにグループを結成することになった明良。\r\n歌い手出身の3人は、同じ事務所の所属アイドル\r\n“LEGIT”、“JAXX/JAXX”に刺激を受けながら、\r\n\r\nそれぞれの想いを胸にアイドルデビューを目指す──。",
+  "date": "2025-01-11",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e3/0f/447954_6OEu7.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e3/0f/447954_6OEu7.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 0,
+    "total": 19,
+    "count": {
+      "1": 3,
+      "2": 0,
+      "3": 1,
+      "4": 2,
+      "5": 4,
+      "6": 1,
+      "7": 3,
+      "8": 2,
+      "9": 1,
+      "10": 2
+    },
+    "score": 5.6
+  },
+  "tags": [
+    {
+      "name": "CloverWorks",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年1月",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "偶像",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "牛嶋新一郎",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "音乐",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "企划",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2025冬",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "戸谷菊之介",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2020-2029",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "表",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "斉藤壮馬",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "牛岛新一郎",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "山崎莉乃",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "447954"
+    },
+    {
+      "site": "nicovideo",
+      "id": "uniteup2",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0163348",
+      "begin": "2025-01-11T15:00:00.000Z",
+      "broadcast": "R/2025-01-11T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "26-191",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "677aa0982f6756712facfc92"
+    },
+    {
+      "site": "muse_tw",
+      "id": "PL12UaAf_xzfrrYxYr-n1f98iIkr_BDSPt",
+      "begin": "2025-01-11T16:00:06.000Z",
+      "broadcast": "R/2025-01-11T16:00:06.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "134516",
+      "begin": "2025-01-11T16:00:00.000Z",
+      "broadcast": "R/2025-01-11T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "27462",
+      "begin": "2025-01-11T15:00:00.000Z",
+      "broadcast": "R/2025-01-11T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "134516",
+      "begin": "2025-01-11T16:00:00.000Z",
+      "broadcast": "R/2025-01-11T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3555"
+    },
+    {
+      "site": "prime",
+      "id": "B0DSBX73MH",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7Uch-bSTh3IEfboHQ8f1vsH_a",
+      "begin": "2025-01-18T16:00:06.000Z",
+      "broadcast": "R/2025-01-18T16:00:06.000Z/P7D"
+    }
+  ]
+}

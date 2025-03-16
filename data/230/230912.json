@@ -1,0 +1,175 @@
+{
+  "id": 230912,
+  "name": "いたずら魔女と眠らない街",
+  "name_cn": "恶作剧魔女与不夜城",
+  "summary": "「无论发生什么事，我都与阿果同在！」\r\n\r\n即将迎来圣诞节的纽约。\r\n主人公木户明梨带着心爱的泰迪熊回到久别了15年的故乡。\r\n因父亲所属的纽约市警察局的研修项目而调职前来的明梨，某日，与名为莉芭蒂的魔女不期而遇。\r\n在莉芭蒂的魔法影响下，街区陷入一片混乱之中。危机当头的明梨幸得带有和父亲相同口吻的女子——阿果伸手相助！\r\n阿果究竟是谁？莉芭蒂目的何在？明梨是否能够保全圣诞节呢？\r\n",
+  "date": "2017-12-01",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/55/f3/230912_9rGc4.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/55/f3/230912_9rGc4.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 46,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 1,
+      "5": 9,
+      "6": 14,
+      "7": 17,
+      "8": 2,
+      "9": 1,
+      "10": 1
+    },
+    "score": 6.3
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "2017",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "小松田大全",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "恶作剧魔女与不眠之街",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "サンジゲン",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "喜多村英梨",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "三次元",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2017年Web·SP",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2017年10月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2017年12月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "优先级c",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "独立OVA、OAD、特番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "178没",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "独立ova",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "野中藍",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "潘めぐみ",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "收藏",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "加藤陽一",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "230912"
+    },
+    {
+      "site": "crunchyroll",
+      "id": "G6Q4NJKGR",
+      "begin": "2017-12-01T10:00:00.000Z",
+      "broadcast": "R/2017-12-01T10:00:00.000Z/P7D"
+    }
+  ]
+}

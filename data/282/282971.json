@@ -1,0 +1,193 @@
+{
+  "id": 282971,
+  "name": "プロメア 前日譚",
+  "name_cn": "普罗米亚 前日谭",
+  "summary": "　　来自剧场动画「プロメア」入场特典。\r\n\r\n　　第一弹（5月23日）：记有序列码的人物卡片，卡绘共8种（ガロ、リオ、クレイ、アイナ、レミー、ルチア、イグニス、バリス）随机赠送，登录卡片上记载的网址并输入序列码可观看完全新作动画「ガロ編」，内容为全新制作的前日谭。\r\n\r\n　　第二弹（6月7日）：记有序列码的人物卡片，卡绘共9种（ビニー、ゲーラ、メイス、エリス、ビアル、ヴァルカン、ガロ②、リオ②、クレイ②）随机赠送，登录卡片上记载的网址并输入序列码可观看完全新作动画「リオ編」，内容为全新制作的的リオ与ゲーラ、メイス相遇的故事。",
+  "date": "2019-05-23",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/cb/b0/282971_kB9iN.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/cb/b0/282971_kB9iN.jpg"
+  },
+  "eps": 2,
+  "rating": {
+    "rank": 4747,
+    "total": 573,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 4,
+      "4": 6,
+      "5": 49,
+      "6": 228,
+      "7": 227,
+      "8": 40,
+      "9": 10,
+      "10": 9
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "TRIGGER",
+      "count": 226,
+      "total_cont": 0
+    },
+    {
+      "name": "2019",
+      "count": 154,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 149,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 147,
+      "total_cont": 0
+    },
+    {
+      "name": "今石洋之",
+      "count": 145,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 121,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 94,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 69,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 49,
+      "total_cont": 0
+    },
+    {
+      "name": "短篇",
+      "count": 45,
+      "total_cont": 0
+    },
+    {
+      "name": "中島かずき",
+      "count": 29,
+      "total_cont": 0
+    },
+    {
+      "name": "Promare",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "2019年5月",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "2019年",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "机战",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "作画",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "萝卜",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "SP",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "澤野弘之",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "コヤマシゲト",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "早乙女太一",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "泽野弘之",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "特典",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "5分",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2010s",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "282971"
+    },
+    {
+      "site": "mikan",
+      "id": "2089"
+    }
+  ]
+}

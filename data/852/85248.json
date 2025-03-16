@@ -1,0 +1,60 @@
+{
+  "id": 85248,
+  "name": "ハローキティ りんごの森のミステリー",
+  "name_cn": "",
+  "summary": "",
+  "date": "2007-01-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c1/de/85248_89K86.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c1/de/85248_89K86.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 4
+  },
+  "tags": [
+    {
+      "name": "空",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "85248"
+    },
+    {
+      "site": "danime",
+      "id": "25545",
+      "begin": "2023-01-13T01:00:00.000Z",
+      "broadcast": "R/2023-01-13T01:00:00.000Z/P7D"
+    }
+  ]
+}

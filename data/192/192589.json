@@ -1,0 +1,148 @@
+{
+  "id": 192589,
+  "name": "DAYS OAD",
+  "name_cn": "",
+  "summary": "第21卷单行本 DVD付き限定版。\r\n第22卷单行本 DVD付き限定版。",
+  "date": "2017-03-17",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/10/e0/192589_ozfP8.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/10/e0/192589_ozfP8.jpg"
+  },
+  "eps": 2,
+  "rating": {
+    "rank": 0,
+    "total": 21,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 2,
+      "5": 4,
+      "6": 11,
+      "7": 3,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.6
+  },
+  "tags": [
+    {
+      "name": "OAD",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "MAPPA",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "2017",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2017年3月",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "Days",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "吉永拓斗",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "松冈祯丞",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "足球",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "运动",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "竞技",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2017年OVA·OAD",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "池赖广",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "松岡禎丞",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "宇田钢之介",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "宇田鋼之介",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA·OAD",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "192589"
+    },
+    {
+      "site": "mikan",
+      "id": "1392"
+    }
+  ]
+}

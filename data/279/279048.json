@@ -1,0 +1,197 @@
+{
+  "id": 279048,
+  "name": "荒野のコトブキ飛行隊 外伝 大空のハルカゼ飛行隊",
+  "name_cn": "荒野的寿飞行队 外传 天空的春风飞行队",
+  "summary": "2019年3月下旬に行われたAnimeJapan2019で、ショートアニメの外伝作品「大空のハルカゼ飛行隊」が発表された。同年4月に『荒野のコトブキ飛行隊 大空のテイクオフガールズ！』内およびYoutubeでの公開を予定し、4月10日に第一話が配信され、第二話は4月末配信予定で、その後は基本月末配信となる予定。",
+  "date": "2019-04-10",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ed/6c/279048_7zUJZ.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ed/6c/279048_7zUJZ.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 4912,
+    "total": 237,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 2,
+      "4": 4,
+      "5": 24,
+      "6": 90,
+      "7": 96,
+      "8": 19,
+      "9": 1,
+      "10": 1
+    },
+    "score": 6.4
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 76,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 54,
+      "total_cont": 0
+    },
+    {
+      "name": "2019年4月",
+      "count": 50,
+      "total_cont": 0
+    },
+    {
+      "name": "外传",
+      "count": 41,
+      "total_cont": 0
+    },
+    {
+      "name": "GEMBA",
+      "count": 34,
+      "total_cont": 0
+    },
+    {
+      "name": "2019",
+      "count": 31,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 28,
+      "total_cont": 0
+    },
+    {
+      "name": "荒野的寿飞行队",
+      "count": 24,
+      "total_cont": 0
+    },
+    {
+      "name": "大空的春风飞行队",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "空战",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "横手美智子",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "佐藤诚",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "3D",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2019年",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "白石晴香",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "黒沢ともよ",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "黑泽朋世",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "七濑彩夏",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "高野麻里佳",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "石见舞菜香",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "本渡枫",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "水岛努",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "279048"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5d1df7da306f1a0007b50850"
+    },
+    {
+      "site": "mikan",
+      "id": "2005"
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "id": 122772,
+  "name": "シックスハートプリンセス",
+  "name_cn": "六心公主",
+  "summary": "村上隆担当企划、原案、导演的动画。从2015年1月到2016年作为电视动画公布于众。2016年12月30日播出，其中一半的时间作为道歉影像混合广播预告播出。\r\n\r\n「6HP」という物語、とは何か？\r\n戦後の日本の文化に芽生えた、魔女モノの番組は、アメリカの実写コメディ番組、「奥様は魔女」あたりに端を発する。\r\nそのムードを模倣しつつも、どこか貧しさの陰影がつきまとう形で、女性主人公の魔女モノのアニメは誕生し、それらは絶大な人気を博し、時代を超えて日本アニメの大きなジャンルになっている。\r\nアーティスト村上隆の求めるテーマはデヴュー以降一貫して＜戦後の日本の文化の奇怪な姿＞の描写である。\r\nアメリカからの輸入文化であったはずの魔女モノのアニメの日本での発展育成を批評的に眺め、その中でお話に落とし所がつけられるのか否か。\r\nそういう挑戦が、この作品の中心にある。",
+  "date": "2016-12-30",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/95/69/122772_9HJAb.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/95/69/122772_9HJAb.jpg"
+  },
+  "eps": 15,
+  "rating": {
+    "rank": 7238,
+    "total": 72,
+    "count": {
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 12,
+      "5": 24,
+      "6": 21,
+      "7": 4,
+      "8": 2,
+      "9": 2,
+      "10": 1
+    },
+    "score": 5.3
+  },
+  "tags": [
+    {
+      "name": "2016",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "村上隆",
+      "count": 24,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "PONCOTAN",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "魔法少女",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "STUDIOPONCOTAN",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "岛津裕之",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "6HP",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "TVSP",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "萝莉",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "中川大地",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2016年12月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "池赖宏",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "17冬",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "片山慎三",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "懵逼",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Ⅰ类tv",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "原優子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "六心公主",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "稀有",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "华哥主役，码一哈",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "儿童色情",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2016年OVA·OAD",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV（集数1-49）",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "优先级c",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "122772"
+    },
+    {
+      "site": "mikan",
+      "id": "1214"
+    }
+  ]
+}

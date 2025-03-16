@@ -1,0 +1,85 @@
+{
+  "id": 147869,
+  "name": "黄金バット",
+  "name_cn": "黄金蝙蝠",
+  "summary": "強い。絶対に強い。我等が黄金バット\r\n\r\n科学者ヤマトネ博士と､その助手を勤める､息子のタケル、女の子マリー。彼らは､円盤型の飛行艇スーパーカーに乗り､地球破壊をたくらむ謎の怪人ナゾーの悪巧みに対抗します｡彼らが危機に陥った時、少女マリーが｢コウモリさん、コウモリさん･･･｣と祈ると、\r\n正義の味方、黄金バットはどこからともなく「ワハハハハハハ」という高笑いと共に現れ、彼らをピンチから救います。",
+  "date": "1967-04-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/71/ee/147869_KhZ3p.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/71/ee/147869_KhZ3p.jpg"
+  },
+  "eps": 52,
+  "rating": {
+    "rank": 0,
+    "total": 2,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 1,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.5
+  },
+  "tags": [
+    {
+      "name": "黄金骷髅侠",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "1967",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "第一动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "生肉",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "147869"
+    },
+    {
+      "site": "danime",
+      "id": "24030",
+      "begin": "2020-06-19T01:00:00.000Z",
+      "broadcast": "R/2020-06-19T01:00:00.000Z/P7D"
+    }
+  ]
+}

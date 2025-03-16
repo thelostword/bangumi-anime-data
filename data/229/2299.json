@@ -1,0 +1,195 @@
+{
+  "id": 2299,
+  "name": "水のコトバ",
+  "name_cn": "水之语",
+  "summary": "　　在一间小酒吧内，因和女友吵架而失落的男主角独自喝着苦咖啡，并不断的观察着周围的人群。与服务生四目相交后和她（它？）攀谈起来，客人们的说话声充满着这小小 的房间。与她对话并在其指引下独自一人穿越隐蔽的小门来到二层那个神秘的、治愈人的空间中……",
+  "date": "2002-10-26",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/40/b5/2299_UgmSs.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/40/b5/2299_UgmSs.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 3105,
+    "total": 580,
+    "count": {
+      "1": 0,
+      "2": 2,
+      "3": 2,
+      "4": 11,
+      "5": 38,
+      "6": 151,
+      "7": 225,
+      "8": 120,
+      "9": 21,
+      "10": 10
+    },
+    "score": 6.9
+  },
+  "tags": [
+    {
+      "name": "吉浦康裕",
+      "count": 224,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 221,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 140,
+      "total_cont": 0
+    },
+    {
+      "name": "2002",
+      "count": 133,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 79,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 63,
+      "total_cont": 0
+    },
+    {
+      "name": "六花",
+      "count": 52,
+      "total_cont": 0
+    },
+    {
+      "name": "镜头实验",
+      "count": 48,
+      "total_cont": 0
+    },
+    {
+      "name": "独立动画",
+      "count": 47,
+      "total_cont": 0
+    },
+    {
+      "name": "夏娃的时间前身",
+      "count": 33,
+      "total_cont": 0
+    },
+    {
+      "name": "スタジオ六花",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "内涵",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "不看人生不完整",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "六花工作室",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "SF",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "Studio六花",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "水之语",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "2000s",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2002年",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "萝卜",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "补番",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2000-2009",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "悬疑",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "独立ova",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "机器人",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "六星",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "动画短片",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "2299"
+    },
+    {
+      "site": "crunchyroll",
+      "id": "GRJ0HK77Z",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

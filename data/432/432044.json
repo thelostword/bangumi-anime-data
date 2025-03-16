@@ -1,0 +1,145 @@
+{
+  "id": 432044,
+  "name": "あんさんぶるスターズ！！追憶セレクション『クロスロード』",
+  "name_cn": "偶像梦幻祭 追忆Selection『Crossroad』",
+  "summary": "",
+  "date": "2023-11-10",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/fa/df/432044_u49tV.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/fa/df/432044_u49tV.jpg"
+  },
+  "eps": 6,
+  "rating": {
+    "rank": 0,
+    "total": 12,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 3,
+      "5": 2,
+      "6": 1,
+      "7": 4,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.6
+  },
+  "tags": [
+    {
+      "name": "游戏改",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "2023",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "女性向",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "ダンデライオン",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "増田俊樹",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "偶像",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "猪爪慎一",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "梅原裕一郎",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "小野友樹",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "乙女向",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "音乐",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "Dandelion",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2023秋",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2023年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "山崎理",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "432044"
+    },
+    {
+      "site": "danime",
+      "id": "26684",
+      "begin": "2023-12-09T15:00:00.000Z",
+      "broadcast": "R/2023-12-09T15:00:00.000Z/P7D"
+    }
+  ]
+}

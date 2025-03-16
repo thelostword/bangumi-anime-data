@@ -1,0 +1,193 @@
+{
+  "id": 292052,
+  "name": "ルシファー ウェディングゲーム",
+  "name_cn": "路西法 结婚游戏",
+  "summary": "天界の危機を救うため、新たに行動を起こすルシファー。\r\nそんななか、かつて倒されたはずの悪しき天聖ケテルがルシファーへの激しい憎悪を糧に復活する。\r\nだが、その激しい憎悪は、いつしか歪んだ愛へと変化していた......！\r\nケテルはルシファーと結ばれるための余興として、ウリエルら9人の大天使長のうち1人に入り込み、彼女たちの信頼関係をもてあそぶ「ケテルチャレンジ」を開始する。\r\n果たしてルシファーは、ケテルの暴走を止めることができるのか......!？",
+  "date": "2019-10-05",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/0c/c8/292052_PlPu8.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/0c/c8/292052_PlPu8.jpg"
+  },
+  "eps": 7,
+  "rating": {
+    "rank": 0,
+    "total": 30,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 5,
+      "6": 11,
+      "7": 8,
+      "8": 4,
+      "9": 0,
+      "10": 1
+    },
+    "score": 6.4
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "2019",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "3D",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "2019年10月",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "XFLAG",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "OAD",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "小松未可子",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "山口雄大",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日笠陽子",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "补番列表",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "怪物弹珠",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "朝井彩加",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "本田雅也",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "三渲二",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2019年Web·SP",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "DynamoPictures",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "手游改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "路西法",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "井口裕香",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "高木渉",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "子供向",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "堀江由衣",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "阿澄佳奈",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日高里菜",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "ILCA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "横山克",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "292052"
+    },
+    {
+      "site": "mikan",
+      "id": "2072"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": 189517,
+  "name": "旅するぬいぐるみ ～traveling “Daru”～",
+  "name_cn": "绒毛玩偶之旅",
+  "summary": "もう一度、キミに会いたいー\r\n羽田空港国際線ターミナル内にある世界初の空港プラネタリウム、「プラネタリウム スターリーカフェ」にて大好評上映中のドームシアターアニメ「旅するぬいぐるみ」を完全DVD化。 \r\n新海誠監督作品に携わるスタッフが集結し生み出した、心温まる短編アニメーション。\r\n\r\n少女のお気に入りのぬいぐるみ”ダル”。 \r\n空港で少女と離ればなれになってしまったダルは、少女を探して世界各国へと旅に出る。 \r\n時が過ぎるにつれ、次第にダルのことを忘れてしまう少女。 \r\n果たしてダルは、少女に再会することが出来るのか―",
+  "date": "2012-07-06",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/1c/6d/189517_hGcsG.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/1c/6d/189517_hGcsG.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 27,
+    "count": {
+      "1": 0,
+      "2": 1,
+      "3": 1,
+      "4": 0,
+      "5": 3,
+      "6": 6,
+      "7": 10,
+      "8": 5,
+      "9": 1,
+      "10": 0
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "2012",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "田澤潮",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "CoMixWave",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2010s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "CoMixWaveFilms",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "6(+1)",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "六星",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2012年七月番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2012年7月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Short",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2012年",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "189517"
+    },
+    {
+      "site": "crunchyroll",
+      "id": "GRMGE945R",
+      "begin": "2012-08-06T13:00:00.000Z",
+      "broadcast": "R/2012-08-06T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "10786",
+      "begin": "2013-04-05T01:00:00.000Z",
+      "broadcast": "R/2013-04-05T01:00:00.000Z/P7D"
+    }
+  ]
+}

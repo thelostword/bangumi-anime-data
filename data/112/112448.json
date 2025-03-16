@@ -1,0 +1,85 @@
+{
+  "id": 112448,
+  "name": "ガラクタ通りのステイン",
+  "name_cn": "阿渍的垃圾堆",
+  "summary": "　　生活在垃圾堆生活的阿渍（Mr. Stain）是一个流浪汉，在被丢满垃圾的后巷发现垃圾，会当做未发现的宝物。他们的生活片段古灵精怪、荒唐又充满笑料，但细心回味之下，就会发觉笑中有泪。导演的目的就是让观众在轻松之后来点反思，娱乐得来也有得益。 ",
+  "date": "2002-12-31",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/90/af/112448_4EXXk.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/90/af/112448_4EXXk.jpg"
+  },
+  "eps": 14,
+  "rating": {
+    "rank": 0,
+    "total": 2,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 2,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2002",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "増田龍治",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "Funimation",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "t",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "空",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "112448"
+    },
+    {
+      "site": "danime",
+      "id": "20002",
+      "begin": "2015-02-06T01:00:00.000Z",
+      "broadcast": "R/2015-02-06T01:00:00.000Z/P7D"
+    }
+  ]
+}

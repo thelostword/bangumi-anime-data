@@ -1,0 +1,120 @@
+{
+  "id": 77247,
+  "name": "ボスコアドベンチャー",
+  "name_cn": "梦幻世界",
+  "summary": "「命の水」を司る、妖精の国・フォンテーンランドのアプリコット姫は、悪の王・スコーピオンとその差し金であるフードマンによってさらわれてしまう。アプリコットを助けんとボスコの森に住むフローク、タッティ、オッターの3人はアプリコットを救出するも、アプリコットが次の金環食である「太陽の指輪」までに命の泉に戻って王位を継承しなければ、世界中の水が干上がってしまうことになる。行く手を阻むスコーピオンの魔の手をかいくぐり、3人はアプリコットを無事フォンテーンランドに送り届け、王位を継承させることができるのか？",
+  "date": "1986-10-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e4/e7/77247_jAPxd.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e4/e7/77247_jAPxd.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 0,
+    "total": 4,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 1,
+      "6": 2,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.3
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "草尾毅",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "1986",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "皆口裕子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "藤本信行",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "杉山卓",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "石丸博也",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本アニメーション",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "山寺宏一",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画公司",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "中原茂",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "77247"
+    },
+    {
+      "site": "danime",
+      "id": "23526",
+      "begin": "2020-04-24T01:00:00.000Z",
+      "broadcast": "R/2020-04-24T01:00:00.000Z/P7D"
+    }
+  ]
+}

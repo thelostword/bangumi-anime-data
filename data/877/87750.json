@@ -1,0 +1,150 @@
+{
+  "id": 87750,
+  "name": "ふしぎなメルモ",
+  "name_cn": "神奇糖",
+  "summary": "虫プロの社長を退陣した手塚治虫が、新たに興した手塚プロダクションで作られたTVシリーズ、性教育を単にセックスの話としてではなく生命の尊厳と神秘という大テーマとして取り上げています。大人になったり赤ちゃんになったりできる不思議なキャンディーを手にした少女メルモちゃんがさまざまな冒険を通して「女性」という「性」を学んで行きます。",
+  "date": "1971-10-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/43/ac/87750_w11m7.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/43/ac/87750_w11m7.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 0,
+    "total": 8,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 4,
+      "7": 2,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.9
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "1971",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "性教育",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "松島みのり",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "神奇糖",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "原画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "神奇的梅尔莫",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "赛璐珞",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "正延宏三",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "永樹凡人",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "武藤礼子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "70s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "手冢治虫",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "荒木伸吾",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "手塚PRODUCTION",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "手冢Production",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "87750"
+    },
+    {
+      "site": "danime",
+      "id": "10922",
+      "begin": "2013-08-02T01:00:00.000Z",
+      "broadcast": "R/2013-08-02T01:00:00.000Z/P7D"
+    }
+  ]
+}

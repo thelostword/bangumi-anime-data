@@ -1,0 +1,279 @@
+{
+  "id": 471578,
+  "name": "Dr.STONE SCIENCE FUTURE",
+  "name_cn": "石纪元 科学与未来",
+  "summary": "宝島での激戦を終え、無事に科学王国へと帰還した千空たち。手に入れた石化装置で、コールドスリープしていた司を復活させることに成功。司は科学王国の仲間となった！そして、人類石化の黒幕・ホワイマンの本拠地が“月”であることを突き止めた千空たちは、月を目指す！このストーンワールドで、ゼロから宇宙船を作るビッグプロジェクトへと乗り出した。早速、世界中から宇宙船の素材を集める為、ペルセウス号で大海原へと飛び出した千空たち。復活液の原料となる大量のコーンを求め、最初の目的地・アメリカ大陸を目指す。勇気、結束、科学力、全てが試される大航海の先に、千空たちを揺るがす脅威が待ち構えていた──!!遂に、千空たちの冒険は世界、そして宇宙へ向けて動き出す！人類の未来を救う為、千空は仲間と共に全力で科学の道を切り拓いていく!!",
+  "date": "2025-01-09",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/9f/d7/471578_wzPi0.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/9f/d7/471578_wzPi0.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 1542,
+    "total": 532,
+    "count": {
+      "1": 2,
+      "2": 1,
+      "3": 0,
+      "4": 2,
+      "5": 12,
+      "6": 61,
+      "7": 262,
+      "8": 146,
+      "9": 28,
+      "10": 18
+    },
+    "score": 7.3
+  },
+  "tags": [
+    {
+      "name": "2025年1月",
+      "count": 259,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 186,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 168,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 157,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 120,
+      "total_cont": 0
+    },
+    {
+      "name": "新石纪",
+      "count": 114,
+      "total_cont": 0
+    },
+    {
+      "name": "TMS",
+      "count": 112,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 89,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 78,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 76,
+      "total_cont": 0
+    },
+    {
+      "name": "JUMP",
+      "count": 67,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 48,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 45,
+      "total_cont": 0
+    },
+    {
+      "name": "Dr.Stone",
+      "count": 37,
+      "total_cont": 0
+    },
+    {
+      "name": "冒险",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "松下周平",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "石纪元",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "科普",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "トムス・エンタテインメント",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "TMSEntertainment",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "1月",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "科学",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "星期四",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "小林裕介",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "砂山藏澄",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "智斗",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "471578"
+    },
+    {
+      "site": "unext",
+      "id": "SID0163360",
+      "begin": "2025-01-09T13:30:00.000Z",
+      "broadcast": "R/2025-01-09T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "677aa0922f6756712facfc72"
+    },
+    {
+      "site": "nicovideo",
+      "id": "dr-stone_4",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3551"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtRH5DnE3OZ6Ov-_SNn73dOQ",
+      "begin": "2025-01-03T09:10:36.000Z",
+      "broadcast": "R/2025-01-03T09:10:36.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jj4AHW3_HqDp39-puRHVfNA",
+      "begin": "2024-12-30T08:59:54.000Z",
+      "broadcast": "R/2024-12-30T08:59:54.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "27619",
+      "begin": "2025-01-09T13:30:00.000Z",
+      "broadcast": "R/2025-01-09T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81046193",
+      "begin": "2023-04-05T16:00:00.000Z",
+      "broadcast": "R/2023-04-05T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "19-34",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "crunchyroll",
+      "id": "GYEXQKJG6",
+      "begin": "2019-07-05T13:00:00.000Z",
+      "broadcast": "R/2019-07-05T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "2icwhag0ihkG",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "137041",
+      "begin": "2025-01-09T14:00:00.000Z",
+      "broadcast": "R/2025-01-09T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "137041",
+      "begin": "2025-01-09T14:00:00.000Z",
+      "broadcast": "R/2025-01-09T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0D8GJKXHJ",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "24449643",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "Dr STONE 4季|四季"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": 407237,
+  "name": "シルバニア村のたからもの",
+  "name_cn": "",
+  "summary": "もうすぐフェスティバル開催の日。\r\n「シルバニア村でいちばんすてきなもの」を探すコンテストが行われることに。\r\nショコラウサギちゃんはすてきなものを見つけることができるのでしょうか？",
+  "date": "2016-12-16",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e6/ce/407237_so5Wj.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e6/ce/407237_so5Wj.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 1,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "WEB",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "子供向",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "407237"
+    },
+    {
+      "site": "danime",
+      "id": "25755",
+      "begin": "2022-09-21T01:00:00.000Z",
+      "broadcast": "R/2022-09-21T01:00:00.000Z/P7D"
+    }
+  ]
+}

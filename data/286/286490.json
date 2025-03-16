@@ -1,0 +1,118 @@
+{
+  "id": 286490,
+  "name": "ノア 方舟の救世主",
+  "name_cn": "诺亚 方舟救世主",
+  "summary": "機械生命体の襲来によって文明が崩壊、砂漠とゴーストタウンだけが残る星。\r\n少年・ノアはわずかに残存する動物たちを助けるという夢を叶えるために、\r\n体を機械化し、過酷な環境下で1人生き残り、方舟を作っていた。\r\nそこに別世界から現れた方舟を狙う天聖・ケセド。ノアに取り入り方舟を奪うチャンスを探すが、\r\nノアの真っ直ぐさや優しさに触れる中で、目的と友情の間で揺れるようになっていく。\r\n機械生命体の正体とは－ーー？ケセドの決断はーーー？そしてノアの夢は叶うのかーーー？",
+  "date": "2019-07-27",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/b9/5f/286490_A5ob9.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/b9/5f/286490_A5ob9.jpg"
+  },
+  "eps": 6,
+  "rating": {
+    "rank": 0,
+    "total": 19,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 6,
+      "6": 2,
+      "7": 6,
+      "8": 4,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.3
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "2019",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "3D",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "辻本貴則",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "三渲二",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2019年Web·SP",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "番剧",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "废土",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "子供向",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "想看",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "手游改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "怪物弹珠",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "286490"
+    },
+    {
+      "site": "mikan",
+      "id": "2012"
+    }
+  ]
+}

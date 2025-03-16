@@ -1,0 +1,195 @@
+{
+  "id": 390859,
+  "name": "ぷれぷれぷれあです4",
+  "name_cn": "Play Play 昴宿星团 4",
+  "summary": "アインズ・ウール・ゴウン魔導国の未来について考えていたアインズは、副料理長にある命令を下す。それは「プレアデスに接客業を学ばせる」という事。戦闘メイドプレアデス達は、無事このミッションをクリアできるのか？",
+  "date": "2022-07-05",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/27/db/390859_8rE03.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/27/db/390859_8rE03.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 6092,
+    "total": 211,
+    "count": {
+      "1": 0,
+      "2": 1,
+      "3": 3,
+      "4": 4,
+      "5": 42,
+      "6": 97,
+      "7": 48,
+      "8": 11,
+      "9": 1,
+      "10": 4
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 69,
+      "total_cont": 0
+    },
+    {
+      "name": "2022年7月",
+      "count": 42,
+      "total_cont": 0
+    },
+    {
+      "name": "OVERLORD",
+      "count": 38,
+      "total_cont": 0
+    },
+    {
+      "name": "SP",
+      "count": 35,
+      "total_cont": 0
+    },
+    {
+      "name": "2022",
+      "count": 33,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 31,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 30,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 28,
+      "total_cont": 0
+    },
+    {
+      "name": "STUDIOPUYUKAI",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "番外",
+      "count": 22,
+      "total_cont": 0
+    },
+    {
+      "name": "轻改",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "异世界",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "骨傲天",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "轻小说改",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "芦名みのる",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "スタジオぷYUKAI",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "穿越",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "OO",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVSP",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "表番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2022年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2024补",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2022夏",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "已保存",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "390859"
+    },
+    {
+      "site": "danime",
+      "id": "25715",
+      "begin": "2022-08-16T15:00:00.000Z",
+      "broadcast": "R/2022-08-16T15:00:00.000Z/P7D"
+    }
+  ]
+}

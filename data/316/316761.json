@@ -1,0 +1,60 @@
+{
+  "id": 316761,
+  "name": "ハローキティのくるみ割り人形",
+  "name_cn": "",
+  "summary": "",
+  "date": "2001-10-26",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/82/a1/316761_Dgo8A.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/82/a1/316761_Dgo8A.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 2,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 2,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "优秀子供向",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "316761"
+    },
+    {
+      "site": "danime",
+      "id": "25527",
+      "begin": "2023-01-20T01:00:00.000Z",
+      "broadcast": "R/2023-01-20T01:00:00.000Z/P7D"
+    }
+  ]
+}

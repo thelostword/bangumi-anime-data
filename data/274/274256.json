@@ -1,0 +1,193 @@
+{
+  "id": 274256,
+  "name": "ナツオ整備班長の戦闘機講座",
+  "name_cn": "夏生整备班长的战斗机讲座",
+  "summary": "公式Web番組「コトブキ通信」が2019年1月16日（水）より毎週水曜午前11時に配信開始いたします！\r\n『荒野のコトブキ飛行隊』本編の振り返りや作品にまつわるこぼれ話などのトークの他、第2回配信からは、本編に登場した戦闘機について整備班長のナツオが楽しく（？）教えてくれる番組内コーナー「ナツオ整備班長の戦闘機講座」（出演者：ナツオ役・大久保瑠美、キリエ役・鈴代紗弓、チカ役・富田美憂）など、盛りだくさんのトーク＆情報番組です！",
+  "date": "2019-01-23",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/a3/6d/274256_yb4Tt.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/a3/6d/274256_yb4Tt.jpg"
+  },
+  "eps": 25,
+  "rating": {
+    "rank": 0,
+    "total": 50,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 5,
+      "5": 16,
+      "6": 18,
+      "7": 8,
+      "8": 2,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.7
+  },
+  "tags": [
+    {
+      "name": "WEB",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "2019",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "军事",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "科普",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "小剧场",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "_3分",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "a.Anime",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "d.短片",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "桧垣亮",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2019年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "j.值得且只值得看一遍(3星)",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2019年Web·SP",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "荒野的寿飞行队",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "二〇一九年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "网络动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "f.日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "特典",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "空战",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "番外",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "5",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "大久保瑠美",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "檜垣亮",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "SP",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "274256"
+    },
+    {
+      "site": "mikan",
+      "id": "2006"
+    }
+  ]
+}

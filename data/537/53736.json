@@ -1,0 +1,141 @@
+{
+  "id": 53736,
+  "name": "まじかる☆タルるートくん",
+  "name_cn": "小魔星",
+  "summary": "     原子は政界の黒幕の息子とされ、必殺技も「ローリングサンダーパンチスペシャル」に変更されている。本編中で述べた肩書きのひとつ「アトミックマンコンテスト優勝」はそのままアニメでも使用された。\r\n\r\n基本的に原作をもとにしているが、岸一家や無気一家は登場しないため、彼らにまつわる話はすべてカットされている。 原作で有名なタルるートが女性キャラの胸を吸う描写は大綾先生（一部描写が異なる）とタルるートのママのみ再現された。\r\n\r\nABC制作日曜8:30枠アニメの単一作品としては最多話数・最長放送期間を誇っている（シリーズ作品では現在放映中の『プリキュアシリーズ』が最長）。また、平均視聴率も同枠では最高である。\r\n\r\n本作から『明日のナージャ』まで約14年にわたって東映動画（現・東映アニメーション）の関弘美がプロデューサーを務める。",
+  "date": "1990-09-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/f8/62/53736_IErs0.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/f8/62/53736_IErs0.jpg"
+  },
+  "eps": 87,
+  "rating": {
+    "rank": 0,
+    "total": 7,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 4,
+      "7": 1,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.3
+  },
+  "tags": [
+    {
+      "name": "1990",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "东映动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "東映アニメーション",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "童年",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "山内重保",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "菅良幸",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "赛璐珞",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "优秀子供向",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "90s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "经典",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "东映",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "53736"
+    },
+    {
+      "site": "unext",
+      "id": "SID0016948",
+      "begin": "2022-10-18T03:00:00.000Z",
+      "broadcast": "R/2022-10-18T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "24814",
+      "begin": "2021-06-25T01:00:00.000Z",
+      "broadcast": "R/2021-06-25T01:00:00.000Z/P7D"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": 484835,
+  "name": "Gabby's Dollhouse",
+  "name_cn": "盖比的娃娃屋",
+  "summary": "With a little magic and a new surprise every day, Gabby's Dollhouse is filled with mini-worlds, irresistible kitty characters, and super fun adventures! Join Gabby as she unboxes a brand new surprise every episode, shares her excitement with her best stuffed animal pal, Pandy Paws, and takes everyone on the next great adventure.",
+  "date": "2021-01-05",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e4/21/484835_640Nw.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e4/21/484835_640Nw.jpg"
+  },
+  "eps": 10,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "WEB",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "484835"
+    },
+    {
+      "site": "bilibili",
+      "id": "23033385",
+      "begin": "",
+      "broadcast": "",
+      "comment": "中文配音: 23033523"
+    }
+  ]
+}

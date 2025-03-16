@@ -1,0 +1,65 @@
+{
+  "id": 402220,
+  "name": "ハルのふえ",
+  "name_cn": "春之笛",
+  "summary": "The story follows a racoon-like tanuki creature named Hal who find an abandoned human baby. Hal names the baby Pal and decides to transform into a human mother to raise him.\r\n",
+  "date": "2011-10-28",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/98/e2/402220_CcV8V.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/98/e2/402220_CcV8V.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 4,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 2,
+      "6": 1,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.8
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2011年10月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "空",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "治愈",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "402220"
+    },
+    {
+      "site": "danime",
+      "id": "23346",
+      "begin": "2020-03-13T01:00:00.000Z",
+      "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+    }
+  ]
+}

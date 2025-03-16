@@ -1,0 +1,99 @@
+{
+  "id": 476412,
+  "name": "クマーバ",
+  "name_cn": "",
+  "summary": "「インターネットの世界にレッツゴー！」\r\nクマーバは相棒のタブリスと一緒に今日も楽しく動画を観ている。\r\nそんなある日、突然インターネットの世界にいるお友達からSOSが届く。\r\n「たくさんのウイルスがやってきた！クマーバ助けて！」\r\nお友達のピンチを救うため、２人はネットの世界に飛び込んだ！\r\n\r\nたどりついたのはインターネットの裏側。\r\nそこではウイルスが人格を持った悪魔・バグリンが攻撃し\r\nインターネットの世界がパニックに！\r\n果たしてクマーバはバグリンに立ち向かい、\r\n世界を平和にすることができるのか？\r\nワクワク・ドキドキのアクションコメディをお届けします。",
+  "date": "2024-04-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/96/c9/476412_74Kaj.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/96/c9/476412_74Kaj.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 0,
+    "total": 3,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 2,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 6.7
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "クリエイティブハウスポケット",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "樋渡昇一郎",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "CreativeHousePocket",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2024春",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年4月",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "476412"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66097bc716e6bbcc806d344c"
+    },
+    {
+      "site": "danime",
+      "id": "27126",
+      "begin": "2024-05-03T22:30:00.000Z",
+      "broadcast": "R/2024-05-03T22:30:00.000Z/P7D"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "id": 4024,
+  "name": "コレクター・ユイ 第二期",
+  "name_cn": "网络安琪儿 第二期",
+  "summary": "古罗沙被初期化后，以为回复和平的网络世界突然受到名为巴古病毒的入侵。中学生春日结再次被安排进入网络世界变身成守护星阿结；另外不知道从何处来名为 “守护星阿爱”的人登场，她的目的是要找一个名为阿爱的小女孩，而这个小女孩阿爱正好又跟巴古病毒连上关系……",
+  "date": "2000-04-14",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/31/b9/4024_rrDDD.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/31/b9/4024_rrDDD.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 0,
+    "total": 40,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 13,
+      "7": 16,
+      "8": 3,
+      "9": 6,
+      "10": 1
+    },
+    "score": 7.1
+  },
+  "tags": [
+    {
+      "name": "童年",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "TVB",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "2000",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "少女向",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "魔法少女",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "乙女向",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "川井憲次",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "沒看全",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "ムトウユージ",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本アニメーション",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "麻宮騎亜",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "大本眞基子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2000s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "6(+1)",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "利田優子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2000年4月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "SF",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画公司",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "续集",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "喜欢",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "西園悟",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "4024"
+    },
+    {
+      "site": "danime",
+      "id": "27489",
+      "begin": "2025-02-02T15:00:00.000Z",
+      "broadcast": "R/2025-02-02T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0162520",
+      "begin": "2025-02-03T03:00:00.000Z",
+      "broadcast": "R/2025-02-03T03:00:00.000Z/P7D"
+    }
+  ]
+}

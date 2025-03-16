@@ -1,0 +1,121 @@
+{
+  "id": 53752,
+  "name": "ジャングル大帝 進めレオ!",
+  "name_cn": "森林大帝2 前进！雷欧",
+  "summary": "",
+  "date": "1966-10-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/d8/26/53752_044C7.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/d8/26/53752_044C7.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 0,
+    "total": 13,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 2,
+      "5": 2,
+      "6": 0,
+      "7": 6,
+      "8": 1,
+      "9": 1,
+      "10": 0
+    },
+    "score": 6.2
+  },
+  "tags": [
+    {
+      "name": "1966",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "童年",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "虫Production",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "日番",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "童年系",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "子供向",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "1970.00",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "森林大帝",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "手塚治虫",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "53752"
+    },
+    {
+      "site": "danime",
+      "id": "24071",
+      "begin": "2020-08-14T01:00:00.000Z",
+      "broadcast": "R/2020-08-14T01:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002412",
+      "begin": "2015-02-16T15:00:00.000Z",
+      "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+    }
+  ]
+}

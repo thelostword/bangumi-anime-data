@@ -1,0 +1,201 @@
+{
+  "id": 387972,
+  "name": "Garden of Remembrance",
+  "name_cn": "纪念花园",
+  "summary": "空のビール缶・ウィスキーグラスが床に置かれ、\r\n部屋の端には画材やエレキギターが並ぶ、少し散らかった「きみ」の部屋。\r\n携帯のアラームが鳴って、ぼんやりと起き上がり「きみ」1人の朝が始まる。\r\n「ぼく」が好きだったアネモネの花、それは「ぼく」との思い出を繋ぐ大切な花。\r\nある日部屋のクローゼットを開けると「ぼく」との思い出が「きみ」を包み込んでいき・・・\r\nこれは「きみ」と「ぼく」、そして「おさななじみ」との”さよなら”を描く物語──。",
+  "date": "2024-08-30",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e0/67/387972_QKS88.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e0/67/387972_QKS88.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 5109,
+    "total": 234,
+    "count": {
+      "1": 1,
+      "2": 1,
+      "3": 2,
+      "4": 4,
+      "5": 30,
+      "6": 93,
+      "7": 76,
+      "8": 20,
+      "9": 5,
+      "10": 2
+    },
+    "score": 6.4
+  },
+  "tags": [
+    {
+      "name": "山田尚子",
+      "count": 133,
+      "total_cont": 0
+    },
+    {
+      "name": "ScienceSARU",
+      "count": 113,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 107,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 99,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 90,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 63,
+      "total_cont": 0
+    },
+    {
+      "name": "剧场版",
+      "count": 42,
+      "total_cont": 0
+    },
+    {
+      "name": "2023",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "治愈",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "サイエンスSARU",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "动画短片",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2020s",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "Moaang",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年7月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "科学猴拘束play",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "空",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2022",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "水泽悦子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "纪念花园",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "山田凉子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "20s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "待收录BD",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2024秋",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "架空现实",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2020-2029",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "387972"
+    },
+    {
+      "site": "danime",
+      "id": "27261",
+      "begin": "2024-08-30T03:00:00.000Z",
+      "broadcast": "R/2024-08-30T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0156252",
+      "begin": "2024-08-30T01:00:00.000Z",
+      "broadcast": "R/2024-08-30T01:00:00.000Z/P7D"
+    }
+  ]
+}

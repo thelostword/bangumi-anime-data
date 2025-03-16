@@ -1,0 +1,85 @@
+{
+  "id": 188950,
+  "name": "宗谷物語",
+  "name_cn": "宗谷物语",
+  "summary": "日本初の南極観測船である、「宗谷」の生涯を描いたテレビアニメ作品。 番組提供は、日本船舶振興会（現：日本財団）。\r\n国際映画社製作のテレビアニメで、最終話まで予定通りに放送された最後の作品である。",
+  "date": "1984-02-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/2e/13/188950_JS7H6.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/2e/13/188950_JS7H6.jpg"
+  },
+  "eps": 21,
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 4
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "1984",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "国际映画社",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1984年2月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1984年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1984年一月番",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "188950"
+    },
+    {
+      "site": "danime",
+      "id": "22380",
+      "begin": "2018-09-14T01:00:00.000Z",
+      "broadcast": "R/2018-09-14T01:00:00.000Z/P7D"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "id": 39567,
+  "name": "夢戦士ウイングマン",
+  "name_cn": "银翼超人",
+  "summary": "変身ヒーローに憧れる中学生（某県私立の仲額中学校）の広野健太は、学校からの帰宅途中、頭上に突如現れた異空間から落ちてきた、謎の美少女とノートを連れ帰ってしまう。そしてそのノートに自作のヒーロー「ウイングマン」を書き込んでしまう。しかしそのノートこそ、書き記されたことを現実にすることのできる「ドリムノート」だった。本物の変身ヒーローになる能力を身につけてしまった健太は、ドリムノートと共に現れた、異次元世界ポドリムスから来たというこの美少女・あおいと共に、三次元人の奴隷化とドリムノートの強奪を企むポドリムスの独裁者・リメルの差し向けた怪人、シードマンやゾウジンゲン達と戦っていくことになる。",
+  "date": "1984-02-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/1b/34/39567_Ao99M.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/1b/34/39567_Ao99M.jpg"
+  },
+  "eps": 47,
+  "rating": {
+    "rank": 0,
+    "total": 8,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 2,
+      "5": 2,
+      "6": 1,
+      "7": 1,
+      "8": 0,
+      "9": 1,
+      "10": 0
+    },
+    "score": 5.4
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "1984",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "东映动画",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "堀川りょう",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "渡辺菜生子",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "武田寛",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "赛璐珞",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "川浪葉子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "渡部英雄",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "東映アニメーション",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "SF",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "80s",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "39567"
+    },
+    {
+      "site": "danime",
+      "id": "26169",
+      "begin": "2023-02-28T01:00:00.000Z",
+      "broadcast": "R/2023-02-28T01:00:00.000Z/P7D"
+    }
+  ]
+}

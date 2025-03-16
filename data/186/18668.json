@@ -1,0 +1,190 @@
+{
+  "id": 18668,
+  "name": "精霊使い",
+  "name_cn": "精灵使",
+  "summary": "精霊たちの望む理想郷を建設するための精剣戦争、精霊使いたちは幾代にもわたり\r\n精剣戦争を活発化させる火が属\r\n精剣戦争を抑える地が属\r\n精剣戦争を監視する水が属\r\n命を運ぶ風が属\r\nの四大属性に分かれ覇を争っていた。\r\n突如として勃発した精剣戦争に巻き込まれた甘えん坊な少年覚羅は、目の前で片想いの相手麻美を水が属の長、支葵にさらわれたことで、最強の精霊使いであるエーテルの精霊使いとして目覚める。覚羅は自分を助けた露羽とともに地が属に身を寄せ、麻美を救い理想郷を築きあげるために精剣戦争に身を投じる。\r\n\r\n原作漫画とは一部設定が異なり、増殖者の力を暴走させた秋桜久を覚羅と麻美が救うという内容になっている。",
+  "date": "1995-04-01",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/81/3e/18668_9JKb5.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/81/3e/18668_9JKb5.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 34,
+    "count": {
+      "1": 0,
+      "2": 1,
+      "3": 2,
+      "4": 3,
+      "5": 10,
+      "6": 14,
+      "7": 3,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.4
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 32,
+      "total_cont": 0
+    },
+    {
+      "name": "1995",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "AIC",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "独立ova",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "岡崎武士",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "桥本敬史",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "1995年四月番",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "赛璐珞",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "Mark",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "秋山胜仁",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "95-99",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "90s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "95-99s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "秋山勝仁",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "乳首",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "其他",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "冈崎武士",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1995年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "魔幻",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "北爪宏幸",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "种族",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "合田浩章",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "恩田尚之",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "松原秀典",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1995年4月",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "18668"
+    },
+    {
+      "site": "danime",
+      "id": "10237",
+      "begin": "2012-06-26T15:00:00.000Z",
+      "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+    }
+  ]
+}

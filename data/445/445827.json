@@ -1,0 +1,267 @@
+{
+  "id": 445827,
+  "name": "ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います",
+  "name_cn": "虽然是公会柜台小姐，但是因为讨厌加班所以要去单挑BOSS",
+  "summary": "公会的柜台小姐这个职位，不仅工作内容绝对安全，而且身为公务员，社会地位也很稳定。上班时只要穿着可爱的制服，站在柜台后面，带着笑容为冒险者们提供指引，就能准时下班回家。\r\n「亚莉纳·可洛瓦」原本以为自己找到了这种梦寐以求的工作。然而，现实却与理想相差甚远，因为迷宫攻略的进度过于缓慢，最终日复一日地陷入加班地狱……\r\n「啊啊，我受不了了！！！！！！」\r\n当亚莉纳的不满爆发时，就会露出隐藏的另一面。即便是需要团队合作、极度危险的迷宫，她也能独自深入其中，挥舞着闪耀银光的巨槌，将强大的头目一击粉碎——。原来身怀隐情的她，就是那个传闻中不知来历，总是神出鬼没，但却实力非凡的神秘冒险者〈处刑人〉！\r\n但是，这件事绝对不能让任何人知道。因为柜台小姐禁止兼职，如果被公会发现就会立刻遭到解雇……。\r\n亚莉纳究竟能否守住她平稳的生活呢！？",
+  "date": "2025-01-10",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/8f/8a/445827_L6Zh0.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/8f/8a/445827_L6Zh0.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 8057,
+    "total": 1112,
+    "count": {
+      "1": 9,
+      "2": 7,
+      "3": 36,
+      "4": 128,
+      "5": 269,
+      "6": 417,
+      "7": 193,
+      "8": 31,
+      "9": 5,
+      "10": 17
+    },
+    "score": 5.7
+  },
+  "tags": [
+    {
+      "name": "2025年1月",
+      "count": 456,
+      "total_cont": 0
+    },
+    {
+      "name": "CloverWorks",
+      "count": 392,
+      "total_cont": 0
+    },
+    {
+      "name": "异世界",
+      "count": 311,
+      "total_cont": 0
+    },
+    {
+      "name": "轻小说改",
+      "count": 285,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 261,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 259,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 198,
+      "total_cont": 0
+    },
+    {
+      "name": "高桥李依",
+      "count": 155,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 148,
+      "total_cont": 0
+    },
+    {
+      "name": "轻改",
+      "count": 141,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 139,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 82,
+      "total_cont": 0
+    },
+    {
+      "name": "BG",
+      "count": 37,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 33,
+      "total_cont": 0
+    },
+    {
+      "name": "作楽クリエイト",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "千葉美鈴",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "凤傲天",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "厕纸",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "長澤剛",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "长泽刚",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "职场",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2025冬",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "冒险",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2025.1",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "风傲天",
+      "count": 3,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "445827"
+    },
+    {
+      "site": "nicovideo",
+      "id": "girumasu",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0163332",
+      "begin": "2025-01-13T15:00:00.000Z",
+      "broadcast": "R/2025-01-13T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-278",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "677aa0972f6756712facfc88"
+    },
+    {
+      "site": "crunchyroll",
+      "id": "G8DHV784M",
+      "begin": "2024-12-20T09:53:14.000Z",
+      "broadcast": "R/2024-12-20T09:53:14.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81988348",
+      "begin": "2025-01-09T16:00:00.000Z",
+      "broadcast": "R/2025-01-09T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "mytv",
+      "id": "imaybeaguildreceptionistbutillsoloanybosstoclockoutontime_142542",
+      "begin": "2025-01-10T16:30:00.000Z",
+      "broadcast": "R/2025-01-10T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "134172",
+      "begin": "2025-01-10T16:30:00.000Z",
+      "broadcast": "R/2025-01-10T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3531"
+    },
+    {
+      "site": "viu",
+      "id": "2560662",
+      "begin": "2025-01-10T16:30:48.000Z",
+      "broadcast": "R/2025-01-10T16:30:48.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "134172",
+      "begin": "2025-01-10T16:30:00.000Z",
+      "broadcast": "R/2025-01-10T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0DS3YGMZ9",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "danime",
+      "id": "27622",
+      "begin": "2025-01-13T15:00:00.000Z",
+      "broadcast": "R/2025-01-13T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "dmhy",
+      "id": "公會 櫃檯|柜台"
+    }
+  ]
+}

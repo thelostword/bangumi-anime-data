@@ -1,0 +1,90 @@
+{
+  "id": 188948,
+  "name": "シートン動物記 りすのバナー",
+  "name_cn": "",
+  "summary": "シートン動物記 系列第2作。",
+  "date": "1979-04-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/8a/7d/188948_2ODOU.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/8a/7d/188948_2ODOU.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 1,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "1979年四月番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "赛璐珞",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "70s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1979年4月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画公司",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1979",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1979年",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "188948"
+    },
+    {
+      "site": "danime",
+      "id": "24053",
+      "begin": "2020-08-14T01:00:00.000Z",
+      "broadcast": "R/2020-08-14T01:00:00.000Z/P7D"
+    }
+  ]
+}

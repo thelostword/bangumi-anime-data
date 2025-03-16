@@ -1,0 +1,130 @@
+{
+  "id": 53728,
+  "name": "銀牙 -流れ星 銀-",
+  "name_cn": "银牙",
+  "summary": "   犬同士の会話を人間の言葉に置き換ることで彼らの友情、結束、葛藤、成長を描き、国内のみならず、海外でも支持を得ている。生命の誕生と死、幼くして巨大な敵に向かう運命を持った熊犬・銀の冒険熱血青春ドラマ。",
+  "date": "1986-04-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/08/99/53728_xbVex.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/08/99/53728_xbVex.jpg"
+  },
+  "eps": 21,
+  "rating": {
+    "rank": 0,
+    "total": 4,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 4,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "1986",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "東映アニメーション",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "銀河万丈",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "勝間田具治",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "寺田憲史",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "待補0",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "山田栄子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "馬嶋満",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "东映动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "东映",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "田中秀幸",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "53728"
+    },
+    {
+      "site": "danime",
+      "id": "26188",
+      "begin": "2023-03-31T01:00:00.000Z",
+      "broadcast": "R/2023-03-31T01:00:00.000Z/P7D"
+    }
+  ]
+}

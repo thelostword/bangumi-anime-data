@@ -1,0 +1,122 @@
+{
+  "id": 458110,
+  "name": "I.CINNAMOROLL Animation",
+  "name_cn": "",
+  "summary": "＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊\r\n“もしあの日「カフェ・シナモン」のお姉さんと出会っていなかったら…？”\r\nもう一つの世界で暮らす、無理しない”ご自愛“マインドのシナモン「I.CINNAMOROLL（アイシナモロール）」が誕生！\r\n「I.CINNAMOROLL」の「I」には、「わたしを意味する“I”」と「愛情の“愛”」の二つの意味が込められています。\r\n＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊\r\n\r\n「I.CINNAMOROLL」の世界観を“のぞき見”できるショートアニメを毎週木曜日17時に配信中！\r\nご自愛マインドを大切にするシナモンのゆる～い日常をお届けします。",
+  "date": "2023-10-05",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/6e/25/458110_4N7es.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/6e/25/458110_4N7es.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 14,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 1,
+      "5": 1,
+      "6": 5,
+      "7": 1,
+      "8": 3,
+      "9": 0,
+      "10": 2
+    },
+    "score": 6.6
+  },
+  "tags": [
+    {
+      "name": "J.C.STAFF",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "2023",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2023年10月",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "石田美由紀",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "秋季",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "令和",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "子供向",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "サンリオ",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "458110"
+    },
+    {
+      "site": "danime",
+      "id": "27536",
+      "begin": "2024-12-12T15:00:00.000Z",
+      "broadcast": "R/2024-12-12T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0157781",
+      "begin": "2024-12-28T03:00:00.000Z",
+      "broadcast": "R/2024-12-28T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0DGH3H8YR",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

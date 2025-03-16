@@ -1,0 +1,193 @@
+{
+  "id": 294059,
+  "name": "ぼくたちは勉強ができない OVA",
+  "name_cn": "我们真的学不来 OVA",
+  "summary": "单行本第14、16卷同捆OVA",
+  "date": "2019-11-01",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/df/d3/294059_ck4kZ.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/df/d3/294059_ck4kZ.jpg"
+  },
+  "eps": 2,
+  "rating": {
+    "rank": 5756,
+    "total": 587,
+    "count": {
+      "1": 2,
+      "2": 6,
+      "3": 5,
+      "4": 19,
+      "5": 60,
+      "6": 229,
+      "7": 216,
+      "8": 36,
+      "9": 6,
+      "10": 8
+    },
+    "score": 6.3
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 244,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 137,
+      "total_cont": 0
+    },
+    {
+      "name": "2019",
+      "count": 119,
+      "total_cont": 0
+    },
+    {
+      "name": "后宫",
+      "count": 99,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 85,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 75,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 65,
+      "total_cont": 0
+    },
+    {
+      "name": "st.SILVER",
+      "count": 50,
+      "total_cont": 0
+    },
+    {
+      "name": "ARVO_ANIMATION",
+      "count": 40,
+      "total_cont": 0
+    },
+    {
+      "name": "我们真的学不来",
+      "count": 40,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 36,
+      "total_cont": 0
+    },
+    {
+      "name": "2019年11月",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "党争",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "stシルバー",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "2019年",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "岩崎良明",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "ARVOANIMATION",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "アルボアニメーション",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "st.シルバー",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "福利",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "OAD",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "泳装",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "我们真的学不来！",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2020",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "富田美憂",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "294059"
+    },
+    {
+      "site": "mikan",
+      "id": "2084"
+    }
+  ]
+}

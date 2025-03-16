@@ -1,0 +1,166 @@
+{
+  "id": 109271,
+  "name": "オーディーン 光子帆船スターライト",
+  "name_cn": "光子帆船星光号：奥丁",
+  "summary": "　「宇宙戦艦ヤマト」のプロデューサー・西崎義展が、劇場版「宇宙戦艦ヤマト・完結編」の次に手がけた壮大なスペースファンタジー。2099年、20年の歳月をかけて最新鋭の宇宙船・光子帆船スターライトが完成した。鈴鹿武船長は、蔵本甲板長や若い練習生たちとともに、スペース・コロニー“シティ・オブ・アインシュタイン”から木星に向け、処女航海に出港。だが、その途中、宇宙船アルフォード号からの救難信号をキャッチする。救助に向かったスターライトの乗組員は、唯一無傷だった脱出ポッドから、サラという少女を発見する。",
+  "date": "1985-08-10",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/5d/73/109271_EcUM6.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/5d/73/109271_EcUM6.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 12,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 4,
+      "6": 4,
+      "7": 3,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.8
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "1985",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "山本暎一",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "古川登志夫",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "東映アニメーション",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "独立剧场版",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "东映",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "机战",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "白土武",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "找不到源",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "不到7分",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "舛田利雄",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "堀秀行",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "80年代",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "东映动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1985年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "潘恵子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "SF",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1980s",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "109271"
+    },
+    {
+      "site": "danime",
+      "id": "10377",
+      "begin": "2022-03-08T01:00:00.000Z",
+      "broadcast": "R/2022-03-08T01:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0014174",
+      "begin": "2025-02-05T03:00:00.000Z",
+      "broadcast": "R/2025-02-05T03:00:00.000Z/P7D"
+    }
+  ]
+}

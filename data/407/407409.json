@@ -1,0 +1,180 @@
+{
+  "id": 407409,
+  "name": "i☆Ris the Movie - Full Energy!! -",
+  "name_cn": "i☆Ris 电影版 - 活力满满!! -",
+  "summary": "デビュー10周年の節目を迎え、順風満帆な i☆Ris。しかし彼女たちの胸をふと、よぎる想いがあった。\r\n\r\n『次の10年、わたしたちはどうなっているんだろう』\r\n\r\nあるライブ当日。i☆Risたちの楽屋に届けられたグッズのTシャツから突如、しゃべる謎の白いリスが現れる!\r\n\r\nそして突如眩い光に包まれ、目の前に広がるのは、大きな虹がいくつも浮かぶ不思議な世界。なんと、ここは自分がなりたいものになれる世界・リスリスランドだと言う!\r\n\r\n5人は楽しくて最高な場所だと、それぞれの夢を叶えて満喫するが、ここにあるものが“ない”ことに気づく。この世界には―――「歌」がない。シロリスは i☆Ris に「歌」を取り戻してほしいと助けを求めるが...。\r\n\r\nなぜ「歌」が消えてしまったのか?　この世界に、もう一度「歌」を取り戻すことができるのか?　そしてこの旅の果てに、彼女たちは本当に“なりたいもの”を見つけられるのか――?　i☆Ris とキミが歩む、“これから”が描かれる。",
+  "date": "2024-05-17",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/bc/80/407409_1UmEa.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/bc/80/407409_1UmEa.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 22,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 8,
+      "6": 10,
+      "7": 3,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.5
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "Studio五组",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "博史池畠",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2020-2029",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "美妙系列",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未发售",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日剧场版",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年4月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "川濑正雄",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2020s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "大岛克也",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Studio五組",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "龙之子Production",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "龙之子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "粉丝向",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "20",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未上映",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "表",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未确定",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "新世纪OVA及剧场",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "407409"
+    },
+    {
+      "site": "danime",
+      "id": "27659",
+      "begin": "2025-01-12T15:00:00.000Z",
+      "broadcast": "R/2025-01-12T15:00:00.000Z/P7D"
+    }
+  ]
+}

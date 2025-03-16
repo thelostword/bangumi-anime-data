@@ -1,0 +1,166 @@
+{
+  "id": 467732,
+  "name": "パリピ孔明 Road to Summer Sonia",
+  "name_cn": "派对浪客诸葛孔明 通往夏日索尼娅之路",
+  "summary": "今最も熱い男、孔明が劇場に参上！\r\n\r\n英子のサマーソニア出場までの\r\n華麗なる知略を大スクリーンで刮目せよ\r\n\r\nLet’s Party",
+  "date": "2024-03-01",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/4a/8d/467732_IVSeu.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/4a/8d/467732_IVSeu.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 26,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 6,
+      "6": 8,
+      "7": 10,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.2
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "P.A.WORKS",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "总集篇",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "音乐",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "偶像",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年4月",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年冬",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "202403",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "本間修",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "派对浪客诸葛孔明",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "英子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日剧场版",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "20",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画电影",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "喜剧",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未上映",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "转生",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未发售",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "467732"
+    },
+    {
+      "site": "nicovideo",
+      "id": "paripikoumei-movie",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "danime",
+      "id": "27629",
+      "begin": "2025-01-22T15:00:00.000Z",
+      "broadcast": "R/2025-01-22T15:00:00.000Z/P7D"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "id": 501859,
+  "name": "劇場版 風都探偵 仮面ライダースカルの肖像",
+  "name_cn": "剧场版 风都侦探 假面骑士Skull的肖像",
+  "summary": "ガイアメモリがどうして生まれたのか。\r\nWの戦いがどうして始まったのか。\r\nときめからの問いに答えるため、翔太郎は静かに語り始める。\r\n彼が憧れ、“おやっさん”と慕った師匠・鳴海荘吉との出会いと別れについて…\r\n\r\n風の街・風都でガイアメモリの力を使う怪人・ドーパントが暗躍し始めた頃。\r\n若き翔太郎は荘吉の探偵助手となり、半熟と呼ばれながらもその背中を追っていた。\r\n探偵稼業の傍らでスカルとして秘密裏に活動する荘吉に、何も知らない翔太郎は焦燥感を募らせる。\r\nそんな中、鳴海探偵事務所に一本の電話が… それは翔太郎たちを運命の夜へと誘う、地獄からの依頼だった!!\r\n謎の依頼人からもたらされた“切り札”を届けるべく、荘吉の行方を追った翔太郎が見たものとは？\r\n\r\n翔太郎＆フィリップ。\r\n二人で一人の探偵で、仮面ライダーWの始まりの夜。\r\nその物語の全貌が、いよいよ明かされるーー",
+  "date": "2024-11-08",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ff/c1/501859_yH8vk.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ff/c1/501859_yH8vk.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 3861,
+    "total": 161,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 1,
+      "4": 4,
+      "5": 14,
+      "6": 48,
+      "7": 65,
+      "8": 24,
+      "9": 3,
+      "10": 1
+    },
+    "score": 6.6
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 79,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 53,
+      "total_cont": 0
+    },
+    {
+      "name": "StudioKAI",
+      "count": 46,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 44,
+      "total_cont": 0
+    },
+    {
+      "name": "假面骑士",
+      "count": 34,
+      "total_cont": 0
+    },
+    {
+      "name": "特摄",
+      "count": 26,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "假面骑士W",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "椛島洋介",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "椛岛洋介",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "青年向",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "スタジオKAI",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "細谷佳正",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "动画电影",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "樋口達人",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2020s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未上映",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "看完就删",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "種村綾隆",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年11月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "8.58",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "风都侦探",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "STUDIO_KAI",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未发售",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "fantasy",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "501859"
+    },
+    {
+      "site": "unext",
+      "id": "SID0164430",
+      "begin": "2024-12-17T09:00:00.000Z",
+      "broadcast": "R/2024-12-17T09:00:00.000Z/P7D"
+    }
+  ]
+}

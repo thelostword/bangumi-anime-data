@@ -1,0 +1,90 @@
+{
+  "id": 73930,
+  "name": "おちゃめ神物語コロコロポロン",
+  "name_cn": "阿波罗之女",
+  "summary": "本片根据吾妻秀夫的原作漫画改编，以希腊罗马神话为背景。女主角小星是太阳神阿波罗的女儿，本性活泼的她有一个朋友──小爱神邱比特。这部作品将希腊罗马的众神以可爱的动画方式呈现，故事中也有出现一些现代化的产物，如：电话。小星在最后一集从一位小仙女顺利成为女神。",
+  "date": "1982-05-08",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/a0/04/73930_Sqs2Z.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/a0/04/73930_Sqs2Z.jpg"
+  },
+  "eps": 46,
+  "rating": {
+    "rank": 0,
+    "total": 2,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 1,
+      "10": 0
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "国际映画社",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "赛璐珞",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "80s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "呃",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "童年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1982",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "73930"
+    },
+    {
+      "site": "danime",
+      "id": "22627",
+      "begin": "2019-04-26T01:00:00.000Z",
+      "broadcast": "R/2019-04-26T01:00:00.000Z/P7D"
+    }
+  ]
+}

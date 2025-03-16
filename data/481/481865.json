@@ -1,0 +1,109 @@
+{
+  "id": 481865,
+  "name": "夜は猫といっしょ 第3期",
+  "name_cn": "关于养猫我一直是新手 第三季",
+  "summary": "疲れて帰ってきた夜は、\r\n猫と過ごしたい。\r\n\r\n突然、猫・キュルガといっしょに暮らすことになったフータくん。\r\nキュルガとの生活は不思議なことや楽しいことがたくさん！\r\n猫とのリアルな日常を描いた最注目の猫アニメが、\r\n2024年12月、第3期配信決定‼",
+  "date": "2024-12-04",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/55/7a/481865_RubiA.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/55/7a/481865_RubiA.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 15,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 6,
+      "7": 6,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年12月",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "猫",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年10月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "STUDIOPUYUKAI",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "ONA",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "481865"
+    }
+  ]
+}

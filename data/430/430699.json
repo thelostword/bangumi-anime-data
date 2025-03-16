@@ -1,0 +1,243 @@
+{
+  "id": 430699,
+  "name": "メダリスト",
+  "name_cn": "金牌得主",
+  "summary": "作为滑冰者遭遇挫折的青年·明浦路司遇到了对花样滑冰世界充满憧憬的少女·结束祈。\r\n在对冰场怀有执念的祈的推动下，司决定亲自担任教练。\r\n随着祈逐渐展现出自己的才能，司也作为指导者不断成长。\r\n两人组成搭档，目标是荣耀的“金牌得主”——！",
+  "date": "2025-01-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ce/3c/430699_hsj90.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ce/3c/430699_hsj90.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 260,
+    "total": 3138,
+    "count": {
+      "1": 8,
+      "2": 2,
+      "3": 3,
+      "4": 2,
+      "5": 23,
+      "6": 92,
+      "7": 619,
+      "8": 1738,
+      "9": 471,
+      "10": 180
+    },
+    "score": 8
+  },
+  "tags": [
+    {
+      "name": "运动",
+      "count": 1139,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年1月",
+      "count": 1018,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 984,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 744,
+      "total_cont": 0
+    },
+    {
+      "name": "花田十辉",
+      "count": 743,
+      "total_cont": 0
+    },
+    {
+      "name": "Engi",
+      "count": 691,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 476,
+      "total_cont": 0
+    },
+    {
+      "name": "竞技",
+      "count": 462,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 408,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 391,
+      "total_cont": 0
+    },
+    {
+      "name": "滑冰",
+      "count": 390,
+      "total_cont": 0
+    },
+    {
+      "name": "花样滑冰",
+      "count": 290,
+      "total_cont": 0
+    },
+    {
+      "name": "花田十輝",
+      "count": 172,
+      "total_cont": 0
+    },
+    {
+      "name": "萝莉",
+      "count": 145,
+      "total_cont": 0
+    },
+    {
+      "name": "山本靖贵",
+      "count": 105,
+      "total_cont": 0
+    },
+    {
+      "name": "励志",
+      "count": 40,
+      "total_cont": 0
+    },
+    {
+      "name": "2025冬",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "花滑",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "山本靖貴",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "青春",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "治愈",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "华班外包",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "金牌得主",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "米津玄师",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "20年代",
+      "count": 3,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "430699"
+    },
+    {
+      "site": "nicovideo",
+      "id": "medalist",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0163336",
+      "begin": "2025-01-09T17:00:00.000Z",
+      "broadcast": "R/2025-01-09T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-279",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "disneyplus",
+      "id": "4LgC0zEd5JEx",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3519"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "677aa09a2f6756712facfc9c"
+    },
+    {
+      "site": "danime",
+      "id": "27620",
+      "begin": "2025-01-09T17:00:00.000Z",
+      "broadcast": "R/2025-01-09T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0DRCS3YM1",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "dmhy",
+      "id": "金牌得主"
+    },
+    {
+      "site": "bilibili",
+      "id": "24006597",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

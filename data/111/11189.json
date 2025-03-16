@@ -1,0 +1,201 @@
+{
+  "id": 11189,
+  "name": "ジャングル大帝",
+  "name_cn": "森林大帝",
+  "summary": "森林之王白狮子潘加为救妻子而牺牲了生命，它的妻子产下小白狮雷欧。小雷欧继承了父亲的英勇性格，在经历了种种磨难之后，最终成为了百兽之王，森林的大帝。本片生动地表现出非洲大陆的自然风光，再加上作品淋漓尽致地渲染了“对生命的崇敬与热爱”这一主题，使本片成为里程碑性质的作品。后来，在日版《变形金刚之头领战士》和美国经典卡通电影《狮子王》中都可以看到本片的痕迹",
+  "date": "1965-10-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/30/f9/11189_9u8Ou.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/30/f9/11189_9u8Ou.jpg"
+  },
+  "eps": 52,
+  "rating": {
+    "rank": 2089,
+    "total": 120,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 2,
+      "5": 5,
+      "6": 18,
+      "7": 50,
+      "8": 37,
+      "9": 6,
+      "10": 1
+    },
+    "score": 7.1
+  },
+  "tags": [
+    {
+      "name": "手冢治虫",
+      "count": 38,
+      "total_cont": 0
+    },
+    {
+      "name": "童年",
+      "count": 34,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 28,
+      "total_cont": 0
+    },
+    {
+      "name": "1965",
+      "count": 24,
+      "total_cont": 0
+    },
+    {
+      "name": "白狮子",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "童年系",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "童年系列",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "环保",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "虫Production",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "经典",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "虫プロダクション",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "补旧番",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "60s",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "子供向",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日番",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "森林大帝",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "富田勋",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "斋藤博",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "大长篇",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1970.00",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "雪室俊一",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "YL",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "赛璐珞",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "豊田有恒",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "林重行",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "11189"
+    },
+    {
+      "site": "danime",
+      "id": "24070",
+      "begin": "2020-08-14T01:00:00.000Z",
+      "broadcast": "R/2020-08-14T01:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0003183",
+      "begin": "2015-02-16T15:00:00.000Z",
+      "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": 190747,
+  "name": "珍豪ムチャ兵衛",
+  "name_cn": "",
+  "summary": "1971年2月15日から3月22日までTBS系で放送。全26回（49話）。1968年にモノクロで制作されたが、当時テレビが全面カラー化を控える中で「今さらモノクロ作品はどうか」とお蔵入りになったという。だが3年後、殆どのテレビ番組がカラー化された中で突如日の目を見た。今作を最後に、日本のテレビアニメは全てカラーへ移行した。\r\n放送時間（日本時間）は、月～金の18時～18時30分。2009年にCS放送の「ホームドラマチャンネル」で38年ぶりに再放送された。この時はOPラストの制作クレジット「制作 TBS 東京ムービー」が、「制作・著作 トムス・エンタテインメント」に差し替えられた（バックはオリジナル同様グレイバック）。",
+  "date": "1971-02-15",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/10/8a/190747_GCYnU.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/10/8a/190747_GCYnU.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 1,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "1971年一月番",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "1971",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "曽我町子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1971年2月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "岡部英二",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "前川治男",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "东京电影",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1971年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "斎藤博",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "東京ムービー",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "雨森雅司",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "190747"
+    },
+    {
+      "site": "danime",
+      "id": "23354",
+      "begin": "2020-03-13T01:00:00.000Z",
+      "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+    }
+  ]
+}

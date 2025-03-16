@@ -1,0 +1,193 @@
+{
+  "id": 229795,
+  "name": "エロマンガ先生 OVA",
+  "name_cn": "埃罗芒阿老师 OVA",
+  "summary": "",
+  "date": "2019-01-16",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c2/e5/229795_Ilnu1.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c2/e5/229795_Ilnu1.jpg"
+  },
+  "eps": 2,
+  "rating": {
+    "rank": 3613,
+    "total": 2817,
+    "count": {
+      "1": 6,
+      "2": 5,
+      "3": 10,
+      "4": 45,
+      "5": 213,
+      "6": 794,
+      "7": 1218,
+      "8": 386,
+      "9": 62,
+      "10": 78
+    },
+    "score": 6.7
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 1028,
+      "total_cont": 0
+    },
+    {
+      "name": "A-1Pictures",
+      "count": 613,
+      "total_cont": 0
+    },
+    {
+      "name": "轻小说改",
+      "count": 520,
+      "total_cont": 0
+    },
+    {
+      "name": "埃罗芒阿老师",
+      "count": 418,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 405,
+      "total_cont": 0
+    },
+    {
+      "name": "2019",
+      "count": 375,
+      "total_cont": 0
+    },
+    {
+      "name": "后宫",
+      "count": 354,
+      "total_cont": 0
+    },
+    {
+      "name": "妹妹",
+      "count": 332,
+      "total_cont": 0
+    },
+    {
+      "name": "轻改",
+      "count": 225,
+      "total_cont": 0
+    },
+    {
+      "name": "伏见司",
+      "count": 189,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 173,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 148,
+      "total_cont": 0
+    },
+    {
+      "name": "2019年1月",
+      "count": 136,
+      "total_cont": 0
+    },
+    {
+      "name": "妹控",
+      "count": 104,
+      "total_cont": 0
+    },
+    {
+      "name": "竹下良平",
+      "count": 67,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 54,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "2019年",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "兄妹",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "番外",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "萌",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "A-1_Pictures",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "妹系",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "萝莉",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "髙橋龍也",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA&OAD",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "党争",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 5,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "229795"
+    },
+    {
+      "site": "mikan",
+      "id": "1881"
+    }
+  ]
+}

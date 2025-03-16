@@ -1,0 +1,55 @@
+{
+  "id": 501771,
+  "name": "新みつばちマーヤの冒険",
+  "name_cn": "新玛亚历险记",
+  "summary": "",
+  "date": "1982-10-12",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/74/71/501771_VVdXk.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/74/71/501771_VVdXk.jpg"
+  },
+  "eps": 52,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "501771"
+    },
+    {
+      "site": "danime",
+      "id": "23501",
+      "begin": "2020-04-24T01:00:00.000Z",
+      "broadcast": "R/2020-04-24T01:00:00.000Z/P7D"
+    }
+  ]
+}

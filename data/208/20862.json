@@ -1,0 +1,195 @@
+{
+  "id": 20862,
+  "name": "Night Walker -真夜中の探偵-",
+  "name_cn": "真夜中的侦探",
+  "summary": "真夜中之侦探，讲述的还是关于吸血鬼这个永恒的话题：在百鬼夜行的东京，只有身为吸血鬼的紫藤可以与之对抗。成立侦探社，以侦探之名掩饰身份，与人类共存的紫藤，在同伴布利德出现之后，不堪的往事被慢慢重提…",
+  "date": "1998-07-08",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/5a/d8/20862_xujlu.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/5a/d8/20862_xujlu.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 0,
+    "total": 26,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 0,
+      "5": 1,
+      "6": 9,
+      "7": 11,
+      "8": 4,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.6
+  },
+  "tags": [
+    {
+      "name": "吸血鬼",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "1998",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "BL",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "侦探",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "AIC",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "1998年7月",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "1998年",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "山崎たくみ",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "5.5",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "6.5",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "非百合",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "BUCK-TICK",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "乳首",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "沙々野紀世利",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "赛璐珞",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "香川豊",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "90s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "山口亮太",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "石田彰",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "上世纪",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "篠原恵美",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "BANDAI",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "基",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "坂本真綾",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "20862"
+    },
+    {
+      "site": "danime",
+      "id": "11074",
+      "begin": "2013-12-06T01:00:00.000Z",
+      "broadcast": "R/2013-12-06T01:00:00.000Z/P7D"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": 485354,
+  "name": "ユーチューニャー 新作アニメシリーズ",
+  "name_cn": "YouTu喵 新作动画剧集",
+  "summary": "とある家。とあるお姉さん。とある猫…。\r\nこの物語は、動画投稿の数字を気にして“確かに夜行性だが夜も眠れないニャー”の物語である。",
+  "date": "2024-04-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/81/4a/485354_X3MXz.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/81/4a/485354_X3MXz.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 0,
+    "total": 3,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 3,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "レスプリ",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年4月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2024春",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "矢立きょう",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "485354"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66097bbe16e6bbcc806d341c"
+    }
+  ]
+}

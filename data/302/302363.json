@@ -1,0 +1,55 @@
+{
+  "id": 302363,
+  "name": "モノのかみさま ここたま",
+  "name_cn": "万物之神 心灵",
+  "summary": "人間がモノを大切にすると生まれる、モノの神様“ここたま”。\r\nモノで作られたおうちに暮らす、小さくてかわいいここたまたちが、\r\n人間を幸せにするお手伝いをしようと、力を合わせてこっそり頑張っています。",
+  "date": "2019-09-26",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/b4/7f/302363_C2ctf.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/b4/7f/302363_C2ctf.jpg"
+  },
+  "eps": 24,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "302363"
+    },
+    {
+      "site": "danime",
+      "id": "25107",
+      "begin": "2021-10-15T01:00:00.000Z",
+      "broadcast": "R/2021-10-15T01:00:00.000Z/P7D"
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "id": 358801,
+  "name": "Arcane Season 2",
+  "name_cn": "英雄联盟：双城之战 第二季",
+  "summary": "《英雄联盟：双城之战》作为拳头游戏推出的英雄联盟的首部动画剧集，第一季荣获九座安妮奖及包括“最佳动画剧集”在内的四项艾美奖。\r\n《双城之战》的故事将在第二季迎来尾声。金克丝对议会的袭击，揭开了皮尔特沃夫和祖安矛盾急剧恶化的序幕。",
+  "date": "2024-11-09",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/60/fe/358801_WuBx6.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/60/fe/358801_WuBx6.jpg"
+  },
+  "eps": 9,
+  "rating": {
+    "rank": 1339,
+    "total": 3801,
+    "count": {
+      "1": 55,
+      "2": 14,
+      "3": 32,
+      "4": 71,
+      "5": 129,
+      "6": 449,
+      "7": 1197,
+      "8": 1247,
+      "9": 398,
+      "10": 209
+    },
+    "score": 7.3
+  },
+  "tags": [
+    {
+      "name": "游戏改",
+      "count": 716,
+      "total_cont": 0
+    },
+    {
+      "name": "英雄联盟",
+      "count": 656,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 562,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 525,
+      "total_cont": 0
+    },
+    {
+      "name": "欧美",
+      "count": 491,
+      "total_cont": 0
+    },
+    {
+      "name": "Netflix",
+      "count": 444,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 389,
+      "total_cont": 0
+    },
+    {
+      "name": "双城之战",
+      "count": 296,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 287,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 196,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年10月",
+      "count": 188,
+      "total_cont": 0
+    },
+    {
+      "name": "法国",
+      "count": 181,
+      "total_cont": 0
+    },
+    {
+      "name": "美国",
+      "count": 155,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 139,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年11月",
+      "count": 85,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 59,
+      "total_cont": 0
+    },
+    {
+      "name": "Fortiche",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "3D",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "ForticheProduction",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "群像",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "烂尾",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "魔法",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "Production",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "剧情",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "LGBT",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "架空世界",
+      "count": 3,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "358801"
+    },
+    {
+      "site": "bilibili",
+      "id": "20189753",
+      "begin": "",
+      "broadcast": "",
+      "comment": "中文配音: 23431028"
+    }
+  ]
+}

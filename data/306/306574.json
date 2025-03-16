@@ -1,0 +1,95 @@
+{
+  "id": 306574,
+  "name": "悪右衛門",
+  "name_cn": "恶右卫门",
+  "summary": "左大将が天下を取るためには千匹の狐を狩る必要があると占いに出た。そのため狐狩りを命ぜられたのが嫌われ者の悪右衛門。彼の狐狩りに対抗すべく狐たちは、一匹の雌狐を悪右衛門の妻に化けさせて、彼の家へと送り込む。愛を知らない悪右衛門と、同胞たちが殺されて行く悲しみに身をよじりながらも悪右衛門に真実の愛を見いだし始める雌狐との物語。これは『ライオンブックス』シリーズの第6作目となります。手塚治虫の原作を、彼の長男でヴィジュアリストの手塚眞が初めてアニメ化に挑戦した作品でもあります。",
+  "date": "1993-07-16",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/2a/37/306574_bvUa4.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/2a/37/306574_bvUa4.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 4,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 3,
+      "6": 1,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.3
+  },
+  "tags": [
+    {
+      "name": "1993",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "手塚PRODUCTION",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "手塚治虫",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "手塚眞",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "306574"
+    },
+    {
+      "site": "danime",
+      "id": "24067",
+      "begin": "2020-07-10T01:00:00.000Z",
+      "broadcast": "R/2020-07-10T01:00:00.000Z/P7D"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": 241186,
+  "name": "ヤリチン☆ビッチ部",
+  "name_cn": "无节操☆Bitch社",
+  "summary": "おげれつたなかが贈る大人気コミックスがまさかのアニメ化！？ 期待の新星GRIZZLY×東宝がタッグを組み、「ヤリチン☆ビッチ部」の活動内容をクォリティの高い本格アニメーションで描く、OADだからこそ実現可能な新企画がいよいよ始動！！",
+  "date": "2018-09-21",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/b7/6b/241186_I4TQ7.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/b7/6b/241186_I4TQ7.jpg"
+  },
+  "eps": 2,
+  "rating": {
+    "rank": 5512,
+    "total": 185,
+    "score": 6.2,
+    "count": {
+      "1": 3,
+      "2": 2,
+      "3": 2,
+      "4": 9,
+      "5": 25,
+      "6": 58,
+      "7": 63,
+      "8": 18,
+      "9": 1,
+      "10": 4
+    }
+  },
+  "tags": [
+    {
+      "name": "R18",
+      "count": 6
+    },
+    {
+      "name": "OVA",
+      "count": 41
+    },
+    {
+      "name": "BL",
+      "count": 107
+    },
+    {
+      "name": "耽美",
+      "count": 79
+    },
+    {
+      "name": "漫画改",
+      "count": 33
+    },
+    {
+      "name": "2018",
+      "count": 53
+    },
+    {
+      "name": "OAD",
+      "count": 40
+    },
+    {
+      "name": "里番",
+      "count": 28
+    },
+    {
+      "name": "漫改",
+      "count": 23
+    },
+    {
+      "name": "MAPPA",
+      "count": 22
+    },
+    {
+      "name": "基",
+      "count": 9
+    },
+    {
+      "name": "日本动画",
+      "count": 5
+    },
+    {
+      "name": "校园",
+      "count": 4
+    },
+    {
+      "name": "腐",
+      "count": 2
+    },
+    {
+      "name": "搞笑",
+      "count": 2
+    },
+    {
+      "name": "小林裕介",
+      "count": 2
+    },
+    {
+      "name": "2018年",
+      "count": 1
+    },
+    {
+      "name": "中推",
+      "count": 1
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "241186"
+    },
+    {
+      "site": "unext",
+      "id": "SID0102583",
+      "begin": "2024-11-22T03:00:00.000Z",
+      "broadcast": "R/2024-11-22T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "2090"
+    },
+    {
+      "site": "danime",
+      "id": "26943",
+      "begin": "2024-09-30T15:00:00.000Z",
+      "broadcast": "R/2024-09-30T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0CGK28FVZ",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

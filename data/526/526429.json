@@ -1,0 +1,157 @@
+{
+  "id": 526429,
+  "name": "0歳児スタートダッシュ物語 シーズン2",
+  "name_cn": "0岁儿童开始冲刺的故事 第二季",
+  "summary": "",
+  "date": "2025-01-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/fb/d1/526429_1qL8O.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/fb/d1/526429_1qL8O.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 0,
+    "total": 9,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 2,
+      "4": 2,
+      "5": 1,
+      "6": 2,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 4.7
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年1月",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "木野日菜",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "25冬",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "山谷祥生2024",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2020-2029",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "大日本印刷株式会社",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未上映",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "萝莉",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "续集",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "山谷祥生",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "526429"
+    },
+    {
+      "site": "unext",
+      "id": "SID0163695",
+      "begin": "2025-01-05T09:00:00.000Z",
+      "broadcast": "R/2025-01-05T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "27571",
+      "begin": "2025-01-12T09:00:00.000Z",
+      "broadcast": "R/2025-01-12T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0DBZCYJ67",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": 38433,
+  "name": "パンツァードラグーン",
+  "name_cn": "装甲龙骑兵",
+  "summary": "本作を原作とするオリジナルビデオアニメーションが1996年に制作された。実制作はProduction I.Gが担当し、当時はまだ珍しいデジタルアニメ制作が成された。しかしストーリーや設定がゲーム本編と著しく異なったり、3DCGと手描き取り込み部分との違和感が大きかったりするなどの問題が指摘されている。",
+  "date": "1996-10-25",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/46/fc/38433_po1ME.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/46/fc/38433_po1ME.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 8,
+    "count": {
+      "1": 0,
+      "2": 1,
+      "3": 2,
+      "4": 2,
+      "5": 2,
+      "6": 1,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 4
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "1996",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "ProductionI.G",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "独立ova",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "找不到日配不想看",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1分钟弃",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Production.I.G",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "38433"
+    },
+    {
+      "site": "danime",
+      "id": "11108",
+      "begin": "2014-02-07T01:00:00.000Z",
+      "broadcast": "R/2014-02-07T01:00:00.000Z/P7D"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "id": 49277,
+  "name": "元祖 爆れつハンター",
+  "name_cn": "暴走猎人OVA",
+  "summary": "TVアニメの放送後に制作された、一話完結方式の短編OVAシリーズ。TV版では抑えられていたショコラやティラのコスチュームの露出度がアップし、性格や設定もより原作に近くなった。",
+  "date": "1996-12-21",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/7b/67/49277_x7537.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/7b/67/49277_x7537.jpg"
+  },
+  "eps": 3,
+  "rating": {
+    "rank": 0,
+    "total": 44,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 4,
+      "5": 8,
+      "6": 12,
+      "7": 13,
+      "8": 4,
+      "9": 1,
+      "10": 1
+    },
+    "score": 6.2
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 34,
+      "total_cont": 0
+    },
+    {
+      "name": "XEBEC",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "1996",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "川井宪次",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "林原惠",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "肉",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "乳首",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "加户誉夫",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "后藤圭二",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "林原めぐみ",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "古本新之輔",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "川崎ヒロユキ",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "赤堀悟",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "加戸誉夫",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "95~99年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "4(-1)",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1990s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "巨乳",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "后宫",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "轻小说改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "卖肉",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "佐藤顺一",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "49277"
+    },
+    {
+      "site": "danime",
+      "id": "10403",
+      "begin": "2020-03-13T01:00:00.000Z",
+      "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": 532061,
+  "name": "猫になりたい田万川くん",
+  "name_cn": "想变成猫的田万川君",
+  "summary": "日々の仕事に悩む田万川の唯一の癒しは、猫カフェでのボランティア。\r\n\r\n猫カフェの店長からは\r\n「もっと力を抜いて甘えることを覚えた方がいい」と\r\nアドバイスされる。\r\n\r\nそんなある日、田万川はカフェに偶然やってきた來生に、突然「猫」として飼いたいと言われて……。",
+  "date": "2025-01-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/a2/77/532061_J0fzh.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/a2/77/532061_J0fzh.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 32,
+    "count": {
+      "1": 1,
+      "2": 1,
+      "3": 0,
+      "4": 5,
+      "5": 17,
+      "6": 5,
+      "7": 1,
+      "8": 2,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5
+  },
+  "tags": [
+    {
+      "name": "BL",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年1月",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "短篇",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "aeonium",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "岩村昂平",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "532061"
+    },
+    {
+      "site": "mikan",
+      "id": "3566"
+    }
+  ]
+}

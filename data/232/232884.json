@@ -1,0 +1,197 @@
+{
+  "id": 232884,
+  "name": "銀魂. 銀ノ魂篇",
+  "name_cn": "银魂. 银之魂篇",
+  "summary": "",
+  "date": "2018-01-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/1d/7c/232884_OIoro.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/1d/7c/232884_OIoro.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 1730,
+    "total": 1172,
+    "count": {
+      "1": 9,
+      "2": 6,
+      "3": 6,
+      "4": 15,
+      "5": 58,
+      "6": 204,
+      "7": 386,
+      "8": 319,
+      "9": 102,
+      "10": 67
+    },
+    "score": 7.2
+  },
+  "tags": [
+    {
+      "name": "搞笑",
+      "count": 202,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 185,
+      "total_cont": 0
+    },
+    {
+      "name": "2018年1月",
+      "count": 184,
+      "total_cont": 0
+    },
+    {
+      "name": "銀魂",
+      "count": 164,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 135,
+      "total_cont": 0
+    },
+    {
+      "name": "JUMP",
+      "count": 102,
+      "total_cont": 0
+    },
+    {
+      "name": "2018",
+      "count": 101,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 98,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 75,
+      "total_cont": 0
+    },
+    {
+      "name": "银魂",
+      "count": 73,
+      "total_cont": 0
+    },
+    {
+      "name": "BNPictures",
+      "count": 59,
+      "total_cont": 0
+    },
+    {
+      "name": "BN_Pictures",
+      "count": 56,
+      "total_cont": 0
+    },
+    {
+      "name": "杉田智和",
+      "count": 43,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 37,
+      "total_cont": 0
+    },
+    {
+      "name": "SUNRISE",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "吐槽",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "银他妈",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "宮脇千鶴",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "宫胁千鹤",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "石田彰",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "恶搞",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "钉宫理惠",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "长篇",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2018年",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "1月",
+      "count": 3,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "232884"
+    },
+    {
+      "site": "mikan",
+      "id": "1546"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "5a43141617d48cbd4a96261c"
+    }
+  ]
+}

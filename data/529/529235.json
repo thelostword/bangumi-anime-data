@@ -1,0 +1,61 @@
+{
+  "id": 529235,
+  "name": "おしりたんてい 第7シリーズ",
+  "name_cn": "屁屁侦探 第七季",
+  "summary": "",
+  "date": "2023-04-08",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/97/de/529235_2EqAK.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/97/de/529235_2EqAK.jpg"
+  },
+  "eps": 15,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "529235"
+    },
+    {
+      "site": "danime",
+      "id": "26309",
+      "begin": "2023-04-10T03:00:00.000Z",
+      "broadcast": "R/2023-04-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0BZLRZ9W5",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

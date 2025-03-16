@@ -1,0 +1,105 @@
+{
+  "id": 495674,
+  "name": "刀剣乱舞 廻 -々伝 近し侍らうものら-",
+  "name_cn": "刀剑乱舞 回 -旋传 亲近的侍从们-",
+  "summary": "自身が率いる部隊を全滅させかけてしまった山姥切国広は、自らの申し出により近侍を辞すことに。主である審神者より新たな近侍へと任命されたへし切長谷部。ただへし切長谷部はそのことに納得できずにいる。これは受け継がれ、繰り返される、近侍の物語─。",
+  "date": "2024-08-16",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/b3/1e/495674_PR772.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/b3/1e/495674_PR772.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 3,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 2,
+      "5": 0,
+      "6": 0,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "domerica",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "ドメリカ",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "刀剑乱舞",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "末満健一",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "前野智昭",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "新垣樽助",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "市川量也",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "495674"
+    },
+    {
+      "site": "unext",
+      "id": "SID0163694",
+      "begin": "2024-12-24T15:00:00.000Z",
+      "broadcast": "R/2024-12-24T15:00:00.000Z/P7D"
+    }
+  ]
+}

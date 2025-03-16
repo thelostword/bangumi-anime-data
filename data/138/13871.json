@@ -1,0 +1,195 @@
+{
+  "id": 13871,
+  "name": "哀しみのベラドンナ",
+  "name_cn": "悲伤的贝拉多娜",
+  "summary": "美丽的贝拉多娜于新婚之际被领主夺去贞洁，丈夫在她憔悴归来之后却无安慰，贝拉多娜哀怨的身体召唤出恶魔，给予她慰藉。不久战争爆发，镇中壮丁随领主出征，贝拉多娜在丈夫一蹶不振之后凭神秘的能力维持城堡的供应，招来领主夫人妒恨，终被收监。身形愈发庞大的黑色恶魔到来，带走贝拉多娜，用瘟疫吞噬了茫茫大地，贝拉多娜用自己的特异能力解救人民，领主却再一次加害于她……\r\n",
+  "date": "1973-06-30",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/bc/a3/13871_uRQq6.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/bc/a3/13871_uRQq6.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 485,
+    "total": 647,
+    "count": {
+      "1": 4,
+      "2": 2,
+      "3": 1,
+      "4": 4,
+      "5": 14,
+      "6": 52,
+      "7": 157,
+      "8": 232,
+      "9": 131,
+      "10": 50
+    },
+    "score": 7.8
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 320,
+      "total_cont": 0
+    },
+    {
+      "name": "1973",
+      "count": 199,
+      "total_cont": 0
+    },
+    {
+      "name": "手塚治虫",
+      "count": 196,
+      "total_cont": 0
+    },
+    {
+      "name": "虫Production",
+      "count": 157,
+      "total_cont": 0
+    },
+    {
+      "name": "山本暎一",
+      "count": 111,
+      "total_cont": 0
+    },
+    {
+      "name": "成人三部曲",
+      "count": 108,
+      "total_cont": 0
+    },
+    {
+      "name": "里番",
+      "count": 83,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 75,
+      "total_cont": 0
+    },
+    {
+      "name": "虫プロダクション",
+      "count": 40,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "70年代",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "映画",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "补旧番",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "动画电影",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "艺术",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "1970s",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "佐藤允彦",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "电影",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "1973年",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "杉井ギサブロー",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "虫制作",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "福田善之",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "神作",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "上世纪",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "70s",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ映画",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "山本映一",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "深井国",
+      "count": 3,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "13871"
+    },
+    {
+      "site": "unext",
+      "id": "SID0158881",
+      "begin": "2024-11-15T03:00:00.000Z",
+      "broadcast": "R/2024-11-15T03:00:00.000Z/P7D"
+    }
+  ]
+}

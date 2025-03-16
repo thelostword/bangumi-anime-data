@@ -1,0 +1,115 @@
+{
+  "id": 112664,
+  "name": "ユニコ 黒い雲と白い羽",
+  "name_cn": "小小独角兽 黑云与白羽毛",
+  "summary": "小白角被西风带到一个荒芜小镇，遇到好心的老鼠一家，并且认识了生病的小女孩。原来镇上的工厂污染了大地天空，人们都生病，离开了。小白角摧毁了工厂，使小女孩恢复健康，但又一次被西风带走。 \r\n手塚治虫原作のリリカに掲載されたシナリオを映像化したもの。劇場用のパイロット版作品として製作されたが、劇場公開はされなかった。1979年製作。 ",
+  "date": "1989-06-28",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/af/27/112664_br4a0.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/af/27/112664_br4a0.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 10,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 0,
+      "5": 5,
+      "6": 3,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.3
+  },
+  "tags": [
+    {
+      "name": "1979",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "独立ova",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "MADHouse",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "（日本）最早ova动漫",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "平田敏夫",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1970s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "手塚治虫",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "剧场版",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "辻真先",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "112664"
+    },
+    {
+      "site": "danime",
+      "id": "25482",
+      "begin": "2023-05-01T01:00:00.000Z",
+      "broadcast": "R/2023-05-01T01:00:00.000Z/P7D"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "id": 37184,
+  "name": "ゲッターロボ號",
+  "name_cn": "盖塔机器人号",
+  "summary": "　　西暦200X年、北極に建造された多国籍開発基地「ポーラー・ステーション」を乗っ取った狂気の科学者「ドクターランドウ」は巨大ロボット「メタルビースト」の軍団を率いて世界征服に乗り出した。\r\n　　日本の防衛庁はそれに対抗するため、北海道のサロマ湖畔にあるNISAR（ネイサー、日本国際航空宇宙技術公団）の所有する宇宙開発用ロボット「ゲッターロボ」に協力を要請。当初はゲッターロボを戦闘に使用することに難色を示していたNISARの橘博士だったが、戦いの中で死者を出したことで、ゲッターの戦闘用強化に本腰を入れることになる。\r\n　　当初は非変形で武装も無く、徒手空拳で戦っていたゲッターロボであるが、激しさを増す戦いの中で徐々に武装が施され、第11話で3機の飛行メカが合体して3種の形態に変形するスーパーロボットへと生まれ変わる。",
+  "date": "1991-02-11",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e7/65/37184_PcbCu.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e7/65/37184_PcbCu.jpg"
+  },
+  "eps": 50,
+  "rating": {
+    "rank": 0,
+    "total": 26,
+    "count": {
+      "1": 1,
+      "2": 1,
+      "3": 0,
+      "4": 2,
+      "5": 6,
+      "6": 4,
+      "7": 11,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.8
+  },
+  "tags": [
+    {
+      "name": "1991",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "永井豪",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "草尾毅",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "萝卜",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "神谷明",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "东映",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "東映アニメーション",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "盖塔",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "盖塔Go",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "robo",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "机战",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "小林优子",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "石川贤",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "田之中勇",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1991年1月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "屹青",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1991年2月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "吉沢孝男",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1991.01",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "渡辺正彦",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "ロボットアニメ",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "石川賢",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "机甲",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "37184"
+    },
+    {
+      "site": "danime",
+      "id": "24819",
+      "begin": "2023-02-28T01:00:00.000Z",
+      "broadcast": "R/2023-02-28T01:00:00.000Z/P7D"
+    }
+  ]
+}

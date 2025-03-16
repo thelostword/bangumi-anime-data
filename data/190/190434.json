@@ -1,0 +1,111 @@
+{
+  "id": 190434,
+  "name": "こぐまのミーシャ",
+  "name_cn": "小熊米沙",
+  "summary": "小熊米沙和爸爸妈妈一起搬到了动物们和平共处的山奥之村，他们与娜塔莎和老虎一家、豆多（北海狮）的署长们，以及村里的大家一起开始了新的生活。\r\n\r\n本作是以1980年开办的莫斯科奥林匹克的吉祥物“米沙”为主人公，得到了奥林匹克委员会承认制作而成TV动画。",
+  "date": "1979-10-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/62/6e/190434_rZCGW.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/62/6e/190434_rZCGW.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "赛璐珞",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "苏联",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "1979年10月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1979年十月番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "70s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1979",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画公司",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "欧美",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1979年",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "190434"
+    },
+    {
+      "site": "danime",
+      "id": "24052",
+      "begin": "2020-08-14T01:00:00.000Z",
+      "broadcast": "R/2020-08-14T01:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0003320",
+      "begin": "2015-02-16T15:00:00.000Z",
+      "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+    }
+  ]
+}

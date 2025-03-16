@@ -1,0 +1,199 @@
+{
+  "id": 400776,
+  "name": "あんさんぶるスターズ！！追憶セレクション『エレメント』",
+  "name_cn": "偶像梦幻祭 追忆Selection『Element』",
+  "summary": "",
+  "date": "2023-04-06",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/8b/b7/400776_WbLWV.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/8b/b7/400776_WbLWV.jpg"
+  },
+  "eps": 6,
+  "rating": {
+    "rank": 0,
+    "total": 33,
+    "count": {
+      "1": 1,
+      "2": 2,
+      "3": 1,
+      "4": 2,
+      "5": 10,
+      "6": 7,
+      "7": 6,
+      "8": 2,
+      "9": 1,
+      "10": 1
+    },
+    "score": 5.6
+  },
+  "tags": [
+    {
+      "name": "游戏改",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "偶像",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "Dandelion",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "2023",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "HappyElements",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2023年4月",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "山崎理",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "女性向",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "3D",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "増田俊樹",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "手游改",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2023年",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "ダンデライオン",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2023年春",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2023春",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "石川界人",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2020-2029",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "DandelionAnimationStudio",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日日日",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "乙女向",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "諏訪部順一",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "音乐",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "江口拓也",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "野島健児",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "花江夏樹",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "400776"
+    },
+    {
+      "site": "mikan",
+      "id": "3037"
+    },
+    {
+      "site": "danime",
+      "id": "26683",
+      "begin": "2023-10-31T15:00:00.000Z",
+      "broadcast": "R/2023-10-31T15:00:00.000Z/P7D"
+    }
+  ]
+}

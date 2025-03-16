@@ -1,0 +1,61 @@
+{
+  "id": 529232,
+  "name": "おしりたんてい 第5シリーズ",
+  "name_cn": "屁屁侦探 第五季",
+  "summary": "",
+  "date": "2021-04-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ef/81/529232_j6Qgg.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ef/81/529232_j6Qgg.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "529232"
+    },
+    {
+      "site": "danime",
+      "id": "24602",
+      "begin": "2021-04-05T03:00:00.000Z",
+      "broadcast": "R/2021-04-05T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B07CX58VD1",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

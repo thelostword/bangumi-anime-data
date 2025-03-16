@@ -1,0 +1,185 @@
+{
+  "id": 79981,
+  "name": "安達が原",
+  "name_cn": "安达之原",
+  "summary": "独裁者を倒すために活動していた宇宙パイロットのジェスは、政府に捕まり、はるか遠い流刑星に送られてしまう。彼の恋人、アンニー黒塚はそれをきっかけに反政府運動に身を投じるが、彼女もまた追われる身となり、小さな星に逃亡する。彼女は追手を殺し、その肉を喰らって、主人公の帰りを待ち続けるのだが…。",
+  "date": "1991-11-16",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/78/c2/79981_jfjGO.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/78/c2/79981_jfjGO.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 28,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 3,
+      "5": 6,
+      "6": 7,
+      "7": 7,
+      "8": 5,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.2
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 24,
+      "total_cont": 0
+    },
+    {
+      "name": "1991",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "坂口尚",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "手塚治虫",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "手塚PRODUCTION",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "90年代",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "京田尚子",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "辻谷耕史",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "稻叶实",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "剧场版",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "内海贤二",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "独立ova",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "90-94",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "手塚PRO",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "独立OVA、OAD、特番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "平静",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "短篇动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "SF",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "伊藤美纪",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "魔女",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "其他",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "手塚プロダクション",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "手冢Production",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "手冢治虫",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "79981"
+    },
+    {
+      "site": "danime",
+      "id": "24066",
+      "begin": "2020-07-10T01:00:00.000Z",
+      "broadcast": "R/2020-07-10T01:00:00.000Z/P7D"
+    }
+  ]
+}

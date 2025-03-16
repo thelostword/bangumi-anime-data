@@ -1,0 +1,153 @@
+{
+  "id": 186395,
+  "name": "蒼き雷霆ガンヴォルト",
+  "name_cn": "苍蓝雷霆：刚巴尔特",
+  "summary": "人類の中に“第七波動（セブンス）”と呼ばれる特殊能力を持つ者――第七波動（セブンス）能力者が現れ始めた近未来。\r\n世界中が混乱をきたす中、日本国内では、巨大複合企業“皇神（スメラギ）”グループの統制により安定した秩序が保たれていた。\r\n……しかし、皇神がもたらした平和とは、能力者の犠牲の上に成り立つ仮初めの平和に過ぎなかった。\r\n表向きにはクリーンな企業として振舞いながらも、その裏では能力者たちを強制収容し、非人道的な人体実験を今なお続ける皇神。\r\nそんな皇神の裏にいち早く気付き、反旗を翻した組織があった――その名を“フェザー”。\r\nフェザーに所属する第七波動（セブンス）能力者の少年“ガンヴォルト”は、能力者たちの自由のため、今夜もまた皇神の施設へと潜入するのだった。",
+  "date": "2017-02-09",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/0a/8b/186395_Ora0W.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/0a/8b/186395_Ora0W.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 27,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 6,
+      "5": 7,
+      "6": 10,
+      "7": 2,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 5.4
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "2017",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "村越繁",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2016年10月",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "小高义规",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改编",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "东北新社",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "小高義規",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "東北新社",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "ランドック・スタジオ",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "櫻川めぐ",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2017年OVA·OAD",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "独立ova",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "改编",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "伪",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "石川界人",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2016",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2016年",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "186395"
+    },
+    {
+      "site": "mikan",
+      "id": "1475"
+    }
+  ]
+}

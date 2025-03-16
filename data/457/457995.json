@@ -1,0 +1,195 @@
+{
+  "id": 457995,
+  "name": "かげじつ！せかんど",
+  "name_cn": "影实！第二季",
+  "summary": "",
+  "date": "2023-10-04",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/d9/de/457995_Vog7o.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/d9/de/457995_Vog7o.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 4516,
+    "total": 424,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 6,
+      "5": 35,
+      "6": 162,
+      "7": 175,
+      "8": 33,
+      "9": 6,
+      "10": 6
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 149,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 107,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 91,
+      "total_cont": 0
+    },
+    {
+      "name": "异世界",
+      "count": 74,
+      "total_cont": 0
+    },
+    {
+      "name": "2023年10月",
+      "count": 72,
+      "total_cont": 0
+    },
+    {
+      "name": "2023",
+      "count": 67,
+      "total_cont": 0
+    },
+    {
+      "name": "STUDIOPUYUKAI",
+      "count": 58,
+      "total_cont": 0
+    },
+    {
+      "name": "轻小说改",
+      "count": 55,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 36,
+      "total_cont": 0
+    },
+    {
+      "name": "轻改",
+      "count": 28,
+      "total_cont": 0
+    },
+    {
+      "name": "番外",
+      "count": 26,
+      "total_cont": 0
+    },
+    {
+      "name": "龙傲天",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "小剧场",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "想要成为影之实力者",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "芦名みのる",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "SP",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "スタジオぷYUKAI",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "想要成为影之实力者！",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "后宫",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "7",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "陰の実力者になりたくて！",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "457995"
+    },
+    {
+      "site": "danime",
+      "id": "26648",
+      "begin": "2023-10-04T15:00:00.000Z",
+      "broadcast": "R/2023-10-04T15:00:00.000Z/P7D"
+    }
+  ]
+}

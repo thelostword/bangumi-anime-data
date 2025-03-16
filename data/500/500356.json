@@ -1,0 +1,251 @@
+{
+  "id": 500356,
+  "name": "FARMAGIA",
+  "name_cn": "魔农传记",
+  "summary": "魔界フェリシダ――。そこには「魔界人」と呼ばれる人々が、モンスターたちと共生していた。\r\n\r\n5大陸の1つ、アウリオン大陸に住む少年・テンもその一人であった。彼は、モンスターたちを種から育て収穫し、使役する「ファーマギア」であり、各大陸を治める領主・ 竜顎六柱将になるため最強のモンスターの種を育てていた。\r\n\r\nそんなある日のこと……、突如としてもたらされた「魔王・ディルクロム」の死によって世界は一変する――。人々の悲しみも束の間、新魔王となった 竜顎六柱将の一人、グラーザによる支配が始まるのだった。\r\n\r\n大切な人たちを守るため、最強のファーマギアになるため……\r\n\r\nテンは仲間のファーマギアとモンスターと共に 竜顎六柱将に立ち向かう！",
+  "date": "2025-01-10",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/fe/59/500356_5grvt.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/fe/59/500356_5grvt.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 8690,
+    "total": 75,
+    "count": {
+      "1": 4,
+      "2": 5,
+      "3": 11,
+      "4": 30,
+      "5": 21,
+      "6": 1,
+      "7": 0,
+      "8": 1,
+      "9": 1,
+      "10": 1
+    },
+    "score": 4.1
+  },
+  "tags": [
+    {
+      "name": "游戏改",
+      "count": 34,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年1月",
+      "count": 34,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 22,
+      "total_cont": 0
+    },
+    {
+      "name": "BRIDGE",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "异世界",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "種﨑敦美",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "FARMAGIA",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "佐野聡彦",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "种田",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "25冬",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "土田玲央",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "特定人群向",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "冬季",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "冬季番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "真岛浩",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "魔法",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改编",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "ブリッジ",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "根元歳三",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "厕纸",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "三话弃",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "天﨑滉平",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "500356"
+    },
+    {
+      "site": "nicovideo",
+      "id": "farmagia",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "677aa0952f6756712facfc82"
+    },
+    {
+      "site": "abema",
+      "id": "171-25",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtQ_9-zXJbQ3RXoEQBsosmuI",
+      "begin": "2025-01-10T14:30:06.000Z",
+      "broadcast": "R/2025-01-10T14:30:06.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jju9jZyfPvPCWVljX8k4yjY",
+      "begin": "2025-01-10T14:30:06.000Z",
+      "broadcast": "R/2025-01-10T14:30:06.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0163170",
+      "begin": "2025-01-14T03:00:00.000Z",
+      "broadcast": "R/2025-01-14T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "142404",
+      "begin": "2025-01-10T14:30:00.000Z",
+      "broadcast": "R/2025-01-10T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3529"
+    },
+    {
+      "site": "gamer",
+      "id": "142404",
+      "begin": "2025-01-10T14:30:00.000Z",
+      "broadcast": "R/2025-01-10T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "27497",
+      "begin": "2025-01-14T03:00:00.000Z",
+      "broadcast": "R/2025-01-14T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0DFV5N4XD",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

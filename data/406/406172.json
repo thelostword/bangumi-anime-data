@@ -1,0 +1,148 @@
+{
+  "id": 406172,
+  "name": "「FLAGLIA」～なつやすみの物語～",
+  "name_cn": "FLAGLIA",
+  "summary": "伊子是小学三年级学生。\r\n他和4个哥哥一起住在馆山的旧房子里。\r\n伊子的家没有父母。\r\n听哥哥说，母亲在东京工作，就由年龄相差悬殊的哥哥们抚养儿子。\r\n虽然有些奇怪，但伊子很喜欢珍惜自己的哥哥们。\r\n但是，他们都有秘密。\r\n实际上，他们是生活在接近永远时刻的“魔法师”。\r\n他们为什么会来这里？\r\n为什么要当哥哥呢？\r\n这是一个被卷入魔法使们的世界，在暑假海边的街道上快乐生活的家人的故事。",
+  "date": "2023-01-16",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e7/59/406172_Jcl8M.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e7/59/406172_Jcl8M.jpg"
+  },
+  "eps": 6,
+  "rating": {
+    "rank": 0,
+    "total": 15,
+    "count": {
+      "1": 0,
+      "2": 1,
+      "3": 0,
+      "4": 1,
+      "5": 5,
+      "6": 4,
+      "7": 2,
+      "8": 1,
+      "9": 1,
+      "10": 0
+    },
+    "score": 5.7
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "川崎逸朗",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2023年1月",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "StudioGaina",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2023",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2023冬",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2023年春",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "ユナク",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "FLAGLIA",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "StudiGAINA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "堂珍嘉邦",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2020-2029",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "高殿円",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "6",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未确定",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "女性向",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "GAINA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "406172"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "63b58c40441dff2ff8927e63"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 257831,
+  "name": "荒野の少年イサム",
+  "name_cn": "大漠小英雄",
+  "summary": "　大西部の荒野で、幼くして母に死なれ、父親ともはぐれてしまった渡りイサムは、善良なロッテン・キャンプの人々の手を経て、悪の天才ウインゲート親子に拾われた。アウトローとしての冷酷な銃の教育を受け続ける日々……。だが、持ち前の正義心から、イサムは自分の銃が悪に使われることに疑問を持ちはじめ、ついにはウインゲート親子と手を切る。正義と悪の銃、イサムはその違いを知ることで、一人前のガンマンになっていく。\r\n",
+  "date": "1973-04-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/f2/b0/257831_ICzx7.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/f2/b0/257831_ICzx7.jpg"
+  },
+  "eps": 52,
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "TVA",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "赛璐珞",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "东京电影",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "70s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1973",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "神谷明",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "257831"
+    },
+    {
+      "site": "danime",
+      "id": "23361",
+      "begin": "2020-03-13T01:00:00.000Z",
+      "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+    }
+  ]
+}

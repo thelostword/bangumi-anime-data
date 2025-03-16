@@ -1,0 +1,75 @@
+{
+  "id": 277150,
+  "name": "Hello WeGo!",
+  "name_cn": "",
+  "summary": "「メカトロウィーゴ」は子供が乗って操縦できるメカトロボット。\r\n祖母にプレゼントされた古いウィーゴに乗る小学生のサトル。秘密基地に集合したウィーゴ達がレースで飛び出してゆくなか、サトルは初めの一歩を踏み出すことができなかった。そんな彼をクラスメイトのアキラはもう一度レースに誘うが…。\r\n近未来、海辺の田舎町で起こる少年とロボットの物語。",
+  "date": "2019-03-09",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/43/65/277150_1zFB3.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/43/65/277150_1zFB3.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 5,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 2,
+      "7": 0,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.2
+  },
+  "tags": [
+    {
+      "name": "2019",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "WITSTUDIO",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "青年动画制作者育成计划",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "剧场版",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2019年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "空",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "277150"
+    },
+    {
+      "site": "danime",
+      "id": "23992",
+      "begin": "2020-06-12T01:00:00.000Z",
+      "broadcast": "R/2020-06-12T01:00:00.000Z/P7D"
+    }
+  ]
+}

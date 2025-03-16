@@ -1,0 +1,119 @@
+{
+  "id": 358514,
+  "name": "ガル学。II～Lucky Stars～",
+  "name_cn": "",
+  "summary": "",
+  "date": "2022-01-10",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/07/a4/358514_y6yN1.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/07/a4/358514_y6yN1.jpg"
+  },
+  "eps": 10,
+  "rating": {
+    "rank": 0,
+    "total": 6,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 2,
+      "6": 4,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.7
+  },
+  "tags": [
+    {
+      "name": "2022",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "OLM",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "中田誠",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2022年1月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2022冬",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "小田柚葉",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "OLMTEAMOTA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "偶像",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "藤咲淳一",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "358514"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "61d721ff6e31a0815abf540c"
+    },
+    {
+      "site": "danime",
+      "id": "25272",
+      "begin": "2022-01-21T03:00:00.000Z",
+      "broadcast": "R/2022-01-21T03:00:00.000Z/P7D"
+    }
+  ]
+}

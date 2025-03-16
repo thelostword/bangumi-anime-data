@@ -1,0 +1,55 @@
+{
+  "id": 316755,
+  "name": "ハローキティの桃太郎",
+  "name_cn": "凯蒂猫 桃太郎",
+  "summary": "",
+  "date": "2001-10-26",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e2/07/316755_I2rR1.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e2/07/316755_I2rR1.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 2,
+    "count": {
+      "1": 0,
+      "2": 1,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 3.5
+  },
+  "tags": [
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "316755"
+    },
+    {
+      "site": "danime",
+      "id": "25528",
+      "begin": "2023-01-20T01:00:00.000Z",
+      "broadcast": "R/2023-01-20T01:00:00.000Z/P7D"
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "id": 465773,
+  "name": "GREAT PRETENDER razbliuto",
+  "name_cn": "大欺诈师 razbliuto",
+  "summary": "ローラン・ティエリーをコンゲームの世界に誘った自称天才詐欺師ドロシー。上海龍虎幇とのゲームに敗北し、彼女は命を落とした……はずだった。海辺の小さな村、アジアの都市・台北から少しはなれたその場所に彼女の姿はあった。台北の裏社会に追われ、京都を目指す、その先に待っているものとは―…！？",
+  "date": "2024-02-23",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/6c/c2/465773_8wxWB.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/6c/c2/465773_8wxWB.jpg"
+  },
+  "eps": 4,
+  "rating": {
+    "rank": 8733,
+    "total": 383,
+    "count": {
+      "1": 12,
+      "2": 8,
+      "3": 33,
+      "4": 76,
+      "5": 112,
+      "6": 98,
+      "7": 27,
+      "8": 9,
+      "9": 5,
+      "10": 3
+    },
+    "score": 5
+  },
+  "tags": [
+    {
+      "name": "原创",
+      "count": 117,
+      "total_cont": 0
+    },
+    {
+      "name": "WITSTUDIO",
+      "count": 116,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 79,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年1月",
+      "count": 70,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 57,
+      "total_cont": 0
+    },
+    {
+      "name": "悬疑",
+      "count": 44,
+      "total_cont": 0
+    },
+    {
+      "name": "剧场版",
+      "count": 38,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 29,
+      "total_cont": 0
+    },
+    {
+      "name": "大欺诈师",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "镝木宏",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "岸本卓",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "鏑木ひろ",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "智斗",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "古泽良太",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "犯罪",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2024冬",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "小松由佳",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "手島舞",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未保存",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2020-2029",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "台独",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "可独立观赏",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年冬",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Q1",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "#5",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "465773"
+    },
+    {
+      "site": "mikan",
+      "id": "3277"
+    },
+    {
+      "site": "crunchyroll",
+      "id": "GJ0H7QG4K",
+      "begin": "2024-02-21T15:00:00.000Z",
+      "broadcast": "R/2024-02-21T15:00:00.000Z/P7D"
+    }
+  ]
+}

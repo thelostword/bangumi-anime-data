@@ -1,0 +1,239 @@
+{
+  "id": 488960,
+  "name": "僕のヒーローアカデミア Memories",
+  "name_cn": "我的英雄学院 memories",
+  "summary": "4月6日、13日、20日、27日には、第7期へとつながる重要な物語に新規シーンを交えた「僕のヒーローアカデミア Memories」が全4回にて放送される\r\n4月6日、13日、20日和27日，《我的英雄学院 回忆》将分四集播出，收录第七季重要故事的新场景。",
+  "date": "2024-04-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/f2/11/488960_1GbYP.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/f2/11/488960_1GbYP.jpg"
+  },
+  "eps": 4,
+  "rating": {
+    "rank": 9026,
+    "total": 115,
+    "count": {
+      "1": 59,
+      "2": 4,
+      "3": 6,
+      "4": 7,
+      "5": 15,
+      "6": 7,
+      "7": 6,
+      "8": 2,
+      "9": 3,
+      "10": 6
+    },
+    "score": 3.3
+  },
+  "tags": [
+    {
+      "name": "BONES",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 22,
+      "total_cont": 0
+    },
+    {
+      "name": "总集篇",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年4月",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "反人类",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "TVSP",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "人类垃圾",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "三宅健太",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "已保存",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "辱华",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "6.5分系列",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2024春",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "hao",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "我的英雄学院",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "特别篇",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "長崎健司",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "黒田洋介",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "向井雅浩",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "山下大輝",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "488960"
+    },
+    {
+      "site": "unext",
+      "id": "SID0100079",
+      "begin": "2024-04-06T09:00:00.000Z",
+      "broadcast": "R/2024-04-06T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "131287",
+      "begin": "2024-04-06T09:30:00.000Z",
+      "broadcast": "R/2024-04-06T09:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "131287",
+      "begin": "2024-05-04T09:30:00.000Z",
+      "broadcast": "R/2024-05-04T09:30:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JhZzlOqZupbg_TRdfU5dk9D",
+      "begin": "2024-04-25T02:56:36.000Z",
+      "broadcast": "R/2024-04-25T02:56:36.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtQT6X5pGJ1Q1efk7NmVuFYO",
+      "begin": "2024-04-26T01:42:30.000Z",
+      "broadcast": "R/2024-04-26T01:42:30.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "66097bc816e6bbcc806d3452"
+    },
+    {
+      "site": "mikan",
+      "id": "3343"
+    },
+    {
+      "site": "crunchyroll",
+      "id": "G6NQ5DWZ6",
+      "begin": "2017-03-24T15:00:00.000Z",
+      "broadcast": "R/2017-03-24T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0CW64QG3J",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

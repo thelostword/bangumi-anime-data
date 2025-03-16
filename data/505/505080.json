@@ -1,0 +1,64 @@
+{
+  "id": 505080,
+  "name": "まぁるい彼女と残念な彼氏 続編",
+  "name_cn": "棉花糖女孩遇上闷骚男孩 续篇",
+  "summary": "",
+  "date": "2024-11-15",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c3/d6/505080_WwLvY.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c3/d6/505080_WwLvY.jpg"
+  },
+  "eps": 6,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2024秋",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "505080"
+    }
+  ]
+}

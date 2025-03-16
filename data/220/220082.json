@@ -1,0 +1,101 @@
+{
+  "id": 220082,
+  "name": "フクちゃん",
+  "name_cn": "得意仔",
+  "summary": "",
+  "date": "1982-11-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/41/56/220082_dVd72.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/41/56/220082_dVd72.jpg"
+  },
+  "eps": 71,
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "1982",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "1982年11月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "赛璐珞",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1982年十月番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1982年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "SHIN-EI动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "80s",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "220082"
+    },
+    {
+      "site": "danime",
+      "id": "23319",
+      "begin": "2020-03-06T01:00:00.000Z",
+      "broadcast": "R/2020-03-06T01:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0004821",
+      "begin": "2016-02-18T15:00:00.000Z",
+      "broadcast": "R/2016-02-18T15:00:00.000Z/P7D"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 421004,
+  "name": "発明BOYカニパン",
+  "name_cn": "机甲发明小子",
+  "summary": "痛快メカアクション・コメディ\r\nカニパンは発明家志望。ロボト“キッド”と発明家免許を取るための推薦人ナッツさんを探す冒険に出かけ、数々の事件に巻き込まれる。\r\n",
+  "date": "1998-07-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/dd/2e/421004_FsFvj.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/dd/2e/421004_FsFvj.jpg"
+  },
+  "eps": 31,
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "StudioComet",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "421004"
+    },
+    {
+      "site": "danime",
+      "id": "11562",
+      "begin": "2020-06-19T01:00:00.000Z",
+      "broadcast": "R/2020-06-19T01:00:00.000Z/P7D"
+    }
+  ]
+}

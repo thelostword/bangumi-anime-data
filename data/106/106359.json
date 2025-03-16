@@ -1,0 +1,115 @@
+{
+  "id": 106359,
+  "name": "シリウスの伝説",
+  "name_cn": "天狼星的传说",
+  "summary": "サンリオ創立20周年記念作品。ロミオとジュリエットをモチーフに、火の国の娘と水の世界の少年の禁じられた悲しい恋の行方を描く。仲のよい火の神テミスと水の神グラウコス姉弟に嫉妬した風の神アルゴンは、悪いウワサを流して２人の仲を引き裂こうと企んだ。まんまと乗せられた姉妹は、激しい諍いの末、姉は陸へ、弟は海へと別れてしまう。時は流れ、水の子シリウスは、ふとしたことから火の子マルタと出会った。たちまち恋に落ちる２人だったが…。",
+  "date": "1981-07-18",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/84/85/106359_o8Dfn.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/84/85/106359_o8Dfn.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 6,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 2,
+      "6": 3,
+      "7": 0,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "1981",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "独立剧场版",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "三丽鸥",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "サンリオ映画製作部",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "榊原郁恵",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "波多正美",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "桂千穂",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "小山茉美",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "劇場版",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "古谷徹",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "106359"
+    },
+    {
+      "site": "danime",
+      "id": "25555",
+      "begin": "2023-05-01T01:00:00.000Z",
+      "broadcast": "R/2023-05-01T01:00:00.000Z/P7D"
+    }
+  ]
+}

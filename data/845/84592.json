@@ -1,0 +1,195 @@
+{
+  "id": 84592,
+  "name": "ガラスの仮面",
+  "name_cn": "玻璃假面",
+  "summary": "",
+  "date": "1984-04-09",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/a7/46/84592_hQ9SQ.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/a7/46/84592_hQ9SQ.jpg"
+  },
+  "eps": 23,
+  "rating": {
+    "rank": 0,
+    "total": 12,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 4,
+      "6": 4,
+      "7": 3,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "1984",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "勝生真沙子",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "励志",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "Eiken",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "松岛みのり",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "大桥芳枝",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "藤本让",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "童年",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "北滨晴子",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "野泽那智",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "¬",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "松島みのり",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "ながら見",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "角田利隆",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "坂本雄作",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "中西妙子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "三矢雄二",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "童年回忆",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "补番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "杉井ギサブロー",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1话弃",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "胜生真沙子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "绪方贤一",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "森功至",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "84592"
+    },
+    {
+      "site": "danime",
+      "id": "20278",
+      "begin": "2015-08-21T01:00:00.000Z",
+      "broadcast": "R/2015-08-21T01:00:00.000Z/P7D"
+    }
+  ]
+}

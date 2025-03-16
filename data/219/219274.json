@@ -1,0 +1,188 @@
+{
+  "id": 219274,
+  "name": "バチカン奇跡調査官 OAD",
+  "name_cn": "梵蒂冈奇迹调查官 OAD",
+  "summary": "单行本第17卷限定版同捆OAD",
+  "date": "2018-04-11",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/f4/6d/219274_vnPIM.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/f4/6d/219274_vnPIM.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 47,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 3,
+      "5": 10,
+      "6": 22,
+      "7": 5,
+      "8": 4,
+      "9": 1,
+      "10": 1
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "OAD",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "2018",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "2018年4月",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "梵蒂冈奇迹调查官",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "米たにヨシトモ",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "节操社",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2018年",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "悬疑",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "水上清資",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "非独立OVA、OAD、特番等",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA-01",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA·OAD",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2018年OVA·OAD",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "178",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "岡本信彦",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "諏訪部順一",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "渡边信一郎",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "轻小说改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "J.C.STAFF",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "菅野洋子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "BONES",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Studio4℃",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Production.I.G",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "4月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "219274"
+    },
+    {
+      "site": "mikan",
+      "id": "1651"
+    }
+  ]
+}

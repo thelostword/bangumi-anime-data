@@ -1,0 +1,227 @@
+{
+  "id": 501205,
+  "name": "Unnamed Memory Act.2",
+  "name_cn": "无名记忆 第二季",
+  "summary": "オスカーにかけられた呪いの解呪に成功し、\r\n400年前から続く魔法士ラナクとの因縁にも\r\n決着をつけたティナーシャ。\r\n“呼ばれぬ魔女”レオノーラとの戦いも\r\nオスカーと共に乗り越え、\r\nようやく結ばれた二人は、ファルサスの\r\n人々に祝福されて結婚式を執り行う。\r\nしかし、平穏が訪れたのも束の間、\r\n時を超える魔法球が発動し、オスカーは\r\n400年前の世界へと跳ばされる。\r\nそこで起きる悲劇を見過ごせず、\r\nティナーシャを救うオスカーだが、\r\n過去を改変したことにより、これまでの\r\n歴史は消滅してしまう。\r\n残されたティナーシャは新たな未来での\r\nオスカーとの再会を願い、長い眠りにつく。\r\n二人は再び巡り会うことができるのか……？\r\n書き換えられた〈運命〉の物語は\r\nAct.2へと続く――。",
+  "date": "2025-01-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/22/53/501205_883DI.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/22/53/501205_883DI.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 8062,
+    "total": 179,
+    "count": {
+      "1": 6,
+      "2": 4,
+      "3": 12,
+      "4": 26,
+      "5": 43,
+      "6": 52,
+      "7": 24,
+      "8": 5,
+      "9": 2,
+      "10": 5
+    },
+    "score": 5.3
+  },
+  "tags": [
+    {
+      "name": "2025年1月",
+      "count": 98,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 81,
+      "total_cont": 0
+    },
+    {
+      "name": "轻小说改",
+      "count": 68,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 68,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 65,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 48,
+      "total_cont": 0
+    },
+    {
+      "name": "Engi",
+      "count": 44,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 39,
+      "total_cont": 0
+    },
+    {
+      "name": "无名记忆",
+      "count": 29,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 24,
+      "total_cont": 0
+    },
+    {
+      "name": "轻改",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "种崎敦美",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "三浦和也",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "异世界",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "可独立观赏",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "令和6年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "剧情档",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA-02",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年冬",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "25冬",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "#奇幻",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "#魔法",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未看续作",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "続篇",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025冬",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "501205"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "677aa08e2f6756712facfc5c"
+    },
+    {
+      "site": "mikan",
+      "id": "3549"
+    },
+    {
+      "site": "abema",
+      "id": "25-262",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0100050",
+      "begin": "2024-04-14T15:00:00.000Z",
+      "broadcast": "R/2024-04-14T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "24360257",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "crunchyroll",
+      "id": "G9VHN9QXQ",
+      "begin": "2025-01-07T14:30:00.000Z",
+      "broadcast": "R/2025-01-07T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "27028",
+      "begin": "2025-01-07T14:30:00.000Z",
+      "broadcast": "R/2025-01-07T14:30:00.000Z/P7D"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "id": 78055,
+  "name": "Ninja者",
+  "name_cn": "忍者",
+  "summary": "世界各地に侵略を続ける軍事国家、カブスによって滅ぼされてしまった国、ビャクロ。国が滅びる間際にまだ幼かった姫を連れて逃げ延びた忍者たちがいた。それから十数年が過ぎ、カブス打倒のためにひそかに修行を積んでいたサクラたちは昇段試験のためにビャクロ城にある巻物を盗み出そうとする。その頃、カブスの忍者軍団も行動を開始し…。",
+  "date": "1996-05-25",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/64/01/78055_VJJW6.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/64/01/78055_VJJW6.jpg"
+  },
+  "eps": 2,
+  "rating": {
+    "rank": 0,
+    "total": 21,
+    "count": {
+      "1": 0,
+      "2": 2,
+      "3": 1,
+      "4": 1,
+      "5": 10,
+      "6": 7,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 4.9
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "AIC",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "1996",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "独立ova",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "忍者题材",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "人设尚可",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "菅沼栄治",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "1995",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "坑",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "95-99",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "有胸无肉",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "鼻尖尖",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "忍者",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "中庸",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "OVAanime",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "菅沼荣治",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "快进看完的",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "其他",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "78055"
+    },
+    {
+      "site": "danime",
+      "id": "11325",
+      "begin": "2014-06-27T01:00:00.000Z",
+      "broadcast": "R/2014-06-27T01:00:00.000Z/P7D"
+    }
+  ]
+}

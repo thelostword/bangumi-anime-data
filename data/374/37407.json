@@ -1,0 +1,146 @@
+{
+  "id": 37407,
+  "name": "マーズ",
+  "name_cn": "mars",
+  "summary": "和六神合体一样是根据横山光辉的漫画マーズ改编的动画，OVA作品。原计划一共出4话，但由于卖不动而只出了2话就烂尾。 \r\n『鉄人28号』で知られる横山光輝の同題ロボットSFアクション漫画をOVA化。先立つ1981年にも本原作漫画は別会社で『六神合体ゴッドマーズ』としてTVアニメ化されているが、原作から大きく乖離した『ゴッドマーズ』に比して本OVAは原作のイメージを尊重。\r\n　秋の島新島で謎の少年を保護した軍事アナリストの山口玲子。東京で少年の身元を調査するが何も得られない。そんな中、謎の組織が少年を狙って巨大ロボットを繰り出してきた。これに対して少年も巨大ロボット＝ガイアーを召喚し、相手を打倒。少年＝マーズは玲子たちの質問に少しずつ答えていく。敵の怪ロボットは神体と呼ばれるもので、その目的はマーズの死だった。そして同時にそれはガイアーに内蔵された爆弾で地球が爆破してしまうことを意味していた……。\r\n　本作はBee Mediaが実制作を手がけた。惜しくも本OVAは全2話が作られたのみで、物語も未完のまま終わっている。",
+  "date": "1994-06-10",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/57/e6/37407_cCzpv.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/57/e6/37407_cCzpv.jpg"
+  },
+  "eps": 2,
+  "rating": {
+    "rank": 0,
+    "total": 9,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 4,
+      "6": 4,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.7
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "1994",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "横山光辉",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "BEE・MEDIA",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "萝卜",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "81プロデュース",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "平松晶子",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "1994年6月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "独立ova",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "横山光輝",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "佐々木望",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "西村純二",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "十川誠志",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "篠原恵美",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "robo",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "37407"
+    },
+    {
+      "site": "danime",
+      "id": "10273",
+      "begin": "2013-06-07T01:00:00.000Z",
+      "broadcast": "R/2013-06-07T01:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0002869",
+      "begin": "2022-10-27T03:00:00.000Z",
+      "broadcast": "R/2022-10-27T03:00:00.000Z/P7D"
+    }
+  ]
+}

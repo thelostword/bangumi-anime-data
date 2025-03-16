@@ -1,0 +1,135 @@
+{
+  "id": 456251,
+  "name": "あんさんぶるスターズ！！追憶セレクション『チェックメイト』",
+  "name_cn": "偶像梦幻祭 追忆Selection『Checkmate』",
+  "summary": "",
+  "date": "2024-03-10",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/43/6a/456251_qn9OM.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/43/6a/456251_qn9OM.jpg"
+  },
+  "eps": 6,
+  "rating": {
+    "rank": 0,
+    "total": 8,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 2,
+      "5": 1,
+      "6": 1,
+      "7": 4,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.9
+  },
+  "tags": [
+    {
+      "name": "Dandelion",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "女性向",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "音乐",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2024冬",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "土田玲央",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年3月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "ダンデライオン",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "猪爪慎一",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "浅沼晋太郎",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "乙女向",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "山崎理",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "山下大輝",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "山下大辉",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "456251"
+    },
+    {
+      "site": "danime",
+      "id": "26685",
+      "begin": "2024-04-09T15:00:00.000Z",
+      "broadcast": "R/2024-04-09T15:00:00.000Z/P7D"
+    }
+  ]
+}
