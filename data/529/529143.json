@@ -1,0 +1,167 @@
+{
+  "id": 529143,
+  "name": "コウペンちゃん",
+  "name_cn": "正能量企鹅",
+  "summary": "日常の些細なことを肯定してくれるコウテイペンギンのあかちゃん”コウペンちゃん”とその仲間たちを描いた\r\n大人気イラストシリーズ『コウペンちゃん』のショートTVアニメが、2025年春よりテレビ朝日にて放送決定！",
+  "date": "2025-04-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/8e/b6/529143_xszzx.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/8e/b6/529143_xszzx.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 25,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 14,
+      "6": 5,
+      "7": 4,
+      "8": 0,
+      "9": 1,
+      "10": 0
+    },
+    "score": 5.5
+  },
+  "tags": [
+    {
+      "name": "2025年4月",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "治愈",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "矢立きょう",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "レスプリ",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "Lesprit",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "齋藤彩夏",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2020-2029",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "正能量企鹅",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "anime",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "子供向",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "加藤陽一",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "529143"
+    },
+    {
+      "site": "unext",
+      "id": "SID0181263",
+      "begin": "2025-04-05T23:30:00.000Z",
+      "broadcast": "R/2025-04-05T23:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "87-2101",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "danime",
+      "id": "27886",
+      "begin": "2025-04-05T23:30:00.000Z",
+      "broadcast": "R/2025-04-05T23:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "67ed5cb78b961748467f45c3"
+    },
+    {
+      "site": "prime",
+      "id": "B0F2FGM9L1",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "id": 502036,
+  "name": "クラシック★スターズ",
+  "name_cn": "古典乐★之星",
+  "summary": "音楽・芸術・スポーツ、あらゆるエンターテインメント分野で未来を嘱望された若者たちが集う【私立グロリア学園】。\r\nその音楽科では、偉大な音楽家たちの「才能（可能性）」に適合した者が【ギフト】を体内に移植され、その音楽家の名前で呼ばれることになる。\r\nケガをきっかけに適合性を見出された青年・ベートーヴェンもその一人。\r\n\r\n学園に編入したベートーヴェンは、異なるギフトを受け継ぐ仲間たちと出会い\r\n音楽の魅力に触れながら、コンテストでの優勝を目指すことに──。",
+  "date": "2025-04-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/2e/ee/502036_8KMNA.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/2e/ee/502036_8KMNA.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 0,
+    "total": 50,
+    "count": {
+      "1": 5,
+      "2": 4,
+      "3": 7,
+      "4": 10,
+      "5": 14,
+      "6": 1,
+      "7": 2,
+      "8": 2,
+      "9": 1,
+      "10": 4
+    },
+    "score": 4.6
+  },
+  "tags": [
+    {
+      "name": "2025年4月",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "音乐",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "伊東健人",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "プラチナビジョン",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "大庭秀昭",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "永井真吾",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2020-2029",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "男团",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "石毛翔弥",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未上映",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "周一",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "PlatinumVision",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "村濑步",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "BL",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "原创动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "乙女",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "古典乐",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "乐队",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "内田雄馬",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "502036"
+    },
+    {
+      "site": "nicovideo",
+      "id": "classicstars-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0180993",
+      "begin": "2025-04-05T16:00:00.000Z",
+      "broadcast": "R/2025-04-05T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "115-119",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "140263",
+      "begin": "2025-04-05T16:30:00.000Z",
+      "broadcast": "R/2025-04-05T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3622"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "67ed5cca8b961748467f4635"
+    },
+    {
+      "site": "gamer",
+      "id": "140263",
+      "begin": "2025-04-05T16:30:00.000Z",
+      "broadcast": "R/2025-04-05T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "27784",
+      "begin": "2025-04-08T15:00:00.000Z",
+      "broadcast": "R/2025-04-08T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0DVYQB11H",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

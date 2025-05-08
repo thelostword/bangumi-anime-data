@@ -1,0 +1,95 @@
+{
+  "id": 295473,
+  "name": "映画しまじろう しまじろうと そらとぶふね",
+  "name_cn": "巧虎大飞船历险记",
+  "summary": "雨が降らなくて困っているグリーンウッドの人たちのために、「空飛ぶ船」を作って、空から雨を降らせる手伝いをすることになったしまじろう達。船づくりを邪魔するガ？ビーズ達や様々なトラブルに苦戦しながらも、しまじろう達は力を合わせて頑張ります。はたして、無事、船を完成させて雨を降らせることはできるのでしょうか？ぜひ、映画館でしまじろう達を応援し、一緒に船を作りましょう！",
+  "date": "2021-03-12",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/64/c3/295473_g0e06.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/64/c3/295473_g0e06.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "アニメ映画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "河村友宏",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2021",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "上海合源文化传媒有限公司、白组、coyote",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "内田雄馬",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未确定",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "子供向",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "杉浦理史",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "剧场版",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "295473"
+    },
+    {
+      "site": "abema",
+      "id": "19-74",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "id": 53898,
+  "name": "宇宙戦艦ヤマトIII",
+  "name_cn": "宇宙战舰大和号3",
+  "summary": "《宇宙战舰大和号3》（原题：宇宙戦艦ヤマトIII；英文题：Space Battleship Yamato III）是日本读卖电视台制作的科幻电视动画，并于1980年10月11日至1981年4月4日之间每周六晚上19：00至19：30播映，同时也是宇宙战舰大和号系列的第三部电视作品。",
+  "date": "1980-10-11",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/a6/28/53898_is35Z.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/a6/28/53898_is35Z.jpg"
+  },
+  "eps": 25,
+  "rating": {
+    "rank": 0,
+    "total": 43,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 4,
+      "6": 4,
+      "7": 19,
+      "8": 9,
+      "9": 2,
+      "10": 4
+    },
+    "score": 7.2
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "1980",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "松本零士",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "宇宙战舰大和号",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "山本暎一",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "AcademyProductions",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "富山敬",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "西崎义展",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "独",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "電視",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "宮川泰",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "星辰大海",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "東京動画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1970.80",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "80年代动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "オフィスアカデミー",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1980-1989",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "赛璐珞",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "小泉謙三",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1980s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "麻上洋子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "大和号",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "补番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "机甲",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "53898"
+    },
+    {
+      "site": "unext",
+      "id": "SID0174164",
+      "begin": "2025-03-14T03:00:00.000Z",
+      "broadcast": "R/2025-03-14T03:00:00.000Z/P7D"
+    }
+  ]
+}

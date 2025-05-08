@@ -1,0 +1,201 @@
+{
+  "id": 396229,
+  "name": "OVA SK∞ エスケーエイト EXTRA PART",
+  "name_cn": "OVA 无限滑板 EXTRA PART",
+  "summary": "",
+  "date": "2025-03-19",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/0e/77/396229_V43VF.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/0e/77/396229_V43VF.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 4212,
+    "total": 183,
+    "count": {
+      "1": 2,
+      "2": 1,
+      "3": 1,
+      "4": 3,
+      "5": 12,
+      "6": 64,
+      "7": 74,
+      "8": 22,
+      "9": 1,
+      "10": 3
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 100,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 64,
+      "total_cont": 0
+    },
+    {
+      "name": "BONES",
+      "count": 64,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 54,
+      "total_cont": 0
+    },
+    {
+      "name": "运动",
+      "count": 46,
+      "total_cont": 0
+    },
+    {
+      "name": "内海紘子",
+      "count": 28,
+      "total_cont": 0
+    },
+    {
+      "name": "大河内一楼",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "无限滑板",
+      "count": 22,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "耽美",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "内海纮子",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "未确定",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "BONESFILM",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年1月",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "弱7",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "滑板",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "#8",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Q1",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "番外·迷你动画·OVA等",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "⭐️无限滑板",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "@OVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年3月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未保存",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025春",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年4月",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "396229"
+    },
+    {
+      "site": "gamer",
+      "id": "137495",
+      "begin": "2025-04-18T16:00:00.000Z",
+      "broadcast": "R/2025-04-18T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "137495",
+      "begin": "2025-04-18T16:00:00.000Z",
+      "broadcast": "R/2025-04-18T16:00:00.000Z/P7D"
+    }
+  ]
+}

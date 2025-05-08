@@ -1,0 +1,54 @@
+{
+  "id": 536694,
+  "name": "はーい！ミャクミャクです",
+  "name_cn": "嗨！我是脉脉",
+  "summary": "",
+  "date": "2025-03-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/89/22/536694_1x751.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/89/22/536694_1x751.jpg"
+  },
+  "eps": 8,
+  "rating": {
+    "rank": 0,
+    "total": 2,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 2,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5
+  },
+  "tags": [
+    {
+      "name": "2025",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "ファンワークス",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "536694"
+    }
+  ]
+}

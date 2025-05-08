@@ -1,0 +1,175 @@
+{
+  "id": 338372,
+  "name": "おそ松さん～魂のたこ焼きパーティーと伝説のお泊り会～",
+  "name_cn": "阿松～魂之章鱼烧派对与传说的留宿～",
+  "summary": "「たこ焼きパーティー」\r\nたこパ。それはこの世で最も楽しい娯楽。松野家にいつものメンバーが全員集合！\r\n数々の困難を乗り越えて、果たしておいしいたこ焼きを作れるのか！？\r\n「お泊まり会」\r\nそれはこの世で最もドキドキしちゃうシチュエーション。幼なじみのチビ太らに加え、なんとトト子ら女子メンバーも参加！\r\nモテない6つ子に千載一遇の大チャンス！が、それは地獄の始まりでもあった…\r\n食べて飲んで歌って踊ってケンカして。松野家で巻き起こった伝説の一日！ シェー！",
+  "date": "2023-07-21",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/75/6f/338372_TU3tw.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/75/6f/338372_TU3tw.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 12,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 2,
+      "6": 4,
+      "7": 5,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "2023",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "StudioPierrot",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "阿松",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2023年7月",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "松原秀",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "梗作",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "入野自由",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "未确定",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "已保存",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "应该会看",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "剧场版-02",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "山口光",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2020s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "童年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "鈴村健一",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "藤田陽一",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "ぴえろ",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "櫻井孝宏",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "338372"
+    },
+    {
+      "site": "danime",
+      "id": "27880",
+      "begin": "2025-04-03T15:00:00.000Z",
+      "broadcast": "R/2025-04-03T15:00:00.000Z/P7D"
+    }
+  ]
+}

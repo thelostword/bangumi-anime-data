@@ -1,0 +1,227 @@
+{
+  "id": 442128,
+  "name": "未ル わたしのみらい",
+  "name_cn": "MIRU 我们的未来",
+  "summary": "人と自然の対峙と調和\r\n遠い先の未来に人類によって作られたロボット「MIRU」。武器を持たず、時空を超えタイムリープし、様々な時代に訪れる。\r\n時代も場所もパラレルな世界でありながら、どの時代にもいる、必死に生きている人達に出会い、その人々の悩み、苦しみに寄り添い、新たな人生への一歩を後押しする。\r\n人類は「MIRU」と出会う事で、希望に向かって歩き始める。\r\nなぜそのロボットは作られたのか、ディストピアに向かう地球の未来を救えるのか？\r\n「MIRU」そのものも完璧ではなく、人との出会いによって悩み、学んでいく。\r\n人類は新たな友「MIRU」を得て明るい未来への一歩を踏み出していく、歩幅の小さい一歩だが、その一歩が 「バタフライエフェクト※」のように大きな変化を生み、再生に向けた一歩になっていく。\r\n「未来は自分たちの手でつくれる」そんな思いを込めたアニメです。",
+  "date": "2025-04-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e8/2c/442128_YDI64.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e8/2c/442128_YDI64.jpg"
+  },
+  "eps": 5,
+  "rating": {
+    "rank": 8708,
+    "total": 65,
+    "count": {
+      "1": 4,
+      "2": 4,
+      "3": 13,
+      "4": 24,
+      "5": 11,
+      "6": 5,
+      "7": 1,
+      "8": 1,
+      "9": 1,
+      "10": 1
+    },
+    "score": 4.1
+  },
+  "tags": [
+    {
+      "name": "原创",
+      "count": 40,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年4月",
+      "count": 37,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 34,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 24,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "TriFStudio",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "萝卜",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "LARXENTERTAINMENT",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "LinQ",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "Reirs",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "森田繁",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "SCOOTERFILMS",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "白組",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "白组",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2025春",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "机战",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "Studio云雀",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "202504",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "LARX-ENTERTAINMENT",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年4月原创",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "robo",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "LARX",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Lerche",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "短片集",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "442128"
+    },
+    {
+      "site": "nicovideo",
+      "id": "miru-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "abema",
+      "id": "170-75",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0181273",
+      "begin": "2025-04-03T13:30:00.000Z",
+      "broadcast": "R/2025-04-03T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "27885",
+      "begin": "2025-04-03T13:30:00.000Z",
+      "broadcast": "R/2025-04-03T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "67ed5cc28b961748467f4605"
+    },
+    {
+      "site": "prime",
+      "id": "B0F11STTQX",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3616"
+    }
+  ]
+}

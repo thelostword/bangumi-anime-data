@@ -1,0 +1,195 @@
+{
+  "id": 508708,
+  "name": "劇場版 進撃の巨人 完結編 THE LAST ATTACK",
+  "name_cn": "剧场版 进击的巨人 完结篇 THE LAST ATTACK",
+  "summary": "人気テレビアニメ「進撃の巨人」の完結編を再構築した劇場版。襲い来る謎の巨人の脅威にさらされた人類が巨大な壁を築いて生きる世界を舞台に、少年エレン・イェーガーが巨人をこの世から駆逐するために繰り広げる壮絶な戦いを描く。\r\n\r\n巨人と戦う調査兵団の一員となり、命懸けの戦いを続ける中で自らも巨人となる能力を得たエレンは、人類の勝利に貢献しながらも少しずつ世界の真実へと近づいていく。やがて時は流れ、壁の外へと出たエレンは調査兵団の仲間と袂を分かつ。そして、無数の巨人を率いて、この世界の生きとし生ける者すべてを踏み潰す「地鳴らし」という恐ろしい計画を実行する。ミカサやアルミンら残された者たちは、世界を滅ぼそうとするエレンを止めるべく、最後の戦いに挑む。\r\n\r\n2023年にテレビ放送された「『進撃の巨人』The Final Season 完結編」の本編を、林祐一郎監督自らの指揮によってブラッシュアップし、5.1chサラウンド音響による145分の劇場版に再構築した。",
+  "date": "2024-11-08",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/07/1e/508708_Z8Za5.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/07/1e/508708_Z8Za5.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 627,
+    "total": 594,
+    "count": {
+      "1": 8,
+      "2": 1,
+      "3": 1,
+      "4": 0,
+      "5": 12,
+      "6": 57,
+      "7": 163,
+      "8": 221,
+      "9": 66,
+      "10": 65
+    },
+    "score": 7.7
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 149,
+      "total_cont": 0
+    },
+    {
+      "name": "进击的巨人",
+      "count": 118,
+      "total_cont": 0
+    },
+    {
+      "name": "MAPPA",
+      "count": 111,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 65,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 56,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 53,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 41,
+      "total_cont": 0
+    },
+    {
+      "name": "林祐一郎",
+      "count": 31,
+      "total_cont": 0
+    },
+    {
+      "name": "進擊的巨人",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "劇場版",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年11月",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "反乌托邦",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "总集篇",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年10月",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "泽野弘之",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "神作",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "战争",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "梶裕貴",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ映画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "未上映",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未发售",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "BD0",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "超神！",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "艺术赛道",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "豪",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2024劇場版",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "508708"
+    },
+    {
+      "site": "nicovideo",
+      "id": "shingeki-movie-last-attack",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

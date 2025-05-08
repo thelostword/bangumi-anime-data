@@ -1,0 +1,233 @@
+{
+  "id": 526816,
+  "name": "機動戦士Gundam GQuuuuuuX",
+  "name_cn": "机动战士高达 GQuuuuuuX",
+  "summary": "天手让叶是名女高中生，在空中的宇宙殖民卫星过着平静的生活。\r\n\r\n但在遇到难民少女尼娅安后，她被卷入了非法MS决斗竞技《军团战》之中。她化名《玛秋》参赛，驾驶着GQuuuuuuX，每日投身激烈的战斗。\r\n\r\n同时，被宇宙军和警察两方追捕的神秘MS《高达》及其驾驶员──少年修司，出现在她们面前。\r\n\r\n接着，世界迎向了新时代。\r\n\r\n宇宙に浮かぶスペース・コロニーで平穏に暮らしていた女子高生アマテ・ユズリハは、戦争難民の少女ニャアンと出会ったことで、非合法なモビルスーツ決闘競技《クランバトル》に巻き込まれる。\r\n\r\nエントリーネーム《マチュ》を名乗るアマテは、 GQuuuuuuX ジークアクス を駆り、苛烈なバトルの日々に身を投じていく。\r\n\r\n同じ頃、宇宙軍と警察の双方から追われていた正体不明のモビルスーツ《ガンダム》と、そのパイロットの少年シュウジが彼女の前に姿を現す。\r\n\r\nそして、世界は新たな時代を迎えようとしていた。",
+  "date": "2025-04-08",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/27/84/526816_i7w6d.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/27/84/526816_i7w6d.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 2293,
+    "total": 2202,
+    "count": {
+      "1": 30,
+      "2": 5,
+      "3": 12,
+      "4": 37,
+      "5": 80,
+      "6": 330,
+      "7": 905,
+      "8": 672,
+      "9": 77,
+      "10": 54
+    },
+    "score": 7.1
+  },
+  "tags": [
+    {
+      "name": "原创",
+      "count": 1004,
+      "total_cont": 0
+    },
+    {
+      "name": "高达",
+      "count": 988,
+      "total_cont": 0
+    },
+    {
+      "name": "机战",
+      "count": 854,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年4月",
+      "count": 851,
+      "total_cont": 0
+    },
+    {
+      "name": "SUNRISE",
+      "count": 786,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 723,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 707,
+      "total_cont": 0
+    },
+    {
+      "name": "庵野秀明",
+      "count": 529,
+      "total_cont": 0
+    },
+    {
+      "name": "Khara",
+      "count": 485,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 398,
+      "total_cont": 0
+    },
+    {
+      "name": "鹤卷和哉",
+      "count": 395,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 340,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 235,
+      "total_cont": 0
+    },
+    {
+      "name": "萝卜",
+      "count": 151,
+      "total_cont": 0
+    },
+    {
+      "name": "冒险",
+      "count": 93,
+      "total_cont": 0
+    },
+    {
+      "name": "榎戸洋司",
+      "count": 78,
+      "total_cont": 0
+    },
+    {
+      "name": "鶴巻和哉",
+      "count": 59,
+      "total_cont": 0
+    },
+    {
+      "name": "GUNDAM",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 22,
+      "total_cont": 0
+    },
+    {
+      "name": "榎户洋司",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "季番",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "黑泽朋世",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "robot",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "无法预测的命运之舞台",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "2025.4",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "富野由悠季",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2025春",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "竹",
+      "count": 5,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "526816"
+    },
+    {
+      "site": "abema",
+      "id": "13-197",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "nicovideo",
+      "id": "gquuuuuux",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "67ed5cbf8b961748467f45f3"
+    },
+    {
+      "site": "prime",
+      "id": "B0CY9RNB6S",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3585"
+    },
+    {
+      "site": "disneyplus",
+      "id": "5HtD5t4c6HiK",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0181256",
+      "begin": "2025-04-11T13:00:00.000Z",
+      "broadcast": "R/2025-04-11T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "27811",
+      "begin": "2025-04-11T13:00:00.000Z",
+      "broadcast": "R/2025-04-11T13:00:00.000Z/P7D"
+    }
+  ]
+}

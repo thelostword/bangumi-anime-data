@@ -1,0 +1,245 @@
+{
+  "id": 491569,
+  "name": "忍者と殺し屋のふたりぐらし",
+  "name_cn": "忍者与杀手二人组的日常生活",
+  "summary": "忍びの里から抜け出したくノ一さとこは、\r\n街で行き倒れていたところを通りすがりの女子高生このはに救われる。\r\nだがそれも束の間、さとこは里からの追手に見つかってしまう。\r\nしかしそんな追手をあっさりと返り討ちにするこのは。\r\n…なんと彼女の正体は殺し屋だったのだ！\r\n\r\n世間知らずのくノ一と殺し屋女子高生の危ない共同生活がスタート！",
+  "date": "2025-04-10",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/15/a3/491569_R42i0.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/15/a3/491569_R42i0.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 3071,
+    "total": 1529,
+    "count": {
+      "1": 47,
+      "2": 15,
+      "3": 18,
+      "4": 26,
+      "5": 69,
+      "6": 227,
+      "7": 600,
+      "8": 426,
+      "9": 55,
+      "10": 46
+    },
+    "score": 6.9
+  },
+  "tags": [
+    {
+      "name": "2025年4月",
+      "count": 520,
+      "total_cont": 0
+    },
+    {
+      "name": "SHAFT",
+      "count": 436,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 436,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 370,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 343,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 339,
+      "total_cont": 0
+    },
+    {
+      "name": "喜剧",
+      "count": 334,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 273,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 221,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 174,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 149,
+      "total_cont": 0
+    },
+    {
+      "name": "宫本幸裕",
+      "count": 109,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 106,
+      "total_cont": 0
+    },
+    {
+      "name": "猎奇",
+      "count": 99,
+      "total_cont": 0
+    },
+    {
+      "name": "宮本幸裕",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "轻百合",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "萌",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "杀手",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "忍者",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "忍者与杀手二人组的日常生活",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2025春",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "東冨耶子",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "地狱",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "20年代",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "葛西竜之介",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "潮月一也",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "反人类",
+      "count": 3,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "491569"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ninkoro-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0180995",
+      "begin": "2025-04-13T13:00:00.000Z",
+      "broadcast": "R/2025-04-13T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-286",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "67ed5cc28b961748467f4607"
+    },
+    {
+      "site": "danime",
+      "id": "27778",
+      "begin": "2025-04-10T13:00:00.000Z",
+      "broadcast": "R/2025-04-10T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "tropics",
+      "id": "PLoGVqODys23DAUxu3EiDDrS5lkLKHWeZT",
+      "begin": "2025-04-10T12:30:06.000Z",
+      "broadcast": "R/2025-04-10T12:30:06.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "138988",
+      "begin": "2025-04-10T12:30:00.000Z",
+      "broadcast": "R/2025-04-10T12:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "138988",
+      "begin": "2025-04-10T12:30:00.000Z",
+      "broadcast": "R/2025-04-10T12:30:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3584"
+    },
+    {
+      "site": "prime",
+      "id": "B0F1GGTKM6",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

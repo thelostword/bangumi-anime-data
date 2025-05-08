@@ -1,0 +1,185 @@
+{
+  "id": 184498,
+  "name": "わんぱく探偵団",
+  "name_cn": "顽皮侦探团",
+  "summary": "改编自江户川乱步小说，以“明智小五郎”系列中登场的少年少女们组成的六人侦探团为主人公，共同对抗怪人十二面相的故事。",
+  "date": "1968-02-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/fb/73/184498_Bnt9L.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/fb/73/184498_Bnt9L.jpg"
+  },
+  "eps": 35,
+  "rating": {
+    "rank": 0,
+    "total": 3,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 0,
+      "7": 1,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.7
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "1968",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "虫Production",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "1968年一月番",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "村野守美",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "赛璐珞",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "林政行",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1968年2月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "管野直行",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "濑山义文",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "山下毅雄",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "萩原宣子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "富山敬",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1968年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "bilibili",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "りんたろう",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "出崎统",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "生肉",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "真崎守",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "黑白",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "平田敏夫",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "60s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "虫プロダクション",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "184498"
+    },
+    {
+      "site": "unext",
+      "id": "SID0096506",
+      "begin": "2024-04-01T03:00:00.000Z",
+      "broadcast": "R/2024-04-01T03:00:00.000Z/P7D"
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "id": 492881,
+  "name": "真･侍伝 YAIBA",
+  "name_cn": "真･武士传 剑勇传说",
+  "summary": "真のサムライを目指し、ジャングルで修行に励んでいた鉄 刃(くろがね やいば)。 ひょんなことから日本に戻り、父・剣十郎と縁のある峰家に身を寄せることに。 峰家の娘・さやかは破天荒な刃に戸惑いながらも暮らし始める。\r\nそんなある日、さやかの学校に訪れた刃は、 剣道の実力者・鬼丸 猛(おにまる たけし)と運命的な出会いを果たす。 その後、刃と鬼丸は衝突を繰り返し、 強さを求めた 2人に呼応するかのように古の力が目覚める。\r\n「雷神剣」と「風神剣」\r\n古来より天地を揺るがしてきた魔剣が今再び目覚め、真の物語が幕を開ける——",
+  "date": "2025-04-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/a4/1d/492881_5zfHH.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/a4/1d/492881_5zfHH.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 1602,
+    "total": 601,
+    "count": {
+      "1": 5,
+      "2": 2,
+      "3": 2,
+      "4": 11,
+      "5": 21,
+      "6": 83,
+      "7": 198,
+      "8": 218,
+      "9": 40,
+      "10": 21
+    },
+    "score": 7.3
+  },
+  "tags": [
+    {
+      "name": "WITSTUDIO",
+      "count": 281,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年4月",
+      "count": 264,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 225,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 203,
+      "total_cont": 0
+    },
+    {
+      "name": "青山刚昌",
+      "count": 151,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 139,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 134,
+      "total_cont": 0
+    },
+    {
+      "name": "重制",
+      "count": 118,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 89,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 79,
+      "total_cont": 0
+    },
+    {
+      "name": "莲井隆弘",
+      "count": 65,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 61,
+      "total_cont": 0
+    },
+    {
+      "name": "龟田祥伦",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年1月",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "待田堂子",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "蓮井隆弘",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "剑勇传说",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2020-2029",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "作画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "25春",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "20",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "山田丰",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "石見舞菜香",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "重置",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "出羽良彰",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "492881"
+    },
+    {
+      "site": "abema",
+      "id": "2-29",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "nicovideo",
+      "id": "yaiba",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0181258",
+      "begin": "2025-04-07T15:00:00.000Z",
+      "broadcast": "R/2025-04-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "67ed5cc78b961748467f4621"
+    },
+    {
+      "site": "netflix",
+      "id": "82030192",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "viu",
+      "id": "2603779",
+      "begin": "2025-04-05T10:00:33.000Z",
+      "broadcast": "R/2025-04-05T10:00:33.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "27754",
+      "begin": "2025-04-07T15:00:00.000Z",
+      "broadcast": "R/2025-04-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0DWD44PM3",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "disneyplus",
+      "id": "RYbVD7BR7J5K",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3637"
+    }
+  ]
+}

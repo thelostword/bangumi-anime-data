@@ -1,0 +1,239 @@
+{
+  "id": 509297,
+  "name": "ウマ娘 シンデレラグレイ",
+  "name_cn": "赛马娘 芦毛灰姑娘",
+  "summary": "笠松特雷森学园，这所衰颓的地方赛区学园，迎来了一名赛马娘，其名为小栗帽。她以压倒性的奔跑，颠覆所有常识。这名终将被称为“怪物”的灰色少女，此刻开始书写全新的传说……驰骋青春的灰姑娘故事，终于开跑！！",
+  "date": "2025-04-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/9e/fa/509297_Cnz9B.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/9e/fa/509297_Cnz9B.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 333,
+    "total": 2399,
+    "count": {
+      "1": 9,
+      "2": 4,
+      "3": 2,
+      "4": 6,
+      "5": 9,
+      "6": 72,
+      "7": 533,
+      "8": 1362,
+      "9": 268,
+      "10": 134
+    },
+    "score": 7.9
+  },
+  "tags": [
+    {
+      "name": "赛马娘",
+      "count": 993,
+      "total_cont": 0
+    },
+    {
+      "name": "CygamesPictures",
+      "count": 988,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年4月",
+      "count": 948,
+      "total_cont": 0
+    },
+    {
+      "name": "运动",
+      "count": 810,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 810,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 653,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 486,
+      "total_cont": 0
+    },
+    {
+      "name": "励志",
+      "count": 471,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 357,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 352,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 304,
+      "total_cont": 0
+    },
+    {
+      "name": "伊藤祐毅",
+      "count": 97,
+      "total_cont": 0
+    },
+    {
+      "name": "偶像",
+      "count": 83,
+      "total_cont": 0
+    },
+    {
+      "name": "金田一士",
+      "count": 34,
+      "total_cont": 0
+    },
+    {
+      "name": "久住太阳",
+      "count": 33,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "竞技",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "cygames",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "小栗帽",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "三浦武弘",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "みうらたけひろ",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "2025春",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2025.4",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "4月",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "芦毛灰姑娘",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "杉浦理史",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 3,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "509297"
+    },
+    {
+      "site": "nicovideo",
+      "id": "umamusume-cinderellagray",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0181259",
+      "begin": "2025-04-06T08:00:00.000Z",
+      "broadcast": "R/2025-04-06T08:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "512-12",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "67ed5cb88b961748467f45cb"
+    },
+    {
+      "site": "netflix",
+      "id": "82030222",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "danime",
+      "id": "27862",
+      "begin": "2025-04-11T08:00:00.000Z",
+      "broadcast": "R/2025-04-11T08:00:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "3Ih5pytgHW4K",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3604"
+    },
+    {
+      "site": "prime",
+      "id": "B0F3WM4PZ2",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

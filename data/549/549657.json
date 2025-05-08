@@ -1,0 +1,133 @@
+{
+  "id": 549657,
+  "name": "The Star Seekers 星を追う少年たち",
+  "name_cn": "",
+  "summary": "アニメスタジオCloverWorksが描く、TOMORROW X TOGETHER「The Star Seekers 星を追う少年たち」のオリジナルストーリー\r\n",
+  "date": "2025-04-03",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/14/67/549657_xCoqA.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/14/67/549657_xCoqA.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 38,
+    "count": {
+      "1": 1,
+      "2": 2,
+      "3": 6,
+      "4": 16,
+      "5": 9,
+      "6": 2,
+      "7": 0,
+      "8": 0,
+      "9": 1,
+      "10": 1
+    },
+    "score": 4.3
+  },
+  "tags": [
+    {
+      "name": "短片",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "CloverWorks",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "樱井亲良",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "绫奈由仁子",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "綾奈ゆにこ",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "横山克",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "逢坂良太",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "短篇",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "八重坚洋平",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2020s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "佐藤元",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "櫻井親良",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "549657"
+    },
+    {
+      "site": "mikan",
+      "id": "3636"
+    }
+  ]
+}

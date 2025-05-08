@@ -1,0 +1,217 @@
+{
+  "id": 405224,
+  "name": "无聊就完结",
+  "name_cn": "无聊就完结",
+  "summary": "门珂，社畜打工上班族，前半生无聊到怀疑人生，后半生却面临着无聊就会死的状况。每天面临死亡威胁却还要继续上班的地星女主和积极热情想要拯救她但不太行的外星男主，如何战胜无聊，笑着活下去！",
+  "date": "2024-07-05",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/b8/6e/405224_Z72Nf.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/b8/6e/405224_Z72Nf.jpg"
+  },
+  "eps": 24,
+  "rating": {
+    "rank": 5676,
+    "total": 79,
+    "count": {
+      "1": 2,
+      "2": 0,
+      "3": 1,
+      "4": 4,
+      "5": 11,
+      "6": 40,
+      "7": 14,
+      "8": 5,
+      "9": 1,
+      "10": 1
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "国产",
+      "count": 44,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 22,
+      "total_cont": 0
+    },
+    {
+      "name": "声影动漫",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "异能",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "中国",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "喜剧",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "国漫",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "国产动画",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "（沪）网动审字（2024）第014号",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "王淼",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "高宇楠",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年7月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "前几集感觉还行",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "11:00",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "声影",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "五等",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "（沪）网动审字（2023）第105号",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "中国动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "7月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "超现实",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "无聊",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "405224"
+    },
+    {
+      "site": "nicovideo",
+      "id": "koihana-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0181252",
+      "begin": "2025-04-03T03:00:00.000Z",
+      "broadcast": "R/2025-04-03T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "19-262",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "danime",
+      "id": "27878",
+      "begin": "2025-04-03T03:00:00.000Z",
+      "broadcast": "R/2025-04-03T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3631"
+    }
+  ]
+}

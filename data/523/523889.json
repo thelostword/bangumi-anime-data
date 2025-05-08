@@ -1,0 +1,106 @@
+{
+  "id": 523889,
+  "name": "全力ウサギ 第2期",
+  "name_cn": "全力兔子 第二季",
+  "summary": "",
+  "date": "2025-04-09",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/7c/dd/523889_zp7C6.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/7c/dd/523889_zp7C6.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 6,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 2,
+      "6": 1,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 5.2
+  },
+  "tags": [
+    {
+      "name": "漫画改",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年4月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "续集",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "523889"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "67ed5cc08b961748467f45f7"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "142359",
+      "begin": "2025-04-09T14:00:00.000Z",
+      "broadcast": "R/2025-04-09T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "27737",
+      "begin": "2025-04-09T13:00:00.000Z",
+      "broadcast": "R/2025-04-09T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "142359",
+      "begin": "2025-04-09T14:00:00.000Z",
+      "broadcast": "R/2025-04-09T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3639"
+    },
+    {
+      "site": "unext",
+      "id": "SID0181017",
+      "begin": "2025-04-09T13:00:00.000Z",
+      "broadcast": "R/2025-04-09T13:00:00.000Z/P7D"
+    }
+  ]
+}

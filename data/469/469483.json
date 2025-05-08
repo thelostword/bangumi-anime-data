@@ -1,0 +1,179 @@
+{
+  "id": 469483,
+  "name": "クレヨンしんちゃん オラたちの恐竜日記",
+  "name_cn": "蜡笔小新 我们的恐龙日记",
+  "summary": "現代に恐竜をよみがえらせた一大テーマパーク“ディノズアイランド”が東京にオープン！\r\n\r\n子どもも大人も恐竜にムチュ～！　世はまさに恐竜フィーバー！！\r\n\r\nしんのすけたちはその頃、シロが出会った小さな恐竜“ナナ”と、特別な夏を過ごしていた。\r\n\r\n「シロともこうやって、家族になっていったんだなぁ…」と、新たな絆も生まれる野原一家。\r\n\r\nそんなナナを巡って、アンビリ～バボ～な争奪戦がスタート！\r\n\r\nディノズアイランドをオープンさせたバブル・オドロキ―は、あの手この手でナナの居場所を探す。\r\n\r\n「ある秘密」がバレる前に...。\r\n\r\nしんのすけは、ナナの秘密を知るビリーと出会い、一緒に行動することに。\r\n\r\nしかし！！そんな中、トラブルが起きて恐竜たちが大脱走！東京で！カスカベで！大暴れ！\r\n\r\nビルを破壊し、車をなぎ倒して、しんのすけとシロに迫り来る大ピンチ！\r\n\r\nローンがまだ32年残る野原家も、恐竜に踏みつぶされ、ひろしは男泣き。\r\n\r\nひと夏を一緒に過ごした、ナナの秘密とは？\r\n\r\nしんのすけとシロ、カスカベ防衛隊が、ナナを守るために東京・渋谷で大奮闘！\r\n\r\n超巨大恐竜に立ち向かった先に、笑いと涙が止まらないクライマックスが待ち受ける！",
+  "date": "2024-08-09",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c3/ef/469483_E8C79.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c3/ef/469483_E8C79.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 8627,
+    "total": 132,
+    "count": {
+      "1": 3,
+      "2": 7,
+      "3": 14,
+      "4": 27,
+      "5": 38,
+      "6": 31,
+      "7": 7,
+      "8": 1,
+      "9": 1,
+      "10": 3
+    },
+    "score": 4.8
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 52,
+      "total_cont": 0
+    },
+    {
+      "name": "蜡笔小新",
+      "count": 30,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "SHIN-EI",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "情怀",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "新锐动画",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年8月",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "佐木忍",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "佐佐木忍",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "未播",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2020s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未发售",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本剧场版动画已看合集",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画电影",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "中年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "人设",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "剧情",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "シンエイ動画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "469483"
+    },
+    {
+      "site": "unext",
+      "id": "SID0172877",
+      "begin": "2025-02-26T03:00:00.000Z",
+      "broadcast": "R/2025-02-26T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3512"
+    }
+  ]
+}

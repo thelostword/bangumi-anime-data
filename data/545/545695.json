@@ -1,0 +1,129 @@
+{
+  "id": 545695,
+  "name": "ぷちきゅあ～Precure Fairies～",
+  "name_cn": "小小光之美少女～Precure Fairies～",
+  "summary": " プリキュアのちいさななかまたちが「ぷちきゅあ」になっちゃった！\r\nなんでもかなっちゃう「ふしぎなゆうえんち」に、みんながだいしゅうごうして、\r\nおもいおもいに楽しくすごしているよ。\r\n\r\nお菓子を食べたり乗り物で遊んだり、とっても楽しそう！\r\nでも、ふしぎなことも起きていて…？\r\n\r\nプリキュアのなかまたちが、おやすみモードでほっとひといき♪\r\n「きゅあ～♡」なぷちきゅあのすがたに、きっといやされちゃう！\r\n毎週のおはなしをお楽しみに♡ ",
+  "date": "2025-04-03",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/8b/72/545695_f2sVh.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/8b/72/545695_f2sVh.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 14,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 1,
+      "4": 1,
+      "5": 7,
+      "6": 1,
+      "7": 1,
+      "8": 0,
+      "9": 1,
+      "10": 1
+    },
+    "score": 5.4
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "光之美少女",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年4月",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "IKIF+",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "奥村優子",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "豊田百香",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "東映アニメーション",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "魔法少女",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2020-2029",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "默片",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "545695"
+    }
+  ]
+}

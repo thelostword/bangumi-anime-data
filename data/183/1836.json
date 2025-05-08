@@ -1,0 +1,195 @@
+{
+  "id": 1836,
+  "name": "スカイ・クロラ The Sky Crawlers",
+  "name_cn": "空中杀手",
+  "summary": "战斗机飞行员函南优一来到基地报道，等待他的是全新的生活环境与熟悉的飞行战斗。在这里，函南优一遇到了各式各样的战友，与不苟言笑的长官草薙水素。函南优一获得了一架新战斗机，但是，基地里的战友们都对战斗机的前任驾驶员缄默不语。于是函南优一开始留意相关的消息，他渐渐知道，前任驾驶员的最后故事，而这故事本身与草薙水素有莫大的关系。随着调查的深入，函南优一逐渐发现记忆背后隐藏的秘密，而他每天与敌人的战斗，似乎也有着向着界限迈步的一天。",
+  "date": "2008-08-02",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/f2/6d/1836_5fH2v.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/f2/6d/1836_5fH2v.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 570,
+    "total": 2331,
+    "count": {
+      "1": 2,
+      "2": 3,
+      "3": 3,
+      "4": 17,
+      "5": 61,
+      "6": 232,
+      "7": 616,
+      "8": 878,
+      "9": 385,
+      "10": 134
+    },
+    "score": 7.7
+  },
+  "tags": [
+    {
+      "name": "押井守",
+      "count": 977,
+      "total_cont": 0
+    },
+    {
+      "name": "剧场版",
+      "count": 694,
+      "total_cont": 0
+    },
+    {
+      "name": "Production.I.G",
+      "count": 419,
+      "total_cont": 0
+    },
+    {
+      "name": "空中杀手",
+      "count": 359,
+      "total_cont": 0
+    },
+    {
+      "name": "2008",
+      "count": 334,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 329,
+      "total_cont": 0
+    },
+    {
+      "name": "川井宪次",
+      "count": 243,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 167,
+      "total_cont": 0
+    },
+    {
+      "name": "ProductionIG",
+      "count": 110,
+      "total_cont": 0
+    },
+    {
+      "name": "ProductionI.G",
+      "count": 108,
+      "total_cont": 0
+    },
+    {
+      "name": "闷",
+      "count": 66,
+      "total_cont": 0
+    },
+    {
+      "name": "战争",
+      "count": 44,
+      "total_cont": 0
+    },
+    {
+      "name": "IG",
+      "count": 32,
+      "total_cont": 0
+    },
+    {
+      "name": "スカイ・クロラ",
+      "count": 26,
+      "total_cont": 0
+    },
+    {
+      "name": "动画电影",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "森博嗣",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "空战",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "鸭嘴兽",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "川井憲次",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "西尾铁也",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "空中爬行者",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "映画",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "2008年",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "电影",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "西尾鉄也",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "Production_I.G",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "基多尔雷",
+      "count": 8,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "1836"
+    },
+    {
+      "site": "prime",
+      "id": "B00M7I36I6",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

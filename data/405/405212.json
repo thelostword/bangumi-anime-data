@@ -1,0 +1,227 @@
+{
+  "id": 405212,
+  "name": "凸变英雄X",
+  "name_cn": "",
+  "summary": "这是一个由人们的信赖造就英雄的世界，而获得最多信赖的英雄被誉为——X。在这个世界里，人们的信赖是可以被数据统计出来的，并且这些数值会反映在每个人的手腕上。只要获得足够多的信赖值，普通人也能拥有超能力，成为拯救世界的超级英雄。然而，持续变化的信赖值让英雄之路充满未知……",
+  "date": "2025-04-06",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/9a/37/405212_2LgDe.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/9a/37/405212_2LgDe.jpg"
+  },
+  "eps": 24,
+  "rating": {
+    "rank": 5752,
+    "total": 498,
+    "count": {
+      "1": 6,
+      "2": 7,
+      "3": 11,
+      "4": 29,
+      "5": 51,
+      "6": 132,
+      "7": 182,
+      "8": 68,
+      "9": 6,
+      "10": 6
+    },
+    "score": 6.3
+  },
+  "tags": [
+    {
+      "name": "原创",
+      "count": 255,
+      "total_cont": 0
+    },
+    {
+      "name": "国产",
+      "count": 242,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年4月",
+      "count": 173,
+      "total_cont": 0
+    },
+    {
+      "name": "绘梦",
+      "count": 139,
+      "total_cont": 0
+    },
+    {
+      "name": "中国",
+      "count": 118,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 103,
+      "total_cont": 0
+    },
+    {
+      "name": "中日合作",
+      "count": 97,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 88,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 84,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 72,
+      "total_cont": 0
+    },
+    {
+      "name": "国创",
+      "count": 66,
+      "total_cont": 0
+    },
+    {
+      "name": "李豪凌",
+      "count": 58,
+      "total_cont": 0
+    },
+    {
+      "name": "哔梦",
+      "count": 37,
+      "total_cont": 0
+    },
+    {
+      "name": "铅元素动画",
+      "count": 30,
+      "total_cont": 0
+    },
+    {
+      "name": "STUDIO.LAN！",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "国产动画",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "bilibili",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "纸飞机动画",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "李导",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "泽野弘之",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "无法预测命运之舞台",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "凸变英雄",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2020s",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "国漫",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "花澤香菜",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "一眼望到头的剧情",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "周一",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "405212"
+    },
+    {
+      "site": "nicovideo",
+      "id": "tbhx",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "abema",
+      "id": "26-242",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "67ed5cb88b961748467f45c9"
+    },
+    {
+      "site": "unext",
+      "id": "SID0181245",
+      "begin": "2025-04-09T03:00:00.000Z",
+      "broadcast": "R/2025-04-09T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "27865",
+      "begin": "2025-04-09T03:00:00.000Z",
+      "broadcast": "R/2025-04-09T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0F3J6DV8N",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3640"
+    }
+  ]
+}

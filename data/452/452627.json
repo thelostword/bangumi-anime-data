@@ -1,0 +1,130 @@
+{
+  "id": 452627,
+  "name": "映画 ギヴン 海へ",
+  "name_cn": "电影 GIVEN 向着大海",
+  "summary": "佐藤真冬、上ノ山立夏、中山春樹、梶 秋彦のバンド「ギヴン」は、フェス出場をかけたコンテストに落ちるも、メジャーデビューへの誘いがかかる。\r\n各メンバーがデビューに前向きな姿勢を見せる中、真冬は答えを出せずにいた。\r\n一方、メジャーデビューを決めた鹿島 柊と八木玄純のバンド「syh〈シー〉」。\r\n一時的なサポートギターとして加入していた立夏は、柊から託されたある曲を完成させようとしていた。",
+  "date": "2024-09-20",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/69/a2/452627_86s1a.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/69/a2/452627_86s1a.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 7,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 0,
+      "7": 4,
+      "8": 0,
+      "9": 1,
+      "10": 1
+    },
+    "score": 7.4
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "BL",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "音乐",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "耽美",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "GIVEN",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "ラルケ",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "綾奈ゆにこ",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "可重温",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "橋本能理子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "ギヴン",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "内田雄馬",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "矢野奨吾",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "452627"
+    },
+    {
+      "site": "unext",
+      "id": "SID0175219",
+      "begin": "2025-03-25T15:00:00.000Z",
+      "broadcast": "R/2025-03-25T15:00:00.000Z/P7D"
+    }
+  ]
+}

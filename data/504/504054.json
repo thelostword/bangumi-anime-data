@@ -1,0 +1,162 @@
+{
+  "id": 504054,
+  "name": "白豚貴族ですが前世の記憶が生えたのでひよこな弟育てます",
+  "name_cn": "虽然我是白豚贵族，但因为我有前世的记忆，所以我在养育弱小的弟弟",
+  "summary": "もっちもちほっぺに、まんまるお腹。\r\nわがまま放題に育った5歳児、菊乃井鳳蝶に生えたのは、前世――\r\n料理と裁縫と歌をこよなく愛す「オトメン」な俺――の記憶だった。\r\n\r\nきらきらファンタジーな現世には、\r\n優雅で美しいものや不思議なものがいっぱい！\r\n見目麗しいエルフに、人智を越えた存在の神々に、魔術の力まで！\r\nそして何より、ふわふわ「ひよこ」で\r\n「にぃにが大好き」な弟のレグルスくん。\r\n\r\nでも、見えないところでは、伯爵である菊乃井家内部の軋轢や、\r\n帝国貴族の腐敗が進んでて……。\r\n\r\n前世のスキルに、神々やエルフ、ときどき魔術の力を借りながら、\r\n幼い兄弟が挑戦する領地経営ファンタジー！",
+  "date": "2025-04-20",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/b9/27/504054_r917B.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/b9/27/504054_r917B.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 28,
+    "count": {
+      "1": 5,
+      "2": 3,
+      "3": 4,
+      "4": 6,
+      "5": 7,
+      "6": 0,
+      "7": 1,
+      "8": 0,
+      "9": 1,
+      "10": 1
+    },
+    "score": 3.9
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "轻小说改",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年4月",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "スタジオコメット",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "转生",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "异世界",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "佐藤昌文",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "吃饭",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "広田光毅",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年7月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "龙傲天",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "COMET",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "StudioComet",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "轻改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "伊瀬茉莉也",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "久野美咲",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "504054"
+    },
+    {
+      "site": "gamer",
+      "id": "143292",
+      "begin": "2025-04-20T11:30:00.000Z",
+      "broadcast": "R/2025-04-20T11:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "143292",
+      "begin": "2025-04-20T11:30:00.000Z",
+      "broadcast": "R/2025-04-20T11:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "564-13",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "id": 495633,
+  "name": "やたらやらしい深見くん",
+  "name_cn": "过分色气的深见君",
+  "summary": "完璧なこの俺が…なんで地味男なんかに興奮してるんだ…!?\r\n外面は良く人気者だが、内心では他人に点数をつけて見下してきた梶。\r\n自分に釣り合う最高のネコはいないかと、理想を追い求め続けていた。\r\nそんなある日、冴えない同僚・深見と一緒に泊まりの出張へ行くことに。\r\nこいつとだけは無人島で2人になってもヤるわけない――\r\nそう思っていたのに、風呂上がりの深見は見違えるように可愛くて…色っぽい!?",
+  "date": "2025-04-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/4e/6d/495633_ba3t0.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/4e/6d/495633_ba3t0.jpg"
+  },
+  "eps": 8,
+  "rating": {
+    "rank": 0,
+    "total": 16,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 2,
+      "4": 0,
+      "5": 8,
+      "6": 3,
+      "7": 0,
+      "8": 0,
+      "9": 1,
+      "10": 1
+    },
+    "score": 5.3
+  },
+  "tags": [
+    {
+      "name": "BL",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年4月",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "僧侣档",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "过分色气的深见君",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2020-2029",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "BL漫画改",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "studioHōKIBOSHI",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "大空茜音",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "耽美",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "里番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "里",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "20年代",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "495633"
+    },
+    {
+      "site": "abema",
+      "id": "643-10",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "nicovideo",
+      "id": "fukamikun",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "67ed5cbb8b961748467f45d9"
+    },
+    {
+      "site": "unext",
+      "id": "SID0179213",
+      "begin": "2025-04-09T15:00:00.000Z",
+      "broadcast": "R/2025-04-09T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "27761",
+      "begin": "2025-04-09T15:00:00.000Z",
+      "broadcast": "R/2025-04-09T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3630"
+    }
+  ]
+}

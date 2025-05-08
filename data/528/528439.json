@@ -1,0 +1,207 @@
+{
+  "id": 528439,
+  "name": "ツインズひなひま",
+  "name_cn": "双胞胎阳奈妃莉",
+  "summary": "ワンチャンバズることを夢見る双子の女子高生ひまりとひなな。 ダンスを手始めに、伸びそうなネタをかたっぱしから撮影していく中で、 妙な”異変”に気づいた時から、 おかしな世界へ足を踏み入れていくーーー。",
+  "date": "2025-03-29",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/4c/a7/528439_W0rcx.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/4c/a7/528439_W0rcx.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 7781,
+    "total": 562,
+    "count": {
+      "1": 6,
+      "2": 2,
+      "3": 18,
+      "4": 21,
+      "5": 135,
+      "6": 262,
+      "7": 97,
+      "8": 18,
+      "9": 2,
+      "10": 1
+    },
+    "score": 5.8
+  },
+  "tags": [
+    {
+      "name": "原创",
+      "count": 184,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 109,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 104,
+      "total_cont": 0
+    },
+    {
+      "name": "AI绘画",
+      "count": 103,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年4月",
+      "count": 96,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 95,
+      "total_cont": 0
+    },
+    {
+      "name": "AI",
+      "count": 91,
+      "total_cont": 0
+    },
+    {
+      "name": "实验动画",
+      "count": 74,
+      "total_cont": 0
+    },
+    {
+      "name": "KaKaTechnologyStudio",
+      "count": 71,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 55,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 36,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 33,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "中野红",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "中野紅",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "横田拓己",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "AIGC",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "治愈",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "3D",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "品田遊",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "6分",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "剧情",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "AI辅助",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "伊駒ゆりえ",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "夢見クジラ",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "AI动画",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "528439"
+    },
+    {
+      "site": "unext",
+      "id": "SID0178347",
+      "begin": "2025-03-30T03:00:00.000Z",
+      "broadcast": "R/2025-03-30T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "117-41",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "danime",
+      "id": "27734",
+      "begin": "2025-03-30T03:00:00.000Z",
+      "broadcast": "R/2025-03-30T03:00:00.000Z/P7D"
+    }
+  ]
+}

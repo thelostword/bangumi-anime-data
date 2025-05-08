@@ -1,0 +1,146 @@
+{
+  "id": 501937,
+  "name": "劇場総集編 幻日のヨハネ -SUNSHINE in the MIRROR-",
+  "name_cn": "剧场总集篇 幻日夜羽 -镜中晖光-",
+  "summary": "女子高校生が学校で活動するアイドル「スクールアイドル」を通して夢をかなえていく姿を描くメディアミックスプロジェクト「ラブライブ！」シリーズの第2作「ラブライブ！サンシャイン!!」の公式スピンオフ作品として、2023年7月から全13話が放送されたテレビアニメ「幻日のヨハネ SUNSHINE in the MIRROR」の劇場総集編。「ラブライブ！サンシャイン!!」の舞台である静岡県沼津市に似た異世界の町「ヌマヅ」で暮らす少女ヨハネを中心に織りなされる、歌と魔法と絆の物語を描く。\r\n\r\n海の潮騒と森の囁きに囲まれた「ヌマヅ」で育った少女ヨハネは、小さな町になじむことができず「トカイ」へと旅立つ。「トカイでビッグになる」という夢をかなえるべくオーディションに挑むヨハネだったが上手くいかず、ついにヌマヅへ帰郷することになってしまう。彼女はそこで相棒の狼獣ライラプスや幼なじみのハナマルと再会し、新しい仲間たちとの出会いを通して成長していく。",
+  "date": "2024-11-29",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e1/e1/501937_t31bY.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e1/e1/501937_t31bY.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 15,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 2,
+      "5": 1,
+      "6": 10,
+      "7": 0,
+      "8": 1,
+      "9": 0,
+      "10": 1
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "SUNRISE",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "总集篇",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "中谷亜沙美",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "未上映",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "LoveLive！",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "大野敏哉",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "未发售",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "已保存",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "高槻かなこ",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "小林愛香",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "LL",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "サンライズ",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2020s",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "501937"
+    },
+    {
+      "site": "unext",
+      "id": "SID0181624",
+      "begin": "2025-04-03T15:00:00.000Z",
+      "broadcast": "R/2025-04-03T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "yohane-movie",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

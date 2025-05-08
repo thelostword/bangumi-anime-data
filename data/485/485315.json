@@ -1,0 +1,193 @@
+{
+  "id": 485315,
+  "name": "わんだふるぷりきゅあ！ざ・むーびー! ドキドキ♡ゲームの世界で大冒険！",
+  "name_cn": "美妙宠物 光之美少女！The Movie！心跳不已♡游戏世界大冒险！",
+  "summary": "大人気ゲーム 【ドキドキ♡タヌキングダム】 で遊ぶため、こむぎ、いろは、ユキ、まゆ、大福、悟が集合！\r\nみんな仲良くゲームスタート！のはずが···\r\nあやしいタヌキがいるゲームの世界いに吸い込まれちゃったみたい···。\r\nさらに大ピンチ！こむぎは、いろはやみんなと離れ離れになっちゃった···！？\r\n\r\n「ずっとずっといろはの隣にいたいんだワン！」\r\n大好きないろはに会うために、こむぎはいろんなゲーム対決に挑戦することに！\r\n一体どうしてこんなことに···？ゲームの世界に隠された秘密ってなに…？\r\n手がかりはゲームをつくった少女・ナツキが握っていて——。\r\n\r\n「ひろがるスカイ！プリキュア」 と 「魔法つかいプリキュア！」 も大集合！\r\nみんなの想いがひとつになった時、わんだふるな奇跡が巻き起こる！？",
+  "date": "2024-09-13",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/22/93/485315_EO7Kz.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/22/93/485315_EO7Kz.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 8349,
+    "total": 82,
+    "count": {
+      "1": 1,
+      "2": 4,
+      "3": 12,
+      "4": 14,
+      "5": 27,
+      "6": 17,
+      "7": 4,
+      "8": 3,
+      "9": 0,
+      "10": 0
+    },
+    "score": 4.8
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 46,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 35,
+      "total_cont": 0
+    },
+    {
+      "name": "光之美少女",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "東映アニメーション",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "东映动画",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "东映",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "precure",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "宮原直樹",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "宫原直树",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "上田麗奈",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "加藤陽一",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2020s",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "魔法少女",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "4分",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "加藤阳一",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "表",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "小男孩",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "宫谷里沙",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "5-100",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "20s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2020-2029",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "種﨑敦美",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "長縄まりあ",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Precure!",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "子供向",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "485315"
+    },
+    {
+      "site": "mikan",
+      "id": "3510"
+    }
+  ]
+}

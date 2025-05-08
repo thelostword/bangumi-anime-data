@@ -1,0 +1,130 @@
+{
+  "id": 486571,
+  "name": "劇場版すとぷり はじまりの物語～Strawberry School Festival!!!～",
+  "name_cn": "剧场版草莓王子 起始的物语～Strawberry School Festival!!!～",
+  "summary": "2016年に結成され、動画配信サイトを中心に様々な活動を行うエンタメアイドルユニット「すとぷり」。\r\nYouTube動画再生数79.7億回再生、YouTubeチャンネル登録者数290万人超え。\r\n2022年には5大ドームツアー制覇！\r\n2023年には全11会場44公演の全国アリーナツアーを開催し、上半期音楽ライブ動員数日本1位に！\r\n2023年第74回NHK紅白歌合戦にも初出場を果たした。\r\nそして2024年。\r\n勢いの止まらない\"すとぷり\"の新たな舞台としてアニメ映画化が決定！\r\nまだ誰も知らない。\r\nこれは、すとぷりのはじまりの物語───",
+  "date": "2024-07-19",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/70/05/486571_P1n66.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/70/05/486571_P1n66.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 6,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 2,
+      "5": 1,
+      "6": 1,
+      "7": 2,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.5
+  },
+  "tags": [
+    {
+      "name": "2024",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "剧场版",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "松浦直紀",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "ライデンフィルム",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "すとぷり",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ映画",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "LIDENFILMS",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "涼村千夏",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "莉犬",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "没加目录",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "可重温",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "偶像",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画电影",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "乙女向",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "486571"
+    },
+    {
+      "site": "unext",
+      "id": "SID0175216",
+      "begin": "2025-03-24T15:00:00.000Z",
+      "broadcast": "R/2025-03-24T15:00:00.000Z/P7D"
+    }
+  ]
+}

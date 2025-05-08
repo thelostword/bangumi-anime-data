@@ -1,0 +1,67 @@
+{
+  "id": 547873,
+  "name": "MUZIK TIGER In the Forest",
+  "name_cn": "",
+  "summary": "きれいな湖のあるMUZIK FOREST〈ムジークフォレスト〉。\r\n\r\nそこにはトラのトフィー、ティフィー、テフィー、ネズミのウィリー、\r\nさらに月から来たうさぎのポルミなど個性豊かな動物たちが暮らしている。\r\n\r\n仕事をしなくてものんびり前向きなトフィーは、\r\n今日も自由気ままに、\r\n仲間たちと楽しくも不思議な日々を過ごしていく。",
+  "date": "2025-04-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/62/c6/547873_L1bYS.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/62/c6/547873_L1bYS.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 1
+  },
+  "tags": [
+    {
+      "name": "2025",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "547873"
+    },
+    {
+      "site": "nicovideo",
+      "id": "muziktiger-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0181261",
+      "begin": "2025-04-16T11:30:00.000Z",
+      "broadcast": "R/2025-04-16T11:30:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "27918",
+      "begin": "2025-04-16T11:30:00.000Z",
+      "broadcast": "R/2025-04-16T11:30:00.000Z/P7D"
+    }
+  ]
+}

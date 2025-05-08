@@ -1,0 +1,70 @@
+{
+  "id": 541037,
+  "name": "SHIBUYA♡HACHI 第3クール",
+  "name_cn": "涩谷♡八 第三部分",
+  "summary": "渋谷駅前のシンボル“忠犬ハチ公像“として、\r\nまちを見守り続けて来た“HACHI(ハチ)”が現代の渋谷で動き出す！\r\n\r\nミケ・ナナ・ハリー・クロといった\r\n渋谷に集まる愉快な仲間たちと繰り広げるユル〜く楽しい日常。\r\n\r\n“HACHI(ハチ)”の小さな冒険が、いま始まる！",
+  "date": "2025-04-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/43/dd/541037_P3MS3.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/43/dd/541037_P3MS3.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 3,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 1,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 3.3
+  },
+  "tags": [
+    {
+      "name": "2025",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "541037"
+    },
+    {
+      "site": "danime",
+      "id": "27783",
+      "begin": "2025-04-09T22:30:00.000Z",
+      "broadcast": "R/2025-04-09T22:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0181264",
+      "begin": "2025-04-09T22:30:00.000Z",
+      "broadcast": "R/2025-04-09T22:30:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3643"
+    }
+  ]
+}

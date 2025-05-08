@@ -1,0 +1,233 @@
+{
+  "id": 501702,
+  "name": "ある魔女が死ぬまで",
+  "name_cn": "直至魔女消逝",
+  "summary": "「お前、あと一年で死ぬよ」\r\n\r\n十七歳の誕生日を迎えた見習い魔女のメグ・ラズベリーは、\r\n魔法の師匠であり、魔法界トップの七賢人に名を連ねる\r\n『永年の魔女』・ファウストから、\r\n突如として余命一年であることを告げられる。\r\n\r\nメグは『死の宣告』の呪いにかかっていたのだ。\r\n呪いによる死を免れる方法はただ一つ。\r\n手にした者に不死をもたらす、『命の種』を生み出すこと。\r\nそして、『命の種』の材料となるのは、\r\n感情の欠片――人が喜んだ時に流す、嬉し涙。\r\n\r\n「それで、一体どれくらい涙を集めればいいんですか？」\r\n「千人分だ」\r\n「……はい？」\r\n\r\nこうして、メグは嬉し涙を集めるため、様々な人たちと関わっていく。\r\n幼馴染みで大親友のフィーネ。\r\nファウストと同じ七賢人の一人――『英知の魔女』・祈。\r\nメグと同い年にして七賢人に名を連ねる天才少女、\r\n『祝福の魔女』・ソフィ。\r\n\r\nこれは、余命一年を宣告された未熟な魔女、\r\nメグ・ラズベリーが起こす、奇跡の物語。",
+  "date": "2025-04-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e1/b7/501702_VXrd2.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e1/b7/501702_VXrd2.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 7263,
+    "total": 1042,
+    "count": {
+      "1": 4,
+      "2": 3,
+      "3": 8,
+      "4": 44,
+      "5": 212,
+      "6": 504,
+      "7": 213,
+      "8": 40,
+      "9": 6,
+      "10": 8
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "2025年4月",
+      "count": 524,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 419,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 315,
+      "total_cont": 0
+    },
+    {
+      "name": "轻小说改",
+      "count": 298,
+      "total_cont": 0
+    },
+    {
+      "name": "冒险",
+      "count": 227,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 183,
+      "total_cont": 0
+    },
+    {
+      "name": "轻改",
+      "count": 180,
+      "total_cont": 0
+    },
+    {
+      "name": "青山吉能",
+      "count": 178,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 177,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 174,
+      "total_cont": 0
+    },
+    {
+      "name": "EMT2",
+      "count": 126,
+      "total_cont": 0
+    },
+    {
+      "name": "EMTSquared",
+      "count": 95,
+      "total_cont": 0
+    },
+    {
+      "name": "治愈",
+      "count": 76,
+      "total_cont": 0
+    },
+    {
+      "name": "EMTスクエアード",
+      "count": 45,
+      "total_cont": 0
+    },
+    {
+      "name": "浊川敦",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "魔女",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "魔法",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "异世界",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "羊宮妃那",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "公路片",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "公路",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "濁川敦",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "4月",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2025.4",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "情感",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "大知庆一郎",
+      "count": 4,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "501702"
+    },
+    {
+      "site": "nicovideo",
+      "id": "arumajo-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0180994",
+      "begin": "2025-04-06T15:00:00.000Z",
+      "broadcast": "R/2025-04-06T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-283",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "danime",
+      "id": "27777",
+      "begin": "2025-04-01T15:00:00.000Z",
+      "broadcast": "R/2025-04-01T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0DRDM15ZD",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3583"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "67ed5cbe8b961748467f45ef"
+    },
+    {
+      "site": "crunchyroll",
+      "id": "GMEHME72W",
+      "begin": "2025-04-01T14:30:00.000Z",
+      "broadcast": "R/2025-04-01T14:30:00.000Z/P7D"
+    }
+  ]
+}
