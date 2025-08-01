@@ -1,0 +1,233 @@
+{
+  "id": 493546,
+  "name": "桃源暗鬼",
+  "name_cn": "桃源暗鬼",
+  "summary": "「お前は鬼の血を継いでいる……」──一部の人間に脈々と受け継がれる「鬼」と「桃太郎」の血。はるか昔、自らの凶暴性を自覚するが故にひっそりと暮らしていた「鬼」だったが、そこに「桃太郎」が攻め入った。それぞれが「桃太郎機関」「鬼機関」を組織し、抗争すること何千年。突然の“桃太郎”の襲撃で、自分が“鬼”だと知る主人公・一ノ瀬四季。自らの血に棲む“鬼”と出逢った四季の宿命とは───。───新世代ダークヒーロー鬼譚、ここに開幕！",
+  "date": "2025-07-11",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/b9/09/493546_gT54V.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/b9/09/493546_gT54V.jpg"
+  },
+  "eps": 24,
+  "rating": {
+    "rank": 8482,
+    "total": 132,
+    "count": {
+      "1": 6,
+      "2": 4,
+      "3": 5,
+      "4": 21,
+      "5": 40,
+      "6": 42,
+      "7": 10,
+      "8": 2,
+      "9": 1,
+      "10": 1
+    },
+    "score": 5.1
+  },
+  "tags": [
+    {
+      "name": "2025年7月",
+      "count": 83,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 58,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 57,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 52,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 50,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 45,
+      "total_cont": 0
+    },
+    {
+      "name": "スタジオ雲雀",
+      "count": 33,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 32,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "少年向",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "神谷浩史",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "野中阿斗",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "西山宏太朗",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "浦和希",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "Studio云雀",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "云雀工作室",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2020-2029",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "25夏",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "新番",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "7月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "桃源暗鬼",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "非续作",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漆原侑来",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "神雕",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025夏",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "试看",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年夏",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "493546"
+    },
+    {
+      "site": "nicovideo",
+      "id": "tougenanki-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0200165",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "abema",
+      "id": "675-7",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6862b06edffbea3b3f911b4f"
+    },
+    {
+      "site": "netflix",
+      "id": "81969861",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "crunchyroll",
+      "id": "GP5HJ84D2",
+      "begin": "2025-07-11T14:00:00.000Z",
+      "broadcast": "R/2025-07-11T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "139237",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3676"
+    }
+  ]
+}

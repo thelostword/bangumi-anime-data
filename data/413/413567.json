@@ -1,0 +1,233 @@
+{
+  "id": 413567,
+  "name": "Turkey!",
+  "name_cn": "保龄球少女！",
+  "summary": "──あなたは信じてくれるかな？不思議で、愛しくて、切なくて、大切な、\r\n楽しいだけじゃ語れない、私達の物語──\r\n\r\nTurkeyターキー……ボウリング用語で、3回連続でストライクを取ること。\r\n\r\n一刻館高校ボウリング部の部長、高校2年生の麻衣は、試合に勝てない天才。\r\nTurkeyを取ると、なぜかそのあと必ず、難攻不落のスプリット、スネークアイを出してしまう。\r\n\r\nそんな麻衣に、唯一の1年生部員、利奈が言った。「わざとでしょ」\r\n「部長は勝つことから逃げてる。私は勝ちたい。勝つ気がないなら退部する」──\r\n\r\nこれは、麻衣、利奈、さゆり、希、七瀬……\r\n5人の一刻館高校ボウリング部員たちが、負けて戦い、負けて戦い、\r\nそして勝つまでの、夏の終わりの物語。",
+  "date": "2025-07-08",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/bb/dc/413567_a2ezg.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/bb/dc/413567_a2ezg.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 6947,
+    "total": 743,
+    "count": {
+      "1": 5,
+      "2": 5,
+      "3": 18,
+      "4": 43,
+      "5": 124,
+      "6": 271,
+      "7": 214,
+      "8": 44,
+      "9": 12,
+      "10": 7
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "原创",
+      "count": 453,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年7月",
+      "count": 371,
+      "total_cont": 0
+    },
+    {
+      "name": "运动",
+      "count": 266,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 229,
+      "total_cont": 0
+    },
+    {
+      "name": "BAKKENRECORD",
+      "count": 174,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 162,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 159,
+      "total_cont": 0
+    },
+    {
+      "name": "无法预测的命运之舞台",
+      "count": 155,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 149,
+      "total_cont": 0
+    },
+    {
+      "name": "穿越",
+      "count": 137,
+      "total_cont": 0
+    },
+    {
+      "name": "保龄球",
+      "count": 99,
+      "total_cont": 0
+    },
+    {
+      "name": "工藤进",
+      "count": 63,
+      "total_cont": 0
+    },
+    {
+      "name": "龙之子",
+      "count": 30,
+      "total_cont": 0
+    },
+    {
+      "name": "岩田陽葵",
+      "count": 24,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "市ノ瀬加那",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "异世界",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "伊藤彩沙",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "蛭田直美",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2025夏",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "菱川花菜",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "7月",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "新番",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "工藤進",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "BAKKEN_RECORD",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "战国",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "413567"
+    },
+    {
+      "site": "nicovideo",
+      "id": "turkey",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0200135",
+      "begin": "2025-07-08T17:30:00.000Z",
+      "broadcast": "R/2025-07-08T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "189-82",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6862b068dffbea3b3f911b2b"
+    },
+    {
+      "site": "danime",
+      "id": "28012",
+      "begin": "2025-07-08T17:30:00.000Z",
+      "broadcast": "R/2025-07-08T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "crunchyroll",
+      "id": "GMEHME7GX",
+      "begin": "2025-07-08T16:29:00.000Z",
+      "broadcast": "R/2025-07-08T16:29:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3675"
+    },
+    {
+      "site": "gamer",
+      "id": "129434",
+      "begin": "2025-07-08T17:30:00.000Z",
+      "broadcast": "R/2025-07-08T17:30:00.000Z/P7D"
+    }
+  ]
+}

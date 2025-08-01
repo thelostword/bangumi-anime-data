@@ -1,0 +1,251 @@
+{
+  "id": 523426,
+  "name": "ホテル・インヒューマンズ",
+  "name_cn": "杀手旅店",
+  "summary": "最高のホテルには条件がある。\r\n「極上の食事」、「至高の癒やし」、「魅惑の娯楽」…\r\n\r\nそして、“最新の武器手配”、\r\n“安心の身元詐称”、\r\n“完璧な死体処理”——!?\r\n\r\n死の境界線で、決して『NOと告げない』二人のコンシェルジュ、\r\n生朗と沙羅が応える殺し屋達の願いとは——\r\n\r\nいざ、鮮烈のキリング・ホテル・ドラマ…開幕！",
+  "date": "2025-07-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e7/c7/523426_GJCIE.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e7/c7/523426_GJCIE.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 8078,
+    "total": 159,
+    "count": {
+      "1": 3,
+      "2": 0,
+      "3": 6,
+      "4": 19,
+      "5": 61,
+      "6": 46,
+      "7": 19,
+      "8": 0,
+      "9": 3,
+      "10": 2
+    },
+    "score": 5.4
+  },
+  "tags": [
+    {
+      "name": "2025年7月",
+      "count": 98,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 65,
+      "total_cont": 0
+    },
+    {
+      "name": "BRIDGE",
+      "count": 51,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 49,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 45,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 44,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 35,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "米村正二",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "网野哲郎",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "ブリッジ",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "杀手",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "アミノテツロー",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2020-2029",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "新番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "20年代",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025夏",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025.7",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "杀手旅店",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "25夏",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "田島青",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "白浜灯奈乃",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "追番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "内山昂辉",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "单元剧",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "荒诞",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "523426"
+    },
+    {
+      "site": "nicovideo",
+      "id": "hotel-inhumans",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0200151",
+      "begin": "2025-07-06T15:15:00.000Z",
+      "broadcast": "R/2025-07-06T15:15:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "194-78",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtQ-GmyngyfBiZiWnpKVcWRk",
+      "begin": "2025-07-06T15:45:06.000Z",
+      "broadcast": "R/2025-07-06T15:45:06.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JjWATZTieze6DkSUxWjo5dG",
+      "begin": "2025-07-06T15:45:06.000Z",
+      "broadcast": "R/2025-07-06T15:45:06.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6862b062dffbea3b3f911b0d"
+    },
+    {
+      "site": "danime",
+      "id": "28099",
+      "begin": "2025-07-06T15:15:00.000Z",
+      "broadcast": "R/2025-07-06T15:15:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "142294",
+      "begin": "2025-07-06T15:45:00.000Z",
+      "broadcast": "R/2025-07-06T15:45:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "142294",
+      "begin": "2025-07-06T15:45:00.000Z",
+      "broadcast": "R/2025-07-06T15:45:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0FDV42DGB",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3705"
+    }
+  ]
+}

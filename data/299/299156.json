@@ -1,0 +1,60 @@
+{
+  "id": 299156,
+  "name": "越後の昔ばなし あったてんがのぉ",
+  "name_cn": "越后流传的故事",
+  "summary": "越路町町制施行45周年纪念作品。讲的传说故事。是个冷番。",
+  "date": "2000-05-01",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/36/bf/299156_7rgr5.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/36/bf/299156_7rgr5.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 3,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 2,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.3
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "空",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2000",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "299156"
+    },
+    {
+      "site": "danime",
+      "id": "27977",
+      "begin": "2025-05-30T15:00:00.000Z",
+      "broadcast": "R/2025-05-30T15:00:00.000Z/P7D"
+    }
+  ]
+}

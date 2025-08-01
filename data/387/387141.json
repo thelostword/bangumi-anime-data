@@ -1,0 +1,55 @@
+{
+  "id": 387141,
+  "name": "アイスくりたろう",
+  "name_cn": "",
+  "summary": " A short anime aired as a segment on TV Asahi's late-night variety program That's Enka Tainment.",
+  "date": "2017-10-12",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/37/d9/387141_XZ67F.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/37/d9/387141_XZ67F.jpg"
+  },
+  "eps": 49,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "空",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "387141"
+    },
+    {
+      "site": "danime",
+      "id": "27968",
+      "begin": "2025-05-22T15:00:00.000Z",
+      "broadcast": "R/2025-05-22T15:00:00.000Z/P7D"
+    }
+  ]
+}

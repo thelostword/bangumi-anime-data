@@ -1,0 +1,245 @@
+{
+  "id": 532403,
+  "name": "水属性の魔法使い",
+  "name_cn": "水属性的魔法师",
+  "summary": "「＜水よ来たれ！＞」\r\n異世界に転生した青年・涼のコップ一杯の水から始まる\r\nスローライフ――それは常に死と隣り合わせの日常だった！？\r\n首なし騎士との剣戟、アサシンホークの襲撃、\r\nドラゴンとの邂逅と慌ただしい日々を過ごしながら気づけば二十年、\r\nいつしか人類最高峰の魔法使いに到達！\r\nやがて、\r\n天才剣士アベルとの出会いが涼を歴史の表舞台へと引き上げていく……。\r\n\r\nマイペースすぎる最強水魔法使いの気ままな冒険譚、\r\n開幕！",
+  "date": "2025-07-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/16/e9/532403_f7P6q.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/16/e9/532403_f7P6q.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 8418,
+    "total": 480,
+    "count": {
+      "1": 5,
+      "2": 7,
+      "3": 20,
+      "4": 44,
+      "5": 140,
+      "6": 185,
+      "7": 60,
+      "8": 14,
+      "9": 4,
+      "10": 1
+    },
+    "score": 5.5
+  },
+  "tags": [
+    {
+      "name": "2025年7月",
+      "count": 211,
+      "total_cont": 0
+    },
+    {
+      "name": "异世界",
+      "count": 164,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 144,
+      "total_cont": 0
+    },
+    {
+      "name": "轻小说改",
+      "count": 120,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 112,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 89,
+      "total_cont": 0
+    },
+    {
+      "name": "WONDERLAND",
+      "count": 80,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 78,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 67,
+      "total_cont": 0
+    },
+    {
+      "name": "轻改",
+      "count": 60,
+      "total_cont": 0
+    },
+    {
+      "name": "颱風グラフィックス",
+      "count": 36,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "佐竹秀幸",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "穿越",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "本渡楓",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "台风Graphics",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "厕纸",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "魔法",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "转生",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "25夏",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "村瀬歩",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "水属性的魔法师",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "浦和希",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "Baha",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "慢生活",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "睡前番",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "532403"
+    },
+    {
+      "site": "nicovideo",
+      "id": "mizuzokusei-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0200170",
+      "begin": "2025-07-03T17:00:00.000Z",
+      "broadcast": "R/2025-07-03T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "28032",
+      "begin": "2025-07-03T17:00:00.000Z",
+      "broadcast": "R/2025-07-03T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3701"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6862b06edffbea3b3f911b4d"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "143288",
+      "begin": "2025-07-03T18:30:00.000Z",
+      "broadcast": "R/2025-07-03T18:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "143288",
+      "begin": "2025-07-03T18:30:00.000Z",
+      "broadcast": "R/2025-07-03T18:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "19-267",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "prime",
+      "id": "B0FFLQZ7Y4",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "disneyplus",
+      "id": "5kpPuF2v5AYY",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

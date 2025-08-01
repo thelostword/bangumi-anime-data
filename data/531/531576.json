@@ -1,0 +1,73 @@
+{
+  "id": 531576,
+  "name": "忍ばない！クリプトニンジャ咲耶 参ノ巻",
+  "name_cn": "不忍！加密忍者咲耶 叁之卷",
+  "summary": "世界を破滅させようとする鬼道衆の企みを阻止した甲賀忍者の咲耶・ネム・シャオランの3人。シノビマートでバイトをして過ごす、平和な日常を送っていた。\r\nしかし、そこに突如謎の来客が…。そして明かされる衝撃の真実…\r\n新たな脅威に咲耶たちが立ち向かう！",
+  "date": "2025-07-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/14/b4/531576_OPR5O.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/14/b4/531576_OPR5O.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 2,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 4
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "20225",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年7月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "忍者",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "531576"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6862b063dffbea3b3f911b13"
+    }
+  ]
+}

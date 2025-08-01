@@ -1,0 +1,86 @@
+{
+  "id": 541423,
+  "name": "忍たま乱太郎 第33シリーズ",
+  "name_cn": "忍者乱太郎 第33季",
+  "summary": "",
+  "date": "2025-03-31",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/25/f7/541423_QBoUo.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/25/f7/541423_QBoUo.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 2,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 1,
+      "9": 0,
+      "10": 1
+    },
+    "score": 9
+  },
+  "tags": [
+    {
+      "name": "漫画改",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "亜細亜堂",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "子供向",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "续集",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "541423"
+    },
+    {
+      "site": "unext",
+      "id": "SID0197203",
+      "begin": "2025-06-27T03:00:00.000Z",
+      "broadcast": "R/2025-06-27T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "27997",
+      "begin": "2025-06-05T15:00:00.000Z",
+      "broadcast": "R/2025-06-05T15:00:00.000Z/P7D"
+    }
+  ]
+}

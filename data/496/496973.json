@@ -1,0 +1,239 @@
+{
+  "id": 496973,
+  "name": "9-nine- Ruler's Crown",
+  "name_cn": "9-nine- 支配者的王冠",
+  "summary": "白巳津川市。\r\n学園都市であること以外になんの特色もない街。\r\n観光客を呼び込もうと町興しに励んでいるが、どれも不発。\r\nしかし、予期せぬ出来事により世間の関心を集めることに。\r\n\r\n異変は、突如として訪れた。\r\n\r\n白蛇九十九神社の神器が破損したことにより、\r\n平穏な学生生活を送っていた、主人公・新海 翔の日常が一変する。\r\n\r\n並行世界から、所有者に特殊能力を授ける装飾品「アーティファクト」 が流入し、\r\n\r\n異能に目覚める少年少女たち。\r\n\r\nなんの特色も無い街に住む、なんの変哲もない平凡な学生のはずだったが、\r\n異能者たちが巻き起こす数奇な運命に巻き込まれていく――",
+  "date": "2025-07-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/0a/ad/496973_kUlKl.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/0a/ad/496973_kUlKl.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 9067,
+    "total": 489,
+    "count": {
+      "1": 19,
+      "2": 12,
+      "3": 39,
+      "4": 91,
+      "5": 146,
+      "6": 118,
+      "7": 43,
+      "8": 16,
+      "9": 2,
+      "10": 3
+    },
+    "score": 5
+  },
+  "tags": [
+    {
+      "name": "GAL改",
+      "count": 325,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年7月",
+      "count": 262,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 214,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 212,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 182,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 155,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 130,
+      "total_cont": 0
+    },
+    {
+      "name": "種﨑敦美",
+      "count": 94,
+      "total_cont": 0
+    },
+    {
+      "name": "PRA",
+      "count": 93,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 86,
+      "total_cont": 0
+    },
+    {
+      "name": "后宫",
+      "count": 52,
+      "total_cont": 0
+    },
+    {
+      "name": "藤田茜",
+      "count": 38,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "大畑晃一",
+      "count": 22,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "福圓美里",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "游改",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "阿部敦",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "公司未公布",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "未确定",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "超能力",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "TV动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "山岡ゆり",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "7月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2025夏",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "496973"
+    },
+    {
+      "site": "nicovideo",
+      "id": "nine-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0200162",
+      "begin": "2025-07-05T13:30:00.000Z",
+      "broadcast": "R/2025-07-05T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "171-26",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6862b071dffbea3b3f911b5f"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "139603",
+      "begin": "2025-07-05T13:30:00.000Z",
+      "broadcast": "R/2025-07-05T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "139603",
+      "begin": "2025-07-05T13:30:00.000Z",
+      "broadcast": "R/2025-07-05T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "28060",
+      "begin": "2025-07-05T13:30:00.000Z",
+      "broadcast": "R/2025-07-05T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3718"
+    },
+    {
+      "site": "prime",
+      "id": "B0F58FQB4H",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

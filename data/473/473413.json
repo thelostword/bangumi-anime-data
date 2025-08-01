@@ -1,0 +1,134 @@
+{
+  "id": 473413,
+  "name": "ヤマトよ永遠に REBEL3199 第三章 群青のアステロイド",
+  "name_cn": "永远的大和号 REBEL3199 第三章 群青的小行星",
+  "summary": "名作アニメ「宇宙戦艦ヤマト」のリメイクシリーズの1作で、1980年公開の劇場映画第3作「ヤマトよ永遠（とわ）に」に新解釈を加えて再構成した「ヤマトよ永遠に REBEL3199」全7章（全26話）のうちの第3章。\r\n\r\n宇宙戦艦ヤマトが不在となった地球では、地球進駐計画に基づき入植してきたデザリアムと市井の人々が共存する奇妙な日常が始まった。戦死した加藤三郎の息子・翼が通う小学校にも、デザリアムの少女フルールが転入してくる。デザリアムたちは次第に周囲になじみ、地球の人々はそれを受け入れるようになっていく。そんな中、旧ヤマト艦隊クルーを中心とするパルチザンはデザリアムの正体を世間に訴えるべく、大規模な反抗作戦を企てる。一方、宇宙戦艦ヤマトは透明戦艦グロデーズの追撃を振り切ってガルマン星系に立ち入ろうとしていた。",
+  "date": "2025-04-11",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/90/5e/473413_Hw0YU.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/90/5e/473413_Hw0YU.jpg"
+  },
+  "eps": 4,
+  "rating": {
+    "rank": 0,
+    "total": 20,
+    "count": {
+      "1": 1,
+      "2": 1,
+      "3": 0,
+      "4": 0,
+      "5": 4,
+      "6": 4,
+      "7": 6,
+      "8": 2,
+      "9": 1,
+      "10": 1
+    },
+    "score": 6.2
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "宇宙战舰大和号",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "机战",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "战争",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "studioMOTHER",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "SF",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ映画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "鈴村健一",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "小野大輔",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "ヤマトナオミチ",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "桑島法子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "福井晴敏",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "473413"
+    },
+    {
+      "site": "mikan",
+      "id": "3572"
+    },
+    {
+      "site": "unext",
+      "id": "SID0182646",
+      "begin": "2025-06-24T15:00:00.000Z",
+      "broadcast": "R/2025-06-24T15:00:00.000Z/P7D"
+    }
+  ]
+}

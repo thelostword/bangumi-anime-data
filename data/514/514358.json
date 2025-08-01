@@ -1,0 +1,203 @@
+{
+  "id": 514358,
+  "name": "CITY THE ANIMATION",
+  "name_cn": "小城日常",
+  "summary": "この街、ただの街にあらず。\r\n\r\n笑いあり プププッ\r\nラブあり キュンキュン\r\nホロリあり ホロリホロリ\r\n\r\n住人たちが織りなす\r\n予測不能な平凡ライフ！\r\n\r\nワクワクが連鎖する\r\nCITYへようこそ。\r\n\r\n\r\n\r\n这座城镇，绝非寻常之地。\r\n有欢笑（噗嗤嗤！） 有心跳（怦怦♡） 有泪光（扑簌扑簌......）\r\n居民们编织出无法预料的\"平凡\"日常！\r\n欢迎来到心跳连发的奇妙CITY！",
+  "date": "2025-07-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/b2/c2/514358_oRoZH.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/b2/c2/514358_oRoZH.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 1098,
+    "total": 2292,
+    "count": {
+      "1": 13,
+      "2": 8,
+      "3": 4,
+      "4": 25,
+      "5": 76,
+      "6": 257,
+      "7": 730,
+      "8": 884,
+      "9": 207,
+      "10": 88
+    },
+    "score": 7.4
+  },
+  "tags": [
+    {
+      "name": "京阿尼",
+      "count": 1236,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年7月",
+      "count": 990,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 943,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 880,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 786,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 541,
+      "total_cont": 0
+    },
+    {
+      "name": "京都动画",
+      "count": 482,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 466,
+      "total_cont": 0
+    },
+    {
+      "name": "石立太一",
+      "count": 440,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 351,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 310,
+      "total_cont": 0
+    },
+    {
+      "name": "电波",
+      "count": 165,
+      "total_cont": 0
+    },
+    {
+      "name": "京都アニメーション",
+      "count": 160,
+      "total_cont": 0
+    },
+    {
+      "name": "新井圭一",
+      "count": 46,
+      "total_cont": 0
+    },
+    {
+      "name": "青年向",
+      "count": 38,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "治愈",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "7月",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "青春",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2025夏",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "石川由依",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "小松未可子",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "豊崎愛生",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "小城日常",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "待上映",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2020s",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "喜剧",
+      "count": 4,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "514358"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6862b062dffbea3b3f911b0f"
+    },
+    {
+      "site": "bilibili",
+      "id": "26367205",
+      "begin": "2025-07-06T15:30:00.000Z",
+      "broadcast": "R/2025-07-06T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3657"
+    }
+  ]
+}

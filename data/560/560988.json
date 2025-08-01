@@ -1,0 +1,187 @@
+{
+  "id": 560988,
+  "name": "デキちゃうまで婚",
+  "name_cn": "做到怀孕为止的婚姻",
+  "summary": "婚活パーティに参加した大河は会場で出会った\r\n子供が欲しい医者の絢乃と意気投合する。\r\nだが、肝心のカップル成立タイムを前にして、\r\nEDが原因でフラれた過去を思い出して逃げてしまう…\r\n\r\n後日、ED治療の為に訪れた病院の担当医はまさかの絢乃で…!?",
+  "date": "2025-07-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/87/91/560988_z1t1u.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/87/91/560988_z1t1u.jpg"
+  },
+  "eps": 8,
+  "rating": {
+    "rank": 9343,
+    "total": 66,
+    "count": {
+      "1": 27,
+      "2": 10,
+      "3": 12,
+      "4": 6,
+      "5": 7,
+      "6": 0,
+      "7": 0,
+      "8": 1,
+      "9": 2,
+      "10": 1
+    },
+    "score": 2.7
+  },
+  "tags": [
+    {
+      "name": "2025年7月",
+      "count": 34,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面里番",
+      "count": 32,
+      "total_cont": 0
+    },
+    {
+      "name": "里番",
+      "count": 31,
+      "total_cont": 0
+    },
+    {
+      "name": "僧侣档",
+      "count": 28,
+      "total_cont": 0
+    },
+    {
+      "name": "彗星社",
+      "count": 22,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "AnimeFesta",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "肉",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "2D里番",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "日剧",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "什么低能肉番，滚去捡石头吧",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "屎",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "里",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "R18",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "追番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "骑兵",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "560988"
+    },
+    {
+      "site": "nicovideo",
+      "id": "dekichaumade-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3713"
+    },
+    {
+      "site": "unext",
+      "id": "SID0200184",
+      "begin": "2025-07-09T15:00:00.000Z",
+      "broadcast": "R/2025-07-09T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "28011",
+      "begin": "2025-07-09T15:00:00.000Z",
+      "broadcast": "R/2025-07-09T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "643-13",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

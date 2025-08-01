@@ -1,0 +1,195 @@
+{
+  "id": 408467,
+  "name": "BULLET/BULLET",
+  "name_cn": "弹速狂飙",
+  "summary": "故事发生在不久的将来，人类文明崩坏，世界尽是一片荒凉的景象。在困顿的生活条件下，人们仍在利用过往文明的残余顽强地生存着。吉尔是位勤劳勇敢的少年，在一家废品店工作。同时，他和一个拥有四重人格的护理机器人以及常年穿着北极熊戏服的大熊组队合作，一起处理追回失物的委托。\r\n一天，一位叫诺娃的神秘女孩找到吉尔的小队，希望他们能够帮助她追回她父亲的遗物。吉尔和他的伙伴们没有想到，这一系列事件彻底打破了他们平静的生活，将他们卷入了难以预料的危机之中。在任务的执行过程中，他们很快便遭遇了特工组织穷追不舍的伏击和围攻。为了摆脱他们的追捕，他们在城市中展开了惊心动魄的汽车追逐，应付了一场场激烈的战斗。吉尔他们取走的这件物品中，竟然还隐藏着一个足以撼动这个世界根基的秘密。吉尔将跟他的小队一起，向世人揭示这一切。",
+  "date": "2025-07-16",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/d4/5b/408467_7lebu.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/d4/5b/408467_7lebu.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 6475,
+    "total": 71,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 7,
+      "4": 4,
+      "5": 19,
+      "6": 21,
+      "7": 12,
+      "8": 4,
+      "9": 2,
+      "10": 1
+    },
+    "score": 5.7
+  },
+  "tags": [
+    {
+      "name": "2025年7月",
+      "count": 81,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 77,
+      "total_cont": 0
+    },
+    {
+      "name": "E&Hproduction",
+      "count": 45,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 44,
+      "total_cont": 0
+    },
+    {
+      "name": "朴性厚",
+      "count": 43,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 33,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 29,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 26,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "SF",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "7月",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "25夏",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "剧情",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "山路和弘",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "井上麻里奈",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "新番",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "都合",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻？",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未上映",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "非续作",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "金田一士",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "吃屎预定",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "弹速狂飙",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年夏",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "表",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年7月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2020-2029",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "408467"
+    },
+    {
+      "site": "bilibili",
+      "id": "26638510",
+      "begin": "2025-07-16T07:00:00.000Z",
+      "broadcast": "R/2025-07-16T07:00:00.000Z/P7D"
+    }
+  ]
+}

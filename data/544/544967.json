@@ -1,0 +1,156 @@
+{
+  "id": 544967,
+  "name": "美男高校地球防衛部ハイカラ！",
+  "name_cn": "美男高校地球防卫部High collar！",
+  "summary": "時は大正───浪漫の香り満ち、人々の心、いまだ情け知る。眉難高校に通う、雲仙、酸ヶ湯、卯花、長万部、阿蘇は“何にもしない部”・地球防衛部の部室でダラダラ過ごしながら、学生寮・黒玉寮で共に生活をするごく普通（？）の男子学生。ある日5人が黒玉寮で朝風呂していると、湯船の中になにやらヌルっと動くものが。やっとの事で捕まえると、それはしゃべるマヌルネコ・ヌルだった！遠い遠い未来から重大な使命を帯び、地球に滅亡の危機が迫っていることを伝えに来たというヌル。守りたい…この地球をと言いながらも、自分は危機を知らせにきただけで地球のために戦うかどうかは自由意志で……5人で決めてほしいという。これって責任逃れじゃない…？怪しむ防衛部たち。「どっちでもいいなら俺はやるぜ！そっちの方がハイカラだからな！」と張り切る雲仙。自由な心で自ら戦うと決めた5人をヌルは猫科学でハイカラ浪漫団に変身させるのだった。その一方…暗躍する謎の3人組・蛮華羅新鋭隊（ばんからしんえいたい）。地球征服を企む輩だった。",
+  "date": "2025-07-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/04/7e/544967_m5v1l.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/04/7e/544967_m5v1l.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 0,
+    "total": 12,
+    "count": {
+      "1": 3,
+      "2": 1,
+      "3": 1,
+      "4": 1,
+      "5": 1,
+      "6": 1,
+      "7": 1,
+      "8": 1,
+      "9": 1,
+      "10": 1
+    },
+    "score": 4.8
+  },
+  "tags": [
+    {
+      "name": "2025年7月",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "魔法少女",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "スタジオディーン",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "あおしまたかし",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "studiodeen",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "BL",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "高松信司",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "544967"
+    },
+    {
+      "site": "nicovideo",
+      "id": "boueibu-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0200173",
+      "begin": "2025-07-07T15:00:00.000Z",
+      "broadcast": "R/2025-07-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6862b064dffbea3b3f911b17"
+    },
+    {
+      "site": "abema",
+      "id": "198-17",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "danime",
+      "id": "28022",
+      "begin": "2025-07-07T15:00:00.000Z",
+      "broadcast": "R/2025-07-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3709"
+    }
+  ]
+}

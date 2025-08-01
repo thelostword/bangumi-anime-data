@@ -1,0 +1,227 @@
+{
+  "id": 528147,
+  "name": "ネクロノミ子のコズミックホラーショウ",
+  "name_cn": "死灵之子的宇宙恐怖秀",
+  "summary": "中学を卒業し、\r\n憧れのライバー（＝配者）活動を始めた\r\n”ネクロノミ子”こと黒廼ミコ。\r\n幼なじみの舞夢坂舞由や、ライバルの神楽坂カンナとの毎日を過ごす中、\r\nある日新作VRゲームの案件を受ける事に！？\r\nこのゲームと出会い、少女たちはかけがえのない\r\n今を走り始める",
+  "date": "2025-07-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/bd/23/528147_l96M9.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/bd/23/528147_l96M9.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 9227,
+    "total": 270,
+    "count": {
+      "1": 13,
+      "2": 16,
+      "3": 34,
+      "4": 60,
+      "5": 79,
+      "6": 48,
+      "7": 15,
+      "8": 2,
+      "9": 1,
+      "10": 2
+    },
+    "score": 4.5
+  },
+  "tags": [
+    {
+      "name": "原创",
+      "count": 147,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年7月",
+      "count": 121,
+      "total_cont": 0
+    },
+    {
+      "name": "Studio五组",
+      "count": 90,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 84,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 66,
+      "total_cont": 0
+    },
+    {
+      "name": "喜剧",
+      "count": 55,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 51,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 39,
+      "total_cont": 0
+    },
+    {
+      "name": "克苏鲁",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "松根昌人",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "cygames",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "松根マサト",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "石見舞菜香",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "杉山里穂",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "管人",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "魔幻",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "羽澄なな",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "7月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "上江洲诚",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "荻野葉月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "巨大感情",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "伊藤彩沙",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "vtuber",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "528147"
+    },
+    {
+      "site": "nicovideo",
+      "id": "anime-necronomico",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0200155",
+      "begin": "2025-07-01T14:30:00.000Z",
+      "broadcast": "R/2025-07-01T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "506-7",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3679"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6862b067dffbea3b3f911b25"
+    },
+    {
+      "site": "danime",
+      "id": "28017",
+      "begin": "2025-07-05T03:00:00.000Z",
+      "broadcast": "R/2025-07-05T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0FBGJB57H",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

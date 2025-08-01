@@ -1,0 +1,195 @@
+{
+  "id": 67771,
+  "name": "レモンエンジェル",
+  "name_cn": "柠檬天使",
+  "summary": "",
+  "date": "1987-10-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/69/0e/67771_Pp4Cu.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/69/0e/67771_Pp4Cu.jpg"
+  },
+  "eps": 54,
+  "rating": {
+    "rank": 0,
+    "total": 32,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 4,
+      "6": 7,
+      "7": 14,
+      "8": 3,
+      "9": 1,
+      "10": 2
+    },
+    "score": 6.8
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "AIC",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "里番",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "1987",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "擦边球",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "纯爱",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "GIF出处",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "柠檬奶油",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "脫黑絲動圖出處",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "80s",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "1987年10月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "中村謙一郎",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "桜井智",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "待補0",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1980s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "20世纪动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1987年十月番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "R17",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "赛璐珞",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "ミニ番組",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "櫻井智",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "黑丝",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "BG",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "少女",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "67771"
+    },
+    {
+      "site": "danime",
+      "id": "27961",
+      "begin": "2025-05-15T15:00:00.000Z",
+      "broadcast": "R/2025-05-15T15:00:00.000Z/P7D"
+    }
+  ]
+}

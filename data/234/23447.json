@@ -1,0 +1,121 @@
+{
+  "id": 23447,
+  "name": "六三四の剣",
+  "name_cn": "六三四之剑",
+  "summary": "　６月３日午後４時に生まれたことから、剣豪・宮本武蔵にあやかって”六三四”と命名された少年は、両親から剣の指導を受け、たちまち才能を現して幼児ながらも中学生を相手に戦えるほどの腕前になった。後に地区の剣道大会に出場した六三四は、決勝戦で手強い相手と戦うことになる。その相手こそ、宿命のライバルとなる東堂修羅であった…\r\n\r\n　週刊少年サンデーに掲載された村上もとかの原作を忠実にアニメ化。当時幅広い層に親しまれた本作は、後に高校生編となる”青春編”も制作された。",
+  "date": "1985-04-18",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/9f/db/23447_GqGq2.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/9f/db/23447_GqGq2.jpg"
+  },
+  "eps": 72,
+  "rating": {
+    "rank": 0,
+    "total": 10,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 2,
+      "7": 3,
+      "8": 0,
+      "9": 3,
+      "10": 2
+    },
+    "score": 8
+  },
+  "tags": [
+    {
+      "name": "少年",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "竹剑",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "日本剑道",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "超热血",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "竞技",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "男子汉！！",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Eiken",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "补",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1985",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "正太",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "23447"
+    },
+    {
+      "site": "unext",
+      "id": "SID0012617",
+      "begin": "2025-05-15T03:00:00.000Z",
+      "broadcast": "R/2025-05-15T03:00:00.000Z/P7D",
+      "comment": "青春編 #50-72: SID0012618"
+    }
+  ]
+}

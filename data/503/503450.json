@@ -1,0 +1,233 @@
+{
+  "id": 503450,
+  "name": "彼女、お借りします 第4期",
+  "name_cn": "租借女友 第四季",
+  "summary": "清楚可憐な“レンタル”彼女（レンカノ）・水原千鶴のことを家族にも友人にも“本当”の彼女だと紹介してしまった、ダメダメ大学生・木ノ下和也。\r\n\r\n嘘だと言い出せないまま“偽り”の関係を続ける和也は、さまざまなイベントを一緒に乗り越えるなかで、次第に千鶴への“本物”の想いを募らせていく。\r\n\r\n映画制作のクラウドファンディングを無事成功させ、ついに和也は千鶴への“覚悟”を決める。\r\n\r\n一方、やや強引なところがある彼女(仮)・更科瑠夏が、これまで以上に超積極的に和也に迫る……！\r\nさらに、和也と千鶴の“本当”の関係を知る小悪魔的な元カノ・七海麻美が千鶴に急接近する、緊迫した事態も発生！？\r\n周囲を巻き込み、物語はますますヒートアップ！\r\nそして、舞台はハワイアンズへ！！",
+  "date": "2025-07-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/84/a9/503450_wS9yJ.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/84/a9/503450_wS9yJ.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 9407,
+    "total": 245,
+    "count": {
+      "1": 78,
+      "2": 14,
+      "3": 25,
+      "4": 37,
+      "5": 49,
+      "6": 19,
+      "7": 10,
+      "8": 4,
+      "9": 4,
+      "10": 5
+    },
+    "score": 3.6
+  },
+  "tags": [
+    {
+      "name": "2025年7月",
+      "count": 119,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 94,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 80,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 75,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 61,
+      "total_cont": 0
+    },
+    {
+      "name": "后宫",
+      "count": 54,
+      "total_cont": 0
+    },
+    {
+      "name": "TMS",
+      "count": 42,
+      "total_cont": 0
+    },
+    {
+      "name": "党争",
+      "count": 32,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 31,
+      "total_cont": 0
+    },
+    {
+      "name": "狗血设定",
+      "count": 30,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 24,
+      "total_cont": 0
+    },
+    {
+      "name": "宫岛礼吏",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 22,
+      "total_cont": 0
+    },
+    {
+      "name": "青春",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "史",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "NTR",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "逆天",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "古賀一臣",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "古贺一臣",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "雨宮天",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "東山奈央",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "屎",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "厕纸",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TMS_Entertainment",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "堀江瞬",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "夏",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "503450"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kanokari4",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0200152",
+      "begin": "2025-07-06T15:00:00.000Z",
+      "broadcast": "R/2025-07-06T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3715"
+    },
+    {
+      "site": "danime",
+      "id": "28062",
+      "begin": "2025-07-01T13:00:00.000Z",
+      "broadcast": "R/2025-07-01T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6862b071dffbea3b3f911b5d"
+    },
+    {
+      "site": "crunchyroll",
+      "id": "G6QWV3976",
+      "begin": "2022-07-01T16:25:00.000Z",
+      "broadcast": "R/2022-07-01T16:25:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0FDV3Z58T",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "abema",
+      "id": "194-15",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

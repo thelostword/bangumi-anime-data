@@ -1,0 +1,193 @@
+{
+  "id": 335390,
+  "name": "劇場版 オーバーロード 聖王国編",
+  "name_cn": "剧场版 OVERLORD 圣王国篇",
+  "summary": "丸山くがねの人気ライトノベルを原作とするテレビアニメ「オーバーロード」シリーズの劇場版で、原作でも人気の高い「聖王国編」のエピソードをアニメ化。\r\n\r\n聖王女カルカを元首とするローブル聖王国は長大な城壁にその国土を守られてきたが、魔皇ヤルダバオトと亜人連合軍の突然の侵攻により、平和な時代は終わりを迎えた。聖騎士団長レメディオスと神官団長ケラルトの姉妹を中心に戦力を結集して迎え撃つ聖王国だったが、ヤルダバオトとの圧倒的な戦力差になすすべもなく、国家は崩壊の危機に瀕してしまう。レメディオスはヤルダバオトに対抗しうる力を求め、聖騎士団と従者ネイアを伴ってアインズ・ウール・ゴウン魔導国へ向かう。そこは聖王国の人々が忌み嫌う、アンデッドが統べる異形の国家だった。\r\n\r\nテレビアニメに続いて伊藤尚往が監督を務め、マッドハウスがアニメーション制作を担当。",
+  "date": "2024-09-20",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e7/f2/335390_p0ptv.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e7/f2/335390_p0ptv.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 8440,
+    "total": 1453,
+    "count": {
+      "1": 19,
+      "2": 22,
+      "3": 43,
+      "4": 175,
+      "5": 321,
+      "6": 577,
+      "7": 220,
+      "8": 48,
+      "9": 10,
+      "10": 18
+    },
+    "score": 5.6
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 523,
+      "total_cont": 0
+    },
+    {
+      "name": "轻小说改",
+      "count": 278,
+      "total_cont": 0
+    },
+    {
+      "name": "MADHouse",
+      "count": 237,
+      "total_cont": 0
+    },
+    {
+      "name": "异世界",
+      "count": 232,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 209,
+      "total_cont": 0
+    },
+    {
+      "name": "OVERLORD",
+      "count": 198,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 192,
+      "total_cont": 0
+    },
+    {
+      "name": "穿越",
+      "count": 152,
+      "total_cont": 0
+    },
+    {
+      "name": "骨傲天",
+      "count": 144,
+      "total_cont": 0
+    },
+    {
+      "name": "轻改",
+      "count": 101,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 99,
+      "total_cont": 0
+    },
+    {
+      "name": "龙傲天",
+      "count": 56,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "伊藤尚往",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "未确定",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "2022年",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年9月",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "网游",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "未开播",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "后宫",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "装逼",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "冒险",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 4,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "335390"
+    },
+    {
+      "site": "mikan",
+      "id": "3648"
+    }
+  ]
+}

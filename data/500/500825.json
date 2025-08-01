@@ -1,0 +1,245 @@
+{
+  "id": 500825,
+  "name": "異世界黙示録マイノグーラ ～破滅の文明で始める世界征服～",
+  "name_cn": "异世界默示录米诺戈拉 ～从灭亡的文明开始的世界征服～",
+  "summary": "ファンタジー世界を\r\n舞台にした 国家運営\r\nシミュレーションゲーム、\r\n『Eternal Nations』。\r\nそこでユーザーランキング一位を獲得した伝説のプレイヤー、 伊良拓斗は、入院中に意識を失う。 気が付くと拓斗は、まるでゲームの中のような世界、 イドラギィア大陸に降り立っていた──。\r\n\r\nそこに現れたのは、 『Eternal Nations』で拓斗が最も愛用していたユニット、 《汚泥のアトゥ》。\r\n\r\nそこで拓斗は、ある決心をする。\r\n「──僕たちの国を作ろう。僕と、君だけの王国を」\r\nアトゥと共に、 邪悪な国家である《マイノグーラ》を設立することを決めた拓斗。\r\n\r\n個性豊かなダークエルフや英雄を国民とし、 この世界ではチートとも言えるゲームシステムを利用しながら、 大好きな内政に励むのだった。",
+  "date": "2025-07-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/f5/b1/500825_i02ef.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/f5/b1/500825_i02ef.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 8114,
+    "total": 245,
+    "count": {
+      "1": 5,
+      "2": 3,
+      "3": 6,
+      "4": 31,
+      "5": 70,
+      "6": 85,
+      "7": 26,
+      "8": 13,
+      "9": 2,
+      "10": 4
+    },
+    "score": 5.5
+  },
+  "tags": [
+    {
+      "name": "2025年7月",
+      "count": 119,
+      "total_cont": 0
+    },
+    {
+      "name": "异世界",
+      "count": 114,
+      "total_cont": 0
+    },
+    {
+      "name": "轻小说改",
+      "count": 71,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 66,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 55,
+      "total_cont": 0
+    },
+    {
+      "name": "MAHOFILM",
+      "count": 54,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 50,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 48,
+      "total_cont": 0
+    },
+    {
+      "name": "轻改",
+      "count": 34,
+      "total_cont": 0
+    },
+    {
+      "name": "后宫",
+      "count": 34,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 32,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 24,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "穿越",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "柳濑雄之",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "种田",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "熊谷俊輝",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "异世界默示录米诺戈拉",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "楠木ともり",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "厕纸",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "冒险",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2025夏",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年夏",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "经营",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "p社",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻异世",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Baha",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "500825"
+    },
+    {
+      "site": "nicovideo",
+      "id": "mynoghra-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0201744",
+      "begin": "2025-07-06T13:30:00.000Z",
+      "broadcast": "R/2025-07-06T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "169-148",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6862b061dffbea3b3f911b05"
+    },
+    {
+      "site": "danime",
+      "id": "28021",
+      "begin": "2025-07-06T13:30:00.000Z",
+      "broadcast": "R/2025-07-06T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "140161",
+      "begin": "2025-07-06T13:30:00.000Z",
+      "broadcast": "R/2025-07-06T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "muse_tw",
+      "id": "PL12UaAf_xzfq4iWmVsmoJ5Ij2tplvUf20",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UchE6K0BO6rtCJB_IFDpK9WA",
+      "begin": "2025-07-06T13:30:06.000Z",
+      "broadcast": "R/2025-07-06T13:30:06.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "140161",
+      "begin": "2025-07-06T13:30:00.000Z",
+      "broadcast": "R/2025-07-06T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3704"
+    }
+  ]
+}

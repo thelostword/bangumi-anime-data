@@ -1,0 +1,281 @@
+{
+  "id": 498947,
+  "name": "ガチアクタ",
+  "name_cn": "咔嗒咔嗒",
+  "summary": "从「奈落（底层）」爬回来！一切都是为了改变这个「粪土般的世界」——！\r\n路德生活在在天界的贫民窟中，穷人们在富人的阴影下艰难度日；而富人则过着奢华的生活，随手将垃圾丢进深渊。有一天，路德被诬陷为杀人犯，这个冤枉的判决使他受到了难以想像的刑罚：与其他垃圾一起被丢弃到「奈落」——人类废弃物所滋生的可怕怪物领域。\r\n为了生存，寻求真相并复仇，他必须掌握新的力量，并加入「清道夫」组织，对抗「奈落」中的巨大「斑兽」！",
+  "date": "2025-07-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ea/10/498947_x3ZvD.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ea/10/498947_x3ZvD.jpg"
+  },
+  "eps": 24,
+  "rating": {
+    "rank": 7552,
+    "total": 360,
+    "count": {
+      "1": 10,
+      "2": 3,
+      "3": 9,
+      "4": 30,
+      "5": 53,
+      "6": 152,
+      "7": 83,
+      "8": 10,
+      "9": 5,
+      "10": 5
+    },
+    "score": 5.8
+  },
+  "tags": [
+    {
+      "name": "2025年7月",
+      "count": 206,
+      "total_cont": 0
+    },
+    {
+      "name": "BONES",
+      "count": 156,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 156,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 132,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 129,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 97,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 90,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 79,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 73,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 62,
+      "total_cont": 0
+    },
+    {
+      "name": "BONESFILM",
+      "count": 51,
+      "total_cont": 0
+    },
+    {
+      "name": "菅沼芙实彦",
+      "count": 31,
+      "total_cont": 0
+    },
+    {
+      "name": "濑古浩司",
+      "count": 30,
+      "total_cont": 0
+    },
+    {
+      "name": "菅沼芙実彦",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "少年向",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "复仇",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "裏那圭",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "废土",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "ボンズフィルム",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "小西克幸",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "7月",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "市川蒼",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "20年代",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "异世界",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "废渊战鬼",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "异能",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "松岡禎丞",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "498947"
+    },
+    {
+      "site": "unext",
+      "id": "SID0200178",
+      "begin": "2025-07-07T15:00:00.000Z",
+      "broadcast": "R/2025-07-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "168-76",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "nicovideo",
+      "id": "gachiakuta-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6862b061dffbea3b3f911b09"
+    },
+    {
+      "site": "netflix",
+      "id": "82081262",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "crunchyroll",
+      "id": "GP5HJ84P7",
+      "begin": "2025-07-06T14:30:00.000Z",
+      "broadcast": "R/2025-07-06T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "139922",
+      "begin": "2025-07-06T15:00:00.000Z",
+      "broadcast": "R/2025-07-06T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtTblQr7CwyeQDBNUTvjtB3H",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "viu",
+      "id": "2642292",
+      "begin": "2025-07-06T15:00:46.000Z",
+      "broadcast": "R/2025-07-06T15:00:46.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "139922",
+      "begin": "2025-07-06T15:00:00.000Z",
+      "broadcast": "R/2025-07-06T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "mytv",
+      "id": "gachiakuta_143597",
+      "begin": "2025-07-06T15:00:00.000Z",
+      "broadcast": "R/2025-07-06T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JihSS6ypHUEKS1n_6afn-X0",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "danime",
+      "id": "28102",
+      "begin": "2025-07-07T15:00:00.000Z",
+      "broadcast": "R/2025-07-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0FFX9CMY3",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "disneyplus",
+      "id": "1BV6E1twcLVE",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3681"
+    }
+  ]
+}

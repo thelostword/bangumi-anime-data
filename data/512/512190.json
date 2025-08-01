@@ -1,0 +1,251 @@
+{
+  "id": 512190,
+  "name": "瑠璃の宝石",
+  "name_cn": "琉璃的宝石",
+  "summary": "最喜欢闪亮亮事物的女高中生──谷川瑠璃，有天听说「可以靠自己采到水晶！」而为了寻找水晶前往山中。她在山里遇见专攻矿物学的女研究生──荒砥凪，于是两人决定一同采集矿物。有时为了寻找水晶走在山中的道路，有时为了捡拾石榴石浸在溪水中，有时又为了寻找未知的矿物而窥望显微镜──瑠璃在凪的引导下，一头栽进了矿物采集的世界。\r\n「就算是我应该也能采得到才对！」\r\n这正是任谁都曾有过的梦想。正宗科学冒险故事就要开始了！",
+  "date": "2025-07-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/27/d7/512190_3FtCT.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/27/d7/512190_3FtCT.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 609,
+    "total": 1678,
+    "count": {
+      "1": 2,
+      "2": 2,
+      "3": 4,
+      "4": 5,
+      "5": 11,
+      "6": 104,
+      "7": 487,
+      "8": 875,
+      "9": 134,
+      "10": 54
+    },
+    "score": 7.7
+  },
+  "tags": [
+    {
+      "name": "2025年7月",
+      "count": 735,
+      "total_cont": 0
+    },
+    {
+      "name": "StudioBind",
+      "count": 733,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 659,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 529,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 521,
+      "total_cont": 0
+    },
+    {
+      "name": "科普",
+      "count": 372,
+      "total_cont": 0
+    },
+    {
+      "name": "矿物",
+      "count": 315,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 310,
+      "total_cont": 0
+    },
+    {
+      "name": "藤井慎吾",
+      "count": 297,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 245,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 242,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 216,
+      "total_cont": 0
+    },
+    {
+      "name": "轻百合",
+      "count": 197,
+      "total_cont": 0
+    },
+    {
+      "name": "横手美智子",
+      "count": 110,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "萌",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "治愈",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "7月",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "轻百",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2025夏",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "20年代",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "地质",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "萌豚饲料",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "琉璃的宝石",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2025.7",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "スタジオバインド",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "25夏",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "星期日",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "20",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "512190"
+    },
+    {
+      "site": "unext",
+      "id": "SID0200161",
+      "begin": "2025-07-09T03:00:00.000Z",
+      "broadcast": "R/2025-07-09T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "rurinohouseki",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "abema",
+      "id": "26-249",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6862b060dffbea3b3f911b03"
+    },
+    {
+      "site": "bilibili",
+      "id": "26624922",
+      "begin": "2025-07-31T10:00:00.000Z",
+      "broadcast": "R/2025-07-31T10:00:00.000Z/P7D"
+    },
+    {
+      "site": "crunchyroll",
+      "id": "G4PH0WJ2V",
+      "begin": "2025-07-06T12:00:00.000Z",
+      "broadcast": "R/2025-07-06T12:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "141362",
+      "begin": "2025-07-06T13:30:00.000Z",
+      "broadcast": "R/2025-07-06T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "141362",
+      "begin": "2025-07-06T13:30:00.000Z",
+      "broadcast": "R/2025-07-06T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "28061",
+      "begin": "2025-07-09T03:00:00.000Z",
+      "broadcast": "R/2025-07-09T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0DZ6JGQPL",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3663"
+    }
+  ]
+}

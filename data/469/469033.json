@@ -1,0 +1,193 @@
+{
+  "id": 469033,
+  "name": "ふれる。",
+  "name_cn": "触碰。",
+  "summary": "同じ島で育った幼馴染、秋と諒と優太。\r\n東京・高田馬場で共同生活を始めた三人は20歳になった現在でも親友同士。\r\nそれは島から連れてきた不思議な生き物「ふれる」が持つテレパシーにも似た力で趣味も性格も違う彼らを結び付けていたからだ。\r\n\r\nお互いの身体に触れ合えば心の声が聴こえてくる－それは誰にも知られていない三人だけの秘密。\r\nしかし、ある事件がきっかけとなり、秋、諒、優太は、「ふれる」の力を通じて伝えたはずの心の声が聴こえないことに気づく。\r\n\r\n「ふれる」に隠されたもう一つの力が徐々に明らかになるにつれ、\r\n三人の友情は大きく揺れ動いていく－",
+  "date": "2024-10-04",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/8d/d1/469033_Nzf2l.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/8d/d1/469033_Nzf2l.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 8655,
+    "total": 363,
+    "count": {
+      "1": 5,
+      "2": 5,
+      "3": 22,
+      "4": 52,
+      "5": 111,
+      "6": 111,
+      "7": 40,
+      "8": 9,
+      "9": 5,
+      "10": 3
+    },
+    "score": 5.3
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 178,
+      "total_cont": 0
+    },
+    {
+      "name": "CloverWorks",
+      "count": 143,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 112,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 112,
+      "total_cont": 0
+    },
+    {
+      "name": "岡田麿里",
+      "count": 97,
+      "total_cont": 0
+    },
+    {
+      "name": "長井龍雪",
+      "count": 69,
+      "total_cont": 0
+    },
+    {
+      "name": "田中将賀",
+      "count": 49,
+      "total_cont": 0
+    },
+    {
+      "name": "长井龙雪",
+      "count": 39,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 34,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "冈田麿里",
+      "count": 22,
+      "total_cont": 0
+    },
+    {
+      "name": "动画电影",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "Aniplex",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "剧情",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "超平和バスターズ",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "横山克",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "田中将贺",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年10月",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "冈田磨里",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "永瀬廉",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TeddyLoid",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "青春",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "YOASOBI",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "电影",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "東宝",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "469033"
+    },
+    {
+      "site": "mikan",
+      "id": "3574"
+    }
+  ]
+}

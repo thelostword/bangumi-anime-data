@@ -1,0 +1,87 @@
+{
+  "id": 505378,
+  "name": "劇場版 美男高校地球防衛部ETERNAL LOVE！",
+  "name_cn": "剧场版 美男高校地球防卫部ETERNAL LOVE！",
+  "summary": "「美男高校地球防衛部」シリーズの劇場アニメ「美男高校地球防衛部ETERNAL LOVE！」が、2025年冬に公開決定。アニメーション制作は「美男高校地球防衛部LOVE！LOVE！」以降、シリーズを担当してきたスタジオコメットが務め、すべて新作のカットで届けられる。",
+  "date": "2025-01-24",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/49/1f/505378_4c1ri.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/49/1f/505378_4c1ri.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年1月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "StudioComet",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "505378"
+    },
+    {
+      "site": "unext",
+      "id": "SID0204958",
+      "begin": "2025-06-30T15:00:00.000Z",
+      "broadcast": "R/2025-06-30T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "boueibu-movie",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "danime",
+      "id": "28023",
+      "begin": "2025-06-30T15:00:00.000Z",
+      "broadcast": "R/2025-06-30T15:00:00.000Z/P7D"
+    }
+  ]
+}

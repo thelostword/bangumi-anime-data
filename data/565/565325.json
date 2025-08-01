@@ -1,0 +1,60 @@
+{
+  "id": 565325,
+  "name": "ネコこのゴロ～天下統一編～",
+  "name_cn": "",
+  "summary": "「ネコこのゴロ～天下統一編～」ではキャラクターが鹿児島の城の当主猫となり、各地の戦国武将と対峙し、ゆるく日本統一を目指していく。",
+  "date": "2025-07-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/03/9a/565325_GUavI.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/03/9a/565325_GUavI.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 2,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 3
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年7月",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "565325"
+    },
+    {
+      "site": "danime",
+      "id": "28116",
+      "begin": "2025-07-03T18:20:00.000Z",
+      "broadcast": "R/2025-07-03T18:20:00.000Z/P7D"
+    }
+  ]
+}

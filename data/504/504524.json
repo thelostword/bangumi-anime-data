@@ -1,0 +1,217 @@
+{
+  "id": 504524,
+  "name": "地獄先生ぬ～べ～",
+  "name_cn": "地狱老师",
+  "summary": "不可解な怪奇現象が多発している童守町。子どもたちを守るため、童守小学校に一人の教師が赴任してきた。5年3組担任の鵺野鳴介、通称ぬ～べ～。普段は優しく、ちょっと抜けている彼には、日本でただ一人の霊能力教師という、もう一つの顔があった。その左手には鬼が宿るという噂も！？生徒たちを襲う学園七不思議、妖怪や悪霊に、地獄からきた正義の使者が立ち向かう！オカルティックヒーローアクション開幕！",
+  "date": "2025-07-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/a7/4a/504524_uvyT0.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/a7/4a/504524_uvyT0.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 7783,
+    "total": 136,
+    "count": {
+      "1": 4,
+      "2": 0,
+      "3": 5,
+      "4": 16,
+      "5": 36,
+      "6": 54,
+      "7": 15,
+      "8": 3,
+      "9": 1,
+      "10": 2
+    },
+    "score": 5.5
+  },
+  "tags": [
+    {
+      "name": "2025年7月",
+      "count": 79,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 59,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 55,
+      "total_cont": 0
+    },
+    {
+      "name": "StudioKAI",
+      "count": 53,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 52,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 46,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 37,
+      "total_cont": 0
+    },
+    {
+      "name": "重制",
+      "count": 32,
+      "total_cont": 0
+    },
+    {
+      "name": "恐怖",
+      "count": 29,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "大石康之",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "少年向",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "怪异",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "童年系列",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "スタジオKAI",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "地狱老师",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改编",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "悬疑",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "20年代",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "7月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年4月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年夏",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "大草芳樹",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "地狱先生",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "504524"
+    },
+    {
+      "site": "nicovideo",
+      "id": "nube-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3716"
+    },
+    {
+      "site": "unext",
+      "id": "SID0200177",
+      "begin": "2025-07-02T14:45:00.000Z",
+      "broadcast": "R/2025-07-02T14:45:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "28106",
+      "begin": "2025-07-05T14:45:00.000Z",
+      "broadcast": "R/2025-07-05T14:45:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "1EkCNnz1XMDW",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

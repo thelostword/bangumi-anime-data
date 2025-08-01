@@ -1,0 +1,269 @@
+{
+  "id": 502142,
+  "name": "クレバテス-魔獣の王と赤子と屍の勇者-",
+  "name_cn": "克雷瓦提斯-魔兽之王与婴儿与尸之勇者-",
+  "summary": "自幼便憧憬勇者的艾莉西亚，最终被国王选中成为13名勇者之一。\r\n勇者们带着传说中的宝剑前去讨伐魔兽王克雷瓦提斯。\r\n但如此鲁莽的举动，却为艾多西亚大陆的人族招来了可能导致灭绝的危机。\r\n而全世界唯一的希望，就这样被托付给了魔兽王的一个婴儿——",
+  "date": "2025-07-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/5c/49/502142_XG5pA.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/5c/49/502142_XG5pA.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 2902,
+    "total": 732,
+    "count": {
+      "1": 5,
+      "2": 3,
+      "3": 11,
+      "4": 15,
+      "5": 30,
+      "6": 104,
+      "7": 376,
+      "8": 152,
+      "9": 24,
+      "10": 12
+    },
+    "score": 6.9
+  },
+  "tags": [
+    {
+      "name": "2025年7月",
+      "count": 286,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 254,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 244,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 199,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 195,
+      "total_cont": 0
+    },
+    {
+      "name": "田口清隆",
+      "count": 138,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 126,
+      "total_cont": 0
+    },
+    {
+      "name": "Lay-duce",
+      "count": 125,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 123,
+      "total_cont": 0
+    },
+    {
+      "name": "异世界",
+      "count": 119,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 90,
+      "total_cont": 0
+    },
+    {
+      "name": "田村睦心",
+      "count": 28,
+      "total_cont": 0
+    },
+    {
+      "name": "白石晴香",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "レイ・デュース",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "中村悠一",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "小柳啓伍",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "7月",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2025夏",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "新番",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "追番",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "克雷瓦提斯-魔兽之王与婴儿与尸之勇者-",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "冒险",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "25夏",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "带娃",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "塚田拓郎",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旅程",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "非续作",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "502142"
+    },
+    {
+      "site": "nicovideo",
+      "id": "clevatess",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0200146",
+      "begin": "2025-07-02T13:00:00.000Z",
+      "broadcast": "R/2025-07-02T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-293",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "danime",
+      "id": "28067",
+      "begin": "2025-07-02T13:00:00.000Z",
+      "broadcast": "R/2025-07-02T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "crunchyroll",
+      "id": "G8DHV78ZM",
+      "begin": "2025-07-02T11:30:00.000Z",
+      "broadcast": "R/2025-07-02T11:30:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JiIImQMFiu9H2lp2NZgcKk2",
+      "begin": "2025-07-02T11:30:06.000Z",
+      "broadcast": "R/2025-07-02T11:30:06.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3688"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6862b069dffbea3b3f911b2d"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtRBh-g4zUg8HRvO6kC6v9e0",
+      "begin": "2025-07-02T11:30:06.000Z",
+      "broadcast": "R/2025-07-02T11:30:06.000Z/P7D"
+    },
+    {
+      "site": "viu",
+      "id": "2641674",
+      "begin": "2025-07-02T11:30:57.000Z",
+      "broadcast": "R/2025-07-02T11:30:57.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "140283",
+      "begin": "2025-07-02T11:30:00.000Z",
+      "broadcast": "R/2025-07-02T11:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "26638078",
+      "begin": "2025-07-02T11:30:00.000Z",
+      "broadcast": "R/2025-07-02T11:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "140283",
+      "begin": "2025-07-02T11:30:00.000Z",
+      "broadcast": "R/2025-07-02T11:30:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0FBK21JCS",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

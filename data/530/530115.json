@@ -1,0 +1,239 @@
+{
+  "id": 530115,
+  "name": "ぷにるはかわいいスライム 第2期",
+  "name_cn": "噗妮露是可爱史莱姆 第二季",
+  "summary": "",
+  "date": "2025-07-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/14/f9/530115_8prir.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/14/f9/530115_8prir.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 1226,
+    "total": 555,
+    "count": {
+      "1": 2,
+      "2": 1,
+      "3": 2,
+      "4": 2,
+      "5": 7,
+      "6": 44,
+      "7": 239,
+      "8": 222,
+      "9": 27,
+      "10": 9
+    },
+    "score": 7.4
+  },
+  "tags": [
+    {
+      "name": "2025年7月",
+      "count": 317,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 275,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 239,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 203,
+      "total_cont": 0
+    },
+    {
+      "name": "TOHOanimationSTUDIO",
+      "count": 203,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 191,
+      "total_cont": 0
+    },
+    {
+      "name": "喜剧",
+      "count": 142,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 126,
+      "total_cont": 0
+    },
+    {
+      "name": "萌",
+      "count": 92,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 91,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 74,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 69,
+      "total_cont": 0
+    },
+    {
+      "name": "电波",
+      "count": 55,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 33,
+      "total_cont": 0
+    },
+    {
+      "name": "伊部勇志",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "横手美智子",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "萝莉",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "梅田修一朗",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "子供向",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "东宝动画",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "上坂堇",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "筱原侑",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "7月",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2025夏",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "まえだくん",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TOHO_animation_STUDIO",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "东宝",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "20",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "530115"
+    },
+    {
+      "site": "nicovideo",
+      "id": "puniru-anime2",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6862b060dffbea3b3f911b01"
+    },
+    {
+      "site": "netflix",
+      "id": "81975106",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "abema",
+      "id": "19-203",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "143063",
+      "begin": "2025-07-06T09:30:00.000Z",
+      "broadcast": "R/2025-07-06T09:30:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtRX1ZaYYvdpcrDL87gkgFWg",
+      "begin": "2025-07-06T09:30:06.000Z",
+      "broadcast": "R/2025-07-06T09:30:06.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "143063",
+      "begin": "2025-07-06T09:30:00.000Z",
+      "broadcast": "R/2025-07-06T09:30:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JjtFfXR5xWKVCWwXXNzyVcb",
+      "begin": "2025-07-06T09:30:06.000Z",
+      "broadcast": "R/2025-07-06T09:30:06.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3680"
+    }
+  ]
+}

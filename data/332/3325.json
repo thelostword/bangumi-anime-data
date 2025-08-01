@@ -1,0 +1,195 @@
+{
+  "id": 3325,
+  "name": "To LOVEる－とらぶる－ OVA",
+  "name_cn": "出包王女 OVA",
+  "summary": "长谷见沙贵负责剧本、矢吹健太朗负责绘画的日本少年漫画《To LOVEる》（中文译作《出包王女》），改编自该作的全23话TV动画已在今年4月播出。故事以平凡高中生里特与统帅银河系的“戴比路库”族的王女拉拉的偶然相遇为开端，从此里特被卷入各式各样的麻烦中……原作及动画中大打擦边的桥段在观众中引起轰动话题，轻松的喜剧式剧情也相当欢乐。在TV系列完结数月之后便发表将在09年4月3日推出OVA的消息！此次的OVA将会由3个故事组成，每卷DVD均含一故事将分别附着漫画单行本13、14、15卷发售。日前官网更新了其制作阵容与配音表。",
+  "date": "2009-04-03",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/93/68/3325_3MicC.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/93/68/3325_3MicC.jpg"
+  },
+  "eps": 6,
+  "rating": {
+    "rank": 2379,
+    "total": 2780,
+    "count": {
+      "1": 4,
+      "2": 4,
+      "3": 11,
+      "4": 31,
+      "5": 125,
+      "6": 572,
+      "7": 1239,
+      "8": 576,
+      "9": 98,
+      "10": 120
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 854,
+      "total_cont": 0
+    },
+    {
+      "name": "后宫",
+      "count": 688,
+      "total_cont": 0
+    },
+    {
+      "name": "卖肉",
+      "count": 651,
+      "total_cont": 0
+    },
+    {
+      "name": "出包女王",
+      "count": 320,
+      "total_cont": 0
+    },
+    {
+      "name": "XEBEC",
+      "count": 294,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 282,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 278,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 227,
+      "total_cont": 0
+    },
+    {
+      "name": "2009",
+      "count": 225,
+      "total_cont": 0
+    },
+    {
+      "name": "肉",
+      "count": 180,
+      "total_cont": 0
+    },
+    {
+      "name": "2009年4月",
+      "count": 176,
+      "total_cont": 0
+    },
+    {
+      "name": "后宫百合",
+      "count": 115,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 102,
+      "total_cont": 0
+    },
+    {
+      "name": "花泽香菜",
+      "count": 69,
+      "total_cont": 0
+    },
+    {
+      "name": "ToLoveる",
+      "count": 51,
+      "total_cont": 0
+    },
+    {
+      "name": "肉番",
+      "count": 44,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 34,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 31,
+      "total_cont": 0
+    },
+    {
+      "name": "出包王女",
+      "count": 26,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "2009年",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "户松遥",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "能登麻美子",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "矢吹健太朗",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "加戸誉夫",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "矢吹健太郎",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "ToLove",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 8,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "3325"
+    },
+    {
+      "site": "danime",
+      "id": "28105",
+      "begin": "2025-07-06T15:00:00.000Z",
+      "broadcast": "R/2025-07-06T15:00:00.000Z/P7D"
+    }
+  ]
+}

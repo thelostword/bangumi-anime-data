@@ -1,0 +1,85 @@
+{
+  "id": 330864,
+  "name": "出番ですよ!オニギリズ",
+  "name_cn": "",
+  "summary": "オリエンタルラジオがMCを務めるチャンネルNECOで放送されている『映画ちゃん』内の企画「中田敦彦キャラクター&アニメ制作プロジェクト」から完成したアニメ。\r\n\r\n声優は、オリエンタルラジオの2人の他はオーディションで決定。オーディションは、2015年5月3日放送の『映画ちゃん』内で行われ元NMB48の山田菜々が選ばれた。\r\n\r\n主題歌も中田と藤森と山田で担当している。山田は、NMB48卒業後初の楽曲参加となった 。",
+  "date": "2015-05-29",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/5b/55/330864_39mNJ.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/5b/55/330864_39mNJ.jpg"
+  },
+  "eps": 6,
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "藤森慎吾",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "山田菜々",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "中田敦彦",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2015",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "葦プロダクション",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "330864"
+    },
+    {
+      "site": "unext",
+      "id": "SID0190604",
+      "begin": "2025-06-01T03:00:00.000Z",
+      "broadcast": "R/2025-06-01T03:00:00.000Z/P7D"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "id": 177249,
+  "name": "なぜ生きる -蓮如上人と吉崎炎上-",
+  "name_cn": "人，为什么活着 -莲如上人与吉崎炎上-",
+  "summary": "不遇を嘆き、寺や坊主を嫌っていた青年・了顕は、もうすぐ生まれてくる子供に希望を託していた。不幸な事故が、そんな了顕から全てを奪い去ってしまう。自暴自棄の日々、暗闇にもがき苦しんでいた了顕が出会うのは、蓮如上人の法話であった。そこには、親鸞聖人が明らかにした“なぜ生きる”の答えが示されていた。次第に引き込まれ、心の迷いが晴れた了顕は、蓮如上人の弟子となる。参詣者が増える一方の本願寺は、他宗派からの恨みを買い、蓮如上人と了顕たちは京都を追われ、新たな布教の地を求め、北陸の吉崎（福井）にたどり着いた……。",
+  "date": "2016-05-21",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/66/d4/177249_P343k.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/66/d4/177249_P343k.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 9,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 4,
+      "6": 4,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.3
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "2016年",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改编",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "studiodeen",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2016",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2016年5月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2016年四月番",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "时事热点",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2016年4月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "lxy",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "改编",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "写实",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "大庭秀昭",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "传教",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "历史",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "177249"
+    },
+    {
+      "site": "unext",
+      "id": "SID0102317",
+      "begin": "2025-07-01T03:00:00.000Z",
+      "broadcast": "R/2025-07-01T03:00:00.000Z/P7D"
+    }
+  ]
+}

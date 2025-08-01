@@ -1,0 +1,222 @@
+{
+  "id": 492199,
+  "name": "アークナイツ【焔燼曙明/RISE FROM EMBER】",
+  "name_cn": "明日方舟：焰烬曙明",
+  "summary": "“她”本应该成为为感染者指引方向的灯塔。但此刻，她的愤怒、她的仇恨，已经化为战火，将要吞噬掉普通民众。\r\n切尔诺伯格核心城正在向龙门冲撞，唯有罗德岛这个中立组织，能够阻止整合运动的暴行，以及隐藏在这场暴行背后的阴谋。\r\n同时，龙门近卫局的陈也扔下了自己的警官证，毅然决然前往切城核心城——不再作为龙门的陈长官，而是以姐妹的身份去面对那个人……\r\n\r\n“彼女”は希望の灯となるはずだった。その怒りが、憎しみが、戦火となって人々を飲み込もうとしている。\r\nレユニオン・ムーブメントの暴走とその背後にある陰謀を阻止できるのは、中立組織であるロドスのみ。\r\nアーミヤたちは龍門に迫りくるチェルノボーグ中枢区画へと向かう。彼女らを待ち受ける運命とは――",
+  "date": "2025-07-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/d2/b0/492199_PfRQS.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/d2/b0/492199_PfRQS.jpg"
+  },
+  "eps": 10,
+  "rating": {
+    "rank": 5549,
+    "total": 196,
+    "count": {
+      "1": 5,
+      "2": 3,
+      "3": 4,
+      "4": 4,
+      "5": 20,
+      "6": 64,
+      "7": 72,
+      "8": 18,
+      "9": 2,
+      "10": 4
+    },
+    "score": 6.3
+  },
+  "tags": [
+    {
+      "name": "游戏改",
+      "count": 130,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年7月",
+      "count": 105,
+      "total_cont": 0
+    },
+    {
+      "name": "明日方舟",
+      "count": 88,
+      "total_cont": 0
+    },
+    {
+      "name": "YostarPictures",
+      "count": 76,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 71,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 68,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 57,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 56,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "游改",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "渡邉祐記",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "求不崩",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "西川将貴",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "国产",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "渡边祐记",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "SF",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日番",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "黒沢ともよ",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "中国",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "西川将贵",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "手游不行",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Yostar",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "多头恰手游",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "百合畜文案",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "5西川将貴",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "492199"
+    },
+    {
+      "site": "nicovideo",
+      "id": "3rd_arknights-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0204665",
+      "begin": "2025-07-04T16:00:00.000Z",
+      "broadcast": "R/2025-07-04T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6862b06fdffbea3b3f911b53"
+    },
+    {
+      "site": "bilibili",
+      "id": "26627738",
+      "begin": "2025-07-04T14:30:00.000Z",
+      "broadcast": "R/2025-07-04T14:30:00.000Z/P7D",
+      "comment": "中配: 26627626"
+    },
+    {
+      "site": "mikan",
+      "id": "3717"
+    },
+    {
+      "site": "danime",
+      "id": "28047",
+      "begin": "2025-07-04T16:00:00.000Z",
+      "broadcast": "R/2025-07-04T16:00:00.000Z/P7D"
+    }
+  ]
+}

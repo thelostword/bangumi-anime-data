@@ -1,0 +1,137 @@
+{
+  "id": 555830,
+  "name": "LUPIN THE IIIRD 銭形と2人のルパン",
+  "name_cn": "鲁邦三世 钱形与两个鲁邦",
+  "summary": "『ルパン三世』約30年ぶりとなる2Dアニメ\r\n劇場版『LUPIN THE IIIRD THE MOVIE 不死⾝の⾎族』の前日譚――\r\n本作は、銭形警部を主人公に据えた渾⾝のハードアクションだ。\r\n\r\n極寒の地、ロビエト連邦で発⽣した空港爆破テロ。\r\n容疑者として浮かび上がったのは、まさかのルパン三世。\r\nしかし、銭形が追い詰めた“もう1人のルパン”は、無実を主張する。\r\n正義を貫く男・銭形は、謎に包まれた“偽ルパン”と対峙することになる――。\r\n盗まれたのは おまえ⾃⾝か…\r\n\r\n監督は、2014年より『LUPIN THE IIIRD』を⼿がけてきた⼩池健。\r\n銭形警部（⼭寺宏⼀）をはじめ、ルパン三世（栗⽥貫⼀）、次元⼤介（⼤塚明夫）、⽯川五ェ⾨（浪川⼤輔）、峰不⼆⼦（沢城みゆき）のレギュラー陣が集結。\r\n国家の陰謀、爆破テロの真相、交錯する2人のルパン――銭形の信念が試される。\r\n\r\nシリーズ史上最も渋く、哀愁と激情に満ちた熱きバディ・アクションが幕を開ける。",
+  "date": "2025-06-20",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/b4/1c/555830_19evO.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/b4/1c/555830_19evO.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 45,
+    "count": {
+      "1": 1,
+      "2": 1,
+      "3": 0,
+      "4": 2,
+      "5": 5,
+      "6": 17,
+      "7": 12,
+      "8": 4,
+      "9": 3,
+      "10": 0
+    },
+    "score": 6.2
+  },
+  "tags": [
+    {
+      "name": "2025",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "TelecomAnimationFilm",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "小池健",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "鲁邦三世",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "前日譚",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年6月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "ルパン三世",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TMS",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "剧场版",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年7月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2020s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "555830"
+    },
+    {
+      "site": "unext",
+      "id": "SID0195537",
+      "begin": "2025-06-19T15:00:00.000Z",
+      "broadcast": "R/2025-06-19T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "27937",
+      "begin": "2025-06-19T15:00:00.000Z",
+      "broadcast": "R/2025-06-19T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0DHBCSJG8",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

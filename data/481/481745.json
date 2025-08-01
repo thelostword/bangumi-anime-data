@@ -1,0 +1,233 @@
+{
+  "id": 481745,
+  "name": "ニャイト・オブ・ザ・リビングキャット",
+  "name_cn": "活死喵之夜",
+  "summary": "逃げろ、可い猫が来た。20XX年、世界は猫に支配された。\r\n猫に触れた人間を猫に変えてしまうウィルスにより、\r\n全世界で“ニャンデミック”が発生。\r\n人々は猫にモフられ、次々と猫になっていく。\r\n果たして人類は猫に触りたい誘惑に抗い、\r\n猫だらけの世界を生き抜くことができるのか。",
+  "date": "2025-07-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/3b/e5/481745_PZSg0.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/3b/e5/481745_PZSg0.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 8639,
+    "total": 206,
+    "count": {
+      "1": 7,
+      "2": 3,
+      "3": 13,
+      "4": 34,
+      "5": 57,
+      "6": 59,
+      "7": 28,
+      "8": 3,
+      "9": 1,
+      "10": 1
+    },
+    "score": 5.2
+  },
+  "tags": [
+    {
+      "name": "2025年7月",
+      "count": 114,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 77,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 72,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 67,
+      "total_cont": 0
+    },
+    {
+      "name": "OLM",
+      "count": 62,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 56,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 52,
+      "total_cont": 0
+    },
+    {
+      "name": "喜剧",
+      "count": 51,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 42,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 32,
+      "total_cont": 0
+    },
+    {
+      "name": "爱猫TV",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "神谷智大",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "三池崇史",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "入江信吾",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "猫",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "末日",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "追番",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2025夏",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "恶搞",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "活死喵之夜",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "20年代",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "b级",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "末日哈基米片",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2020-2029",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "活尸猫之夜",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "水中雅章",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "大份",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年夏",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "低优先级",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "481745"
+    },
+    {
+      "site": "unext",
+      "id": "SID0200163",
+      "begin": "2025-07-09T15:00:00.000Z",
+      "broadcast": "R/2025-07-09T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "173-6",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "6862b066dffbea3b3f911b1f"
+    },
+    {
+      "site": "bilibili",
+      "id": "26814897",
+      "begin": "2025-07-06T14:01:00.000Z",
+      "broadcast": "R/2025-07-06T14:01:00.000Z/P7D"
+    },
+    {
+      "site": "crunchyroll",
+      "id": "GKEH2G0DN",
+      "begin": "2025-07-06T14:00:00.000Z",
+      "broadcast": "R/2025-07-06T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "28148",
+      "begin": "2025-07-09T15:00:00.000Z",
+      "broadcast": "R/2025-07-09T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3687"
+    },
+    {
+      "site": "prime",
+      "id": "B0FBN2J7H7",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}
