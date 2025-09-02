@@ -1,0 +1,140 @@
+{
+  "id": 562793,
+  "name": "闇芝居 十五期",
+  "name_cn": "暗芝居 第十五季",
+  "summary": "",
+  "date": "2025-07-13",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/8b/0e/562793_X2Tf4.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/8b/0e/562793_X2Tf4.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 13,
+    "count": {
+      "1": 2,
+      "2": 2,
+      "3": 1,
+      "4": 0,
+      "5": 4,
+      "6": 2,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 4.5
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年7月",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "暗芝居",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "恐怖",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "山川典夫",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "哦~西~买~",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "石上加奈子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "冒险谭",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "熊本浩武",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱物语",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "船田晃",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "佐佐木充郭",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "光芝居",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "562793"
+    },
+    {
+      "site": "unext",
+      "id": "SID0201736",
+      "begin": "2025-07-14T03:00:00.000Z",
+      "broadcast": "R/2025-07-14T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "28070",
+      "begin": "2025-07-14T03:00:00.000Z",
+      "broadcast": "R/2025-07-14T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3723"
+    }
+  ]
+}

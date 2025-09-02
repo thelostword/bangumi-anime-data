@@ -1,0 +1,182 @@
+{
+  "id": 509290,
+  "name": "鬼太郎誕生 ゲゲゲの謎 真生版",
+  "name_cn": "鬼太郎诞生 咯咯咯之谜 真生版",
+  "summary": "今、再び語られる、鬼太郎の父達の物語\r\n\r\n2023年11月に公開されると、忌々しい村で繰り広げられた、かつての目玉おやじである鬼太郎の父と水木との出会い、2人が立ち向かった運命の切なさ、さらにバトルシーンの迫力などが大きな話題となり多くの観客を魅了。2024年には、第47回日本アカデミー賞優秀アニメーション作品賞を受賞、その勢いは日本だけに留まらず海外でも上映され、6月にはフランスのアヌシー国際アニメーション映画祭コントルシャン部門にノミネートされるなど、鬼太郎の父たちの物語は世界中へ。\r\nその物語が、この度327カットのリテイク、合わせて音も再ダビングした'’真生版\"として、10月4日（金）に全国の劇場で再上映が決定いたしました！",
+  "date": "2024-10-04",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/8d/56/509290_aZ3LE.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/8d/56/509290_aZ3LE.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 34,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 1,
+      "6": 5,
+      "7": 15,
+      "8": 11,
+      "9": 1,
+      "10": 0
+    },
+    "score": 7.1
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "東映アニメーション",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "妖怪",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "古賀豪",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "吉野弘幸",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "动画电影",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "神魔",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "悬疑",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "东映",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "民俗",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "古贺豪",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "木内秀信",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "电影",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "関俊彦",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "恐怖",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "东映动画",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "509290"
+    },
+    {
+      "site": "unext",
+      "id": "SID0204631",
+      "begin": "2025-07-12T15:00:00.000Z",
+      "broadcast": "R/2025-07-12T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "28132",
+      "begin": "2025-07-12T15:00:00.000Z",
+      "broadcast": "R/2025-07-12T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0DSR4Y4L5",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}
