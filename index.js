@@ -69,12 +69,19 @@ const fetchAndSave = async () => {
   })
 }
 
-(async () => {
-  try {
-    await fetchAndSave();
-    await mergeAndSaveData();
-  } catch (error) {
-    console.error(error);
-  }
-})();
+
+fetchAndSave()
+  .then(() => mergeAndSaveData())
+  .catch((err) => {
+    console.error(err);
+  });
+
+// (async () => {
+//   try {
+//     await fetchAndSave();
+//     await mergeAndSaveData();
+//   } catch (error) {
+//     console.error(error);
+//   }
+// })();
 
