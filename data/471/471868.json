@@ -1,0 +1,121 @@
+{
+  "id": 471868,
+  "name": "劇場版 うたの☆プリンスさまっ♪  TABOO NIGHT XXXX",
+  "name_cn": "剧场版 歌之王子殿下 TABOO NIGHT XXXX",
+  "summary": "人気ゲームソフトを原作とし、2011年から4シリーズにわたるテレビアニメ放映、2019年から2本の劇場アニメ公開を経た『うたの☆プリンスさまっ♪ マジLOVE』シリーズ。\r\n\r\n多くのファンと共に夢と希望を育んできたアイドルたちのライブが、再び全国の映画館で繰り広げられます。\r\n\r\n今回も全編ライブアニメーション＆完全オリジナルでおくる「劇場版 うたの☆プリンスさまっ♪ TABOO NIGHT XXXX（タブーナイトキスィズ）」、どうぞお楽しみに！！",
+  "date": "2025-05-09",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/03/55/471868_R3ZN9.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/03/55/471868_R3ZN9.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 6,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 3,
+      "7": 1,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.3
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "関暁子",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本剧场版动画已看合集",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "A-1",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "乙女",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "音乐",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "ElementsGarden",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Pictures",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "471868"
+    },
+    {
+      "site": "unext",
+      "id": "SID0235378",
+      "begin": "2025-10-01T03:00:00.000Z",
+      "broadcast": "R/2025-10-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "tmdb",
+      "id": "movie/1448628"
+    },
+    {
+      "site": "mal",
+      "id": "57622"
+    },
+    {
+      "site": "anidb",
+      "id": "18961"
+    },
+    {
+      "site": "aniList",
+      "id": "172393"
+    }
+  ]
+}

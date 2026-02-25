@@ -1,0 +1,115 @@
+{
+  "id": 270505,
+  "name": "ソロモン 叡智の魔術王",
+  "name_cn": "所罗门 睿智的魔术王",
+  "summary": "",
+  "date": "2018-12-31",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/56/0b/270505_imGM7.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/56/0b/270505_imGM7.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 0,
+    "total": 24,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 2,
+      "5": 4,
+      "6": 8,
+      "7": 7,
+      "8": 3,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.2
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "2018",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "3D",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "山口雄大",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "XFLAG",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2018年Web·SP",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "三渲二",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "怪物弹珠",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "東山奈央",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "子供向",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "手游改",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "270505"
+    },
+    {
+      "site": "youtube",
+      "id": "PL8anBnIT2pG5sNBrcD84RspD996nBiIj4",
+      "begin": "2018-12-30T16:00:00.000Z",
+      "broadcast": "R/2018-12-30T16:00:00.000Z/P7D"
+    }
+  ]
+}

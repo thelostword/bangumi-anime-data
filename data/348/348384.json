@@ -1,0 +1,208 @@
+{
+  "id": 348384,
+  "name": "劇場版アルゴナビス AXIA",
+  "name_cn": "剧场版ARGONAVIS AXIA",
+  "summary": "札幌を中心に活動する5人組実力派バンド「GYROAXIA（ジャイロアクシア）」。\r\n東京進出が決まった彼らだが、絶えず意見は衝突し、まとまりきれずにいた。\r\nそんな中、突如ネットに流れる「GYROAXIA 解散」の噂。\r\n困惑し離散していくメンバー。\r\n一方、Vo.旭 那由多は自分を捨てた父 伊龍恒河と過ごした幼少期を思い出し、なぜ自分がバンドにこだわり音楽を続けているのか、探そうとするのだが…",
+  "date": "2023-03-24",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/4e/87/348384_v9JH8.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/4e/87/348384_v9JH8.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 12,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 4,
+      "5": 5,
+      "6": 3,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 4.9
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "2023",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "三次元",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "乐队",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "音乐",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "サンジゲン",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "紅優",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "森川滋",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "SANZIGEN",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "劇場版アニメ",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "小笠原仁",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "企划改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "番外衍生",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "待上映",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "邦邦",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日向大輔",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2023年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "邦男人",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "跨平台企划",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "偶像",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "b级",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "毛利亘宏",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "伊藤昌弘",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "348384"
+    },
+    {
+      "site": "unext",
+      "id": "SID0235299",
+      "begin": "2025-10-02T15:00:00.000Z",
+      "broadcast": "R/2025-10-02T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "28261",
+      "begin": "2025-10-02T15:00:00.000Z",
+      "broadcast": "R/2025-10-02T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "283-33",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "tmdb",
+      "id": "movie/975637"
+    },
+    {
+      "site": "mal",
+      "id": "45731"
+    },
+    {
+      "site": "anidb",
+      "id": "15977"
+    },
+    {
+      "site": "aniList",
+      "id": "128344"
+    }
+  ]
+}

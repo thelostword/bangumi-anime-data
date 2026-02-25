@@ -1,0 +1,201 @@
+{
+  "id": 443168,
+  "name": "cocoon ～ある夏の少女たちより～",
+  "name_cn": "cocoon ～来自夏日的少女～",
+  "summary": "ある夏のどこかの南の島で、少女たちに起こったことは、いつか私たちに起こることかもしれない…。穏やかな日常がいつの間にか戦場へと変わり、命が絶望的な状況に置かれたとき、私たちは何を感じるのか。太平洋戦争での沖縄戦に着想を得た今日マチ子によるマンガ『cocoon』を原作に、日本アニメの将来を嘱望される若き才能とベテランたちが、2025年に届けたい物語として描き出した。過去と今、そして未来を考えるためのアニメーション。",
+  "date": "2025-03-30",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/53/18/443168_KdV4P.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/53/18/443168_KdV4P.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 8279,
+    "total": 87,
+    "count": {
+      "1": 1,
+      "2": 2,
+      "3": 6,
+      "4": 18,
+      "5": 33,
+      "6": 14,
+      "7": 6,
+      "8": 4,
+      "9": 2,
+      "10": 1
+    },
+    "score": 5.1
+  },
+  "tags": [
+    {
+      "name": "2025",
+      "count": 36,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 33,
+      "total_cont": 0
+    },
+    {
+      "name": "伊奈透光",
+      "count": 22,
+      "total_cont": 0
+    },
+    {
+      "name": "ササユリ",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "剧场版",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "Sasayuri",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "吉卜力",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年4月",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "战争",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "动画电影",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "めばち",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "2020-2029",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "牛尾宪辅",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "历史",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "牛尾憲輔",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "空",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年7月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "映画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "二战",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "反战",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025夏",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "443168"
+    },
+    {
+      "site": "unext",
+      "id": "SID0243986",
+      "begin": "2025-12-05T03:00:00.000Z",
+      "broadcast": "R/2025-12-05T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "28483",
+      "begin": "2025-12-04T15:00:00.000Z",
+      "broadcast": "R/2025-12-04T15:00:00.000Z/P7D"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "id": 530377,
+  "name": "ウマ娘 シンデレラグレイ 第2クール",
+  "name_cn": "赛马娘 芦毛灰姑娘 第2部分",
+  "summary": "寂れた地方のカサマツトレセン学園。そこに1人のウマ娘が現れる。\r\n名は、オグリキャップ。\r\n\r\nその圧倒的な走りは、あらゆる常識を覆していく。\r\n\r\nやがて「怪物」と呼ばれる灰被りの少女が、今、新たな伝説を刻む――。\r\n\r\n青春“駆ける”シンデレラストーリー、遂に出走!!",
+  "date": "2025-10-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/f8/ee/530377_sLCN8.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/f8/ee/530377_sLCN8.jpg"
+  },
+  "eps": 10,
+  "rating": {
+    "rank": 3800,
+    "total": 3389,
+    "count": {
+      "1": 7,
+      "2": 3,
+      "3": 10,
+      "4": 58,
+      "5": 181,
+      "6": 915,
+      "7": 1651,
+      "8": 484,
+      "9": 50,
+      "10": 30
+    },
+    "score": 6.7
+  },
+  "tags": [
+    {
+      "name": "2025年10月",
+      "count": 838,
+      "total_cont": 0
+    },
+    {
+      "name": "CygamesPictures",
+      "count": 800,
+      "total_cont": 0
+    },
+    {
+      "name": "运动",
+      "count": 755,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 737,
+      "total_cont": 0
+    },
+    {
+      "name": "赛马娘",
+      "count": 702,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 635,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 517,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 389,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 321,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 299,
+      "total_cont": 0
+    },
+    {
+      "name": "偶像",
+      "count": 180,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 158,
+      "total_cont": 0
+    },
+    {
+      "name": "三浦武弘",
+      "count": 89,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 86,
+      "total_cont": 0
+    },
+    {
+      "name": "伊藤祐毅",
+      "count": 57,
+      "total_cont": 0
+    },
+    {
+      "name": "励志",
+      "count": 31,
+      "total_cont": 0
+    },
+    {
+      "name": "竞技",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "cygames",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "みうらたけひろ",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "金田一士",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "川井宪次",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "2025秋",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "季番",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "10月",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "久住太阳",
+      "count": 3,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "530377"
+    },
+    {
+      "site": "netflix",
+      "id": "82030222",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0181259",
+      "begin": "2025-10-05T07:30:00.000Z",
+      "broadcast": "R/2025-10-05T07:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "512-12",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "68e3e1f8aaf82561f9a74de6"
+    },
+    {
+      "site": "mikan",
+      "id": "3792"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/262700"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtQgnpvvtNP_FQsJQVB-appR",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

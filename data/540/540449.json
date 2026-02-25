@@ -1,0 +1,233 @@
+{
+  "id": 540449,
+  "name": "元祖！バンドリちゃん",
+  "name_cn": "元祖！BanG Dream Chan",
+  "summary": "ガールズバンド世界を席巻した\r\nあの「バンドリちゃん」が帰ってきた！？ \r\nポップでキュートなバンドメンバー大集結、\r\nアバンギャルドな魅力いっぱいの痛快ガールズバンドコメディ！ \r\nこっちにおいでよバンドリちゃん 君も私もバンドリちゃん！",
+  "date": "2025-10-02",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/07/4f/540449_rP1Cp.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/07/4f/540449_rP1Cp.jpg"
+  },
+  "eps": 52,
+  "rating": {
+    "rank": 2768,
+    "total": 684,
+    "count": {
+      "1": 2,
+      "2": 2,
+      "3": 1,
+      "4": 8,
+      "5": 26,
+      "6": 161,
+      "7": 321,
+      "8": 120,
+      "9": 22,
+      "10": 21
+    },
+    "score": 6.9
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 403,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 319,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年10月",
+      "count": 283,
+      "total_cont": 0
+    },
+    {
+      "name": "BanGDream",
+      "count": 244,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 156,
+      "total_cont": 0
+    },
+    {
+      "name": "乐队",
+      "count": 154,
+      "total_cont": 0
+    },
+    {
+      "name": "音乐",
+      "count": 153,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 149,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 139,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 117,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 103,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 58,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 53,
+      "total_cont": 0
+    },
+    {
+      "name": "AtoriE",
+      "count": 42,
+      "total_cont": 0
+    },
+    {
+      "name": "宮嶋星矢",
+      "count": 22,
+      "total_cont": 0
+    },
+    {
+      "name": "森井ケンシロウ",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "轻百合",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "偶像",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "Dream!",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "Bushiroad",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "宫岛星矢",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "森井健史郎",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年1月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "少女乐队",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "BanGDream!",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "轻松",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "540449"
+    },
+    {
+      "site": "nicovideo",
+      "id": "bandorichan-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0234957",
+      "begin": "2025-10-02T13:00:00.000Z",
+      "broadcast": "R/2025-10-02T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "283-34",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "danime",
+      "id": "28235",
+      "begin": "2025-10-02T13:00:00.000Z",
+      "broadcast": "R/2025-10-02T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "68e3e204aaf82561f9a74e22"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/301747"
+    },
+    {
+      "site": "mal",
+      "id": "61107"
+    },
+    {
+      "site": "anidb",
+      "id": "19356"
+    },
+    {
+      "site": "aniList",
+      "id": "187166"
+    }
+  ]
+}

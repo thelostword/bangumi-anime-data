@@ -1,0 +1,111 @@
+{
+  "id": 217139,
+  "name": "モンソニ! ダルタニャンのアイドル宣言",
+  "name_cn": "达太喵的偶像宣言",
+  "summary": "「达太喵」到东京去玩的时候，忘不了映入眼帘的风景。\r\n\r\n在夜晚的公园中，她目睹了月光下高歌的「路西法」的身影。从此，不论是醒着还是睡着，心中的雀跃总是停不下来。某天，达太喵接受好友「出云」的邀约，一同观看人气偶像「天使歌姬」的演唱会。在那天她坦承面对自己的心情：「我不知不觉开始向往起她！」总有一天我想跟那个人一样，沐浴在光芒下歌唱。\r\n\r\n心中怀抱这样的梦想，达太喵开始了她新人偶像的道路。\r\n歌与羁绊的故事即将展开！",
+  "date": "2017-06-14",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/8d/95/217139_1hxrm.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/8d/95/217139_1hxrm.jpg"
+  },
+  "eps": 5,
+  "rating": {
+    "rank": 0,
+    "total": 10,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 6,
+      "6": 1,
+      "7": 2,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.8
+  },
+  "tags": [
+    {
+      "name": "WEB",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2017",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2017年6月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "3D",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2017年OVA·OAD",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "偶像",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "LIDENFILMS",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "217139"
+    },
+    {
+      "site": "youtube",
+      "id": "PL8anBnIT2pG7JBjX8etGJfnem9Q7_05WT",
+      "begin": "2017-06-13T16:00:00.000Z",
+      "broadcast": "R/2017-06-13T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/74233"
+    },
+    {
+      "site": "mal",
+      "id": "35635"
+    },
+    {
+      "site": "anidb",
+      "id": "13197"
+    },
+    {
+      "site": "aniList",
+      "id": "98846"
+    }
+  ]
+}

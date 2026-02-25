@@ -1,0 +1,261 @@
+{
+  "id": 492722,
+  "name": "かくりよの宿飯 弐",
+  "name_cn": "妖怪旅馆营业中 贰",
+  "summary": "隠世の宿天神屋で始まる、新たな運命の物語\r\n“あやかし”が見える女子大生・津場木 葵は、ある日突然、隠世《かくりよ》にある老舗宿〈天神屋〉へと攫われてしまう。\r\n祖父が遺した莫大な借金。隠世で交わされていた“約束”。借金のカタとして迫られたのは、大旦那――鬼への“嫁入り”だった。\r\nところが葵は、その運命をはねのける。――働いて、返す。自分の力で。\r\n借金を返済するため、天神屋のかたすみに食事処〈夕がお〉を開き、真心を込めたおもてなしで、あやかしたちの空腹と心を満たしていく。\r\nときには悩みながらも突き進み、葵は隠世の住人たちと絆を育む。\r\nあの日交わした“約束”は、やがてかけがえのない〈居場所〉へと変わっていく。\r\n南の地の宿〈折尾屋〉での試練を越え、〈夕がお〉へと帰ってきた葵。しかし、穏やかな日々は束の間――〈天神屋〉に、かつてない危機が迫っていた。\r\n守りたい居場所がある。信じてくれる仲間がいる。\r\n幾多の出会いと絆に育まれ ――物語は再び、動き出す。",
+  "date": "2025-10-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/11/54/492722_5u7UB.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/11/54/492722_5u7UB.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 8204,
+    "total": 82,
+    "count": {
+      "1": 1,
+      "2": 2,
+      "3": 4,
+      "4": 14,
+      "5": 36,
+      "6": 17,
+      "7": 4,
+      "8": 1,
+      "9": 1,
+      "10": 2
+    },
+    "score": 5.1
+  },
+  "tags": [
+    {
+      "name": "2025年10月",
+      "count": 50,
+      "total_cont": 0
+    },
+    {
+      "name": "GONZO",
+      "count": 24,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "轻小说改",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "東山奈央",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "土岐隼一",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "乙女向",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "小西克幸",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "妖怪",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "穿越",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "异世界",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "轻改",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "美食",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "旅馆",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "妖怪旅馆营业中",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未保存",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "石見舞菜香",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "治愈",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "大学生",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "和风",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "中恵光城",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未上映",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "492722"
+    },
+    {
+      "site": "unext",
+      "id": "SID0234940",
+      "begin": "2025-10-01T15:30:00.000Z",
+      "broadcast": "R/2025-10-01T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "28257",
+      "begin": "2025-10-01T15:30:00.000Z",
+      "broadcast": "R/2025-10-01T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "tropics",
+      "id": "PLoGVqODys23CbtsOTbjJfw1_KiHuHtpR5",
+      "begin": "2025-10-01T15:00:06.000Z",
+      "broadcast": "R/2025-10-01T15:00:06.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "139160",
+      "begin": "2025-10-01T15:00:00.000Z",
+      "broadcast": "R/2025-10-01T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "139160",
+      "begin": "2025-10-01T15:00:00.000Z",
+      "broadcast": "R/2025-10-01T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0FS96MFWX",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3790"
+    },
+    {
+      "site": "crunchyroll",
+      "id": "G6MEK1ZGR",
+      "begin": "2025-10-01T15:00:00.000Z",
+      "broadcast": "R/2025-10-01T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "68e3e202aaf82561f9a74e16"
+    },
+    {
+      "site": "disneyplus",
+      "id": "5BZBOhidb5sD",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/78483/season/2"
+    },
+    {
+      "site": "mal",
+      "id": "58772"
+    },
+    {
+      "site": "anidb",
+      "id": "18607"
+    },
+    {
+      "site": "aniList",
+      "id": "177271"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "id": 408897,
+  "name": "龙族Ⅱ 悼亡者之瞳",
+  "name_cn": "",
+  "summary": "不详的暴雨，诡异的黑影，神秘的黑色手提箱，身披战甲的“奥丁”如神般降临……狂舞的长刀，爆裂的流星，无人的高速公路，废柴父亲化身威风的英雄，以命相搏的激战，谁胜？谁负？而路明非，迎来卡塞尔学院的第一个暑假，却收到学校的临时任务邀约！龙族回归，危机再现！大地与山之王在混沌中睁开双眼，天神奥丁高举长矛俯视众生，龙族世界新的风暴蓄势待发……那些少年们，该何去何从？",
+  "date": "2025-07-18",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/17/42/408897_BnCHp.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/17/42/408897_BnCHp.jpg"
+  },
+  "eps": 24,
+  "rating": {
+    "rank": 9693,
+    "total": 232,
+    "count": {
+      "1": 25,
+      "2": 19,
+      "3": 29,
+      "4": 51,
+      "5": 48,
+      "6": 36,
+      "7": 13,
+      "8": 7,
+      "9": 1,
+      "10": 3
+    },
+    "score": 4.3
+  },
+  "tags": [
+    {
+      "name": "国漫",
+      "count": 88,
+      "total_cont": 0
+    },
+    {
+      "name": "国产",
+      "count": 79,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年7月",
+      "count": 65,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 60,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 51,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 47,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 42,
+      "total_cont": 0
+    },
+    {
+      "name": "龙族",
+      "count": 34,
+      "total_cont": 0
+    },
+    {
+      "name": "中国",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "洛水花原",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "江南",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "国内番剧",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "合作",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "王昕",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "国产动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "朝韩",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "山下大輝",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "村瀬歩",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "冒险",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动作",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "3D",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1分",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025秋",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "电视动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025夏",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "热血或战斗",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "408897"
+    },
+    {
+      "site": "unext",
+      "id": "SID0232878",
+      "begin": "2025-10-08T16:00:00.000Z",
+      "broadcast": "R/2025-10-08T16:00:00.000Z/P7D",
+      "comment": "日本語字幕版: SID0238284"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtTvLdp1bEzbtYqSUk2lZq37",
+      "begin": "2025-10-08T17:00:06.000Z",
+      "broadcast": "R/2025-10-08T17:00:06.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jjx_TiPymhI9of6quG_2lvV",
+      "begin": "2025-10-08T17:00:06.000Z",
+      "broadcast": "R/2025-10-08T17:00:06.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "147240",
+      "begin": "2025-10-08T17:00:00.000Z",
+      "broadcast": "R/2025-10-08T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "147240",
+      "begin": "2025-10-08T17:00:00.000Z",
+      "broadcast": "R/2025-10-08T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "28304",
+      "begin": "2025-10-08T16:00:00.000Z",
+      "broadcast": "R/2025-10-08T16:00:00.000Z/P7D",
+      "comment": "日本語字幕版: 28305"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/107255/season/2"
+    },
+    {
+      "site": "prime",
+      "id": "B0FRSDZD7X",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

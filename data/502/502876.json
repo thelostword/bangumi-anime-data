@@ -1,0 +1,233 @@
+{
+  "id": 502876,
+  "name": "炎炎ノ消防隊 参ノ章 第2クール",
+  "name_cn": "炎炎消防队 叁之章 第2部分",
+  "summary": "由火焰引导的灼热黑暗奇幻故事，最终章启动——\r\n\r\n历经了围绕「柱」的激烈战斗和「地下」调查作战后，森罗一行人更加接近世界的重大秘密。\r\n为了回应他们的奋斗，其他特殊消防队也表示愿意合作。所有特殊消防队团结一致，共同阻止巨大的灾难。\r\n现在，守护世界的「森罗（英雄）」和消防员们的最后战斗即将展开！\r\n\r\n\r\n[简介原文]\r\n炎が導く灼熱のダークファンタジー最終章始動──\r\n\r\n「柱」を巡る激戦や〝地下(ネザー)〟調査作戦を経て、世界の大いなる秘密へと近づいたシンラたち。\r\n彼らの奮闘に応え、他の特殊消防隊も協力する姿勢を示し、全ての特殊消防隊は大災害を阻止すべく1つになった。\r\n今、世界を守る〝シンラ（ヒーロー）〟と消防官たちの最終決戦が開幕！",
+  "date": "2026-01-09",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/b0/8b/502876_Lv4x9.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/b0/8b/502876_Lv4x9.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 5591,
+    "total": 159,
+    "count": {
+      "1": 1,
+      "2": 1,
+      "3": 1,
+      "4": 4,
+      "5": 21,
+      "6": 73,
+      "7": 41,
+      "8": 13,
+      "9": 2,
+      "10": 2
+    },
+    "score": 6.3
+  },
+  "tags": [
+    {
+      "name": "2026年1月",
+      "count": 143,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 95,
+      "total_cont": 0
+    },
+    {
+      "name": "davidproduction",
+      "count": 85,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 79,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 72,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 71,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 59,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 58,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 47,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 46,
+      "total_cont": 0
+    },
+    {
+      "name": "炎炎消防队",
+      "count": 38,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 31,
+      "total_cont": 0
+    },
+    {
+      "name": "炎炎ノ消防隊",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "南川達馬",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "1月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "26冬",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "南川达马",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "熱血",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "守岡英行",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "11",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "戰鬥",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "續作",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "小林裕介",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "亜田井",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "末廣健一郎",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "小有名气",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "4分",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "502876"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/88046/season/3"
+    },
+    {
+      "site": "mikan",
+      "id": "3875"
+    },
+    {
+      "site": "gamer",
+      "id": "124471",
+      "begin": "2026-01-09T16:53:00.000Z",
+      "broadcast": "R/2026-01-09T16:53:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "124471",
+      "begin": "2026-01-09T16:53:00.000Z",
+      "broadcast": "R/2026-01-09T16:53:00.000Z/P7D"
+    },
+    {
+      "site": "viu",
+      "id": "2877831",
+      "begin": "2026-01-09T16:53:00.000Z",
+      "broadcast": "R/2026-01-09T16:53:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "81143589",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mal",
+      "id": "59229"
+    },
+    {
+      "site": "anidb",
+      "id": "18742"
+    },
+    {
+      "site": "aniList",
+      "id": "179062"
+    }
+  ]
+}

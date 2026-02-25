@@ -1,0 +1,251 @@
+{
+  "id": 493016,
+  "name": "違国日記",
+  "name_cn": "异国日记",
+  "summary": "怕生内向的小说家高代槙生，在姐姐夫妻的葬礼上，一时冲动收养了失去双亲的外甥女田汲朝。这段意想不到开始的同居生活，让原本宁静的槙生日常彻底改变。\r\n因为不习惯和别人一起生活，她对与15岁的朝同住一事充满不安。另一方面，失去双亲、失去了自己立足之处的朝，在第一次体会到的孤独当中，逐渐接触到和母亲完全不同、「不像大人的大人」的槙生那种活法。\r\n在人际应对上很不在行、反而喜欢孤独一人的槙生，以及个性亲人、单纯坦率的朝。性格与价值观截然不同的两人，虽然满腹困惑，却还是开始了这段有些生疏又笨拙的同居生活。\r\n\r\n这是一则描写两个各自背负孤独生活下去的人，在摸索中一点一滴展开的岁差同居故事。\r\n\r\n人見知りの小説家・高代槙生は、\r\n姉夫婦の葬式で両親を亡くした姪の田汲朝を、\r\n勢いで引き取ることになる。\r\n思いがけずはじまった同居生活によって、\r\nそれまで静かだった槙生の日常は一変。\r\n他人と暮らすことに不慣れな性格のため、\r\n15歳の朝との生活に不安を感じていた。\r\n一方、両親を亡くし居場所を見失った朝は、\r\nはじめて感じる孤独の中で、\r\n母とはまるで違う\r\n“大人らしくない”槙生の生き方に触れていく。\r\n人づきあいが苦手で孤独を好む槙生と、\r\n人懐っこく素直な性格の朝。\r\n性格も価値観もまるで違う二人は、\r\n戸惑いながらも、\r\nぎこちない共同生活を始めていく。\r\n共に、孤独を生きていく二人の、\r\n手探りで始まる年の差同居譚。",
+  "date": "2026-01-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/fe/bf/493016_Qqmf5.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/fe/bf/493016_Qqmf5.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 172,
+    "total": 2227,
+    "count": {
+      "1": 9,
+      "2": 2,
+      "3": 2,
+      "4": 4,
+      "5": 18,
+      "6": 61,
+      "7": 344,
+      "8": 1022,
+      "9": 624,
+      "10": 141
+    },
+    "score": 8.1
+  },
+  "tags": [
+    {
+      "name": "2026年1月",
+      "count": 866,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 762,
+      "total_cont": 0
+    },
+    {
+      "name": "治愈",
+      "count": 685,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 645,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 585,
+      "total_cont": 0
+    },
+    {
+      "name": "牛尾憲輔",
+      "count": 423,
+      "total_cont": 0
+    },
+    {
+      "name": "朱夏",
+      "count": 409,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 369,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 307,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 264,
+      "total_cont": 0
+    },
+    {
+      "name": "文艺",
+      "count": 222,
+      "total_cont": 0
+    },
+    {
+      "name": "大城美幸",
+      "count": 159,
+      "total_cont": 0
+    },
+    {
+      "name": "泽城美雪",
+      "count": 149,
+      "total_cont": 0
+    },
+    {
+      "name": "牛尾宪辅",
+      "count": 136,
+      "total_cont": 0
+    },
+    {
+      "name": "喜安浩平",
+      "count": 72,
+      "total_cont": 0
+    },
+    {
+      "name": "亲情",
+      "count": 46,
+      "total_cont": 0
+    },
+    {
+      "name": "诸星堇",
+      "count": 30,
+      "total_cont": 0
+    },
+    {
+      "name": "近藤隆",
+      "count": 28,
+      "total_cont": 0
+    },
+    {
+      "name": "大原沙耶香",
+      "count": 28,
+      "total_cont": 0
+    },
+    {
+      "name": "诹访部顺一",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "沢城みゆき",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "神作",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "出合小都美",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "催泪",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "女性向",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "异国日记",
+      "count": 3,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "493016"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ikoku-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0251558",
+      "begin": "2026-01-09T16:00:00.000Z",
+      "broadcast": "R/2026-01-09T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "189-87",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "139183",
+      "begin": "2026-01-04T15:30:00.000Z",
+      "broadcast": "R/2026-01-04T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "139183",
+      "begin": "2026-01-04T15:30:00.000Z",
+      "broadcast": "R/2026-01-04T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3833"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/253476"
+    },
+    {
+      "site": "danime",
+      "id": "28598",
+      "begin": "2026-01-09T16:00:00.000Z",
+      "broadcast": "R/2026-01-09T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0G8VZ9LCX",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mal",
+      "id": "58788"
+    },
+    {
+      "site": "anidb",
+      "id": "18610"
+    },
+    {
+      "site": "aniList",
+      "id": "177385"
+    }
+  ]
+}

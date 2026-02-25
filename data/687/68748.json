@@ -1,0 +1,114 @@
+{
+  "id": 68748,
+  "name": "太陽の法",
+  "name_cn": "太阳之法",
+  "summary": "　1億2千万年前、サタンが反乱を起こし地上は混乱に陥る。至高の霊的存在、エル・カンターレは、自分の分身を地上に送り、新世紀の創造と新文明の構築を図っていく――。大川隆法のベストセラー小説をアニメ化。宇宙創造から現代へ、1000億年に渡る人類誕生の神秘をスケール感豊かに描く。原作をベースに、太陽の法シナリオ・プロジェクトが脚色。アニメーション・ディレクターに石山貴明、撮影監督は『逮捕しちゃうぞ the MOVIE』の吉田光伸が努める。",
+  "date": "2000-10-28",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/a0/29/68748_12wlt.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/a0/29/68748_12wlt.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 22,
+    "count": {
+      "1": 11,
+      "2": 2,
+      "3": 1,
+      "4": 5,
+      "5": 0,
+      "6": 1,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 2.8
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "大川隆法",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "2000",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "独立剧场版",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "GroupTac",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "幸福の科学",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "宗教",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2000年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "其他",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2000年10月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "邪教",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "68748"
+    },
+    {
+      "site": "unext",
+      "id": "SID0227153",
+      "begin": "2025-10-01T03:00:00.000Z",
+      "broadcast": "R/2025-10-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "tmdb",
+      "id": "movie/248904"
+    }
+  ]
+}

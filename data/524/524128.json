@@ -1,0 +1,231 @@
+{
+  "id": 524128,
+  "name": "天穂のサクナヒメ ココロワ稲作日誌",
+  "name_cn": "天穗之咲稻姬 心轮种稻日记",
+  "summary": "車輪と発明を司る神でありサクナヒメの親友、ココロワヒメ。小説家としての一面も持ち、「片恋物語」の作者・朧月草子として新たな作品の執筆をはじめようとしていた。\r\n一方、神と人が手を携え鬼を払い、稲の実りで満たしたヒノエ島では、サクナヒメたちはいまだこの地で米作りに励んでいる。ココロワはとある事情によって、サクナと同じくこの地で不慣れな稲作に取り組むことになったのだが――",
+  "date": "2026-02-15",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/29/ce/524128_U0Uj0.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/29/ce/524128_U0Uj0.jpg"
+  },
+  "eps": 2,
+  "rating": {
+    "rank": 6003,
+    "total": 109,
+    "count": {
+      "1": 1,
+      "2": 1,
+      "3": 1,
+      "4": 5,
+      "5": 12,
+      "6": 54,
+      "7": 31,
+      "8": 2,
+      "9": 1,
+      "10": 1
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "游戏改",
+      "count": 38,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 35,
+      "total_cont": 0
+    },
+    {
+      "name": "P.A.WORKS",
+      "count": 35,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 30,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 22,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年1月",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "吉原正行",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "轻小说改",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "大空直美",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "种田",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "SP",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "小柳启伍",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "天穗之咲稻姬",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TVSP",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "小柳啓伍菜，吉原正行分镜，第一集还好，第二集又淡回去了且编排",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "短篇",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "花田十輝",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "农作",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "天穂のサクナヒメ",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2026冬",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "伝奇",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "神话",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "524128"
+    },
+    {
+      "site": "danime",
+      "id": "28678",
+      "begin": "2026-02-15T08:15:00.000Z",
+      "broadcast": "R/2026-02-15T08:15:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0264079",
+      "begin": "2026-02-15T08:15:00.000Z",
+      "broadcast": "R/2026-02-15T08:15:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "138263",
+      "begin": "2026-02-14T16:00:00.000Z",
+      "broadcast": "R/2026-02-14T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "138263",
+      "begin": "2026-02-14T16:00:00.000Z",
+      "broadcast": "R/2026-02-14T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtTjJqpl5w61JX4qISyG5T73",
+      "begin": "2026-02-14T16:00:00.000Z",
+      "broadcast": "R/2026-02-14T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JjFLq3eULh4CEX2ieIZv085",
+      "begin": "2026-02-14T16:00:00.000Z",
+      "broadcast": "R/2026-02-14T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "19-200",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

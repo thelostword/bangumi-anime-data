@@ -1,0 +1,162 @@
+{
+  "id": 541539,
+  "name": "アズワン／AS ONE",
+  "name_cn": "AS ONE",
+  "summary": "「アズワン／AS ONE」の主人公となるのは、地球に住む高校生のヨウと、宇宙の彼方に存在する星・巡星（めぐりぼし）でロボット整備士として生きるラコ。ある日、巨大軌道デブリの落下に駆けつけた仲間のヴィーゴを救うため整備途中の機体で飛び立ったラコは、事故に遭い危機一髪の状況に陥ってしまう。昏睡状態となったラコは自身の“意識の世界“で、出会うはずのないヨウと次元を超えた運命の出会いを果たす。特報映像では、ラコの意識の中で互いに手を差し伸べ近付いていくヨウとラコの幻想的なシーンや、機体を操縦するラコ、指令を受けるヴィーゴ、戦うロボット（プルガード）の姿などが映し出される。",
+  "date": "2025-08-22",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/13/82/541539_HNFES.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/13/82/541539_HNFES.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 8,
+    "count": {
+      "1": 0,
+      "2": 1,
+      "3": 2,
+      "4": 2,
+      "5": 1,
+      "6": 2,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 4.1
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "StudioGOONEYS",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "Honoo",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "静野孔文",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "(剧情)一般",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "白岩瑠姫",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "机战",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "萝卜",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "(倾向)论证",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "(画面)好",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "robo",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "白石晴香",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未上映",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "井上泰久",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未发售",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "541539"
+    },
+    {
+      "site": "unext",
+      "id": "SID0237762",
+      "begin": "2025-12-09T15:00:00.000Z",
+      "broadcast": "R/2025-12-09T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "mal",
+      "id": "61139"
+    },
+    {
+      "site": "anidb",
+      "id": "19195"
+    },
+    {
+      "site": "aniList",
+      "id": "187317"
+    }
+  ]
+}

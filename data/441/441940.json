@@ -1,0 +1,239 @@
+{
+  "id": 441940,
+  "name": "劇場版 僕とロボコ",
+  "name_cn": "剧场版 我与机器子",
+  "summary": "ヤバイ戦闘シーンを予知していますーー。\r\n\r\n突然の虫の知らせ、いやオーダーメイド・ロボコの膝の知らせで、\r\n平凡な小学生・平ボンドのギャグアニメな日常は崩壊の兆しをみせる。\r\n\r\nそんなある日、何者かにより歪められた時空から集まったのは、\r\n王道バトル、本格SFアクション、ラブコメ、昭和ギャグ漫画と\r\n\r\n全く別の世界線＝マルチバースで活躍する\r\n様々なロボコたちだった。",
+  "date": "2025-04-18",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/34/db/441940_8Sf5G.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/34/db/441940_8Sf5G.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 5316,
+    "total": 73,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 4,
+      "5": 14,
+      "6": 32,
+      "7": 18,
+      "8": 4,
+      "9": 0,
+      "10": 1
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 48,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 24,
+      "total_cont": 0
+    },
+    {
+      "name": "StudioGallop",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "大地丙太郎",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "我與機器子",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "佐藤道拓",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "松尾駿",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "JUMP",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2020-2029",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "4分",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "ぎゃろっぷ",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "表",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "劇場版",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "6.5",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未发售",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "电影或剧场版",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "津田美波",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "441940"
+    },
+    {
+      "site": "unext",
+      "id": "SID0220206",
+      "begin": "2025-08-18T15:00:00.000Z",
+      "broadcast": "R/2025-08-18T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "133418",
+      "begin": "2025-09-30T16:00:00.000Z",
+      "broadcast": "R/2025-09-30T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "133418",
+      "begin": "2025-09-30T16:00:00.000Z",
+      "broadcast": "R/2025-09-30T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3798"
+    },
+    {
+      "site": "danime",
+      "id": "28211",
+      "begin": "2025-10-31T15:00:00.000Z",
+      "broadcast": "R/2025-10-31T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "boku-to-roboco-movie",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "tmdb",
+      "id": "movie/1148706"
+    },
+    {
+      "site": "mal",
+      "id": "55709"
+    },
+    {
+      "site": "anidb",
+      "id": "18068"
+    },
+    {
+      "site": "aniList",
+      "id": "166249"
+    }
+  ]
+}

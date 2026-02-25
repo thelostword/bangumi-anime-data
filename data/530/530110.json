@@ -1,0 +1,265 @@
+{
+  "id": 530110,
+  "name": "MFゴースト 3rd Season",
+  "name_cn": "极速车魂 第三季",
+  "summary": "为了挑战「MFG」，来自英国的主角片桐夏向，在第1战「小田原Pikes Peak」拿下第9名，并在第2战「芦之湖GT」跑出第4名，稳定地往前推进名次。接着，就在他一步步往上爬升之际，赛事舞台随之来到第3战「The．Peninsula真鹤」。\r\n群马之魂的继承新星，诸星濑名的参战，使得上位竞争变得越发激烈。夏向虽驾驶了搭载涡轮、战斗力大幅提升的86迎战群雄，但在决赛前夕，他却因手肘受伤而无法使用二档，更于此状态下开始决赛。\r\n\r\n面对接连被竞争对手超越、步入绝境的局面，那股潜藏于他心底、赤裸无遗的斗争本能终于全面苏醒──！\r\n\r\nＭＦＧ。\r\nそれは世界の自動車のＥＶ化が実現した近未来、日本で開催されている唯一の化石燃料を使った自動車によるモータースポーツである。\r\n\r\n今や絶滅危惧種となったハイパワーマシンによる熾烈なレースは世界中にインターネット配信され、爆発的な人気を博していた。\r\n\r\nそこに英国から渡航した一人の若者が、チャレンジャーとして挑む。カナタ・リヴィントンこと――片桐夏向。彼こそが、かつて公道最速伝説を確立した男の教えを受け継ぐＭＦＧ新世代である。\r\n\r\nポルシェ、ランボルギーニ、フェラーリ、ニッサン・GT-R。世界最高峰のハイパワーマシンを駆るライバル達に対して、カナタが選んだのはトヨタ８６ＧＴ。非力なマシンでいかに強豪に立ち向かうのか？\r\n\r\n箱根を舞台に繰り広げられるＭＦＧ第１戦・小田原パイクスピーク。挑戦者・カナタの走りは、並み居るライバル達や観客の目を奪う。箱根ダウンヒルを圧倒的な速さで駆け抜ける８６――。\r\n\r\n新たな公道最速伝説が、今生まれようとしていた。",
+  "date": "2026-01-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/5b/c9/530110_EQtrE.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/5b/c9/530110_EQtrE.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 5302,
+    "total": 86,
+    "count": {
+      "1": 3,
+      "2": 3,
+      "3": 1,
+      "4": 4,
+      "5": 4,
+      "6": 33,
+      "7": 26,
+      "8": 7,
+      "9": 3,
+      "10": 2
+    },
+    "score": 6.2
+  },
+  "tags": [
+    {
+      "name": "2026年1月",
+      "count": 54,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 39,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 36,
+      "total_cont": 0
+    },
+    {
+      "name": "FelixFilm",
+      "count": 33,
+      "total_cont": 0
+    },
+    {
+      "name": "赛车",
+      "count": 29,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "运动",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "中智仁",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "MF_GHOST",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "极速车魂",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "佐倉綾音",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "山下憲一",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "運動",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV-01",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "26冬",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "冬季",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "头文字D",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "賽車",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "重野秀一",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "内田雄馬",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "續作",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "530110"
+    },
+    {
+      "site": "viu",
+      "id": "2871842",
+      "begin": "2026-01-01T15:30:53.000Z",
+      "broadcast": "R/2026-01-01T15:30:53.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "143062",
+      "begin": "2026-01-01T15:30:00.000Z",
+      "broadcast": "R/2026-01-01T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "143062",
+      "begin": "2026-01-01T15:30:00.000Z",
+      "broadcast": "R/2026-01-01T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtRRKDJeuNQbZHXilmkAhnDY",
+      "begin": "2026-01-01T15:30:06.000Z",
+      "broadcast": "R/2026-01-01T15:30:06.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JgCRS-kVQkwaZlE_h2esAF1",
+      "begin": "2026-01-01T15:30:06.000Z",
+      "broadcast": "R/2026-01-01T15:30:06.000Z/P7D"
+    },
+    {
+      "site": "crunchyroll",
+      "id": "GEXH3W2W7",
+      "begin": "2026-01-01T08:00:00.000Z",
+      "broadcast": "R/2026-01-01T08:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "mfg-anime_3",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0249085",
+      "begin": "2026-01-06T15:00:00.000Z",
+      "broadcast": "R/2026-01-06T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0GC8QWY6X",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3871"
+    },
+    {
+      "site": "disneyplus",
+      "id": "4RjkhBlw98oi",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "danime",
+      "id": "28611",
+      "begin": "2026-01-05T15:00:00.000Z",
+      "broadcast": "R/2026-01-05T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/154526"
+    },
+    {
+      "site": "mal",
+      "id": "60602"
+    },
+    {
+      "site": "anidb",
+      "id": "19071"
+    },
+    {
+      "site": "aniList",
+      "id": "185753"
+    }
+  ]
+}

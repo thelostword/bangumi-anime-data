@@ -1,0 +1,80 @@
+{
+  "id": 556309,
+  "name": "ぬいストーリー",
+  "name_cn": "",
+  "summary": "",
+  "date": "2023-10-07",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/9c/e6/556309_ezbv8.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/9c/e6/556309_ezbv8.jpg"
+  },
+  "eps": 50,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "短片",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "556309"
+    },
+    {
+      "site": "abema",
+      "id": "54-97",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0158302",
+      "begin": "2024-10-25T03:00:00.000Z",
+      "broadcast": "R/2024-10-25T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "26553",
+      "begin": "2023-10-07T03:00:00.000Z",
+      "broadcast": "R/2023-10-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0CGPJPMJD",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/289275"
+    },
+    {
+      "site": "mal",
+      "id": "56623"
+    },
+    {
+      "site": "aniList",
+      "id": "183472"
+    }
+  ]
+}

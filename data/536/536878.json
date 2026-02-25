@@ -1,0 +1,148 @@
+{
+  "id": 536878,
+  "name": "科学×冒険サバイバル！ 第2シリーズ",
+  "name_cn": "科学×冒险与生存！ 第二季",
+  "summary": "「科学×冒険サバイバル！」第2シリーズの放送が決定！\r\n\r\nテーマは▼\r\n水不足のサバイバル\r\n巨大地震のサバイバル\r\n干潟のサバイバル\r\n山のサバイバル\r\nナイトサファリのサバイバル\r\n月のサバイバル\r\n海面上昇のサバイバル\r\n\r\nEテレで10月スタート！",
+  "date": "2025-10-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/aa/8d/536878_81ewO.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/aa/8d/536878_81ewO.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 12,
+    "count": {
+      "1": 0,
+      "2": 1,
+      "3": 1,
+      "4": 1,
+      "5": 6,
+      "6": 1,
+      "7": 1,
+      "8": 0,
+      "9": 1,
+      "10": 0
+    },
+    "score": 5.1
+  },
+  "tags": [
+    {
+      "name": "2025年10月",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "韩国",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "ぎゃろっぷ",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "松田颯水",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "石田彰",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "村山功",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "細田雅弘",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "潘めぐみ",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "冒险",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "GALLOP",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "续集",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "536878"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/259789/season/2"
+    },
+    {
+      "site": "unext",
+      "id": "SID0234937",
+      "begin": "2025-11-20T03:00:00.000Z",
+      "broadcast": "R/2025-11-20T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "28391",
+      "begin": "2025-11-20T03:00:00.000Z",
+      "broadcast": "R/2025-11-20T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mal",
+      "id": "60983"
+    },
+    {
+      "site": "aniList",
+      "id": "186736"
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "id": 539395,
+  "name": "終末ツーリング",
+  "name_cn": "末世二轮之旅",
+  "summary": "誰もいない終末世界を旅する少女、\r\nヨーコとアイリ。\r\n\r\n名所の風景ふたりじめで写真を撮ったり、\r\n自然いっぱいな街中でキャンプをしたり。\r\n\r\nオフロードバイク・セローにタンデムで走る２人の旅は、\r\n渋滞もなければ信号にも止められない、\r\nいまだかつてない自由なツーリング旅！\r\n\r\n2人の少女と1台のセローが\r\n滅んだ日本を駆け回る、\r\n異色のツーリングコミックがテレビアニメ化！\r\n\r\n世界も終わったし、\r\nバイクに乗って旅に出よう！",
+  "date": "2025-10-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/98/ec/539395_I5958.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/98/ec/539395_I5958.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 7604,
+    "total": 1242,
+    "count": {
+      "1": 1,
+      "2": 3,
+      "3": 16,
+      "4": 77,
+      "5": 253,
+      "6": 521,
+      "7": 297,
+      "8": 61,
+      "9": 10,
+      "10": 3
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "2025年10月",
+      "count": 419,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 341,
+      "total_cont": 0
+    },
+    {
+      "name": "末世",
+      "count": 317,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 302,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 288,
+      "total_cont": 0
+    },
+    {
+      "name": "公路片",
+      "count": 270,
+      "total_cont": 0
+    },
+    {
+      "name": "Nexus",
+      "count": 235,
+      "total_cont": 0
+    },
+    {
+      "name": "治愈",
+      "count": 181,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 178,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 166,
+      "total_cont": 0
+    },
+    {
+      "name": "公路",
+      "count": 147,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 121,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 105,
+      "total_cont": 0
+    },
+    {
+      "name": "德本善信",
+      "count": 53,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 22,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "轻百合",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "旅行",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "徳本善信",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "筆安一幸",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "笔安一幸",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "旅游",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "SF",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "10月",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "稲垣好",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "末日",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2025秋",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "轻百",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 3,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "539395"
+    },
+    {
+      "site": "nicovideo",
+      "id": "shumatsu-touring",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0234933",
+      "begin": "2025-10-07T14:30:00.000Z",
+      "broadcast": "R/2025-10-07T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-301",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "143929",
+      "begin": "2025-10-04T16:00:00.000Z",
+      "broadcast": "R/2025-10-04T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "28275",
+      "begin": "2025-10-04T14:30:00.000Z",
+      "broadcast": "R/2025-10-04T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "crunchyroll",
+      "id": "GT00364667",
+      "begin": "2025-10-04T00:00:00.000Z",
+      "broadcast": "R/2025-10-04T00:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "143929",
+      "begin": "2025-10-04T16:00:00.000Z",
+      "broadcast": "R/2025-10-04T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0FRQVK8B7",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "68e3e20baaf82561f9a74e46"
+    },
+    {
+      "site": "mikan",
+      "id": "3777"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/283935"
+    },
+    {
+      "site": "mal",
+      "id": "61072"
+    },
+    {
+      "site": "anidb",
+      "id": "19176"
+    },
+    {
+      "site": "aniList",
+      "id": "186920"
+    }
+  ]
+}

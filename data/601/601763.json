@@ -1,0 +1,164 @@
+{
+  "id": 601763,
+  "name": "お前はまだグンマを知らない～令和版～",
+  "name_cn": "你还是不懂群马～令和版～",
+  "summary": "あの『おまグン』が令和の世に復活――\r\n\r\nチバ県からグンマ県に引っ越すこととなった神月。引っ越し先の移動中、グンマ県在住の親友、轟へ連絡するが、「…来るな、グンマに来て生きて帰った者はいない」と告げられてしまう。\r\n\r\n一体グンマとはどんな地なのか？彼の身に何が降りかかろうとしているのか？圧倒的熱量で描かれる知られざる「グンマの真実」とは…\r\n\r\n",
+  "date": "2026-01-10",
+  "platform": "动态漫画",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/a9/b1/601763_H5y41.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/a9/b1/601763_H5y41.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 2,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 5.5
+  },
+  "tags": [
+    {
+      "name": "2026年1月",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "ImageworksStudio",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "动态漫画",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "井田ヒロト",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "イマジカインフォス",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2026春",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "笠間淳",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "梶原岳人",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "畳谷哲也",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "601763"
+    },
+    {
+      "site": "nicovideo",
+      "id": "omagun",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0232893",
+      "begin": "2026-01-15T13:00:00.000Z",
+      "broadcast": "R/2026-01-15T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/304126"
+    },
+    {
+      "site": "danime",
+      "id": "28531",
+      "begin": "2026-01-10T13:00:00.000Z",
+      "broadcast": "R/2026-01-10T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0G4625112",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mal",
+      "id": "62864"
+    },
+    {
+      "site": "anidb",
+      "id": "19821"
+    },
+    {
+      "site": "aniList",
+      "id": "202419"
+    }
+  ]
+}

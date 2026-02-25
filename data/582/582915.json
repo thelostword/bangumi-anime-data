@@ -1,0 +1,104 @@
+{
+  "id": 582915,
+  "name": "SHIBUYA♡HACHI 第4クール",
+  "name_cn": "涩谷♡八 第四部分",
+  "summary": "",
+  "date": "2025-10-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/b8/1e/582915_Q774W.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/b8/1e/582915_Q774W.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 0,
+    "total": 4,
+    "count": {
+      "1": 1,
+      "2": 1,
+      "3": 1,
+      "4": 1,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 2.5
+  },
+  "tags": [
+    {
+      "name": "日本",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025秋",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "续集",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本アニメーション",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "582915"
+    },
+    {
+      "site": "unext",
+      "id": "SID0236843",
+      "begin": "2025-10-08T22:30:00.000Z",
+      "broadcast": "R/2025-10-08T22:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "68e3e209aaf82561f9a74e38"
+    },
+    {
+      "site": "danime",
+      "id": "28259",
+      "begin": "2025-10-08T22:30:00.000Z",
+      "broadcast": "R/2025-10-08T22:30:00.000Z/P7D"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/246676"
+    }
+  ]
+}

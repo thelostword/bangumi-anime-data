@@ -1,0 +1,87 @@
+{
+  "id": 600439,
+  "name": "SEALOOK",
+  "name_cn": "",
+  "summary": "地球の果ての氷河の上でゆったりと過ごす、似ているけどそれぞれ違う個性を持つアザラシたち。\r\n100種類以上の個性的なアザラシの突拍子もなくにぎやかな日常生活を描いたショートアニメーション。\r\nかわいい鳴き声＆擬音と共に描かれるシュールな姿をぜひご覧ください。",
+  "date": "2025-10-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/7a/2f/600439_e3bge.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/7a/2f/600439_e3bge.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 0,
+    "total": 4,
+    "count": {
+      "1": 0,
+      "2": 1,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 3,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年10月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "子供向",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "600439"
+    },
+    {
+      "site": "nicovideo",
+      "id": "sealook",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "abema",
+      "id": "204-20",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "danime",
+      "id": "28296",
+      "begin": "2025-10-10T03:00:00.000Z",
+      "broadcast": "R/2025-10-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/219266"
+    },
+    {
+      "site": "prime",
+      "id": "B0FSYHS231",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 540453,
+  "name": "Duel Masters LOST ～忘却の太陽～",
+  "name_cn": "决斗大师 LOST ～忘却的太阳～",
+  "summary": "",
+  "date": "2026-02-06",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/86/0c/540453_DhzTd.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/86/0c/540453_DhzTd.jpg"
+  },
+  "eps": 4,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "J.C.STAFF",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "小学館ミュージック&デジタルエンタテイメント",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "福島利規",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "加藤陽一",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "540453"
+    },
+    {
+      "site": "unext",
+      "id": "SID0251576",
+      "begin": "2026-02-10T03:00:00.000Z",
+      "broadcast": "R/2026-02-10T03:00:00.000Z/P7D"
+    }
+  ]
+}

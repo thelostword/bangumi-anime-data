@@ -1,0 +1,230 @@
+{
+  "id": 555772,
+  "name": "地獄先生ぬ～べ～ 第2クール",
+  "name_cn": "地狱老师 第2部分",
+  "summary": "不可解な怪奇現象が多発している童守町。\r\n子どもたちを守るため、童守小学校に一人の教師が赴任してきた。\r\n5 年 3 組担任の鵺野鳴介、通称ぬ～べ～。\r\n普段は優しく、ちょっと抜けている彼には、日本でただ一人の霊能力教師という、もう一つの顔があった。\r\nその左手には鬼が宿るという噂も…!?\r\n生徒たちを襲う学園七不思議、妖怪や悪霊に、地獄からきた正義の使者が立ち向かう!\r\nオカルティックヒーローアクション開幕!\r\n\r\n中央で手を取りあおうとしているのは、少年時代のぬ～べ～とその時の担任教師・美奈子先生。そして襲い掛かろうとするような背後の大きな鬼は、地獄に住む最強の鬼・覇鬼（バキ）。必死に訴えかけるような表情のぬ～べ～からは、物語の壮絶さが感じられます。\r\n少年時代に何があったのか…、美奈子先生とは…、広や郷子たちも知らない“鬼の手の秘密”、そしてぬ～べ～の過去が第2クールでは明らかになります…！",
+  "date": "2026-01-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/a3/59/555772_2Z2L2.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/a3/59/555772_2Z2L2.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 46,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 1,
+      "4": 1,
+      "5": 9,
+      "6": 24,
+      "7": 8,
+      "8": 1,
+      "9": 1,
+      "10": 0
+    },
+    "score": 5.9
+  },
+  "tags": [
+    {
+      "name": "2026年1月",
+      "count": 32,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 22,
+      "total_cont": 0
+    },
+    {
+      "name": "StudioKAI",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "恐怖",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "地狱老师",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "大石康之",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "スタジオKAI",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "童年系列",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "续集",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "地獄先生ぬ～べ～",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "大草芳樹",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "靈異教師神眉",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未上映",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "黒沢ともよ",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "26冬",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "置鮎龍太郎",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "5分",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "悬疑",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "555772"
+    },
+    {
+      "site": "mikan",
+      "id": "3877"
+    },
+    {
+      "site": "nicovideo",
+      "id": "nube-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0200177",
+      "begin": "2026-01-07T02:45:00.000Z",
+      "broadcast": "R/2026-01-07T02:45:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "28106",
+      "begin": "2026-01-07T02:45:00.000Z",
+      "broadcast": "R/2026-01-07T02:45:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "1EkCNnz1XMDW",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "prime",
+      "id": "B0F9LQ1QTD",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mal",
+      "id": "61608"
+    },
+    {
+      "site": "anidb",
+      "id": "19321"
+    },
+    {
+      "site": "aniList",
+      "id": "191967"
+    }
+  ]
+}

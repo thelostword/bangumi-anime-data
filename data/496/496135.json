@@ -1,0 +1,211 @@
+{
+  "id": 496135,
+  "name": "ひゃくえむ。",
+  "name_cn": "百米。",
+  "summary": "因为天生跑得快，富㭴不只获得了「朋友」，还获得了「容身之处」。为了躲避残酷的现实，转学生小宫拼命地不断奔跑。为了教导小宫跑得更快的方法，富㭴邀请他下课后一起练习。找到了愿意投入的事情后，小宫全心地追求自己的纪录。此后两人在百米赛跑的领域里，发展出既是竞争对手又是好友的关系。\r\n几年后，以天才跑者闻名于世，却对自己必须持续获胜而感到害怕的富㭴的面前，出现了已经成为一流跑者的小宫——。\r\n\r\n\r\n\r\n[简介原文]\r\n生まれつき足が速く、「友達」も「居場所」も手に入れてきたトガシと、 辛い現実を忘れるため、ただがむしゃらに走っていた転校生の小宮。 トガシは、そんな小宮に速く走る方法を教え、放課後2 人で練習を重ねる。 打ち込むものを見つけ、貪欲に記録を追うようになる小宮。 次第に2人は100m走を通して、ライバルとも親友ともいえる関係になっていった。\r\n数年後、天才ランナーとして名を馳せるも、勝ち続けなければいけない恐怖に怯えるトガシの前に トップランナーの一人となった小宮が現れる――。",
+  "date": "2025-09-19",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/1a/31/496135_wVkYe.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/1a/31/496135_wVkYe.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 3086,
+    "total": 1510,
+    "count": {
+      "1": 6,
+      "2": 3,
+      "3": 13,
+      "4": 36,
+      "5": 87,
+      "6": 321,
+      "7": 632,
+      "8": 325,
+      "9": 64,
+      "10": 23
+    },
+    "score": 6.9
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 525,
+      "total_cont": 0
+    },
+    {
+      "name": "运动",
+      "count": 345,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 339,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 291,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 151,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 139,
+      "total_cont": 0
+    },
+    {
+      "name": "ロックンロール・マウンテン",
+      "count": 133,
+      "total_cont": 0
+    },
+    {
+      "name": "鱼丰",
+      "count": 130,
+      "total_cont": 0
+    },
+    {
+      "name": "剧情",
+      "count": 96,
+      "total_cont": 0
+    },
+    {
+      "name": "岩井澤健治",
+      "count": 67,
+      "total_cont": 0
+    },
+    {
+      "name": "岩井泽健治",
+      "count": 35,
+      "total_cont": 0
+    },
+    {
+      "name": "竞技",
+      "count": 35,
+      "total_cont": 0
+    },
+    {
+      "name": "动画电影",
+      "count": 32,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "ROCKNROLLMOUNTAIN",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ映画",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年9月",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "rock",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年10月",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "堤博明",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "RRM",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "电影",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "むとうやすゆき",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年7月",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "MOUNTAIN",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2020s",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "roll",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "NROLLMOUNTAIN",
+      "count": 3,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "496135"
+    },
+    {
+      "site": "netflix",
+      "id": "81785821",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3882"
+    },
+    {
+      "site": "mal",
+      "id": "58919"
+    },
+    {
+      "site": "anidb",
+      "id": "18648"
+    },
+    {
+      "site": "aniList",
+      "id": "177687"
+    }
+  ]
+}

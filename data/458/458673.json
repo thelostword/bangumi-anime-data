@@ -1,0 +1,237 @@
+{
+  "id": 458673,
+  "name": "青のオーケストラ 第2期",
+  "name_cn": "蓝色管弦乐 第二季",
+  "summary": "演奏することを辞めた元天才ヴァイオリニスト・青野が出会った高校のオーケストラ部の世界。個性豊かな仲間たちが情熱を音楽にのせて織りなす、青春のアンサンブルドラマ。\r\n世界的ヴァイオリニストである父のもとコンクールで活躍し、天才少年と呼ばれた青野 一。とある理由からヴァイオリンを封印して無気力になっていたが、中3の秋に同級生の秋音 律子との出会いをきっかけに音楽への情熱を取り戻す。青野は秋音とともにオーケストラ部のある海幕高校に進学するが、そこは強豪校の厳しい練習と、さまざまな悩みを抱えた部員たちが一つの音を作るためにぶつかり合う世界で…。",
+  "date": "2025-10-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/5b/7c/458673_2u555.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/5b/7c/458673_2u555.jpg"
+  },
+  "eps": 21,
+  "rating": {
+    "rank": 6043,
+    "total": 129,
+    "count": {
+      "1": 3,
+      "2": 1,
+      "3": 3,
+      "4": 11,
+      "5": 21,
+      "6": 35,
+      "7": 35,
+      "8": 13,
+      "9": 4,
+      "10": 3
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "音乐",
+      "count": 73,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 71,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年10月",
+      "count": 69,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 64,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 50,
+      "total_cont": 0
+    },
+    {
+      "name": "青春",
+      "count": 44,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 31,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "日本アニメーション",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "续集",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "岸誠二",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "NHK",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画公司",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "岸诚二",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本Animation",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "社团",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "NipponAnimation",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "千葉翔也",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "土屋神葉",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "秋冬半年番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改编",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "乐队",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "458673"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "136022",
+      "begin": "2025-10-06T06:00:00.000Z",
+      "broadcast": "R/2025-10-06T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "28252",
+      "begin": "2025-10-06T09:00:00.000Z",
+      "broadcast": "R/2025-10-06T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "68e3e1f8aaf82561f9a74de8"
+    },
+    {
+      "site": "unext",
+      "id": "SID0232901",
+      "begin": "2025-10-08T03:00:00.000Z",
+      "broadcast": "R/2025-10-08T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "136022",
+      "begin": "2025-10-06T06:00:00.000Z",
+      "broadcast": "R/2025-10-06T06:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3763"
+    },
+    {
+      "site": "abema",
+      "id": "142-8",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "disneyplus",
+      "id": "2gt2sWpbdw1j",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/197368/season/2"
+    }
+  ]
+}

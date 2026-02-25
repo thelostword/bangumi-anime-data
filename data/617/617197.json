@@ -1,0 +1,127 @@
+{
+  "id": 617197,
+  "name": "mofusand",
+  "name_cn": "",
+  "summary": "サメスーツを着た茶トラの猫「サメにゃん」\r\nちょっぴりどんくさくて、のんびり屋さんだけど、\r\n仲良しのお友だちや保護猫のちびにゃんと過ごす日々は、\r\nいつも小さなハプニングでいっぱい!\r\n公園のぽかぽか陽だまり、海のきらめき、\r\n焼き芋の湯気、初雪のドキドキ…\r\n毎日のほんのささやかな出来事が、\r\nサメにゃんたちをあったかく彩っていく。\r\nみているだけで思わず「あるある」と笑っちゃう!?\r\nほっこりゆるゆる系猫アニメ。",
+  "date": "2026-01-07",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/35/b1/617197_KSLw0.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/35/b1/617197_KSLw0.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 4,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 1,
+      "4": 1,
+      "5": 0,
+      "6": 0,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 3.8
+  },
+  "tags": [
+    {
+      "name": "2026",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年1月",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "追番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "圆神（主役）",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "作田ハズム",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "吉月生",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "anime",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "？",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "617197"
+    },
+    {
+      "site": "abema",
+      "id": "19-284",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "danime",
+      "id": "28614",
+      "begin": "2026-01-06T23:00:00.000Z",
+      "broadcast": "R/2026-01-06T23:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0252766",
+      "begin": "2026-01-06T23:00:00.000Z",
+      "broadcast": "R/2026-01-06T23:00:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0G96VJP58",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/308934-mofusand"
+    }
+  ]
+}

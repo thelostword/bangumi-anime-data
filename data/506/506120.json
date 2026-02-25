@@ -1,0 +1,211 @@
+{
+  "id": 506120,
+  "name": "アンデッドアンラック Winter編",
+  "name_cn": "不死不幸 冬季篇",
+  "summary": "　ユニオンを裏切り、円卓を手にしたビリー。UMAウィンターによる吹雪の中、オータム戦の報告を受け、不死と不運が進化していることを知る。そこにジュイスが現れ、古代遺物は神を倒すための武器であること、アークがあと1回のループしかできないことを明かし、共通の目的である“神を倒す”ために共に戦い不運に賭けようと説得を試みる。だがビリーは「俺達は組めない」と言い放つのだった。してアークとアポカリプスを手に入れようと画策していたビリーの思惑に気づくジュイスだが、UMAも入り乱れての激闘が始まってしまう。互いの正義に覚悟を決め、苛烈に迫るジュイスの剣に、他の否定者の能力と銃で対するビリー。ビリーが真に欲するものは何なのか——一方、オータムのコアを捕獲したアンディと風子は、空路でサマー討伐に向かっていた。だが、ジュイスがアポカリプスをアンディに託していたことがビリーに読まれ、放たれた刺客が空中から二人に襲い来る！\r\n",
+  "date": "2025-12-25",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/fc/b5/506120_1gOlU.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/fc/b5/506120_1gOlU.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 7029,
+    "total": 367,
+    "count": {
+      "1": 1,
+      "2": 1,
+      "3": 5,
+      "4": 18,
+      "5": 46,
+      "6": 187,
+      "7": 94,
+      "8": 14,
+      "9": 0,
+      "10": 1
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "战斗",
+      "count": 113,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 109,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 104,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 83,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 79,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 68,
+      "total_cont": 0
+    },
+    {
+      "name": "davidproduction",
+      "count": 61,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年1月",
+      "count": 54,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 51,
+      "total_cont": 0
+    },
+    {
+      "name": "不死不幸",
+      "count": 48,
+      "total_cont": 0
+    },
+    {
+      "name": "E&Hproduction",
+      "count": 42,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 41,
+      "total_cont": 0
+    },
+    {
+      "name": "朴性厚",
+      "count": 35,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 26,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 24,
+      "total_cont": 0
+    },
+    {
+      "name": "TVSP",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年12月",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "剧场版",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年10月",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年1月",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "E&H",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "Production",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "八瀬祐樹",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "OAD",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "超能力",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "中村悠一",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "JUMP",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "正常",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "506120"
+    },
+    {
+      "site": "prime",
+      "id": "B0G4SJQKZ6",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0250238",
+      "begin": "2025-12-25T16:10:00.000Z",
+      "broadcast": "R/2025-12-25T16:10:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "28433",
+      "begin": "2025-12-25T16:10:00.000Z",
+      "broadcast": "R/2025-12-25T16:10:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3872"
+    }
+  ]
+}

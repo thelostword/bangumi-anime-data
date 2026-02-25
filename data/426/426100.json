@@ -1,0 +1,259 @@
+{
+  "id": 426100,
+  "name": "TRIGUN STARGAZE",
+  "name_cn": "枪神 观星之人",
+  "summary": "自那场席卷世界，将整座城市推向毁灭边缘的「失落的七月」发生以来，已经过了两年半。\r\n\r\n成为资深记者的梅丽鲁．斯菲，与后辈记者米莉・汤普森一同持续搜寻威席的下落，并在过程中与尼古拉重逢。面对再度接连发生的生态动力炉「PLANT」强夺事件，她隐约感觉到是密利欧・奈布兹一派的阴影正在蠢蠢欲动。\r\n另一方面，在边境小镇以「艾利克斯」之名生活的威席，某日遇见了前来传达三号舰「家园」求救讯号的少女──洁西卡。为了保护珍视的人们，威席决心斩断过往的因缘。当彼此命运的齿轮再度咬合，故事重新开始转动之际，来自宇宙彼端的讯息骤然降临。\r\n「我们是来自地球的移民船团。自愿者，将能与我们一同前往新世界。」欢喜与兴奋瞬间席卷世界。然而，复活的独翼天使却像是在嘲弄这份希望，带来了无尽的恐怖与绝望。\r\n\r\n在化为狂乱深渊的行星上，命运终于迎来终章。\r\n\r\n\r\n\r\n[简介原文]\r\n世界を巻き込み、街ひとつをまるごと壊滅状態に追い込んだ〈ロスト・ジュライ〉から2年半。\r\n先輩記者となったメリルは、後輩・ミリィとともにヴァッシュの捜索を続ける中でニコラスと再会。再び発生し始めたプラント強奪事件に、ミリオンズ・ナイヴズ一派の影を感じていた。\r\n\r\n一方、辺境の町でエリクスと名を変え密やかに暮らしていたヴァッシュだったが、そこへ三番艦“ホーム”のSOSを告げる少女・ジェシカが現れる。大切な人々を守るため、因縁を断つことを決意するヴァッシュ――\r\n\r\nそれぞれの運命が噛み合い再び物語が動き出した時、宇宙の彼方から通信が降り注ぐ。「我々は地球からの移民船団。希望者は、我々と共に新天地へ向かうことができる――。」巻き起こる歓喜と興奮。しかしそれをあざ笑うように、蘇った片翼の天使が絶望と恐怖をもたらす。狂乱のるつぼとなった惑星で、運命は遂に決着する。",
+  "date": "2026-01-10",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/1c/94/426100_viPSH.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/1c/94/426100_viPSH.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 8416,
+    "total": 142,
+    "count": {
+      "1": 4,
+      "2": 2,
+      "3": 9,
+      "4": 18,
+      "5": 38,
+      "6": 50,
+      "7": 13,
+      "8": 4,
+      "9": 2,
+      "10": 2
+    },
+    "score": 5.3
+  },
+  "tags": [
+    {
+      "name": "2026年1月",
+      "count": 141,
+      "total_cont": 0
+    },
+    {
+      "name": "orange",
+      "count": 94,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 75,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 66,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 65,
+      "total_cont": 0
+    },
+    {
+      "name": "3D",
+      "count": 50,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 45,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 40,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 39,
+      "total_cont": 0
+    },
+    {
+      "name": "枪神",
+      "count": 32,
+      "total_cont": 0
+    },
+    {
+      "name": "TRIGUN",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 26,
+      "total_cont": 0
+    },
+    {
+      "name": "武藤健司",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "佐藤雅子",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "松岡禎丞",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "26冬",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "冒险",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "第二期",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "池田純矢",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "枪战",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "季番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "冬季",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "426100"
+    },
+    {
+      "site": "nicovideo",
+      "id": "trigun-anime2",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0251554",
+      "begin": "2026-01-10T14:30:00.000Z",
+      "broadcast": "R/2026-01-10T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "131293",
+      "begin": "2026-01-10T15:00:00.000Z",
+      "broadcast": "R/2026-01-10T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "131293",
+      "begin": "2026-01-10T15:00:00.000Z",
+      "broadcast": "R/2026-01-10T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "28580",
+      "begin": "2026-01-10T14:30:00.000Z",
+      "broadcast": "R/2026-01-10T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtQWYOfdcIjnWmxQY_K0o4Or",
+      "begin": "2026-01-10T15:00:06.000Z",
+      "broadcast": "R/2026-01-10T15:00:06.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JggUBXP_li2EfufYwIJ7q_A",
+      "begin": "2026-01-10T15:00:06.000Z",
+      "broadcast": "R/2026-01-10T15:00:06.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3851"
+    },
+    {
+      "site": "abema",
+      "id": "19-152",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "prime",
+      "id": "B0G2LN1CWK",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mal",
+      "id": "54863"
+    },
+    {
+      "site": "anidb",
+      "id": "17953"
+    },
+    {
+      "site": "aniList",
+      "id": "163144"
+    }
+  ]
+}

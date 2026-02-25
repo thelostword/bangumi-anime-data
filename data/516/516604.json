@@ -1,0 +1,189 @@
+{
+  "id": 516604,
+  "name": "ギルティホール",
+  "name_cn": "罪恶之渊",
+  "summary": "「お好きな教え子をお選びください…」\n\n残業続きの教師・佐々木の前に現れたのは『ギルティホール』。\n指名パネルに変わった下駄箱を前に、さすがに夢だと思い冗談で一人の教え子を指名すると、\n真夜中の教室に現れた彼女は、悪態をつきながら恥ずかしそうにこちらを見つめてきて…\n「さっさと終わらせるから。我慢するとか無しな。」\n\n教師と教え子、禁断のカンケイ…。\n全てが許される『ギルティホール』へようこそ――",
+  "date": "2025-10-05",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/30/a2/516604_Cy2CS.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/30/a2/516604_Cy2CS.jpg"
+  },
+  "eps": 8,
+  "rating": {
+    "rank": 8891,
+    "total": 189,
+    "score": 5.2,
+    "count": {
+      "1": 4,
+      "2": 5,
+      "3": 12,
+      "4": 24,
+      "5": 64,
+      "6": 56,
+      "7": 16,
+      "8": 5,
+      "9": 0,
+      "10": 3
+    }
+  },
+  "tags": [
+    {
+      "name": "WEB",
+      "count": 37
+    },
+    {
+      "name": "里番",
+      "count": 89
+    },
+    {
+      "name": "泡面番",
+      "count": 52
+    },
+    {
+      "name": "2025年10月",
+      "count": 47
+    },
+    {
+      "name": "彗星社",
+      "count": 44
+    },
+    {
+      "name": "僧侣档",
+      "count": 37
+    },
+    {
+      "name": "漫画改",
+      "count": 36
+    },
+    {
+      "name": "泡面里番",
+      "count": 23
+    },
+    {
+      "name": "2025",
+      "count": 23
+    },
+    {
+      "name": "师生",
+      "count": 19
+    },
+    {
+      "name": "漫改",
+      "count": 14
+    },
+    {
+      "name": "后宫",
+      "count": 14
+    },
+    {
+      "name": "JK",
+      "count": 12
+    },
+    {
+      "name": "泡面",
+      "count": 7
+    },
+    {
+      "name": "校园",
+      "count": 4
+    },
+    {
+      "name": "2025年",
+      "count": 3
+    },
+    {
+      "name": "骑兵",
+      "count": 2
+    },
+    {
+      "name": "日本",
+      "count": 2
+    },
+    {
+      "name": "TV",
+      "count": 2
+    },
+    {
+      "name": "里",
+      "count": 2
+    },
+    {
+      "name": "作画",
+      "count": 1
+    },
+    {
+      "name": "肉番",
+      "count": 1
+    },
+    {
+      "name": "R18",
+      "count": 1
+    },
+    {
+      "name": "恋爱",
+      "count": 1
+    },
+    {
+      "name": "肉",
+      "count": 1
+    },
+    {
+      "name": "季番",
+      "count": 1
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "516604"
+    },
+    {
+      "site": "nicovideo",
+      "id": "guilty_hall",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "68e3e1fbaaf82561f9a74df4"
+    },
+    {
+      "site": "unext",
+      "id": "SID0232899",
+      "begin": "2025-10-08T15:00:00.000Z",
+      "broadcast": "R/2025-10-08T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "28264",
+      "begin": "2025-10-08T15:00:00.000Z",
+      "broadcast": "R/2025-10-08T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "643-14",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3787"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/288577"
+    },
+    {
+      "site": "prime",
+      "id": "B0FJ5XSPS6",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mal",
+      "id": "62379"
+    }
+  ]
+}

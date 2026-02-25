@@ -1,0 +1,277 @@
+{
+  "id": 567417,
+  "name": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期",
+  "name_cn": "正义使者 -我的英雄学院之非法英雄- 第二季",
+  "summary": "灰回航一是一名对成为英雄怀抱憧憬但已放弃梦想的不起眼大学生，秘密嗜好是打扮成欧尔麦特的模样在街头游荡，假装自己是职业英雄来帮助他人。直到他遇见了两个人：一位自称为偶像的「POP☆STEP」，以及一位神秘的蒙面男子「手指虎」，自称为「专门对付垃圾的清道夫」。航一因此被卷入了「义警」的活动。这群以非法手段拯救人们的家伙，是扰乱秩序的犯罪者，还是秉持正义的自警团呢？「非法英雄」的故事，就此拉开序幕！\r\n\r\n\r\n\r\n[简介原文]\r\n灰廻航一はいまわりこういちは、ヒーローに憧れながらも夢を諦めた冴えない大学生。\r\nそんな彼の密かな楽しみは、オールマイトのコスプレ姿で街を徘徊し、プロヒーローを気取って人助けに勤しむことだった。\r\n平凡な毎日を送っていた航一だったが、無許可でゲリラライブを行う自称アイドル・ポップ☆ステップ、「クズ専門の“掃除屋”」を名乗る謎の覆面男・ナックルダスターに出会い、「ヴィジランテ」の活動に巻き込まれていく。\r\n非合法に人々を救ける彼らは、秩序を乱す犯罪者か、正義の自警団か。\r\n“非合法ヒーロー”「ヴィジランテ」の物語が幕を開ける―！",
+  "date": "2026-01-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/45/c8/567417_CE6zb.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/45/c8/567417_CE6zb.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 7987,
+    "total": 113,
+    "count": {
+      "1": 17,
+      "2": 5,
+      "3": 9,
+      "4": 7,
+      "5": 3,
+      "6": 8,
+      "7": 53,
+      "8": 7,
+      "9": 2,
+      "10": 2
+    },
+    "score": 5.4
+  },
+  "tags": [
+    {
+      "name": "2026年1月",
+      "count": 49,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 35,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 24,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 24,
+      "total_cont": 0
+    },
+    {
+      "name": "BONES",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "BONESFILM",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "剧场版",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "2020-2029",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "鈴木健一",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "铃木健一",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "ボンズフィルム",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "神作",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "吉田隆彦",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "冬季",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "辱华",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "超能力",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "長谷川育美",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "4分",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年10月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "HA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "黒田洋介",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "567417"
+    },
+    {
+      "site": "gamer",
+      "id": "146077",
+      "begin": "2026-01-05T14:00:00.000Z",
+      "broadcast": "R/2026-01-05T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "146077",
+      "begin": "2026-01-05T14:00:00.000Z",
+      "broadcast": "R/2026-01-05T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtRm9KBeq2awvPGqMLN6Z5Nk",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JgT6Kw39ziT46K_2Ns0HrUL",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "viu",
+      "id": "2875710",
+      "begin": "2026-01-05T14:00:52.000Z",
+      "broadcast": "R/2026-01-05T14:00:52.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "vigilante",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0181018",
+      "begin": "2026-01-05T14:00:00.000Z",
+      "broadcast": "R/2026-01-05T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "19-253",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "danime",
+      "id": "27888",
+      "begin": "2026-01-05T14:00:00.000Z",
+      "broadcast": "R/2026-01-05T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0F39HZ386",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "disneyplus",
+      "id": "6EBoaiACwh2M",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3880"
+    },
+    {
+      "site": "netflix",
+      "id": "82036361",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mal",
+      "id": "61942"
+    },
+    {
+      "site": "anidb",
+      "id": "19423"
+    },
+    {
+      "site": "aniList",
+      "id": "195322"
+    }
+  ]
+}

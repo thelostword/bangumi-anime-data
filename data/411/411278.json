@@ -1,0 +1,217 @@
+{
+  "id": 411278,
+  "name": "SAND LAND",
+  "name_cn": "沙漠大冒险",
+  "summary": "魔物も人間も水不足にあえぐ砂漠の世界で、\r\n悪魔の王子・ベルゼブブと保安官・ラオが手を組み、\r\n砂漠のどこかにある「幻の泉」を探す旅に出る。",
+  "date": "2023-08-18",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c7/47/411278_MDs05.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c7/47/411278_MDs05.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 47,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 0,
+      "5": 3,
+      "6": 10,
+      "7": 21,
+      "8": 10,
+      "9": 2,
+      "10": 0
+    },
+    "score": 6.9
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 34,
+      "total_cont": 0
+    },
+    {
+      "name": "2023",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "SUNRISE",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "鸟山明",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "神风动画",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "冒险",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "横嶋俊久",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "Anima",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "神風動画",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "森ハヤシ",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "横岛俊久",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "アニマ",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "サンライズ",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2023年夏",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "反战",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2023年7月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻冒险",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "空",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "尚未上映",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "3D",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "森迅史",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "军武",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "电影",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "411278"
+    },
+    {
+      "site": "unext",
+      "id": "SID0211419",
+      "begin": "2025-08-09T15:00:00.000Z",
+      "broadcast": "R/2025-08-09T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "sandland",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "tmdb",
+      "id": "movie/1062372"
+    },
+    {
+      "site": "mal",
+      "id": "53882"
+    },
+    {
+      "site": "anidb",
+      "id": "17770"
+    },
+    {
+      "site": "aniList",
+      "id": "158896"
+    }
+  ]
+}

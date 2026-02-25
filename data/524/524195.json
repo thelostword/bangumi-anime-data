@@ -1,0 +1,279 @@
+{
+  "id": 524195,
+  "name": "信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ！』します！",
+  "name_cn": "差点在迷宫深处被信任的伙伴杀掉，但靠着天赐技能「无限扭蛋」获得等级9999的伙伴，我要向前队友和世界展开复仇&「给他们好看！」",
+  "summary": "かつて女神が創りし9つの種族。その中でもっとも弱く、嘲笑される存在──人種（ヒューマン）。人種（ヒューマン）の少年・ライトは幸運にも9つの種族で編成されたパーティー『種族の集い』に迎えられ、幸せなひと時を過ごしていた。しかし、それは儚い幻想だった。彼を待っていたのは、世界最大最悪のダンジョン『奈落』での裏切り。奈落の底で生き延びたライトは、そこで己の恩恵（ギフト）『無限ガチャ』の真の力を知る。絶望の果てから這い上がり、ライトが築くのは最強の王国。唯一無二の恩恵（ギフト）『無限ガチャ』を手に、世界を揺るがす復讐劇が幕を開ける!!",
+  "date": "2025-10-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/41/c3/524195_PHt85.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/41/c3/524195_PHt85.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 9569,
+    "total": 1502,
+    "count": {
+      "1": 33,
+      "2": 52,
+      "3": 106,
+      "4": 297,
+      "5": 476,
+      "6": 395,
+      "7": 96,
+      "8": 25,
+      "9": 7,
+      "10": 15
+    },
+    "score": 5
+  },
+  "tags": [
+    {
+      "name": "2025年10月",
+      "count": 326,
+      "total_cont": 0
+    },
+    {
+      "name": "异世界",
+      "count": 324,
+      "total_cont": 0
+    },
+    {
+      "name": "J.C.STAFF",
+      "count": 258,
+      "total_cont": 0
+    },
+    {
+      "name": "轻小说改",
+      "count": 196,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 191,
+      "total_cont": 0
+    },
+    {
+      "name": "后宫",
+      "count": 171,
+      "total_cont": 0
+    },
+    {
+      "name": "复仇",
+      "count": 142,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 137,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 119,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 115,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 111,
+      "total_cont": 0
+    },
+    {
+      "name": "龙傲天",
+      "count": 99,
+      "total_cont": 0
+    },
+    {
+      "name": "轻改",
+      "count": 77,
+      "total_cont": 0
+    },
+    {
+      "name": "退队流",
+      "count": 61,
+      "total_cont": 0
+    },
+    {
+      "name": "厕纸",
+      "count": 41,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 24,
+      "total_cont": 0
+    },
+    {
+      "name": "長谷川育美",
+      "count": 24,
+      "total_cont": 0
+    },
+    {
+      "name": "正太",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "桜美かつし",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "樱美胜志",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "大野木寛",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "魔法",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2025秋",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "冒险",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "装逼",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2025.12.20",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "玉城仁菜",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "524195"
+    },
+    {
+      "site": "nicovideo",
+      "id": "mugengacha",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0234954",
+      "begin": "2025-10-03T15:00:00.000Z",
+      "broadcast": "R/2025-10-03T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "muse_tw",
+      "id": "PL12UaAf_xzfqQ1R7RXzTFkKSrO-W1O29y",
+      "begin": "2025-10-10T15:00:06.000Z",
+      "broadcast": "R/2025-10-10T15:00:06.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "420-74",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "144843",
+      "begin": "2025-10-03T15:00:00.000Z",
+      "broadcast": "R/2025-10-03T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "28329",
+      "begin": "2025-10-03T15:00:00.000Z",
+      "broadcast": "R/2025-10-03T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "viu",
+      "id": "2686359",
+      "begin": "2025-10-03T15:00:58.000Z",
+      "broadcast": "R/2025-10-03T15:00:58.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "144843",
+      "begin": "2025-10-03T15:00:00.000Z",
+      "broadcast": "R/2025-10-03T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3742"
+    },
+    {
+      "site": "disneyplus",
+      "id": "2bWFeHM2CphR",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "68e3e208aaf82561f9a74e32"
+    },
+    {
+      "site": "prime",
+      "id": "B0FQQMG846",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/278635"
+    },
+    {
+      "site": "mal",
+      "id": "60303"
+    },
+    {
+      "site": "anidb",
+      "id": "18989"
+    },
+    {
+      "site": "aniList",
+      "id": "184322"
+    },
+    {
+      "site": "netflix",
+      "id": "82153100",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

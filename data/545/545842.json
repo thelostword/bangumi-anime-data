@@ -1,0 +1,255 @@
+{
+  "id": 545842,
+  "name": "味方が弱すぎて補助魔法に徹していた宮廷魔法師、追放されて最強を目指す",
+  "name_cn": "队友太弱所以贯彻辅助的宫廷魔法师，惨遭流放目标却是最强",
+  "summary": "突然の“追放宣告”をきっかけに、再び運命の歯車が廻りだす——\r\n\r\n王太子 レグルス・ガルダナを陰で支える宮廷魔法師 アレク・ユグレット。\r\n\r\n弱すぎるレグルスを守るため「補助魔法」に徹していたはずが、突然の追放宣告で職を失ってしまう。\r\nそんなアレクの前に現れたのは、魔法学院時代にかつて“伝説”と謳われたパーティー「ラスティングピリオド」で\r\n共に戦った仲間のヨルハ・アイゼンツだった。\r\n\r\n「キミの力が必要なんだ！」\r\n\r\n伝説のパーティーが再集結し、新たな物語が幕をあける——\r\n\r\n始めよう、新しい伝説を。あの日の続きを。\r\n\r\nラスティングピリオド\r\n終わりなき日々を！",
+  "date": "2025-10-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ea/df/545842_AxVDu.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ea/df/545842_AxVDu.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 9674,
+    "total": 553,
+    "count": {
+      "1": 11,
+      "2": 13,
+      "3": 55,
+      "4": 159,
+      "5": 206,
+      "6": 86,
+      "7": 15,
+      "8": 4,
+      "9": 2,
+      "10": 2
+    },
+    "score": 4.6
+  },
+  "tags": [
+    {
+      "name": "2025年10月",
+      "count": 149,
+      "total_cont": 0
+    },
+    {
+      "name": "退队流",
+      "count": 116,
+      "total_cont": 0
+    },
+    {
+      "name": "异世界",
+      "count": 100,
+      "total_cont": 0
+    },
+    {
+      "name": "轻小说改",
+      "count": 82,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 78,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 61,
+      "total_cont": 0
+    },
+    {
+      "name": "月虹",
+      "count": 55,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 54,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 47,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 41,
+      "total_cont": 0
+    },
+    {
+      "name": "轻改",
+      "count": 40,
+      "total_cont": 0
+    },
+    {
+      "name": "厕纸",
+      "count": 40,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 36,
+      "total_cont": 0
+    },
+    {
+      "name": "梅田修一朗",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "高橋賢",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "筆安一幸",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "龙傲天",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "魔法",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "冒险",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "群像",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2025秋",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "屎",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "装逼",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "講談社",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "正常",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "一话弃",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "配种",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "545842"
+    },
+    {
+      "site": "unext",
+      "id": "SID0232898",
+      "begin": "2025-10-04T15:00:00.000Z",
+      "broadcast": "R/2025-10-04T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "218-832",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtSA5MgKJRq9ykt0wCgayrVL",
+      "begin": "2025-10-04T15:00:00.000Z",
+      "broadcast": "R/2025-10-04T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JjE60E-VU9vG2WX5y73ONWG",
+      "begin": "2025-10-04T15:00:00.000Z",
+      "broadcast": "R/2025-10-04T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "144367",
+      "begin": "2025-10-04T15:00:00.000Z",
+      "broadcast": "R/2025-10-04T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "crunchyroll",
+      "id": "GT00364918",
+      "begin": "2025-10-04T00:00:00.000Z",
+      "broadcast": "R/2025-10-04T00:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "144367",
+      "begin": "2025-10-04T15:00:00.000Z",
+      "broadcast": "R/2025-10-04T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "68e3e20baaf82561f9a74e44"
+    },
+    {
+      "site": "mikan",
+      "id": "3744"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/286984"
+    },
+    {
+      "site": "mal",
+      "id": "61276"
+    },
+    {
+      "site": "anidb",
+      "id": "19231"
+    },
+    {
+      "site": "aniList",
+      "id": "188487"
+    }
+  ]
+}

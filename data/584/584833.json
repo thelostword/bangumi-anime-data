@@ -1,0 +1,164 @@
+{
+  "id": 584833,
+  "name": "北斗の拳 拳王軍ザコたちの挽歌",
+  "name_cn": "北斗神拳 拳王军杂兵们的挽歌",
+  "summary": "199X年。主人公ノブが見つけた就職先は拳王軍で、志望者よりも死亡者が多い危険すぎる職場で、働くことになる。ババアに変装したザコやカサンドラのウイグル獄長、聖帝軍の“汚物は消毒の人”など個性豊かなザコが登場する。",
+  "date": "2026-01-05",
+  "platform": "动态漫画",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/52/55/584833_OzPPv.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/52/55/584833_OzPPv.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 6,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 0,
+      "6": 1,
+      "7": 2,
+      "8": 0,
+      "9": 1,
+      "10": 0
+    },
+    "score": 5.7
+  },
+  "tags": [
+    {
+      "name": "2026年1月",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "動楽",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "动态漫画",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "三浦大輔",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "下野紘",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "フロンティアワークス",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "長谷卓磨",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "齋藤佑馬",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "584833"
+    },
+    {
+      "site": "unext",
+      "id": "SID0251557",
+      "begin": "2026-01-12T11:00:00.000Z",
+      "broadcast": "R/2026-01-12T11:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "zakoban",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "abema",
+      "id": "117-42",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "danime",
+      "id": "28593",
+      "begin": "2026-01-12T11:00:00.000Z",
+      "broadcast": "R/2026-01-12T11:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3868"
+    },
+    {
+      "site": "mal",
+      "id": "61115"
+    },
+    {
+      "site": "anidb",
+      "id": "19188"
+    },
+    {
+      "site": "aniList",
+      "id": "187217"
+    }
+  ]
+}

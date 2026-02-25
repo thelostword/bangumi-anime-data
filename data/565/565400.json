@@ -1,0 +1,64 @@
+{
+  "id": 565400,
+  "name": "九藏喵窩日常篇",
+  "name_cn": "九藏喵窝 日常篇",
+  "summary": "在亞甸大陸上，有三股專門欺負喵喵（貓咪）們的邪惡勢力。為了保護了喵喵們，喵女神召喚三位勇士，並賜予他們神器，對抗惡勢力。這次的故事紀錄他們生活中各形各色的大小事。",
+  "date": "2025-07-08",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/76/e1/565400_5990Y.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/76/e1/565400_5990Y.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "tags": [
+    {
+      "name": "WEB",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "台湾",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "565400"
+    },
+    {
+      "site": "danime",
+      "id": "28168",
+      "begin": "2025-07-23T11:30:00.000Z",
+      "broadcast": "R/2025-07-23T11:30:00.000Z/P7D"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/296127/season/3"
+    }
+  ]
+}

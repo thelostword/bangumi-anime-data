@@ -1,0 +1,186 @@
+{
+  "id": 533246,
+  "name": "ChaO",
+  "name_cn": "ChaO，我代表人类跟人鱼结婚了",
+  "summary": "　サラリーマンのステファンは、人魚王国のお姫様・チャオに突然求婚されて……。種族、文化を超えて分かり合うためには何が必要なのかが問われる。",
+  "date": "2025-08-15",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/06/8a/533246_20WBZ.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/06/8a/533246_20WBZ.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 7567,
+    "total": 80,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 10,
+      "4": 10,
+      "5": 21,
+      "6": 26,
+      "7": 7,
+      "8": 3,
+      "9": 2,
+      "10": 1
+    },
+    "score": 5.4
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 59,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 41,
+      "total_cont": 0
+    },
+    {
+      "name": "Studio4℃",
+      "count": 35,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 33,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "青木康浩",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "动画电影",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ映画",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "治愈",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未上映",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未发售",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "村松崇継",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2020s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年剧场版",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "anime",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年8月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "水的作画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Studio",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "4℃",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2D",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "533246"
+    },
+    {
+      "site": "unext",
+      "id": "SID0236339",
+      "begin": "2025-09-26T03:00:00.000Z",
+      "broadcast": "R/2025-09-26T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "tmdb",
+      "id": "movie/1419053"
+    },
+    {
+      "site": "mal",
+      "id": "60774"
+    },
+    {
+      "site": "anidb",
+      "id": "19111"
+    },
+    {
+      "site": "aniList",
+      "id": "186169"
+    }
+  ]
+}

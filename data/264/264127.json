@@ -1,0 +1,144 @@
+{
+  "id": 264127,
+  "name": "宇宙の法 黎明編",
+  "name_cn": "宇宙之法 黎明篇",
+  "summary": "幸福の科学出版による長編アニメーション「UFO学園の秘密」の3年後の世界を描いたシリーズ第2作。3年前、悪質レプタリアンによる地球侵略を阻止した「チーム・フューチャー」のレイ、アンナ、タイラ、ハル、エイスケはナスカ学園を卒業し、ナスカ・ユニバーシティに進学。惑星連合からの応援を受けながら、レプタリアンたちと戦う日々を送っていた。そんな中、タイラが3年前の事件の黒幕である邪悪な宇宙人ダハールの罠に落ち、行方不明となってしまう。タイラを探し出すため、レイは3億3000万年前の地球へタイムジャンプを試みる。そこでは新たな文明の創造を計画していた始原の神アルファが、宇宙最強のザムザが率いるレプタリアンを地球に招き入れていた。千眼美子が新キャラとなるザムザ役の声を担当。監督は「カウボーイ・ビバップ」のセットデザインや「ルパン三世　DEAD OR ALIVE」のメカデザインなどで知られ、前作「UFO学園の秘密」も手がけた今掛勇。",
+  "date": "2018-10-12",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/73/bd/264127_33j8h.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/73/bd/264127_33j8h.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 10,
+    "count": {
+      "1": 5,
+      "2": 1,
+      "3": 2,
+      "4": 0,
+      "5": 1,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 2.8
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "2018",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "HSPICTURESSTUDIO",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "大川隆法",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "今掛勇",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2018年10月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "SF",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "HS_PICTURES_STUDIO",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "幸福の科学",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "今挂勇",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "柿原徹也",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "瀬戸麻沙美",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "逢坂良太",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2018年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "264127"
+    },
+    {
+      "site": "prime",
+      "id": "B07NHY9HWM",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "tmdb",
+      "id": "movie/551589"
+    }
+  ]
+}

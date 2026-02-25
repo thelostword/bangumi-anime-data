@@ -1,0 +1,239 @@
+{
+  "id": 562430,
+  "name": "綺麗にしてもらえますか。",
+  "name_cn": "能帮我弄干净吗？",
+  "summary": "温泉が湧き出る海辺の街・熱海。\r\n\r\n小さなクリーニング店を営む金目綿花奈さんは、\r\n明るくて働き者で温泉が大好きな女の子。\r\n彼女と彼女を巡る人々が織りなす、ひきこもごもストーリー、始まります。",
+  "date": "2026-01-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/49/a0/562430_8dO8T.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/49/a0/562430_8dO8T.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 7441,
+    "total": 750,
+    "count": {
+      "1": 6,
+      "2": 1,
+      "3": 14,
+      "4": 33,
+      "5": 136,
+      "6": 326,
+      "7": 202,
+      "8": 20,
+      "9": 5,
+      "10": 7
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "2026年1月",
+      "count": 399,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 322,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 311,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 236,
+      "total_cont": 0
+    },
+    {
+      "name": "OkurutoNoboru",
+      "count": 185,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 168,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 123,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 116,
+      "total_cont": 0
+    },
+    {
+      "name": "洗衣服",
+      "count": 87,
+      "total_cont": 0
+    },
+    {
+      "name": "铃代纱弓",
+      "count": 85,
+      "total_cont": 0
+    },
+    {
+      "name": "治愈",
+      "count": 73,
+      "total_cont": 0
+    },
+    {
+      "name": "大西健太",
+      "count": 65,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年",
+      "count": 28,
+      "total_cont": 0
+    },
+    {
+      "name": "待田堂子",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "2026冬",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "热海",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "职场",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "大姐姐",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "新作",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "梅田修一朗",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "星期一",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "职业",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "26冬",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "鈴代紗弓",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "1月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "追番",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2026春",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "治癒",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "562430"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kinishite",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "abema",
+      "id": "169-151",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "danime",
+      "id": "28523",
+      "begin": "2026-01-05T13:30:00.000Z",
+      "broadcast": "R/2026-01-05T13:30:00.000Z/P7D"
+    },
+    {
+      "site": "crunchyroll",
+      "id": "GT00365775",
+      "begin": "2026-01-05T00:00:00.000Z",
+      "broadcast": "R/2026-01-05T00:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3826"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/293144"
+    },
+    {
+      "site": "unext",
+      "id": "SID0255299",
+      "begin": "2026-01-08T15:00:00.000Z",
+      "broadcast": "R/2026-01-08T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "mal",
+      "id": "61782"
+    },
+    {
+      "site": "anidb",
+      "id": "19373"
+    },
+    {
+      "site": "aniList",
+      "id": "194028"
+    }
+  ]
+}

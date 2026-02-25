@@ -1,0 +1,213 @@
+{
+  "id": 618795,
+  "name": "学園アイドルマスター Story of Re;IRIS",
+  "name_cn": "学园偶像大师 Story of Re;IRIS",
+  "summary": "◤初星コミュ  TV放送決定！◢\r\n\r\nゲーム内の初星コミュを一部再編集した\r\n『学園アイドルマスター Story of Re;IRIS』が\r\nTOKYO MXにて、2026年１月１日(木)にTV放送決定\r\n\r\n✦キャスト特別番組\r\n✦学園アイドルマスター Story of Re;IRIS\r\nの特別な2本立て放送です✨\r\n\r\nキャスト特別番組は『TVer』でも配信しますよ?\r\n\r\nアイドル養成学校である初星学園に所属する3人のアイドルとプロデューサの出会いが起こす、青春と挫折と葛藤を描いた奇跡の物語。さらに！本編の放送に追加して、出演声優による学マス入門特別番組も！物語の一挙放送と、華やかなスタジオ特番を通して、『学園アイドルマスター』の世界をたっぷり味わえる新春6時間スペシャルです。",
+  "date": "2026-01-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/2b/2c/618795_kS9Rt.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/2b/2c/618795_kS9Rt.jpg"
+  },
+  "eps": 11,
+  "rating": {
+    "rank": 6941,
+    "total": 223,
+    "count": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 9,
+      "5": 57,
+      "6": 86,
+      "7": 47,
+      "8": 11,
+      "9": 1,
+      "10": 6
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "游戏改",
+      "count": 86,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年1月",
+      "count": 74,
+      "total_cont": 0
+    },
+    {
+      "name": "偶像",
+      "count": 65,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 63,
+      "total_cont": 0
+    },
+    {
+      "name": "偶像大师",
+      "count": 60,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 57,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 54,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 31,
+      "total_cont": 0
+    },
+    {
+      "name": "3D",
+      "count": 29,
+      "total_cont": 0
+    },
+    {
+      "name": "IM@S",
+      "count": 26,
+      "total_cont": 0
+    },
+    {
+      "name": "音乐",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "京极尚彦",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "伏见司",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "QualiArts",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "伏見つかさ",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "26冬",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "一挙放送",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "成长",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "三渲二",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "新祐樹",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "20s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "29-100",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "待标",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "618795"
+    },
+    {
+      "site": "nicovideo",
+      "id": "gakuen-idolmaster",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "danime",
+      "id": "28612",
+      "begin": "2026-01-01T15:00:00.000Z",
+      "broadcast": "R/2026-01-01T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0260374",
+      "begin": "2026-01-11T15:00:00.000Z",
+      "broadcast": "R/2026-01-11T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "13-205",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

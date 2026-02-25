@@ -1,0 +1,231 @@
+{
+  "id": 508958,
+  "name": "ワンダンス",
+  "name_cn": "绝妙舞步",
+  "summary": "自分の気持ちを上手く表現できない、\r\n吃音（きつおん）症の高校生・小谷花木（カボ）。 そんな彼が惹かれたのは、周りの目を気にせず\r\nダンスを追い求める同級生・湾田光利（ワンダ）。 ”なんか、自由になれる感じがするー\" 音楽によって引き出される、 感情、生い立ち、コンプレックスー\r\n言葉の要らない“フリースタイルな表現を求めて、\r\n未経験のダンスの世界に挑む！",
+  "date": "2025-10-08",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/d1/3c/508958_gMfH8.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/d1/3c/508958_gMfH8.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 7333,
+    "total": 1257,
+    "count": {
+      "1": 21,
+      "2": 11,
+      "3": 50,
+      "4": 82,
+      "5": 163,
+      "6": 380,
+      "7": 421,
+      "8": 109,
+      "9": 13,
+      "10": 7
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "2025年10月",
+      "count": 317,
+      "total_cont": 0
+    },
+    {
+      "name": "MADHouse",
+      "count": 311,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 288,
+      "total_cont": 0
+    },
+    {
+      "name": "运动",
+      "count": 256,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 249,
+      "total_cont": 0
+    },
+    {
+      "name": "街舞",
+      "count": 172,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 163,
+      "total_cont": 0
+    },
+    {
+      "name": "舞蹈",
+      "count": 148,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 134,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 125,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 116,
+      "total_cont": 0
+    },
+    {
+      "name": "青年向",
+      "count": 102,
+      "total_cont": 0
+    },
+    {
+      "name": "CYCLONEGRAPHICS",
+      "count": 66,
+      "total_cont": 0
+    },
+    {
+      "name": "加藤道哉",
+      "count": 32,
+      "total_cont": 0
+    },
+    {
+      "name": "羊宮妃那",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "青春",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "音乐",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "羊宫妃那",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2025秋",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "MADHouse·CYCLONEGRAPHICS",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日漫",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "羊宫妃娜",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "抽象",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "508958"
+    },
+    {
+      "site": "bilibili",
+      "id": "27682282",
+      "begin": "2025-10-08T15:15:00.000Z",
+      "broadcast": "R/2025-10-08T15:15:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "wandance",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "68e3e202aaf82561f9a74e14"
+    },
+    {
+      "site": "disneyplus",
+      "id": "4gmIbyTMUd9Y",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3783"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/262259"
+    },
+    {
+      "site": "mal",
+      "id": "59623"
+    },
+    {
+      "site": "anidb",
+      "id": "18823"
+    },
+    {
+      "site": "aniList",
+      "id": "180436"
+    }
+  ]
+}

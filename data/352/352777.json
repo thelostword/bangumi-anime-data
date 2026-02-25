@@ -1,0 +1,223 @@
+{
+  "id": 352777,
+  "name": "ディズニー ツイステッドワンダーランド ザ アニメーション エピソード オブ ハーツラビュル",
+  "name_cn": "迪士尼 扭曲仙境",
+  "summary": "＜ツイステッドワンダーランド＞、ここは魔法が存在する世界。この世界で伝説として語り継がれてきた偉大なる存在が＜グレート・セブン＞。ハートの女王、百獣の王、海の魔女、砂漠の魔術師、美しき女王、死者の国の王、茨の魔女。そして＜ツイステッドワンダーランド＞において、名門魔法士養成学校として君臨し、これまで優秀な魔法士を多く輩出してきたのが「ナイトレイブンカレッジ」。学園長の下には「グレート・セブン」に倣った7つの寮が存在し、それぞれを7人の寮長が束ねている。7寮長の一人が＜ハートの女王＞の厳格な精神に基づく・ハーツラビュル寮の寮長・リドル・ローズハート。“真紅の暴君”・リドルは、寮生たちを“ハートの女王の法律”によって厳格に支配し苦しめていく。リドルはなぜ“暴君”となってしまったのか、彼が囚われているものとは―──",
+  "date": "2025-10-29",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/96/b1/352777_89O7W.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/96/b1/352777_89O7W.jpg"
+  },
+  "eps": 8,
+  "rating": {
+    "rank": 8899,
+    "total": 112,
+    "count": {
+      "1": 4,
+      "2": 6,
+      "3": 11,
+      "4": 19,
+      "5": 34,
+      "6": 19,
+      "7": 14,
+      "8": 2,
+      "9": 1,
+      "10": 2
+    },
+    "score": 4.9
+  },
+  "tags": [
+    {
+      "name": "游戏改",
+      "count": 51,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年10月",
+      "count": 36,
+      "total_cont": 0
+    },
+    {
+      "name": "女性向",
+      "count": 33,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "Graphinica",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "迪士尼",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "ゆめたカンパニー",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "异世界",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "名取孝浩",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "片贝慎",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "手游改",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "梦太公司",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "片貝慎",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "花江夏樹",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "穿越",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "魔法",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "山下誠一郎",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "中性角色",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "グラフィニカ",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "阿座上洋平",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "腐向",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "352777"
+    },
+    {
+      "site": "disneyplus",
+      "id": "1m1SabYIfXvf",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bilibili",
+      "id": "27709259",
+      "begin": "2025-10-29T07:00:00.000Z",
+      "broadcast": "R/2025-10-29T07:00:00.000Z/P7D"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/136342"
+    },
+    {
+      "site": "abema",
+      "id": "182-1479",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mal",
+      "id": "50139"
+    },
+    {
+      "site": "anidb",
+      "id": "16908"
+    },
+    {
+      "site": "aniList",
+      "id": "140291"
+    }
+  ]
+}

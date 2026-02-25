@@ -1,0 +1,199 @@
+{
+  "id": 481530,
+  "name": "ポケモンコンシェルジュ 新エピソード",
+  "name_cn": "宝可梦 礼宾部 新剧集",
+  "summary": "Netflixシリーズ「ポケモンコンシェルジュ」の新エピソードを制作中！\r\nハルとコダックが次にお迎えするのはどんなポケモンかな？\r\n今後の発表を楽しみに待っていてね。",
+  "date": "2025-09-04",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/a9/b9/481530_66tTh.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/a9/b9/481530_66tTh.jpg"
+  },
+  "eps": 4,
+  "rating": {
+    "rank": 3242,
+    "total": 55,
+    "count": {
+      "1": 2,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 14,
+      "7": 31,
+      "8": 5,
+      "9": 2,
+      "10": 0
+    },
+    "score": 6.7
+  },
+  "tags": [
+    {
+      "name": "2025",
+      "count": 24,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "宝可梦",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "dwarfstudios",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "定格动画",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "Netflix",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "小川育",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "pokemon",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "治愈",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年9月",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "anime",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "能年玲奈",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "Dwarf",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "精灵宝可梦",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "人设",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "土城温美",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "情感",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年10月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "神奇宝贝",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Studios",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "481530"
+    },
+    {
+      "site": "netflix",
+      "id": "81186864",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/221301"
+    }
+  ]
+}

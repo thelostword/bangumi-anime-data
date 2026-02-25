@@ -1,0 +1,149 @@
+{
+  "id": 486477,
+  "name": "KING OF PRISM -Dramatic PRISM.1-",
+  "name_cn": "",
+  "summary": "ドラマチックなプリズムショーの世界へようこそ！累計128万人の心をときめかせた大ヒット劇場アニメシリーズ「KING OF PRISM」がスクリーンに帰ってくる！ワクワクとドキドキが止まらない60分のエンタテインメントショーで、あなたの世界はきっと輝く！プリズムショー。それは歌、ダンス、プリズムジャンプを組み合わせた総合エンタテインメントショー！「KING OF PRISM」とは、そんなプリズムショーに魅了された個性豊かな男の子たちが、観客をもっともトキめかせる“プリズムスタァ”を目指して様々な試練や困難に立ち向かい成長していく物語。今作では2019年に劇場公開＆TV放送された「KING OF PRISM -Shiny Seven Stars-」を、新規パートを加えて再構成。プリズムショーの魅力を最大限に、新たな劇場版としてお届けします。“プリズムスタァ”を目指す少年たちが挑戦するのは、新たなプリズムショーチャンピオンシップ「PRISM.1」。エーデルローズ、シュワルツローズの両陣営から選りすぐりのメンバーが、数々の激闘（ショー）を繰り広げます。ときにつまずきながら、それでも自らをさらけ出し、高みを目指し飛躍してゆく少年たちの煌めきは観る人の心を揺さぶりその世界を鮮やかに彩りつづけます。さらにシリーズ屈指のあの名曲を新たにCGライブ化！動き出した心のトキメキはもう止まらない──とびきりドラマチックなプリズムショーの世界へとあなたをお連れします！",
+  "date": "2024-08-16",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/cf/49/486477_r8adY.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/cf/49/486477_r8adY.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 9,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 4,
+      "5": 2,
+      "6": 2,
+      "7": 0,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.1
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "Pretty系列",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "タツノコプロ",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "美妙系列",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2020s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "龙之子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "寺島惇太",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "斉藤壮馬",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "子供向",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "菱田正和",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "表",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "畠中祐",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "486477"
+    },
+    {
+      "site": "nicovideo",
+      "id": "dramatic_prism1",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "danime",
+      "id": "27989",
+      "begin": "2025-06-01T01:00:00.000Z",
+      "broadcast": "R/2025-06-01T01:00:00.000Z/P7D"
+    },
+    {
+      "site": "tmdb",
+      "id": "movie/1337268"
+    },
+    {
+      "site": "unext",
+      "id": "SID0186019",
+      "begin": "2025-05-01T01:00:00.000Z",
+      "broadcast": "R/2025-05-01T01:00:00.000Z/P7D"
+    },
+    {
+      "site": "anidb",
+      "id": "18553"
+    },
+    {
+      "site": "aniList",
+      "id": "176275"
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "id": 597809,
+  "name": "ハイスクール！奇面組",
+  "name_cn": "高校奇面组",
+  "summary": "一応中学に通う一堂零、冷越豪、出瀬潔、大間仁、物星大の5人は、中学で留年するなど、それぞれが個性豊かでハチャメチャな性格をしており、周りからは名物集団“奇面組”として一目を置かれていた。転校生の河川唯はクラスメイトの宇留千絵と共に、“奇面組”の姿を目撃し、気になる存在として彼らと行動を共にするようになる。また、一応中学には切出翔率いる女子に人気の“色男組”、似蛭田妖率いる不良グループ“番組”、雲童塊率いるスポーツが得意な“腕組”、天野邪子率いるスケ番集団“御女組”など個性的な集団が集まっていた。出会いからあっという間に時は流れ、彼らは新しい春を迎え───。",
+  "date": "2026-01-09",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/17/2e/597809_xA81Z.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/17/2e/597809_xA81Z.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 9013,
+    "total": 84,
+    "count": {
+      "1": 1,
+      "2": 5,
+      "3": 15,
+      "4": 15,
+      "5": 32,
+      "6": 9,
+      "7": 3,
+      "8": 1,
+      "9": 1,
+      "10": 2
+    },
+    "score": 4.6
+  },
+  "tags": [
+    {
+      "name": "2026年1月",
+      "count": 48,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 29,
+      "total_cont": 0
+    },
+    {
+      "name": "Seven",
+      "count": 26,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "老番重制",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "关和亮",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "関智一",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "村越繁",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "小林千晃",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "松岡禎丞",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "无厘头",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "セブン",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "関和亮",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "重制",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "喜剧",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2020-2029",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "一月番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "高校奇面组",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "季",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "冬季",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "铃代纱弓",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "597809"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kimengumi",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0251555",
+      "begin": "2026-01-10T03:00:00.000Z",
+      "broadcast": "R/2026-01-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "19-283",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "147821",
+      "begin": "2026-01-09T16:00:00.000Z",
+      "broadcast": "R/2026-01-09T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "147821",
+      "begin": "2026-01-09T16:00:00.000Z",
+      "broadcast": "R/2026-01-09T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/308142"
+    },
+    {
+      "site": "danime",
+      "id": "28607",
+      "begin": "2026-01-10T03:00:00.000Z",
+      "broadcast": "R/2026-01-10T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "tropics",
+      "id": "PLoGVqODys23BqNq4bNV2KvIfk1rXFkMjk",
+      "begin": "2026-01-09T16:00:07.000Z",
+      "broadcast": "R/2026-01-09T16:00:07.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3830"
+    },
+    {
+      "site": "prime",
+      "id": "B0G56K9LMK",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mal",
+      "id": "62804"
+    },
+    {
+      "site": "anidb",
+      "id": "19657"
+    },
+    {
+      "site": "aniList",
+      "id": "200556"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "id": 529966,
+  "name": "らんま1/2 第2期",
+  "name_cn": "乱马1/2 第二季",
+  "summary": "早乙女乱馬と、 天道道場三女の天道あかねは親が決めた許婚同士。\r\nしかし乱馬にはある悩みが…。\r\n中国での修行中、伝説の修行場「呪泉郷」に落ちてしまい、\r\n水をかぶると女に、\r\nお湯をかぶると男に戻る\r\nという、不思議な体質になってしまっていた！？\r\n乱馬とあかね、そして個性豊かな\r\nキャラクターたちが繰り広げる\r\nドタバタ格闘ラブコメディー、\r\nここに開幕！",
+  "date": "2025-10-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/a3/5e/529966_uzkZd.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/a3/5e/529966_uzkZd.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 1528,
+    "total": 2415,
+    "count": {
+      "1": 3,
+      "2": 2,
+      "3": 2,
+      "4": 7,
+      "5": 50,
+      "6": 239,
+      "7": 1183,
+      "8": 826,
+      "9": 74,
+      "10": 29
+    },
+    "score": 7.3
+  },
+  "tags": [
+    {
+      "name": "MAPPA",
+      "count": 613,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 589,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年10月",
+      "count": 586,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 534,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 460,
+      "total_cont": 0
+    },
+    {
+      "name": "喜剧",
+      "count": 406,
+      "total_cont": 0
+    },
+    {
+      "name": "性转",
+      "count": 335,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 328,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 322,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 285,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 250,
+      "total_cont": 0
+    },
+    {
+      "name": "高桥留美子",
+      "count": 201,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 183,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 177,
+      "total_cont": 0
+    },
+    {
+      "name": "重制",
+      "count": 139,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 36,
+      "total_cont": 0
+    },
+    {
+      "name": "宇田钢之介",
+      "count": 28,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 22,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "宇田鋼之介",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "乱马",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "季番",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "林原めぐみ",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "日髙のり子",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "乱马1",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "重置",
+      "count": 4,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "529966"
+    },
+    {
+      "site": "netflix",
+      "id": "81171925",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "68e3e20daaf82561f9a74e50"
+    },
+    {
+      "site": "mikan",
+      "id": "3741"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/259140"
+    },
+    {
+      "site": "unext",
+      "id": "SID0256626",
+      "begin": "2025-12-31T15:00:00.000Z",
+      "broadcast": "R/2025-12-31T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "28617",
+      "begin": "2025-12-31T15:00:00.000Z",
+      "broadcast": "R/2025-12-31T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0G5P983H8",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

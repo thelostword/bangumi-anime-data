@@ -1,0 +1,291 @@
+{
+  "id": 476323,
+  "name": "父は英雄、母は精霊、娘の私は転生者。",
+  "name_cn": "转生后的我成了英雄爸爸和精灵妈妈的女儿",
+  "summary": "現代日本から転生した、\r\n精霊の少女エレン。\r\n精霊界で暮らす8歳の少女・エレンは、元々現代日本で科学者をしていた転生者。\r\n物質を化合させたり、構造配列を好きに変えられるというチートスキルを持つ。\r\nそして、父・ロヴェルは国を救った伝説の英雄、母・オリジンは元始の母にして精霊の女王！\r\n一家は、精霊界で穏やかな日々を過ごしていたが、ロヴェルとエレンが修行のために人間界を訪れた事をきっかけに、\r\n王家の陰謀に巻き込まれてゆく――\r\n精霊の力を手中に収めようとするラヴィスエル王子の策略に、 エレンは前世の知識と圧倒的チートで対抗する！\r\n「腹黒さんの宣戦布告ですね。\r\n受けて立ちましょう！」\r\n最強才女の痛快舌戦ファンタジー！",
+  "date": "2025-10-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/6b/ea/476323_2162T.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/6b/ea/476323_2162T.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 9826,
+    "total": 670,
+    "count": {
+      "1": 36,
+      "2": 80,
+      "3": 121,
+      "4": 187,
+      "5": 134,
+      "6": 82,
+      "7": 20,
+      "8": 5,
+      "9": 2,
+      "10": 3
+    },
+    "score": 4
+  },
+  "tags": [
+    {
+      "name": "2025年10月",
+      "count": 177,
+      "total_cont": 0
+    },
+    {
+      "name": "异世界",
+      "count": 157,
+      "total_cont": 0
+    },
+    {
+      "name": "J.C.STAFF",
+      "count": 113,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 104,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 101,
+      "total_cont": 0
+    },
+    {
+      "name": "轻小说改",
+      "count": 100,
+      "total_cont": 0
+    },
+    {
+      "name": "厕纸",
+      "count": 98,
+      "total_cont": 0
+    },
+    {
+      "name": "凤傲天",
+      "count": 84,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 67,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 60,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 54,
+      "total_cont": 0
+    },
+    {
+      "name": "轻改",
+      "count": 36,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 31,
+      "total_cont": 0
+    },
+    {
+      "name": "转生",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "中原麻衣",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "龙傲天",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "深川芹亜",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "萝莉",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "魔法",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "福島利規",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "治愈",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "精灵",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2025秋",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "興津和幸",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "穿越",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "节操社",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "福岛利规",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "476323"
+    },
+    {
+      "site": "bilibili",
+      "id": "27721697",
+      "begin": "2025-10-05T14:30:00.000Z",
+      "broadcast": "R/2025-10-05T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "hahanoha-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0234935",
+      "begin": "2025-10-08T15:00:00.000Z",
+      "broadcast": "R/2025-10-08T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtQZnaFtRIk-hW8wFlfYwWp_",
+      "begin": "2025-10-05T15:30:00.000Z",
+      "broadcast": "R/2025-10-05T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jiu6HlKwcOdoXw3VczOGSw-",
+      "begin": "2025-10-05T15:30:00.000Z",
+      "broadcast": "R/2025-10-05T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "27851214",
+      "begin": "2025-10-05T14:30:00.000Z",
+      "broadcast": "R/2025-10-05T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "28255",
+      "begin": "2025-10-05T15:00:00.000Z",
+      "broadcast": "R/2025-10-05T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "crunchyroll",
+      "id": "GT00364479",
+      "begin": "2025-10-05T00:00:00.000Z",
+      "broadcast": "R/2025-10-05T00:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "137498",
+      "begin": "2025-10-05T15:30:00.000Z",
+      "broadcast": "R/2025-10-05T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "137498",
+      "begin": "2025-10-05T15:30:00.000Z",
+      "broadcast": "R/2025-10-05T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "68e3e1faaaf82561f9a74df0"
+    },
+    {
+      "site": "mikan",
+      "id": "3753"
+    },
+    {
+      "site": "abema",
+      "id": "143-65",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/280048"
+    },
+    {
+      "site": "prime",
+      "id": "B0FF5RX13H",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mal",
+      "id": "57888"
+    },
+    {
+      "site": "anidb",
+      "id": "18437"
+    },
+    {
+      "site": "aniList",
+      "id": "173692"
+    },
+    {
+      "site": "netflix",
+      "id": "82662100",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "id": 473832,
+  "name": "劇場版 BanG Dream! It's MyGO!!!!! 前編 春の陽だまり、迷い猫",
+  "name_cn": "剧场版 BanG Dream! It's MyGO!!!!! 前篇 春日向阳，迷途野猫",
+  "summary": "TVアニメ「BanG Dream! It's MyGO!!!!!」の新作劇場版となる、劇場版「BanG Dream! It's MyGO!!!!!」の制作が決定いたしました。\r\n\r\n新規カットを含むTVシリーズの再編集劇場版となっており、前編・後編の2024年内公開を予定しております。\r\n\r\n後編では本編に加え、新作FILM LIVEも上映いたします。",
+  "date": "2024-09-27",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/68/62/473832_5lQ5Q.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/68/62/473832_5lQ5Q.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 2987,
+    "total": 404,
+    "count": {
+      "1": 7,
+      "2": 2,
+      "3": 1,
+      "4": 7,
+      "5": 20,
+      "6": 79,
+      "7": 180,
+      "8": 83,
+      "9": 7,
+      "10": 18
+    },
+    "score": 6.9
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 256,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 157,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 145,
+      "total_cont": 0
+    },
+    {
+      "name": "总集篇",
+      "count": 135,
+      "total_cont": 0
+    },
+    {
+      "name": "BanGDream",
+      "count": 125,
+      "total_cont": 0
+    },
+    {
+      "name": "音乐",
+      "count": 121,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 83,
+      "total_cont": 0
+    },
+    {
+      "name": "MYGO",
+      "count": 73,
+      "total_cont": 0
+    },
+    {
+      "name": "乐队",
+      "count": 61,
+      "total_cont": 0
+    },
+    {
+      "name": "SANZIGEN",
+      "count": 57,
+      "total_cont": 0
+    },
+    {
+      "name": "邦邦",
+      "count": 42,
+      "total_cont": 0
+    },
+    {
+      "name": "三次元",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "羊宮妃那",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "3D",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "未开播",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "柿本广大",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "柿本広大",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "サンジゲン",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "轻百合",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "Bushiroad",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2020s",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年9月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "青春",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "MyGO!!!!!",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "偶像",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年10月",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "473832"
+    },
+    {
+      "site": "unext",
+      "id": "SID0255959",
+      "begin": "2026-01-15T15:00:00.000Z",
+      "broadcast": "R/2026-01-15T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "mygo-movie-bang-dream",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "id": 285757,
+  "name": "ワンパンマン 第3期",
+  "name_cn": "一拳超人 第三季",
+  "summary": "趣味でヒーローを始めた男、サイタマ。3年間の特訓により無敵のパワーを手に入れ、あらゆる敵を一撃（ワンパン）で倒すヒーローである。ひょんなことから弟子となったジェノスと共にヒーロー協会で正式なヒーロー活動を開始する。突如現れた怪人協会に幹部の子供を人質に取られてしまったヒーロー協会。S級ヒーロー達が集まり、人質奪還のために怪人協会のアジトへの突入作戦が練られる。一方、人間怪人ガロウは怪人協会のアジトで目を覚ます。",
+  "date": "2025-10-12",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/5a/63/285757_VvaRn.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/5a/63/285757_VvaRn.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 9781,
+    "total": 2634,
+    "count": {
+      "1": 111,
+      "2": 121,
+      "3": 362,
+      "4": 731,
+      "5": 708,
+      "6": 422,
+      "7": 119,
+      "8": 40,
+      "9": 6,
+      "10": 14
+    },
+    "score": 4.5
+  },
+  "tags": [
+    {
+      "name": "J.C.STAFF",
+      "count": 565,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 518,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年10月",
+      "count": 502,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 491,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 447,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 430,
+      "total_cont": 0
+    },
+    {
+      "name": "一拳超人",
+      "count": 347,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 312,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 296,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 234,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 213,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 201,
+      "total_cont": 0
+    },
+    {
+      "name": "ONE",
+      "count": 116,
+      "total_cont": 0
+    },
+    {
+      "name": "续集",
+      "count": 101,
+      "total_cont": 0
+    },
+    {
+      "name": "永居慎平",
+      "count": 42,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 28,
+      "total_cont": 0
+    },
+    {
+      "name": "未确定",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "龙傲天",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "热血战斗",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "鈴木智尋",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "第三季",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "季番",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "10月",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "25秋",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "群像",
+      "count": 3,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "285757"
+    },
+    {
+      "site": "muse_tw",
+      "id": "PL12UaAf_xzfoB5Z9O_rA_Hkioi2PNVNI6",
+      "begin": "2025-10-12T15:15:06.000Z",
+      "broadcast": "R/2025-10-12T15:15:06.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0234952",
+      "begin": "2025-10-05T16:30:00.000Z",
+      "broadcast": "R/2025-10-05T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "28333",
+      "begin": "2025-10-05T16:30:00.000Z",
+      "broadcast": "R/2025-10-05T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "126514",
+      "begin": "2025-10-05T16:15:00.000Z",
+      "broadcast": "R/2025-10-05T16:15:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "126514",
+      "begin": "2025-10-05T16:15:00.000Z",
+      "broadcast": "R/2025-10-05T16:15:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "68e3e1fbaaf82561f9a74df2"
+    },
+    {
+      "site": "mikan",
+      "id": "3739"
+    },
+    {
+      "site": "crunchyroll",
+      "id": "G63K98PZ6",
+      "begin": "2025-10-05T16:15:00.000Z",
+      "broadcast": "R/2025-10-05T16:15:00.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "1x8GPWt9gtZ5",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "viu",
+      "id": "2689636",
+      "begin": "2025-10-12T15:15:59.000Z",
+      "broadcast": "R/2025-10-12T15:15:59.000Z/P7D",
+      "comment": "粵語版: 2873541"
+    },
+    {
+      "site": "prime",
+      "id": "B0FMNVNR17",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/63926/season/3"
+    },
+    {
+      "site": "mal",
+      "id": "52807"
+    },
+    {
+      "site": "anidb",
+      "id": "17576"
+    },
+    {
+      "site": "aniList",
+      "id": "153800"
+    }
+  ]
+}

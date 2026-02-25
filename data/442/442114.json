@@ -1,0 +1,209 @@
+{
+  "id": 442114,
+  "name": "罗小黑战记2",
+  "name_cn": "罗小黑战记2",
+  "summary": "小黑跟随师父在小镇上过着安宁日子，分会馆遇袭，打破了妖精世界维系多年的和平，来自妖灵会馆的“全新任务”也让两人陷入分离危机，更让师父无限的处境发生翻天覆地的变化。面对环环相扣的谜团，小黑与师姐鹿野共同开启了寻找真相的新冒险。这一次小黑能否经受住考验，顺利保护师父化险为夷？",
+  "date": "2025-07-18",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/86/e5/442114_nSSO1.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/86/e5/442114_nSSO1.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 563,
+    "total": 2880,
+    "count": {
+      "1": 39,
+      "2": 7,
+      "3": 4,
+      "4": 12,
+      "5": 45,
+      "6": 165,
+      "7": 737,
+      "8": 1311,
+      "9": 396,
+      "10": 164
+    },
+    "score": 7.7
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 721,
+      "total_cont": 0
+    },
+    {
+      "name": "国产",
+      "count": 597,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 498,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 440,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 422,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 395,
+      "total_cont": 0
+    },
+    {
+      "name": "罗小黑战记",
+      "count": 296,
+      "total_cont": 0
+    },
+    {
+      "name": "冒险",
+      "count": 223,
+      "total_cont": 0
+    },
+    {
+      "name": "治愈",
+      "count": 188,
+      "total_cont": 0
+    },
+    {
+      "name": "中国",
+      "count": 174,
+      "total_cont": 0
+    },
+    {
+      "name": "喜剧",
+      "count": 116,
+      "total_cont": 0
+    },
+    {
+      "name": "萌系",
+      "count": 113,
+      "total_cont": 0
+    },
+    {
+      "name": "寒木春华",
+      "count": 97,
+      "total_cont": 0
+    },
+    {
+      "name": "国产动画",
+      "count": 70,
+      "total_cont": 0
+    },
+    {
+      "name": "国漫",
+      "count": 64,
+      "total_cont": 0
+    },
+    {
+      "name": "动画电影",
+      "count": 34,
+      "total_cont": 0
+    },
+    {
+      "name": "MTJJ",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年7月",
+      "count": 22,
+      "total_cont": 0
+    },
+    {
+      "name": "电影",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "顾杰",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "打拳",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "院线",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "萌",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "中国动画",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "好猫配贱人",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "弃养",
+      "count": 4,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "442114"
+    },
+    {
+      "site": "mikan",
+      "id": "3803"
+    },
+    {
+      "site": "tmdb",
+      "id": "movie/1144107"
+    },
+    {
+      "site": "mal",
+      "id": "61952"
+    },
+    {
+      "site": "anidb",
+      "id": "19721"
+    },
+    {
+      "site": "aniList",
+      "id": "166475"
+    }
+  ]
+}

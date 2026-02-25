@@ -1,0 +1,127 @@
+{
+  "id": 178662,
+  "name": "風のように",
+  "name_cn": "像风一样",
+  "summary": "日本中、花を求めて旅をする養蜂家一家のトラックが谷底に転落し、少年三平だけが生き残った。三平は蜂に刺されて倒れていた少女チヨと出会い、彼女の住む里で暮らすことになった。やがて三平は、村人も諦めて手をつけずにいた荒地を一人で開墾し、突如姿を消す。\r\n花園となったその場所へ、三平は必ず帰ってくると信じ、チヨは今日も待っている。",
+  "date": "2016-07-09",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/49/c3/178662_J9NK9.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/49/c3/178662_J9NK9.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 3,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 2,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.7
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "新世纪OVA及剧场",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2016",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2016年七月番",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2016年7月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2016年",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "劇場版アニメ",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未下载",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "本多敏行",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "比戸野智恵",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "待補0",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "电影或剧场版",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "EekuraAnimal",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "178662"
+    },
+    {
+      "site": "danime",
+      "id": "28462",
+      "begin": "2026-01-10T15:00:00.000Z",
+      "broadcast": "R/2026-01-10T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "mal",
+      "id": "32832"
+    },
+    {
+      "site": "anidb",
+      "id": "11986"
+    },
+    {
+      "site": "aniList",
+      "id": "105974"
+    }
+  ]
+}

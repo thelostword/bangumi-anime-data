@@ -1,0 +1,90 @@
+{
+  "id": 473769,
+  "name": "忍たま乱太郎 第32シリーズ",
+  "name_cn": "忍者乱太郎 第32季",
+  "summary": "",
+  "date": "2024-04-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/74/a1/473769_h9T2h.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/74/a1/473769_h9T2h.jpg"
+  },
+  "eps": 76,
+  "rating": {
+    "rank": 0,
+    "total": 5,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 1,
+      "7": 1,
+      "8": 2,
+      "9": 0,
+      "10": 1
+    },
+    "score": 7.8
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "亜細亜堂",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "续集",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "子供向",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "473769"
+    },
+    {
+      "site": "danime",
+      "id": "28165",
+      "begin": "2025-08-26T15:00:00.000Z",
+      "broadcast": "R/2025-08-26T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0211193",
+      "begin": "2025-08-27T03:00:00.000Z",
+      "broadcast": "R/2025-08-27T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/34860"
+    }
+  ]
+}

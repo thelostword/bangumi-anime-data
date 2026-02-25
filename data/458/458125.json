@@ -1,0 +1,273 @@
+{
+  "id": 458125,
+  "name": "無職の英雄 ～別にスキルなんか要らなかったんだが～",
+  "name_cn": "无职英雄 ～技能什么的毫无用处～",
+  "summary": "それは、女神から授けられる職業とスキルが人生を大きく左右する世界――。\r\n《剣姫》と《魔導王》の息子として生まれた主人公・アレルは\r\nどんな職業を授かるかと期待されるなか、「無職」の烙印を押されてしまう。\r\n周囲の人々からの失望と同情。しかし、アレルは努力を重ねることで、次々と新たな力を手に入れていく。\r\nそして、その力はやがて天賦の才であるスキルをも上回るのだった。\r\nこれはスキルを持たない「無職」がたゆまぬ努力の結果『英雄』と呼ばれ、\r\nさらなる力を求めてゆく物語――。\r\n\r\n这是一个由女神所赐予的职业与技能，能够深刻影响人生的世界――\r\n\r\n“剑姬”与“魔导王”之子，主角．亚雷尔原本被寄予厚望，民众都在期待他会获得何种职业，然而他却被烙上“无职”的印记。周遭的人们对他投予失望与同情。\r\n\r\n然而，亚雷尔对于自己“无职”一事丝毫不在意，反而透过不断努力力压众人。\r\n\r\n这是一个没有技能的“无职”之人，透过不懈努力最终被称为“英雄”，并持续追求更强力量的故事――",
+  "date": "2025-10-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/92/d0/458125_KsU95.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/92/d0/458125_KsU95.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 9589,
+    "total": 999,
+    "count": {
+      "1": 18,
+      "2": 24,
+      "3": 85,
+      "4": 188,
+      "5": 377,
+      "6": 233,
+      "7": 53,
+      "8": 13,
+      "9": 1,
+      "10": 7
+    },
+    "score": 4.9
+  },
+  "tags": [
+    {
+      "name": "2025年10月",
+      "count": 222,
+      "total_cont": 0
+    },
+    {
+      "name": "异世界",
+      "count": 169,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 145,
+      "total_cont": 0
+    },
+    {
+      "name": "龙傲天",
+      "count": 136,
+      "total_cont": 0
+    },
+    {
+      "name": "轻小说改",
+      "count": 132,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 131,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 127,
+      "total_cont": 0
+    },
+    {
+      "name": "厕纸",
+      "count": 104,
+      "total_cont": 0
+    },
+    {
+      "name": "StudioA-CAT",
+      "count": 93,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 74,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 70,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 69,
+      "total_cont": 0
+    },
+    {
+      "name": "轻改",
+      "count": 51,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "后宫",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "矢花馨",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "小野贤章",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2025秋",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "萝莉",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "早見沙織",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "成长",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "冒险",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "制作中",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "魔法",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "上坂すみれ",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "458125"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtRanlL6x6vVQd7XzFwUCqiJ",
+      "begin": "2025-09-24T13:00:06.000Z",
+      "broadcast": "R/2025-09-24T13:00:06.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jg4B_E2Pp7_q0KZB1IKF_US",
+      "begin": "2025-09-24T13:00:06.000Z",
+      "broadcast": "R/2025-09-24T13:00:06.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "144171",
+      "begin": "2025-09-24T13:00:00.000Z",
+      "broadcast": "R/2025-09-24T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "144171",
+      "begin": "2025-09-24T13:00:00.000Z",
+      "broadcast": "R/2025-09-24T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0232892",
+      "begin": "2025-09-24T13:00:00.000Z",
+      "broadcast": "R/2025-09-24T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "28245",
+      "begin": "2025-09-24T13:00:00.000Z",
+      "broadcast": "R/2025-09-24T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "mushoku_no_eiyu",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "abema",
+      "id": "54-108",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3737"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "68e3e201aaf82561f9a74e12"
+    },
+    {
+      "site": "prime",
+      "id": "B0FS369JZX",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/236565"
+    },
+    {
+      "site": "mal",
+      "id": "56854"
+    },
+    {
+      "site": "anidb",
+      "id": "18232"
+    },
+    {
+      "site": "aniList",
+      "id": "169969"
+    },
+    {
+      "site": "netflix",
+      "id": "82662122",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

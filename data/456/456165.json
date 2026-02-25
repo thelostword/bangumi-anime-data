@@ -1,0 +1,223 @@
+{
+  "id": 456165,
+  "name": "时光代理人 英都篇",
+  "name_cn": "时光代理人 英都篇",
+  "summary": "为了拯救死去的程小时，陆光回到了最初，沿着命运的轨迹重新开始。然而一张载着程小时父母线索的照片出现在时光照相馆，为查明真相，陆光怀着忐忑的心情与程小时前往英都。看似友善的当红模特夏斐，举止乖张的唐人街之首Vein，还有神秘现身的刘枭……面对怀揣不同目的的人们，陆光能否打破那注定的死局？",
+  "date": "2024-12-27",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/05/c3/456165_lDd4o.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/05/c3/456165_lDd4o.jpg"
+  },
+  "eps": 6,
+  "rating": {
+    "rank": 8571,
+    "total": 406,
+    "count": {
+      "1": 6,
+      "2": 9,
+      "3": 21,
+      "4": 52,
+      "5": 93,
+      "6": 128,
+      "7": 66,
+      "8": 16,
+      "9": 5,
+      "10": 10
+    },
+    "score": 5.6
+  },
+  "tags": [
+    {
+      "name": "国产",
+      "count": 123,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 108,
+      "total_cont": 0
+    },
+    {
+      "name": "悬疑",
+      "count": 102,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 91,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 55,
+      "total_cont": 0
+    },
+    {
+      "name": "中国",
+      "count": 52,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年1月",
+      "count": 49,
+      "total_cont": 0
+    },
+    {
+      "name": "时光代理人",
+      "count": 46,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 42,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 32,
+      "total_cont": 0
+    },
+    {
+      "name": "超能力",
+      "count": 30,
+      "total_cont": 0
+    },
+    {
+      "name": "穿越",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 22,
+      "total_cont": 0
+    },
+    {
+      "name": "国创",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "国漫",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "治愈",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "李豪凌",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "鲁元元",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "推理",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "绘梦",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "国产动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "澜映",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "致郁",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "剧情",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "456165"
+    },
+    {
+      "site": "unext",
+      "id": "SID0251575",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "nicovideo",
+      "id": "link-click3",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/123542/season/3"
+    },
+    {
+      "site": "mal",
+      "id": "56752"
+    },
+    {
+      "site": "anidb",
+      "id": "19078"
+    },
+    {
+      "site": "aniList",
+      "id": "170166"
+    },
+    {
+      "site": "danime",
+      "id": "28629",
+      "begin": "2026-02-04T16:50:00.000Z",
+      "broadcast": "R/2026-02-04T16:50:00.000Z/P7D"
+    }
+  ]
+}

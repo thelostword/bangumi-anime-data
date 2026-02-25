@@ -1,0 +1,203 @@
+{
+  "id": 36973,
+  "name": "うちゅう人 田中太郎",
+  "name_cn": "外星人田中太郎",
+  "summary": "ある日地球の小学校に生徒としてやってきた宇宙人、田中太郎がタカシたちを巻き添えに大騒動を巻き起こす。",
+  "date": "2000-04-17",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e5/69/36973_Sv6cB.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e5/69/36973_Sv6cB.jpg"
+  },
+  "eps": 24,
+  "rating": {
+    "rank": 0,
+    "total": 25,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 2,
+      "5": 2,
+      "6": 5,
+      "7": 8,
+      "8": 4,
+      "9": 2,
+      "10": 1
+    },
+    "score": 6.7
+  },
+  "tags": [
+    {
+      "name": "2000",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "我的ET同学",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "外星人田中太郎",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日番",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "补旧番",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2000s",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "童年",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "喜欢",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TVB",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "神作",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "云雀工作室",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "童年系列",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "无厘头",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "脑洞",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2クール",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "在电视上断断续续看过",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "6(+1)",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "0004",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "經典",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "整死人不偿命",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "36973"
+    },
+    {
+      "site": "tropics",
+      "id": "PLoGVqODys23CSjxKrPMoXoTh6a1r3opbu",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "20149",
+      "begin": "2025-12-12T04:00:00.000Z",
+      "broadcast": "R/2025-12-12T04:00:00.000Z/P7D"
+    },
+    {
+      "site": "mal",
+      "id": "2566"
+    },
+    {
+      "site": "anidb",
+      "id": "4623"
+    },
+    {
+      "site": "aniList",
+      "id": "2566"
+    }
+  ]
+}

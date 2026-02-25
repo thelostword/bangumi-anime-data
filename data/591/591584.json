@@ -1,0 +1,205 @@
+{
+  "id": 591584,
+  "name": "カードファイト!! ヴァンガード Divinez 幻真星戦編",
+  "name_cn": "卡片战斗先导者 Divinez 幻真星战篇",
+  "summary": "作为10周年纪念作品播出的电视动画「D系列」，自2024年01月起，《卡片战斗!! 先导者 Divinez》正式播出。而其最终章──「幻真星战篇」终于揭开序幕！\r\n\r\n在明那等人居住的加贺国金泽，观测到了异常现象。被浓雾笼罩的街道、耸立于空的高塔──那是幻之世界。\r\n赤红之月升起的夜晚，他们将化为「幻影」。是要抹消幻象，还是让真实被其取代？\r\n为了夺回世界，明那最后的战斗，就此拉开序幕！\r\n\r\n\r\n[简介原文]\r\n2011年1月から始まった「カードファイト!! ヴァンガード」プロジェクトは、魅力的なキャラクターや世界観で今もなお人気を獲得し続けている。\r\n\r\n10周年記念作品として、放送されたTVアニメ「Dシリーズ」。\r\n2024年1月より「カードファイト!! ヴァンガード Divinez」が放送され、ついにその最終章「幻真星戦編」が放送スタート！\r\n\r\n引き続きキャラクターデザイン原案は「CLAMP」、アニメーション制作は「キネマシトラス」！\r\n\r\nアキナ達の住む加賀國金澤で、異常現象が観測された。\r\n濃霧に包まれる街、聳え立つ塔。それは幻世界。\r\n――赫き月の昇る夜、彼らは\"幻影（ファントム）\"となる。\r\n\r\n幻を消し去るか、真に取って代わるか。\r\n\r\n世界を取り戻すため、アキナの最後の戦いが幕を開ける！",
+  "date": "2026-01-10",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/49/f9/591584_dp8Kc.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/49/f9/591584_dp8Kc.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 8,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 2,
+      "6": 4,
+      "7": 0,
+      "8": 0,
+      "9": 1,
+      "10": 0
+    },
+    "score": 5.5
+  },
+  "tags": [
+    {
+      "name": "原创",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年1月",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "卡牌",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "校條春",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "宮田俊哉",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "KINEMACITRUS",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "少年向",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "先导者",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "一月番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "ぎふとアニメーション",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "STUDIOJEMI",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "武士道",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "VG",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "山田卓",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "岩田阳葵",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "大西雄仁",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "591584"
+    },
+    {
+      "site": "nicovideo",
+      "id": "cf-vanguard_genma",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0255300",
+      "begin": "2026-01-09T23:30:00.000Z",
+      "broadcast": "R/2026-01-09T23:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "283-35",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "danime",
+      "id": "28534",
+      "begin": "2026-01-09T23:30:00.000Z",
+      "broadcast": "R/2026-01-09T23:30:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3848"
+    },
+    {
+      "site": "gamer",
+      "id": "148375",
+      "begin": "2026-01-16T10:00:00.000Z",
+      "broadcast": "R/2026-01-16T10:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "148375",
+      "begin": "2026-01-16T10:00:00.000Z",
+      "broadcast": "R/2026-01-16T10:00:00.000Z/P7D"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/106301/season/9"
+    },
+    {
+      "site": "mal",
+      "id": "62649"
+    },
+    {
+      "site": "anidb",
+      "id": "19780"
+    },
+    {
+      "site": "aniList",
+      "id": "203296"
+    }
+  ]
+}

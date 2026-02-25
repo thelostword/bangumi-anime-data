@@ -1,0 +1,275 @@
+{
+  "id": 517057,
+  "name": "【推しの子】 第3期",
+  "name_cn": "【我推的孩子】 第三季",
+  "summary": "故事迈向全新舞台——\r\n\r\n自「POP IN 2」发行已过了半年。多亏了MEM CYO的努力，如今的 B小町已在爆红前夕。\r\n阿库亚走在全方位艺人的道路上，茜则是在实力派女演员的路上逐步前进。\r\n然而另一方面，佳奈却失去了以往的开朗。\r\n而为了追查小爱与吾郎的死亡真相，露比在演艺圈中不断往上爬。\r\n\r\n────以谎言作为武器。\r\n\r\n\r\n\r\n[简介原文]\r\n物語は新たなステージへ──\r\n\r\n『POP IN ２』のリリースから半年。\r\nＭＥＭちょの尽力の甲斐もあり、今やB小町はブレイク寸前。\r\nアクアはマルチタレント、あかねは実力派女優の道を順調に歩んでいる。\r\n一方で、かなは以前の明るさを失っていた。\r\nそして、アイとゴローの死の真相を追い求め、\r\nルビーは芸能界を駆け上がる。\r\n────嘘を、武器にして。",
+  "date": "2026-01-14",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/92/95/517057_257ad.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/92/95/517057_257ad.jpg"
+  },
+  "eps": 11,
+  "rating": {
+    "rank": 2420,
+    "total": 1757,
+    "count": {
+      "1": 21,
+      "2": 3,
+      "3": 3,
+      "4": 18,
+      "5": 64,
+      "6": 237,
+      "7": 873,
+      "8": 460,
+      "9": 49,
+      "10": 29
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "动画工房",
+      "count": 966,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年1月",
+      "count": 887,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 793,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 634,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 612,
+      "total_cont": 0
+    },
+    {
+      "name": "偶像",
+      "count": 611,
+      "total_cont": 0
+    },
+    {
+      "name": "悬疑",
+      "count": 423,
+      "total_cont": 0
+    },
+    {
+      "name": "赤坂明",
+      "count": 421,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 399,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 281,
+      "total_cont": 0
+    },
+    {
+      "name": "我推的孩子",
+      "count": 266,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 255,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 245,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 169,
+      "total_cont": 0
+    },
+    {
+      "name": "复仇",
+      "count": 148,
+      "total_cont": 0
+    },
+    {
+      "name": "平牧大辅",
+      "count": 33,
+      "total_cont": 0
+    },
+    {
+      "name": "党争",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "平牧大輔",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "职场",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "動画工房",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "田中仁",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "后宫",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "大久保瑠美",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "大冢刚央",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "宫野真守",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "高桥李依",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "潘惠美",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "石见舞菜香",
+      "count": 8,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "517057"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtRjyta9TAGFIoc19ASxTKG-",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JivLForf2SE-ypFD1wcLNC6",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "nicovideo",
+      "id": "ichigoproduction_Season3",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0251565",
+      "begin": "2026-01-15T14:00:00.000Z",
+      "broadcast": "R/2026-01-15T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/203737"
+    },
+    {
+      "site": "danime",
+      "id": "28564",
+      "begin": "2026-01-15T14:00:00.000Z",
+      "broadcast": "R/2026-01-15T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0GCFYWTFC",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3881"
+    },
+    {
+      "site": "crunchyroll",
+      "id": "GT00366791",
+      "begin": "2026-01-14T00:00:00.000Z",
+      "broadcast": "R/2026-01-14T00:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-240",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "viu",
+      "id": "2879540",
+      "begin": "2026-01-14T15:00:50.000Z",
+      "broadcast": "R/2026-01-14T15:00:50.000Z/P7D"
+    },
+    {
+      "site": "disneyplus",
+      "id": "4xE7VXJDjfbd",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mal",
+      "id": "60058"
+    },
+    {
+      "site": "anidb",
+      "id": "18901"
+    },
+    {
+      "site": "aniList",
+      "id": "182587"
+    },
+    {
+      "site": "netflix",
+      "id": "81684733",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

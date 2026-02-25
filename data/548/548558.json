@@ -1,0 +1,211 @@
+{
+  "id": 548558,
+  "name": "青のミブロ -芹沢暗殺編-",
+  "name_cn": "青之壬生浪 -芹泽暗杀篇-",
+  "summary": "京を守る壬生浪士組、通称ミブロ。\r\n\r\nお互いの正義がぶつかり合いながら、\r\n物語は【儚き暗殺譚】へと突き進む——。",
+  "date": "2025-12-20",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ce/ca/548558_Ya4nN.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ce/ca/548558_Ya4nN.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 12,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 1,
+      "4": 3,
+      "5": 3,
+      "6": 3,
+      "7": 0,
+      "8": 0,
+      "9": 1,
+      "10": 0
+    },
+    "score": 4.8
+  },
+  "tags": [
+    {
+      "name": "MAHOFILM",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年1月",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "历史",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "羽原久美子",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2020-2029",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "新选组",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "梅田修一朗",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "小林千晃",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2026冬",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "26冬",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年12月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "和风",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "小野贤章",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "阿座上洋平",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "猪原健太",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "548558"
+    },
+    {
+      "site": "danime",
+      "id": "28557",
+      "begin": "2025-12-20T09:00:00.000Z",
+      "broadcast": "R/2025-12-20T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0G6G93SB8",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "nicovideo",
+      "id": "miburoanime2",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "147239",
+      "begin": "2025-12-27T09:30:00.000Z",
+      "broadcast": "R/2025-12-27T09:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "147239",
+      "begin": "2025-12-27T09:30:00.000Z",
+      "broadcast": "R/2025-12-27T09:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0251292",
+      "begin": "2025-12-20T09:00:00.000Z",
+      "broadcast": "R/2025-12-20T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3820"
+    },
+    {
+      "site": "mal",
+      "id": "61333"
+    },
+    {
+      "site": "anidb",
+      "id": "19258"
+    },
+    {
+      "site": "aniList",
+      "id": "189258"
+    }
+  ]
+}

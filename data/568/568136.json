@@ -1,0 +1,209 @@
+{
+  "id": 568136,
+  "name": "Bâan -大人の彊界-",
+  "name_cn": "Bâan -大人的彊界-",
+  "summary": "A story of two people in search of a new life, who leave their birthplaces - traveling to a whole different world trying to find a place where they truly belong. Set in the fictional world of Euthania, a land rich in nature with various magical races based on South East Asian Mythology, which is connected to Japan via a warp gate.\r\n",
+  "date": "2025-08-24",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/57/b5/568136_V9zdJ.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/57/b5/568136_V9zdJ.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 8263,
+    "total": 255,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 9,
+      "4": 27,
+      "5": 70,
+      "6": 107,
+      "7": 36,
+      "8": 5,
+      "9": 1,
+      "10": 0
+    },
+    "score": 5.6
+  },
+  "tags": [
+    {
+      "name": "短片",
+      "count": 94,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 78,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 64,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 58,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 54,
+      "total_cont": 0
+    },
+    {
+      "name": "StudioDaisy",
+      "count": 45,
+      "total_cont": 0
+    },
+    {
+      "name": "gigguk",
+      "count": 44,
+      "total_cont": 0
+    },
+    {
+      "name": "大桥誉志光",
+      "count": 24,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "美国",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "欧美",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年9月",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "亲情",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "英国",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "无厘头",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年10月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年8月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "异世界",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "KevinPenkin",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "a.Anime",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "多世界",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "神魔",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "三川华月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "梦想",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "原創",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "6.0",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "GeeXPlus",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "568136"
+    },
+    {
+      "site": "mikan",
+      "id": "3800"
+    },
+    {
+      "site": "tmdb",
+      "id": "movie/1508427"
+    },
+    {
+      "site": "mal",
+      "id": "61984"
+    },
+    {
+      "site": "anidb",
+      "id": "19441"
+    },
+    {
+      "site": "aniList",
+      "id": "195494"
+    }
+  ]
+}

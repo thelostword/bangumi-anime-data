@@ -1,0 +1,213 @@
+{
+  "id": 529694,
+  "name": "百姓貴族 3rd Season",
+  "name_cn": "百姓贵族 第三季",
+  "summary": "「農家の常識は社会の非常識」\r\n\r\nマンガ家になるまでの七年間、北海道で実家の酪農・畑作業に従事していた荒川弘。\r\n年中無休で働き、牛を飼い、野菜を作り、\r\nクマに怯え、エゾシマリスに翻弄されるというハードな日常を送っていた……。\r\n\r\n日本の酪農・農業の苦しい現実を捉えつつも、汗水垂らして働く大人（時々コドモ）の、\r\n笑いたっぷり、パワーもたっぷりなカッコ良い生き様に刮目せよ!!",
+  "date": "2025-10-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c4/ce/529694_xh2Y9.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c4/ce/529694_xh2Y9.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 4985,
+    "total": 74,
+    "count": {
+      "1": 4,
+      "2": 1,
+      "3": 2,
+      "4": 2,
+      "5": 7,
+      "6": 20,
+      "7": 23,
+      "8": 12,
+      "9": 2,
+      "10": 1
+    },
+    "score": 6.2
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 28,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年10月",
+      "count": 22,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "PieInTheSky",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "荒川弘",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "科普",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "泽田裕太郎",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "澤田裕太郎",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "治愈",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "生肉",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "田村睦心",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "5分",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "续集",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "4分",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "秋季",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画短片",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "农业",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2020-2029",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "单元剧",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025秋",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "529694"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "68e3e206aaf82561f9a74e2c"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/221165"
+    },
+    {
+      "site": "mikan",
+      "id": "3767"
+    },
+    {
+      "site": "mal",
+      "id": "60551"
+    },
+    {
+      "site": "anidb",
+      "id": "19065"
+    },
+    {
+      "site": "aniList",
+      "id": "185694"
+    }
+  ]
+}

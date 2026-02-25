@@ -1,0 +1,120 @@
+{
+  "id": 262889,
+  "name": "アーサー 復活の騎士王",
+  "name_cn": "复活的骑士王",
+  "summary": "〜私は決してあきらめない！〜\r\n民を愛し、民に愛され、聖剣エクスカリバーに選ばれたブリタニアの王、アーサー。\r\nどんな困難も不屈の心で乗り越える騎士王が躍動する完全新作ストーリーがついに始まる！",
+  "date": "2018-10-06",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/56/d2/262889_dzWih.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/56/d2/262889_dzWih.jpg"
+  },
+  "eps": 5,
+  "rating": {
+    "rank": 0,
+    "total": 21,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 2,
+      "4": 1,
+      "5": 3,
+      "6": 12,
+      "7": 1,
+      "8": 1,
+      "9": 1,
+      "10": 0
+    },
+    "score": 5.8
+  },
+  "tags": [
+    {
+      "name": "WEB",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "XFLAG",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "2018年10月",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2018",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "堤博明",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2018年Web·SP",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "三渲二",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "3D",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "MARZA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "子供向",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "手游改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "怪物弹珠",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "262889"
+    },
+    {
+      "site": "youtube",
+      "id": "PL8anBnIT2pG5sNBrcD84RspD996nBiIj4",
+      "begin": "2018-10-05T16:00:00.000Z",
+      "broadcast": "R/2018-10-05T16:00:00.000Z/P7D"
+    }
+  ]
+}

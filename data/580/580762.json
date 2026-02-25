@@ -1,0 +1,106 @@
+{
+  "id": 580762,
+  "name": "＃神奈川に住んでるエルフ",
+  "name_cn": "住在神奈川的精灵",
+  "summary": "地元・神奈川を愛するスタッフ＆キャストが集結！\r\n鎧田氏が描く、神奈川県ご当地漫画\r\n\r\n『#神奈川に住んでるエルフ』が、ついにTVアニメ化！\r\n\r\nかつて住処の森を焼かれたエルフたちは──「神奈川」に住んでいた。\r\n\r\n東京都の真下に位置する神奈川県。\r\n横浜、横須賀、茅ヶ崎、相模原……様々な場所にエルフたちは別にひっそりするでもなく普通に暮らしている。\r\n\r\n物語の中心となるのは、「横浜のエルフ」と、色々あって彼をほっとけない「川崎の人間」。\r\n\r\nすっかり現代日本に馴染んだ「神奈川県に住んでるエルフ」たちが織りなす、\r\n地元愛溢れる、現代ファンタジーコメディ！",
+  "date": "2025-12-04",
+  "platform": "动态漫画",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/fe/38/580762_Aidod.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/fe/38/580762_Aidod.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 1
+  },
+  "tags": [
+    {
+      "name": "漫画改",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动态漫画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "580762"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kanael",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "prime",
+      "id": "B0FJXVZ2W5",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0246864",
+      "begin": "2025-12-09T14:00:00.000Z",
+      "broadcast": "R/2025-12-09T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "54-113",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "danime",
+      "id": "28508",
+      "begin": "2025-12-04T03:30:00.000Z",
+      "broadcast": "R/2025-12-04T03:30:00.000Z/P7D"
+    },
+    {
+      "site": "mal",
+      "id": "62521"
+    },
+    {
+      "site": "anidb",
+      "id": "19565"
+    },
+    {
+      "site": "aniList",
+      "id": "199005"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": 556075,
+  "name": "地球のラテール",
+  "name_cn": "",
+  "summary": "引っ込み思案な少年カナデは、地球の妖精ラテールと出会い、\r\n地球にすむ生きものたちの危機を知って…。\r\n\r\n絶滅危惧種に変身して\r\n生態系から生きる力を学ぶ！\r\n\r\nぼくもわたしも地球を救う\r\nEarth Saverに！\r\n\r\n世界の多様な生態系を\r\nめぐる旅に出かけよう！\r\n地球の妖精『ラテール』の魔法により、生きものに変身する主人公カナデ。\r\n地球のさまざまな生態系の中で、生きものたちと触れ合い、大切なことを学んでいきます。生物多様性の中で、自分にできることを考える。世界のEarth Saverを育みます！",
+  "date": "2025-09-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/99/d9/556075_Rd05s.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/99/d9/556075_Rd05s.jpg"
+  },
+  "eps": 5,
+  "rating": {
+    "rank": 0,
+    "total": 2,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 1,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.5
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2025夏",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TOONHARBORWORKS",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年10月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "トゥーンハーバーワークス",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "田村ゆかり",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "子供向",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "三渲二",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "556075"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/298889"
+    },
+    {
+      "site": "danime",
+      "id": "28406",
+      "begin": "2025-11-28T15:00:00.000Z",
+      "broadcast": "R/2025-11-28T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "mal",
+      "id": "62268"
+    },
+    {
+      "site": "anidb",
+      "id": "19568"
+    },
+    {
+      "site": "aniList",
+      "id": "198408"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "id": 337274,
+  "name": "劇場版アルゴナビス 流星のオブリガート",
+  "name_cn": "剧场版 ARGONAVIS 流星的obbligato",
+  "summary": "函館の大学に通う、内気な性格の大学生・七星 蓮。\r\n\r\n幼い頃に見たライブステージの熱狂を忘れられず、その正体を探す日々を送っていた。\r\n\r\nそんなある日、一人カラオケで歌う蓮を、同じ大学に通う結人と航海が見つける。\r\n\r\nボーカルを探していた二人は、蓮の歌声に衝撃を受けた―――\r\n\r\n一方、札幌で絶大な人気を誇る実力主義若手バンド「GYROAXIA」。\r\n\r\nそのボーカルであり、バンドの支配者である「旭 那由多」は自分の音楽だけを本物とし、\r\nバンドメンバーには演奏力のみを要求する。\r\n\r\nそんな那由多は、蓮の歌に何かを感じ、次第に意識しだしていく―――",
+  "date": "2021-11-19",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/56/cc/337274_133r8.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/56/cc/337274_133r8.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 7,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 2,
+      "5": 2,
+      "6": 1,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 4.9
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "2021",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "三次元",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "偶像",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "邦邦",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "乐队",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "邦男人",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "跨平台企划",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ映画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "サンジゲン",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "总集篇",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "A级",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Winter_2022",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "森川滋",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "錦織博",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "毛利亘宏",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "小笠原仁",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "音乐",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "伊藤昌弘",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日向大輔",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "337274"
+    },
+    {
+      "site": "unext",
+      "id": "SID0235298",
+      "begin": "2025-10-02T15:00:00.000Z",
+      "broadcast": "R/2025-10-02T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "28260",
+      "begin": "2025-10-02T15:00:00.000Z",
+      "broadcast": "R/2025-10-02T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "283-32",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "tmdb",
+      "id": "movie/1024272"
+    },
+    {
+      "site": "mal",
+      "id": "49471"
+    },
+    {
+      "site": "anidb",
+      "id": "16287"
+    },
+    {
+      "site": "aniList",
+      "id": "154974"
+    }
+  ]
+}

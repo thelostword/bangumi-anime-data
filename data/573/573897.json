@@ -1,0 +1,267 @@
+{
+  "id": 573897,
+  "name": "SI-VIS: The Sound of Heroes",
+  "name_cn": "SI-VIS：英雄之声",
+  "summary": "男女混成で、リーダー・YOSUKEを中心に結成された\r\n音楽ユニット SI-VIS\r\n\r\nその圧倒的な歌唱力とパフォーマンスで\r\n国内外の音楽シーンを席巻している。\r\n\r\nしかし───\r\n\r\nその真の顔は、世界を消滅させる謎の災害に対抗する\r\n\r\nヒーロー\r\nである。\r\n\r\nライブパフォーマンスによって\r\n人々を熱狂させ、その力を集めて戦う。\r\n\r\nだが表向きはライブに見えるため、\r\n彼らがヒーローであることは知られていない。\r\n\r\n“SI-VIS”是一个以领队YOSUKE为中心的男女混合音乐团队。他们以极高的演唱能力和表演能力席卷了国内外的音乐舞台，但他们的真面目却是与毁灭世界的神秘灾害对抗的英雄。SI-VIS以现场表演让观众变得狂热起来，将其力量收集后进行战斗。表面上看就只是普通的音乐会，没有人知道他们其实是英雄。",
+  "date": "2025-10-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/f4/38/573897_91i8P.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/f4/38/573897_91i8P.jpg"
+  },
+  "eps": 24,
+  "rating": {
+    "rank": 9523,
+    "total": 586,
+    "count": {
+      "1": 9,
+      "2": 15,
+      "3": 39,
+      "4": 110,
+      "5": 229,
+      "6": 141,
+      "7": 39,
+      "8": 2,
+      "9": 1,
+      "10": 1
+    },
+    "score": 4.9
+  },
+  "tags": [
+    {
+      "name": "原创",
+      "count": 336,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年10月",
+      "count": 305,
+      "total_cont": 0
+    },
+    {
+      "name": "丸户史明",
+      "count": 238,
+      "total_cont": 0
+    },
+    {
+      "name": "音乐",
+      "count": 208,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 180,
+      "total_cont": 0
+    },
+    {
+      "name": "studioVOLN",
+      "count": 160,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 120,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 115,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 105,
+      "total_cont": 0
+    },
+    {
+      "name": "斉藤壮馬",
+      "count": 43,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 35,
+      "total_cont": 0
+    },
+    {
+      "name": "吉田大輔",
+      "count": 33,
+      "total_cont": 0
+    },
+    {
+      "name": "2025秋",
+      "count": 29,
+      "total_cont": 0
+    },
+    {
+      "name": "島﨑信長",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "追番",
+      "count": 24,
+      "total_cont": 0
+    },
+    {
+      "name": "吉田大辅",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "偶像",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "浪川大輔",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "公司未公布",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "Aniplex",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2025.10",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "青春",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "ソニー・ミュージックエンタテインメント",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2020-2029",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "丸戸史明",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "SMEJ",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "573897"
+    },
+    {
+      "site": "nicovideo",
+      "id": "si-vis",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "147116",
+      "begin": "2025-10-05T02:00:00.000Z",
+      "broadcast": "R/2025-10-05T02:00:00.000Z/P7D"
+    },
+    {
+      "site": "bilibili",
+      "id": "27709550",
+      "begin": "2025-10-05T02:00:00.000Z",
+      "broadcast": "R/2025-10-05T02:00:00.000Z/P7D"
+    },
+    {
+      "site": "crunchyroll",
+      "id": "G4PH0WJ8V",
+      "begin": "2025-10-04T00:00:00.000Z",
+      "broadcast": "R/2025-10-04T00:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "147116",
+      "begin": "2025-10-05T02:00:00.000Z",
+      "broadcast": "R/2025-10-05T02:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "26-256",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0232876",
+      "begin": "2025-10-07T03:00:00.000Z",
+      "broadcast": "R/2025-10-07T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "28351",
+      "begin": "2025-10-07T09:00:00.000Z",
+      "broadcast": "R/2025-10-07T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "68e3e1f7aaf82561f9a74de4"
+    },
+    {
+      "site": "prime",
+      "id": "B0FPPDXJ56",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3797"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/296851"
+    },
+    {
+      "site": "mal",
+      "id": "62126"
+    },
+    {
+      "site": "anidb",
+      "id": "19501"
+    },
+    {
+      "site": "aniList",
+      "id": "196553"
+    }
+  ]
+}

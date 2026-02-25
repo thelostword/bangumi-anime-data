@@ -1,0 +1,207 @@
+{
+  "id": 558831,
+  "name": "つれづれポピパ",
+  "name_cn": "徒然POPIPA",
+  "summary": "Poppin'Party 10周年を記念してメンバーのゆる～い日常を描いたショートアニメ「つれづれポピパ」を公開！",
+  "date": "2025-04-28",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/90/ad/558831_2Mzje.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/90/ad/558831_2Mzje.jpg"
+  },
+  "eps": 10,
+  "rating": {
+    "rank": 4752,
+    "total": 75,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 2,
+      "4": 2,
+      "5": 8,
+      "6": 43,
+      "7": 10,
+      "8": 5,
+      "9": 1,
+      "10": 4
+    },
+    "score": 6.3
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "BanGDream!",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "ダブトゥーンスタジオ",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "轻百合",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "BanGDream",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "乐队",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "邦邦",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "番外",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "音乐",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Bushiroad",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "偶像",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年4月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "bang",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "字母T",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "大桥彩香",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未打分",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "寺川爱美",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "SP系列",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "令和5年",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "558831"
+    },
+    {
+      "site": "danime",
+      "id": "28262",
+      "begin": "2025-10-03T15:00:00.000Z",
+      "broadcast": "R/2025-10-03T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "mal",
+      "id": "61273"
+    },
+    {
+      "site": "anidb",
+      "id": "19331"
+    },
+    {
+      "site": "aniList",
+      "id": "193413"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": 588026,
+  "name": "アニラとココラ",
+  "name_cn": "",
+  "summary": "「アニラとココラ」は、アニラとココラという仲良しラッコ兄弟を描く物語。かつては日本中の水族館や動物園で飼育され、一世を風靡したラッコたちだが、現在では飼育数がどんどん減り、日常の中でラッコに触れ合う機会も激減している。「アニラとココラ」は、愛くるしいラッコの姿を心に刻み、心の中で元気に生きてもらいたいという願いを込めて制作された。",
+  "date": "2025-10-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/8e/b6/588026_w4Yht.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/8e/b6/588026_w4Yht.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 0,
+    "total": 10,
+    "count": {
+      "1": 1,
+      "2": 2,
+      "3": 2,
+      "4": 1,
+      "5": 2,
+      "6": 1,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 4.1
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年10月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "我有病",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025秋",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "勝鬨スタジオ",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "588026"
+    },
+    {
+      "site": "danime",
+      "id": "28349",
+      "begin": "2025-10-02T18:16:00.000Z",
+      "broadcast": "R/2025-10-02T18:16:00.000Z/P7D"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/302169"
+    },
+    {
+      "site": "mal",
+      "id": "62643"
+    },
+    {
+      "site": "anidb",
+      "id": "19666"
+    },
+    {
+      "site": "aniList",
+      "id": "199794"
+    }
+  ]
+}

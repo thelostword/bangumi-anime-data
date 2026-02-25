@@ -1,0 +1,114 @@
+{
+  "id": 68741,
+  "name": "永遠の法",
+  "name_cn": "永远之法",
+  "summary": "科学技術を学んでいる高校生の隆太は、同じ科学技術研究部の研究仲間のパトリック、ロベルトと夏休みを利用してアメリカを訪れた。そこで、シャーマン（霊媒師）という老女に出会い、隆太は謎のメッセージを伝えられるが、それは発明王のエジソンが生前に研究していたという“霊界通信機”の設計方程式だった。",
+  "date": "2006-09-30",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/7a/f3/68741_qMoHQ.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/7a/f3/68741_qMoHQ.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 22,
+    "count": {
+      "1": 12,
+      "2": 2,
+      "3": 0,
+      "4": 0,
+      "5": 3,
+      "6": 1,
+      "7": 3,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 3
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "大川隆法",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2006",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "GroupTac",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "独立剧场版",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2006年",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "7(+2)",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "幸福の科学",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2000s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "今挂勇",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "空",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2006年9月",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "68741"
+    },
+    {
+      "site": "unext",
+      "id": "SID0227151",
+      "begin": "2025-10-01T03:00:00.000Z",
+      "broadcast": "R/2025-10-01T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "tmdb",
+      "id": "movie/324821"
+    }
+  ]
+}

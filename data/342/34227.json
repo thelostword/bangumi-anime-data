@@ -1,0 +1,217 @@
+{
+  "id": 34227,
+  "name": "吸血鬼ハンターD",
+  "name_cn": "吸血鬼猎人D",
+  "summary": "吸血鬼ハンターDシリーズの第1作目をベースとした作品。1985年、エピック・ソニーより発売。アメリカではヒットした。当時26歳の小室哲哉が初めて映画音楽を担当した作品でもあり、エピック・ソニーよりサウンドトラックがリリースされ、主題歌をTM NETWORKが歌っている。\r\n\r\n西暦12090年、舞台は辺境の町。一帯を支配する「貴族」リィ伯爵に血を吸われた少女ドリスは、吸血鬼ハンターの\"D\"を雇い入れた。ドリスを吸血鬼の一族へと迎え入れようとする伯爵、それに反発する彼の娘ラミーカ、強盗団の頭目であり不死を目論む麗銀星などの面々と、伯爵を狙う\"D\"との激闘が幕を開ける。",
+  "date": "1985-12-21",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/13/d1/34227_m54xl.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/13/d1/34227_m54xl.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 3420,
+    "total": 547,
+    "count": {
+      "1": 0,
+      "2": 7,
+      "3": 5,
+      "4": 16,
+      "5": 51,
+      "6": 133,
+      "7": 179,
+      "8": 106,
+      "9": 31,
+      "10": 19
+    },
+    "score": 6.8
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 180,
+      "total_cont": 0
+    },
+    {
+      "name": "剧场版",
+      "count": 122,
+      "total_cont": 0
+    },
+    {
+      "name": "1985",
+      "count": 110,
+      "total_cont": 0
+    },
+    {
+      "name": "天野喜孝",
+      "count": 78,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 76,
+      "total_cont": 0
+    },
+    {
+      "name": "吸血鬼猎人D",
+      "count": 73,
+      "total_cont": 0
+    },
+    {
+      "name": "吸血鬼",
+      "count": 67,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 54,
+      "total_cont": 0
+    },
+    {
+      "name": "补旧番",
+      "count": 41,
+      "total_cont": 0
+    },
+    {
+      "name": "菊地秀行",
+      "count": 36,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 24,
+      "total_cont": 0
+    },
+    {
+      "name": "平野靖士",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "小室哲哉",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "松下浩美",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "苇PRODUCTION",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "芦田豊雄",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "ANIMETHEMOVIE",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "芦田丰雄",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "葦プロダクション",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "轻小说改",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "80年代",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "1980s",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "动画电影",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "ProductionReed",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "猎奇",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "神作",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "冒险",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "34227"
+    },
+    {
+      "site": "danime",
+      "id": "28320",
+      "begin": "2025-09-30T15:00:00.000Z",
+      "broadcast": "R/2025-09-30T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "168-78",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "tmdb",
+      "id": "movie/9463"
+    },
+    {
+      "site": "mal",
+      "id": "732"
+    },
+    {
+      "site": "anidb",
+      "id": "204"
+    },
+    {
+      "site": "aniList",
+      "id": "732"
+    }
+  ]
+}

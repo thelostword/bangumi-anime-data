@@ -1,0 +1,205 @@
+{
+  "id": 554518,
+  "name": "アイカツ！×プリパラ THE MOVIE -出会いのキセキ！-",
+  "name_cn": "偶像活动×美妙天堂 电影",
+  "summary": "《10周年記念！》 \r\n大人気アイドル 奇跡のコラボレーション!!\r\n“10年分の愛”と“10年分のありがとう”をいっぱいに詰め込んだ、夢のプロジェクト始動！\r\n新作ストーリー＆新作ライブの完全オリジナル映画 ",
+  "date": "2025-10-10",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/3b/64/554518_5Qm0q.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/3b/64/554518_5Qm0q.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 44,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 5,
+      "6": 13,
+      "7": 16,
+      "8": 6,
+      "9": 1,
+      "10": 1
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 31,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 30,
+      "total_cont": 0
+    },
+    {
+      "name": "BNPictures",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "偶像活动",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "美妙天堂",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "龙之子",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "SUNRISE",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2020s",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "大川贵大",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "大川貴大",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "音乐",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "土屋理敬",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "偶像",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "aikatsu",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "Pretty系列",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "美妙系列",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "已二刷",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "偶活",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "高桥晃",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "宫谷里沙",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "龙之子Production",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "子供向",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "アイカツ！",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Theater",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "矢口弘子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2020-2029",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "554518"
+    },
+    {
+      "site": "nicovideo",
+      "id": "aikatsu-pripara-movie",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0261891",
+      "begin": "2026-01-31T15:00:00.000Z",
+      "broadcast": "R/2026-01-31T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3815"
+    }
+  ]
+}

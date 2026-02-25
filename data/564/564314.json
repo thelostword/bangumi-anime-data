@@ -1,0 +1,107 @@
+{
+  "id": 564314,
+  "name": "週刊ラノべアニメ",
+  "name_cn": "",
+  "summary": "スマホで5分、 この体験は、物語の新たなる挑戦だ。作家たちの出会いが、これまでにない手法が、新しい物語を創り出す。新感覚ショートアニメ『ラノベアニメ』始まる。\r\n■傷心タイムリープ\r\n■ファムファタル育成計画\r\n■Jack the Reaper\r\n■マリー・アントワネットに転生したので全力でギロチンを回避します\r\nYouTubeにて6月12日配信スタート。\r\n2025年7月13日(日)ABCテレビ・テレビ朝日系列全国24局ネット『ANiMAZiNG!!!』枠にて02:00～放送開始\r\nABCアニメ・朝日系列の「ANiMAZiNG!!!（アニメイジング）」枠にて、下記4作品をTVアニメ用に横型画面で再編集した同4作品を『週刊ラノベアニメ』として放送決定！!\r\n\r\n本片包含『Jack the Reaper』、『傷心タイムリープ』、『ファムファタル育成計画』、『マリー・アントワネットに転生したので全力でギロチンを回避します』4个故事，每周更新整合后的一集（4作品各5分钟），以『週刊ラノべアニメ』为番组名播出。",
+  "date": "2025-07-12",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/dd/5d/564314_DfcHG.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/dd/5d/564314_DfcHG.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 0,
+    "total": 12,
+    "count": {
+      "1": 2,
+      "2": 5,
+      "3": 0,
+      "4": 1,
+      "5": 3,
+      "6": 0,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 3.2
+  },
+  "tags": [
+    {
+      "name": "2025",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年7月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "564314"
+    },
+    {
+      "site": "danime",
+      "id": "28234",
+      "begin": "2025-09-27T18:50:00.000Z",
+      "broadcast": "R/2025-09-27T18:50:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "lightnovel-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "prime",
+      "id": "B0FR998Y9F",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0236761",
+      "begin": "2025-09-29T18:50:00.000Z",
+      "broadcast": "R/2025-09-29T18:50:00.000Z/P7D"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/296047"
+    }
+  ]
+}

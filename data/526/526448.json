@@ -1,0 +1,267 @@
+{
+  "id": 526448,
+  "name": "グノーシア",
+  "name_cn": "古诺希亚",
+  "summary": "故事发生在一艘漂流的太空船上。由于一种“会伪装成人类来袭击人类的未知敌人”——「古诺希亚」混入船内，互相猜疑的乘员们决定每天投票选出一名可疑人物，让其进入冷冻睡眠。\r\n如果能让所有古诺希亚全部进入冷冻睡眠则人类获胜。反之，若无法找出古诺希亚，乘员们就会遭到袭击。主人公尤里必须要做出正确的选择，与此同时，他发现自己陷入了一个时间循环中，无论做出怎样的选择，都会回到第一天。\r\n乘员们究竟能否做出正确的选择？时间循环背后隐藏的秘密是什么？随着故事发展，乘员们不为人知的真面目也逐渐浮出水面。\r\n在短暂的时间里不断重复，一瞬却仿佛永恒的故事，如今拉开帷幕。\r\n——那么，祝您旅途愉快。\r\n\r\n\r\n[简介原文]\r\n物語の舞台は漂流する宇宙船。“人間に化けて人間を襲う未知の敵”一「グノーシア」が船内に紛れこんだことを受けて、乗員たちは疑心暗鬼の中、毎日1人ずつ疑わしい者を投票で選び、コールドスリープさせることを決める。\r\nグノーシアを全てコールドスリープさせることができれば人間の勝利。逆にグノーシアを当てられなければ、乗員たちは襲われてしまう。正しい選択が求められる中、なんと主人公・ユーリは、どのような選択をしても、最初の1日目にループする事態に。\r\nはたして乗員たちは正しい選択をすることができるのか？タイムリープに隠された秘密とは？そして明らかになる、乗員たちの隠された素顔とは——？\r\nわずかな時間を繰りかえす、一瞬にして永遠のような物語が、いま、幕を開ける。\r\n——それでは、良い旅を。",
+  "date": "2025-10-11",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/17/82/526448_ssr71.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/17/82/526448_ssr71.jpg"
+  },
+  "eps": 21,
+  "rating": {
+    "rank": 798,
+    "total": 2437,
+    "count": {
+      "1": 10,
+      "2": 4,
+      "3": 6,
+      "4": 24,
+      "5": 54,
+      "6": 148,
+      "7": 733,
+      "8": 1187,
+      "9": 205,
+      "10": 66
+    },
+    "score": 7.6
+  },
+  "tags": [
+    {
+      "name": "游戏改",
+      "count": 1287,
+      "total_cont": 0
+    },
+    {
+      "name": "悬疑",
+      "count": 1165,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年10月",
+      "count": 1074,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 959,
+      "total_cont": 0
+    },
+    {
+      "name": "花田十辉",
+      "count": 768,
+      "total_cont": 0
+    },
+    {
+      "name": "轮回",
+      "count": 682,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 661,
+      "total_cont": 0
+    },
+    {
+      "name": "domerica",
+      "count": 457,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 380,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 344,
+      "total_cont": 0
+    },
+    {
+      "name": "推理",
+      "count": 275,
+      "total_cont": 0
+    },
+    {
+      "name": "Aniplex",
+      "count": 244,
+      "total_cont": 0
+    },
+    {
+      "name": "SF",
+      "count": 116,
+      "total_cont": 0
+    },
+    {
+      "name": "市川量也",
+      "count": 104,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 96,
+      "total_cont": 0
+    },
+    {
+      "name": "狼人杀",
+      "count": 43,
+      "total_cont": 0
+    },
+    {
+      "name": "藤村鼓乃美",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "智斗",
+      "count": 22,
+      "total_cont": 0
+    },
+    {
+      "name": "早见沙织",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "佐仓绫音",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年1月",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "花泽香菜",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "安济知佳",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "鬼头明里",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "津田健次郎",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "长谷川育美",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "花田十輝",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "关智一",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改编",
+      "count": 7,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "526448"
+    },
+    {
+      "site": "nicovideo",
+      "id": "gnosia-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "abema",
+      "id": "26-252",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0232877",
+      "begin": "2025-10-14T03:00:00.000Z",
+      "broadcast": "R/2025-10-14T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "68e3e20caaf82561f9a74e4a"
+    },
+    {
+      "site": "danime",
+      "id": "28303",
+      "begin": "2025-10-11T15:00:00.000Z",
+      "broadcast": "R/2025-10-11T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "crunchyroll",
+      "id": "GT00365132",
+      "begin": "2025-10-11T00:00:00.000Z",
+      "broadcast": "R/2025-10-11T00:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "142615",
+      "begin": "2025-10-11T16:30:00.000Z",
+      "broadcast": "R/2025-10-11T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "142615",
+      "begin": "2025-10-11T16:30:00.000Z",
+      "broadcast": "R/2025-10-11T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3780"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/278604"
+    },
+    {
+      "site": "prime",
+      "id": "B0FVJZ5QB3",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mal",
+      "id": "60427"
+    },
+    {
+      "site": "anidb",
+      "id": "19022"
+    },
+    {
+      "site": "aniList",
+      "id": "185116"
+    },
+    {
+      "site": "netflix",
+      "id": "82155538",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

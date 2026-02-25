@@ -1,0 +1,140 @@
+{
+  "id": 294820,
+  "name": "エンド・オブ・ザ・ワールド",
+  "name_cn": "世界终结",
+  "summary": "ストライク・ワールドの消滅を目論む天聖に対抗すべく、予言に従いヒーローを招集するオラゴン。しかし、最後の1人ルシファーは仲間になることを拒否し、一人で戦う道を選ぶ。\r\n仲間の力を合わせないと世界は救うことができないと路頭に迷うヒーローたちのもとに、謎の少年カエサルが現れ...。\r\n\r\n一方、天聖イェソドは、天聖ネツァク、ゲブラー、ホドと手を組み、ストライク・ワールドを消滅させる最終兵器を完成させる。\r\n\r\n果たして、ヒーローたちは団結し、ストライク・ワールド消滅の危機を防ぐことができるのか!?\r\nストライク・ワールドを守るための最終決戦が、いよいよ幕を開ける。",
+  "date": "2019-11-30",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/ed/9a/294820_Sssss.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/ed/9a/294820_Sssss.jpg"
+  },
+  "eps": 6,
+  "rating": {
+    "rank": 0,
+    "total": 19,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 1,
+      "5": 5,
+      "6": 7,
+      "7": 4,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.8
+  },
+  "tags": [
+    {
+      "name": "WEB",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "2019",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "3D",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "怪物弹珠",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "DynamoPictures",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "山口雄大",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "手游改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "本田雅也",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2019年Web·SP",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "斉藤壮馬",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "三渲二",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "子供向",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日笠陽子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "没看过",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "福島潤",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "294820"
+    },
+    {
+      "site": "youtube",
+      "id": "PL8anBnIT2pG5sNBrcD84RspD996nBiIj4",
+      "begin": "2019-11-29T16:00:00.000Z",
+      "broadcast": "R/2019-11-29T16:00:00.000Z/P7D"
+    }
+  ]
+}

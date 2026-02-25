@@ -1,0 +1,241 @@
+{
+  "id": 580872,
+  "name": "チェンソーマン 総集篇",
+  "name_cn": "链锯人 总集篇",
+  "summary": "「チェンソーの悪魔」ポチタと共にデビルハンターとして暮らす少年デンジ。親が遺した借金返済のため、貧乏な生活を送る中、裏切りに遭い殺されてしまう。薄れる意識の中、デンジはポチタと契約し、悪魔の心臓を持つもの「チェンソーマン」として蘇る。",
+  "date": "2025-09-05",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/a2/9a/580872_3VXv3.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/a2/9a/580872_3VXv3.jpg"
+  },
+  "eps": 2,
+  "rating": {
+    "rank": 1367,
+    "total": 965,
+    "count": {
+      "1": 4,
+      "2": 1,
+      "3": 1,
+      "4": 5,
+      "5": 15,
+      "6": 94,
+      "7": 418,
+      "8": 376,
+      "9": 38,
+      "10": 13
+    },
+    "score": 7.3
+  },
+  "tags": [
+    {
+      "name": "总集篇",
+      "count": 212,
+      "total_cont": 0
+    },
+    {
+      "name": "MAPPA",
+      "count": 201,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 181,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 177,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 168,
+      "total_cont": 0
+    },
+    {
+      "name": "剧场版",
+      "count": 134,
+      "total_cont": 0
+    },
+    {
+      "name": "藤本树",
+      "count": 122,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 86,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 80,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 80,
+      "total_cont": 0
+    },
+    {
+      "name": "吉原达矢",
+      "count": 68,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 60,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 33,
+      "total_cont": 0
+    },
+    {
+      "name": "吉原達矢",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "电锯人",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "特别篇",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年9月",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年10月",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "血腥",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "瀬古浩司",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "猎奇",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "动画电影",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "动作",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "6分",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日漫",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "坂田将吾",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "濑古浩司",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "580872"
+    },
+    {
+      "site": "gamer",
+      "id": "147060",
+      "begin": "2025-09-05T12:00:00.000Z",
+      "broadcast": "R/2025-09-05T12:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "147060",
+      "begin": "2025-09-05T12:00:00.000Z",
+      "broadcast": "R/2025-09-05T12:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0235257",
+      "begin": "2025-09-11T15:00:00.000Z",
+      "broadcast": "R/2025-09-11T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtRhXcG16dq0stqG3-CCofvV",
+      "begin": "2025-09-05T12:00:26.000Z",
+      "broadcast": "R/2025-09-05T12:00:26.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jhj-pwgeOkGCtQGq7B7p1dv",
+      "begin": "2025-09-05T12:00:06.000Z",
+      "broadcast": "R/2025-09-05T12:00:06.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "28218",
+      "begin": "2025-09-11T15:00:00.000Z",
+      "broadcast": "R/2025-09-11T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3805"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/299555"
+    },
+    {
+      "site": "mal",
+      "id": "62352"
+    },
+    {
+      "site": "anidb",
+      "id": "19560"
+    }
+  ]
+}

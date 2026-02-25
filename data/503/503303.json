@@ -1,0 +1,219 @@
+{
+  "id": 503303,
+  "name": "SANDA",
+  "name_cn": "变身圣诞老人",
+  "summary": "これは少し未来のお話。\r\n超少子化が進み、様々な風習が失われた近未来。\r\n大黒愛護学園に通う普通の少年、三田は、なぜか同級生の冬村四織に命を狙われていた。\r\n突如として振り下ろされる凶刃。それには、行方不明になった冬村の友人と、\r\n三田が抱えている「とある呪い」に理由があって…!?",
+  "date": "2025-10-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/50/5d/503303_ilQah.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/50/5d/503303_ilQah.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 6810,
+    "total": 1856,
+    "count": {
+      "1": 9,
+      "2": 9,
+      "3": 31,
+      "4": 78,
+      "5": 229,
+      "6": 733,
+      "7": 633,
+      "8": 106,
+      "9": 17,
+      "10": 11
+    },
+    "score": 6.2
+  },
+  "tags": [
+    {
+      "name": "2025年10月",
+      "count": 493,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 460,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 460,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 455,
+      "total_cont": 0
+    },
+    {
+      "name": "ScienceSARU",
+      "count": 400,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 398,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 268,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 234,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 199,
+      "total_cont": 0
+    },
+    {
+      "name": "板垣巴留",
+      "count": 147,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 120,
+      "total_cont": 0
+    },
+    {
+      "name": "霜山朋久",
+      "count": 109,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 89,
+      "total_cont": 0
+    },
+    {
+      "name": "サイエンスSARU",
+      "count": 50,
+      "total_cont": 0
+    },
+    {
+      "name": "2025秋",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "青春",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "上野贵美子",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "うえのきみこ",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "悬疑",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "木下绘李",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "石山正修",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "村越麻海",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "横山彰利",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "变身圣诞老人",
+      "count": 3,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "503303"
+    },
+    {
+      "site": "prime",
+      "id": "B0FMZRSWDW",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "68e3e209aaf82561f9a74e36"
+    },
+    {
+      "site": "mikan",
+      "id": "3745"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/258901"
+    },
+    {
+      "site": "mal",
+      "id": "59267"
+    },
+    {
+      "site": "anidb",
+      "id": "18751"
+    },
+    {
+      "site": "aniList",
+      "id": "179302"
+    }
+  ]
+}

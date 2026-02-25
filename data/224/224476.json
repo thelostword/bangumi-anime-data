@@ -1,0 +1,145 @@
+{
+  "id": 224476,
+  "name": "センリツのルシファー ただひとつの始まりの歌",
+  "name_cn": "路西法的战栗天籁 〜唯一的最初乐章〜",
+  "summary": "「......以歌声改变世界？别开玩笑了。」\r\n\r\n「路西法」自从乐队解散以来，过着平淡无味的日子。生命中似乎缺少了些什么。\r\n直到某天一个转机到来。亲戚「撒旦」跟「茨木童子」邀请路西法加入他们的乐团ーー『背德手枪』。让独立摇滚乐团一跃成名的机会是存在的，撒旦他一直想借着参加「怪物乐与怒大会」，成功夺冠就有望出道成名、晋身主流大舞台。\r\n虽然一度拒绝了他们的邀请，但因为某件事的发生，而让路西法锁上的心产生变化......",
+  "date": "2017-05-03",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e4/ee/224476_9tI9H.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e4/ee/224476_9tI9H.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 11,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 7,
+      "6": 3,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.5
+  },
+  "tags": [
+    {
+      "name": "WEB",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "2017",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "LIDENFILMS",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2017年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "番外篇",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "加藤陽一",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "坂本一也",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "改编",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2017年四月番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "怪物弹珠",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "不评分",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2017年5月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "ライデンフィルム",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改编",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2017年OVA·OAD",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "224476"
+    },
+    {
+      "site": "youtube",
+      "id": "PL8anBnIT2pG7JBjX8etGJfnem9Q7_05WT",
+      "begin": "2017-05-02T16:00:00.000Z",
+      "broadcast": ""
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "id": 309002,
+  "name": "銀魂 THE SEMI-FINAL",
+  "name_cn": "银魂 THE SEMI-FINAL",
+  "summary": "dTVにて独占配信される「銀魂 THE SEMI-FINAL」の万事屋篇あらすじと先行カットが公開、さらに予告動画も到着した。「銀魂 THE SEMI-FINAL」は、1月15日19時からの万事屋篇・16日19時から真選組篇の2話構成で、1月8日から公開の映画「銀魂 THE FINAL」の前日譚。 ",
+  "date": "2021-01-15",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/27/3c/309002_BQIXI.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/27/3c/309002_BQIXI.jpg"
+  },
+  "eps": 2,
+  "rating": {
+    "rank": 1746,
+    "total": 548,
+    "count": {
+      "1": 0,
+      "2": 1,
+      "3": 2,
+      "4": 11,
+      "5": 28,
+      "6": 89,
+      "7": 215,
+      "8": 131,
+      "9": 32,
+      "10": 39
+    },
+    "score": 7.2
+  },
+  "tags": [
+    {
+      "name": "搞笑",
+      "count": 128,
+      "total_cont": 0
+    },
+    {
+      "name": "银魂",
+      "count": 116,
+      "total_cont": 0
+    },
+    {
+      "name": "2021",
+      "count": 96,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 68,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 64,
+      "total_cont": 0
+    },
+    {
+      "name": "BNPictures",
+      "count": 56,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 47,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 44,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 35,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 32,
+      "total_cont": 0
+    },
+    {
+      "name": "2020年1月",
+      "count": 28,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "银他妈",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "回归",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "JUMP",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "1月",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "吐槽",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "恶搞",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2021年1月",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "空知英秋",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "SUNRISE",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "BN_Pictures",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "宮脇千鶴",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "番外",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "未确定",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "神作",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2021年",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "309002"
+    },
+    {
+      "site": "nicovideo",
+      "id": "gintama-semifinal",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "danime",
+      "id": "28344",
+      "begin": "2025-09-30T15:00:00.000Z",
+      "broadcast": "R/2025-09-30T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0238690",
+      "begin": "2025-10-07T15:00:00.000Z",
+      "broadcast": "R/2025-10-07T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/114211"
+    },
+    {
+      "site": "mal",
+      "id": "44087"
+    },
+    {
+      "site": "anidb",
+      "id": "15902"
+    },
+    {
+      "site": "aniList",
+      "id": "126819"
+    }
+  ]
+}

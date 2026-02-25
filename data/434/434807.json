@@ -1,0 +1,252 @@
+{
+  "id": 434807,
+  "name": "魔法公主的小烦恼",
+  "name_cn": "魔法公主的小烦恼",
+  "summary": "魔法王国的公主希娅拥有独特的宝石眼，她发现自己的梦境似乎能预言未来——在十八岁生日当天，她被卷入一场惊天阴谋，父亲险些因黑魔法丧命，自己也被放逐远方。随着希娅长大，命运中的人物相继出现，内敛冷酷的父王、自恋毒舌的魔法师、忠心耿耿的骑士、温柔腼腆的公爵独子、渴望亲情的女孩……勇敢善良的希娅能否逆转命运，守护自己和所有珍爱之人呢？",
+  "date": "2025-09-28",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c3/7b/434807_9kVom.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c3/7b/434807_9kVom.jpg"
+  },
+  "eps": 16,
+  "rating": {
+    "rank": 4950,
+    "total": 215,
+    "count": {
+      "1": 2,
+      "2": 2,
+      "3": 1,
+      "4": 5,
+      "5": 26,
+      "6": 74,
+      "7": 76,
+      "8": 18,
+      "9": 3,
+      "10": 8
+    },
+    "score": 6.4
+  },
+  "tags": [
+    {
+      "name": "漫画改",
+      "count": 56,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年10月",
+      "count": 53,
+      "total_cont": 0
+    },
+    {
+      "name": "国产",
+      "count": 48,
+      "total_cont": 0
+    },
+    {
+      "name": "中国",
+      "count": 34,
+      "total_cont": 0
+    },
+    {
+      "name": "彩色铅笔动画",
+      "count": 33,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 31,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 26,
+      "total_cont": 0
+    },
+    {
+      "name": "韩国",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 24,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "少女",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "女性向",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "少女向",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "国产动画",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "异世界",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "萝莉",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "张盈盈",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "彩色铅笔",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "魔法",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "木村良平",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "亲情",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "张雯",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "穿越",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "可爱",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年9月",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "434807"
+    },
+    {
+      "site": "nicovideo",
+      "id": "aruhime-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0234928",
+      "begin": "2025-09-28T16:00:00.000Z",
+      "broadcast": "R/2025-09-28T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-300",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "danime",
+      "id": "28278",
+      "begin": "2025-09-28T16:00:00.000Z",
+      "broadcast": "R/2025-09-28T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0FT73GL7R",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UcjPNZ7iq2w1ak6c7nB5KEtF",
+      "begin": "2025-09-28T16:00:06.000Z",
+      "broadcast": "R/2025-09-28T16:00:06.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "147102",
+      "begin": "2025-09-28T16:00:00.000Z",
+      "broadcast": "R/2025-09-28T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "147102",
+      "begin": "2025-09-28T16:00:00.000Z",
+      "broadcast": "R/2025-09-28T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "muse_tw",
+      "id": "PL12UaAf_xzfrkFp59HdaWT-EEWAmY2394",
+      "begin": "2025-09-28T16:00:06.000Z",
+      "broadcast": "R/2025-09-28T16:00:06.000Z/P7D",
+      "comment": "中文配音: PL12UaAf_xzfqOOS2-XQgyz1JkcvBdbVh-"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "68e3e203aaf82561f9a74e1c"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/262453"
+    }
+  ]
+}

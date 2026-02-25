@@ -1,0 +1,188 @@
+{
+  "id": 570330,
+  "name": "モンスターストライク デッドバースリローデッド",
+  "name_cn": "怪物弹珠 DEADVERSE RELOADED",
+  "summary": "他者の顔が見えない少女「リンネ」。\r\n怪異の調伏を生業とする家に生まれたリンネは\r\n初めての御役目に向かうものの、\r\n予想を超えた異質な敵と遭遇。危機に陥ってしまう。\r\n謎の男「ジュゲム」によって助けられた後、\r\nリンネは、自分が生きる世界を含むすべての世界、\r\n通称「ストライク・ワールド」が脅威に晒されていると知る。\r\n\r\nジュゲムと共に終わりゆく世界の数々を旅する中で、\r\n少女は絆を結んでゆく──",
+  "date": "2025-10-21",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/4f/da/570330_W93JH.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/4f/da/570330_W93JH.jpg"
+  },
+  "eps": 10,
+  "rating": {
+    "rank": 0,
+    "total": 22,
+    "count": {
+      "1": 1,
+      "2": 2,
+      "3": 0,
+      "4": 5,
+      "5": 9,
+      "6": 4,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 4.6
+  },
+  "tags": [
+    {
+      "name": "游戏改",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年10月",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "ゆめ太カンパニー",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "大久保政雄",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025秋",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "遊戲改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "戰鬥",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "原創",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "秋季番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "秋季",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "鋼屋ジン",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "三话弃",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "風埜隼人",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "570330"
+    },
+    {
+      "site": "danime",
+      "id": "28297",
+      "begin": "2025-10-21T18:00:00.000Z",
+      "broadcast": "R/2025-10-21T18:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "68e3e1ffaaf82561f9a74e08"
+    },
+    {
+      "site": "nicovideo",
+      "id": "monster-strike_deadverse",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0234955",
+      "begin": "2025-10-21T18:00:00.000Z",
+      "broadcast": "R/2025-10-21T18:00:00.000Z/P7D"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/300323"
+    },
+    {
+      "site": "prime",
+      "id": "B0FJFKM6NH",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mal",
+      "id": "62066"
+    },
+    {
+      "site": "anidb",
+      "id": "19466"
+    },
+    {
+      "site": "aniList",
+      "id": "196230"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": 548858,
+  "name": "すみっコぐらし ここがおちつくんです",
+  "name_cn": "角落小伙伴 这里让人好安心",
+  "summary": "電車に乗ればすみっこの席から埋まり、\r\nカフェに行ってもできるだけすみっこの席を確保したい…。\r\nすみっこにいるとなぜか“落ちつく”ということがありませんか？\r\nさむがりの“しろくま”や、自信がない“ぺんぎん？”、\r\n食べ残し(?!)の“とんかつ”、はずかしがりやの“ねこ”、\r\n正体をかくしている“とかげ”など、ちょっぴりネガティブだけど\r\n個性的な“すみっコ”たちがいっぱい。\r\nすみっこが好きな方、すみっこが気になる方、あなたもすみっコなかまになりませんか？",
+  "date": "2025-04-04",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/3d/17/548858_5OIbj.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/3d/17/548858_5OIbj.jpg"
+  },
+  "eps": 26,
+  "rating": {
+    "rank": 0,
+    "total": 13,
+    "count": {
+      "1": 0,
+      "2": 2,
+      "3": 0,
+      "4": 0,
+      "5": 4,
+      "6": 2,
+      "7": 1,
+      "8": 3,
+      "9": 1,
+      "10": 0
+    },
+    "score": 5.8
+  },
+  "tags": [
+    {
+      "name": "TV",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年4月",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "FanWorks",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "治愈",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "萌哟",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025夏",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025春",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025秋",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "萌",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "548858"
+    },
+    {
+      "site": "unext",
+      "id": "SID0234949",
+      "begin": "2025-10-10T15:00:00.000Z",
+      "broadcast": "R/2025-10-10T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/288052"
+    },
+    {
+      "site": "mal",
+      "id": "61300"
+    },
+    {
+      "site": "anidb",
+      "id": "19305"
+    },
+    {
+      "site": "aniList",
+      "id": "188884"
+    }
+  ]
+}

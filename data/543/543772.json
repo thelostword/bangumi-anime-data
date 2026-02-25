@@ -1,0 +1,275 @@
+{
+  "id": 543772,
+  "name": "デッドアカウント",
+  "name_cn": "死亡账号",
+  "summary": "死者的SNS帐号会怎么样呢？那些留下未缘的亡者帐号，最终会化为数位幽灵──『化垢』，重新在现世现身。\r\n为了替妹妹绯里筹措治疗费，缘城苍吏以炎上系实况主「青蓝苹果」的身份每天进行直播活动。然而，因某个契机觉醒了电能的缘城，被带往谣言不断的「弥电学园」。那是一所随着网路普及而诞生，专门培养能驱除数位化幽灵的新世代灵媒师的学园！\r\n燃烧、击碎、驱除──现代式除灵战斗正式开幕！\r\n\r\n[简介原文]\r\n死者のSNSアカウントってどうなると思う？\r\n未練を残した「亡者のアカウント」（デッドアカウント）は、やがてデジタルの幽霊――化け垢として現世へ蘇る……。\r\n縁城蒼吏は、妹・緋里の治療費を稼ぐため、炎上系配信者『煽りんご』として日々配信活動をしていた。\r\nしかし、とあるきっかけで電能に開眼した縁城は、怪しい噂の絶えない『弥電学園』へと連れられる。\r\nそこはインターネットの普及と共にデジタル化してしまった幽霊を祓う、新時代の霊媒師を育てる学園だった！\r\n燃やして叩いて祓う、現代式除霊バトルアクション開幕！",
+  "date": "2026-01-10",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/86/7c/543772_Io88u.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/86/7c/543772_Io88u.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 9641,
+    "total": 314,
+    "count": {
+      "1": 5,
+      "2": 12,
+      "3": 37,
+      "4": 94,
+      "5": 103,
+      "6": 51,
+      "7": 5,
+      "8": 4,
+      "9": 1,
+      "10": 2
+    },
+    "score": 4.6
+  },
+  "tags": [
+    {
+      "name": "2026年1月",
+      "count": 179,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 129,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 119,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 94,
+      "total_cont": 0
+    },
+    {
+      "name": "SynergySP",
+      "count": 82,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 78,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 60,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 46,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 44,
+      "total_cont": 0
+    },
+    {
+      "name": "互联网",
+      "count": 37,
+      "total_cont": 0
+    },
+    {
+      "name": "讲谈社",
+      "count": 29,
+      "total_cont": 0
+    },
+    {
+      "name": "动作",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "齐藤启也",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "斉藤啓也",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "都市",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "怪谈",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "少年向",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "炎上系",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未放送",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "一话弃",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "隐世",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "花江夏樹",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改编",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "広田光毅",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日画",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "543772"
+    },
+    {
+      "site": "nicovideo",
+      "id": "dead-account",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0251275",
+      "begin": "2026-01-10T15:00:00.000Z",
+      "broadcast": "R/2026-01-10T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "632-7",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "144273",
+      "begin": "2026-01-10T15:00:00.000Z",
+      "broadcast": "R/2026-01-10T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "144273",
+      "begin": "2026-01-10T15:00:00.000Z",
+      "broadcast": "R/2026-01-10T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtRMQN8lPVcnq4eSonWaS1MI",
+      "begin": "2026-01-17T15:00:00.000Z",
+      "broadcast": "R/2026-01-17T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/286291"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JiQXR4zJbzIwxsiMHu_HSZK",
+      "begin": "2026-01-17T15:00:00.000Z",
+      "broadcast": "R/2026-01-17T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3840"
+    },
+    {
+      "site": "crunchyroll",
+      "id": "GT00365559",
+      "begin": "2026-01-10T00:00:00.000Z",
+      "broadcast": "R/2026-01-10T00:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "28536",
+      "begin": "2026-01-13T15:00:00.000Z",
+      "broadcast": "R/2026-01-13T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0GFTCC2LC",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "disneyplus",
+      "id": "4kY38L6bDWwi",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mal",
+      "id": "61196"
+    },
+    {
+      "site": "anidb",
+      "id": "19209"
+    },
+    {
+      "site": "aniList",
+      "id": "187901"
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "id": 535897,
+  "name": "うごく！ねこむかしばなし",
+  "name_cn": "会动的！从前从前有只猫 世界喵童话",
+  "summary": "「もしも、ねこがあの物語に登場したら…?」\r\n有名な昔話や童話にねこが加わると、\r\n癒したっぷりでシュールな新展開が繰り広げられてしまう…!?\r\nキジトラ、チャトラ、ミケにシロネコ、\r\n多種多様なねこ×昔話で全人類癒され必至!\r\n可愛いねこコメディーがはじまる!",
+  "date": "2025-10-15",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/73/c3/535897_sz0Y0.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/73/c3/535897_sz0Y0.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 5601,
+    "total": 70,
+    "count": {
+      "1": 0,
+      "2": 1,
+      "3": 0,
+      "4": 2,
+      "5": 18,
+      "6": 28,
+      "7": 17,
+      "8": 3,
+      "9": 1,
+      "10": 0
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 36,
+      "total_cont": 0
+    },
+    {
+      "name": "治愈",
+      "count": 33,
+      "total_cont": 0
+    },
+    {
+      "name": "童话",
+      "count": 26,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年10月",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "猫",
+      "count": 22,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "StudioComet",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "绘本改",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "温馨",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "青山吉能",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "跨季连播",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "喜剧",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "角川",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "表",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2D",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "anime",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年1月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画短片",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Q4",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "陆伍",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "535897"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtTPX2g-0I9TNvLz--lYSDlT",
+      "begin": "2025-10-15T11:00:06.000Z",
+      "broadcast": "R/2025-10-15T11:00:06.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JjkeEZzEWJeZQuPZMk0Yee1",
+      "begin": "2025-10-15T11:00:06.000Z",
+      "broadcast": "R/2025-10-15T11:00:06.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "147114",
+      "begin": "2025-10-15T11:00:00.000Z",
+      "broadcast": "R/2025-10-15T11:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "147114",
+      "begin": "2025-10-15T11:00:00.000Z",
+      "broadcast": "R/2025-10-15T11:00:00.000Z/P7D"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/297743"
+    },
+    {
+      "site": "mal",
+      "id": "61254"
+    },
+    {
+      "site": "anidb",
+      "id": "19588"
+    },
+    {
+      "site": "aniList",
+      "id": "188529"
+    }
+  ]
+}

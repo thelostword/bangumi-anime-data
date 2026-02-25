@@ -1,0 +1,187 @@
+{
+  "id": 74218,
+  "name": "クラッシャージョウ OVA",
+  "name_cn": "宇宙先锋 OVA",
+  "summary": "OVA1　クラッシャージョウ - 氷結監獄の罠 \r\nOVA2　クラッシャージョウ - 最終兵器アッシュ \r\n160年，掌握了恒星飞行技术的人类开始了星际移民，行星改造技术也随之兴起。CRUSHER其实就是宇宙便利屋，接受各种各样的委托，主角JOE在度假的时候接受了来自基利斯的营救囚犯的委托，其实这是基利斯独裁政府的阴谋，主角四人组必须力挽狂澜，解除宇宙的危机……… ",
+  "date": "1989-02-05",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/2c/4d/74218_7k37k.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/2c/4d/74218_7k37k.jpg"
+  },
+  "eps": 2,
+  "rating": {
+    "rank": 0,
+    "total": 33,
+    "count": {
+      "1": 0,
+      "2": 1,
+      "3": 0,
+      "4": 4,
+      "5": 10,
+      "6": 12,
+      "7": 6,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.5
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 24,
+      "total_cont": 0
+    },
+    {
+      "name": "1989",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "SUNRISE",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "滝沢敏文",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "独立ova",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "1989年",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "小林清志",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "サンライズ",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "五武冬史",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "高千穂遙",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "其他",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "机战",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "可看可不看",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "竹村拓",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "SF",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "鈴木良武",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "85-89",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "宇宙先锋",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "安彦良和",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "千葉耕市",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "小原乃梨子",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "74218"
+    },
+    {
+      "site": "danime",
+      "id": "28360",
+      "begin": "2025-10-09T15:00:00.000Z",
+      "broadcast": "R/2025-10-09T15:00:00.000Z/P7D",
+      "comment": "氷結監獄の罠, 最終兵器アッシュ: 28361"
+    },
+    {
+      "site": "unext",
+      "id": "SID0014709",
+      "begin": "2025-10-20T15:00:00.000Z",
+      "broadcast": "R/2025-10-20T15:00:00.000Z/P7D",
+      "comment": "氷結監獄の罠, 最終兵器アッシュ: SID0014708"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/111271"
+    }
+  ]
+}

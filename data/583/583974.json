@@ -1,0 +1,100 @@
+{
+  "id": 583974,
+  "name": "小泉八雲のKWAIDANの世界",
+  "name_cn": "小泉八云的怪谈世界",
+  "summary": "「小泉八雲のKWAIDANの世界」は、島根の松江市に居住し、日本の怪談文学に大きな足跡を残したラフカディオ・ハーンこと小泉八雲の作品が原作。同一のシナリオを使って、一般的な2Dアニメ調の「アニメルック版」と、AIによるフォトリアルな表現で怪談の恐怖感を強調した「実写ルック版」という2つの異なるアプローチで、小泉八雲の幻想的な世界観が再現される。",
+  "date": "2025-10-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/99/75/583974_0OKHb.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/99/75/583974_0OKHb.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 3,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 2,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 2.3
+  },
+  "tags": [
+    {
+      "name": "2025年10月",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "AI",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "DLE",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Frogman",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "583974"
+    },
+    {
+      "site": "unext",
+      "id": "SID0238985",
+      "begin": "2025-10-10T03:00:00.000Z",
+      "broadcast": "R/2025-10-10T03:00:00.000Z/P7D",
+      "comment": "実写ルック版: SID0238987"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/300211"
+    }
+  ]
+}

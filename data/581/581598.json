@@ -1,0 +1,243 @@
+{
+  "id": 581598,
+  "name": "ガングリオン",
+  "name_cn": "GANGLION",
+  "summary": "2000年代初頭の東京。世界征服を目論む「株式会社ガングリオン」の戦闘員・磯辺。彼の職場は戦場だ。タイツ一枚で「東京スギ花粉作戦」や「富士山爆破作戦」に臨むも、ヒーロー・ホープマンの正義という名の一撃にあっさり惨敗。コンプラ黎明期、上司の無茶にもひたすら耐えて奮闘する…すべてのはたらく人々に捧ぐ、“お仕事”ドラマ。どこか人ごとではない、哀しきサラリーマン戦闘員の物語。",
+  "date": "2025-10-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/da/ba/581598_O9Ce9.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/da/ba/581598_O9Ce9.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 7155,
+    "total": 75,
+    "count": {
+      "1": 0,
+      "2": 3,
+      "3": 3,
+      "4": 5,
+      "5": 21,
+      "6": 30,
+      "7": 10,
+      "8": 2,
+      "9": 1,
+      "10": 0
+    },
+    "score": 5.5
+  },
+  "tags": [
+    {
+      "name": "2025年10月",
+      "count": 37,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 29,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 28,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 28,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "studioMaf",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "渡边步",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "职场",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "渡辺歩",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "田中亮輔",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "特摄",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "4~5",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "大平晋也",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "杉田智和",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "立木文彦",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "片长太短...看的很没意思",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "MaF",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "上田燿司",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "秋",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "anime",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "表",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "581598"
+    },
+    {
+      "site": "unext",
+      "id": "SID0232889",
+      "begin": "2025-10-07T13:00:00.000Z",
+      "broadcast": "R/2025-10-07T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ganglion-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "abema",
+      "id": "19-280",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "danime",
+      "id": "28311",
+      "begin": "2025-10-07T13:00:00.000Z",
+      "broadcast": "R/2025-10-07T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "68e3e206aaf82561f9a74e2a"
+    },
+    {
+      "site": "mikan",
+      "id": "3802"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/299595"
+    },
+    {
+      "site": "prime",
+      "id": "B0FTGP8DTX",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mal",
+      "id": "62378"
+    },
+    {
+      "site": "anidb",
+      "id": "19548"
+    },
+    {
+      "site": "aniList",
+      "id": "198117"
+    }
+  ]
+}

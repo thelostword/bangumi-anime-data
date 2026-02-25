@@ -1,0 +1,215 @@
+{
+  "id": 495531,
+  "name": "ダーウィン事変",
+  "name_cn": "达尔文事变",
+  "summary": "なんで、人間だけが特別なの？\r\n\r\nアメリカ・ミズーリ州の片田舎に暮らす少年・チャーリーは、人間を超える知能とチンパンジー\r\nを超える身体能力を併せもつ、半分ヒトで半分チンパンジーの「ヒューマンジー」。\r\n\r\n15歳になったチャーリーは、人間の里親の勧めで初めて学校に入学。\r\nそこでチャーリーは、頭脳明晰だがコミュニケーションが苦手なルーシーと出会う。\r\n\r\n平穏な学校生活もつかの間、チャーリーはその出自の特異性ゆえに、「動物解放」を掲げる\r\nテロ組織・ALAにつけ狙われることに！\r\n\r\nチャーリーは家族やルーシーを守るため、ALAと対決する道を選択する——\r\n\r\n「テロ」「差別」「人権」「炎上」……ヒトが抱える問題に、\r\n「ヒト以外」のチャーリーが、ルーシーとともに対峙する。\r\n\r\nヒューマン＆ノン・ヒューマンドラマが、ここに開幕!!",
+  "date": "2026-01-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/41/af/495531_W0D3B.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/41/af/495531_W0D3B.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 9918,
+    "total": 974,
+    "count": {
+      "1": 507,
+      "2": 125,
+      "3": 93,
+      "4": 83,
+      "5": 72,
+      "6": 55,
+      "7": 21,
+      "8": 4,
+      "9": 3,
+      "10": 11
+    },
+    "score": 2.4
+  },
+  "tags": [
+    {
+      "name": "2026年1月",
+      "count": 263,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 225,
+      "total_cont": 0
+    },
+    {
+      "name": "BELLNOXFILMS",
+      "count": 169,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 168,
+      "total_cont": 0
+    },
+    {
+      "name": "伦理",
+      "count": 131,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 113,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 106,
+      "total_cont": 0
+    },
+    {
+      "name": "剧情",
+      "count": 104,
+      "total_cont": 0
+    },
+    {
+      "name": "津田尚克",
+      "count": 103,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 78,
+      "total_cont": 0
+    },
+    {
+      "name": "猎奇",
+      "count": 68,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 61,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 52,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "SF",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "猪爪慎一",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "种崎敦美",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "讲谈社",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "反人类",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "BELLNOX",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "史",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "猩猩",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "动保",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "杂交",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "Films",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "人兽",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "495531"
+    },
+    {
+      "site": "mikan",
+      "id": "3852"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/255064"
+    },
+    {
+      "site": "prime",
+      "id": "B0FZLYNYGL",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mal",
+      "id": "58886"
+    },
+    {
+      "site": "anidb",
+      "id": "18646"
+    },
+    {
+      "site": "aniList",
+      "id": "177679"
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "id": 576047,
+  "name": "ポーション、わが身を助ける",
+  "name_cn": "魔法药水救救我",
+  "summary": "普通の女子高生・カエデは、\r\n見覚えのない路地裏で目を覚ました。\r\nそこは獣人やエルフ、ドラゴンのいる不思議な異世界。\r\n\r\nカエデは持っていたリュックサックに\r\n見覚えのない本があることに気がつく。\r\nそれは「生成」と唱えるだけで\r\nポーションが出来てしまう不思議な本だった！\r\n\r\n異世界に放り出されたカエデにとって、\r\n生成されたポーションは生活を支える糧になった。\r\n\r\nいつか日本へ帰ることを望みながら\r\n女子高生の異世界での奮闘は続いていく―",
+  "date": "2025-10-02",
+  "platform": "动态漫画",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/82/df/576047_l8Fe8.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/82/df/576047_l8Fe8.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 9624,
+    "total": 248,
+    "count": {
+      "1": 9,
+      "2": 16,
+      "3": 35,
+      "4": 63,
+      "5": 66,
+      "6": 39,
+      "7": 10,
+      "8": 6,
+      "9": 2,
+      "10": 2
+    },
+    "score": 4.5
+  },
+  "tags": [
+    {
+      "name": "异世界",
+      "count": 64,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年10月",
+      "count": 61,
+      "total_cont": 0
+    },
+    {
+      "name": "轻小说改",
+      "count": 38,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 33,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 32,
+      "total_cont": 0
+    },
+    {
+      "name": "转生",
+      "count": 29,
+      "total_cont": 0
+    },
+    {
+      "name": "ImageworksStudio",
+      "count": 28,
+      "total_cont": 0
+    },
+    {
+      "name": "动态漫画",
+      "count": 26,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "厕纸",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "轻改",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "动态漫",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "ImagicaInfos",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "穿越",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "凤傲天",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2025秋",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "魔法",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "屎",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "女主视角",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "20",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "炼金术",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "M10",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "生活",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "576047"
+    },
+    {
+      "site": "unext",
+      "id": "SID0232895",
+      "begin": "2025-10-03T03:00:00.000Z",
+      "broadcast": "R/2025-10-03T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "potion",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "abema",
+      "id": "54-111",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "danime",
+      "id": "28269",
+      "begin": "2025-10-02T16:15:00.000Z",
+      "broadcast": "R/2025-10-02T16:15:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtRqkCw92gsIC2SMdGy-y7Cb",
+      "begin": "2025-10-02T17:15:06.000Z",
+      "broadcast": "R/2025-10-02T17:15:06.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JikS8edJawSiM0R744Q9mpq",
+      "begin": "2025-10-02T17:15:06.000Z",
+      "broadcast": "R/2025-10-02T17:15:06.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "146539",
+      "begin": "2025-10-02T17:15:00.000Z",
+      "broadcast": "R/2025-10-02T17:15:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "146539",
+      "begin": "2025-10-02T17:15:00.000Z",
+      "broadcast": "R/2025-10-02T17:15:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3779"
+    },
+    {
+      "site": "prime",
+      "id": "B0FSMMC7P1",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/297286"
+    },
+    {
+      "site": "mal",
+      "id": "62144"
+    },
+    {
+      "site": "anidb",
+      "id": "19633"
+    },
+    {
+      "site": "aniList",
+      "id": "198561"
+    }
+  ]
+}

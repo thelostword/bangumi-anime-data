@@ -1,0 +1,213 @@
+{
+  "id": 587454,
+  "name": "わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?）〜ネクストシャイン！〜",
+  "name_cn": "我们不可能成为恋人！绝对不行。 (※似乎可行？) 〜再次闪耀！〜",
+  "summary": "わたしはわたしを、好きになりたいから！\r\n陰キャでダメダメだった過去を捨て、高校デビューを果たした少女、 甘織れな子。\r\n運よくカーストトップの陽キャグループに\r\n入ったと思いきや、\r\n何とその中の二人から告白されちゃった！？\r\n\r\n学園のスパダリ・王塚真唯と、\r\n\r\n学園の天使・瀬名紫陽花さん。\r\n\r\nそんな二人の愛を受け止めるなんて、ムリムリ！\r\n\r\n返事に悩んでいたら、\r\n香穂ちゃんと一緒にコスプレイベント\r\nに出ることに。\r\n\r\n友達の頼みを聞くという形で、\r\n告白の返事を保留にするれな子。\r\n\r\nでもコスプレを通して香穂ちゃんの『好き』に触れたら、\r\nなにかが自分の中で\r\n変わるような気がして……！\r\n\r\nわたしが本当に欲しかったものって、なんだろう。\r\n\r\n果たして恋人はムリなのか！？\r\n\"ムリじゃなかった\"のか！？",
+  "date": "2026-01-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/a1/ea/587454_1KdKJ.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/a1/ea/587454_1KdKJ.jpg"
+  },
+  "eps": 5,
+  "rating": {
+    "rank": 1261,
+    "total": 4659,
+    "count": {
+      "1": 5,
+      "2": 2,
+      "3": 13,
+      "4": 39,
+      "5": 106,
+      "6": 525,
+      "7": 1910,
+      "8": 1657,
+      "9": 289,
+      "10": 113
+    },
+    "score": 7.3
+  },
+  "tags": [
+    {
+      "name": "百合",
+      "count": 1626,
+      "total_cont": 0
+    },
+    {
+      "name": "后宫",
+      "count": 1096,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 933,
+      "total_cont": 0
+    },
+    {
+      "name": "喜剧",
+      "count": 916,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 825,
+      "total_cont": 0
+    },
+    {
+      "name": "studioMOTHER",
+      "count": 592,
+      "total_cont": 0
+    },
+    {
+      "name": "轻小说改",
+      "count": 520,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 490,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 412,
+      "total_cont": 0
+    },
+    {
+      "name": "剧场版",
+      "count": 369,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 357,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 270,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 266,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 241,
+      "total_cont": 0
+    },
+    {
+      "name": "轻改",
+      "count": 197,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年1月",
+      "count": 171,
+      "total_cont": 0
+    },
+    {
+      "name": "内沼菜摘",
+      "count": 56,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 54,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 28,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年11月",
+      "count": 28,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 26,
+      "total_cont": 0
+    },
+    {
+      "name": "荒川稔久",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年10月",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "恋人不行",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "青春",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "大女主",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "studio_MOTHER",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "再次神人！",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "真百",
+      "count": 5,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "587454"
+    },
+    {
+      "site": "danime",
+      "id": "28107",
+      "begin": "2025-12-31T16:00:00.000Z",
+      "broadcast": "R/2025-12-31T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0F9QGWCMF",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3870"
+    },
+    {
+      "site": "mal",
+      "id": "62543"
+    },
+    {
+      "site": "aniList",
+      "id": "199112"
+    }
+  ]
+}

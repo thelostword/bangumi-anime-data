@@ -1,0 +1,217 @@
+{
+  "id": 74199,
+  "name": "クラッシャージョウ",
+  "name_cn": "宇宙先锋",
+  "summary": "高千穗遥同名系列小说改编，安彦良和初监督动画。\r\n长达四年的制作，于1983年3月12日上映的剧场版动画，与《幻魔大战》《宇宙战舰大和号 完结篇》同期上映，被称作1983年的春季动画电影票房大战，最终本作位于三作的最末。\r\n故事发生在2160年，在人类得以移民太阳系外的未来。从事于宇宙中的便利屋，被称作Crusher的主角Joe一行人，突然收到了一个特殊的委托——护送一位处于冷冻睡眠中的病重的大小姐前往行星Miccola……",
+  "date": "1983-03-12",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/b8/98/74199_2v6d3.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/b8/98/74199_2v6d3.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 48,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 1,
+      "4": 0,
+      "5": 7,
+      "6": 14,
+      "7": 21,
+      "8": 4,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.3
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 36,
+      "total_cont": 0
+    },
+    {
+      "name": "SUNRISE",
+      "count": 22,
+      "total_cont": 0
+    },
+    {
+      "name": "安彦良和",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "1983",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "竹村拓",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "小林清志",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "小原乃梨子",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "高千穂遙",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "河森正治",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "サンライズ",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "独立ova",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "1983年",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "SF",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "剧场",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "80-84",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "宇宙先锋",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "高千穗遥",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "板野一郎",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "中村光毅",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "机战",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "可看可不看",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "大友克洋",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "74199"
+    },
+    {
+      "site": "danime",
+      "id": "28359",
+      "begin": "2025-10-09T15:00:00.000Z",
+      "broadcast": "R/2025-10-09T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0014707",
+      "begin": "2025-10-20T15:00:00.000Z",
+      "broadcast": "R/2025-10-20T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "tmdb",
+      "id": "movie/76729"
+    },
+    {
+      "site": "mal",
+      "id": "2722"
+    },
+    {
+      "site": "anidb",
+      "id": "2058"
+    },
+    {
+      "site": "aniList",
+      "id": "2722"
+    }
+  ]
+}

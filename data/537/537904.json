@@ -1,0 +1,267 @@
+{
+  "id": 537904,
+  "name": "暗殺者である俺のステータスが勇者よりも明らかに強いのだが",
+  "name_cn": "明明只是暗杀者，我的面板数值却比勇者还要强",
+  "summary": "クラスメイトと共に異世界に召喚された高校生・織田 晶。\r\n召喚によってクラスメイト全員にチート能力が付与される中、\r\n彼は生来の影の薄さからか平凡な“暗殺者”の能力を得る。\r\n\r\nだが、ただの“暗殺者”のはずなのにステータス値が、\r\n最強の職業“勇者”すら軽々と凌駕していて——!?\r\n\r\nそして、召喚の首謀者である国王の言動に疑念を抱いた晶は、\r\n自分の存在をひた隠しその陰謀を暴くも、逆にあらぬ罪を\r\n着せられ追われる立場に追い込まれてしまう。\r\n\r\n国王への復讐を誓った彼は、逃げ込んだ前人未踏の迷宮深層で\r\nエルフの少女アメリアと邂逅を果たす——…。\r\n\r\nこれは“暗殺者”の能力を得た少年が、エルフの少女と出逢い\r\n真の“暗殺者”へと至るまでの物語。",
+  "date": "2025-10-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/4a/44/537904_2b515.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/4a/44/537904_2b515.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 9749,
+    "total": 1913,
+    "count": {
+      "1": 39,
+      "2": 91,
+      "3": 247,
+      "4": 516,
+      "5": 598,
+      "6": 295,
+      "7": 98,
+      "8": 18,
+      "9": 2,
+      "10": 9
+    },
+    "score": 4.6
+  },
+  "tags": [
+    {
+      "name": "异世界",
+      "count": 517,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年10月",
+      "count": 489,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 344,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 344,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 341,
+      "total_cont": 0
+    },
+    {
+      "name": "SUNRISE",
+      "count": 333,
+      "total_cont": 0
+    },
+    {
+      "name": "轻小说改",
+      "count": 299,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 217,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 192,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 154,
+      "total_cont": 0
+    },
+    {
+      "name": "厕纸",
+      "count": 143,
+      "total_cont": 0
+    },
+    {
+      "name": "轻改",
+      "count": 141,
+      "total_cont": 0
+    },
+    {
+      "name": "开挂无敌",
+      "count": 57,
+      "total_cont": 0
+    },
+    {
+      "name": "羽原信義",
+      "count": 40,
+      "total_cont": 0
+    },
+    {
+      "name": "羽原信义",
+      "count": 37,
+      "total_cont": 0
+    },
+    {
+      "name": "龙傲天",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "穿越",
+      "count": 22,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "2025秋",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "岡田邦彦",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "圣母",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "季番",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "大塚剛央",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "水野朔",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "サンライズ",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日升",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "537904"
+    },
+    {
+      "site": "bilibili",
+      "id": "27682304",
+      "begin": "2025-10-06T16:30:00.000Z",
+      "broadcast": "R/2025-10-06T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "173-8",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "muse_tw",
+      "id": "PL12UaAf_xzfryMCRJTKmgCKc6B3Ophv66",
+      "begin": "2025-10-06T16:30:06.000Z",
+      "broadcast": "R/2025-10-06T16:30:06.000Z/P7D"
+    },
+    {
+      "site": "viu",
+      "id": "2687372",
+      "begin": "2025-10-06T16:30:04.000Z",
+      "broadcast": "R/2025-10-06T16:30:04.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "143810",
+      "begin": "2025-10-06T16:30:00.000Z",
+      "broadcast": "R/2025-10-06T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "28253",
+      "begin": "2025-10-06T17:00:00.000Z",
+      "broadcast": "R/2025-10-06T17:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "82159136",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "crunchyroll",
+      "id": "G0XHWM1JP",
+      "begin": "2025-10-06T00:00:00.000Z",
+      "broadcast": "R/2025-10-06T00:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "68e3e1feaaf82561f9a74e04"
+    },
+    {
+      "site": "gamer",
+      "id": "143810",
+      "begin": "2025-10-06T16:30:00.000Z",
+      "broadcast": "R/2025-10-06T16:30:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3762"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/284644"
+    },
+    {
+      "site": "mal",
+      "id": "61026"
+    },
+    {
+      "site": "anidb",
+      "id": "19162"
+    },
+    {
+      "site": "aniList",
+      "id": "186794"
+    }
+  ]
+}

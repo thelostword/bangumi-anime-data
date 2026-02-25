@@ -1,0 +1,261 @@
+{
+  "id": 543189,
+  "name": "野原ひろし 昼メシの流儀",
+  "name_cn": "野原广志午餐流派",
+  "summary": "サラリーマンの昼メシ――それは家族の知らない男だけの世界。旨いメシを求めて、限られたお小遣いをやりくりしながら、こだわりにこだわり抜く男の食いざまに、日本中が腹を鳴らす!! 『クレヨンしんちゃん』でおなじみの「父ちゃん」こと「野原ひろし」が主役の公式スピンオフ!!",
+  "date": "2025-10-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/96/8e/543189_UdZaU.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/96/8e/543189_UdZaU.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 3645,
+    "total": 1406,
+    "count": {
+      "1": 11,
+      "2": 4,
+      "3": 14,
+      "4": 16,
+      "5": 72,
+      "6": 294,
+      "7": 736,
+      "8": 234,
+      "9": 17,
+      "10": 8
+    },
+    "score": 6.8
+  },
+  "tags": [
+    {
+      "name": "美食",
+      "count": 374,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年10月",
+      "count": 305,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 278,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 270,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 259,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 180,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 166,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 138,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 132,
+      "total_cont": 0
+    },
+    {
+      "name": "DLE",
+      "count": 102,
+      "total_cont": 0
+    },
+    {
+      "name": "森川智之",
+      "count": 70,
+      "total_cont": 0
+    },
+    {
+      "name": "西山司",
+      "count": 43,
+      "total_cont": 0
+    },
+    {
+      "name": "猎奇",
+      "count": 30,
+      "total_cont": 0
+    },
+    {
+      "name": "森ハヤシ",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "抽象",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "蜡笔小新",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "职场",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "喜剧",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "恶搞",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "治愈",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "神作",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "多田彰文",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "季番",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2025秋",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "シンエイ動画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "野原广志的午餐流派",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "543189"
+    },
+    {
+      "site": "nicovideo",
+      "id": "hiroshi-hirumeshi",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0232881",
+      "begin": "2025-10-06T14:30:00.000Z",
+      "broadcast": "R/2025-10-06T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "35-132",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer",
+      "id": "144210",
+      "begin": "2025-10-03T15:30:00.000Z",
+      "broadcast": "R/2025-10-03T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "144210",
+      "begin": "2025-10-03T15:30:00.000Z",
+      "broadcast": "R/2025-10-03T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3782"
+    },
+    {
+      "site": "danime",
+      "id": "28350",
+      "begin": "2025-10-06T14:30:00.000Z",
+      "broadcast": "R/2025-10-06T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "68e3e207aaf82561f9a74e2e"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/286236"
+    },
+    {
+      "site": "prime",
+      "id": "B0FST1XLKT",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mal",
+      "id": "61184"
+    },
+    {
+      "site": "anidb",
+      "id": "19207"
+    },
+    {
+      "site": "aniList",
+      "id": "187860"
+    },
+    {
+      "site": "netflix",
+      "id": "82176195",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

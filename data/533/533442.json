@@ -1,0 +1,249 @@
+{
+  "id": 533442,
+  "name": "アルマちゃんは家族になりたい",
+  "name_cn": "小阿尔玛想要成为家人",
+  "summary": "かわいらしい少女の外見に高い戦闘力を兼ね備えたボディ。\r\n人間以上の学習能力と判断力を有するAI。\r\n完全無欠の学習型自立戦闘ロボット「アルマ」を造り出した、\r\n不遇の若き天才科学者エンジとスズメの才能は世界に認められる──はずだった!?\r\n自分たちを「おとうさん」「おかあさん」と呼ぶアルマに、エンジとスズメは大混乱。\r\nそれでもアルマの高性能AIを育て、最高のロボットにするため、\r\nみんなで家族として生活することに。\r\n見るもの、触れるもの、全てが「はじめて」のアルマは何でも興味深々。\r\n最強の学習機能と行動力でエンジやスズメたちを振り回しながら、\r\n世界をどんどん広げていく。\r\nニュースタイル・アットホームコメディ（!?）開幕！！",
+  "date": "2025-10-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/a7/64/533442_MAHic.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/a7/64/533442_MAHic.jpg"
+  },
+  "eps": 11,
+  "rating": {
+    "rank": 6055,
+    "total": 1064,
+    "count": {
+      "1": 3,
+      "2": 1,
+      "3": 9,
+      "4": 20,
+      "5": 134,
+      "6": 431,
+      "7": 374,
+      "8": 73,
+      "9": 12,
+      "10": 7
+    },
+    "score": 6.3
+  },
+  "tags": [
+    {
+      "name": "2025年10月",
+      "count": 314,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 293,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 278,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 214,
+      "total_cont": 0
+    },
+    {
+      "name": "萝莉",
+      "count": 203,
+      "total_cont": 0
+    },
+    {
+      "name": "养女儿",
+      "count": 177,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 151,
+      "total_cont": 0
+    },
+    {
+      "name": "治愈",
+      "count": 142,
+      "total_cont": 0
+    },
+    {
+      "name": "StudioFlad",
+      "count": 138,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 122,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 108,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 76,
+      "total_cont": 0
+    },
+    {
+      "name": "南康宏",
+      "count": 35,
+      "total_cont": 0
+    },
+    {
+      "name": "女儿",
+      "count": 26,
+      "total_cont": 0
+    },
+    {
+      "name": "M・A・O",
+      "count": 24,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "机器人",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "鈴木崚汰",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "家庭",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "喜剧",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2025秋",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "萝卜",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "月城日花",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "菅原雪絵",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2020-2029",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "533442"
+    },
+    {
+      "site": "nicovideo",
+      "id": "alma-chan",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0234927",
+      "begin": "2025-10-10T14:30:00.000Z",
+      "broadcast": "R/2025-10-10T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-298",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "danime",
+      "id": "28273",
+      "begin": "2025-10-05T14:30:00.000Z",
+      "broadcast": "R/2025-10-05T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "68e3e1faaaf82561f9a74dee"
+    },
+    {
+      "site": "mikan",
+      "id": "3752"
+    },
+    {
+      "site": "crunchyroll",
+      "id": "GXJHM3GZJ",
+      "begin": "2025-10-05T00:00:00.000Z",
+      "broadcast": "R/2025-10-05T00:00:00.000Z/P7D"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/289217"
+    },
+    {
+      "site": "prime",
+      "id": "B0DTFG8FG9",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mal",
+      "id": "60781"
+    },
+    {
+      "site": "anidb",
+      "id": "19116"
+    },
+    {
+      "site": "aniList",
+      "id": "186190"
+    }
+  ]
+}
