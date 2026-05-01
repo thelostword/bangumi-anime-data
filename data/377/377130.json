@@ -1,0 +1,249 @@
+{
+  "id": 377130,
+  "name": "とんがり帽子のアトリエ",
+  "name_cn": "尖帽子的魔法工房",
+  "summary": "众人皆以为魔法是与生俱来的血统，可可却意外撞见了通往魔女之路的另一种可能，这也让她陷入左右世界命运的争斗核心。\r\n\r\n\r\n\r\n[简介原文]\r\n生まれた時から魔法を使えない人は魔法使いになれないし、魔法をかける瞬間を見てはならないのがこの世界の掟。\r\nそれでも小さな村の少女・ココは、昔から魔法使いへの憧れを抱き続けていた。\r\nある日、村を訪れた魔法使い・キーフリーが魔法を使うところを見てしまい、大きな秘密を知る。\r\nそれは、特別な道具で魔法陣を描けば、本当は誰にでも魔法が使えるという、魔法使いたちが隠した「絶対の秘密」だった――。",
+  "date": "2026-04-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/27/ff/377130_wDU1x.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/27/ff/377130_wDU1x.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 2473,
+    "total": 1531,
+    "count": {
+      "1": 10,
+      "2": 5,
+      "3": 9,
+      "4": 18,
+      "5": 66,
+      "6": 253,
+      "7": 684,
+      "8": 398,
+      "9": 56,
+      "10": 32
+    },
+    "score": 7
+  },
+  "tags": [
+    {
+      "name": "2026年4月",
+      "count": 790,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 691,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 673,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 526,
+      "total_cont": 0
+    },
+    {
+      "name": "BUGFILMS",
+      "count": 499,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 352,
+      "total_cont": 0
+    },
+    {
+      "name": "魔法",
+      "count": 309,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 303,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 264,
+      "total_cont": 0
+    },
+    {
+      "name": "渡边步",
+      "count": 201,
+      "total_cont": 0
+    },
+    {
+      "name": "白浜鴎",
+      "count": 105,
+      "total_cont": 0
+    },
+    {
+      "name": "渡辺歩",
+      "count": 55,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 52,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 44,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "异世界",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "濑古浩司",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "待上映",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "中村悠一",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "斋贺光希",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "久野美咲",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "本村玲奈",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "小泉纪介",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "山村响",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "花江夏树",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "月城日花",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "北村友香",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "瀬古浩司",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "未确定",
+      "count": 4,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "377130"
+    },
+    {
+      "site": "mal",
+      "id": "51553"
+    },
+    {
+      "site": "aniList",
+      "id": "147105"
+    },
+    {
+      "site": "anidb",
+      "id": "17305"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/196950"
+    },
+    {
+      "site": "abema",
+      "id": "675-9",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0282781",
+      "begin": "2026-04-06T14:00:00.000Z",
+      "broadcast": "R/2026-04-06T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "tongari-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "netflix",
+      "id": "82741721",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "danime",
+      "id": "28882",
+      "begin": "2026-04-06T14:00:00.000Z",
+      "broadcast": "R/2026-04-06T14:00:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0GVGZ66MK",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3899"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "69db11a34b29be5e9e214eec"
+    }
+  ]
+}

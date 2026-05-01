@@ -1,0 +1,161 @@
+{
+  "id": 528635,
+  "name": "クレヨンしんちゃん 超華麗!灼熱のカスカベダンサーズ",
+  "name_cn": "蜡笔小新：超华丽！灼热的春日部舞者",
+  "summary": "　「映画クレヨンしんちゃん」シリーズ32作目のタイトルは『映画クレヨンしんちゃん 超華麗！灼熱のカスカベダンサーズ』。\r\n　クレヨンしんちゃん史上初となるインドを舞台に、しんのすけたちカスカベ防衛隊が踊って踊って踊りまくる!? 大迫力間違いなしの臨場感あふれるアニメーションと壮大なスケールで贈る「映画クレヨンしんちゃん」シリーズ史上初のダンスエンターテイメントムービーが誕生します！",
+  "date": "2025-08-08",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/cc/6f/528635_fN6bf.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/cc/6f/528635_fN6bf.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 6918,
+    "total": 91,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 2,
+      "4": 10,
+      "5": 24,
+      "6": 31,
+      "7": 20,
+      "8": 0,
+      "9": 0,
+      "10": 3
+    },
+    "score": 5.7
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 48,
+      "total_cont": 0
+    },
+    {
+      "name": "蜡笔小新",
+      "count": 28,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 26,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "SHIN-EI",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "冒险",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "シンエイ動画",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "童年",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年08月08日",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "桥本昌和",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "20年代",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未发售",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "橋本昌和",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "映画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2020s",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "528635"
+    },
+    {
+      "site": "mikan",
+      "id": "3813"
+    },
+    {
+      "site": "mal",
+      "id": "60862"
+    },
+    {
+      "site": "aniList",
+      "id": "185537"
+    },
+    {
+      "site": "anidb",
+      "id": "19256"
+    },
+    {
+      "site": "unext",
+      "id": "SID0257188",
+      "begin": "2026-02-25T03:00:00.000Z",
+      "broadcast": "R/2026-02-25T03:00:00.000Z/P7D"
+    }
+  ]
+}

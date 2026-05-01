@@ -1,0 +1,211 @@
+{
+  "id": 338353,
+  "name": "POKÉTOON",
+  "name_cn": "POKÉTOON动画系列",
+  "summary": "『POKÉTOON』（ポケトゥーン）は、2020年よりYouTubeチャンネル「ポケモン Kids TV」にて配信されているポケットモンスターのWebアニメシリーズ。\r\n\r\n2020年6月5日に第1弾となる『ズルッグとミミッキュ』が、2021年5月5日には第2弾『ヒーローになりたいヤンチャム』が配信され、同年5月10日には第2弾を含む合計5つのエピソードが公開予定であることが発表された。第2弾以降は『薄明の翼』の監督である山下清悟が総監督を務める。",
+  "date": "2020-06-05",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/83/71/338353_eaTh6.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/83/71/338353_eaTh6.jpg"
+  },
+  "eps": 8,
+  "rating": {
+    "rank": 551,
+    "total": 356,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 5,
+      "6": 20,
+      "7": 87,
+      "8": 191,
+      "9": 40,
+      "10": 13
+    },
+    "score": 7.8
+  },
+  "tags": [
+    {
+      "name": "短片",
+      "count": 115,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 96,
+      "total_cont": 0
+    },
+    {
+      "name": "宝可梦",
+      "count": 78,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 67,
+      "total_cont": 0
+    },
+    {
+      "name": "2021",
+      "count": 53,
+      "total_cont": 0
+    },
+    {
+      "name": "2020",
+      "count": 49,
+      "total_cont": 0
+    },
+    {
+      "name": "StudioColorido",
+      "count": 47,
+      "total_cont": 0
+    },
+    {
+      "name": "pokemon",
+      "count": 33,
+      "total_cont": 0
+    },
+    {
+      "name": "精灵宝可梦",
+      "count": 28,
+      "total_cont": 0
+    },
+    {
+      "name": "山下清悟",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "2020年6月",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "我喜欢的动画",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "短片集",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "其他",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2020年",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "川野達朗",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "スタジオコロリド",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "井上卓",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "治愈",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2020s",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "MagicBus",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "长篇",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "338353"
+    },
+    {
+      "site": "abema",
+      "id": "2-43",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mal",
+      "id": "42161"
+    },
+    {
+      "site": "aniList",
+      "id": "119964"
+    },
+    {
+      "site": "anidb",
+      "id": "15626"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/104518"
+    }
+  ]
+}

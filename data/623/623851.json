@@ -1,0 +1,225 @@
+{
+  "id": 623851,
+  "name": "日本三國",
+  "name_cn": "日本三国",
+  "summary": "「我要重新统一这个国家」\r\n在近未来的日本，核战争、天灾、暴政等因素引发了革命，文明随之崩坏，国家一分为三，进入了相互争夺霸权的三国时代。\r\n三角青辉原本只是个不起眼地方官。后来，他以「重新统一日本」为目标，凭借自己的博学多识和聪明才辩一路向上爬升。\r\n这位被后世誉为奇才军师的男人，他的传说就此拉开帷幕——\r\n\r\n\r\n\r\n[简介原文]\r\n「この国を、再統一する」\r\n核大戦、天災、悪政などから革命が起こり、文明が崩壊した近未来の日本。\r\n国は三つに分かれ、覇権を争う三国時代に突入した。\r\nしがない地方役人だった三角青輝は「日本再統一」を目指し、豊富な知識と長けた弁舌でのし上がっていく。\r\n後に奇才軍師と称される男の伝説が、幕を開ける――！",
+  "date": "2026-04-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/e7/cf/623851_sSVfH.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/e7/cf/623851_sSVfH.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 2936,
+    "total": 825,
+    "count": {
+      "1": 8,
+      "2": 2,
+      "3": 1,
+      "4": 19,
+      "5": 38,
+      "6": 134,
+      "7": 413,
+      "8": 175,
+      "9": 20,
+      "10": 15
+    },
+    "score": 6.9
+  },
+  "tags": [
+    {
+      "name": "2026年4月",
+      "count": 380,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 312,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 258,
+      "total_cont": 0
+    },
+    {
+      "name": "StudioKAFKA",
+      "count": 252,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 177,
+      "total_cont": 0
+    },
+    {
+      "name": "历史",
+      "count": 158,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 150,
+      "total_cont": 0
+    },
+    {
+      "name": "群像",
+      "count": 146,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 139,
+      "total_cont": 0
+    },
+    {
+      "name": "寺泽和晃",
+      "count": 90,
+      "total_cont": 0
+    },
+    {
+      "name": "励志",
+      "count": 55,
+      "total_cont": 0
+    },
+    {
+      "name": "生存",
+      "count": 38,
+      "total_cont": 0
+    },
+    {
+      "name": "小野贤章",
+      "count": 38,
+      "total_cont": 0
+    },
+    {
+      "name": "内海照子",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "福山润",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "战争",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "三国",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "寺澤和晃",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "KevinPenkin",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "剧集",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "スタジオカフカ",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日漫",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "新番",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "小野坂昌也",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "623851"
+    },
+    {
+      "site": "mal",
+      "id": "63375"
+    },
+    {
+      "site": "anidb",
+      "id": "19861"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/312474"
+    },
+    {
+      "site": "unext",
+      "id": "SID0282460",
+      "begin": "2026-04-06T12:00:00.000Z",
+      "broadcast": "R/2026-04-06T12:00:00.000Z/P7D"
+    },
+    {
+      "site": "aniList",
+      "id": "206914"
+    },
+    {
+      "site": "prime",
+      "id": "B0FW4TRTDF",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3913"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "69db11a44b29be5e9e214ef0"
+    }
+  ]
+}

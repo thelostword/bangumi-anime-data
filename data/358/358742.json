@@ -1,0 +1,207 @@
+{
+  "id": 358742,
+  "name": "仙王的日常生活 第三季",
+  "name_cn": "",
+  "summary": "妖界覆灭后，妖族在人界流离失所。九宫家将长女九宫良子派往华修国“六十门”留学，暗中收集妖怪并送回太阳岛。王令等人在与九宫良子的相处中，渐渐发现了她和整个九宫家族的真实目的……逆天的仙王大人，这次又要偷偷地为何而战呢？",
+  "date": "2022-10-02",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/0c/5f/358742_pc43z.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/0c/5f/358742_pc43z.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 9782,
+    "total": 465,
+    "count": {
+      "1": 46,
+      "2": 22,
+      "3": 44,
+      "4": 85,
+      "5": 112,
+      "6": 101,
+      "7": 36,
+      "8": 12,
+      "9": 1,
+      "10": 6
+    },
+    "score": 4.6
+  },
+  "tags": [
+    {
+      "name": "国产",
+      "count": 150,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 106,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 91,
+      "total_cont": 0
+    },
+    {
+      "name": "龙傲天",
+      "count": 75,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 66,
+      "total_cont": 0
+    },
+    {
+      "name": "2022年10月",
+      "count": 58,
+      "total_cont": 0
+    },
+    {
+      "name": "仙王的日常生活",
+      "count": 37,
+      "total_cont": 0
+    },
+    {
+      "name": "中国",
+      "count": 29,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 29,
+      "total_cont": 0
+    },
+    {
+      "name": "2022",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "国漫",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "国创",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "网文改",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "第三季",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "bilibili",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "抄袭",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "好看",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "正番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "SB",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "无脑",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "齐木楠雄",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "国产动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "枯玄",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "358742"
+    },
+    {
+      "site": "prime",
+      "id": "B0GWK3X91L",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "danime",
+      "id": "28640",
+      "begin": "2026-04-08T09:00:00.000Z",
+      "broadcast": "R/2026-04-08T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0282796",
+      "begin": "2026-04-13T09:00:00.000Z",
+      "broadcast": "R/2026-04-13T09:00:00.000Z/P7D"
+    }
+  ]
+}

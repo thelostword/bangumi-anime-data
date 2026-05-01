@@ -1,0 +1,227 @@
+{
+  "id": 282118,
+  "name": "こめかみっ！ガールズ",
+  "name_cn": "七米神物语",
+  "summary": "日本では「一粒のお米には７人の神様が宿る」という伝承があります。\r\nお米の神様（米女王）の子供である越野家７姉妹。\r\n失踪した母と、それを探しに旅立ってしまったお父さん。\r\nバラバラになってしまった家族を取り戻そうと奮闘する姉妹達が、\r\nさまざまな出会いや料理を通じて。食の大切さを学び成長していきます。",
+  "date": "2026-04-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/7c/53/282118_iM5mP.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/7c/53/282118_iM5mP.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 9652,
+    "total": 76,
+    "count": {
+      "1": 5,
+      "2": 8,
+      "3": 21,
+      "4": 26,
+      "5": 8,
+      "6": 4,
+      "7": 0,
+      "8": 0,
+      "9": 3,
+      "10": 1
+    },
+    "score": 3.8
+  },
+  "tags": [
+    {
+      "name": "2026年4月",
+      "count": 62,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 48,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 35,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 34,
+      "total_cont": 0
+    },
+    {
+      "name": "萝莉",
+      "count": 30,
+      "total_cont": 0
+    },
+    {
+      "name": "LogicBoxPictures",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "鈴木鏡規謙",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "デイリープランネット",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "園田英樹",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年10月",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "未上映",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "美食",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "AI",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "观望",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "铃木镜规谦",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "DailyPlanNet",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "新田恵海",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧企划",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "26春",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "宍戸智恵",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "空",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2026我看过的动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "282118"
+    },
+    {
+      "site": "abema",
+      "id": "797-1",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mal",
+      "id": "63709"
+    },
+    {
+      "site": "aniList",
+      "id": "209940"
+    },
+    {
+      "site": "anidb",
+      "id": "19932"
+    },
+    {
+      "site": "mikan",
+      "id": "3963"
+    },
+    {
+      "site": "unext",
+      "id": "SID0282770",
+      "begin": "2026-04-02T17:30:00.000Z",
+      "broadcast": "R/2026-04-02T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "28743",
+      "begin": "2026-04-02T17:30:00.000Z",
+      "broadcast": "R/2026-04-02T17:30:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "69db11ac4b29be5e9e214f24"
+    }
+  ]
+}

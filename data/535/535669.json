@@ -1,0 +1,249 @@
+{
+  "id": 535669,
+  "name": "氷の城壁",
+  "name_cn": "冰之城墙",
+  "summary": "不擅长与人交往，在自己与别人之间筑墙的冰川小雪。\r\n除了青梅竹马的安昙美姬外，她从不与他人交往，只是静静地度过每一天。\r\n然而某天，不知为何主动靠近的男生·雨宫凑却闯入她的视野——？\r\n孤僻的女生·小雪、学校的万人迷·美姬、缺乏边界感的男生·凑、温柔体贴的篮球部员·阳太……\r\n笨拙且焦躁，却依然惹人恋爱。\r\n青春错位交织的群像剧，在此刻拉开帷幕。",
+  "date": "2026-04-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/93/8f/535669_4zoHG.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/93/8f/535669_4zoHG.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 3449,
+    "total": 657,
+    "count": {
+      "1": 3,
+      "2": 1,
+      "3": 3,
+      "4": 10,
+      "5": 34,
+      "6": 149,
+      "7": 342,
+      "8": 91,
+      "9": 14,
+      "10": 10
+    },
+    "score": 6.8
+  },
+  "tags": [
+    {
+      "name": "2026年4月",
+      "count": 400,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 356,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 307,
+      "total_cont": 0
+    },
+    {
+      "name": "StudioKAI",
+      "count": 259,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 248,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 222,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 175,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 145,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 140,
+      "total_cont": 0
+    },
+    {
+      "name": "まんきゅう",
+      "count": 50,
+      "total_cont": 0
+    },
+    {
+      "name": "青春",
+      "count": 42,
+      "total_cont": 0
+    },
+    {
+      "name": "万球",
+      "count": 35,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 22,
+      "total_cont": 0
+    },
+    {
+      "name": "永瀬アンナ",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "女性向",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "2026春",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "中西泰博",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "小林千晃",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "Netflix",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "和泉风花",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "千叶翔也",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "スタジオKAI",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "波多野翔",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "鬼头明里",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "永濑安娜",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "新番",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "现代",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "535669"
+    },
+    {
+      "site": "mal",
+      "id": "60852"
+    },
+    {
+      "site": "aniList",
+      "id": "186497"
+    },
+    {
+      "site": "anidb",
+      "id": "19139"
+    },
+    {
+      "site": "abema",
+      "id": "19-292",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/283428"
+    },
+    {
+      "site": "mikan",
+      "id": "3898"
+    },
+    {
+      "site": "nicovideo",
+      "id": "korinojoheki",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0282789",
+      "begin": "2026-04-09T15:30:00.000Z",
+      "broadcast": "R/2026-04-09T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "82031882",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "danime",
+      "id": "28844",
+      "begin": "2026-04-09T15:30:00.000Z",
+      "broadcast": "R/2026-04-09T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0GVNFM87T",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "69db11aa4b29be5e9e214f1a"
+    }
+  ]
+}

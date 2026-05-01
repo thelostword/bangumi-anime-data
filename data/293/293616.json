@@ -1,0 +1,115 @@
+{
+  "id": 293616,
+  "name": "ゼロ デュエル・マスターズ",
+  "name_cn": "Zero决斗大师",
+  "summary": "海上都市で行われるデュエル大会に招待された勝舞達。そこで再会した白凰はまるで人が変わっていた。謎の主催者、勝ち残る5人は果たして誰か、ジュラを始めとする新たなキャラクターも続々登場。5つの魂を胸にいざデュエル!",
+  "date": "2007-04-09",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/76/18/293616_f4tZE.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/76/18/293616_f4tZE.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 0,
+    "total": 3,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 0,
+      "7": 0,
+      "8": 1,
+      "9": 0,
+      "10": 1
+    },
+    "score": 7.7
+  },
+  "tags": [
+    {
+      "name": "2007",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "SynergySP",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "三池崇史",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "鈴木輪流郎",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "undefined",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "矢尾一樹",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "野島健児",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "鈴木千尋",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "空",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "藤田伸三",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "293616"
+    },
+    {
+      "site": "danime",
+      "id": "28904",
+      "begin": "2026-04-23T15:00:00.000Z",
+      "broadcast": "R/2026-04-23T15:00:00.000Z/P7D"
+    }
+  ]
+}

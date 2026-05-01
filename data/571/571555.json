@@ -1,0 +1,279 @@
+{
+  "id": 571555,
+  "name": "スノウボールアース",
+  "name_cn": "冻结地球",
+  "summary": "「YUKIO，我要交朋友。」\r\n怕生的少年・铁男唯一的朋友，是巨大机器人〈YUKIO〉。他们是与宇宙来袭的银河怪兽迎战的”救世主”。在赌上人类存亡的最终决战结束后，经过了10 年……。回到地球的铁男所看见的，是被冰雪覆盖的大地「冻结地球」！\r\n在面目全非的景色中，铁男怀抱着和 YUKIO 的「约定」，迈向了未知的世界——。\r\n\r\n\r\n[简介原文]\r\n「ユキオ、俺、友達を作る。」\r\n人見知りの少年・鉄男の唯一の友達は、巨大ロボット〈ユキオ〉。彼らは、宇宙から襲来する銀河怪獣を迎え討つ“救世主”だった。人類の存亡をかけた最終決戦を終え、10年……。地球に帰還した鉄男が目にしたのは雪と氷に覆われた大地、凍結地球〈スノウボールアース〉だった！\r\n変わり果てた景色の中、ユキオとの“約束”を胸に、鉄男は未知の世界を歩き始めるー。",
+  "date": "2026-04-03",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/61/71/571555_QryOC.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/61/71/571555_QryOC.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 8162,
+    "total": 221,
+    "count": {
+      "1": 6,
+      "2": 2,
+      "3": 5,
+      "4": 20,
+      "5": 55,
+      "6": 93,
+      "7": 26,
+      "8": 8,
+      "9": 1,
+      "10": 5
+    },
+    "score": 5.6
+  },
+  "tags": [
+    {
+      "name": "2026年4月",
+      "count": 143,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 93,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 87,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 75,
+      "total_cont": 0
+    },
+    {
+      "name": "StudioKAI",
+      "count": 75,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 63,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 57,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 46,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 34,
+      "total_cont": 0
+    },
+    {
+      "name": "境宗久",
+      "count": 33,
+      "total_cont": 0
+    },
+    {
+      "name": "村越繁",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "机战",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "冒险",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "スタジオKAI",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "萝卜",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "末世",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "岩田健志",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "吉永拓斗",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未上映",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "怪兽",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "冻结地球",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改编",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "新作",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "春季",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "轮回",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "571555"
+    },
+    {
+      "site": "mal",
+      "id": "62068"
+    },
+    {
+      "site": "aniList",
+      "id": "196144"
+    },
+    {
+      "site": "anidb",
+      "id": "19477"
+    },
+    {
+      "site": "gamer",
+      "id": "146328",
+      "begin": "2026-04-03T15:30:00.000Z",
+      "broadcast": "R/2026-04-03T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "146328",
+      "begin": "2026-04-03T15:30:00.000Z",
+      "broadcast": "R/2026-04-03T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "snowballearth",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0282787",
+      "begin": "2026-04-03T15:00:00.000Z",
+      "broadcast": "R/2026-04-03T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UcgM-eazdqnvvGvwYtCvKNcq",
+      "begin": "2026-04-03T15:30:06.000Z",
+      "broadcast": "R/2026-04-03T15:30:06.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "19-290",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/296232"
+    },
+    {
+      "site": "viu",
+      "id": "3029227",
+      "begin": "2026-04-03T15:30:12.000Z",
+      "broadcast": "R/2026-04-03T15:30:12.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "28814",
+      "begin": "2026-04-03T15:00:00.000Z",
+      "broadcast": "R/2026-04-03T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "82746480",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "muse_tw",
+      "id": "PL12UaAf_xzfrTUtEoM7jlCdmtvJn67wHu",
+      "begin": "2026-04-10T15:30:06.000Z",
+      "broadcast": "R/2026-04-10T15:30:06.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3934"
+    },
+    {
+      "site": "prime",
+      "id": "B0GQCHNL9R",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "69db11ae4b29be5e9e214f2e"
+    }
+  ]
+}

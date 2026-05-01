@@ -1,0 +1,258 @@
+{
+  "id": 565304,
+  "name": "最強の王様、二度目の人生は何をする？ Season 2",
+  "name_cn": "最强王者的第二人生 第二季",
+  "summary": "アドベンチャラーとなったアーサーは、ジャスミンと共に次々とクエストをこなし、剣の腕と魔術を上達させていた。ある日、AAランクの冒険者・ブラルドからとあるクエストに誘われる。なぜアーサーたちに声が掛かったのか疑問は残りつつも、アカデミーへの入学を控えたアーサーの最後のクエストとして参加を決める。だが、予想だにしない惨劇が待ち受けていた──\r\n",
+  "date": "2026-04-01",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/b7/70/565304_z8088.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/b7/70/565304_z8088.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 8655,
+    "total": 69,
+    "count": {
+      "1": 6,
+      "2": 3,
+      "3": 5,
+      "4": 12,
+      "5": 25,
+      "6": 9,
+      "7": 5,
+      "8": 1,
+      "9": 1,
+      "10": 2
+    },
+    "score": 4.7
+  },
+  "tags": [
+    {
+      "name": "2026年4月",
+      "count": 55,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 39,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 38,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 34,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 34,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "异世界",
+      "count": 26,
+      "total_cont": 0
+    },
+    {
+      "name": "StudioA-CAT",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "冒险",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "龙傲天",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "韩漫",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "元永慶太郎",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "第二季",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA-01",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "26春",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "藤原夏海",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "鴻野貴光",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "StudioA-CA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "元永庆太郎",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "轻小说改",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "565304"
+    },
+    {
+      "site": "mal",
+      "id": "61831"
+    },
+    {
+      "site": "aniList",
+      "id": "194317"
+    },
+    {
+      "site": "anidb",
+      "id": "19381"
+    },
+    {
+      "site": "mikan",
+      "id": "3939"
+    },
+    {
+      "site": "gamer",
+      "id": "145911",
+      "begin": "2026-04-08T16:45:00.000Z",
+      "broadcast": "R/2026-04-08T16:45:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "145911",
+      "begin": "2026-04-08T16:45:00.000Z",
+      "broadcast": "R/2026-04-08T16:45:00.000Z/P7D"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/274671/season/2"
+    },
+    {
+      "site": "bilibili_hk_mo_tw",
+      "id": "387131088",
+      "begin": "2026-04-01T16:45:00.000Z",
+      "broadcast": "R/2026-04-01T16:45:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0294457",
+      "begin": "2026-04-02T03:00:00.000Z",
+      "broadcast": "R/2026-04-02T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "19-254",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "danime",
+      "id": "27809",
+      "begin": "2026-04-02T03:00:00.000Z",
+      "broadcast": "R/2026-04-02T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "crunchyroll",
+      "id": "G24H1NWKE",
+      "begin": "2026-04-02T03:00:00.000Z",
+      "broadcast": "R/2026-04-02T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "82036784",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "nicovideo",
+      "id": "saikyo2dome-anime",
+      "begin": "2026-04-02T03:00:00.000Z",
+      "broadcast": "R/2026-04-02T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0DWD43RLJ",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "69db11aa4b29be5e9e214f12"
+    }
+  ]
+}

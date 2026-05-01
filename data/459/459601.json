@@ -1,0 +1,239 @@
+{
+  "id": 459601,
+  "name": "異世界でチート能力を手にした俺は、現実世界をも無双する～レベルアップは人生を変えた～ スペシャル",
+  "name_cn": "在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～ SP",
+  "summary": "『聖』の弟子ながら『邪』の力を身に宿していた少女・ユティの襲撃を凌ぎ切り、和解を果たした優夜たち。次に待ち受けていたのは……なんと現実世界でのユティとの共同生活！？一方、異世界では『邪』の力に身を堕とした『拳聖』と、その背後で蠢く存在が現れて……。人生逆転ファンタジー、堂々再開！",
+  "date": "2026-03-30",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/4b/fa/459601_vf61d.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/4b/fa/459601_vf61d.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 9688,
+    "total": 284,
+    "count": {
+      "1": 10,
+      "2": 8,
+      "3": 34,
+      "4": 61,
+      "5": 105,
+      "6": 46,
+      "7": 12,
+      "8": 4,
+      "9": 1,
+      "10": 3
+    },
+    "score": 4.7
+  },
+  "tags": [
+    {
+      "name": "轻小说改",
+      "count": 65,
+      "total_cont": 0
+    },
+    {
+      "name": "后宫",
+      "count": 59,
+      "total_cont": 0
+    },
+    {
+      "name": "龙傲天",
+      "count": 56,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 53,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 51,
+      "total_cont": 0
+    },
+    {
+      "name": "millepensee",
+      "count": 40,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年4月",
+      "count": 38,
+      "total_cont": 0
+    },
+    {
+      "name": "异世界",
+      "count": 34,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 34,
+      "total_cont": 0
+    },
+    {
+      "name": "TVSP",
+      "count": 31,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 31,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "轻改",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年3月",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "板垣伸",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "厕纸",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "开挂无敌",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "剧场版",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年1月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "SP",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "番外",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "穿越",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "白毛",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "459601"
+    },
+    {
+      "site": "mal",
+      "id": "56906"
+    },
+    {
+      "site": "aniList",
+      "id": "170110"
+    },
+    {
+      "site": "anidb",
+      "id": "18241"
+    },
+    {
+      "site": "gamer",
+      "id": "136024",
+      "begin": "2026-03-29T15:00:00.000Z",
+      "broadcast": "R/2026-03-29T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "136024",
+      "begin": "2026-03-29T15:00:00.000Z",
+      "broadcast": "R/2026-03-29T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "28707",
+      "begin": "2026-03-30T16:00:00.000Z",
+      "broadcast": "R/2026-03-30T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "crunchyroll",
+      "id": "GEXH3W49E",
+      "begin": "2026-03-29T08:00:00.000Z",
+      "broadcast": "R/2026-03-29T08:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0285856",
+      "begin": "2026-04-01T16:00:00.000Z",
+      "broadcast": "R/2026-04-01T16:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3889"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/208493/season/0"
+    }
+  ]
+}

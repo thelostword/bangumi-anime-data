@@ -1,0 +1,261 @@
+{
+  "id": 493724,
+  "name": "淡島百景",
+  "name_cn": "淡岛百景",
+  "summary": "淡岛歌剧学校里，梦想着站上舞台的少女们自全国各地齐聚而来。憧憬着歌舞剧明星而入学的新生・若菜。背负着挚友的思念努力学习的舍长・绢枝。散发出压倒性存在感的，美丽特待生・绘美。憧憬她、嫉妒她，并不断渴求她目光的桂子与其家人――。她们无可替代的日子，随着人物视角的转换，在彼此交错之中缓缓连结起来。活在当下的少女们的，清新而鲜烈的青春涂鸦。\r\n\r\n\r\n[简介原文]\r\n淡島（あわじま）歌劇学校には、舞台に立つことを夢みる少女たちが全国から集まってくる。\r\nミュージカルスターに憧れて入学した、新入生の若菜。\r\n親友の思いを背負って学び続ける、寮長の絹枝。\r\n圧倒的な存在感を放つ、美しき特待生の絵美。\r\n彼女に憧れ、妬み、視線を求め続けた桂子とその家族――。\r\n彼女たちのかけがえのない日々が、人物の視点を変え、交錯しながらゆるやかに繋がっていく。\r\n今を生きる少女たちの、瑞々しく鮮烈な青春グラフィティ。",
+  "date": "2026-04-09",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/bd/33/493724_V6lXx.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/bd/33/493724_V6lXx.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 1259,
+    "total": 752,
+    "count": {
+      "1": 7,
+      "2": 2,
+      "3": 2,
+      "4": 6,
+      "5": 23,
+      "6": 81,
+      "7": 256,
+      "8": 292,
+      "9": 57,
+      "10": 26
+    },
+    "score": 7.4
+  },
+  "tags": [
+    {
+      "name": "MADHouse",
+      "count": 449,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年4月",
+      "count": 445,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 380,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 375,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 321,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 287,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 251,
+      "total_cont": 0
+    },
+    {
+      "name": "浅香守生",
+      "count": 199,
+      "total_cont": 0
+    },
+    {
+      "name": "青春",
+      "count": 166,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 138,
+      "total_cont": 0
+    },
+    {
+      "name": "群像",
+      "count": 133,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 116,
+      "total_cont": 0
+    },
+    {
+      "name": "文艺",
+      "count": 76,
+      "total_cont": 0
+    },
+    {
+      "name": "志村贵子",
+      "count": 68,
+      "total_cont": 0
+    },
+    {
+      "name": "滨田邦彦",
+      "count": 22,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "歌剧",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "中西泰博",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "小畑贵裕",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "大地叶",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "市之濑加那",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "志村貴子",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "藤原夏海",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "茅野爱衣",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "清水理沙",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "追番",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "未上映",
+      "count": 3,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "493724"
+    },
+    {
+      "site": "mal",
+      "id": "58820"
+    },
+    {
+      "site": "aniList",
+      "id": "177501"
+    },
+    {
+      "site": "anidb",
+      "id": "18618"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/291403"
+    },
+    {
+      "site": "gamer",
+      "id": "139254",
+      "begin": "2026-04-09T16:45:00.000Z",
+      "broadcast": "R/2026-04-09T16:45:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "139254",
+      "begin": "2026-04-09T16:45:00.000Z",
+      "broadcast": "R/2026-04-09T16:45:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "awajima-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0284843",
+      "begin": "2026-04-14T17:15:00.000Z",
+      "broadcast": "R/2026-04-14T17:15:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-322",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3884"
+    },
+    {
+      "site": "danime",
+      "id": "28802",
+      "begin": "2026-04-09T17:15:00.000Z",
+      "broadcast": "R/2026-04-09T17:15:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtT4Zio1sPOVC4nnRqzt7LVk",
+      "begin": "2026-04-09T16:45:07.000Z",
+      "broadcast": "R/2026-04-09T16:45:07.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JjWZOD_IeD4sSKU4icerKBZ",
+      "begin": "2026-04-09T16:45:06.000Z",
+      "broadcast": "R/2026-04-09T16:45:06.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "69db11ab4b29be5e9e214f22"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": 607043,
+  "name": "小3アシベ QQゴマちゃん",
+  "name_cn": "小3阿贝 QQ小芝麻",
+  "summary": "『少年アシベ』の最新シリーズ！\r\n小学３年生になった、\r\nアシベやスガオ君たち。\r\nちょっとだけ\r\n成長した彼らにご注目！\r\nもちろんゴマちゃんも大活躍！！",
+  "date": "2026-04-12",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/c9/f0/607043_oyfwB.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/c9/f0/607043_oyfwB.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 4,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 1,
+      "7": 0,
+      "8": 0,
+      "9": 1,
+      "10": 1
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "漫画改",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "子供向",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "607043"
+    },
+    {
+      "site": "danime",
+      "id": "28883",
+      "begin": "2026-04-11T22:30:00.000Z",
+      "broadcast": "R/2026-04-11T22:30:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0285881",
+      "begin": "2026-04-11T22:30:00.000Z",
+      "broadcast": "R/2026-04-11T22:30:00.000Z/P7D"
+    },
+    {
+      "site": "mal",
+      "id": "62933"
+    },
+    {
+      "site": "aniList",
+      "id": "202386"
+    },
+    {
+      "site": "anidb",
+      "id": "19930"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "69db119e4b29be5e9e214eca"
+    }
+  ]
+}

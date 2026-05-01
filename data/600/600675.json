@@ -1,0 +1,267 @@
+{
+  "id": 600675,
+  "name": "ゴーストコンサート : missing Songs",
+  "name_cn": "幽灵音乐会",
+  "summary": "2045年，歌被禁止的世界――。\r\n音乐的创造与演奏，全都由音乐应用程式《MiucS》代替人类一手包办。\r\n少女・相叶芹亚与朋友们外出时，听见了本应被禁止的歌声。\r\n循着歌声的方向，芹亚所看见的是——一名幽灵。\r\n自此世之外显现的伟人――「伟大幽灵」。\r\n灵能力者集团――「TERA」。\r\n以及回荡响起――「凭依镇魂歌」。\r\n「这是，我直到成为幽灵为止的故事。」\r\n\r\n\r\n[简介原文]\r\n2045年、歌が禁じられた世界――。\r\n音楽を創造し、奏でることは人間の代わりに音楽アプリ《MiucS》がその全てを担っていた。\r\n少女・相葉芹亜は友人たちと出かけた先で、禁じられているはずの歌声を耳にする。\r\n歌声の先で芹亜が目にしたのは、一人のゴーストだった。\r\nこの世の外から顕れた偉人――\"グレートゴースト\"。\r\n霊能力者集団――\"ＴＥＲＡ\"。\r\nそして響く――\"憑依鎮魂歌\"。\r\n「これは、私がゴーストになるまでの物語。」",
+  "date": "2026-04-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/3a/89/600675_6yR2O.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/3a/89/600675_6yR2O.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 9860,
+    "total": 283,
+    "count": {
+      "1": 7,
+      "2": 18,
+      "3": 48,
+      "4": 109,
+      "5": 62,
+      "6": 25,
+      "7": 5,
+      "8": 3,
+      "9": 1,
+      "10": 5
+    },
+    "score": 4.2
+  },
+  "tags": [
+    {
+      "name": "原创",
+      "count": 165,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年4月",
+      "count": 145,
+      "total_cont": 0
+    },
+    {
+      "name": "音乐",
+      "count": 108,
+      "total_cont": 0
+    },
+    {
+      "name": "Engi",
+      "count": 107,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 83,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 76,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 52,
+      "total_cont": 0
+    },
+    {
+      "name": "AI",
+      "count": 37,
+      "total_cont": 0
+    },
+    {
+      "name": "神保昌登",
+      "count": 36,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 32,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "日高里菜",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "上松範康",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "日野聪",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "寿美菜子",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "SF",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "表",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "未上映",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "乐子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "C及以下",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "赛博",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "佐藤聪美",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "神作",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "600675"
+    },
+    {
+      "site": "mal",
+      "id": "62852"
+    },
+    {
+      "site": "aniList",
+      "id": "201090"
+    },
+    {
+      "site": "anidb",
+      "id": "19674"
+    },
+    {
+      "site": "gamer",
+      "id": "150025",
+      "begin": "2026-04-05T15:30:00.000Z",
+      "broadcast": "R/2026-04-05T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "150025",
+      "begin": "2026-04-05T15:30:00.000Z",
+      "broadcast": "R/2026-04-05T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "ghostconcert-anime",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0284844",
+      "begin": "2026-04-05T15:30:00.000Z",
+      "broadcast": "R/2026-04-05T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "25-320",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/303796"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtRRUG_roSQ9XhatSfsP6cOG",
+      "begin": "2026-04-05T15:30:00.000Z",
+      "broadcast": "R/2026-04-05T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JgpcAwuayL8qIjFf0EVbNw0",
+      "begin": "2026-04-05T15:30:00.000Z",
+      "broadcast": "R/2026-04-05T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "28803",
+      "begin": "2026-04-05T15:30:00.000Z",
+      "broadcast": "R/2026-04-05T15:30:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3912"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "69db11a14b29be5e9e214ee0"
+    },
+    {
+      "site": "prime",
+      "id": "B0GVH2RM7C",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

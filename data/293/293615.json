@@ -1,0 +1,110 @@
+{
+  "id": 293615,
+  "name": "新星輝デュエル・マスターズ フラッシュ",
+  "name_cn": "新星辉决斗大师Flash",
+  "summary": "夢実テルはある日、町外れの倉庫で1枚のカードを拾う。それは『デュエル・マスターズ』と呼ばれ、昔は誰でも遊んでいたカードだった。カードでのデュエルを覚えたテルとココロはレイと知り合うが、デュエルの際にレイの持つアークがテルに反応して光を放つ。アークを光らせることがレイの両親を助けることに繋がると知り、テルはレイ達に協力するが、それがきっかけでアークの力を狙うネストや、アークを光らせれば世界が滅びると警告するハヤテに狙われることになる。",
+  "date": "2006-04-10",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/7d/db/293615_ecJee.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/7d/db/293615_ecJee.jpg"
+  },
+  "eps": 24,
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 3
+  },
+  "tags": [
+    {
+      "name": "2006",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "子供向",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "SynergySP",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "鈴木琢磨",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "尾崎未來",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "鈴木輪流郎",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "藤田伸三",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "豊嶋真千子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "植田浩二",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "293615"
+    },
+    {
+      "site": "danime",
+      "id": "28903",
+      "begin": "2026-04-23T15:00:00.000Z",
+      "broadcast": "R/2026-04-23T15:00:00.000Z/P7D"
+    }
+  ]
+}

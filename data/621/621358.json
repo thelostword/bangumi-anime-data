@@ -1,0 +1,229 @@
+{
+  "id": 621358,
+  "name": "魔物喰らいの冒険者～俺だけ魔物を喰らって強くなる～",
+  "name_cn": "吞噬魔物的冒险者",
+  "summary": "「我啊，吃掉越多的魔物，就会变得越强大！」\r\n鲁德是一名E级冒险者，他所拥有的唯一技能「状态异常无效化」，是个仅能在充满瘴气的迷宫中采集药草、派不上大用场的微妙能力。由于战斗能力几乎为零，他甚至被冒险者同伴们戏称为「瘴气搜刮者」。\r\n为了打破现状，鲁德决定挑战新的迷宫，却遭到伙伴背叛而陷入绝境。在物资耗尽的绝境中，他下定决心做出被视为禁忌的行为——吞食魔物的肉。\r\n自此，鲁德凭藉着不断吞噬魔物、以此获取全新技能的逆袭传奇，正式拉开序幕！\r\n\r\n\r\n\r\n[简介原文]\r\n俺は、魔物を喰えば喰うほど、強くなる！ \r\nEランク冒険者のルード。そんな彼が持つ唯一のスキル『状態異常無効化』は、瘴気で満ちる迷宮で薬草を採取することぐらいしか役に立たない微妙なもの。戦闘能力も皆無に等しく、冒険者仲間からは「瘴気漁り」と揶揄される始末。\r\nそんな現状を打破するため新しい迷宮に挑むルードだが、仲間に裏切られ遭難してしまう。物資も尽き、瀕死の状態の中、彼は禁忌とされる魔物の肉を喰らうことを決意するのだが──。\r\nただひたすらに魔物を喰らって新たなスキルを獲得する、ルードの「魔物喰らい」冒険譚が始まる！",
+  "date": "2026-04-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/8f/47/621358_hVvMr.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/8f/47/621358_hVvMr.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 9750,
+    "total": 70,
+    "count": {
+      "1": 14,
+      "2": 10,
+      "3": 18,
+      "4": 11,
+      "5": 10,
+      "6": 2,
+      "7": 1,
+      "8": 1,
+      "9": 2,
+      "10": 1
+    },
+    "score": 3.4
+  },
+  "tags": [
+    {
+      "name": "2026年4月",
+      "count": 33,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 28,
+      "total_cont": 0
+    },
+    {
+      "name": "动态漫画",
+      "count": 26,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "ImageworksStudio",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "异世界",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "龙傲天",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "中島由貴",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "动态漫",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "さとうひかる",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "表",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "古川慎",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "轻动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "26春",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未上映",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "零分",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "621358"
+    },
+    {
+      "site": "unext",
+      "id": "SID0282801",
+      "begin": "2026-04-05T16:15:00.000Z",
+      "broadcast": "R/2026-04-05T16:15:00.000Z/P7D"
+    },
+    {
+      "site": "mal",
+      "id": "63304"
+    },
+    {
+      "site": "gamer",
+      "id": "150465",
+      "begin": "2026-04-02T17:15:00.000Z",
+      "broadcast": "R/2026-04-02T17:15:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "150465",
+      "begin": "2026-04-02T17:15:00.000Z",
+      "broadcast": "R/2026-04-02T17:15:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "mamonogurai",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "anidb",
+      "id": "19831"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/310921"
+    },
+    {
+      "site": "abema",
+      "id": "54-119",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3946"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtQHDtLmRA672zZRD5edbj_z",
+      "begin": "2026-04-02T17:15:07.000Z",
+      "broadcast": "R/2026-04-02T17:15:07.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JghnDOX7F9BXqUL8PRP1Q56",
+      "begin": "2026-04-02T17:15:07.000Z",
+      "broadcast": "R/2026-04-02T17:15:07.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "28795",
+      "begin": "2026-04-02T16:15:00.000Z",
+      "broadcast": "R/2026-04-02T16:15:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0GJLDT2S4",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

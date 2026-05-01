@@ -1,0 +1,122 @@
+{
+  "id": 545844,
+  "name": "映画 すみっコぐらし 空の王国とふたりのコ",
+  "name_cn": "电影 角落小伙伴 天空王国与两位小伙伴",
+  "summary": "すみっコの町はここのところずっと雨ばかり。雨のせいで、あげものコンビ・とんかつとえびふらいのしっぽの体がじめじめに…。そんなある日のこと、空からとつぜん何かが落ちてきた！「だいじょうぶ？」すみっコたちがかけよると、そのコは空の王国からやってきた〈おうじ〉だった。雲の上は今しんこくな水不足。王国のピンチを救うため、すみっコたちの空の冒険がはじまります！",
+  "date": "2025-10-31",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/fa/8e/545844_jl33L.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/fa/8e/545844_jl33L.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 2,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 1,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 7.5
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "FanWorks",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "イワタナオミ",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "角田貴志",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "国外影片",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "子供向",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "ファンワークス",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "545844"
+    },
+    {
+      "site": "prime",
+      "id": "B0GM1ZBL94",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mal",
+      "id": "61278"
+    },
+    {
+      "site": "aniList",
+      "id": "188522"
+    },
+    {
+      "site": "anidb",
+      "id": "19639"
+    }
+  ]
+}

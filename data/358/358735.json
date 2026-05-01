@@ -1,0 +1,203 @@
+{
+  "id": 358735,
+  "name": "萌妻食神之欢喜追婚",
+  "name_cn": "",
+  "summary": "现代美食杂志编辑，出身厨艺世家的叶佳瑶意外穿越到古代，以精湛的厨艺成为了金陵天上居主厨, 并与卧底土匪寨的靖安侯世子夏淳于结缘。二人历经考验，蒙获圣旨赐婚。不料婚期将近，夏淳于却因公务不告而别；叶佳瑶奉旨承办万国宴，南下采风、千里追夫；失恋的赫连景离家出走，偶遇神秘女孩。恋爱危机、家国大事，集结于异国的一行人将如何面对......",
+  "date": "2022-07-05",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/4a/0a/358735_3NHJb.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/4a/0a/358735_3NHJb.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 5615,
+    "total": 85,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 2,
+      "5": 14,
+      "6": 46,
+      "7": 18,
+      "8": 3,
+      "9": 0,
+      "10": 1
+    },
+    "score": 6.1
+  },
+  "tags": [
+    {
+      "name": "国产",
+      "count": 37,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 32,
+      "total_cont": 0
+    },
+    {
+      "name": "美食",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "网文改",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "2022年7月",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "娃娃鱼动画",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "中国",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "魂穿",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "2022",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "乙女向",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "优先级2",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "国漫",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "穿越",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "王朋交",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "3？",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "古风",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "看",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2022年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "萌妻食神",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "8+",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "女性向",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "358735"
+    },
+    {
+      "site": "mal",
+      "id": "51203"
+    },
+    {
+      "site": "anidb",
+      "id": "17511"
+    },
+    {
+      "site": "aniList",
+      "id": "141878"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/87978/season/3"
+    },
+    {
+      "site": "danime",
+      "id": "28639",
+      "begin": "2026-03-18T09:00:00.000Z",
+      "broadcast": "R/2026-03-18T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0282795",
+      "begin": "2026-03-23T09:00:00.000Z",
+      "broadcast": "R/2026-03-23T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "prime",
+      "id": "B0GRMT3PNZ",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "id": 627137,
+  "name": "百鬼夜行抄",
+  "name_cn": "百鬼夜行抄",
+  "summary": "律从已故祖父那里继承了不可思议灵力，以及一位名为「青岚」的恶魔守护者。某一次，他梦见了童年的往事。在梦中，为了躲避妖魔的觊觎，年幼的律被迫打扮成女孩子的模样，却仍差点遭到一名少女幽灵的袭击。就在不久后的某一天，律亲眼目睹那名幽灵混在母亲茶道教室的学生群中，潜入了家中。正当律试图查明对方的真面目时，却在名为「捉迷藏」的游戏中，被灵体夺走了左眼！？\r\n\r\n奇怪的事情似乎总是围绕着他们两人发生，而揭开所有这些神秘事件真相的重任就落在了他们身上。\r\n每个故事都是独立的，但其中穿插着一些会逐渐熟悉并喜爱的角色，他们各自以不同的方式应对着「非此世之事」。\r\n\r\n\r\n\r\n[简介原文]\r\n飯嶋律は、祖父・飯嶋蝸牛から\r\n妖魔を見ることができる不思議な力を\r\n受け継いでいた。\r\nそのために幼い頃から妖魔に狙われてきた律は\r\n妖魔の目をあざむくために\r\n髪を伸ばし、女の子の着物を着せられて\r\n育てられていた時期もあった。\r\n\r\n蝸牛亡きあと、祖母、母親、父親と暮らす\r\n律のかたわらには\r\n彼を守護する三匹の妖魔がいた。\r\n\r\n律の父親の体を借りた強力な妖魔・青嵐、\r\n忠実ではあるが頼りにならない尾白と尾黒。\r\n\r\nそしてさまざまな妖魔との出会いは\r\n律とその家族を今日も\r\n奇妙な事件に巻き込んでいく……",
+  "date": "2026-04-07",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/00/fe/627137_j1SHJ.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/00/fe/627137_j1SHJ.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 0,
+    "total": 45,
+    "count": {
+      "1": 5,
+      "2": 4,
+      "3": 17,
+      "4": 5,
+      "5": 7,
+      "6": 0,
+      "7": 3,
+      "8": 1,
+      "9": 2,
+      "10": 1
+    },
+    "score": 3.9
+  },
+  "tags": [
+    {
+      "name": "2026年4月",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "ImagicaInfos",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "动态漫",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "妖怪",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "ImageworksStudio",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "今市子",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "26春",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "627137"
+    },
+    {
+      "site": "mal",
+      "id": "63469"
+    },
+    {
+      "site": "gamer",
+      "id": "150467",
+      "begin": "2026-04-07T13:00:00.000Z",
+      "broadcast": "R/2026-04-07T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "150467",
+      "begin": "2026-04-07T13:00:00.000Z",
+      "broadcast": "R/2026-04-07T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0285892",
+      "begin": "2026-04-07T13:00:00.000Z",
+      "broadcast": "R/2026-04-07T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "aniList",
+      "id": "207675"
+    },
+    {
+      "site": "abema",
+      "id": "622-7",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtQIMDFysq_4TbMveRNIONb6",
+      "begin": "2026-04-07T13:00:00.000Z",
+      "broadcast": "R/2026-04-07T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7JgbFVxH93w5flYikcz7V3YM",
+      "begin": "2026-04-07T13:00:00.000Z",
+      "broadcast": "R/2026-04-07T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "28799",
+      "begin": "2026-04-07T13:00:00.000Z",
+      "broadcast": "R/2026-04-07T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "mikan",
+      "id": "3955"
+    }
+  ]
+}

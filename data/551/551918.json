@@ -1,0 +1,215 @@
+{
+  "id": 551918,
+  "name": "スティール・ボール・ラン ジョジョの奇妙な冒険 1st STAGE",
+  "name_cn": "飙马野郎 JOJO的奇妙冒险 第一赛段",
+  "summary": "1890年のアメリカ。総距離約4,000マイル、賞金総額5,000万ドル、\r\n人類史上初の乗馬による北米大陸横断レース「スティール・ボール・ラン」が開催されようとしていた。\r\n\r\nかつて天才騎手と呼ばれながらも、半身不随となり、失意の中にいたジョニィ･ジョースター。\r\n\r\n彼はこのレースで優勝を目論む謎のアウトロー、ジャイロ･ツェペリが引き起こした不思議な現象に希望を見出し、\r\n｢スティール･ボール･ラン｣への参加を決意する。\r\n\r\n二人はそれぞれの思惑を胸に協力関係を結び、過酷な冒険へと踏み出す。",
+  "date": "2026-03-19",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/31/06/551918_k5ppS.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/31/06/551918_k5ppS.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 865,
+    "total": 2244,
+    "count": {
+      "1": 13,
+      "2": 1,
+      "3": 4,
+      "4": 13,
+      "5": 25,
+      "6": 142,
+      "7": 849,
+      "8": 981,
+      "9": 123,
+      "10": 93
+    },
+    "score": 7.5
+  },
+  "tags": [
+    {
+      "name": "漫画改",
+      "count": 622,
+      "total_cont": 0
+    },
+    {
+      "name": "JOJO",
+      "count": 545,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 531,
+      "total_cont": 0
+    },
+    {
+      "name": "冒险",
+      "count": 444,
+      "total_cont": 0
+    },
+    {
+      "name": "荒木飞吕彦",
+      "count": 403,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 377,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 348,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 276,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年4月",
+      "count": 266,
+      "total_cont": 0
+    },
+    {
+      "name": "davidproduction",
+      "count": 259,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 228,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 188,
+      "total_cont": 0
+    },
+    {
+      "name": "青年向",
+      "count": 163,
+      "total_cont": 0
+    },
+    {
+      "name": "智斗",
+      "count": 145,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 142,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 52,
+      "total_cont": 0
+    },
+    {
+      "name": "JOJO的奇妙冒险",
+      "count": 37,
+      "total_cont": 0
+    },
+    {
+      "name": "木村泰大",
+      "count": 29,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "髙橋秀弥",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年1月",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "高桥秀弥",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年3月",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "小林靖子",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "david_production",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "大卫社",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "JUMP",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "竞技",
+      "count": 4,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "551918"
+    },
+    {
+      "site": "mal",
+      "id": "61469"
+    },
+    {
+      "site": "aniList",
+      "id": "190327"
+    },
+    {
+      "site": "anidb",
+      "id": "19287"
+    },
+    {
+      "site": "netflix",
+      "id": "82116553",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/45790/season/6"
+    },
+    {
+      "site": "mikan",
+      "id": "3887"
+    }
+  ]
+}

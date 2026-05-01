@@ -1,0 +1,211 @@
+{
+  "id": 485990,
+  "name": "BEASTARS FINAL SEASON Part2",
+  "name_cn": "动物狂想曲 最终季 第二部分",
+  "summary": "メロンの暗躍によって、\r\n見せかけの平穏は破られた。\r\n\r\n草食獣と肉食獣が互いへの不信を募らせる中、ハルにもメロンの牙が迫る。 裏市に流れ着き再び己と向き合うことになったレゴシと、表社会での新たなしがらみに苦しむルイ、再会した二匹は共にメロンに立ち向かうべく、それぞれの舞台で行動を開始する！ 奇跡を信じるレゴシ、未来を見つめるハル、宿命に抗うルイ、そして世界を憎むメロン。\r\n欲望と恐怖に動揺する世界で、彼らが辿り着いた「答え」とは──。\r\n獣たちの青春群像劇、遂に完結！",
+  "date": "2026-03-07",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/d7/47/485990_mY099.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/d7/47/485990_mY099.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 8447,
+    "total": 286,
+    "count": {
+      "1": 4,
+      "2": 2,
+      "3": 11,
+      "4": 33,
+      "5": 73,
+      "6": 98,
+      "7": 52,
+      "8": 9,
+      "9": 2,
+      "10": 2
+    },
+    "score": 5.6
+  },
+  "tags": [
+    {
+      "name": "漫画改",
+      "count": 85,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 72,
+      "total_cont": 0
+    },
+    {
+      "name": "orange",
+      "count": 69,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 61,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 58,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 55,
+      "total_cont": 0
+    },
+    {
+      "name": "BEASTARS",
+      "count": 51,
+      "total_cont": 0
+    },
+    {
+      "name": "动物",
+      "count": 47,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 43,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年4月",
+      "count": 40,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年1月",
+      "count": 37,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 34,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 28,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 28,
+      "total_cont": 0
+    },
+    {
+      "name": "悬疑",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "3D",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "松见真一",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "オレンジ",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "剧情",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年3月",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "松見真一",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "樋口七海",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "福瑞",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "Netflix",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "小野友樹",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "485990"
+    },
+    {
+      "site": "netflix",
+      "id": "81054847",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mal",
+      "id": "61114"
+    },
+    {
+      "site": "anidb",
+      "id": "19449"
+    },
+    {
+      "site": "aniList",
+      "id": "187267"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/90937/season/3"
+    }
+  ]
+}

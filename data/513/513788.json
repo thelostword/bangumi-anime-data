@@ -1,0 +1,203 @@
+{
+  "id": 513788,
+  "name": "POKÉTOON 2024",
+  "name_cn": "POKÉTOON动画系列2024",
+  "summary": "「POKÉTOON」シリーズは、各作品ごとに1匹のポケモンにスポットを当てることで、その魅力を最大限に引き出しながら、同シリーズならではのオリジナルストーリーと多彩なアートで描くショートアニメ。2020年の「ズルッグとミミッキュ」を皮切りに、YouTubeで公開された8作品は全世界で8200万回以上再生されている（※2024年9月4日現在）。\r\n\r\nまた、今回のシリーズ最新作は、前回同様に横型のアニメ4作品に加え、手軽に楽しめる縦型のアニメ4作品が展開予定、本日9⽉18⽇（水）18時よりポケモン公式YouTubeチャンネルにて、毎週水曜日18時に横型・縦型のいずれか1本が、8週連続でポケモン公式YouTubeチャンネル・Instagram・TikTokにて公開される。",
+  "date": "2024-09-18",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/eb/86/513788_kK4AQ.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/eb/86/513788_kK4AQ.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 3893,
+    "total": 83,
+    "count": {
+      "1": 0,
+      "2": 1,
+      "3": 0,
+      "4": 3,
+      "5": 2,
+      "6": 34,
+      "7": 32,
+      "8": 9,
+      "9": 2,
+      "10": 0
+    },
+    "score": 6.5
+  },
+  "tags": [
+    {
+      "name": "WEB",
+      "count": 35,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 34,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "StudioColorido",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "pokemon",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "ZEXCS",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "宝可梦",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "精灵宝可梦",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "长屋诚志郎",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "藤田春香",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "NAGOMI",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "汤德遥",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "佐佐木美和",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年10月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "佐藤广大",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "teamヤマヒツヂ",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年9月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "StudioNanahoshi",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "短篇集",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "おちゃのこ",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "24夏",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "治愈",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "情感",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "513788"
+    },
+    {
+      "site": "abema",
+      "id": "2-43",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mal",
+      "id": "59944"
+    },
+    {
+      "site": "aniList",
+      "id": "182386"
+    }
+  ]
+}

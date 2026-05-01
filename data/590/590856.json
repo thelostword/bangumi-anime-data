@@ -1,0 +1,106 @@
+{
+  "id": 590856,
+  "name": "ギヴン OAD",
+  "name_cn": "GIVEN 被赠与的未来 OAD",
+  "summary": "　4人組ロックバンド・ギヴンのメンバーを中心に、登場人物たちの恋愛や成長を描くBL「ギヴン」。その最終巻が発売されてから約2年、「ギヴン 10th mix」では彼らの後日談が描かれる。真冬と立夏が高校を卒業し、ギヴンがメジャーデビューして10年が経った。立夏と柊から渡された2枚のチケットを握り、syhのライブがある渋谷に降り立った真冬。すると、東京にいるはずのない雨月から声をかけられて……。\r\n　通常版に加え、新作アニメを収録したDVD付きの特装版も展開されている。",
+  "date": "2025-10-01",
+  "platform": "OVA",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/22/dd/590856_GqL3L.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/22/dd/590856_GqL3L.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 10,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 3,
+      "6": 2,
+      "7": 3,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6
+  },
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "BL",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "GIVEN",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "音乐",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA·OAD",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Lerche",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "590856"
+    },
+    {
+      "site": "gamer",
+      "id": "150782",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "gamer_hk",
+      "id": "150782",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "id": 508004,
+  "name": "Dr.STONE SCIENCE FUTURE 第3クール",
+  "name_cn": "石纪元 科学与未来 第3部分",
+  "summary": "为了取得打造宇宙船所需的材料，以及从世界各地的石化中复活人类以获得更多人力，千空等人分成三队，开始环游世界。他们为了取得登陆月球所不可或缺的力量—「数学力」，前往「印度」。千空等人究竟能否登上月球，揭开「为什么人（Whyman）」的真相！？\r\n\r\n[简介原文]\r\n石器時代から現代文明まで、科学史200万年を駆け上がる！前代未聞のクラフト冒険譚（アドベンチャー）、ここに開幕！\r\n全人類石化の黒幕・ホワイマンが月にいると突き止めた千空は、全ての謎を暴くため『月面着陸計画』を始動！この石の世界（ストーンワールド）で、ゼロから宇宙船を作るビックプロジェクトへと乗り出した。\r\n世界中から宇宙船の素材を集めるため、大海原へと飛び出した千空たち。最初の目的地・アメリカ大陸でDr.ゼノ率いる科学王国と対立し、科学vs.科学の速攻戦を繰り広げる。\r\nさらに石化光線の発信源・南米で、スタンリー部隊と衝突！激しい戦いの末、世界中の人間は再び全て石になった――。\r\n絶望的な状況下、スイカがたった一人で科学を繋ぐ希望となり、千空を目覚めさせた。\r\nDr.ゼノと最強タッグを組んだ科学王国が最後に挑むのは、最高難度の“月面ロケット”作り！\r\nついに、石の世界（ストーンワールド）から宇宙、そして月へ――。千空は全人類の未来を取り戻すため、ホワイマンと石化の謎、その核心へと迫る‼",
+  "date": "2026-04-02",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/f3/8d/508004_def4E.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/f3/8d/508004_def4E.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 1565,
+    "total": 361,
+    "count": {
+      "1": 2,
+      "2": 1,
+      "3": 1,
+      "4": 1,
+      "5": 6,
+      "6": 43,
+      "7": 176,
+      "8": 97,
+      "9": 18,
+      "10": 16
+    },
+    "score": 7.3
+  },
+  "tags": [
+    {
+      "name": "2026年4月",
+      "count": 236,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 188,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 185,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 135,
+      "total_cont": 0
+    },
+    {
+      "name": "冒险",
+      "count": 120,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 113,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 111,
+      "total_cont": 0
+    },
+    {
+      "name": "TMS",
+      "count": 111,
+      "total_cont": 0
+    },
+    {
+      "name": "石纪元",
+      "count": 76,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 73,
+      "total_cont": 0
+    },
+    {
+      "name": "少年向",
+      "count": 58,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 42,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 29,
+      "total_cont": 0
+    },
+    {
+      "name": "松下周平",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "JUMP",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "TMSEntertainment",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "动漫",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "科学",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "SF",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "トムス・エンタテインメント",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "砂山藏澄",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "Dr.Stone",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "新石纪",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "26春",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "河西健吾",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "4月",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "508004"
+    },
+    {
+      "site": "mal",
+      "id": "62568"
+    },
+    {
+      "site": "anidb",
+      "id": "19614"
+    },
+    {
+      "site": "aniList",
+      "id": "199221"
+    },
+    {
+      "site": "mikan",
+      "id": "3950"
+    },
+    {
+      "site": "unext",
+      "id": "SID0163360",
+      "begin": "2026-04-02T13:00:00.000Z",
+      "broadcast": "R/2026-04-02T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "dr-stone_4",
+      "begin": "2026-04-02T13:00:00.000Z",
+      "broadcast": "R/2026-04-02T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtRH5DnE3OZ6Ov-_SNn73dOQ",
+      "begin": "2026-04-02T13:00:00.000Z",
+      "broadcast": "R/2026-04-02T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "ani_one_asia",
+      "id": "PLxSscENEp7Jj4AHW3_HqDp39-puRHVfNA",
+      "begin": "2026-04-02T13:00:00.000Z",
+      "broadcast": "R/2026-04-02T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "137041",
+      "begin": "2026-04-02T13:00:00.000Z",
+      "broadcast": "R/2026-04-02T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "137041",
+      "begin": "2026-04-02T13:00:00.000Z",
+      "broadcast": "R/2026-04-02T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "27619",
+      "begin": "2026-04-02T13:00:00.000Z",
+      "broadcast": "R/2026-04-02T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "19-34",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "crunchyroll",
+      "id": "GYEXQKJG6",
+      "begin": "2026-04-02T13:00:00.000Z",
+      "broadcast": "R/2026-04-02T13:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "69db11aa4b29be5e9e214f16"
+    }
+  ]
+}

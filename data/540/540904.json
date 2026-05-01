@@ -1,0 +1,135 @@
+{
+  "id": 540904,
+  "name": "忘星のヴァリシア 第二章：群青",
+  "name_cn": "",
+  "summary": "生命の火が、この日々を照らしている\r\n第一の簒奪者の襲来を退け生命の火を守り、帰還した明桜と彩希。\r\n\r\n\r\n　来る第二の簒奪者との戦いに向け、彼女たちは日々を過ごしてゆく。\r\n\r\n\r\n\r\n　時は流れ、夏。長期休暇は若人の楽園。\r\n　青い空に海花火。買い物訓練宿題合宿。一度きりの高1の夏。\r\n\r\n　変わってしまった日常は、それでも奇跡で溢れていた。\r\n　\r\nそして始まる第二の儀式。明桜と彩希はヴァリシアを駆り、\r\n\r\n新たな戦いへ身を投じる。\r\n\r\n\r\n　変わり始めた関係も、どうしようもない現実も、その先にある運命も。繰り返す日々は幸福で、幸福とは今だった。\r\n\r\n\r\n\r\n　運命の先、二人の心が交わる時、第九の巨人は仮面を棄てる。\r\n\r\n\r\n\r\n　すべての《今》を愛するために。もう何一つ零さぬように。\r\n\r\n――これは、あの夏の一片。\r\n\r\n　きっといつか忘れられる、ありふれた日々に、私たちがいた記録だ。",
+  "date": "2025-04-21",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/be/2e/540904_im6P1.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/be/2e/540904_im6P1.jpg"
+  },
+  "eps": 1,
+  "rating": {
+    "rank": 0,
+    "total": 6,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 1,
+      "5": 2,
+      "6": 1,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年4月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "未上映",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "20",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年剧场版",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "GL",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年1月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "25春",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "比良坂新",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "机器人",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "540904"
+    },
+    {
+      "site": "danime",
+      "id": "28687",
+      "begin": "2026-03-26T15:00:00.000Z",
+      "broadcast": "R/2026-03-26T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "unext",
+      "id": "SID0268800",
+      "begin": "2026-03-27T03:00:00.000Z",
+      "broadcast": "R/2026-03-27T03:00:00.000Z/P7D"
+    },
+    {
+      "site": "mal",
+      "id": "61865"
+    },
+    {
+      "site": "aniList",
+      "id": "194706"
+    },
+    {
+      "site": "abema",
+      "id": "19-288",
+      "begin": "",
+      "broadcast": ""
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "id": 544626,
+  "name": "ガールズ＆パンツァー もっとらぶらぶ作戦です！ 第2幕",
+  "name_cn": "少女与战车 lovelove大作战！ 第2幕",
+  "summary": "わちゃわちゃはもっと続くよどこまでも!?\r\n\r\n厳しい戦車道の傍らで――\r\n仲間たちと“わちゃわちゃ”と日常を楽しむ女子高生たち。\r\n戦車道以外の部活動に真剣に励むチームや、\r\nリゾート施設や無人島、宝島に出かけるチーム、\r\nさらに美味しいご飯をもりもり食べて、食べ過ぎちゃうチームも!?\r\n\r\nその頃、本来は喜ぶべき親離れの悲しみから\r\n酒に飲まれる大人たちもいてさぁ大変。\r\n\r\n戦車道の乙女たち（とその関係者）が\r\n繰り広げるもうひとつの青春、第２幕がスタートです！",
+  "date": "2026-01-30",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/fa/a4/544626_pO19C.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/fa/a4/544626_pO19C.jpg"
+  },
+  "eps": 3,
+  "rating": {
+    "rank": 3404,
+    "total": 82,
+    "count": {
+      "1": 0,
+      "2": 2,
+      "3": 0,
+      "4": 0,
+      "5": 6,
+      "6": 24,
+      "7": 36,
+      "8": 11,
+      "9": 1,
+      "10": 2
+    },
+    "score": 6.7
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 50,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 33,
+      "total_cont": 0
+    },
+    {
+      "name": "P.A.WORKS",
+      "count": 32,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "Actas",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年1月",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "下田正美",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "少女与战车",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年剧场版",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "轻百合",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "浜口史郎",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "木村暢",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "アクタス",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "木村畅",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "(剧情)好",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "劇場版",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "(倾向)表现",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "欢乐",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "野上武志",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "萌豚",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2020-2029",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "滨口史郎",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "544626"
+    },
+    {
+      "site": "unext",
+      "id": "SID0261888",
+      "begin": "2026-03-05T15:00:00.000Z",
+      "broadcast": "R/2026-03-05T15:00:00.000Z/P7D"
+    },
+    {
+      "site": "mal",
+      "id": "61227"
+    },
+    {
+      "site": "anidb",
+      "id": "19220"
+    },
+    {
+      "site": "aniList",
+      "id": "188034"
+    }
+  ]
+}

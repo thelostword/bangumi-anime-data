@@ -1,0 +1,207 @@
+{
+  "id": 487716,
+  "name": "刃牙道",
+  "name_cn": "刃牙道",
+  "summary": "これは本日3月31日に東京・西武新宿ペペ広場で開催された、アニメ「範馬刃牙」2期最終回上映イベント「闘いの地・新宿で、親子喧嘩の結末を見届けろッッ『春の刃牙まつり！』」にて発表されたもの。「刃牙道」は、2014年から2018年まで、週刊少年チャンピオン（秋田書店）にて連載された作品で、クローン技術と降霊術で蘇った剣豪・宮本武蔵と、刃牙たちの激闘が描かれた。アニメーション制作は「バキ」「範馬刃牙」に引き続き、トムス・エンタテインメントが担当する。",
+  "date": "2026-02-26",
+  "platform": "WEB",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/71/5f/487716_aoTuT.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/71/5f/487716_aoTuT.jpg"
+  },
+  "eps": 13,
+  "rating": {
+    "rank": 6244,
+    "total": 186,
+    "count": {
+      "1": 1,
+      "2": 1,
+      "3": 1,
+      "4": 9,
+      "5": 26,
+      "6": 84,
+      "7": 50,
+      "8": 10,
+      "9": 1,
+      "10": 3
+    },
+    "score": 6.2
+  },
+  "tags": [
+    {
+      "name": "2026",
+      "count": 44,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 36,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 31,
+      "total_cont": 0
+    },
+    {
+      "name": "刃牙",
+      "count": 22,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "TMS",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "江口拓也",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "平野俊貴",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "島﨑信長",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "大塚明夫",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "浦畑達彦",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年2月",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "TMSEntertainment",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "格斗",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年1月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "平野俊贵",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "追番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "baki-dou-the-invincible-samura",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "anikai.to",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "猎奇",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Watch",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "487716"
+    },
+    {
+      "site": "netflix",
+      "id": "81922765",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mal",
+      "id": "58573"
+    },
+    {
+      "site": "aniList",
+      "id": "176509"
+    },
+    {
+      "site": "anidb",
+      "id": "18579"
+    }
+  ]
+}

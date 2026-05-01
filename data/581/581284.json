@@ -1,0 +1,267 @@
+{
+  "id": 581284,
+  "name": "キルアオ",
+  "name_cn": "杀手青春",
+  "summary": "大狼十三(おおがみじゅうぞう)は、どんなに困難な依頼も成し遂げる伝説の殺し屋。\r\nある日、とある組織を壊滅させた十三は謎の蜂に刺され、気を失ってしまう。目を覚ますと十三は39歳の大人から13歳の子どもの姿になっていた！\r\n驚く十三の元にボスから「その姿で中学校に潜入せよ」と司令が下る。彼を待ち受けていたのは、個性豊かなクラスメイトたちとの青春スクールライフだった\r\n元の姿に戻ることができるのか！？ 十三のもとに刺客が迫る！",
+  "date": "2026-04-11",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/18/a9/581284_8Kv7i.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/18/a9/581284_8Kv7i.jpg"
+  },
+  "eps": 12,
+  "rating": {
+    "rank": 5626,
+    "total": 204,
+    "count": {
+      "1": 3,
+      "2": 0,
+      "3": 1,
+      "4": 1,
+      "5": 20,
+      "6": 110,
+      "7": 49,
+      "8": 15,
+      "9": 1,
+      "10": 4
+    },
+    "score": 6.3
+  },
+  "tags": [
+    {
+      "name": "2026年4月",
+      "count": 128,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 104,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 90,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 81,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 77,
+      "total_cont": 0
+    },
+    {
+      "name": "喜剧",
+      "count": 71,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 56,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 56,
+      "total_cont": 0
+    },
+    {
+      "name": "CUE",
+      "count": 53,
+      "total_cont": 0
+    },
+    {
+      "name": "少年向",
+      "count": 43,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 36,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 30,
+      "total_cont": 0
+    },
+    {
+      "name": "杀手青春",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "鏑木ひろ",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "杀手",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "4月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "26春",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "未上映",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "井出安轨",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "镝木宏",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "剧场版",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2026春",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA-01",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "校园系列",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "梅田修一朗",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "581284"
+    },
+    {
+      "site": "mal",
+      "id": "62391"
+    },
+    {
+      "site": "aniList",
+      "id": "198113"
+    },
+    {
+      "site": "anidb",
+      "id": "19546"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/300131"
+    },
+    {
+      "site": "nicovideo",
+      "id": "kill-blue",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0282783",
+      "begin": "2026-04-11T14:30:00.000Z",
+      "broadcast": "R/2026-04-11T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "danime",
+      "id": "28881",
+      "begin": "2026-04-11T14:30:00.000Z",
+      "broadcast": "R/2026-04-11T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "netflix",
+      "id": "82757009",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "crunchyroll",
+      "id": "GT00371896",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "ani_one",
+      "id": "PLC18xlbCdwtQPT_yZ0va94-eCxOx8t1U2",
+      "begin": "2026-04-11T14:30:07.000Z",
+      "broadcast": "R/2026-04-11T14:30:07.000Z/P7D"
+    },
+    {
+      "site": "gamer",
+      "id": "147007",
+      "begin": "2026-04-11T14:30:00.000Z",
+      "broadcast": "R/2026-04-11T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "147007",
+      "begin": "2026-04-11T14:30:00.000Z",
+      "broadcast": "R/2026-04-11T14:30:00.000Z/P7D"
+    },
+    {
+      "site": "abema",
+      "id": "675-10",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3925"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "69db11b14b29be5e9e214f40"
+    }
+  ]
+}

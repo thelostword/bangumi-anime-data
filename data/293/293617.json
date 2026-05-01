@@ -1,0 +1,110 @@
+{
+  "id": 293617,
+  "name": "デュエル・マスターズ ゼロ",
+  "name_cn": "决斗大师Zero",
+  "summary": "「切札 勝舞(きりふだ しょうぶ)」は、様々な大会で優勝を筛り、その名を知らぬものは無い熱血デュエリストだ。勝舞は、仲間の「角古 れく太(かどこ れくた)」、「黄昏 ミミ(たそがれ みみ)」、「ジョージ」とともに謎の大会へと招待される。大会では、参加者が互いに「デュエル魂(だま)」という玉を奪い合う、壮絶なデュエルが待ち構えていた。最強のライバル・白凰(はくおう)や、様々なデュエリストとの激闘を経て、勝舞はついこ「日本一のデュエリス卜を決める大会」への参加者に選ばれる。一体どんな強敵が待ち受けているのか！？",
+  "date": "2007-10-06",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/fc/e1/293617_7uH79.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/fc/e1/293617_7uH79.jpg"
+  },
+  "eps": 25,
+  "rating": {
+    "rank": 0,
+    "total": 2,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 2,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5
+  },
+  "tags": [
+    {
+      "name": "小学館ミュージック&デジタルエンタテイメント",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "藤田伸三",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "鈴木輪流郎",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2007",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "矢尾一樹",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "鈴木千尋",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2008",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "子供向",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "野島健児",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "293617"
+    },
+    {
+      "site": "danime",
+      "id": "28905",
+      "begin": "2026-04-23T15:00:00.000Z",
+      "broadcast": "R/2026-04-23T15:00:00.000Z/P7D"
+    }
+  ]
+}

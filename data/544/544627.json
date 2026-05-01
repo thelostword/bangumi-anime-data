@@ -1,0 +1,195 @@
+{
+  "id": 544627,
+  "name": "ガールズ＆パンツァー もっとらぶらぶ作戦です！ 第3幕",
+  "name_cn": "少女与战车 lovelove大作战！ 第3幕",
+  "summary": "もっともりもり繋ごう！　わちゃわちゃの輪！\r\n\r\n激しい試合が続く戦車道の傍らで――。\r\n季節を問わず、わちゃわちゃな日常を\r\n楽しんでいる女子高生たち！\r\n\r\n犬猿の仲も裏を返せば気が合うアノ子とアノ子…？\r\n大好物を失って、普段の冷静さも失う某生徒会長。\r\nそして、森に潜むあの隊長の本心とは？\r\n\r\n様々な「！」と「？」が笑いと共に溢れ出す、\r\n『らぶらぶ作戦』第3幕がついに開幕。\r\n衝撃のユニットの誕生をお見逃しなく！",
+  "date": "2026-03-06",
+  "platform": "剧场版",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/7d/11/544627_mA4NF.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/7d/11/544627_mA4NF.jpg"
+  },
+  "eps": 3,
+  "rating": {
+    "rank": 2942,
+    "total": 57,
+    "count": {
+      "1": 0,
+      "2": 1,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 18,
+      "7": 26,
+      "8": 10,
+      "9": 0,
+      "10": 1
+    },
+    "score": 6.8
+  },
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 36,
+      "total_cont": 0
+    },
+    {
+      "name": "P.A.WORKS",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 26,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "Actas",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "下田正美",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年3月",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "少战",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "木村畅",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "少女与战车",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "浜口史郎",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "木村暢",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "岛田文金",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "番外",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "轻百合",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未上映",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "アクタス",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "欢乐",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "杉本功",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "萌豚饲料",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "544627"
+    },
+    {
+      "site": "unext",
+      "id": "SID0261889",
+      "begin": "2026-04-09T15:00:00.000Z",
+      "broadcast": "R/2026-04-09T15:00:00.000Z/P7D"
+    }
+  ]
+}

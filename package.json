@@ -22,7 +22,7 @@
     "typescript": "^5.5.4"
   },
   "dependencies": {
-    "bangumi-data": "^0.3.200",
+    "bangumi-data": "^0.3.208",
     "cheerio": "^1.2.0",
     "date-fns": "^3.6.0",
     "ramda": "^0.30.1"

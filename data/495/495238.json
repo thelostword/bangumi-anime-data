@@ -1,0 +1,255 @@
+{
+  "id": 495238,
+  "name": "ダイヤのA actⅡ Second Season",
+  "name_cn": "钻石王牌 act2 第二季",
+  "summary": "全国高等学校野球選手権東京大会に参加する各校の選手の闘志みなぎる表情から始まります。稲城実業高等学校、市大三高、薬師高校といったライバルたちが登場し、彼らに挑む青道高校は沢村栄純がエースナンバーを背負う初めての大会が描き出されます。御幸ら3年生がいる現チームの最後の夏となる本大会、全国制覇を目指す青道高校の夏が始まります。",
+  "date": "2026-04-05",
+  "platform": "TV",
+  "images": {
+    "large": "//lain.bgm.tv/pic/cover/l/92/43/495238_GmaEm.jpg",
+    "common": "//lain.bgm.tv/r/400/pic/cover/l/92/43/495238_GmaEm.jpg"
+  },
+  "eps": 0,
+  "rating": {
+    "rank": 0,
+    "total": 39,
+    "count": {
+      "1": 1,
+      "2": 1,
+      "3": 1,
+      "4": 0,
+      "5": 2,
+      "6": 6,
+      "7": 14,
+      "8": 6,
+      "9": 2,
+      "10": 6
+    },
+    "score": 7.1
+  },
+  "tags": [
+    {
+      "name": "运动",
+      "count": 30,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年4月",
+      "count": 24,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "棒球",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "OLM",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "MADHouse",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "励志",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "少年向",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "钻石王牌",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "竞技",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "大庭秀昭",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "櫻井孝宏",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "王道",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "20年代",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "寺嶋裕二",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "逢坂良太",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "野球",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "花江夏樹",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "ppt",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "体育",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "locked": false,
+  "sites": [
+    {
+      "site": "bangumi",
+      "id": "495238"
+    },
+    {
+      "site": "mal",
+      "id": "58877"
+    },
+    {
+      "site": "aniList",
+      "id": "177634"
+    },
+    {
+      "site": "anidb",
+      "id": "18638"
+    },
+    {
+      "site": "gamer",
+      "id": "139432",
+      "begin": "2026-04-05T09:00:00.000Z",
+      "broadcast": "R/2026-04-05T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "gamer_hk",
+      "id": "139432",
+      "begin": "2026-04-05T09:00:00.000Z",
+      "broadcast": "R/2026-04-05T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "nicovideo",
+      "id": "diaace_2s",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "unext",
+      "id": "SID0282793",
+      "begin": "2026-04-10T09:00:00.000Z",
+      "broadcast": "R/2026-04-10T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "muse_hk",
+      "id": "PLuxqoToY7UchZ2QzsPQN831Kzq4Ck5mup",
+      "begin": "2026-04-05T09:00:06.000Z",
+      "broadcast": "R/2026-04-05T09:00:06.000Z/P7D"
+    },
+    {
+      "site": "muse_tw",
+      "id": "PL12UaAf_xzfrEG6SwZldtQ0ji-61uhuOx",
+      "begin": "",
+      "broadcast": ""
+    },
+    {
+      "site": "mikan",
+      "id": "3911"
+    },
+    {
+      "site": "tmdb",
+      "id": "tv/60761/season/4"
+    },
+    {
+      "site": "danime",
+      "id": "28793",
+      "begin": "2026-04-10T09:00:00.000Z",
+      "broadcast": "R/2026-04-10T09:00:00.000Z/P7D"
+    },
+    {
+      "site": "bangumi_moe",
+      "id": "69db11a04b29be5e9e214ed6"
+    }
+  ]
+}
